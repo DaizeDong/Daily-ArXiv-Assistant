@@ -27,12 +27,28 @@ def _chat(model: str, messages: list[dict], temperature: float = 0.1) -> str:
     prompt = "\n\n---\n\n".join(
         str(message.get("content", "")) for message in messages if message.get("content")
     )
-    return llm_gateway.call(prompt, timeout_s=180).text
+    # This is the budget for the WHOLE chain, not for one provider: llmcall hands
+    # each attempt whatever is left and skips a provider that would get less than
+    # it can use. At 180s that was self-defeating. This repo measured its own
+    # answers at a median of 134s and a p95 of 428s, so the first provider could
+    # spend the entire budget and the next leg would be told it had 18 seconds --
+    # the error that filled the logs while the published site went stale. A budget
+    # has to fit one slow answer AND a fallback, or the fallback is decorative.
+    return llm_gateway.call(prompt, timeout_s=CHAIN_BUDGET_S).text
 
 
 # ---------------------------------------------------------------------------
 # Translation
 # ---------------------------------------------------------------------------
+
+#: Budget handed to llmcall for one model call. It covers the whole provider
+#: chain, not each provider in it. See _chat() for why 180 was too small.
+CHAIN_BUDGET_S = 900
+
+#: Attempts per batch. Each one may cost CHAIN_BUDGET_S, so this bounds the
+#: worst case for a single stubborn batch at half an hour rather than three
+#: quarters of one.
+BATCH_ATTEMPTS = 2
 
 SYSTEM_PROMPT = """\
 You are a professional translator. Translate the following JSON array of English text strings into Chinese.
@@ -74,7 +90,10 @@ def batch_translate(texts: list[str], model: str, batch_size: int = 40) -> list[
         batch_texts = [t for _, t in batch]
         user_msg = json.dumps(batch_texts, ensure_ascii=False)
 
-        for attempt in range(3):
+        # Two attempts, not three. Each one may now run for CHAIN_BUDGET_S, and a
+        # batch the four-provider chain could not answer twice will not answer on
+        # a third try -- it will only cost another quarter of an hour.
+        for attempt in range(BATCH_ATTEMPTS):
             try:
                 raw = _chat(model, [
                     {"role": "system", "content": SYSTEM_PROMPT},
@@ -93,7 +112,7 @@ def batch_translate(texts: list[str], model: str, batch_size: int = 40) -> list[
                 break
             except Exception as e:
                 print(f"  Batch {start//batch_size + 1} attempt {attempt+1} failed: {e}")
-                if attempt < 2:
+                if attempt < BATCH_ATTEMPTS - 1:
                     time.sleep(2)
                 else:
                     # Fallback: keep originals

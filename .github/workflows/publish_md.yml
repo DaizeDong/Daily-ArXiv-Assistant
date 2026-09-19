@@ -28,7 +28,10 @@ on:
       - "arxiv_assistant/**"
 
 permissions:
-  contents: read
+  # write, not read: the translation step now persists what it produced back
+  # to auto_update. Without that the work is thrown away with the runner
+  # workspace and every build re-translates the whole archive from scratch.
+  contents: write
   pages: write
   id-token: write
 
@@ -114,9 +117,54 @@ jobs:
           python -X utf8 scripts/translate_hotspot_web_data.py
 
       - name: Validate _zh translation assets
+        id: validate_zh
         shell: bash
         run: |
           python scripts/validate_zh_assets.py
+
+      - name: Persist translations back to auto_update
+        # Translation is the most expensive step in this workflow and it used to
+        # be the most wasteful: `Restore published data snapshot` copies a clean
+        # out/ from auto_update on every run, the translator adds _zh fields in
+        # place, the site is built from them, and the runner workspace is then
+        # discarded. Nothing wrote them back, so auto_update carried _zh only up
+        # to 2026-04-04 -- a one-off backfill -- and every later build retranslated
+        # about 160 days to produce a result it would throw away. That was merely
+        # expensive at 24s per day; once the provider chain slowed down it became
+        # an outage, because six hours only bought eighteen days and the next run
+        # started again from the same date.
+        #
+        # Runs after validation on purpose: a translation the validator rejects
+        # should not reach the branch that every later build is seeded from.
+        if: always() && steps.validate_zh.outcome == 'success'
+        shell: bash
+        run: |
+          set -euo pipefail
+          cp -R out/web_data/hot/. auto_update_data/out/web_data/hot/
+          cd auto_update_data
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -f out/web_data/hot/
+          if git diff --cached --quiet; then
+            echo "No new translations to persist."
+            exit 0
+          fi
+          # [skip ci] matters: this branch is an input to this very workflow.
+          git commit -m "[skip ci] Persist hotspot translations: $(date -u +"%Y-%m-%d %H:%M:%S")"
+          # The daily pipeline pushes to this branch too, so losing a race here is
+          # ordinary rather than exceptional. Rebase and retry instead of failing
+          # the publish, and never force: the other writer's output is not ours
+          # to discard.
+          for attempt in 1 2 3; do
+            if git pull --rebase origin auto_update && git push origin HEAD:auto_update; then
+              echo "Translations persisted on attempt $attempt."
+              exit 0
+            fi
+            echo "Push attempt $attempt lost a race; retrying."
+            sleep 5
+          done
+          echo "Could not persist translations after 3 attempts."
+          exit 1
 
       - name: Build multipage site
         shell: bash
