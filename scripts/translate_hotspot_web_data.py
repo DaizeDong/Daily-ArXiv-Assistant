@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import argparse
+import concurrent.futures
 import json
 import os
 import re
@@ -45,6 +46,22 @@ def _chat(model: str, messages: list[dict], temperature: float = 0.1) -> str:
 #: chain, not each provider in it. See _chat() for why 180 was too small.
 CHAIN_BUDGET_S = 900
 
+#: Minutes this script may spend before it stops starting new days. The job
+#: around it is killed at 360 minutes, and a killed job skips every step
+#: after this one -- including the step that pushes what was translated. Two
+#: consecutive runs were cancelled that way, each having translated about
+#: twenty days and saved none of them. Finishing early with a partial result
+#: that is kept beats finishing late with a complete one that is discarded.
+DEADLINE_MINUTES = int(os.environ.get("TRANSLATE_DEADLINE_MINUTES", "270"))
+
+#: Batches sent at once. The batches of one day are disjoint slices of the
+#: same list, so nothing is shared but the results array each writes its own
+#: indices into. Sequential was costing the whole wall clock: a day is about
+#: six calls and this repository's own measurement puts a call at a median of
+#: 134s, so a day took a quarter of an hour and 160 days of backlog could
+#: never fit in a six hour job.
+BATCH_CONCURRENCY = int(os.environ.get("TRANSLATE_CONCURRENCY", "6"))
+
 #: Attempts per batch. Each one may cost CHAIN_BUDGET_S, so this bounds the
 #: worst case for a single stubborn batch at half an hour rather than three
 #: quarters of one.
@@ -84,42 +101,49 @@ def batch_translate(texts: list[str], model: str, batch_size: int = 40) -> list[
     if not to_translate:
         return results
 
-    # Batch
-    for start in range(0, len(to_translate), batch_size):
-        batch = to_translate[start : start + batch_size]
+    batches = [to_translate[i : i + batch_size]
+               for i in range(0, len(to_translate), batch_size)]
+    total = len(batches)
+
+    def _run(job):
+        number, batch = job
         batch_texts = [t for _, t in batch]
         user_msg = json.dumps(batch_texts, ensure_ascii=False)
 
-        # Two attempts, not three. Each one may now run for CHAIN_BUDGET_S, and a
-        # batch the four-provider chain could not answer twice will not answer on
-        # a third try -- it will only cost another quarter of an hour.
+        # Two attempts, not three. Each one may run for CHAIN_BUDGET_S, and a
+        # batch the four-provider chain could not answer twice will not answer
+        # on a third try -- it will only cost another quarter of an hour.
         for attempt in range(BATCH_ATTEMPTS):
             try:
                 raw = _chat(model, [
                     {"role": "system", "content": SYSTEM_PROMPT},
                     {"role": "user", "content": user_msg},
                 ])
-                # Parse JSON from response
                 raw = raw.strip()
                 if raw.startswith("```"):
                     raw = re.sub(r"^```\w*\n?", "", raw)
                     raw = re.sub(r"\n?```$", "", raw)
                 translated = json.loads(raw)
                 if len(translated) != len(batch_texts):
-                    raise ValueError(f"Expected {len(batch_texts)} translations, got {len(translated)}")
-                for (idx, _), zh in zip(batch, translated):
-                    results[idx] = zh
-                break
-            except Exception as e:
-                print(f"  Batch {start//batch_size + 1} attempt {attempt+1} failed: {e}")
+                    raise ValueError(
+                        f"Expected {len(batch_texts)} translations, got {len(translated)}")
+                return number, [(idx, zh) for (idx, _), zh in zip(batch, translated)], True
+            except Exception as e:  # noqa: BLE001 - any failure falls back below
+                print(f"  Batch {number} attempt {attempt + 1} failed: {e}")
                 if attempt < BATCH_ATTEMPTS - 1:
                     time.sleep(2)
-                else:
-                    # Fallback: keep originals
-                    for idx, orig in batch:
-                        results[idx] = orig
+        # Keeping the original text is the only honest fallback: a placeholder
+        # would read as a translation, and an empty string would delete content.
+        return number, [(idx, orig) for idx, orig in batch], False
 
-        print(f"  Translated batch {start//batch_size + 1}/{(len(to_translate) + batch_size - 1) // batch_size} ({len(batch)} items)")
+    jobs = list(enumerate(batches, start=1))
+    workers = max(1, min(BATCH_CONCURRENCY, total))
+    with concurrent.futures.ThreadPoolExecutor(max_workers=workers) as pool:
+        for number, pairs, ok in pool.map(_run, jobs):
+            for idx, value in pairs:
+                results[idx] = value
+            state = "" if ok else " (untranslated, kept original)"
+            print(f"  Translated batch {number}/{total} ({len(pairs)} items){state}")
 
     return results
 
@@ -272,11 +296,24 @@ def main():
     else:
         targets = sorted(out_dir.glob("202*.json"))
 
-    for path in targets:
+    deadline = time.monotonic() + DEADLINE_MINUTES * 60
+    done = 0
+    for position, path in enumerate(targets):
         if not path.exists():
             print(f"Skipping {path} (not found)")
             continue
+        if time.monotonic() >= deadline:
+            # Checked between days, never inside one: a half-translated day
+            # written back would look translated to the next run, which skips on
+            # exactly that signal, and the untranslated half would never be
+            # revisited.
+            remaining = len(targets) - position
+            print(f"Stopping after {DEADLINE_MINUTES} minutes with {remaining} "
+                  f"day(s) left. Translated {done} day(s) this run; they are "
+                  f"persisted, and the next run resumes from {path.stem}.")
+            break
         translate_file(path, args.model)
+        done += 1
 
     # Copy to web/public
     import shutil
