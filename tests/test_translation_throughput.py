@@ -96,14 +96,13 @@ class ConcurrencyTests(unittest.TestCase):
 
         self.assertEqual(out, [None, None])
 
-    def test_an_echoed_field_is_actually_sent_again(self):
-        # The two "already translated" tests have to agree. _has_zh_fields picks
-        # a day BECAUSE a _zh merely repeats its source; if the field collector
-        # then skips that field BECAUSE a _zh is present, the day is rewritten
-        # unchanged and reselected on every future run, translating nothing. It
-        # never fails, never logs anything odd, and never finishes. Measured on
-        # 2026-09-20: 27 days rewritten, zero new _zh fields in the ones that
-        # had been echoed.
+    def test_an_answer_that_equals_its_source_is_not_sent_again(self):
+        # A _zh equal to its source is usually the CORRECT answer: the source is
+        # already Chinese, or it is a repository slug or product name the prompt
+        # tells the model to leave alone. Measured on 2026-09-20, all 702 fields
+        # a stricter rule called untranslated were of those two kinds, and no
+        # field anywhere was missing its key. Re-sending them cannot change the
+        # answer; it just spends the model on the same strings every run.
         sent = []
 
         def recording(model, messages):
@@ -113,34 +112,62 @@ class ConcurrencyTests(unittest.TestCase):
             return _json.dumps(["译" for _ in payload], ensure_ascii=False)
 
         data = {"featured_topics": [{
-            "headline": "A model ships",
-            "headline_zh": "A model ships",          # echoed: not a translation
+            "headline": "larksuite/cli",
+            "headline_zh": "larksuite/cli",   # a repo slug: unchanged is correct
             "summary": "Real summary",
-            "summary_zh": "真实摘要",                 # genuinely translated
+            "summary_zh": "真实摘要",
+            "why_it_matters": "Needs work",   # no _zh at all: this one is pending
         }]}
 
         with mock.patch.object(tr, "_chat", recording):
             out = tr.collect_and_translate(data, model="x")
 
-        self.assertIn("A model ships", sent,
-                      "the echoed field was skipped, so the day can never heal")
-        self.assertNotIn("Real summary", sent,
-                         "a field that was genuinely translated was paid for twice")
-        self.assertEqual(out["featured_topics"][0]["headline_zh"], "译")
-        self.assertEqual(out["featured_topics"][0]["summary_zh"], "真实摘要")
+        self.assertEqual(
+            sent, ["Needs work"],
+            "only the field with no answer should be sent; got %r" % (sent,),
+        )
+        self.assertEqual(out["featured_topics"][0]["headline_zh"], "larksuite/cli")
+        self.assertEqual(out["featured_topics"][0]["why_it_matters_zh"], "译")
 
-    def test_a_day_whose_zh_only_repeats_the_english_is_retried(self):
-        # Days frozen by the earlier fallback have to heal by themselves; there
-        # are months of them and nobody is going to find them by hand.
-        frozen = {"featured_topics": [
-            {"headline": "A model ships", "headline_zh": "A model ships"},
+    def test_a_missing_key_is_what_marks_a_day_as_pending(self):
+        # Absent means the batch failed and recorded nothing, which is the only
+        # state worth retrying. Present means the model answered, whatever it
+        # answered.
+        answered = {"featured_topics": [
+            {"headline": "larksuite/cli", "headline_zh": "larksuite/cli"},
         ]}
-        real = {"featured_topics": [
-            {"headline": "A model ships", "headline_zh": "一个模型发布"},
+        pending = {"featured_topics": [
+            {"headline": "A model ships"},
         ]}
-        self.assertFalse(tr._has_zh_fields(frozen),
-                         "a _zh that repeats its source counted as translated")
-        self.assertTrue(tr._has_zh_fields(real))
+        self.assertTrue(tr._has_zh_fields(answered),
+                        "a correct unchanged answer was treated as pending, "
+                        "which never converges")
+        self.assertFalse(tr._has_zh_fields(pending))
+
+    def test_a_real_translation_replaces_one_that_only_echoes(self):
+        # The merge used to write only absent keys, so a genuine translation
+        # arriving for a field poisoned by the old fallback had nowhere to land.
+        # Four were dropped that way on 2026-09-20 and the run reported nothing
+        # to persist.
+        import scripts.rebuild_hotspot_web_data as rb
+
+        data = {"featured_topics": [{
+            "headline": "A model ships",
+            "headline_zh": "A model ships",   # echo left by the old fallback
+            "summary": "Some summary",
+            "summary_zh": "已有译文",
+        }], "category_sections": [], "long_tail_sections": [], "watchlist": []}
+
+        rb._merge_zh(data, {"A model ships": {
+            "headline_zh": "一个模型发布",
+            "summary_zh": "另一个译文",
+        }})
+
+        topic = data["featured_topics"][0]
+        self.assertEqual(topic["headline_zh"], "一个模型发布",
+                         "a real translation could not replace an echo")
+        self.assertEqual(topic["summary_zh"], "已有译文",
+                         "an existing real translation was overwritten")
 
     def test_chinese_text_is_never_sent_to_the_model(self):
         sent = []

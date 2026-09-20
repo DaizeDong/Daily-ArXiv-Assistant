@@ -66,7 +66,15 @@ def _merge_zh(data: dict, zh_map: dict[str, dict[str, str]]) -> int:
         headline = topic.get("headline", "").strip()
         if headline and headline in zh_map:
             for k, v in zh_map[headline].items():
-                if k not in topic:
+                existing = topic.get(k)
+                # Absent, or present but only repeating its own source. The
+                # second case is why this is not a plain "if k not in topic":
+                # an earlier failure fallback wrote the English into _zh, and
+                # with that key present a genuine translation arriving later had
+                # nowhere to land. Measured on 2026-09-20: four fields a run had
+                # really translated were dropped here, silently, and the run
+                # reported nothing to persist.
+                if existing is None or existing == topic.get(k[:-3]):
                     topic[k] = v
             restored += 1
 

@@ -189,8 +189,8 @@ def collect_and_translate(data: dict, model: str) -> dict:
         zh_key = f"{field}_zh"
         val = obj.get(field, "")
         existing = obj.get(zh_key)
-        if existing and existing != val:
-            return  # already translated
+        if existing:
+            return  # already answered; see _has_zh_fields for why presence is enough
         if isinstance(val, str):
             idx = len(all_texts)
             all_texts.append(val)
@@ -202,8 +202,8 @@ def collect_and_translate(data: dict, model: str) -> dict:
         zh_key = f"{field}_zh"
         val = obj.get(field, [])
         existing = obj.get(zh_key)
-        if existing and existing != val:
-            return  # already translated
+        if existing:
+            return  # already answered; see _has_zh_fields for why presence is enough
         if isinstance(val, list):
             for item in val:
                 if isinstance(item, str):
@@ -295,22 +295,28 @@ def collect_and_translate(data: dict, model: str) -> dict:
 # ---------------------------------------------------------------------------
 
 def _has_zh_fields(data: dict) -> bool:
-    """Has this payload really been translated?
+    """Has this payload been translated?
 
-    Presence of the field is not enough. An earlier fallback wrote the English
-    source into _zh when a batch failed, which reads as "translated" and made
-    the day permanently ineligible for another attempt. Treating a _zh that
-    merely repeats its source as untranslated lets those days heal by
-    themselves on the next run.
+    Presence of the field, deliberately -- not "present and different from the
+    source". A _zh equal to its source is usually the CORRECT answer here: the
+    source is already Chinese, or it is a repository slug or product name the
+    prompt tells the model to leave alone. Measured on 2026-09-20, all 702
+    fields that a stricter rule called untranslated were of exactly those two
+    kinds, and not one field anywhere was missing its key. A rule that counts
+    them as pending can never reach zero; it just re-sends them to the model
+    every run, forever.
+
+    The stricter rule existed for a day to heal days poisoned by an earlier
+    failure fallback, which wrote the English source into _zh. That fallback now
+    records nothing at all, so an absent key means "not translated" and a
+    present one means "answered" -- which is what makes presence sound again.
+    The poisoned days were re-sent once under the strict rule before it was
+    withdrawn.
     """
     topics = data.get("featured_topics", [])
     if not topics:
         return False
-    for topic in topics:
-        zh = topic.get("headline_zh")
-        if zh is None or zh == topic.get("headline"):
-            return False
-    return True
+    return all("headline_zh" in topic for topic in topics)
 
 
 def translate_file(json_path: Path, model: str) -> bool:
