@@ -40,6 +40,25 @@ def _load(path: Path) -> dict | None:
         return None
 
 
+def _layout(text: str) -> tuple[int | None, str]:
+    """How the file on disk is laid out: (indent, trailing newline).
+
+    The translator writes its working copies on one line, but the published
+    branch keeps these pretty-printed, and that branch is the archive people
+    read and diff. Re-serialising a 3758-line file onto one line changes no
+    data and destroys every future diff of it, so the target's own layout is
+    what gets written back, not this script's preference.
+    """
+    tail = "\n" if text.endswith("\n") else ""
+    for line in text.splitlines()[1:]:
+        stripped = line.lstrip(" ")
+        if stripped and stripped != line:
+            return len(line) - len(stripped), tail
+        if line.startswith("\t"):
+            return 1, tail
+    return None, tail
+
+
 def persist(source_dir: Path, target_dir: Path) -> tuple[int, int]:
     """Merge _zh from every source day into the matching target day.
 
@@ -62,7 +81,11 @@ def persist(source_dir: Path, target_dir: Path) -> tuple[int, int]:
         if not zh_map:
             continue
 
-        target_data = _load(target_path)
+        try:
+            target_text = target_path.read_text(encoding="utf-8")
+            target_data = json.loads(target_text)
+        except (OSError, ValueError):
+            continue
         if not isinstance(target_data, dict):
             continue
 
@@ -74,10 +97,12 @@ def persist(source_dir: Path, target_dir: Path) -> tuple[int, int]:
             # commit whose diff is empty of meaning but not of noise.
             continue
 
-        target_path.write_text(
-            json.dumps(target_data, ensure_ascii=False, indent=None),
-            encoding="utf-8",
-        )
+        indent, tail = _layout(target_text)
+        # newline="\n" rather than write_text: on Windows the default translates
+        # every \n to \r\n, so a file identical in content would still come back
+        # as changed in the working tree and be re-staged on every run.
+        with target_path.open("w", encoding="utf-8", newline="\n") as handle:
+            handle.write(json.dumps(target_data, ensure_ascii=False, indent=indent) + tail)
         files_changed += 1
         topics_total += merged
 

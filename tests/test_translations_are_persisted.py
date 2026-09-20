@@ -98,6 +98,26 @@ class WorkflowInvariantTests(unittest.TestCase):
             "so it would revert whatever the daily pipeline wrote meanwhile",
         )
 
+    def test_the_persist_step_does_not_set_a_repo_local_identity(self):
+        # The runner routes commit identity by remote URL, through an includeIf
+        # in the machine's ~/.gitconfig. includeIf is applied after the plain
+        # global settings so it overrides them, and the commit ends up
+        # attributed to the account that owns the repository -- which is what
+        # the machine's identity assertion requires. Repo-local config outranks
+        # includeIf, so setting it here wins, produces a github-actions[bot]
+        # author, and the assertion blocks the commit. That cost a run four and
+        # a half hours into its work on 2026-09-20.
+        step = _persist_step(self.workflow)
+        for line in step.splitlines():
+            stripped = line.strip()
+            if stripped.startswith("git config ") and "user." in stripped:
+                self.assertIn(
+                    "--global", stripped,
+                    "repo-local identity outranks the machine's includeIf "
+                    "routing, so this commit will be attributed to the wrong "
+                    "account and blocked: %s" % stripped,
+                )
+
     def test_the_chain_budget_fits_a_measured_answer(self):
         budget = re.search(r"(?m)^CHAIN_BUDGET_S\s*=\s*(\d+)", self.script)
         self.assertIsNotNone(budget, "the budget is not a named, greppable value")
@@ -187,6 +207,53 @@ class PersistMergeTests(unittest.TestCase):
         proc, _ = self._run(source, target)
         self.assertEqual(proc.returncode, 0, proc.stderr)
         self.assertIn("across 0 day(s)", proc.stdout)
+
+    def test_the_targets_own_layout_survives(self):
+        # The translator keeps its working copies on one line; the published
+        # branch keeps these pretty-printed, and that branch is the archive
+        # people read and diff. Reserialising a 3758-line file onto one line
+        # changes no data and destroys every future diff of it -- the first
+        # attempt at this produced 199748 deletions for 65 real additions.
+        import json as _json
+        import subprocess as _sub
+        import sys as _sys
+        import tempfile as _tmp
+
+        pretty = _json.dumps(_day([
+            {"headline": "A model ships", "summary": "text"},
+        ]), ensure_ascii=False, indent=2) + "\n"
+
+        with _tmp.TemporaryDirectory() as tmp:
+            src_dir, tgt_dir = Path(tmp) / "src", Path(tmp) / "tgt"
+            src_dir.mkdir()
+            tgt_dir.mkdir()
+            (src_dir / "2026-05-01.json").write_text(_json.dumps(_day([
+                {"headline": "A model ships", "headline_zh": "一个模型发布"},
+            ]), ensure_ascii=False), encoding="utf-8")
+            (tgt_dir / "2026-05-01.json").write_text(pretty, encoding="utf-8")
+
+            _sub.run([_sys.executable, str(PERSIST), "--source", str(src_dir),
+                      "--target", str(tgt_dir)], capture_output=True, text=True,
+                     cwd=str(REPO_ROOT), check=True)
+
+            # Bytes, not text. read_text() applies universal newlines and turns
+            # \r\n into \n as it reads, so a CRLF assertion written against the
+            # decoded string can never fail -- checked by poisoning the writer
+            # and watching this test stay green.
+            raw = (tgt_dir / "2026-05-01.json").read_bytes()
+
+        written = raw.decode("utf-8")
+        self.assertGreater(
+            len(written.splitlines()), 1,
+            "a pretty-printed target was collapsed onto one line",
+        )
+        self.assertIn('\n  "featured_topics"', written,
+                      "the target's indent was not preserved")
+        self.assertTrue(written.endswith("\n"),
+                        "the trailing newline was dropped")
+        self.assertNotIn(b"\r\n", raw,
+                         "CRLF was written, so the file reads as changed on "
+                         "every run even when its content is not")
 
     def test_a_missing_directory_is_an_error_not_an_empty_run(self):
         # Persisting nothing quietly is exactly how the work came to be redone

@@ -155,8 +155,19 @@ jobs:
               --source out/web_data/hot \
               --target auto_update_data/out/web_data/hot
             cd auto_update_data
-            git config user.name "github-actions[bot]"
-            git config user.email "github-actions[bot]@users.noreply.github.com"
+            # --global, not repo-local, and the difference is load-bearing.
+            # This machine routes commit identity by remote URL:
+            #   includeIf "hasconfig:remote.*.url:https://github.com/DaizeDong/**"
+            # An includeIf in ~/.gitconfig is applied after the plain global
+            # settings, so it overrides them and the commit is attributed to the
+            # account that owns this repository, which is what the machine's
+            # identity assertion demands. Repo-local config outranks includeIf,
+            # so setting it here won, produced a github-actions[bot] author, and
+            # the assertion blocked the commit -- after four and a half hours of
+            # translating. push_results.yaml has used --global all along; this
+            # step was the one that deviated.
+            git config --global user.name "github-actions[bot]"
+            git config --global user.email "github-actions[bot]@users.noreply.github.com"
             git add -f out/web_data/hot/
             if git diff --cached --quiet; then
               echo "Nothing new to persist."
