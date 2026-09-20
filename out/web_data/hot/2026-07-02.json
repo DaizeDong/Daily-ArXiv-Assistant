@@ -2012,7 +2012,14 @@
           "published_at": "Wed, 01 Jul 2026 17:53:16 +0000"
         }
       ],
-      "route": "/hot/2026-07-02/topic/how-inscribe-uses-amazon-bedrock-to-stop-document-fraud-in-seconds/"
+      "route": "/hot/2026-07-02/topic/how-inscribe-uses-amazon-bedrock-to-stop-document-fraud-in-seconds/",
+      "headline_zh": "Inscribe 如何利用 Amazon Bedrock 在数秒内阻止文档欺诈",
+      "summary_short_zh": "本文介绍 Inscribe 如何利用 Amazon Bedrock 开发智能体 AI 系统，使其像反欺诈专家一样结合多份文档进行推理。借助这一全新的智能体 AI 系统，Inscribe 现在能在不到 90 秒内识别被篡改、伪造或由 AI 生成的财务文档。",
+      "why_it_matters_zh": "有 1 个独立来源提及此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "本文介绍 Inscribe 如何利用 Amazon Bedrock 开发智能体 AI 系统，使其像反欺诈专家一样结合多份文档进行推理。借助这一全新的智能体 AI 系统，Inscribe..."
+      ]
     },
     {
       "topic_id": "307978f4a7a0",
@@ -2052,7 +2059,14 @@
           "published_at": "Wed, 01 Jul 2026 18:03:10 +0000"
         }
       ],
-      "route": "/hot/2026-07-02/topic/structured-memory-filtering-with-metadata-in-agentcore-memory/"
+      "route": "/hot/2026-07-02/topic/structured-memory-filtering-with-metadata-in-agentcore-memory/",
+      "headline_zh": "在 AgentCore Memory 中利用元数据进行结构化记忆筛选",
+      "summary_short_zh": "本文介绍元数据在配置、数据摄取和检索中的工作方式，探讨包括多智能体和多租户架构在内的企业应用场景，并分享实施最佳实践。",
+      "why_it_matters_zh": "有 1 个独立来源提及此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "本文介绍元数据在配置、数据摄取和检索中的工作方式，探讨包括多智能体和多租户架构在内的企业应用场景，并分享最佳..."
+      ]
     },
     {
       "topic_id": "a9d506da804d",
@@ -2092,7 +2106,14 @@
           "published_at": "Wed, 01 Jul 2026 18:15:00 +0000"
         }
       ],
-      "route": "/hot/2026-07-02/topic/the-latest-ai-news-we-announced-in-june-2026/"
+      "route": "/hot/2026-07-02/topic/the-latest-ai-news-we-announced-in-june-2026/",
+      "headline_zh": "我们于 2026 年 6 月公布的最新 AI 动态",
+      "summary_short_zh": "6 月 Pixel Drop 主视觉图",
+      "why_it_matters_zh": "有 1 个独立来源提及此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "6 月 Pixel Drop 主视觉图"
+      ]
     },
     {
       "topic_id": "19aebec498f0",
@@ -2130,7 +2151,11 @@
           "published_at": "2026-07-02T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-07-02/topic/locallaws-locus-v1-huggingface/"
+      "route": "/hot/2026-07-02/topic/locallaws-locus-v1-huggingface/",
+      "headline_zh": "LocalLaws / LOCUS-v1 (HuggingFace)",
+      "summary_short_zh": "LocalLaws / LOCUS-v1 (HuggingFace",
+      "why_it_matters_zh": "有 1 个独立来源提及此次产品发布。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "8c1ee3214db2",
@@ -2177,7 +2202,15 @@
           "published_at": "2026-06-28T19:45:35Z"
         }
       ],
-      "route": "/hot/2026-07-02/topic/naberbabammm34343-llm-task-orchestrator/"
+      "route": "/hot/2026-07-02/topic/naberbabammm34343-llm-task-orchestrator/",
+      "headline_zh": "naberbabammm34343/llm-task-orchestrator",
+      "summary_short_zh": "2026 年顶尖 AI 路由工具：Codex 负责快速编码，Claude 负责复杂重构",
+      "why_it_matters_zh": "有 1 个独立来源提及此工具。",
+      "category_zh": "工具",
+      "key_takeaways_zh": [
+        "2026 年顶尖 AI 路由工具：Codex 负责快速编码，Claude 负责复杂重构",
+        "2026 年 Claude Code 智能体工作流指南：Skills 与 Teams 对比及成本分析"
+      ]
     }
   ],
   "category_sections": [
@@ -2221,7 +2254,11 @@
               "published_at": "Wed, 01 Jul 2026 18:14:34 +0000"
             }
           ],
-          "route": "/hot/2026-07-02/topic/run-nvidia-nemotron-and-openai-gpt-oss-models-on-amazon-bedrock-in-aws-govcloud-us/"
+          "route": "/hot/2026-07-02/topic/run-nvidia-nemotron-and-openai-gpt-oss-models-on-amazon-bedrock-in-aws-govcloud-us/",
+          "headline_zh": "在 AWS GovCloud (US) 的 Amazon Bedrock 上运行 NVIDIA Nemotron 和 OpenAI GPT OSS 模型",
+          "summary_short_zh": "我们很高兴为 AWS GovCloud (US) 引入来自美国的前沿开放权重模型。随着此次发布，Amazon Bedrock 现已支持 OpenAI 的开放权重 GPT OSS 模型（120B 和 20B），以及 NVIDIA Nemotron 模型（Nano 9B v2、Nano 12B v2、Nano 30B、Super 120B）。",
+          "why_it_matters_zh": "有 1 个独立来源提及此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "f724f4a66e66",
@@ -2265,7 +2302,11 @@
               "published_at": "2026-07-01T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-07-02/topic/grok-on-databricks/"
+          "route": "/hot/2026-07-02/topic/grok-on-databricks/",
+          "headline_zh": "Databricks 上的 Grok",
+          "summary_short_zh": "无需编写任何代码，不到 2 分钟即可创建个性化语音智能体",
+          "why_it_matters_zh": "有 1 个独立来源提及此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "46b6575054de",
@@ -2303,7 +2344,11 @@
               "published_at": "Wed, 01 Jul 2026 03:13:19 +0000"
             }
           ],
-          "route": "/hot/2026-07-02/topic/safely-releasing-frontier-models-to-customers/"
+          "route": "/hot/2026-07-02/topic/safely-releasing-frontier-models-to-customers/",
+          "headline_zh": "安全地向客户发布前沿模型",
+          "summary_short_zh": "我们的目标是让 AWS 成为运行任何工作负载最安全的平台。为此，自 AWS 二十多年前成立以来，我们一直大力投入各项服务的安全建设。",
+          "why_it_matters_zh": "有 1 个独立来源提及此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "4ccb4a03cf2f",
@@ -2341,7 +2386,10 @@
               "published_at": "2026-07-01T01:53:03+00:00"
             }
           ],
-          "route": "/hot/2026-07-02/topic/does-your-llm-know-when-it-s-about-to-be-wrong/"
+          "route": "/hot/2026-07-02/topic/does-your-llm-know-when-it-s-about-to-be-wrong/",
+          "headline_zh": "你的大语言模型知道自己*何时会出错*吗？",
+          "why_it_matters_zh": "有 1 个独立来源提及此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "946166613bf3",
@@ -2379,7 +2427,11 @@
               "published_at": "2026-07-01T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-07-02/topic/agent-dashboard-in-grok-build/"
+          "route": "/hot/2026-07-02/topic/agent-dashboard-in-grok-build/",
+          "headline_zh": "Grok Build 中的智能体仪表盘",
+          "summary_short_zh": "同时管理多个编程会话。查看各会话正在做什么，回应需要你介入的会话，并分派新任务。",
+          "why_it_matters_zh": "有 1 个独立来源提及此次产品发布。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2423,7 +2475,11 @@
               "published_at": "Thu, 02 Jul 2026 05:30:00 +0000"
             }
           ],
-          "route": "/hot/2026-07-02/topic/indian-tech-tycoon-bets-30m-of-his-own-money-to-build-ai-alternative-to-microsoft-office/"
+          "route": "/hot/2026-07-02/topic/indian-tech-tycoon-bets-30m-of-his-own-money-to-build-ai-alternative-to-microsoft-office/",
+          "headline_zh": "印度科技大亨自掏 3000 万美元，打造 Microsoft Office 的 AI 替代品",
+          "summary_short_zh": "Neo 是 Bhavin Turakhia 的第五个创业项目，也是他在企业软件领域的最新尝试。这次，他要用 AI 挑战 Microsoft Office 和 Google Apps。",
+          "why_it_matters_zh": "有 1 个独立来源提及此次融资。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "9bc46905f1e8",
@@ -2461,7 +2517,11 @@
               "published_at": "Wed, 01 Jul 2026 00:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-07-02/topic/announcing-our-800m-series-c-to-accelerate-the-shift-to-open-source-ai/"
+          "route": "/hot/2026-07-02/topic/announcing-our-800m-series-c-to-accelerate-the-shift-to-open-source-ai/",
+          "headline_zh": "宣布完成 8 亿美元 C 轮融资，加速向开源 AI 转型",
+          "summary_short_zh": "我们筹集了 8 亿美元，加速向开源 AI 转型。本文将解释闭源模型的经济模式为何难以支撑规模扩张，并介绍我们接下来的开发计划。",
+          "why_it_matters_zh": "有 1 个独立来源提及此次融资。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "dd91bc000800",
@@ -2499,7 +2559,11 @@
               "published_at": "Wed, 01 Jul 2026 14:25:23 +0000"
             }
           ],
-          "route": "/hot/2026-07-02/topic/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/"
+          "route": "/hot/2026-07-02/topic/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
+          "headline_zh": "Venice AI 隐私优先的 AI 平台迅速发展，获 6500 万美元 A 轮融资，跻身独角兽行列",
+          "summary_short_zh": "Venice AI 首席执行官 Erik Voorhees 表示，公司已实现盈利，年化营收超过 7000 万美元。",
+          "why_it_matters_zh": "有 1 个独立来源提及此次融资。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -2543,7 +2607,11 @@
               "published_at": "Wed, 01 Jul 2026 18:01:32 +0000"
             }
           ],
-          "route": "/hot/2026-07-02/topic/hipporag-neurobiologically-inspired-rag-using-amazon-bedrock-amazon-neptune-and-personalized-pagerank/"
+          "route": "/hot/2026-07-02/topic/hipporag-neurobiologically-inspired-rag-using-amazon-bedrock-amazon-neptune-and-personalized-pagerank/",
+          "headline_zh": "HippoRAG：利用 Amazon Bedrock、Amazon Neptune 和个性化 PageRank 实现受神经生物学启发的 RAG",
+          "summary_short_zh": "本文演示如何使用完整的 AWS 技术栈实现 HippoRAG。我们用 Amazon Bedrock 提供大语言模型能力，用 Amazon Neptune 提供图数据库功能，用 Amazon Neptune Analytics 运行个性化 PageRank 等高级图算法，并使用 Amazon Titan Embeddings。",
+          "why_it_matters_zh": "有 1 个独立来源提及此次行业动向。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "77afcba2c442",
@@ -2581,7 +2649,11 @@
               "published_at": "Wed, 01 Jul 2026 16:00:00 +0000"
             }
           ],
-          "route": "/hot/2026-07-02/topic/new-york-city-educators-and-industry-leaders-gathered-at-google-s-offices-to-shape-the-future-of-ai-in-classrooms/"
+          "route": "/hot/2026-07-02/topic/new-york-city-educators-and-industry-leaders-gathered-at-google-s-offices-to-shape-the-future-of-ai-in-classrooms/",
+          "headline_zh": "纽约市的教育工作者与行业领袖齐聚 Google 办公室，共同塑造 AI 课堂应用的未来。",
+          "summary_short_zh": "<img src=\" />Google、New York Jobs CEO Council 和 Urban Assembly 联合举办 AI 峰会，汇聚 150 位教育界和业界领袖",
+          "why_it_matters_zh": "有 1 个独立来源报道了这一行业动态。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "baeaf9e111c4",
@@ -2619,7 +2691,11 @@
               "published_at": "2026-07-02T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-02/topic/enpire-agentic-robot-policy-self-improvement-in-the-real-world-nvidia-research-website/"
+          "route": "/hot/2026-07-02/topic/enpire-agentic-robot-policy-self-improvement-in-the-real-world-nvidia-research-website/",
+          "headline_zh": "ENPIRE：在真实世界中以智能体驱动机器人策略自我改进（NVIDIA 研究网站）",
+          "summary_short_zh": "ENPIRE：在真实世界中以智能体驱动机器人策略自我改进（NVIDIA 研究网站",
+          "why_it_matters_zh": "有 1 个独立来源报道了这一行业动态。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "fbf93a7a6c29",
@@ -2657,7 +2733,11 @@
               "published_at": "Wed, 01 Jul 2026 17:48:37 +0000"
             }
           ],
-          "route": "/hot/2026-07-02/topic/cloudflare-s-new-policy-pushes-ai-companies-to-pay-for-publishers-content/"
+          "route": "/hot/2026-07-02/topic/cloudflare-s-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+          "headline_zh": "Cloudflare 新政策促使 AI 公司为出版商内容付费",
+          "summary_short_zh": "Cloudflare 要求 AI 公司在 9 月 15 日前，将搜索爬虫与用于 AI 训练和智能体的爬虫分开，否则可能被许多出版商网站默认屏蔽",
+          "why_it_matters_zh": "有 1 个独立来源报道了这一行业动态。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "94ff19a9b5da",
@@ -2695,7 +2775,11 @@
               "published_at": "Wed, 01 Jul 2026 18:47:22 +0000"
             }
           ],
-          "route": "/hot/2026-07-02/topic/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/"
+          "route": "/hot/2026-07-02/topic/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
+          "headline_zh": "Ashton Kutcher 将离开 Sound Ventures，与 Morgan Beller 创办新的风投公司",
+          "summary_short_zh": "Sound 凭借集中押注其高度看好的各领域领先 AI 实验室而闻名，Kutcher 的新基金则似乎瞄准了这些公司的底层支撑，即为其运转提供支持的基础设施和能源",
+          "why_it_matters_zh": "有 1 个独立来源报道了这一行业动态。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -2739,7 +2823,11 @@
               "published_at": "Wed, 01 Jul 2026 17:46:54 +0000"
             }
           ],
-          "route": "/hot/2026-07-02/topic/simplify-model-selection-in-amazon-bedrock-with-the-open-source-model-profiler/"
+          "route": "/hot/2026-07-02/topic/simplify-model-selection-in-amazon-bedrock-with-the-open-source-model-profiler/",
+          "headline_zh": "使用开源 Model Profiler 简化 Amazon Bedrock 中的模型选择",
+          "summary_short_zh": "Amazon Bedrock Model Profiler 是一款开源工具，可将多个 AWS API 和外部来源的模型元数据汇集到统一、可搜索的界面中。",
+          "why_it_matters_zh": "有 1 个独立来源提到了这一工具。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "3dbe3a78a823",
@@ -2777,7 +2865,11 @@
               "published_at": "Wed, 01 Jul 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-07-02/topic/cognition-s-devin-security-swarm-is-one-of-the-clearer-examples-of-agent-architecture-specializing-around-a-real-enterprise-workflow/"
+          "route": "/hot/2026-07-02/topic/cognition-s-devin-security-swarm-is-one-of-the-clearer-examples-of-agent-architecture-specializing-around-a-real-enterprise-workflow/",
+          "headline_zh": "Cognition 的 Devin Security Swarm 是智能体架构针对实际企业工作流程进行专门设计的较鲜明案例之一",
+          "summary_short_zh": "该系统通过 Agentic MapReduce，在代码库中并行调度任务范围受限的智能体，汇总发现并验证漏洞的可利用性后，再呈现已确认的漏洞 @cognition。",
+          "why_it_matters_zh": "有 1 个独立来源提到了这一工具。",
+          "category_zh": "工具"
         }
       ]
     },
@@ -2821,7 +2913,11 @@
               "published_at": "2026-07-01T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-07-02/topic/domain-arithmetic-one-shot-vla-adaptation-under-environmental-shifts/"
+          "route": "/hot/2026-07-02/topic/domain-arithmetic-one-shot-vla-adaptation-under-environmental-shifts/",
+          "headline_zh": "域算术：环境变化下的 VLA 单样本适应",
+          "summary_short_zh": "视觉-语言-动作（VLA）模型在环境变化后，往往无法完成原先学会的任务。这些变化包括相机位姿改变，或换用不同但相似的机器人（如从 Panda 换成 UR5e）。",
+          "why_it_matters_zh": "有 1 个独立来源提到了这篇研究论文。",
+          "category_zh": "研究"
         }
       ]
     }
@@ -2867,7 +2963,11 @@
               "published_at": "2026-07-01T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-07-02/topic/introducing-goal/"
+          "route": "/hot/2026-07-02/topic/introducing-goal/",
+          "headline_zh": "推出 /goal",
+          "summary_short_zh": "无需编写代码，不到 2 分钟即可创建个性化语音智能体",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "9c35a6ef1300",
@@ -2911,7 +3011,11 @@
               "published_at": "Wed, 01 Jul 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-07-02/topic/nvidia-qwen3-6-27b-nvfp4-just-dropped/"
+          "route": "/hot/2026-07-02/topic/nvidia-qwen3-6-27b-nvfp4-just-dropped/",
+          "headline_zh": "nvidia/Qwen3.6-27B-NVFP4 刚刚发布",
+          "summary_short_zh": "NVIDIA 发布了 nvidia/Qwen3.6-27B-NVFP4，这是 Qwen3.6-27B 的 NVFP4/混合精度量化版本。",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "df31a25c3a4d",
@@ -2949,7 +3053,11 @@
               "published_at": "Wed, 01 Jul 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-07-02/topic/audio-cpp-vibevoice-1-5b-released-90-min-podcast-in-22-95-min-4-08x-real-time-2-86x-faster-than-python-without-quantization-native-c-ggml/"
+          "route": "/hot/2026-07-02/topic/audio-cpp-vibevoice-1-5b-released-90-min-podcast-in-22-95-min-4-08x-real-time-2-86x-faster-than-python-without-quantization-native-c-ggml/",
+          "headline_zh": "[audio.cpp] VibeVoice 1.5B 发布：22.95 分钟生成 90 分钟播客，速度为实时的 4.08 倍、Python 的 2.86 倍，未做量化，原生 C++/ggml 实现",
+          "summary_short_zh": "audio.cpp 新增了 VibeVoice 1.5B 的原生 C++/ggml 支持。基准测试在 RTX 5090 上用 1376.84 秒（22.95 分钟）生成了 5615.73 秒（93.60 分钟）的多说话人合成语音，实时因子 RTF=0.245，速度为实时的 4.08 倍、Python 基线的 2.86 倍。测试未做量化，使用 10 步扩散。",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "e1c7e59bdb19",
@@ -2987,7 +3095,11 @@
               "published_at": "Wed, 01 Jul 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-07-02/topic/huawei-open-sources-openpangu-2-0-flash-92b-total-6b-active/"
+          "route": "/hot/2026-07-02/topic/huawei-open-sources-openpangu-2-0-flash-92b-total-6b-active/",
+          "headline_zh": "华为开源 OpenPangu-2.0-Flash：总参数 920 亿，激活参数 60 亿",
+          "summary_short_zh": "华为开源了 OpenPangu-2.0-Flash，这是一款支持 512K 上下文的混合专家（MoE）模型，标称总参数 920 亿、激活参数 60 亿。据 X 上的公告，同时发布了权重、推理代码和训练算子。",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "fcf434675dd7",
@@ -3025,7 +3137,11 @@
               "published_at": "Wed, 01 Jul 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-07-02/topic/there-is-also-a-push-toward-better-reporting-pipelines-for-ai-failures/"
+          "route": "/hot/2026-07-02/topic/there-is-also-a-push-toward-better-reporting-pipelines-for-ai-failures/",
+          "headline_zh": "也有人在推动改进 AI 故障报告流程",
+          "summary_short_zh": "FLARE-AI 在网络安全和 AI 安全研究者联盟的参与下启动，旨在规范缺陷和事件报告，让问题送达相应的开发者和登记平台，避免埋没在互不相通的受理表单中。@ClementDelangue、@ShayneRedford",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "1d9c7daf12f2",
@@ -3063,7 +3179,11 @@
               "published_at": "Wed, 01 Jul 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-07-02/topic/z-ai-is-building-product-surface-area-around-glm-5-2-not-just-shipping-a-checkpoint/"
+          "route": "/hot/2026-07-02/topic/z-ai-is-building-product-surface-area-around-glm-5-2-not-just-shipping-a-checkpoint/",
+          "headline_zh": "Z.ai 正围绕 GLM-5.2 打造配套产品，不只是发布模型检查点",
+          "summary_short_zh": "最具体的一项发布是 GLM-5.2 的官方开发环境 ZCode，支持自带 API 密钥（BYOK）和跨平台使用，并为编程套餐订阅用户增加了配额。@Zai_org",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "2736f5fd2974",
@@ -3101,7 +3221,11 @@
               "published_at": "Wed, 01 Jul 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-07-02/topic/inference-work-around-open-models-is-becoming-a-meaningful-part-of-the-story/"
+          "route": "/hot/2026-07-02/topic/inference-work-around-open-models-is-becoming-a-meaningful-part-of-the-story/",
+          "headline_zh": "开放模型的推理优化正成为重要看点",
+          "summary_short_zh": "@vllm_project 为 vLLM 加入了面向 DeepSeek 模型的原生 DSpark 推测解码支持，报告称在 8×B300 上达到约 250 词元/秒，接受率高于 MTP。@mgoin_ 则发布了 GLM-5.2 的 DSpark 预览版，称解码速度提升至约 1.5 倍。",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -3145,7 +3269,10 @@
               "published_at": "2026-07-02T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-02/topic/import-ai-463-self-improving-robots-a-10k-chinese-gpu-cluster-and-an-elegiac-essay-for-the-human-era/"
+          "route": "/hot/2026-07-02/topic/import-ai-463-self-improving-robots-a-10k-chinese-gpu-cluster-and-an-elegiac-essay-for-the-human-era/",
+          "headline_zh": "Import AI 第 463 期：自我改进的机器人、中国万卡 GPU 集群，以及一篇悼念人类时代的随笔",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -3193,7 +3320,11 @@
           "published_at": "2026-07-01T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-07-02/topic/grok-for-powerpoint/"
+      "route": "/hot/2026-07-02/topic/grok-for-powerpoint/",
+      "headline_zh": "PowerPoint 版 Grok",
+      "summary_short_zh": "Grok 现已支持在 Microsoft PowerPoint 中使用，无需离开应用，就能将大纲转成幻灯片、扩充演示文稿并精炼叙述。",
+      "why_it_matters_zh": "共有 1 个独立来源提及此次产品发布。",
+      "category_zh": "产品发布"
     }
   ],
   "x_buzz": [

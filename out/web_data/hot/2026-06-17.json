@@ -1995,7 +1995,14 @@
           "published_at": "Tue, 16 Jun 2026 20:16:02 +0000"
         }
       ],
-      "route": "/hot/2026-06-17/topic/introducing-container-caching-in-amazon-sagemaker-ai-for-faster-model-scaling/"
+      "route": "/hot/2026-06-17/topic/introducing-container-caching-in-amazon-sagemaker-ai-for-faster-model-scaling/",
+      "headline_zh": "Amazon SageMaker AI 推出容器缓存，加快模型扩容",
+      "summary_short_zh": "今天，我们很高兴宣布，Amazon SageMaker AI 推理现已支持容器镜像缓存，这是我们优化扩容速度的又一重大进展。该功能可将生成式 AI 模型在横向扩容时的端到端延迟最多降低 50%。",
+      "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "今天，我们很高兴宣布，Amazon SageMaker AI 推理现已支持容器镜像缓存，这是我们优化扩容速度的又一重大进展。该功能可缩短端到端延迟……"
+      ]
     },
     {
       "topic_id": "616f49dfcf7a",
@@ -2035,7 +2042,14 @@
           "published_at": "Tue, 16 Jun 2026 22:46:46 +0000"
         }
       ],
-      "route": "/hot/2026-06-17/topic/safeguard-your-agentic-ai-applications-with-the-amazon-bedrock-guardrails-invokeguardrailchecks-api/"
+      "route": "/hot/2026-06-17/topic/safeguard-your-agentic-ai-applications-with-the-amazon-bedrock-guardrails-invokeguardrailchecks-api/",
+      "headline_zh": "借助 Amazon Bedrock Guardrails 的 InvokeGuardrailChecks API 保护 AI 智能体应用",
+      "summary_short_zh": "今天，我们宣布推出 Amazon Bedrock Guardrails 新 API。借助此 API，您可以在 AI 智能体应用的任意环节应用单项防护措施（也称安全检查），无需创建护栏资源。",
+      "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "今天，我们宣布推出 Amazon Bedrock Guardrails 新 API。借助此 API，您可以在 AI 智能体应用的任意环节应用单项防护措施（也称安全检查）……"
+      ]
     },
     {
       "topic_id": "5558c33cdb75",
@@ -2075,7 +2089,14 @@
           "published_at": "Tue, 16 Jun 2026 21:29:50 +0000"
         }
       ],
-      "route": "/hot/2026-06-17/topic/unlocking-uk-house-building-with-ai-accelerated-planning/"
+      "route": "/hot/2026-06-17/topic/unlocking-uk-house-building-with-ai-accelerated-planning/",
+      "headline_zh": "借助 AI 加快规划审批，推动英国住房建设",
+      "summary_short_zh": "英国政府与 Google DeepMind 合作开发全新 AI 原型系统，旨在加快住房建设决策",
+      "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "英国政府与 Google DeepMind 合作开发全新 AI 原型系统，旨在加快住房建设决策。"
+      ]
     },
     {
       "topic_id": "71837146fef7",
@@ -2115,7 +2136,14 @@
           "published_at": "Tue, 16 Jun 2026 17:30:00 +0000"
         }
       ],
-      "route": "/hot/2026-06-17/topic/from-pixels-to-planning-earth-ai-for-nature-restoration/"
+      "route": "/hot/2026-06-17/topic/from-pixels-to-planning-earth-ai-for-nature-restoration/",
+      "headline_zh": "从像素到规划：Earth AI 助力生态修复",
+      "summary_short_zh": "气候与可持续发展",
+      "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "气候与可持续发展"
+      ]
     },
     {
       "topic_id": "6fd67c8521ab",
@@ -2153,7 +2181,10 @@
           "published_at": "2026-06-16T13:00:30+00:00"
         }
       ],
-      "route": "/hot/2026-06-17/topic/party-is-over-regularizing-colbert-models-to-fix-efficient-ann-methods/"
+      "route": "/hot/2026-06-17/topic/party-is-over-regularizing-colbert-models-to-fix-efficient-ann-methods/",
+      "headline_zh": "狂欢结束：通过正则化 ColBERT 模型修正高效近似最近邻（ANN）方法",
+      "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+      "category_zh": "产品发布"
     }
   ],
   "category_sections": [
@@ -2197,7 +2228,11 @@
               "published_at": "2026-06-17T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-17/topic/mimo-v2-5-pro-ultraspeed-pushing-1t-parameter-model-generation-speed-to-1000-tps-xiaomi-mimo-blog/"
+          "route": "/hot/2026-06-17/topic/mimo-v2-5-pro-ultraspeed-pushing-1t-parameter-model-generation-speed-to-1000-tps-xiaomi-mimo-blog/",
+          "headline_zh": "MiMo-V2.5-Pro-UltraSpeed：将万亿参数模型的生成速度提升至每秒 1000 个 token（小米 MIMO，博客）",
+          "summary_short_zh": "MiMo-V2.5-Pro-UltraSpeed：将万亿参数模型的生成速度提升至每秒 1000 个 token（小米 MIMO，博客",
+          "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "ce1605a1b26b",
@@ -2235,7 +2270,11 @@
               "published_at": "Tue, 16 Jun 2026 18:00:00 +0000"
             }
           ],
-          "route": "/hot/2026-06-17/topic/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/"
+          "route": "/hot/2026-06-17/topic/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
+          "headline_zh": "Android 17 发布，新增多任务工具，Google 同步扩展 Gemini 功能",
+          "summary_short_zh": "Google 已发布 Android 17 和 Wear OS 7，带来全新的多任务功能、家长控制、安全工具及智能手表升级。同时推出的 Pixel Drop 更新也将 Google 最新的 AI 模型引入旗下设备。",
+          "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "2a90075a0009",
@@ -2273,7 +2312,11 @@
               "published_at": "2026-06-16T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-06-17/topic/agentic-workflows-cohere/"
+          "route": "/hot/2026-06-17/topic/agentic-workflows-cohere/",
+          "headline_zh": "智能体工作流 | Cohere",
+          "summary_short_zh": "了解什么是 agentic workflows、它们如何将工作从请求推进到结果，以及企业如何用它们在可控、可监督、安全的前提下自动化复杂流程",
+          "why_it_matters_zh": "该产品发布来自 1 个独立信源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "70a7359c2ef5",
@@ -2311,7 +2354,11 @@
               "published_at": "2026-06-16T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-06-17/topic/ai-and-cybersecurity-building-true-cyber-resilience-cohere/"
+          "route": "/hot/2026-06-17/topic/ai-and-cybersecurity-building-true-cyber-resilience-cohere/",
+          "headline_zh": "AI 与网络安全：构建真正的网络韧性 | Cohere",
+          "summary_short_zh": "探索 AI 如何重塑网络安全威胁、防御流程、安全工具以及企业的网络韧性",
+          "why_it_matters_zh": "该产品发布来自 1 个独立信源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "e8501ffdd0c3",
@@ -2349,7 +2396,11 @@
               "published_at": "2026-06-16T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-06-17/topic/enterprise-ai-search-how-it-works-and-its-benefits-cohere/"
+          "route": "/hot/2026-06-17/topic/enterprise-ai-search-how-it-works-and-its-benefits-cohere/",
+          "headline_zh": "企业级 AI 搜索：工作原理与价值 | Cohere",
+          "summary_short_zh": "了解企业级 AI 如何帮助企业更快检索信息、打通割裂的数据，并驱动更高级的 AI 工作流",
+          "why_it_matters_zh": "该产品发布来自 1 个独立信源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2393,7 +2444,11 @@
               "published_at": "2026-06-16T07:41:31-04:00"
             }
           ],
-          "route": "/hot/2026-06-17/topic/spacex-is-officially-buying-cursor-for-60-billion/"
+          "route": "/hot/2026-06-17/topic/spacex-is-officially-buying-cursor-for-60-billion/",
+          "headline_zh": "SpaceX 正式以 600 亿美元收购 Cursor",
+          "summary_short_zh": "在规模庞大的 IPO 完成数日后，SpaceX 宣布斥资 600 亿美元收购 Cursor——此举意在帮助 Elon Musk 横跨火箭、AI 与社交媒体的庞大版图赢得利润丰厚的企业客户，并缩小与 Anthropic、OpenAI 等 AI 对手的差距。",
+          "why_it_matters_zh": "该收购来自 1 个独立信源。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -2446,7 +2501,11 @@
               "published_at": "2026-06-15T23:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-17/topic/inside-the-fight-over-claude-mythos-5/"
+          "route": "/hot/2026-06-17/topic/inside-the-fight-over-claude-mythos-5/",
+          "headline_zh": "Claude Mythos 5 之争的台前幕后",
+          "summary_short_zh": "当全美都在庆祝美国队首夺世界杯以及纽约尼克斯队夺冠时，Anthropic 却把整个周末花在了与特朗普政府就其最新模型发布的交锋上。",
+          "why_it_matters_zh": "该消息来自 2 个独立信源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "d3903f19f59e",
@@ -2484,7 +2543,10 @@
               "published_at": "2026-06-17T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-17/topic/import-ai-461-alignment-is-not-on-track-frontiercode-and-synthetic-research-interns/"
+          "route": "/hot/2026-06-17/topic/import-ai-461-alignment-is-not-on-track-frontiercode-and-synthetic-research-interns/",
+          "headline_zh": "Import AI 461：“对齐进展不容乐观”；FrontierCode；以及合成研究实习生",
+          "why_it_matters_zh": "该消息来自 1 个独立信源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "108cdfedcf84",
@@ -2522,7 +2584,11 @@
               "published_at": "Wed, 17 Jun 2026 00:00:00 -0400"
             }
           ],
-          "route": "/hot/2026-06-17/topic/could-ai-tell-you-where-you-left-your-keys/"
+          "route": "/hot/2026-06-17/topic/could-ai-tell-you-where-you-left-your-keys/",
+          "headline_zh": "AI 能告诉你钥匙落在哪了吗？",
+          "summary_short_zh": "一套面向机器人的新型空间记忆系统，能在探索环境的同时高效记录所见物体的细节",
+          "why_it_matters_zh": "该消息来自 1 个独立信源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "0e879da55bfa",
@@ -2560,7 +2626,11 @@
               "published_at": "Tue, 16 Jun 2026 17:47:09 +0000"
             }
           ],
-          "route": "/hot/2026-06-17/topic/parallelize-speculative-decoding-with-p-eagle-on-amazon-sagemaker-ai/"
+          "route": "/hot/2026-06-17/topic/parallelize-speculative-decoding-with-p-eagle-on-amazon-sagemaker-ai/",
+          "headline_zh": "在 Amazon SageMaker AI 上用 P-EAGLE 并行化推测解码",
+          "summary_short_zh": "本文带你了解如何在 Amazon SageMaker AI 中直接使用 P-EAGLE，演示如何从 SageMaker JumpStart 目录中选择兼容模型、配置并行起草参数，并部署一个高度优化的实时 SageMaker AI 端点以实现加速",
+          "why_it_matters_zh": "该教程来自 1 个独立信源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "ee14e8bdefc2",
@@ -2598,7 +2668,11 @@
               "published_at": "Tue, 16 Jun 2026 22:34:17 +0000"
             }
           ],
-          "route": "/hot/2026-06-17/topic/anthropic-s-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/"
+          "route": "/hot/2026-06-17/topic/anthropic-s-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
+          "headline_zh": "销售数据显示，Anthropic 与特朗普政府的最新争执反而可能帮到它",
+          "summary_short_zh": "Ramp 的数据显示，Anthropic 在企业用户中的受欢迎程度增长强劲，与政府的最新摩擦反而可能助它一把",
+          "why_it_matters_zh": "该内容来自 1 个独立信源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -2650,7 +2724,11 @@
               "published_at": "Tue, 16 Jun 2026 21:00:35 +0000"
             }
           ],
-          "route": "/hot/2026-06-17/topic/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/"
+          "route": "/hot/2026-06-17/topic/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/",
+          "headline_zh": "Anthropic“暂停”其 Claude Agent SDK 的按 token 计费",
+          "summary_short_zh": "该调整原定周一生效，将大幅推高重度用户的成本",
+          "why_it_matters_zh": "该工具类内容来自 2 个独立信源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "e70a3d678eff",
@@ -2688,7 +2766,11 @@
               "published_at": "2026-06-12T03:47:21Z"
             }
           ],
-          "route": "/hot/2026-06-17/topic/tencent-hunyuan-hy-embodied-0-5-vla/"
+          "route": "/hot/2026-06-17/topic/tencent-hunyuan-hy-embodied-0-5-vla/",
+          "headline_zh": "Tencent-Hunyuan/Hy-Embodied-0.5-VLA",
+          "summary_short_zh": "从视觉-语言-动作模型到真实世界的机器人学习栈",
+          "why_it_matters_zh": "该工具类内容来自 1 个独立信源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "20c922b8cb98",
@@ -2726,7 +2808,11 @@
               "published_at": "2026-06-17T03:56:10+00:00"
             }
           ],
-          "route": "/hot/2026-06-17/topic/click-to-play-a-still-that-plays/"
+          "route": "/hot/2026-06-17/topic/click-to-play-a-still-that-plays/",
+          "headline_zh": "<click-to-play>：会动起来的静态图",
+          "summary_short_zh": "<p><strong>工具：</strong> <a href=\" — 会动起来的静态图</a></p> <p>一个渐进增强的 Web Component，它把这段标记：</p> <pre><code>&lt;click-to-play&gt; &lt;a href=\"URL to GIF\"&gt; &lt;img src=\"URL to first frame\" alt=\"...\"&gt; &lt;/a&gt; &lt;/click-to-play&gt; </code></pre> <p>变成",
+          "why_it_matters_zh": "该工具类内容来自 1 个独立信源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "d522a6b65075",
@@ -2764,7 +2850,11 @@
               "published_at": "2026-06-16T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-06-17/topic/bringing-real-time-market-sentiment-to-tori-from-etoro/"
+          "route": "/hot/2026-06-17/topic/bringing-real-time-market-sentiment-to-tori-from-etoro/",
+          "headline_zh": "把实时市场情绪引入 eToro 的 Tori",
+          "summary_short_zh": "eToro 的 AI 智能体 Tori 使用 SpaceXAI 的模型，把实时市场情绪直接嵌入 Tori 的投资流程",
+          "why_it_matters_zh": "该工具类内容来自 1 个独立信源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "485b912e6b8e",
@@ -2802,7 +2892,11 @@
               "published_at": "Tue, 16 Jun 2026 15:53:12 +0000"
             }
           ],
-          "route": "/hot/2026-06-17/topic/spacex-is-public-everything-you-need-to-know-post-ipo/"
+          "route": "/hot/2026-06-17/topic/spacex-is-public-everything-you-need-to-know-post-ipo/",
+          "headline_zh": "SpaceX 已上市：IPO 之后你需要知道的一切",
+          "summary_short_zh": "从早期起步、挣扎到成功，TechCrunch 一路跟踪报道 SpaceX，接下来也会继续。本组 SpaceX IPO 报道包括谁将从中获益（也可能有人落空）、IPO 前的交易，以及其 S-1 注册文件里藏着哪些信息",
+          "why_it_matters_zh": "该工具类内容来自 1 个独立信源。",
+          "category_zh": "工具"
         }
       ]
     }
@@ -2848,7 +2942,11 @@
               "published_at": "2026-06-16T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-06-17/topic/secure-ai-in-government-top-uses-cases-and-benefits/"
+          "route": "/hot/2026-06-17/topic/secure-ai-in-government-top-uses-cases-and-benefits/",
+          "headline_zh": "政府中的安全 AI：主要用例与收益",
+          "summary_short_zh": "安全 AI 有望帮助政府提供更多、更好的公共服务。一起看看主要用例和收益",
+          "why_it_matters_zh": "该产品发布内容来自 1 个独立信源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "668b3aa050a1",
@@ -2886,7 +2984,11 @@
               "published_at": "Tue, 16 Jun 2026 00:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-06-17/topic/predicting-model-behavior-before-release-by-simulating-deployment/"
+          "route": "/hot/2026-06-17/topic/predicting-model-behavior-before-release-by-simulating-deployment/",
+          "headline_zh": "通过模拟部署在发布前预测模型行为",
+          "summary_short_zh": "OpenAI 推出部署模拟（Deployment Simulation）方法，利用真实对话数据在部署前预测 AI 模型行为，提升安全性和评估准确性",
+          "why_it_matters_zh": "此次产品发布由 1 个独立来源报道。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "946166613bf3",
@@ -2924,7 +3026,11 @@
               "published_at": "2026-06-16T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-06-17/topic/agent-dashboard-in-grok-build/"
+          "route": "/hot/2026-06-17/topic/agent-dashboard-in-grok-build/",
+          "headline_zh": "Grok Build 中的智能体仪表盘",
+          "summary_short_zh": "质量更高，速度更快",
+          "why_it_matters_zh": "此次产品发布由 1 个独立来源报道。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "9de5ad06eff2",
@@ -2962,7 +3068,11 @@
               "published_at": "2026-06-16T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-06-17/topic/grok-imagine-1-5-preview/"
+          "route": "/hot/2026-06-17/topic/grok-imagine-1-5-preview/",
+          "headline_zh": "Grok Imagine 1.5 预览版",
+          "summary_short_zh": "我们最新的图生视频模型 grok-imagine-video-1.5-preview 现已通过 xAI API 开放预览",
+          "why_it_matters_zh": "此次产品发布由 1 个独立来源报道。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "16e8b0be7d96",
@@ -3000,7 +3110,11 @@
               "published_at": "2026-06-16T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-06-17/topic/powering-gopuff-s-go-agent/"
+          "route": "/hot/2026-06-17/topic/powering-gopuff-s-go-agent/",
+          "headline_zh": "为 Gopuff 的 Go 智能体提供支持",
+          "summary_short_zh": "Gopuff 与 SpaceXAI 推出 Go，这款 AI 购物助手内置于 Gopuff 应用，由 Grok 的文本、音频和图像模型提供支持",
+          "why_it_matters_zh": "此次产品发布由 1 个独立来源报道。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "cd095fd5b424",
@@ -3038,7 +3152,11 @@
               "published_at": "2026-06-16T13:04:05-04:00"
             }
           ],
-          "route": "/hot/2026-06-17/topic/apple-2027-rumors-airpods-with-cameras-for-ai-and-the-second-folding-iphone/"
+          "route": "/hot/2026-06-17/topic/apple-2027-rumors-airpods-with-cameras-for-ai-and-the-second-folding-iphone/",
+          "headline_zh": "苹果 2027 年新品传闻：配备摄像头以支持 AI 的 AirPods，以及第二款折叠屏 iPhone",
+          "summary_short_zh": "WWDC 结束、苹果各平台即将推出的 AI 新功能公布后，彭博社记者 Mark Gurman 带来了更多新硬件传闻的细节，包括他此前报道过的配备摄像头的 AirPods。",
+          "why_it_matters_zh": "此次产品发布由 1 个独立来源报道。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "473aa6dc827b",
@@ -3076,7 +3194,10 @@
               "published_at": "2026-06-17T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-17/topic/5-min-read-openai-launches-a-partner-program-while-its-legal-woes-grow/"
+          "route": "/hot/2026-06-17/topic/5-min-read-openai-launches-a-partner-program-while-its-legal-woes-grow/",
+          "headline_zh": "阅读需 5 分钟：OpenAI 推出合作伙伴计划，法律困境加深",
+          "why_it_matters_zh": "此次产品发布由 1 个独立来源报道。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -3120,7 +3241,11 @@
               "published_at": "Tue, 16 Jun 2026 11:15:46 +0000"
             }
           ],
-          "route": "/hot/2026-06-17/topic/critical-copilot-vulnerability-allowed-hackers-to-steal-2fa-code-from-users/"
+          "route": "/hot/2026-06-17/topic/critical-copilot-vulnerability-allowed-hackers-to-steal-2fa-code-from-users/",
+          "headline_zh": "Copilot 严重漏洞让黑客能够窃取用户的双因素认证（2FA）验证码",
+          "summary_short_zh": "SearchLeak 漏洞利用揭示了业界的大语言模型安全策略为何屡屡失效",
+          "why_it_matters_zh": "这条其他类消息由 1 个独立来源报道。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -3162,7 +3287,11 @@
           "published_at": "2026-06-17T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-06-17/topic/introducing-frontiercode-cognition/"
+      "route": "/hot/2026-06-17/topic/introducing-frontiercode-cognition/",
+      "headline_zh": "推出 FrontierCode（Cognition）",
+      "summary_short_zh": "推出 FrontierCode（Cognition",
+      "why_it_matters_zh": "此次产品发布由 1 个独立来源报道。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "bd27d3eccc71",
@@ -3200,7 +3329,11 @@
           "published_at": "2026-06-17T03:36:09+00:00"
         }
       ],
-      "route": "/hot/2026-06-17/topic/netnewswire-status/"
+      "route": "/hot/2026-06-17/topic/netnewswire-status/",
+      "headline_zh": "NetNewsWire 状态",
+      "summary_short_zh": "<p><strong><a href=\" 近况</a></strong></p> 这让我很受鼓舞。Brent Simmons 一年前退休了，他退休后的项目就是把一款软件打磨得非常、<em>非常</em>出色，完全不受商业压力左右。</p> <p>这款软件是 <a href=\" - \"它就像播客，但面向",
+      "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+      "category_zh": "产品发布"
     }
   ],
   "x_buzz": [

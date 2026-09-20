@@ -940,7 +940,14 @@
           "published_at": "2026-06-16T14:49:50Z"
         }
       ],
-      "route": "/hot/2026-06-21/topic/anthropics-launch-your-agent/"
+      "route": "/hot/2026-06-21/topic/anthropics-launch-your-agent/",
+      "headline_zh": "anthropics/launch-your-agent",
+      "summary_short_zh": "一套 Claude Code 技能，帮助创业者将想法落地为 Claude Managed Agent：访谈、确定 v0 范围、在自己的账户中上线、评分、迭代并设置定时运行",
+      "why_it_matters_zh": "该产品发布信息见于 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "一套 Claude Code 技能，帮助创业者将想法落地为 Claude Managed Agent：访谈、确定 v0 范围、在自己的账户中上线、评分、迭代并设置定时运行"
+      ]
     },
     {
       "topic_id": "6efb2a4578d0",
@@ -978,7 +985,11 @@
           "published_at": "2026-06-21T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-06-21/topic/introducing-frontiercode-cognition/"
+      "route": "/hot/2026-06-21/topic/introducing-frontiercode-cognition/",
+      "headline_zh": "推出 FrontierCode（Cognition）",
+      "summary_short_zh": "推出 FrontierCode（Cognition",
+      "why_it_matters_zh": "该产品发布信息见于 1 个独立来源。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "9226f1468372",
@@ -1016,7 +1027,11 @@
           "published_at": "2026-06-21T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-06-21/topic/mimo-v2-5-pro-ultraspeed-pushing-1t-parameter-model-generation-speed-to-1000-tps-xiaomi-mimo-blog/"
+      "route": "/hot/2026-06-21/topic/mimo-v2-5-pro-ultraspeed-pushing-1t-parameter-model-generation-speed-to-1000-tps-xiaomi-mimo-blog/",
+      "headline_zh": "MiMo-V2.5-Pro-UltraSpeed：将万亿参数模型的生成速度提升至 1000 TPS（小米 MIMO 博客）",
+      "summary_short_zh": "MiMo-V2.5-Pro-UltraSpeed：将万亿参数模型的生成速度提升至 1000 TPS（小米 MIMO 博客",
+      "why_it_matters_zh": "该产品发布信息见于 1 个独立来源。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "a12eea283661",
@@ -1056,7 +1071,14 @@
           "published_at": "2026-06-16T13:49:46Z"
         }
       ],
-      "route": "/hot/2026-06-21/topic/tongxuluo-gamecraft-bench/"
+      "route": "/hot/2026-06-21/topic/tongxuluo-gamecraft-bench/",
+      "headline_zh": "tongxuluo/gamecraft-bench",
+      "summary_short_zh": "论文《GameCraft-Bench：智能体能否在真实游戏引擎中端到端开发可玩的游戏？》的代码和数据",
+      "why_it_matters_zh": "该研究论文见于 1 个独立来源。",
+      "category_zh": "研究",
+      "key_takeaways_zh": [
+        "论文《GameCraft-Bench：智能体能否在真实游戏引擎中端到端开发可玩的游戏？》的代码和数据"
+      ]
     },
     {
       "topic_id": "96a8a2c3b904",
@@ -1094,7 +1116,10 @@
           "published_at": "2026-06-21T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-06-21/topic/artificial-intelligence-made-simple/"
+      "route": "/hot/2026-06-21/topic/artificial-intelligence-made-simple/",
+      "headline_zh": "轻松读懂人工智能",
+      "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+      "category_zh": "行业动态"
     }
   ],
   "category_sections": [
@@ -1138,7 +1163,10 @@
               "published_at": "2026-06-21T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-21/topic/5-min-read-openai-launches-a-partner-program-while-its-legal-woes-grow/"
+          "route": "/hot/2026-06-21/topic/5-min-read-openai-launches-a-partner-program-while-its-legal-woes-grow/",
+          "headline_zh": "阅读需 5 分钟：OpenAI 推出合作伙伴计划，法律麻烦日益增多",
+          "why_it_matters_zh": "该产品发布信息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -1182,7 +1210,10 @@
               "published_at": "2026-06-21T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-21/topic/import-ai-460-reward-hacking-society-rsi-data-from-anthropic-and-rl-based-quadcopter-racing/"
+          "route": "/hot/2026-06-21/topic/import-ai-460-reward-hacking-society-rsi-data-from-anthropic-and-rl-based-quadcopter-racing/",
+          "headline_zh": "Import AI 第 460 期：社会中的奖励投机、Anthropic 的 RSI 数据，以及基于强化学习的四旋翼无人机竞速",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "d3903f19f59e",
@@ -1220,7 +1251,10 @@
               "published_at": "2026-06-21T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-21/topic/import-ai-461-alignment-is-not-on-track-frontiercode-and-synthetic-research-interns/"
+          "route": "/hot/2026-06-21/topic/import-ai-461-alignment-is-not-on-track-frontiercode-and-synthetic-research-interns/",
+          "headline_zh": "Import AI 第 461 期：“对齐工作未按预期推进”、FrontierCode，以及虚拟科研实习生",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "e48a8e1589ab",
@@ -1258,7 +1292,11 @@
               "published_at": "Sun, 21 Jun 2026 04:46:07 +0000"
             }
           ],
-          "route": "/hot/2026-06-21/topic/2026-1800-deepseek/"
+          "route": "/hot/2026-06-21/topic/2026-1800-deepseek/",
+          "headline_zh": "2026年，1800个DeepSeek跟我一起守护艾泽拉斯",
+          "summary_short_zh": "一个月只要340块",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "851c70144624",
@@ -1296,7 +1334,11 @@
               "published_at": "Sat, 20 Jun 2026 20:32:29 +0000"
             }
           ],
-          "route": "/hot/2026-06-21/topic/signal-s-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/"
+          "route": "/hot/2026-06-21/topic/signal-s-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+          "headline_zh": "Signal 的 Meredith Whittaker 希望你记住，AI 聊天机器人“不是你的朋友”",
+          "summary_short_zh": "“它们不是你的朋友。它们不是有意识的存在。它们不是有感知能力的对话者。”",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "68ee994ba67c",
@@ -1334,7 +1376,11 @@
               "published_at": "2026-06-20T14:46:48-04:00"
             }
           ],
-          "route": "/hot/2026-06-21/topic/the-atlantic-created-a-searchable-database-of-the-music-used-to-train-ai/"
+          "route": "/hot/2026-06-21/topic/the-atlantic-created-a-searchable-database-of-the-music-used-to-train-ai/",
+          "headline_zh": "《大西洋月刊》建立了一个可搜索的数据库，收录用于训练 AI 的音乐",
+          "summary_short_zh": "《大西洋月刊》记者 Alex Reisner 最近发现了四个用于训练 AI 模型的音乐数据集，并向公众开放了完整的搜索功能。其中两个规模极其庞大，分别包含 1200 万和 900 万首曲目。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -1380,7 +1426,11 @@
               "published_at": "2026-06-18T07:09:23Z"
             }
           ],
-          "route": "/hot/2026-06-21/topic/0xsero-glm-5-2-sm120/"
+          "route": "/hot/2026-06-21/topic/0xsero-glm-5-2-sm120/",
+          "headline_zh": "0xSero/glm-5.2-sm120",
+          "summary_short_zh": "在 SM120（4 张 RTX PRO 6000 Blackwell）上部署 GLM-5.2-NVFP4-REAP-469B 推理服务：一条命令启动 vLLM，250K 上下文，DeepSeek 稀疏注意力 + MTP 推测解码",
+          "why_it_matters_zh": "这篇教程见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "0537063efcc3",
@@ -1418,7 +1468,11 @@
               "published_at": "Sat, 20 Jun 2026 09:42:18 +0000"
             }
           ],
-          "route": "/hot/2026-06-21/topic/alphafold-anthropic-48/"
+          "route": "/hot/2026-06-21/topic/alphafold-anthropic-48/",
+          "headline_zh": "诺奖得主、AlphaFold之父投奔Anthropic！谷歌48小时连跑俩大将",
+          "summary_short_zh": "Gemini 3.5 Pro呢？",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "5efa2f59fd9d",
@@ -1456,7 +1510,11 @@
               "published_at": "Sat, 20 Jun 2026 11:56:57 +0000"
             }
           ],
-          "route": "/hot/2026-06-21/topic/12-ai/"
+          "route": "/hot/2026-06-21/topic/12-ai/",
+          "headline_zh": "陶哲轩12年前的预言，现在AI帮他兑现了",
+          "summary_short_zh": "全球最聪明的人之一，成了AI最狂热的布道者",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "412df4cbfe8a",
@@ -1494,7 +1552,11 @@
               "published_at": "Fri, 19 Jun 2026 22:40:14 +0000"
             }
           ],
-          "route": "/hot/2026-06-21/topic/from-pgp-to-mythos-a-brief-history-of-export-controls-that-didn-t-stop-anyone/"
+          "route": "/hot/2026-06-21/topic/from-pgp-to-mythos-a-brief-history-of-export-controls-that-didn-t-stop-anyone/",
+          "headline_zh": "从 PGP 到 Mythos：没能拦住任何人的出口管制简史",
+          "summary_short_zh": "过去 30 年，阻止网络安全相关软件流通的做法已被证明无效。如今面对 Anthropic 的网络安全模型 Mythos，也不清楚这种做法为何会奏效。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "9214513555f2",
@@ -1532,7 +1594,10 @@
               "published_at": "2026-06-21T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-21/topic/5-min-read-the-government-blocks-claude-fable-5/"
+          "route": "/hot/2026-06-21/topic/5-min-read-the-government-blocks-claude-fable-5/",
+          "headline_zh": "阅读需 5 分钟｜政府封禁 Claude Fable 5",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "be41565c8d6b",
@@ -1570,7 +1635,10 @@
               "published_at": "2026-06-21T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-21/topic/save-hours-on-meeting-prep-with-this-automated-google-gemini-setup/"
+          "route": "/hot/2026-06-21/topic/save-hours-on-meeting-prep-with-this-automated-google-gemini-setup/",
+          "headline_zh": "用这套 Google Gemini 自动化配置，节省数小时的会议准备时间",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -1612,7 +1680,11 @@
           "published_at": "2026-06-16T17:15:06Z"
         }
       ],
-      "route": "/hot/2026-06-21/topic/sorathiya123-claude-ai-free-desktop-app/"
+      "route": "/hot/2026-06-21/topic/sorathiya123-claude-ai-free-desktop-app/",
+      "headline_zh": "Sorathiya123/claude-ai-free-desktop-app",
+      "summary_short_zh": "免费 Claude Code AI GitHub 桌面 电脑 Windows Linux macOS 代理服务器 Anthropic 免费 API 本地大语言模型路由器 NVIDIA NIM OpenRouter DeepSeek Ollama LM Studio VS Code 扩展 JetBrains 命令行 终端 编程助手",
+      "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+      "category_zh": "工具"
     },
     {
       "topic_id": "f013bfa3e0f2",
@@ -1650,7 +1722,11 @@
           "published_at": "2026-06-16T21:22:43Z"
         }
       ],
-      "route": "/hot/2026-06-21/topic/rebel0789-codexpro/"
+      "route": "/hot/2026-06-21/topic/rebel0789-codexpro/",
+      "headline_zh": "rebel0789/codexpro",
+      "summary_short_zh": "通过 MCP，将 ChatGPT 开发者模式用作代码仓库的本地编程智能体",
+      "why_it_matters_zh": "有 1 个独立来源提到了该工具。",
+      "category_zh": "工具"
     },
     {
       "topic_id": "7f4775301f47",
@@ -1688,7 +1764,11 @@
           "published_at": "2026-06-16T10:51:20Z"
         }
       ],
-      "route": "/hot/2026-06-21/topic/vercel-eve/"
+      "route": "/hot/2026-06-21/topic/vercel-eve/",
+      "headline_zh": "vercel/eve",
+      "summary_short_zh": "用于构建智能体的框架",
+      "why_it_matters_zh": "有 1 个独立来源提到了该工具。",
+      "category_zh": "工具"
     }
   ],
   "x_buzz": [

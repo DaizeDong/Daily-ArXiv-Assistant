@@ -1772,7 +1772,16 @@
           "published_at": "2026-06-30T21:23:02+00:00"
         }
       ],
-      "route": "/hot/2026-07-01/topic/introducing-claude-sonnet-5-on-aws-anthropic-s-most-capable-sonnet-model/"
+      "route": "/hot/2026-07-01/topic/introducing-claude-sonnet-5-on-aws-anthropic-s-most-capable-sonnet-model/",
+      "headline_zh": "Claude Sonnet 5 登陆 AWS：Anthropic 最强大的 Sonnet 模型",
+      "summary_short_zh": "今天，我们很高兴宣布，Anthropic 最先进的 Sonnet 模型 Claude Sonnet 5 已在 Amazon Bedrock 和 Claude Platform on AWS 上线。Claude Sonnet 5 是 Anthropic 最新一代模型中的首款 Sonnet 模型，标志着一次重要进步。",
+      "why_it_matters_zh": "4 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "今天，我们很高兴宣布，Anthropic 最先进的 Sonnet 模型 Claude Sonnet 5 已在 Amazon Bedrock 和 Claude Platform on AWS 上线。Claude Sonnet 5 是首款 Sonnet 模型...",
+        "<p><strong><a href=\"https://platform.claude.com/docs/en/about-claude/models/whats-new-sonnet-5\">Claude Sonnet 5 有哪些新变化</a></strong></p> Claude Sonnet 5 已发布 <a href=\"https://www.ant...",
+        "2026 年最佳 Tenbin AI 代理：接入 Anthropic Opus 4.8 和 Sonnet 4.6 API"
+      ]
     },
     {
       "topic_id": "5669a744fffa",
@@ -1824,7 +1833,14 @@
           "published_at": "Tue, 30 Jun 2026 16:02:40 +0000"
         }
       ],
-      "route": "/hot/2026-07-01/topic/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/"
+      "route": "/hot/2026-07-01/topic/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+      "headline_zh": "开始使用 Nano Banana 2 Lite 和 Gemini Omni Flash 开发",
+      "why_it_matters_zh": "4 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Nano Banana 2 Lite 的图像可能没那么好看，但只需几秒就能生成。",
+        "Google 正在更新其图像生成器，提升速度、降低成本，为想用 AI 创作内容的人提供更实用的工具。"
+      ]
     },
     {
       "topic_id": "f29cc8f170df",
@@ -1876,7 +1892,16 @@
           "published_at": "Wed, 01 Jul 2026 02:16:06 +0000"
         }
       ],
-      "route": "/hot/2026-07-01/topic/redeploying-fable-5/"
+      "route": "/hot/2026-07-01/topic/redeploying-fable-5/",
+      "headline_zh": "重新部署 Fable 5",
+      "summary_short_zh": "Fable 5 将于 7 月 1 日在全球恢复上线。我们还与 Amazon、Microsoft、Google 及其他 Glasswing 合作伙伴共同提议采用一套全行业通用的越狱严重程度评分框架",
+      "why_it_matters_zh": "3 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "在与特朗普政府谈判数周后，Anthropic 终于可以让 Claude Fable 5 重新上线。Anthropic 在 X 上发帖称，计划开始恢复访问...",
+        "特朗普政府制定 AI 政策时反复无常，让业内企业难以判断未来的模型发布将受哪些规则约束。",
+        "Fable 5 将于 7 月 1 日在全球恢复上线。我们还与 Amazon、Microsoft、Google 及其他 Glasswing 合作伙伴共同提议采用一套全行业通用的越狱严重程度评分框架。"
+      ]
     },
     {
       "topic_id": "46b6575054de",
@@ -1916,7 +1941,14 @@
           "published_at": "Wed, 01 Jul 2026 03:13:19 +0000"
         }
       ],
-      "route": "/hot/2026-07-01/topic/safely-releasing-frontier-models-to-customers/"
+      "route": "/hot/2026-07-01/topic/safely-releasing-frontier-models-to-customers/",
+      "headline_zh": "安全地向客户发布前沿模型",
+      "summary_short_zh": "我们的目标是让 AWS 成为运行任何工作负载最安全的平台。为此，我们从&nbsp;AWS&nbsp;创立之初就一直大力投入各项服务的安全建设，至今已有二十多年。",
+      "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "我们的目标是让 AWS 成为运行任何工作负载最安全的平台。为此，我们从&nbsp;AWS&nbsp;创立之初就一直大力投入各项服务的安全建设，至今已有二十多..."
+      ]
     },
     {
       "topic_id": "4ccb4a03cf2f",
@@ -1954,7 +1986,10 @@
           "published_at": "2026-07-01T01:53:03+00:00"
         }
       ],
-      "route": "/hot/2026-07-01/topic/does-your-llm-know-when-it-s-about-to-be-wrong/"
+      "route": "/hot/2026-07-01/topic/does-your-llm-know-when-it-s-about-to-be-wrong/",
+      "headline_zh": "你的大语言模型能察觉*自己即将出错*吗？",
+      "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布"
     }
   ],
   "category_sections": [
@@ -1998,7 +2033,11 @@
               "published_at": "Tue, 30 Jun 2026 17:03:10 +0000"
             }
           ],
-          "route": "/hot/2026-07-01/topic/expanding-our-heat-resilience-data-to-50-global-cities/"
+          "route": "/hot/2026-07-01/topic/expanding-our-heat-resilience-data-to-50-global-cities/",
+          "headline_zh": "将我们的 Heat Resilience 数据覆盖范围扩展至全球 50 多座城市",
+          "summary_short_zh": "气候与可持续发展",
+          "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "67321867c39d",
@@ -2036,7 +2075,11 @@
               "published_at": "Tue, 30 Jun 2026 16:26:48 +0000"
             }
           ],
-          "route": "/hot/2026-07-01/topic/fine-tune-amazon-nova-models-for-accurate-email-data-extraction/"
+          "route": "/hot/2026-07-01/topic/fine-tune-amazon-nova-models-for-accurate-email-data-extraction/",
+          "headline_zh": "微调 Amazon Nova 模型，精准提取邮件数据",
+          "summary_short_zh": "本文介绍如何使用 Amazon SageMaker AI 微调 Amazon Nova 模型，让模型识别您的特定数据模式、区分相似字段并更高效地处理信息，从而解决这些具体问题，提取准确率最高可达 94.77%",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "08afa389cd33",
@@ -2074,7 +2117,11 @@
               "published_at": "Tue, 30 Jun 2026 16:40:47 +0000"
             }
           ],
-          "route": "/hot/2026-07-01/topic/implementing-resilience-patterns-with-amazon-bedrock-and-llm-gateway/"
+          "route": "/hot/2026-07-01/topic/implementing-resilience-patterns-with-amazon-bedrock-and-llm-gateway/",
+          "headline_zh": "使用 Amazon Bedrock 和 LLM 网关实现韧性设计模式",
+          "summary_short_zh": "本文介绍在 AWS 上构建具备故障恢复能力的生成式 AI 应用的五种实用模式，从 Amazon Bedrock 原生功能逐步扩展到通过 LLM 网关进行多模型编排。",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "6a9323a80d2f",
@@ -2112,7 +2159,11 @@
               "published_at": "Tue, 30 Jun 2026 16:46:17 +0000"
             }
           ],
-          "route": "/hot/2026-07-01/topic/build-generative-ui-for-ai-agents-on-amazon-bedrock-agentcore-with-the-ag-ui-protocol/"
+          "route": "/hot/2026-07-01/topic/build-generative-ui-for-ai-agents-on-amazon-bedrock-agentcore-with-the-ag-ui-protocol/",
+          "headline_zh": "使用 AG-UI 协议，为 Amazon Bedrock AgentCore 上的 AI 智能体构建生成式 UI",
+          "summary_short_zh": "本文介绍如何将 AG-UI 集成到 Fullstack AgentCore Solution Template（FAST）中，在 Amazon Bedrock AgentCore 上构建交互式智能体前端。",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "a2ccf8d9b3eb",
@@ -2150,7 +2201,11 @@
               "published_at": "Tue, 30 Jun 2026 10:26:00 +0000"
             }
           ],
-          "route": "/hot/2026-07-01/topic/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/"
+          "route": "/hot/2026-07-01/topic/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/",
+          "headline_zh": "TabFM 简介：面向表格数据的零样本基础模型",
+          "summary_short_zh": "数据管理",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2194,7 +2249,11 @@
               "published_at": "Wed, 01 Jul 2026 02:04:40 +0000"
             }
           ],
-          "route": "/hot/2026-07-01/topic/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/"
+          "route": "/hot/2026-07-01/topic/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
+          "headline_zh": "Wayve 以 85 亿美元估值启动 8500 万美元员工股份要约收购",
+          "summary_short_zh": "Wayve 此次要约收购顺应了一个日益明显的趋势：AI 初创公司正将员工股份要约收购作为吸引和留住人才的战略手段",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次融资。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "895b9d8f5e5b",
@@ -2232,7 +2291,11 @@
               "published_at": "Tue, 30 Jun 2026 20:33:48 +0000"
             }
           ],
-          "route": "/hot/2026-07-01/topic/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/"
+          "route": "/hot/2026-07-01/topic/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
+          "headline_zh": "曾开发扑克 AI 的 DeepMind 三人组，如今正为量化对冲基金赚钱",
+          "summary_short_zh": "EquiLibre Technologies 是一家位于布拉格、由三名前 DeepMind 研究员创办的 AI 实验室，目前估值已超过 5 亿美元",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次融资。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -2276,7 +2339,11 @@
               "published_at": "2026-07-01T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-01/topic/enpire-agentic-robot-policy-self-improvement-in-the-real-world-nvidia-research-website/"
+          "route": "/hot/2026-07-01/topic/enpire-agentic-robot-policy-self-improvement-in-the-real-world-nvidia-research-website/",
+          "headline_zh": "ENPIRE：在真实世界中由智能体驱动机器人策略自我改进（NVIDIA 研究网站）",
+          "summary_short_zh": "ENPIRE：在真实世界中由智能体驱动机器人策略自我改进（NVIDIA 研究网站",
+          "why_it_matters_zh": "有 1 个独立来源报道了这一行业动态。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "17ca2b12e141",
@@ -2314,7 +2381,11 @@
               "published_at": "Tue, 30 Jun 2026 00:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-07-01/topic/core-dump-epidemiology-fixing-an-18-year-old-bug/"
+          "route": "/hot/2026-07-01/topic/core-dump-epidemiology-fixing-an-18-year-old-bug/",
+          "headline_zh": "核心转储流行病学：修复一个存在了 18 年的缺陷",
+          "summary_short_zh": "OpenAI 工程师通过大规模核心转储分析，排查基础设施中罕见的崩溃问题，发现了一处硬件故障和一个长期存在的软件缺陷",
+          "why_it_matters_zh": "这条行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "a5d6121555a2",
@@ -2352,7 +2423,10 @@
               "published_at": "2026-07-01T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-01/topic/import-ai-463-self-improving-robots-a-10k-chinese-gpu-cluster-and-an-elegiac-essay-for-the-human-era/"
+          "route": "/hot/2026-07-01/topic/import-ai-463-self-improving-robots-a-10k-chinese-gpu-cluster-and-an-elegiac-essay-for-the-human-era/",
+          "headline_zh": "Import AI 第 463 期：自我改进的机器人、中国万卡 GPU 集群，以及一篇悼念人类时代的随笔",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "1f1be49d08b8",
@@ -2390,7 +2464,10 @@
               "published_at": "Wed, 01 Jul 2026 07:15:29 +0000"
             }
           ],
-          "route": "/hot/2026-07-01/topic/transformer-10/"
+          "route": "/hot/2026-07-01/topic/transformer-10/",
+          "headline_zh": "卡帕西李飞飞辛顿都投了的Transformer专用芯片，签下10亿美元大单",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "b4269f3925e6",
@@ -2428,7 +2505,11 @@
               "published_at": "Wed, 01 Jul 2026 07:24:48 +0000"
             }
           ],
-          "route": "/hot/2026-07-01/topic/loop-hugging-face/"
+          "route": "/hot/2026-07-01/topic/loop-hugging-face/",
+          "headline_zh": "Loop世界模型论文登顶Hugging Face，来自中国一家初创，周鸿祎陆奇都投了",
+          "summary_short_zh": "重写“AI如何反复推演世界”",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -2472,7 +2553,11 @@
               "published_at": "Tue, 30 Jun 2026 16:37:09 +0000"
             }
           ],
-          "route": "/hot/2026-07-01/topic/how-outpost-vfx-uses-aws-to-accelerate-ai-model-training-for-visual-effects/"
+          "route": "/hot/2026-07-01/topic/how-outpost-vfx-uses-aws-to-accelerate-ai-model-training-for-visual-effects/",
+          "headline_zh": "Outpost VFX 如何利用 AWS 加速视觉特效 AI 模型训练",
+          "summary_short_zh": "本文介绍 Outpost VFX 如何利用 AWS 基础设施，将训练速度提升至原来的 8 倍并改造面部替换工作流程，同时解析其突破单 GPU 限制的技术架构，以及通过 AWS 多 GPU 训练取得的可量化成果。",
+          "why_it_matters_zh": "这条工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "a93724b6c929",
@@ -2510,7 +2595,11 @@
               "published_at": "Wed, 01 Jul 2026 07:32:23 +0000"
             }
           ],
-          "route": "/hot/2026-07-01/topic/opensquilla-0-4-0-ai/"
+          "route": "/hot/2026-07-01/topic/opensquilla-0-4-0-ai/",
+          "headline_zh": "OpenSquilla 发布 0.4.0：AI 写代码首次能“自我验证”",
+          "summary_short_zh": "OpenSquilla 上线后数周内 GitHub star 增至数千量级",
+          "why_it_matters_zh": "这条工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "52e58d615143",
@@ -2548,7 +2637,11 @@
               "published_at": "2026-06-30T16:54:26+00:00"
             }
           ],
-          "route": "/hot/2026-07-01/topic/have-your-agent-record-video-demos-of-its-work-with-shot-scraper-video/"
+          "route": "/hot/2026-07-01/topic/have-your-agent-record-video-demos-of-its-work-with-shot-scraper-video/",
+          "headline_zh": "让你的智能体用 shot-scraper video 录制工作成果演示视频",
+          "summary_short_zh": "<p><a href=\" video</a> 是今天发布的 <a href=\" 1.10</a> 版本新增的命令。它接受一个 <code>storyboard.yml</code> 文件，用来定义在 Web 应用上执行的操作流程，并通过 Playwright 录制操作过程的视频。",
+          "why_it_matters_zh": "这条工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "3cfea248b6bb",
@@ -2586,7 +2679,11 @@
               "published_at": "2026-06-29T23:38:21+00:00"
             }
           ],
-          "route": "/hot/2026-07-01/topic/html-table-extractor/"
+          "route": "/hot/2026-07-01/topic/html-table-extractor/",
+          "headline_zh": "HTML 表格提取器",
+          "summary_short_zh": "<p><strong>工具：</strong> <a href=\" 表格提取器</a></p> <p>我不断扩充的粘贴转换工具集又添了一款新工具。",
+          "why_it_matters_zh": "这条工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     }
@@ -2638,7 +2735,11 @@
               "published_at": "Tue, 30 Jun 2026 00:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-07-01/topic/introducing-genebench-pro/"
+          "route": "/hot/2026-07-01/topic/introducing-genebench-pro/",
+          "headline_zh": "GeneBench-Pro 简介",
+          "summary_short_zh": "一项新基准测试，通过复杂的真实世界数据集评估 AI 在基因组学、生物学和科学研究中的表现",
+          "why_it_matters_zh": "这条产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "11ab76e65895",
@@ -2676,7 +2777,11 @@
               "published_at": "2026-06-30T15:24:51-04:00"
             }
           ],
-          "route": "/hot/2026-07-01/topic/google-s-notebooklm-can-sum-up-your-research-in-a-tiktok-style-clip/"
+          "route": "/hot/2026-07-01/topic/google-s-notebooklm-can-sum-up-your-research-in-a-tiktok-style-clip/",
+          "headline_zh": "Google 的 NotebookLM 能用 TikTok 风格短视频概括你的研究内容",
+          "summary_short_zh": "Google 的 NotebookLM 新增了一种快速回顾笔记的方式：TikTok 风格的 AI 视频。这项新功能正逐步向 Google AI Ultra 和 Pro 订阅用户开放，让 NotebookLM 根据你上传到应用中的资料，生成 60 秒的竖屏 AI 短视频。",
+          "why_it_matters_zh": "这条产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "47056f923398",
@@ -2714,7 +2819,10 @@
               "published_at": "2026-06-30T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-07-01/topic/token-spend-isn-t-going-down-you-need-more-than-naive-routing-to-manage-it/"
+          "route": "/hot/2026-07-01/topic/token-spend-isn-t-going-down-you-need-more-than-naive-routing-to-manage-it/",
+          "headline_zh": "Token 开销并未下降，控制成本不能只靠简单路由",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "699530817f68",
@@ -2752,7 +2860,11 @@
               "published_at": "Tue, 30 Jun 2026 09:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-07-01/topic/how-chatgpt-adoption-has-expanded/"
+          "route": "/hot/2026-07-01/topic/how-chatgpt-adoption-has-expanded/",
+          "headline_zh": "ChatGPT 的使用范围如何扩大",
+          "summary_short_zh": "OpenAI Signals 最新数据显示，ChatGPT 在全球日益普及，用户不断增加使用量、探索更多功能，推动其在不同地区和语言群体中持续增长",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "790de9c0f4df",
@@ -2790,7 +2902,11 @@
               "published_at": "Jun 30, 2026"
             }
           ],
-          "route": "/hot/2026-07-01/topic/claude-science-an-ai-workbench-for-scientists-is-now-available/"
+          "route": "/hot/2026-07-01/topic/claude-science-an-ai-workbench-for-scientists-is-now-available/",
+          "headline_zh": "面向科学家的 AI 工作台 Claude Science 现已上线",
+          "summary_short_zh": "Claude Science 是一款可定制的应用，集成研究人员最常用的工具和软件包，生成可审计的成果，并支持灵活调用计算资源",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "78842d1b711b",
@@ -2828,7 +2944,11 @@
               "published_at": "2026-06-30T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-07-01/topic/llm-serving-fairness/"
+          "route": "/hot/2026-07-01/topic/llm-serving-fairness/",
+          "headline_zh": "大语言模型推理服务的公平性",
+          "summary_short_zh": "Cohere 如何确保每个租户都能获得公平的算力份额",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "82f96a6cf339",
@@ -2866,7 +2986,11 @@
               "published_at": "Tue, 30 Jun 2026 06:00:00 +0000"
             }
           ],
-          "route": "/hot/2026-07-01/topic/unlocking-britain-s-next-era-of-productivity-building-a-nation-of-ai-trailblazers/"
+          "route": "/hot/2026-07-01/topic/unlocking-britain-s-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
+          "headline_zh": "开启英国生产力新时代：打造 AI 先锋之国",
+          "summary_short_zh": "四个代表不同职业角色的插画人物，包括科学家、技术员、探索者和观察者",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "ded63fb9f759",
@@ -2904,7 +3028,11 @@
               "published_at": "Tue, 30 Jun 2026 00:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-07-01/topic/together-ai-at-icml-2026-frontier-research-across-the-full-stack/"
+          "route": "/hot/2026-07-01/topic/together-ai-at-icml-2026-frontier-research-across-the-full-stack/",
+          "headline_zh": "Together AI 亮相 ICML 2026：覆盖全栈的前沿研究",
+          "summary_short_zh": "9 篇覆盖全栈的论文亮相 ICML 2026，研究成果将融入 Together 平台。欢迎到首尔会场 B714 展位与我们见面",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         }
       ]
     }
@@ -2946,7 +3074,11 @@
           "published_at": "Tue, 30 Jun 2026 16:33:46 +0000"
         }
       ],
-      "route": "/hot/2026-07-01/topic/building-bilingual-ner-for-cargo-logistics-with-amazon-bedrock/"
+      "route": "/hot/2026-07-01/topic/building-bilingual-ner-for-cargo-logistics-with-amazon-bedrock/",
+      "headline_zh": "使用 Amazon Bedrock 构建货运物流双语命名实体识别系统",
+      "summary_short_zh": "本文介绍基于词元的蒸馏技术方案、实践经验和部署架构。如果你也面临类似的双语命名实体识别（NER）挑战，可以借鉴 IBS Software 使用 Amazon Bedrock 知识蒸馏功能的经验",
+      "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布"
     }
   ],
   "x_buzz": [

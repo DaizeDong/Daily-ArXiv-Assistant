@@ -990,7 +990,11 @@
           "published_at": "2026-07-06T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-07-06/topic/locallaws-locus-v1-huggingface/"
+      "route": "/hot/2026-07-06/topic/locallaws-locus-v1-huggingface/",
+      "headline_zh": "LocalLaws / LOCUS-v1 (HuggingFace)",
+      "summary_short_zh": "LocalLaws / LOCUS-v1 (HuggingFace",
+      "why_it_matters_zh": "这则产品发布消息见于 1 个独立来源。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "bbb5a1f06772",
@@ -1028,7 +1032,11 @@
           "published_at": "Mon, 06 Jul 2026 04:14:08 +0000"
         }
       ],
-      "route": "/hot/2026-07-06/topic/opensquilla-0-5-0-preview-draco-fable-5/"
+      "route": "/hot/2026-07-06/topic/opensquilla-0-5-0-preview-draco-fable-5/",
+      "headline_zh": "OpenSquilla发布0.5.0 Preview：多模型集成登顶DRACO双榜，对比名单中出现最新旗舰Fable 5",
+      "summary_short_zh": "少烧钱、真交付",
+      "why_it_matters_zh": "这则产品发布消息见于 1 个独立来源。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "ed2894143f28",
@@ -1068,7 +1076,14 @@
           "published_at": "2026-07-02T16:46:56Z"
         }
       ],
-      "route": "/hot/2026-07-06/topic/superjj007-csswitch/"
+      "route": "/hot/2026-07-06/topic/superjj007-csswitch/",
+      "headline_zh": "SuperJJ007/CSSwitch",
+      "summary_short_zh": "帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
+      "why_it_matters_zh": "这款工具被 1 个独立来源提及。",
+      "category_zh": "工具",
+      "key_takeaways_zh": [
+        "帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点"
+      ]
     },
     {
       "topic_id": "43c1a76208d7",
@@ -1108,7 +1123,14 @@
           "published_at": "2026-07-02T20:39:23Z"
         }
       ],
-      "route": "/hot/2026-07-06/topic/funador-claude-code-merge-queue/"
+      "route": "/hot/2026-07-06/topic/funador-claude-code-merge-queue/",
+      "headline_zh": "funador/claude-code-merge-queue",
+      "summary_short_zh": "用于并行 Claude Code 智能体的本地合并队列",
+      "why_it_matters_zh": "这款工具被 1 个独立来源提及。",
+      "category_zh": "工具",
+      "key_takeaways_zh": [
+        "用于并行 Claude Code 智能体的本地合并队列。"
+      ]
     },
     {
       "topic_id": "66b177f21c4e",
@@ -1146,7 +1168,10 @@
           "published_at": "2026-07-05T03:59:25+00:00"
         }
       ],
-      "route": "/hot/2026-07-06/topic/quantum-cryptanalysis-on-real-hardware-pushing-symmetric-structure-key-recovery-beyond-the-published-frontier/"
+      "route": "/hot/2026-07-06/topic/quantum-cryptanalysis-on-real-hardware-pushing-symmetric-structure-key-recovery-beyond-the-published-frontier/",
+      "headline_zh": "真实硬件上的量子密码分析：推动对称结构密钥恢复超越已发表研究的前沿",
+      "why_it_matters_zh": "这则产品发布消息见于 1 个独立来源。",
+      "category_zh": "产品发布"
     }
   ],
   "category_sections": [
@@ -1190,7 +1215,11 @@
               "published_at": "2026-07-06T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-06/topic/enpire-agentic-robot-policy-self-improvement-in-the-real-world-nvidia-research-website/"
+          "route": "/hot/2026-07-06/topic/enpire-agentic-robot-policy-self-improvement-in-the-real-world-nvidia-research-website/",
+          "headline_zh": "ENPIRE：真实世界中由智能体驱动的机器人策略自我改进（NVIDIA 研究网站）",
+          "summary_short_zh": "ENPIRE：真实世界中由智能体驱动的机器人策略自我改进（NVIDIA 研究网站",
+          "why_it_matters_zh": "这则行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "81eb58b72348",
@@ -1238,7 +1267,11 @@
               "published_at": "2026-07-06T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-06/topic/sqlite-utils-4-0rc2-mostly-written-by-claude-fable-for-about-149-25/"
+          "route": "/hot/2026-07-06/topic/sqlite-utils-4-0rc2-mostly-written-by-claude-fable-for-about-149-25/",
+          "headline_zh": "sqlite-utils 4.0rc2，主要由 Claude Fable 编写（花费约 149.25 美元）",
+          "summary_short_zh": "<p>几周前，我写过一篇关于 <a href=\" 4.0rc1</a> 版本发布的文章。Max 订阅中的 Claude Fable 再过几天就用不了了，所以我决定看看它能否帮我完成一个让我真正放心的 4.0 稳定版，因为我一直尽量遵循 <a href=\"，也喜欢我的",
+          "why_it_matters_zh": "这则其他类消息见于 3 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "a5d6121555a2",
@@ -1276,7 +1309,10 @@
               "published_at": "2026-07-06T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-06/topic/import-ai-463-self-improving-robots-a-10k-chinese-gpu-cluster-and-an-elegiac-essay-for-the-human-era/"
+          "route": "/hot/2026-07-06/topic/import-ai-463-self-improving-robots-a-10k-chinese-gpu-cluster-and-an-elegiac-essay-for-the-human-era/",
+          "headline_zh": "Import AI 第 463 期：自我改进的机器人、中国的万卡 GPU 集群，以及献给人类时代的挽歌式随笔",
+          "why_it_matters_zh": "这则其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "4f1263afc71e",
@@ -1314,7 +1350,10 @@
               "published_at": "Mon, 06 Jul 2026 01:54:37 +0000"
             }
           ],
-          "route": "/hot/2026-07-06/topic/waic-2026-vla/"
+          "route": "/hot/2026-07-06/topic/waic-2026-vla/",
+          "headline_zh": "征程赶超｜WAIC 2026世界模型激辩：答案不在VLA或世界模型，而在？",
+          "why_it_matters_zh": "这则其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "09cfc792c1bd",
@@ -1352,7 +1391,11 @@
               "published_at": "2026-07-05T10:23:11-04:00"
             }
           ],
-          "route": "/hot/2026-07-06/topic/infuriating-google-commercial-imagines-the-founding-fathers-embracing-ai/"
+          "route": "/hot/2026-07-06/topic/infuriating-google-commercial-imagines-the-founding-fathers-embracing-ai/",
+          "headline_zh": "Google 广告设想美国开国元勋拥抱 AI，令人恼火",
+          "summary_short_zh": "“小组作业，来个 1776 年版。”Google Workspace 的一则新广告这样开场，后面的内容更让人尴尬。短片设想美国开国元勋借助 Google 的协作工具和 Gemini 起草《独立宣言》的场景。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -1396,7 +1439,11 @@
               "published_at": "2026-07-04T22:53:52+00:00"
             }
           ],
-          "route": "/hot/2026-07-06/topic/better-models-worse-tools/"
+          "route": "/hot/2026-07-06/topic/better-models-worse-tools/",
+          "headline_zh": "更强的模型，更差的工具",
+          "summary_short_zh": "<p><strong><a href=\" 模型：更差的工具</a></strong></p> Armin 讲述了自己在折腾 Pi 时遇到的一个怪问题：</p> <blockquote> <p>简单来说，较新的 Claude 模型有时在调用 Pi 的 edit 工具时，会在嵌套的 <code>edits[]</code> 数组中添加额外的虚构字段。",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     }
@@ -1439,7 +1486,11 @@
           "published_at": "2026-07-03T09:22:31Z"
         }
       ],
-      "route": "/hot/2026-07-06/topic/ai4s-research-open-science/"
+      "route": "/hot/2026-07-06/topic/ai4s-research-open-science/",
+      "headline_zh": "ai4s-research/open-science",
+      "summary_short_zh": "Open Science：面向科学家的开放 AI 工作台。Claude Science 的开源替代品：本地优先、不依赖特定模型、支持可复现研究的 AI 科研桌面应用（macOS 和 Windows），基于 Tauri + MCP + 智能体技能构建。",
+      "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+      "category_zh": "工具"
     },
     {
       "topic_id": "67ff2148d58e",
@@ -1477,7 +1528,11 @@
           "published_at": "2026-07-03T15:20:04Z"
         }
       ],
-      "route": "/hot/2026-07-06/topic/kulaxyz-token-diet/"
+      "route": "/hot/2026-07-06/topic/kulaxyz-token-diet/",
+      "headline_zh": "Kulaxyz/token-diet",
+      "summary_short_zh": "面向编程智能体（Claude Code、Codex、Cursor、Windsurf、Cline）的常驻 token 节省技能。平均费用降低约 31%，不影响正确性。",
+      "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+      "category_zh": "工具"
     },
     {
       "topic_id": "186ddb9f32c9",
@@ -1515,7 +1570,11 @@
           "published_at": "2026-07-01T06:57:21Z"
         }
       ],
-      "route": "/hot/2026-07-06/topic/easylink-ai-open-agent-runtime/"
+      "route": "/hot/2026-07-06/topic/easylink-ai-open-agent-runtime/",
+      "headline_zh": "easylink-ai-open/agent-runtime",
+      "summary_short_zh": "独立的智能体运行时核心，提供供应商无关的 LLM 类型、供应商客户端、工具调用循环和扩展协议。",
+      "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+      "category_zh": "工具"
     }
   ],
   "x_buzz": [

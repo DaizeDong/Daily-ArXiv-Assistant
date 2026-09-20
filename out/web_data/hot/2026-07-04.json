@@ -1034,7 +1034,10 @@
           "published_at": "2026-07-03T08:46:16+00:00"
         }
       ],
-      "route": "/hot/2026-07-04/topic/adding-a-gpu-without-building-one/"
+      "route": "/hot/2026-07-04/topic/adding-a-gpu-without-building-one/",
+      "headline_zh": "无需自行制造，也能添加 GPU",
+      "why_it_matters_zh": "1 个独立来源提及了此次产品发布。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "19aebec498f0",
@@ -1072,7 +1075,11 @@
           "published_at": "2026-07-04T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-07-04/topic/locallaws-locus-v1-huggingface/"
+      "route": "/hot/2026-07-04/topic/locallaws-locus-v1-huggingface/",
+      "headline_zh": "LocalLaws / LOCUS-v1 (HuggingFace)",
+      "summary_short_zh": "LocalLaws / LOCUS-v1 (HuggingFace",
+      "why_it_matters_zh": "1 个独立来源提及了此次产品发布。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "ffa14bb4e656",
@@ -1110,7 +1117,11 @@
           "published_at": "2026-07-03T22:04:31+00:00"
         }
       ],
-      "route": "/hot/2026-07-04/topic/open-source-ai-gap-map/"
+      "route": "/hot/2026-07-04/topic/open-source-ai-gap-map/",
+      "headline_zh": "开源 AI 缺口图谱",
+      "summary_short_zh": "<p><strong><a href=\" 开源 AI 缺口图谱</a></strong></p> <a href=\" AI</a> 是一个“致力于打造公共 AI 方案的全球合作组织”，于 2025 年 2 月在巴黎人工智能行动峰会上以非营利组织形式成立，并获雄厚资金支持（已获 4 亿美元出资承诺）。</p> <p>他们<a href=\" 的缺口",
+      "why_it_matters_zh": "1 个独立来源提及了此次产品发布。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "bec3a0af7c03",
@@ -1150,7 +1161,14 @@
           "published_at": "2026-06-29T01:43:10Z"
         }
       ],
-      "route": "/hot/2026-07-04/topic/xuanxuan321-xuanxuan-prompts/"
+      "route": "/hot/2026-07-04/topic/xuanxuan321-xuanxuan-prompts/",
+      "headline_zh": "xuanxuan321/xuanxuan-prompts",
+      "summary_short_zh": "AI Agent 复刻精美网页的提示词合集：每个目录一份 prompt.md + 效果图截图，丢给 Claude/Codex/Kimi 即可生成对应网站",
+      "why_it_matters_zh": "1 个独立来源提及了这款工具。",
+      "category_zh": "工具",
+      "key_takeaways_zh": [
+        "AI Agent 复刻精美网页的提示词合集：每个目录一份 prompt.md + 效果图截图，丢给 Claude/Codex/Kimi 即可生成对应网站"
+      ]
     },
     {
       "topic_id": "ae096dd5dcc6",
@@ -1190,7 +1208,14 @@
           "published_at": "2026-06-30T10:55:02Z"
         }
       ],
-      "route": "/hot/2026-07-04/topic/huangchihhungleo-claude-real-video/"
+      "route": "/hot/2026-07-04/topic/huangchihhungleo-claude-real-video/",
+      "headline_zh": "HUANGCHIHHUNGLeo/claude-real-video",
+      "summary_short_zh": "让 Claude（或任何大语言模型）真正观看视频：支持网址或本地文件，提供按场景提取并去重的视频帧和转录文本。本地运行，采用 MIT 许可",
+      "why_it_matters_zh": "1 个独立来源提及了这款工具。",
+      "category_zh": "工具",
+      "key_takeaways_zh": [
+        "让 Claude（或任何大语言模型）真正观看视频：支持网址或本地文件，提供按场景提取并去重的视频帧和转录文本。本地运行，采用 MIT 许可。"
+      ]
     }
   ],
   "category_sections": [
@@ -1234,7 +1259,11 @@
               "published_at": "2026-07-03T09:56:52-04:00"
             }
           ],
-          "route": "/hot/2026-07-04/topic/anthropic-wants-to-develop-its-own-drugs/"
+          "route": "/hot/2026-07-04/topic/anthropic-wants-to-develop-its-own-drugs/",
+          "headline_zh": "Anthropic 想要自主研发药物",
+          "summary_short_zh": "在本周早些时候的“The Briefing: AI for Science”活动上，Anthropic 宣布推出 Claude Science。这款全新的“面向科学家的 AI 工作台”将分散的工具和数据集整合到同一环境中，并可生成图表和可视化内容。",
+          "why_it_matters_zh": "1 个独立来源提及了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "dce180044dcb",
@@ -1272,7 +1301,11 @@
               "published_at": "2026-07-03T14:50:50+00:00"
             }
           ],
-          "route": "/hot/2026-07-04/topic/june-2026-newsletter/"
+          "route": "/hot/2026-07-04/topic/june-2026-newsletter/",
+          "headline_zh": "2026 年 6 月通讯",
+          "summary_short_zh": "<p>我的<a href=\" 月度通讯</a>6 月刊已发布。如果你是赞助者（或现在开始赞助），可以<a href=\" 在这里阅读</a>。</p> <p>本月内容：</p> <ul> <li>Claude Fable 5、GPT-5.6 和美国出口限制</li> <li>GLM-5.2 成为最强开放权重模型</li>",
+          "why_it_matters_zh": "1 个独立来源提及了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "286f5146a296",
@@ -1310,7 +1343,11 @@
               "published_at": "2026-07-03T07:49:10-04:00"
             }
           ],
-          "route": "/hot/2026-07-04/topic/a-behind-the-scenes-look-at-midjourney-s-medical-scanner-leaves-many-questions-unanswered/"
+          "route": "/hot/2026-07-04/topic/a-behind-the-scenes-look-at-midjourney-s-medical-scanner-leaves-many-questions-unanswered/",
+          "headline_zh": "Midjourney 医疗扫描仪幕后探访：诸多疑问仍无答案",
+          "summary_short_zh": "Midjourney 展示了更多其充满未来感的医疗扫描仪细节，但仍未拿出多少证据证明它有效。",
+          "why_it_matters_zh": "1 个独立来源提及了此次产品发布。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -1354,7 +1391,11 @@
               "published_at": "2026-07-04T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-04/topic/enpire-agentic-robot-policy-self-improvement-in-the-real-world-nvidia-research-website/"
+          "route": "/hot/2026-07-04/topic/enpire-agentic-robot-policy-self-improvement-in-the-real-world-nvidia-research-website/",
+          "headline_zh": "ENPIRE：真实世界中由智能体驱动的机器人策略自我改进（NVIDIA 研究网站）",
+          "summary_short_zh": "ENPIRE：真实世界中由智能体驱动的机器人策略自我改进（NVIDIA 研究网站",
+          "why_it_matters_zh": "这则行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "4044e04a1bcf",
@@ -1402,7 +1443,11 @@
               "published_at": "2026-07-04T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-04/topic/fable-s-judgement/"
+          "route": "/hot/2026-07-04/topic/fable-s-judgement/",
+          "headline_zh": "Fable 的判断力",
+          "summary_short_zh": "<p>周三，我在 AIE 主持了一场<a href=\" 炉边对谈</a>，嘉宾是 Claude Code 团队的 Cat Wu 和 Thariq Shihipar。我从中得到的最有意思的建议之一是：让 Fable（在一定程度上也包括 Opus）自行判断，而不是规定它们该如何工作。</p> <p>这个例子",
+          "why_it_matters_zh": "这则其他类资讯见于 3 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "a5d6121555a2",
@@ -1440,7 +1485,10 @@
               "published_at": "2026-07-04T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-04/topic/import-ai-463-self-improving-robots-a-10k-chinese-gpu-cluster-and-an-elegiac-essay-for-the-human-era/"
+          "route": "/hot/2026-07-04/topic/import-ai-463-self-improving-robots-a-10k-chinese-gpu-cluster-and-an-elegiac-essay-for-the-human-era/",
+          "headline_zh": "Import AI 第 463 期：自我改进的机器人、中国万卡 GPU 集群，以及一篇悼念人类时代的随笔",
+          "why_it_matters_zh": "这则其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "6650e6d1a976",
@@ -1478,7 +1526,11 @@
               "published_at": "Fri, 03 Jul 2026 21:20:00 +0000"
             }
           ],
-          "route": "/hot/2026-07-04/topic/the-only-ai-glossary-you-ll-need-this-year/"
+          "route": "/hot/2026-07-04/topic/the-only-ai-glossary-you-ll-need-this-year/",
+          "headline_zh": "今年的 AI 术语表，这一份就够了",
+          "summary_short_zh": "AI 的兴起催生了大量新术语和行话。这份术语表收录了你可能遇到的一些关键词语和表达，并给出释义。",
+          "why_it_matters_zh": "这则其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "4be071c6023f",
@@ -1516,7 +1568,11 @@
               "published_at": "Fri, 03 Jul 2026 14:28:38 +0000"
             }
           ],
-          "route": "/hot/2026-07-04/topic/llm-jepa/"
+          "route": "/hot/2026-07-04/topic/llm-jepa/",
+          "headline_zh": "从LLM到JEPA，中国团队正在把“世界模型”搬进细胞内部",
+          "summary_short_zh": "四年前LeCun提出JEPA时，大概不会想到，这套架构有一天会被用来理解：一颗细胞。",
+          "why_it_matters_zh": "这则其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -1562,7 +1618,11 @@
               "published_at": "Thu, 02 Jul 2026 23:38:10 +0000"
             }
           ],
-          "route": "/hot/2026-07-04/topic/mark-zuckerberg-tells-staff-that-ai-agents-haven-t-progressed-as-quickly-as-he-d-hoped/"
+          "route": "/hot/2026-07-04/topic/mark-zuckerberg-tells-staff-that-ai-agents-haven-t-progressed-as-quickly-as-he-d-hoped/",
+          "headline_zh": "马克·扎克伯格告诉员工：AI 智能体的进展没有他预想的快",
+          "summary_short_zh": "据报道，Meta 首席执行官在一次内部会议上表示，AI 研发进度不及预期。",
+          "why_it_matters_zh": "这则行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "fa1adc9cbe20",
@@ -1600,7 +1660,10 @@
               "published_at": "2026-07-04T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-04/topic/delegate-team-tasks-to-claude-inside-slack/"
+          "route": "/hot/2026-07-04/topic/delegate-team-tasks-to-claude-inside-slack/",
+          "headline_zh": "在 Slack 中把团队任务交给 Claude",
+          "why_it_matters_zh": "这则其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "573845d355d0",
@@ -1638,7 +1701,10 @@
               "published_at": "2026-07-04T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-04/topic/5-min-read-meta-s-model-turn-brain-waves-into-words/"
+          "route": "/hot/2026-07-04/topic/5-min-read-meta-s-model-turn-brain-waves-into-words/",
+          "headline_zh": "阅读需 5 分钟：Meta 的模型将脑电波转化为文字",
+          "why_it_matters_zh": "这则其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "8c3b62d42014",
@@ -1676,7 +1742,11 @@
               "published_at": "Fri, 03 Jul 2026 18:43:00 +0000"
             }
           ],
-          "route": "/hot/2026-07-04/topic/the-browser-wars-aren-t-about-search-anymore-here-are-the-best-alternatives-to-chrome-and-safari/"
+          "route": "/hot/2026-07-04/topic/the-browser-wars-aren-t-about-search-anymore-here-are-the-best-alternatives-to-chrome-and-safari/",
+          "headline_zh": "浏览器之争已不再围绕搜索：Chrome 和 Safari 的最佳替代选择",
+          "summary_short_zh": "我们汇总了当下几款出色的替代浏览器，它们正试图挑战 Chrome 和 Safari。",
+          "why_it_matters_zh": "这篇综述见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -1718,7 +1788,11 @@
           "published_at": "2026-07-02T16:46:56Z"
         }
       ],
-      "route": "/hot/2026-07-04/topic/superjj007-csswitch/"
+      "route": "/hot/2026-07-04/topic/superjj007-csswitch/",
+      "headline_zh": "SuperJJ007/CSSwitch",
+      "summary_short_zh": "让 Claude Science 的推理走自选的第三方 API（DeepSeek / 通义千问 / 任意 OpenAI 兼容端点），保留工具调用·Skill·MCP·代码执行，含本地虚拟登录跳过。macOS 菜单栏 app。仅供个人学习研究，使用者自负风险。",
+      "why_it_matters_zh": "有 1 个独立来源提及该工具。",
+      "category_zh": "工具"
     },
     {
       "topic_id": "76028c7c7e62",
@@ -1756,7 +1830,11 @@
           "published_at": "2026-06-29T21:47:40Z"
         }
       ],
-      "route": "/hot/2026-07-04/topic/will-hxw-drawio-diagram-builder-skill/"
+      "route": "/hot/2026-07-04/topic/will-hxw-drawio-diagram-builder-skill/",
+      "headline_zh": "Will-hxw/drawio-diagram-builder-skill",
+      "summary_short_zh": "可移植的智能体技能，用于生成可编辑的科研风格 draw.io 图表，并根据截图优化",
+      "why_it_matters_zh": "有 1 个独立来源提及该工具。",
+      "category_zh": "工具"
     },
     {
       "topic_id": "dca4ca0100ab",
@@ -1794,7 +1872,11 @@
           "published_at": "2026-06-29T23:13:39Z"
         }
       ],
-      "route": "/hot/2026-07-04/topic/redevops-io-context-runtime/"
+      "route": "/hot/2026-07-04/topic/redevops-io-context-runtime/",
+      "headline_zh": "redevops-io/context-runtime",
+      "summary_short_zh": "Context Runtime：面向 LLM 上下文的数据库查询规划器。在模型回答前决定它能看到哪些内容，制定计划，复用底层设施执行，并从结果中学习",
+      "why_it_matters_zh": "有 1 个独立来源提及该工具。",
+      "category_zh": "工具"
     }
   ],
   "x_buzz": [

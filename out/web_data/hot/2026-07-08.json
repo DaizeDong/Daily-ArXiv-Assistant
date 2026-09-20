@@ -1651,7 +1651,14 @@
           "published_at": "Wed, 08 Jul 2026 00:00:00 GMT"
         }
       ],
-      "route": "/hot/2026-07-08/topic/open-convenient-and-predictable-introducing-provisioned-throughput/"
+      "route": "/hot/2026-07-08/topic/open-convenient-and-predictable-introducing-provisioned-throughput/",
+      "headline_zh": "开放、便捷、可预期：Provisioned Throughput 正式推出",
+      "summary_short_zh": "Provisioned Throughput 为 MiniMax M3、GLM-5.2 等前沿开放模型提供预留推理容量。按词元计费，提供 99% 可用性保障（SLA），成本比专有 API 最高降低 90%。无需按 GPU 小时核算费用，也无需管理基础设施。",
+      "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Provisioned Throughput 为 MiniMax M3、GLM-5.2 等前沿开放模型提供预留推理容量。按词元计费，提供 99% 可用性保障（SLA），成本比专有 API 最高降低 90%..."
+      ]
     },
     {
       "topic_id": "d5a635cfe001",
@@ -1691,7 +1698,14 @@
           "published_at": "Tue, 07 Jul 2026 16:49:09 +0000"
         }
       ],
-      "route": "/hot/2026-07-08/topic/monitoring-discriminative-ml-models-using-amazon-sagemaker-ai-with-mlflow/"
+      "route": "/hot/2026-07-08/topic/monitoring-discriminative-ml-models-using-amazon-sagemaker-ai-with-mlflow/",
+      "headline_zh": "使用 Amazon SageMaker AI 和 MLflow 监控判别式机器学习模型",
+      "summary_short_zh": "要保持预测准确性，并帮助机器学习应用取得最佳效果，就需要实施数据和模型监控方案。",
+      "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "要保持预测准确性，并帮助机器学习应用取得最佳效果，就需要实施数据和模型监控方案。本文介绍如何使用..."
+      ]
     },
     {
       "topic_id": "e4a60cdc187f",
@@ -1731,7 +1745,14 @@
           "published_at": "Tue, 07 Jul 2026 17:07:22 +0000"
         }
       ],
-      "route": "/hot/2026-07-08/topic/build-a-unified-semantic-layer-across-datasets-with-multi-dataset-topics-in-amazon-quick/"
+      "route": "/hot/2026-07-08/topic/build-a-unified-semantic-layer-across-datasets-with-multi-dataset-topics-in-amazon-quick/",
+      "headline_zh": "利用 Amazon Quick 的多数据集 Topics 构建跨数据集的统一语义层",
+      "summary_short_zh": "本文介绍多数据集 Topics 的工作原理，解释对话智能体如何利用已定义的关系生成跨数据集查询，并以 Quick Sight 中的零售分析场景演示端到端实现过程。",
+      "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "本文介绍多数据集 Topics 的工作原理，解释对话智能体如何利用已定义的关系生成跨数据集查询，并演示端到端实现过程..."
+      ]
     },
     {
       "topic_id": "1da8b0a7681a",
@@ -1769,7 +1790,11 @@
           "published_at": "Tue, 07 Jul 2026 16:42:08 +0000"
         }
       ],
-      "route": "/hot/2026-07-08/topic/the-power-of-collaboration-how-we-can-reduce-traffic-congestion/"
+      "route": "/hot/2026-07-08/topic/the-power-of-collaboration-how-we-can-reduce-traffic-congestion/",
+      "headline_zh": "协作的力量：如何缓解交通拥堵",
+      "summary_short_zh": "算法与理论",
+      "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "e4b96cd0f671",
@@ -1817,7 +1842,15 @@
           "published_at": "Tue, 07 Jul 2026 22:18:10 +0000"
         }
       ],
-      "route": "/hot/2026-07-08/topic/meta-s-new-muse-image-model-can-pull-other-instagram-users-into-ai-photos/"
+      "route": "/hot/2026-07-08/topic/meta-s-new-muse-image-model-can-pull-other-instagram-users-into-ai-photos/",
+      "headline_zh": "Meta 新模型 Muse Image 可让其他 Instagram 用户出现在 AI 照片中",
+      "summary_short_zh": "Meta 正在推出其 Superintelligence Labs 部门开发的首款 AI 图像生成模型。根据周二的公告，Muse Image 已为 Meta AI 应用、Instagram 和 WhatsApp 的图像生成工具提供支持，并将很快登陆 Facebook 和 Messenger。",
+      "why_it_matters_zh": "2 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Meta 正在推出其 Superintelligence Labs 部门开发的首款 AI 图像生成模型。Muse Image 已为 Meta AI 应用、Instagram 和 WhatsApp 的图像生成工具提供支持...",
+        "这款新图像生成模型可用于广告、装饰等多种场景，也为创作者带来了机会。"
+      ]
     }
   ],
   "category_sections": [
@@ -1861,7 +1894,11 @@
               "published_at": "Tue, 07 Jul 2026 08:54:00 +0000"
             }
           ],
-          "route": "/hot/2026-07-08/topic/expanding-managed-agents-in-gemini-api-background-tasks-remote-mcp-and-more/"
+          "route": "/hot/2026-07-08/topic/expanding-managed-agents-in-gemini-api-background-tasks-remote-mcp-and-more/",
+          "headline_zh": "Gemini API 扩展 Managed Agents 功能：后台任务、远程 MCP 等",
+          "summary_short_zh": "Managed Agents 功能套件发布",
+          "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "7728fd053805",
@@ -1899,7 +1936,11 @@
               "published_at": "Tue, 07 Jul 2026 00:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-07-08/topic/australian-payments-plus-moves-faster-with-chatgpt-and-codex/"
+          "route": "/hot/2026-07-08/topic/australian-payments-plus-moves-faster-with-chatgpt-and-codex/",
+          "headline_zh": "Australian Payments Plus 借助 ChatGPT 和 Codex 提升效率",
+          "summary_short_zh": "了解 Australian Payments Plus 如何借助 ChatGPT Enterprise 和 Codex，更高效地应对复杂的支付业务。AP+ 节省了时间、提高了质量，并始终以人的判断为核心。",
+          "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "41835ebf65c1",
@@ -1937,7 +1978,11 @@
               "published_at": "Tue, 07 Jul 2026 00:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-07-08/topic/mufg-aims-to-become-ai-native-with-openai/"
+          "route": "/hot/2026-07-08/topic/mufg-aims-to-become-ai-native-with-openai/",
+          "headline_zh": "MUFG 希望借助 OpenAI 成为 AI 原生企业",
+          "summary_short_zh": "MUFG 利用 ChatGPT Enterprise 打造 AI 原生组织，优化工作流程，并规模化提供由 AI 驱动的新型金融服务",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "13a8f3332e20",
@@ -1975,7 +2020,11 @@
               "published_at": "2026-07-07T09:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-08/topic/solos-debuts-an-even-lighter-version-of-its-camera-less-smart-glasses/"
+          "route": "/hot/2026-07-08/topic/solos-debuts-an-even-lighter-version-of-its-camera-less-smart-glasses/",
+          "headline_zh": "Solos 推出更轻巧的新款无摄像头智能眼镜",
+          "summary_short_zh": "Solos 发布了新款 AirGo 智能眼镜，采用无摄像头设计，外形更简洁，并配备依靠语音交互的 AI 助手。去年的 AirGo A5 根据镜框款式不同，重量为 36 至 40 克，而新款 AirGo A6 约重 19 克。",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2019,7 +2068,11 @@
               "published_at": "Wed, 08 Jul 2026 07:16:00 +0000"
             }
           ],
-          "route": "/hot/2026-07-08/topic/ai-chip-maker-sambanova-raises-1b-at-11b-valuation-5-months-after-last-mega-round/"
+          "route": "/hot/2026-07-08/topic/ai-chip-maker-sambanova-raises-1b-at-11b-valuation-5-months-after-last-mega-round/",
+          "headline_zh": "AI 芯片制造商 SambaNova 以 110 亿美元估值融资 10 亿美元，距上一轮巨额融资仅 5 个月",
+          "summary_short_zh": "AI 芯片制造商 SambaNova 以 110 亿美元估值完成融资。几个月前，曾有传言称英特尔试图以约 16 亿美元收购该公司",
+          "why_it_matters_zh": "此次融资见于 1 个独立来源。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -2069,7 +2122,11 @@
               "published_at": "Tue, 07 Jul 2026 17:07:49 +0000"
             }
           ],
-          "route": "/hot/2026-07-08/topic/data-modeling-best-practices-for-amazon-quick-sight-multi-dataset-relationships/"
+          "route": "/hot/2026-07-08/topic/data-modeling-best-practices-for-amazon-quick-sight-multi-dataset-relationships/",
+          "headline_zh": "Amazon Quick Sight 多数据集关系的数据建模最佳实践",
+          "summary_short_zh": "今天，我们很高兴宣布 Amazon Quick Sight 推出多数据集关系功能。这项新功能让您能够定义 Quick Sight 数据集之间的逻辑关系，并在查询运行时执行联接操作。",
+          "why_it_matters_zh": "这一行业动向见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "987a627da060",
@@ -2107,7 +2164,11 @@
               "published_at": "Tue, 07 Jul 2026 16:51:29 +0000"
             }
           ],
-          "route": "/hot/2026-07-08/topic/build-a-serverless-image-editing-agent-with-amazon-bedrock-agentcore-harness/"
+          "route": "/hot/2026-07-08/topic/build-a-serverless-image-editing-agent-with-amazon-bedrock-agentcore-harness/",
+          "headline_zh": "使用 Amazon Bedrock AgentCore harness 构建无服务器图像编辑智能体",
+          "summary_short_zh": "本文介绍如何构建无服务器图像编辑器：用户上传照片，用简单的英语描述编辑需求，几秒内就能获得结果。智能体在 AgentCore harness 上运行，无需编写自定义编排代码。",
+          "why_it_matters_zh": "这一行业动向见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "2d9022f006cb",
@@ -2151,7 +2212,11 @@
               "published_at": "Wed, 08 Jul 2026 04:47:04 +0000"
             }
           ],
-          "route": "/hot/2026-07-08/topic/deepseek/"
+          "route": "/hot/2026-07-08/topic/deepseek/",
+          "headline_zh": "DeepSeek秘密造芯！专攻推理，一年前已启动，招聘全程不公开",
+          "summary_short_zh": "已与芯片设计公司、晶圆代工厂和存储器供应商展开接洽",
+          "why_it_matters_zh": "这则其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "0fcf048f6373",
@@ -2196,7 +2261,11 @@
               "published_at": "Tue, 07 Jul 2026 16:27:18 +0000"
             }
           ],
-          "route": "/hot/2026-07-08/topic/anthropic-is-launching-claude-cowork-on-mobile-and-web/"
+          "route": "/hot/2026-07-08/topic/anthropic-is-launching-claude-cowork-on-mobile-and-web/",
+          "headline_zh": "Anthropic 将在移动端和网页端推出 Claude Cowork",
+          "summary_short_zh": "从周二起，Anthropic 的 Claude Cowork AI 平台将首次登陆移动端和网页端。",
+          "why_it_matters_zh": "这则其他类消息见于 2 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "a9aa9d27ad1d",
@@ -2234,7 +2303,11 @@
               "published_at": "2026-07-08T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-08/topic/a-significant-increase-in-digital-labor-automation-center-for-ai-safety/"
+          "route": "/hot/2026-07-08/topic/a-significant-increase-in-digital-labor-automation-center-for-ai-safety/",
+          "headline_zh": "数字劳动自动化程度显著提升（AI 安全中心）",
+          "summary_short_zh": "数字劳动自动化程度显著提升（AI 安全中心",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -2278,7 +2351,11 @@
               "published_at": "Tue, 07 Jul 2026 16:46:43 +0000"
             }
           ],
-          "route": "/hot/2026-07-08/topic/build-an-ai-powered-aws-support-companion-with-amazon-bedrock-agentcore/"
+          "route": "/hot/2026-07-08/topic/build-an-ai-powered-aws-support-companion-with-amazon-bedrock-agentcore/",
+          "headline_zh": "使用 Amazon Bedrock AgentCore 构建 AI 驱动的 AWS 支持助手",
+          "summary_short_zh": "本文将带你使用 Amazon Bedrock AgentCore 构建 AWS 支持助手。该智能体采用 Strands Agents 作为编排框架，并通过模型上下文协议（MCP）连接 AWS 服务。",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "00e3d5b036d8",
@@ -2316,7 +2393,11 @@
               "published_at": "2026-07-07T16:18:16+00:00"
             }
           ],
-          "route": "/hot/2026-07-08/topic/github-code-web-component/"
+          "route": "/hot/2026-07-08/topic/github-code-web-component/",
+          "headline_zh": "github-code Web 组件",
+          "summary_short_zh": "<p><strong>工具：</strong> <a href=\" Web 组件</a></p> <p>一个使用 GPT-5.5 和 <a href=\" 以下提示词</a>构建的实验性 Web 组件：</p> <blockquote> <p><code>我们来构建一个用于嵌入 GitHub 代码的 Web 组件</code></p> <p><code>&lt;github-code href=\" <p><code>它接受 URL",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     },
@@ -2360,7 +2441,11 @@
               "published_at": "2026-07-07T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-07-08/topic/vision-as-unified-multimodal-generation/"
+          "route": "/hot/2026-07-08/topic/vision-as-unified-multimodal-generation/",
+          "headline_zh": "将视觉任务建模为统一多模态生成",
+          "summary_short_zh": "我们将计算机视觉建模为统一的多模态生成，在统一多模态模型原生的文本和图像生成空间中表达不同类型的视觉任务，无需采用任务专用架构。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "423b7e405634",
@@ -2398,7 +2483,11 @@
               "published_at": "2026-07-07T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-07-08/topic/alayaworld-long-horizon-and-playable-video-world-generation/"
+          "route": "/hot/2026-07-08/topic/alayaworld-long-horizon-and-playable-video-world-generation/",
+          "headline_zh": "AlayaWorld：长时序、可玩的视频世界生成",
+          "summary_short_zh": "游戏世界的构建传统上依赖耗费大量人力的制作流程，导致开发成本高、定制困难，部署后修改也代价高昂。视频世界模型的最新进展带来了一种截然不同的范式。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "a67db98e7317",
@@ -2436,7 +2525,11 @@
               "published_at": "2026-07-07T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-07-08/topic/turnopd-making-on-policy-distillation-turn-aware-for-efficient-long-horizon-agent-training/"
+          "route": "/hot/2026-07-08/topic/turnopd-making-on-policy-distillation-turn-aware-for-efficient-long-horizon-agent-training/",
+          "headline_zh": "TurnOPD：面向高效长程智能体训练的轮次感知同策略蒸馏",
+          "summary_short_zh": "同策略蒸馏（OPD）通过让学生策略在自身生成的轨迹上对齐更强的教师策略来训练学生，为语言智能体训练提供了一个有前景的框架。然而，其在长程智能体任务中的应用仍缺乏充分探索。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         }
       ]
     }
@@ -2482,7 +2575,11 @@
               "published_at": "2026-07-08T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-08/topic/benchmark-maintainers-here-elliot-arledge-x/"
+          "route": "/hot/2026-07-08/topic/benchmark-maintainers-here-elliot-arledge-x/",
+          "headline_zh": "基准测试维护者在此（Elliot Arledge，X）",
+          "summary_short_zh": "基准测试维护者在此（Elliot Arledge，X",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "a5d6121555a2",
@@ -2520,7 +2617,10 @@
               "published_at": "2026-07-08T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-08/topic/import-ai-463-self-improving-robots-a-10k-chinese-gpu-cluster-and-an-elegiac-essay-for-the-human-era/"
+          "route": "/hot/2026-07-08/topic/import-ai-463-self-improving-robots-a-10k-chinese-gpu-cluster-and-an-elegiac-essay-for-the-human-era/",
+          "headline_zh": "Import AI 第 463 期：自我改进的机器人、中国万卡 GPU 集群，以及一篇献给人类时代的挽歌式随笔",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "57530074ab1d",
@@ -2558,7 +2658,10 @@
               "published_at": "2026-07-08T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-08/topic/import-ai-464-fables-writes-gpu-kernels-ai-automation-and-analog-computation/"
+          "route": "/hot/2026-07-08/topic/import-ai-464-fables-writes-gpu-kernels-ai-automation-and-analog-computation/",
+          "headline_zh": "Import AI 第 464 期：Fables 编写 GPU 内核；AI 自动化；模拟计算",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "51c6d2e2767a",
@@ -2596,7 +2699,11 @@
               "published_at": "Tue, 07 Jul 2026 20:04:32 +0000"
             }
           ],
-          "route": "/hot/2026-07-08/topic/why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet/"
+          "route": "/hot/2026-07-08/topic/why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet/",
+          "headline_zh": "开源 AI 的崛起为何尚未冲击 Anthropic",
+          "summary_short_zh": "开源模型的成功并未以牺牲前沿实验室的利益为代价。两者似乎分别占据了同一生命周期中的两个阶段。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "0b1d695df78c",
@@ -2634,7 +2741,11 @@
               "published_at": "Tue, 07 Jul 2026 13:25:00 -0400"
             }
           ],
-          "route": "/hot/2026-07-08/topic/how-novice-coders-can-develop-ai-programs-for-military-applications/"
+          "route": "/hot/2026-07-08/topic/how-novice-coders-can-develop-ai-programs-for-military-applications/",
+          "headline_zh": "编程新手如何开发军事用途的 AI 程序",
+          "summary_short_zh": "一名美国空军学员和一名林肯实验室研究人员发现，AI 聊天机器人可帮助没有技术背景的军人针对自身的特定问题开发可用的软件应用。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "f2388edaa1c7",
@@ -2672,7 +2783,11 @@
               "published_at": "Tue, 07 Jul 2026 19:28:38 +0000"
             }
           ],
-          "route": "/hot/2026-07-08/topic/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/"
+          "route": "/hot/2026-07-08/topic/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
+          "headline_zh": "Discord 承认 AI 审核缺陷导致用户因无害图片被误封",
+          "summary_short_zh": "该公司确认，这一问题自 5 月起就一直影响着用户账号。在团队发现并修复问题前，周末又有 200 名用户被封禁。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "c464fda36acc",
@@ -2710,7 +2825,11 @@
               "published_at": "Tue, 07 Jul 2026 02:00:00 -0700"
             }
           ],
-          "route": "/hot/2026-07-08/topic/intelligence-is-free-now-what-br-data-systems-for-of-and-by-agents/"
+          "route": "/hot/2026-07-08/topic/intelligence-is-free-now-what-br-data-systems-for-of-and-by-agents/",
+          "headline_zh": "智能免费了，接下来呢？ <br> 为智能体服务、归智能体所有、由智能体构建的数据系统",
+          "summary_short_zh": "<!-- twitter --> <p style=\"text-align: center;\"> <i>……民有、民治、民享的政府……</i><br /> &nbsp;&nbsp;&nbsp;&nbsp;&mdash; 亚伯拉罕·林肯，《葛底斯堡演说》（1863 年） </p> <p>AI 的成本正在迅速下降。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "46c5478efe69",
@@ -2748,7 +2867,11 @@
               "published_at": "Tue, 07 Jul 2026 10:45:00 -0400"
             }
           ],
-          "route": "/hot/2026-07-08/topic/jesse-thaler-named-director-of-the-laboratory-for-nuclear-science/"
+          "route": "/hot/2026-07-08/topic/jesse-thaler-named-director-of-the-laboratory-for-nuclear-science/",
+          "headline_zh": "Jesse Thaler 被任命为核科学实验室主任",
+          "summary_short_zh": "这位物理学教授兼美国国家科学基金会（NSF）人工智能与基本相互作用研究所首任所长将领导核科学实验室（LNS），并继续开展粒子物理研究。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -2790,7 +2913,11 @@
           "published_at": "Tue, 07 Jul 2026 17:07:31 +0000"
         }
       ],
-      "route": "/hot/2026-07-08/topic/multi-dataset-topic-best-practices-for-amazon-quick-chat/"
+      "route": "/hot/2026-07-08/topic/multi-dataset-topic-best-practices-for-amazon-quick-chat/",
+      "headline_zh": "Amazon Quick Chat 多数据集主题最佳实践",
+      "summary_short_zh": "本文面向构建或优化 Quick Sight 主题以支持自然语言对话式数据探索的数据架构师、商业智能（BI）工程师和分析工程师。",
+      "why_it_matters_zh": "这条产品发布消息见于 1 个独立来源。",
+      "category_zh": "产品发布"
     }
   ],
   "x_buzz": [

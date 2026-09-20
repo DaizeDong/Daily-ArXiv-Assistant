@@ -2024,7 +2024,14 @@
           "published_at": "Wed, 08 Jul 2026 16:55:48 +0000"
         }
       ],
-      "route": "/hot/2026-07-09/topic/automatically-sort-and-prioritize-your-mailboxes-by-using-amazon-bedrock/"
+      "route": "/hot/2026-07-09/topic/automatically-sort-and-prioritize-your-mailboxes-by-using-amazon-bedrock/",
+      "headline_zh": "使用 Amazon Bedrock 自动整理邮箱并确定邮件优先级",
+      "summary_short_zh": "本文介绍公共部门机构如何利用基于 Amazon Bedrock 的生成式 AI 解决方案，实现邮件管理自动化",
+      "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "本文介绍公共部门机构如何利用基于 Amazon Bedrock 的生成式 AI 解决方案，实现邮件管理自动化。"
+      ]
     },
     {
       "topic_id": "ffe39bd2ed87",
@@ -2064,7 +2071,14 @@
           "published_at": "Wed, 08 Jul 2026 16:57:12 +0000"
         }
       ],
-      "route": "/hot/2026-07-09/topic/powering-scientific-discovery-byokg-and-graphrag-for-intelligent-pharmaceutical-research/"
+      "route": "/hot/2026-07-09/topic/powering-scientific-discovery-byokg-and-graphrag-for-intelligent-pharmaceutical-research/",
+      "headline_zh": "推动科学发现：将 BYOKG 和 GraphRAG 用于智能药物研发",
+      "summary_short_zh": "本文探讨基于图的检索增强生成（GraphRAG）如何结合图数据库与生成式 AI，变革科学研究。这种方法可以在保持科学严谨性的同时，加快发现进程",
+      "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "本文探讨基于图的检索增强生成（GraphRAG）如何结合图数据库与生成式 AI，变革科学研究。通过这种方法，您可以……"
+      ]
     },
     {
       "topic_id": "81b0803d4f35",
@@ -2115,7 +2129,15 @@
           "published_at": "2026-07-08T23:20:48+00:00"
         }
       ],
-      "route": "/hot/2026-07-09/topic/introducing-gpt-live/"
+      "route": "/hot/2026-07-09/topic/introducing-gpt-live/",
+      "headline_zh": "推出 GPT-Live",
+      "summary_short_zh": "新一代语音模型，支持人与 AI 自然交互，现已应用于 ChatGPT Voice",
+      "why_it_matters_zh": "此次产品发布见于 3 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "新一代语音模型，支持人与 AI 自然交互，现已应用于 ChatGPT Voice。",
+        "Grok 4.5 是 SpaceXAI 最智能的模型，专为编程、智能体任务和知识工作打造。"
+      ]
     },
     {
       "topic_id": "f9d1692c0fec",
@@ -2155,7 +2177,14 @@
           "published_at": "Wed, 08 Jul 2026 10:00:00 GMT"
         }
       ],
-      "route": "/hot/2026-07-09/topic/helping-k-12-educators-build-practical-ai-skills/"
+      "route": "/hot/2026-07-09/topic/helping-k-12-educators-build-practical-ai-skills/",
+      "headline_zh": "帮助 K–12 教育工作者掌握实用 AI 技能",
+      "summary_short_zh": "OpenAI Academy 与沃尔顿家族基金会推出 AI Skills Jams 实践活动，帮助 K–12 教育工作者掌握适用于课堂教学的实用 AI 技能",
+      "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "OpenAI Academy 与沃尔顿家族基金会推出 AI Skills Jams 实践活动，帮助 K–12 教育工作者掌握适用于课堂教学的实用 AI 技能。"
+      ]
     },
     {
       "topic_id": "f1dd05e51a40",
@@ -2195,7 +2224,14 @@
           "published_at": "Wed, 08 Jul 2026 13:00:00 GMT"
         }
       ],
-      "route": "/hot/2026-07-09/topic/separating-signal-from-noise-in-coding-evaluations/"
+      "route": "/hot/2026-07-09/topic/separating-signal-from-noise-in-coding-evaluations/",
+      "headline_zh": "区分编程评测中的信号与噪声",
+      "summary_short_zh": "OpenAI 的一项新分析揭示了热门编程基准 SWE-Bench Pro 存在的问题，引发了对其评估 AI 模型时的可靠性和准确性的担忧",
+      "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "OpenAI 的一项新分析揭示了热门编程基准 SWE-Bench Pro 存在的问题，引发了对其评估 AI 模型时的可靠性和准确性的担忧。"
+      ]
     }
   ],
   "category_sections": [
@@ -2239,7 +2275,11 @@
               "published_at": "Wed, 08 Jul 2026 19:49:22 +0000"
             }
           ],
-          "route": "/hot/2026-07-09/topic/introducing-claude-apps-gateway-for-aws/"
+          "route": "/hot/2026-07-09/topic/introducing-claude-apps-gateway-for-aws/",
+          "headline_zh": "推出 Claude apps gateway for AWS",
+          "summary_short_zh": "今天，我们宣布推出 Claude apps gateway for AWS。这一自托管控制平面让组织能够统一管理 Claude Code 和 Claude Desktop 的访问权限、成本和策略。",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "4eb895f5a4b8",
@@ -2277,7 +2317,11 @@
               "published_at": "Wed, 08 Jul 2026 16:51:35 +0000"
             }
           ],
-          "route": "/hot/2026-07-09/topic/building-and-connecting-a-production-ready-ecommerce-mcp-server-using-amazon-bedrock-agentcore-and-mistral-ai-studio/"
+          "route": "/hot/2026-07-09/topic/building-and-connecting-a-production-ready-ecommerce-mcp-server-using-amazon-bedrock-agentcore-and-mistral-ai-studio/",
+          "headline_zh": "使用 Amazon Bedrock AgentCore 和 Mistral AI Studio 构建并连接可用于生产环境的电商 MCP 服务器",
+          "summary_short_zh": "本文将带您完成该服务器的构建和连接全流程。您将实现 MCP 工具，配置双层 JSON Web Token（JWT）身份验证，使用 AWS Cloud Development Kit（AWS CDK）部署，并将服务器连接到 Mistral AI 的 Vibe。",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "66f76f58cce2",
@@ -2315,7 +2359,11 @@
               "published_at": "Wed, 08 Jul 2026 15:53:08 +0000"
             }
           ],
-          "route": "/hot/2026-07-09/topic/manage-ai-applications-on-mac-with-jamf-s-ai-governance-and-amazon-bedrock/"
+          "route": "/hot/2026-07-09/topic/manage-ai-applications-on-mac-with-jamf-s-ai-governance-and-amazon-bedrock/",
+          "headline_zh": "使用 Jamf 的 AI Governance 和 Amazon Bedrock 管理 Mac 上的 AI 应用",
+          "summary_short_zh": "本文介绍如何使用 Jamf 的 AI Governance 和 Amazon Bedrock，在整个 Mac 设备群中配置、部署和验证 AI 应用的受管设置",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "a83626bdc7e6",
@@ -2353,7 +2401,11 @@
               "published_at": "Wed, 08 Jul 2026 13:30:00 GMT"
             }
           ],
-          "route": "/hot/2026-07-09/topic/our-approach-to-government-and-national-security-partnerships/"
+          "route": "/hot/2026-07-09/topic/our-approach-to-government-and-national-security-partnerships/",
+          "headline_zh": "我们与政府及国家安全机构的合作方针",
+          "summary_short_zh": "了解 OpenAI 与政府及国家安全机构的合作方针，以及在负责任地使用 AI、民主问责和公共安全方面遵循的原则",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "367b96935b41",
@@ -2400,7 +2452,11 @@
               "published_at": "Wed, 08 Jul 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-07-09/topic/nvidia-nemotron-achieves-benchmark-leading-performance-with-langchain-deep-agents-harness/"
+          "route": "/hot/2026-07-09/topic/nvidia-nemotron-achieves-benchmark-leading-performance-with-langchain-deep-agents-harness/",
+          "headline_zh": "NVIDIA Nemotron 借助 LangChain Deep Agents Harness 在基准测试中取得领先表现",
+          "summary_short_zh": "借助规模最大、应用最广的 AI 智能体编排平台，NVIDIA Nemotron 3 Ultra 以低于顶尖闭源模型的成本提供领先性能。",
+          "why_it_matters_zh": "此次产品发布见于 2 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2444,7 +2500,11 @@
               "published_at": "2026-07-08T23:57:21+00:00"
             }
           ],
-          "route": "/hot/2026-07-09/topic/rewriting-bun-in-rust/"
+          "route": "/hot/2026-07-09/topic/rewriting-bun-in-rust/",
+          "headline_zh": "用 Rust 重写 Bun",
+          "summary_short_zh": "<p><strong><a href=\" Rust 版 Bun</a></strong></p> Jarred Sumner 承诺要写这篇博文（<a href=\" 5 月 9 日</a>），介绍他如何将 Bun 从 Zig 改用 Rust 重写。从承诺到发文所花的时间，远远超过了完成重写本身所需的时间。</p> <p>说实话，没白等。",
+          "why_it_matters_zh": "此次融资消息见于 1 个独立来源。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "4ba7b44f18db",
@@ -2488,7 +2548,11 @@
               "published_at": "Wed, 08 Jul 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-07-09/topic/beijing-is-looking-at-curbing-overseas-access-to-china-s-top-ai-models-reuters/"
+          "route": "/hot/2026-07-09/topic/beijing-is-looking-at-curbing-overseas-access-to-china-s-top-ai-models-reuters/",
+          "headline_zh": "北京方面正考虑限制海外对中国顶尖 AI 模型的访问（路透社）",
+          "summary_short_zh": "这张图片是路透社新闻截图，并非表情包：图片。报道称，北京方面正考虑限制海外对中国领先 AI 模型的访问。据称，有关部门出于国家安全担忧，与阿里巴巴、字节跳动和 Z.ai 等企业会面，可能的处罚涉及……",
+          "why_it_matters_zh": "此次融资消息见于 1 个独立来源。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -2532,7 +2596,11 @@
               "published_at": "Wed, 08 Jul 2026 15:57:33 +0000"
             }
           ],
-          "route": "/hot/2026-07-09/topic/securing-amazon-bedrock-agentcore-runtime-with-aws-waf/"
+          "route": "/hot/2026-07-09/topic/securing-amazon-bedrock-agentcore-runtime-with-aws-waf/",
+          "headline_zh": "使用 AWS WAF 保护 Amazon Bedrock AgentCore Runtime",
+          "summary_short_zh": "本文介绍了解决这一问题的两种架构模式。两者均使用面向互联网的 ALB 和 AWS WAF，并通过 VPC 接口端点将流量路由至 AgentCore Runtime。",
+          "why_it_matters_zh": "这一行业动向见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "a9aa9d27ad1d",
@@ -2570,7 +2638,11 @@
               "published_at": "2026-07-09T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-09/topic/a-significant-increase-in-digital-labor-automation-center-for-ai-safety/"
+          "route": "/hot/2026-07-09/topic/a-significant-increase-in-digital-labor-automation-center-for-ai-safety/",
+          "headline_zh": "数字劳动自动化程度显著提高（AI 安全中心）",
+          "summary_short_zh": "数字劳动自动化程度显著提高（AI 安全中心",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "e2d94551c096",
@@ -2608,7 +2680,11 @@
               "published_at": "2026-07-09T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-09/topic/benchmark-maintainers-here-elliot-arledge-x/"
+          "route": "/hot/2026-07-09/topic/benchmark-maintainers-here-elliot-arledge-x/",
+          "headline_zh": "基准测试维护者在这里（Elliot Arledge，X）",
+          "summary_short_zh": "基准测试维护者在这里（Elliot Arledge，X",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "a5d6121555a2",
@@ -2646,7 +2722,10 @@
               "published_at": "2026-07-09T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-09/topic/import-ai-463-self-improving-robots-a-10k-chinese-gpu-cluster-and-an-elegiac-essay-for-the-human-era/"
+          "route": "/hot/2026-07-09/topic/import-ai-463-self-improving-robots-a-10k-chinese-gpu-cluster-and-an-elegiac-essay-for-the-human-era/",
+          "headline_zh": "Import AI 463：自我改进的机器人；中国万卡 GPU 集群；一篇悼念人类时代的随笔",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "57530074ab1d",
@@ -2684,7 +2763,10 @@
               "published_at": "2026-07-09T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-09/topic/import-ai-464-fables-writes-gpu-kernels-ai-automation-and-analog-computation/"
+          "route": "/hot/2026-07-09/topic/import-ai-464-fables-writes-gpu-kernels-ai-automation-and-analog-computation/",
+          "headline_zh": "Import AI 464：Fables 编写 GPU 内核；AI 自动化；模拟计算",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -2728,7 +2810,11 @@
               "published_at": "Wed, 08 Jul 2026 18:30:08 +0000"
             }
           ],
-          "route": "/hot/2026-07-09/topic/google-photos-adds-a-new-ai-video-remix-tool/"
+          "route": "/hot/2026-07-09/topic/google-photos-adds-a-new-ai-video-remix-tool/",
+          "headline_zh": "Google Photos 新增 AI 工具“Video Remix”",
+          "summary_short_zh": "该功能可通过电影级重新布光提亮昏暗的视频片段，将单调背景换成有趣场景，或为视频添加艺术风格。",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "e989a4ce3356",
@@ -2766,7 +2852,11 @@
               "published_at": "Wed, 08 Jul 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-07-09/topic/anthropic-just-reported-that-llms-have-hidden-thoughts-they-hold-without-saying-an-internal-j-space/"
+          "route": "/hot/2026-07-09/topic/anthropic-just-reported-that-llms-have-hidden-thoughts-they-hold-without-saying-an-internal-j-space/",
+          "headline_zh": "Anthropic 最新报告称，大语言模型会藏着想法不说出来。其内部存在一个“J-Space”",
+          "summary_short_zh": "帖子讨论了 Anthropic 的一篇论文，研究一小组名为 J-space 的模型激活。J-space 被描述为类似全局工作空间，可保存和报告信息，并利用这些信息进行多步推理；据称，大量流畅生成过程会绕过它（论文）。",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     },
@@ -2810,7 +2900,11 @@
               "published_at": "2026-07-08T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-07-09/topic/accurate-interdisciplinary-and-transparent-structure-property-understanding-with-deep-native-structural-reasoning/"
+          "route": "/hot/2026-07-09/topic/accurate-interdisciplinary-and-transparent-structure-property-understanding-with-deep-native-structural-reasoning/",
+          "headline_zh": "深度原生结构推理：准确、跨学科、透明的结构与性质关系理解",
+          "summary_short_zh": "结构与性质的关系是生物学、化学和材料科学的基础，功能、反应性和物理响应都源于空间布局、化学结构与周期性排列。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "9af93a757df4",
@@ -2848,7 +2942,11 @@
               "published_at": "2026-07-08T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-07-09/topic/dual-latent-memory-in-vision-language-action-models-for-robotic-manipulation/"
+          "route": "/hot/2026-07-09/topic/dual-latent-memory-in-vision-language-action-models-for-robotic-manipulation/",
+          "headline_zh": "面向机器人操作的视觉-语言-动作模型中的双潜在记忆",
+          "summary_short_zh": "主流视觉-语言-动作（VLA）模型基于马尔可夫假设，主要根据当前观测预测动作，因此难以应对长时程且存在时序依赖的任务。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         }
       ]
     }
@@ -2900,7 +2998,11 @@
               "published_at": "2026-07-08T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-07-09/topic/grok-on-databricks/"
+          "route": "/hot/2026-07-09/topic/grok-on-databricks/",
+          "headline_zh": "Databricks 上的 Grok",
+          "summary_short_zh": "现可在 Databricks Agent Bricks 上使用 Grok 模型",
+          "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "88f24fb95fcc",
@@ -2938,7 +3040,11 @@
               "published_at": "2026-07-08T13:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-09/topic/chatgpt-s-upgraded-voice-mode-is-better-at-shutting-up/"
+          "route": "/hot/2026-07-09/topic/chatgpt-s-upgraded-voice-mode-is-better-at-shutting-up/",
+          "headline_zh": "ChatGPT 升级后的语音模式更懂得适时闭嘴",
+          "summary_short_zh": "OpenAI 正通过新模型全面升级 ChatGPT 的语音模式，称其体验更像“与真人交谈”。新模型 GPT-Live-1 旨在减少对你的打断，在你交谈中途停顿时，也会等你继续说下去。",
+          "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "e2a6491d05fb",
@@ -2976,7 +3082,11 @@
               "published_at": "Wed, 08 Jul 2026 19:30:16 +0000"
             }
           ],
-          "route": "/hot/2026-07-09/topic/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/"
+          "route": "/hot/2026-07-09/topic/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+          "headline_zh": "SpaceXAI 发布 Grok 4.5，马斯克称其为“Opus 级模型”",
+          "summary_short_zh": "埃隆·马斯克旗下的科技公司周三发布了最新版 Grok，称它是其他强大 AI 模型的替代选择，成本更低、效率更高。",
+          "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "89af34538554",
@@ -3014,7 +3124,11 @@
               "published_at": "2026-07-08T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-07-09/topic/first-look-gemma-4-on-cerebras-3-fast-multimodal-apps-we-built/"
+          "route": "/hot/2026-07-09/topic/first-look-gemma-4-on-cerebras-3-fast-multimodal-apps-we-built/",
+          "headline_zh": "初探 Cerebras 上的 Gemma 4：我们开发的 3 款高速多模态应用",
+          "summary_short_zh": "2026年7月8日",
+          "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "f05ac5a9a6bd",
@@ -3052,7 +3166,11 @@
               "published_at": "2026-07-08T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-07-09/topic/how-faster-inference-gives-cybersecurity-companies-an-edge/"
+          "route": "/hot/2026-07-09/topic/how-faster-inference-gives-cybersecurity-companies-an-edge/",
+          "headline_zh": "更快的推理如何帮助网络安全公司赢得竞争优势",
+          "summary_short_zh": "2026年6月15日",
+          "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "6cd6ab2bc611",
@@ -3090,7 +3208,11 @@
               "published_at": "2026-07-08T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-07-09/topic/the-economics-of-ai-reasoning/"
+          "route": "/hot/2026-07-09/topic/the-economics-of-ai-reasoning/",
+          "headline_zh": "AI 推理的经济学",
+          "summary_short_zh": "2026年6月17日",
+          "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "129ebf2190d1",
@@ -3128,7 +3250,11 @@
               "published_at": "2026-07-08T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-07-09/topic/what-is-sovereign-ai-and-how-cerebras-helps-nations/"
+          "route": "/hot/2026-07-09/topic/what-is-sovereign-ai-and-how-cerebras-helps-nations/",
+          "headline_zh": "什么是主权 AI？Cerebras 如何帮助各国？",
+          "summary_short_zh": "2026年5月26日",
+          "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "16bc51ca41f4",
@@ -3166,7 +3292,11 @@
               "published_at": "2026-07-08T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-07-09/topic/which-is-faster-kimi-k2-6-on-cerebras-or-gemini-flash/"
+          "route": "/hot/2026-07-09/topic/which-is-faster-kimi-k2-6-on-cerebras-or-gemini-flash/",
+          "headline_zh": "Cerebras 上的 Kimi K2.6 与 Gemini Flash，哪个更快？",
+          "summary_short_zh": "2026年6月5日",
+          "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+          "category_zh": "产品发布"
         }
       ]
     }

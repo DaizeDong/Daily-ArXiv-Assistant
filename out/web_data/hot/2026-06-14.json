@@ -1135,7 +1135,10 @@
           "published_at": "2026-06-14T03:59:38+00:00"
         }
       ],
-      "route": "/hot/2026-06-14/topic/final-bench-quantum-an-open-neutral-benchmark-for-quantum-computing-methods/"
+      "route": "/hot/2026-06-14/topic/final-bench-quantum-an-open-neutral-benchmark-for-quantum-computing-methods/",
+      "headline_zh": "FINAL-Bench Quantum：面向量子计算方法的开放、中立评测基准",
+      "why_it_matters_zh": "这则产品发布消息见于 1 个独立来源。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "527decfd4a54",
@@ -1194,7 +1197,14 @@
           "published_at": "2026-06-14T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-06-14/topic/mrtooher-fable-mode/"
+      "route": "/hot/2026-06-14/topic/mrtooher-fable-mode/",
+      "headline_zh": "mrtooher/fable-mode",
+      "summary_short_zh": "一个可启用 Fable 式智能体行为的 Claude 技能：明确的多阶段规划、子智能体任务委派和自我验证",
+      "why_it_matters_zh": "这则其他类消息见于 8 个独立来源。",
+      "category_zh": "行业动态",
+      "key_takeaways_zh": [
+        "周五晚间，政府出于国家安全考虑，下令 Anthropic 封禁所有外国对 Fable 5 和 Mythos 5 的访问，无论访问发生在美国境内还是境外。该命令……"
+      ]
     },
     {
       "topic_id": "d67bab1f0223",
@@ -1234,7 +1244,14 @@
           "published_at": "Sun, 14 Jun 2026 00:03:49 +0000"
         }
       ],
-      "route": "/hot/2026-06-14/topic/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijing-s-demand/"
+      "route": "/hot/2026-06-14/topic/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijing-s-demand/",
+      "headline_zh": "据报道，Meta 应北京方面要求，着手撤销 20 亿美元的 Manus 收购交易",
+      "summary_short_zh": "Meta 开始撤销对 Manus 的 20 亿美元收购，此前北京方面已下令取消该交易",
+      "why_it_matters_zh": "这则收购消息见于 1 个独立来源。",
+      "category_zh": "市场信号",
+      "key_takeaways_zh": [
+        "Meta 开始撤销对 Manus 的 20 亿美元收购，此前北京方面已下令取消该交易。"
+      ]
     },
     {
       "topic_id": "a0f84daf8dce",
@@ -1274,7 +1291,14 @@
           "published_at": "2026-06-11T12:18:13Z"
         }
       ],
-      "route": "/hot/2026-06-14/topic/omnigent-ai-omnigent/"
+      "route": "/hot/2026-06-14/topic/omnigent-ai-omnigent/",
+      "headline_zh": "omnigent-ai/omnigent",
+      "summary_short_zh": "面向所有 AI 智能体的元框架。Omnigent 为 Claude Code、Codex、Pi 及你自行编写的智能体提供统一层：无需重写代码即可切换或组合运行框架，通过策略和沙箱约束智能体行为，并可从任意设备在同一运行中的会话内实时协作",
+      "why_it_matters_zh": "这则工具消息见于 1 个独立来源。",
+      "category_zh": "工具",
+      "key_takeaways_zh": [
+        "面向所有 AI 智能体的元框架。Omnigent 为 Claude Code、Codex、Pi 及你自行编写的智能体提供统一层：无需重写代码即可切换或组合运行框架，约束智能体行为……"
+      ]
     },
     {
       "topic_id": "457b7be6f6a2",
@@ -1314,7 +1338,14 @@
           "published_at": "2026-06-12T01:54:12Z"
         }
       ],
-      "route": "/hot/2026-06-14/topic/danmcinerney-architect-loop/"
+      "route": "/hot/2026-06-14/topic/danmcinerney-architect-loop/",
+      "headline_zh": "DanMcInerney/architect-loop",
+      "summary_short_zh": "Claude Fable 5 担任架构师，GPT-5.5 Codex 负责实现，代码仓库充当记忆。这是一个有研究支持、用于跨厂商智能体协作循环的 Claude Code 技能",
+      "why_it_matters_zh": "这则工具消息见于 1 个独立来源。",
+      "category_zh": "工具",
+      "key_takeaways_zh": [
+        "Claude Fable 5 担任架构师，GPT-5.5 Codex 负责实现，代码仓库充当记忆。这是一个有研究支持、用于跨厂商智能体协作循环的 Claude Code 技能"
+      ]
     }
   ],
   "category_sections": [
@@ -1358,7 +1389,10 @@
               "published_at": "2026-06-14T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-14/topic/import-ai-460-reward-hacking-society-rsi-data-from-anthropic-and-rl-based-quadcopter-racing/"
+          "route": "/hot/2026-06-14/topic/import-ai-460-reward-hacking-society-rsi-data-from-anthropic-and-rl-based-quadcopter-racing/",
+          "headline_zh": "Import AI 第 460 期：社会层面的奖励投机、Anthropic 的 RSI 数据，以及基于强化学习的四旋翼竞速",
+          "why_it_matters_zh": "这则其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "40de53fc90c0",
@@ -1396,7 +1430,11 @@
               "published_at": "2026-06-14T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-14/topic/when-ai-builds-itself-the-anthropic-institute/"
+          "route": "/hot/2026-06-14/topic/when-ai-builds-itself-the-anthropic-institute/",
+          "headline_zh": "当 AI 自我构建时（Anthropic Institute）",
+          "summary_short_zh": "当 AI 自我构建时（Anthropic Institute",
+          "why_it_matters_zh": "这则其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "caea64c53f71",
@@ -1434,7 +1472,10 @@
               "published_at": "2026-06-14T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-14/topic/import-ai-459-ai-oversight-is-difficult-scaling-laws-for-protein-folding-models-and-pricing-the-extinction-risk-of-ai-systems/"
+          "route": "/hot/2026-06-14/topic/import-ai-459-ai-oversight-is-difficult-scaling-laws-for-protein-folding-models-and-pricing-the-extinction-risk-of-ai-systems/",
+          "headline_zh": "Import AI 第 459 期：监督 AI 很难、蛋白质折叠模型的缩放定律，以及为 AI 系统带来的灭绝风险定价",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "cc3a7592c256",
@@ -1472,7 +1513,11 @@
               "published_at": "2026-06-14T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-14/topic/state-media-control-influences-large-language-models-nature-pdf/"
+          "route": "/hot/2026-06-14/topic/state-media-control-influences-large-language-models-nature-pdf/",
+          "headline_zh": "国家对媒体的管控影响大语言模型（《自然》，PDF）",
+          "summary_short_zh": "国家对媒体的管控影响大语言模型（《自然》，PDF",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "e7fa33c1653d",
@@ -1510,7 +1555,11 @@
               "published_at": "Sat, 13 Jun 2026 16:47:18 +0000"
             }
           ],
-          "route": "/hot/2026-06-14/topic/openai-faces-investigation-from-state-attorneys-general/"
+          "route": "/hot/2026-06-14/topic/openai-faces-investigation-from-state-attorneys-general/",
+          "headline_zh": "OpenAI 面临多州总检察长调查",
+          "summary_short_zh": "目前尚不清楚哪些州参与了调查，但询问范围涵盖 OpenAI 的广告政策、健康数据处理方式等诸多方面。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -1554,7 +1603,11 @@
               "published_at": "2026-06-13T23:05:00+00:00"
             }
           ],
-          "route": "/hot/2026-06-14/topic/mapping-sqlite-result-columns-back-to-their-source-table-column/"
+          "route": "/hot/2026-06-14/topic/mapping-sqlite-result-columns-back-to-their-source-table-column/",
+          "headline_zh": "将 SQLite 查询结果列映射回源 `table.column`",
+          "summary_short_zh": "<p><strong>研究：</strong> <a href=\" 将 SQLite 查询结果列映射回源 `table.column`</a></p> <p>如果能根据结果中包含了哪些表的哪些列，在呈现 <a href=\" 中任意 SQL 查询的结果时附加相关信息，那就很棒了。</p> <p>要构建",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "5b8cb58a0d0f",
@@ -1592,7 +1645,11 @@
               "published_at": "2026-06-13T23:55:18+00:00"
             }
           ],
-          "route": "/hot/2026-06-14/topic/publishing-wasm-wheels-to-pypi-for-use-with-pyodide/"
+          "route": "/hot/2026-06-14/topic/publishing-wasm-wheels-to-pypi-for-use-with-pyodide/",
+          "headline_zh": "向 PyPI 发布供 Pyodide 使用的 WASM wheel 包",
+          "summary_short_zh": "<p><a href=\" 314.0 版本发布公告</a>（来自 <a href=\" News</a>）带来了我期待已久的消息：</p> <blockquote> <p>现在可以发布为 Pyodide 构建的 Python 包（或为任何兼容 <a href=\" PEP 中定义的 PyEmscripten 平台的 Python 运行时构建的包",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "963af278fb72",
@@ -1630,7 +1687,11 @@
               "published_at": "2026-06-12T23:53:04+00:00"
             }
           ],
-          "route": "/hot/2026-06-14/topic/openai-webrtc-audio-session-now-with-document-context/"
+          "route": "/hot/2026-06-14/topic/openai-webrtc-audio-session-now-with-document-context/",
+          "headline_zh": "OpenAI WebRTC 音频会话现已支持文档上下文",
+          "summary_short_zh": "<p><strong><a href=\" WebRTC 音频会话现已支持文档上下文</a></strong></p> 我在 <a href=\" 2024 年 12 月</a>开发了这个工具的首个版本，用来试用当时刚推出的 OpenAI WebRTC API，与其实时音频模型交互。</p> <p>上个月，OpenAI <a href=\" 全新的",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     }
@@ -1676,7 +1737,10 @@
               "published_at": "2026-06-14T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-14/topic/anthropic-writes-washington-an-ai-regulation-playbook/"
+          "route": "/hot/2026-06-14/topic/anthropic-writes-washington-an-ai-regulation-playbook/",
+          "headline_zh": "Anthropic 为华盛顿编写 AI 监管指南",
+          "why_it_matters_zh": "这条行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "5351e217c357",
@@ -1714,7 +1778,10 @@
               "published_at": "Sat, 13 Jun 2026 05:19:13 +0000"
             }
           ],
-          "route": "/hot/2026-06-14/topic/2026-ai/"
+          "route": "/hot/2026-06-14/topic/2026-ai/",
+          "headline_zh": "2026智源大会开幕：推动AI、物理世界和生命科学“三体互动”",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "8257ea6377d7",
@@ -1752,7 +1819,11 @@
               "published_at": "Sat, 13 Jun 2026 08:11:07 +0000"
             }
           ],
-          "route": "/hot/2026-06-14/topic/agent-jiuwen-symbiosis/"
+          "route": "/hot/2026-06-14/topic/agent-jiuwen-symbiosis/",
+          "headline_zh": "Agent终于长出了身体：Jiuwen Symbiosis背后的思考与实践",
+          "summary_short_zh": "一起构建下一代物理世界的智能系统",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "da54501a0b1e",
@@ -1790,7 +1861,11 @@
               "published_at": "2026-06-13T09:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-14/topic/my-yard-is-dying-so-i-made-an-app-for-that/"
+          "route": "/hot/2026-06-14/topic/my-yard-is-dying-so-i-made-an-app-for-that/",
+          "headline_zh": "我家院子里的植物快枯死了，于是我为此做了个应用",
+          "summary_short_zh": "给 Gemini 输入一大段提示词后，过了五分钟，我回到电脑前，看到了两样东西：预览窗口里一个能用的应用，以及一条报错信息。“~ 通道已损坏且无法恢复，将被释放！”听起来很糟！但就在下方，有个修复错误的按钮。挺奇怪的。",
+          "why_it_matters_zh": "此观点见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "a8f65729a1cf",
@@ -1828,7 +1903,11 @@
               "published_at": "2026-06-13T08:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-14/topic/apple-s-new-ai-photo-editing-tools-mostly-work-for-better-and-worse/"
+          "route": "/hot/2026-06-14/topic/apple-s-new-ai-photo-editing-tools-mostly-work-for-better-and-worse/",
+          "headline_zh": "苹果的新 AI 修图工具大多管用，利弊并存",
+          "summary_short_zh": "全球最受欢迎的相机刚刚迎来首批真正像样的 AI 修图功能，而我觉得我们谁都还没准备好。就 AI 修图而言，相比谷歌 Pixel 手机等设备能做到的效果，iOS 27 的新功能其实相当克制。不过",
+          "why_it_matters_zh": "此观点见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -1870,7 +1949,11 @@
           "published_at": "2026-06-09T03:46:34Z"
         }
       ],
-      "route": "/hot/2026-06-14/topic/valkor-ai-loom/"
+      "route": "/hot/2026-06-14/topic/valkor-ai-loom/",
+      "headline_zh": "valkor-ai/loom",
+      "summary_short_zh": "面向智能体驱动软件交付的循环工程",
+      "why_it_matters_zh": "此工具见于 1 个独立来源。",
+      "category_zh": "工具"
     },
     {
       "topic_id": "92a485f649a1",
@@ -1908,7 +1991,11 @@
           "published_at": "2026-06-09T06:28:20Z"
         }
       ],
-      "route": "/hot/2026-06-14/topic/cobusgreyling-loop-engineering/"
+      "route": "/hot/2026-06-14/topic/cobusgreyling-loop-engineering/",
+      "headline_zh": "cobusgreyling/loop-engineering",
+      "summary_short_zh": "使用 AI 编程智能体开展循环工程的实用模式、入门模板和命令行工具。设计向智能体提供提示并编排其工作的系统（灵感来自 Addy Osmani 和 Boris Cherny）。包含 loop-audit、loop-init、loop-cost",
+      "why_it_matters_zh": "此工具见于 1 个独立来源。",
+      "category_zh": "工具"
     },
     {
       "topic_id": "316e71bbe2ab",
@@ -1946,7 +2033,11 @@
           "published_at": "2026-06-09T13:34:34Z"
         }
       ],
-      "route": "/hot/2026-06-14/topic/hvardhan878-ghostwork/"
+      "route": "/hot/2026-06-14/topic/hvardhan878-ghostwork/",
+      "headline_zh": "hvardhan878/ghostwork",
+      "summary_short_zh": "你的专属 AI 员工。观察你的屏幕，学习你的工作流程，自动处理重复任务。基于 Screenpipe 构建，完全在本地运行，无需云端，无需配置。你无需改变使用习惯，它就会每天进步。",
+      "why_it_matters_zh": "此工具见于 1 个独立来源。",
+      "category_zh": "工具"
     }
   ],
   "x_buzz": [

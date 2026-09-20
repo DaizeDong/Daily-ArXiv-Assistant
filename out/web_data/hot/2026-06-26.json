@@ -2212,7 +2212,15 @@
           "published_at": "Thu, 25 Jun 2026 18:38:51 +0000"
         }
       ],
-      "route": "/hot/2026-06-26/topic/our-latest-google-finance-upgrades-including-a-new-app/"
+      "route": "/hot/2026-06-26/topic/our-latest-google-finance-upgrades-including-a-new-app/",
+      "headline_zh": "Google Finance 最新升级，包括全新应用",
+      "summary_short_zh": "Google Finance 标志，周围环绕着用户界面元素",
+      "why_it_matters_zh": "此次产品发布有 2 个独立来源报道。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Google Finance 标志，周围环绕着用户界面元素",
+        "等了 20 年，Finance 应用终于来了，一上线就塞满了 AI 功能。"
+      ]
     },
     {
       "topic_id": "7f799a7b91a3",
@@ -2250,7 +2258,11 @@
           "published_at": "Thu, 25 Jun 2026 10:03:00 +0000"
         }
       ],
-      "route": "/hot/2026-06-26/topic/optimizing-cloud-economics-with-linear-elastic-caching/"
+      "route": "/hot/2026-06-26/topic/optimizing-cloud-economics-with-linear-elastic-caching/",
+      "headline_zh": "通过线性弹性缓存优化云成本效益",
+      "summary_short_zh": "算法与理论",
+      "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "0a64fda5e083",
@@ -2290,7 +2302,14 @@
           "published_at": "Thu, 25 Jun 2026 16:41:47 +0000"
         }
       ],
-      "route": "/hot/2026-06-26/topic/optimize-model-training-on-amazon-sagemaker-ai-with-nvidia-blackwell/"
+      "route": "/hot/2026-06-26/topic/optimize-model-training-on-amazon-sagemaker-ai-with-nvidia-blackwell/",
+      "headline_zh": "利用 NVIDIA Blackwell 优化 Amazon SageMaker AI 上的模型训练",
+      "summary_short_zh": "本文介绍如何配置 Amazon SageMaker AI 训练任务，充分发挥 AWS 上 Blackwell 架构的优势。",
+      "why_it_matters_zh": "这项工具有 1 个独立来源报道。",
+      "category_zh": "工具",
+      "key_takeaways_zh": [
+        "本文介绍如何配置 Amazon SageMaker AI 训练任务，充分发挥 AWS 上 Blackwell 架构的优势。你将了解如何选择批大小和序列长度，以便……"
+      ]
     },
     {
       "topic_id": "4670e79278b3",
@@ -2330,7 +2349,14 @@
           "published_at": "Thu, 25 Jun 2026 17:55:10 +0000"
         }
       ],
-      "route": "/hot/2026-06-26/topic/retrofit-don-t-rebuild-agentic-overlays-for-transforming-legacy-enterprise-services/"
+      "route": "/hot/2026-06-26/topic/retrofit-don-t-rebuild-agentic-overlays-for-transforming-legacy-enterprise-services/",
+      "headline_zh": "改造而非重建：用智能体叠加层升级企业遗留服务",
+      "summary_short_zh": "在 AWS 与作者开展的这项技术合作中，我们提出了一种务实的方案：智能体叠加层。这种轻量封装层可将传统 REST 服务转化为能够参与 A2A 交互的智能体。",
+      "why_it_matters_zh": "这一行业动向有 1 个独立来源报道。",
+      "category_zh": "行业动态",
+      "key_takeaways_zh": [
+        "在 AWS 与作者开展的这项技术合作中，我们提出了一种务实的方案：智能体叠加层。这种轻量封装层可改造传统 REST 服务……"
+      ]
     },
     {
       "topic_id": "ea1a9fca7052",
@@ -2370,7 +2396,14 @@
           "published_at": "Thu, 25 Jun 2026 23:34:39 +0000"
         }
       ],
-      "route": "/hot/2026-06-26/topic/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/"
+      "route": "/hot/2026-06-26/topic/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+      "headline_zh": "白宫因安全担忧要求 OpenAI 放缓新模型发布",
+      "summary_short_zh": "据报道，OpenAI 计划仅向少数合作伙伴开放其最新模型 GPT 5.6，而不面向公众。原因是特朗普政府要求它这么做",
+      "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "据报道，OpenAI 计划仅向少数合作伙伴开放其最新模型 GPT 5.6，而不面向公众。原因是特朗普政府要求它这么做。"
+      ]
     }
   ],
   "category_sections": [
@@ -2414,7 +2447,11 @@
               "published_at": "2026-06-25T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-06-26/topic/automating-fork-maintenance-with-ai-agents-cohere/"
+          "route": "/hot/2026-06-26/topic/automating-fork-maintenance-with-ai-agents-cohere/",
+          "headline_zh": "用 AI 智能体自动维护分叉仓库 | Cohere",
+          "summary_short_zh": "AI 智能体自动维护 vLLM 分叉仓库，通过自动变基、测试和解决冲突，将上游同步时间从数周缩短至数天",
+          "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "51c159b538f5",
@@ -2452,7 +2489,11 @@
               "published_at": "2026-06-25T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-06-26/topic/creating-a-security-agent-with-cohere-north-and-wiz-cohere/"
+          "route": "/hot/2026-06-26/topic/creating-a-security-agent-with-cohere-north-and-wiz-cohere/",
+          "headline_zh": "使用 Cohere North 和 Wiz 创建安全智能体 | Cohere",
+          "summary_short_zh": "了解 Cohere 团队如何使用 North、Wiz 和自定义 MCP 服务器，借助 AI 自动执行事件响应流程",
+          "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "5291a40e35e9",
@@ -2490,7 +2531,11 @@
               "published_at": "Thu, 25 Jun 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-06-26/topic/unlimited-ocr-is-now-on-modelscope-a-3-3b-multilingual-ocr-model-for-one-shot-parsing-across-single-images-multi-page-documents-and-pdfs-license-mit/"
+          "route": "/hot/2026-06-26/topic/unlimited-ocr-is-now-on-modelscope-a-3-3b-multilingual-ocr-model-for-one-shot-parsing-across-single-images-multi-page-documents-and-pdfs-license-mit/",
+          "headline_zh": "Unlimited-OCR 现已上线 ModelScope！这款 33 亿参数的多语言 OCR 模型支持一次性解析单张图像、多页文档和 PDF。许可证：MIT",
+          "summary_short_zh": "百度的 Unlimited-OCR 已在 ModelScope 上发布。这款采用 MIT 许可证的 33 亿参数多语言 OCR/文档解析模型，旨在一次性完整解析单张图像、多页文档和 PDF，最多可输出 32K 个 token，以处理较长的 OCR 序列。",
+          "why_it_matters_zh": "本次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "4a462d5044c5",
@@ -2528,7 +2573,11 @@
               "published_at": "Thu, 25 Jun 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-06-26/topic/google-pushes-computer-use-into-gemini-3-5-flash/"
+          "route": "/hot/2026-06-26/topic/google-pushes-computer-use-into-gemini-3-5-flash/",
+          "headline_zh": "Google 为 Gemini 3.5 Flash 引入计算机操作能力",
+          "summary_short_zh": "Google 将计算机操作设为 Gemini 3.5 Flash 的核心内置能力，覆盖浏览器、桌面和移动端。主要发布帖来自 @Google、@GoogleDeepMind 和 @googledevs。",
+          "why_it_matters_zh": "本次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "dbafc4c4e555",
@@ -2566,7 +2615,11 @@
               "published_at": "Thu, 25 Jun 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-06-26/topic/nvidia-has-released-nemotron-twotower-30b-a3b-base-bf16-an-unusual-diffusion-based-language-model-built-from-the-nemotron-3-nano-30b-a3b-backbone/"
+          "route": "/hot/2026-06-26/topic/nvidia-has-released-nemotron-twotower-30b-a3b-base-bf16-an-unusual-diffusion-based-language-model-built-from-the-nemotron-3-nano-30b-a3b-backbone/",
+          "headline_zh": "NVIDIA 发布了 Nemotron-TwoTower-30B-A3B-Base-BF16，这是一款少见的扩散式语言模型，基于 Nemotron 3 Nano 30B-A3B 骨干网络构建。",
+          "summary_short_zh": "NVIDIA 发布了 Nemotron-TwoTower-30B-A3B-Base-BF16，这是一款由 Nemotron 3 Nano 30B-A3B 骨干网络衍生的扩散式大语言模型。",
+          "why_it_matters_zh": "本次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2610,7 +2663,11 @@
               "published_at": "Thu, 25 Jun 2026 20:19:25 +0000"
             }
           ],
-          "route": "/hot/2026-06-26/topic/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/"
+          "route": "/hot/2026-06-26/topic/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
+          "headline_zh": "Patronus AI 获得 5000 万美元融资，用于构建为 AI 智能体进行压力测试的“数字世界”",
+          "summary_short_zh": "投资方表示，由前 Meta AI 研究员创办的智能体测试初创公司 Patronus AI 正面临旺盛到几乎无法满足的市场需求",
+          "why_it_matters_zh": "本次融资消息见于 1 个独立来源。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "46db37026b93",
@@ -2648,7 +2705,11 @@
               "published_at": "Thu, 25 Jun 2026 16:55:00 +0000"
             }
           ],
-          "route": "/hot/2026-06-26/topic/general-intuition-s-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/"
+          "route": "/hot/2026-06-26/topic/general-intuition-s-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+          "headline_zh": "General Intuition 的 23 亿美元押注：用电子游戏训练适应现实世界的 AI 智能体",
+          "summary_short_zh": "General Intuition 已融资 3.2 亿美元，用于扩大以数百万小时游戏数据训练的 AI 的规模，押注行为数据能帮助 AI 形成更接近人类的直觉",
+          "why_it_matters_zh": "本次融资消息见于 1 个独立来源。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "d9cf75766152",
@@ -2686,7 +2747,11 @@
               "published_at": "Thu, 25 Jun 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-06-26/topic/the-eu-is-funding-its-own-open-source-400b-frontier-model-built-on-european-supercomputers/"
+          "route": "/hot/2026-06-26/topic/the-eu-is-funding-its-own-open-source-400b-frontier-model-built-on-european-supercomputers/",
+          "headline_zh": "欧盟正出资打造自己的开源前沿模型，参数超 4000 亿，依托欧洲超级计算机训练",
+          "summary_short_zh": "欧盟委员会在“前沿 AI 大挑战”中选中由 Domyn 牵头的 EUROPA 联盟，计划在针对 AI 优化的欧洲公共 EuroHPC 超级计算机上训练一个超 4000 亿参数的开源模型，目标覆盖欧盟全部 24 种官方语言（来源）。",
+          "why_it_matters_zh": "本次融资消息见于 1 个独立来源。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "5d57ff4e976b",
@@ -2724,7 +2789,11 @@
               "published_at": "Thu, 25 Jun 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-06-26/topic/hugging-face-crossed-a-major-business-milestone-without-abandoning-its-open-positioning/"
+          "route": "/hot/2026-06-26/topic/hugging-face-crossed-a-major-business-milestone-without-abandoning-its-open-positioning/",
+          "headline_zh": "Hugging Face 迎来重要商业里程碑，继续坚持开放定位",
+          "summary_short_zh": "Clement Delangue 宣布，Hugging Face 的年化收入达到 1 亿美元，同时表示平台仍向 97% 的用户免费开放，并管理着数百 PB 的模型和数据集。",
+          "why_it_matters_zh": "本次融资消息见于 1 个独立来源。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -2768,7 +2837,11 @@
               "published_at": "2026-06-25T22:28:46+00:00"
             }
           ],
-          "route": "/hot/2026-06-26/topic/ai-and-liability/"
+          "route": "/hot/2026-06-26/topic/ai-and-liability/",
+          "headline_zh": "AI 与法律责任",
+          "summary_short_zh": "<p><strong><a href=\" 与法律责任</a></strong></p> Bruce Schneier 就近期要求 Google 对其 AI 概览中的错误承担责任的<a href=\" 裁决</a>评论道：</p> <blockquote> <p>AI 智能体是部署它们的个人或组织的代理人，法律也应将其视为",
+          "why_it_matters_zh": "这一行业动向见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "df1b171a7dc3",
@@ -2806,7 +2879,11 @@
               "published_at": "2026-06-25T17:57:06-04:00"
             }
           ],
-          "route": "/hot/2026-06-26/topic/openai-will-delay-gpt-5-6-after-trump-administration-request/"
+          "route": "/hot/2026-06-26/topic/openai-will-delay-gpt-5-6-after-trump-administration-request/",
+          "headline_zh": "应特朗普政府要求，OpenAI 将推迟发布 GPT-5.6",
+          "summary_short_zh": "据报道，特朗普政府因担忧潜在安全问题，已要求 OpenAI 分批发布下一款重磅模型 GPT-5.6。",
+          "why_it_matters_zh": "这一行业动向见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "09698cb39e37",
@@ -2853,7 +2930,11 @@
               "published_at": "Thu, 25 Jun 2026 18:01:48 +0000"
             }
           ],
-          "route": "/hot/2026-06-26/topic/anthropic-says-alibaba-must-be-punished-for-largest-claude-cloning-attack/"
+          "route": "/hot/2026-06-26/topic/anthropic-says-alibaba-must-be-punished-for-largest-claude-cloning-attack/",
+          "headline_zh": "Anthropic 称阿里巴巴必须为规模最大的 Claude 克隆攻击受罚",
+          "summary_short_zh": "阿里巴巴被指使用 2.5 万个账号，通过超过 2880 万次交互提取 Claude 的能力",
+          "why_it_matters_zh": "这则消息见于 2 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "57ec1e2a80e7",
@@ -2891,7 +2972,11 @@
               "published_at": "Fri, 26 Jun 2026 06:55:20 +0000"
             }
           ],
-          "route": "/hot/2026-06-26/topic/claude-fable-5-gpt-5-6/"
+          "route": "/hot/2026-06-26/topic/claude-fable-5-gpt-5-6/",
+          "headline_zh": "Claude Fable 5分批重新上线！GPT-5.6秒跟",
+          "summary_short_zh": "这不能是营销计划的一部分吧？",
+          "why_it_matters_zh": "这则消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "30295a60029f",
@@ -2929,7 +3014,11 @@
               "published_at": "2026-06-26T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-26/topic/first-steps-toward-automated-ai-research-recursive/"
+          "route": "/hot/2026-06-26/topic/first-steps-toward-automated-ai-research-recursive/",
+          "headline_zh": "迈向自动化 AI 研究的第一步（Recursive）",
+          "summary_short_zh": "迈向自动化 AI 研究的第一步（Recursive",
+          "why_it_matters_zh": "这则消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -2973,7 +3062,11 @@
               "published_at": "Thu, 25 Jun 2026 16:48:11 +0000"
             }
           ],
-          "route": "/hot/2026-06-26/topic/databricks-former-ai-chief-thinks-he-can-cut-ai-s-power-bill-by-1-000x/"
+          "route": "/hot/2026-06-26/topic/databricks-former-ai-chief-thinks-he-can-cut-ai-s-power-bill-by-1-000x/",
+          "headline_zh": "Databricks 前 AI 负责人认为，他能将 AI 电费降至原来的千分之一",
+          "summary_short_zh": "Un-0 是一款图像生成工具，首次展示了该公司的技术如何复现传统 AI 系统。",
+          "why_it_matters_zh": "这则工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "9353db5c3dd9",
@@ -3023,7 +3116,11 @@
               "published_at": "2026-06-25T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-06-26/topic/qwen-image-agent-bridging-the-context-gap-in-real-world-image-generation/"
+          "route": "/hot/2026-06-26/topic/qwen-image-agent-bridging-the-context-gap-in-real-world-image-generation/",
+          "headline_zh": "Qwen-Image-Agent：填补真实场景图像生成中的上下文缺口",
+          "summary_short_zh": "尽管文生图（T2I）模型已取得显著进展，但仍难以应对现实中的需求，这些需求往往描述不充分、意图不明确，或依赖最新知识。",
+          "why_it_matters_zh": "这则工具动态见于 3 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     }
@@ -3069,7 +3166,11 @@
               "published_at": "2026-06-26T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-26/topic/how-long-until-ai-doesn-t-need-humans-ajeya-cotra-timothy-b-lee-asterisk-magazine/"
+          "route": "/hot/2026-06-26/topic/how-long-until-ai-doesn-t-need-humans-ajeya-cotra-timothy-b-lee-asterisk-magazine/",
+          "headline_zh": "AI 还要多久才能不再需要人类？Ajeya Cotra、Timothy B. Lee（《Asterisk》杂志）",
+          "summary_short_zh": "AI 还要多久才能不再需要人类？Ajeya Cotra、Timothy B. Lee（《Asterisk》杂志",
+          "why_it_matters_zh": "这则消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "d3903f19f59e",
@@ -3107,7 +3208,10 @@
               "published_at": "2026-06-26T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-26/topic/import-ai-461-alignment-is-not-on-track-frontiercode-and-synthetic-research-interns/"
+          "route": "/hot/2026-06-26/topic/import-ai-461-alignment-is-not-on-track-frontiercode-and-synthetic-research-interns/",
+          "headline_zh": "Import AI 第 461 期：“对齐进展未达预期”；FrontierCode；AI 研究实习生",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "11522b902792",
@@ -3145,7 +3249,10 @@
               "published_at": "2026-06-26T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-26/topic/import-ai-462-superpersuasion-self-sustaining-ai-paths-to-asi/"
+          "route": "/hot/2026-06-26/topic/import-ai-462-superpersuasion-self-sustaining-ai-paths-to-asi/",
+          "headline_zh": "Import AI 第 462 期：超级说服力；自我维持的 AI；通往 ASI 的路径",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "18e82488fffa",
@@ -3183,7 +3290,11 @@
               "published_at": "2026-06-26T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-26/topic/research-kobi-hackenburg-researcher-at-aisi/"
+          "route": "/hot/2026-06-26/topic/research-kobi-hackenburg-researcher-at-aisi/",
+          "headline_zh": "研究（AISI 研究员 Kobi Hackenburg）",
+          "summary_short_zh": "研究（AISI 研究员 Kobi Hackenburg",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "71ba1633742e",
@@ -3221,7 +3332,11 @@
               "published_at": "Fri, 26 Jun 2026 03:23:35 +0000"
             }
           ],
-          "route": "/hot/2026-06-26/topic/moe-import-3-7/"
+          "route": "/hot/2026-06-26/topic/moe-import-3-7/",
+          "headline_zh": "英伟达MoE新开源：一行import，微调加速3.7倍",
+          "summary_short_zh": "在Transformers v5的基础上，增加了专家并行、DeepEP和TransformerEngine",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "60beb975126c",
@@ -3259,7 +3374,11 @@
               "published_at": "2026-06-25T08:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-26/topic/ford-had-to-hire-back-former-engineers-to-fix-mistakes-made-by-its-automated-systems/"
+          "route": "/hot/2026-06-26/topic/ford-had-to-hire-back-former-engineers-to-fix-mistakes-made-by-its-automated-systems/",
+          "headline_zh": "福特不得不返聘工程师，纠正自动化系统造成的错误",
+          "summary_short_zh": "为庆祝在 JD Power 主流车企新车质量排名中荣登榜首，福特开始坦言近年来面临的挑战，尤其是在生产和设计中依赖自动化系统带来的问题。",
+          "why_it_matters_zh": "这条行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "383ed9545449",
@@ -3304,7 +3423,10 @@
               "published_at": "2026-06-26T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-26/topic/5-min-read-claude-joins-your-slack-channel/"
+          "route": "/hot/2026-06-26/topic/5-min-read-claude-joins-your-slack-channel/",
+          "headline_zh": "阅读需 5 分钟：Claude 加入你的 Slack 频道",
+          "why_it_matters_zh": "这条行业动态见于 2 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "07ff6941043d",
@@ -3342,7 +3464,11 @@
               "published_at": "Thu, 25 Jun 2026 16:38:12 +0000"
             }
           ],
-          "route": "/hot/2026-06-26/topic/build-self-service-aws-health-analytics-to-find-actionable-health-insights-with-ai-agents-powered-by-amazon-bedrock/"
+          "route": "/hot/2026-06-26/topic/build-self-service-aws-health-analytics-to-find-actionable-health-insights-with-ai-agents-powered-by-amazon-bedrock/",
+          "headline_zh": "构建自助式 AWS Health 分析，借助 Amazon Bedrock 驱动的 AI 智能体获取可指导行动的服务健康洞察",
+          "summary_short_zh": "本文介绍如何构建 Chaplin（客户健康与计划生命周期智能中枢）。这是一套开源解决方案，利用通过模型上下文协议（MCP）提供的 AI 智能体，实现自助式服务健康事件分析。",
+          "why_it_matters_zh": "这篇教程见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -3384,7 +3510,11 @@
           "published_at": "2026-06-25T06:20:57Z"
         }
       ],
-      "route": "/hot/2026-06-26/topic/samuto69-claude-ai-desktop-app/"
+      "route": "/hot/2026-06-26/topic/samuto69-claude-ai-desktop-app/",
+      "headline_zh": "samuto69/claude-ai-desktop-app",
+      "summary_short_zh": "免费 Claude Code AI GitHub 桌面电脑 Windows Linux macOS 代理服务器 Anthropic 免费 API 本地大语言模型路由器 NVIDIA NIM OpenRouter DeepSeek Ollama LM Studio VS Code 扩展 JetBrains 命令行 终端 编程助手",
+      "why_it_matters_zh": "这款工具见于 1 个独立来源。",
+      "category_zh": "工具"
     }
   ],
   "x_buzz": [

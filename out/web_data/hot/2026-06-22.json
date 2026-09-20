@@ -989,7 +989,14 @@
           "published_at": "Sun, 21 Jun 2026 23:00:00 GMT"
         }
       ],
-      "route": "/hot/2026-06-22/topic/samsung-electronics-brings-chatgpt-and-codex-to-employees/"
+      "route": "/hot/2026-06-22/topic/samsung-electronics-brings-chatgpt-and-codex-to-employees/",
+      "headline_zh": "三星电子为员工引入 ChatGPT 和 Codex",
+      "summary_short_zh": "三星电子为全球员工部署 ChatGPT Enterprise 和 Codex，这是 OpenAI 规模最大的企业 AI 部署之一",
+      "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "三星电子为全球员工部署 ChatGPT Enterprise 和 Codex，这是 OpenAI 规模最大的企业 AI 部署之一。"
+      ]
     },
     {
       "topic_id": "6efb2a4578d0",
@@ -1027,7 +1034,11 @@
           "published_at": "2026-06-22T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-06-22/topic/introducing-frontiercode-cognition/"
+      "route": "/hot/2026-06-22/topic/introducing-frontiercode-cognition/",
+      "headline_zh": "推出 FrontierCode（Cognition）",
+      "summary_short_zh": "推出 FrontierCode（Cognition",
+      "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "9226f1468372",
@@ -1065,7 +1076,11 @@
           "published_at": "2026-06-22T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-06-22/topic/mimo-v2-5-pro-ultraspeed-pushing-1t-parameter-model-generation-speed-to-1000-tps-xiaomi-mimo-blog/"
+      "route": "/hot/2026-06-22/topic/mimo-v2-5-pro-ultraspeed-pushing-1t-parameter-model-generation-speed-to-1000-tps-xiaomi-mimo-blog/",
+      "headline_zh": "MiMo-V2.5-Pro-UltraSpeed：将 1 万亿参数模型的生成速度提升至 1000 TPS（小米 MIMO 博客）",
+      "summary_short_zh": "MiMo-V2.5-Pro-UltraSpeed：将 1 万亿参数模型的生成速度提升至 1000 TPS（小米 MIMO 博客",
+      "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "dc890f5a5ddf",
@@ -1105,7 +1120,14 @@
           "published_at": "2026-06-21T23:35:47+00:00"
         }
       ],
-      "route": "/hot/2026-06-22/topic/sqlite-utils-4-0rc1-adds-migrations-and-nested-transactions/"
+      "route": "/hot/2026-06-22/topic/sqlite-utils-4-0rc1-adds-migrations-and-nested-transactions/",
+      "headline_zh": "sqlite-utils 4.0rc1 新增数据库迁移和嵌套事务支持",
+      "summary_short_zh": "<p><a href=\" 是我的 Python 库兼命令行工具，用于操作 SQLite 数据库。",
+      "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "<p><a href=\"https://sqlite-utils.datasette.io/en/latest/\">sqlite-utils</a> 是我的 Python 库兼命令行工具，用于操作 SQLite 数据库。它提供了丰富的高层..."
+      ]
     },
     {
       "topic_id": "23284fe9719d",
@@ -1145,7 +1167,14 @@
           "published_at": "2026-06-18T19:44:20Z"
         }
       ],
-      "route": "/hot/2026-06-22/topic/ksimback-looper/"
+      "route": "/hot/2026-06-22/topic/ksimback-looper/",
+      "headline_zh": "ksimback/looper",
+      "summary_short_zh": "先以可视化方式为 Claude Code 设计带审核关卡的智能体循环，再运行",
+      "why_it_matters_zh": "这款工具见于 1 个独立来源。",
+      "category_zh": "工具",
+      "key_takeaways_zh": [
+        "先以可视化方式为 Claude Code 设计带审核关卡的智能体循环，再运行。"
+      ]
     }
   ],
   "category_sections": [
@@ -1189,7 +1218,10 @@
               "published_at": "2026-06-22T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-22/topic/5-min-read-openai-launches-a-partner-program-while-its-legal-woes-grow/"
+          "route": "/hot/2026-06-22/topic/5-min-read-openai-launches-a-partner-program-while-its-legal-woes-grow/",
+          "headline_zh": "阅读时长 5 分钟：OpenAI 推出合作伙伴计划，法律困境加剧",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -1233,7 +1265,10 @@
               "published_at": "2026-06-22T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-22/topic/import-ai-460-reward-hacking-society-rsi-data-from-anthropic-and-rl-based-quadcopter-racing/"
+          "route": "/hot/2026-06-22/topic/import-ai-460-reward-hacking-society-rsi-data-from-anthropic-and-rl-based-quadcopter-racing/",
+          "headline_zh": "Import AI 第 460 期：社会中的奖励投机、Anthropic 的 RSI 数据，以及基于强化学习的四旋翼无人机竞速",
+          "why_it_matters_zh": "这则其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "2510b586c9bf",
@@ -1271,7 +1306,11 @@
               "published_at": "Mon, 22 Jun 2026 05:09:27 +0000"
             }
           ],
-          "route": "/hot/2026-06-22/topic/deepseek-agent/"
+          "route": "/hot/2026-06-22/topic/deepseek-agent/",
+          "headline_zh": "DeepSeek缺Agent人才缺疯了！负责人各种贴广告",
+          "summary_short_zh": "DeepSeek正在全力押注",
+          "why_it_matters_zh": "这则其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "d3903f19f59e",
@@ -1309,7 +1348,10 @@
               "published_at": "2026-06-22T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-22/topic/import-ai-461-alignment-is-not-on-track-frontiercode-and-synthetic-research-interns/"
+          "route": "/hot/2026-06-22/topic/import-ai-461-alignment-is-not-on-track-frontiercode-and-synthetic-research-interns/",
+          "headline_zh": "Import AI 第 461 期：“对齐进展不及预期”；FrontierCode；以及 AI 研究实习生",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "17469ad2507c",
@@ -1347,7 +1389,11 @@
               "published_at": "Mon, 22 Jun 2026 03:48:38 +0000"
             }
           ],
-          "route": "/hot/2026-06-22/topic/eccv-2026-gemini/"
+          "route": "/hot/2026-06-22/topic/eccv-2026-gemini/",
+          "headline_zh": "入选ECCV 2026！清华开源空间模型打败Gemini：真正的空间智能是在世界变化中持续学习",
+          "summary_short_zh": "120分钟长视频一边看一边记",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "d6a3dad50c2e",
@@ -1385,7 +1431,11 @@
               "published_at": "Mon, 22 Jun 2026 06:22:00 +0000"
             }
           ],
-          "route": "/hot/2026-06-22/topic/ai-618-a1/"
+          "route": "/hot/2026-06-22/topic/ai-618-a1/",
+          "headline_zh": "AI硬件席卷618，钉钉A1包揽天猫、抖音、京东销量冠军",
+          "summary_short_zh": "同时拿下天猫、抖音、京东三大平台 AI 录音设备销量第一",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -1429,7 +1479,11 @@
               "published_at": "2026-06-19T17:19:19Z"
             }
           ],
-          "route": "/hot/2026-06-22/topic/briliwar0-glm-5-2-free-desktop-app/"
+          "route": "/hot/2026-06-22/topic/briliwar0-glm-5-2-free-desktop-app/",
+          "headline_zh": "briliwar0/glm-5.2-free-desktop-app",
+          "summary_short_zh": "GLM 5.2 免费 z.ai 大语言模型聊天机器人 免费 API 访问 本地大语言模型 Unsloth 动态 GGUF llama.cpp ollama run 编程助手 自主智能体 ZCode OpenCode Cloudflare Workers AI Hugging Face 模型权重 100 万 token 上下文窗口 长时程任务 token 绕过 基准测试 SWE-bench Pro Terminal-Bench 配置",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "01412e6e3b20",
@@ -1467,7 +1521,11 @@
               "published_at": "2026-06-21T22:01:04+00:00"
             }
           ],
-          "route": "/hot/2026-06-22/topic/temporary-cloudflare-accounts-for-ai-agents/"
+          "route": "/hot/2026-06-22/topic/temporary-cloudflare-accounts-for-ai-agents/",
+          "headline_zh": "面向 AI 智能体的 Cloudflare 临时账户",
+          "summary_short_zh": "<p><strong><a href=\" 面向 AI 智能体的 Cloudflare 账户</a></strong></p> 公告称这项功能“面向 AI 智能体”，但（如今这类说法很常见）其实不必拿 AI 当卖点，其他人也会觉得这项功能很有意思。</p> <p>简单说：你现在可以创建一个",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     }
@@ -1513,7 +1571,11 @@
               "published_at": "2026-06-18T07:09:23Z"
             }
           ],
-          "route": "/hot/2026-06-22/topic/0xsero-glm-5-2-sm120/"
+          "route": "/hot/2026-06-22/topic/0xsero-glm-5-2-sm120/",
+          "headline_zh": "0xSero/glm-5.2-sm120",
+          "summary_short_zh": "在 SM120（4 张 RTX PRO 6000 Blackwell）上部署 GLM-5.2-NVFP4-REAP-469B 推理服务：vLLM 单条命令启动方案，25 万 token 上下文，DeepSeek 稀疏注意力 + MTP 推测解码",
+          "why_it_matters_zh": "这篇教程见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "0159b96addd9",
@@ -1551,7 +1613,11 @@
               "published_at": "Sun, 21 Jun 2026 15:28:17 +0000"
             }
           ],
-          "route": "/hot/2026-06-22/topic/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/"
+          "route": "/hot/2026-06-22/topic/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+          "headline_zh": "特朗普政府打压 Anthropic，谁会受益？",
+          "summary_short_zh": "在最新一期 Equity 节目中，我们讨论了政府最近针对 Anthropic 采取行动的真正原因，以及这些举措可能给 AI 生态带来的影响。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "c833955c7ece",
@@ -1589,7 +1655,11 @@
               "published_at": "Sun, 21 Jun 2026 14:40:28 +0000"
             }
           ],
-          "route": "/hot/2026-06-22/topic/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/"
+          "route": "/hot/2026-06-22/topic/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+          "headline_zh": "不止 Siri：iOS 27 将为你的 iPhone 带来这些实用 AI 功能",
+          "summary_short_zh": "Siri 的 AI 全面升级或许抢尽了 WWDC 的风头，但苹果一些最实用的 AI 功能将出现在 iOS 27 的其他部分。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "cb7224539425",
@@ -1627,7 +1697,10 @@
               "published_at": "2026-06-22T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-22/topic/google-s-nobel-winner-jumps-to-anthropic/"
+          "route": "/hot/2026-06-22/topic/google-s-nobel-winner-jumps-to-anthropic/",
+          "headline_zh": "谷歌诺贝尔奖得主跳槽 Anthropic",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "be41565c8d6b",
@@ -1665,7 +1738,10 @@
               "published_at": "2026-06-22T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-22/topic/save-hours-on-meeting-prep-with-this-automated-google-gemini-setup/"
+          "route": "/hot/2026-06-22/topic/save-hours-on-meeting-prep-with-this-automated-google-gemini-setup/",
+          "headline_zh": "用这套 Google Gemini 自动化配置，省下数小时的会前准备时间",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -1707,7 +1783,11 @@
           "published_at": "2026-06-19T20:36:41Z"
         }
       ],
-      "route": "/hot/2026-06-22/topic/raiyanyahya-recall/"
+      "route": "/hot/2026-06-22/topic/raiyanyahya-recall/",
+      "headline_zh": "raiyanyahya/recall",
+      "summary_short_zh": "别再浪费词元，也别每次会话都重新介绍项目。Recall 为 Claude Code 提供持久记忆，完全离线运行",
+      "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+      "category_zh": "工具"
     },
     {
       "topic_id": "b9bf39591d3f",
@@ -1745,7 +1825,11 @@
           "published_at": "2026-06-19T13:24:44Z"
         }
       ],
-      "route": "/hot/2026-06-22/topic/sums001-windows-copilot-api/"
+      "route": "/hot/2026-06-22/topic/sums001-windows-copilot-api/",
+      "headline_zh": "sums001/Windows-Copilot-API",
+      "summary_short_zh": "通过逆向工程，将 Windows Copilot 转为兼容 OpenAI 的 API。无需 API 密钥或付费，即可通过简单的 REST 接口使用 GPT-4 和 GPT-5 模型",
+      "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+      "category_zh": "工具"
     },
     {
       "topic_id": "da9a22ac1289",
@@ -1783,7 +1867,11 @@
           "published_at": "2026-06-17T05:27:09Z"
         }
       ],
-      "route": "/hot/2026-06-22/topic/plaer1-junction/"
+      "route": "/hot/2026-06-22/topic/plaer1-junction/",
+      "headline_zh": "Plaer1/junction",
+      "summary_short_zh": "面向本地 AI 编程智能体的 VS Code 聊天侧边栏",
+      "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+      "category_zh": "工具"
     }
   ],
   "x_buzz": [

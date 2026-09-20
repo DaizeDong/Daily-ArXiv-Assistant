@@ -2086,7 +2086,16 @@
           "published_at": "Thu, 09 Jul 2026 10:00:00 GMT"
         }
       ],
-      "route": "/hot/2026-07-10/topic/chatgpt-is-now-a-partner-for-your-most-ambitious-work/"
+      "route": "/hot/2026-07-10/topic/chatgpt-is-now-a-partner-for-your-most-ambitious-work/",
+      "headline_zh": "ChatGPT 现已成为你的工作伙伴，助你实现最宏大的目标",
+      "summary_short_zh": "ChatGPT Work 是一款智能体，能在你的各类应用和文件中执行操作，必要时持续数小时推进项目，把目标变成最终成果",
+      "why_it_matters_zh": "有 5 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "OpenAI 二号人物 Fidji Simo 因病假比预期更长，将辞去全职职务。这一领导层空缺恰逢公司处境微妙之际，公司目前正……",
+        "ChatGPT Work 是一款智能体，能在你的各类应用和文件中执行操作，必要时持续数小时推进项目，把目标变成最终成果。",
+        "OpenAI 正着手关闭 ChatGPT Atlas，这款可代你执行任务的浏览器推出还不到一年。Atlas 于 10 月宣布推出，但作为公司一系列……"
+      ]
     },
     {
       "topic_id": "1424c6a3d71b",
@@ -2142,7 +2151,16 @@
           "published_at": "Thu, 09 Jul 2026 05:44:39 GMT"
         }
       ],
-      "route": "/hot/2026-07-10/topic/sahir619-fable-method/"
+      "route": "/hot/2026-07-10/topic/sahir619-fable-method/",
+      "headline_zh": "Sahir619/fable-method",
+      "summary_short_zh": "Fable 工作流：将 Claude Fable 5 的工作方式提炼为任何模型都能运行的技能，并用评测检验实际成效。思考 / 行动 / 验证",
+      "why_it_matters_zh": "有 5 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "5 小时额度和每周额度均已重置。感谢 Anthropic！",
+        "Anthropic 刚刚对“Fable 5 统筹、低成本模型执行”的模式进行了基准测试：用 46% 的成本实现 96% 的性能。你今天就能在 Claude Code 中使用这一模式",
+        "Claude 全新认证今日推出"
+      ]
     },
     {
       "topic_id": "e4e9c9f8cef9",
@@ -2182,7 +2200,14 @@
           "published_at": "Thu, 09 Jul 2026 16:38:11 +0000"
         }
       ],
-      "route": "/hot/2026-07-10/topic/enhancing-enterprise-inference-on-amazon-sagemaker-hyperpod-with-data-capture-hugging-face-nvme-and-route-53-integration/"
+      "route": "/hot/2026-07-10/topic/enhancing-enterprise-inference-on-amazon-sagemaker-hyperpod-with-data-capture-hugging-face-nvme-and-route-53-integration/",
+      "headline_zh": "集成数据捕获、Hugging Face、NVMe 和 Route 53，增强 Amazon SageMaker HyperPod 的企业级推理能力",
+      "summary_short_zh": "本文介绍 SageMaker HyperPod 推理现已支持的五项功能：用于审计和模型改进的多层级数据捕获、从 Hugging Face Hub 直接部署、从本地 NVMe 加载模型以加快冷启动、为自定义域名自动配置 Route 53 DNS，以及",
+      "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "本文介绍 SageMaker HyperPod 推理现已支持的五项功能：用于审计和模型改进的多层级数据捕获、从 Hugging Face Hub 直接部署、本地……"
+      ]
     },
     {
       "topic_id": "5d2bc87f9840",
@@ -2220,7 +2245,11 @@
           "published_at": "2026-07-10T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-07-10/topic/cerebras-and-upstage-bring-ultra-fast-ai-to-south-korea/"
+      "route": "/hot/2026-07-10/topic/cerebras-and-upstage-bring-ultra-fast-ai-to-south-korea/",
+      "headline_zh": "Cerebras 与 Upstage 将超高速 AI 引入韩国",
+      "summary_short_zh": "2026年7月10日",
+      "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "89af34538554",
@@ -2258,7 +2287,11 @@
           "published_at": "2026-07-10T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-07-10/topic/first-look-gemma-4-on-cerebras-3-fast-multimodal-apps-we-built/"
+      "route": "/hot/2026-07-10/topic/first-look-gemma-4-on-cerebras-3-fast-multimodal-apps-we-built/",
+      "headline_zh": "Cerebras 上的 Gemma 4 初体验：我们开发的 3 款高速多模态应用",
+      "summary_short_zh": "2026年7月8日",
+      "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布"
     }
   ],
   "category_sections": [
@@ -2302,7 +2335,11 @@
               "published_at": "2026-07-10T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-07-10/topic/hiring-engineers-for-an-ai-native-world/"
+          "route": "/hot/2026-07-10/topic/hiring-engineers-for-an-ai-native-world/",
+          "headline_zh": "面向 AI 原生时代招聘工程师",
+          "summary_short_zh": "2026年7月9日",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "6cd6ab2bc611",
@@ -2340,7 +2377,11 @@
               "published_at": "2026-07-10T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-07-10/topic/the-economics-of-ai-reasoning/"
+          "route": "/hot/2026-07-10/topic/the-economics-of-ai-reasoning/",
+          "headline_zh": "AI 推理的经济学",
+          "summary_short_zh": "2026 年 6 月 17 日",
+          "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "3f483b13d053",
@@ -2387,7 +2428,11 @@
               "published_at": "Fri, 10 Jul 2026 00:16:54 +0000"
             }
           ],
-          "route": "/hot/2026-07-10/topic/gpt-5-6-is-now-the-preferred-model-in-microsoft-365-copilot/"
+          "route": "/hot/2026-07-10/topic/gpt-5-6-is-now-the-preferred-model-in-microsoft-365-copilot/",
+          "headline_zh": "GPT-5.6 现已成为 Microsoft 365 Copilot 的首选模型",
+          "summary_short_zh": "了解 GPT-5.6 如何增强 Microsoft 365 Copilot 在 Word、Excel、PowerPoint、Chat 和 Cowork 中的 AI 能力，提升工作效率和质量",
+          "why_it_matters_zh": "此次产品发布有 2 个独立来源报道。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "df9e5224da97",
@@ -2425,7 +2470,11 @@
               "published_at": "Thu, 09 Jul 2026 12:55:47 GMT"
             }
           ],
-          "route": "/hot/2026-07-10/topic/introducing-c-ai-series-studio-made-microdramas-on-character-ai/"
+          "route": "/hot/2026-07-10/topic/introducing-c-ai-series-studio-made-microdramas-on-character-ai/",
+          "headline_zh": "推出 (c.ai) series：Character.ai 工作室打造的微短剧",
+          "summary_short_zh": "<p>今天，Character.ai 推出 (<strong>c.ai) series</strong>，带来由我们内部工作室团队创作的全新原创竖屏微短剧。</p><p>(c.ai) series 是我们由工作室主导、探索以角色为核心的视频内容的第一步。&#xa0;</p><p>每部剧都围绕令人难忘的",
+          "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "ced27ec28c6f",
@@ -2463,7 +2512,11 @@
               "published_at": "Thu, 09 Jul 2026 09:56:00 +0000"
             }
           ],
-          "route": "/hot/2026-07-10/topic/sensorfm-towards-a-general-intelligence-and-interface-for-wearable-health-data/"
+          "route": "/hot/2026-07-10/topic/sensorfm-towards-a-general-intelligence-and-interface-for-wearable-health-data/",
+          "headline_zh": "SensorFM：探索面向可穿戴设备健康数据的通用智能与接口",
+          "summary_short_zh": "生成式 AI",
+          "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2507,7 +2560,11 @@
               "published_at": "Thu, 09 Jul 2026 22:08:58 +0000"
             }
           ],
-          "route": "/hot/2026-07-10/topic/an-ai-agent-startup-just-let-its-agent-run-its-100m-fundraise/"
+          "route": "/hot/2026-07-10/topic/an-ai-agent-startup-just-let-its-agent-run-its-100m-fundraise/",
+          "headline_zh": "一家 AI 智能体初创公司刚让自家智能体负责 1 亿美元融资",
+          "summary_short_zh": "为企业开发 AI 智能体的初创公司 Lyzr，用自家 AI 智能体完成了一轮 1 亿美元融资，看来这证明了产品确实管用",
+          "why_it_matters_zh": "此次融资有 1 个独立来源报道。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "be756411058a",
@@ -2545,7 +2602,11 @@
               "published_at": "2026-07-08T23:57:21+00:00"
             }
           ],
-          "route": "/hot/2026-07-10/topic/rewriting-bun-in-rust/"
+          "route": "/hot/2026-07-10/topic/rewriting-bun-in-rust/",
+          "headline_zh": "用 Rust 重写 Bun",
+          "summary_short_zh": "<p><strong><a href=\" Rust 版 Bun</a></strong></p> Jarred Sumner 早就承诺要写这篇博文（<a href=\" 5 月 9 日</a>），介绍他用 Rust 重写 Zig 版 Bun 的过程。等这篇文章的时间，比他完成重写所花的时间长得多。</p> <p>说实话，等得值。",
+          "why_it_matters_zh": "此次融资有 1 个独立来源报道。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -2589,7 +2650,11 @@
               "published_at": "2026-07-10T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-10/topic/a-significant-increase-in-digital-labor-automation-center-for-ai-safety/"
+          "route": "/hot/2026-07-10/topic/a-significant-increase-in-digital-labor-automation-center-for-ai-safety/",
+          "headline_zh": "数字劳动自动化程度显著提升（人工智能安全中心）",
+          "summary_short_zh": "数字劳动自动化程度显著提升（人工智能安全中心",
+          "why_it_matters_zh": "这条其他类别的消息有 1 个独立来源报道。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "e2d94551c096",
@@ -2627,7 +2692,11 @@
               "published_at": "2026-07-10T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-10/topic/benchmark-maintainers-here-elliot-arledge-x/"
+          "route": "/hot/2026-07-10/topic/benchmark-maintainers-here-elliot-arledge-x/",
+          "headline_zh": "基准测试维护者在此（Elliot Arledge，X）",
+          "summary_short_zh": "基准测试维护者在此（Elliot Arledge，X",
+          "why_it_matters_zh": "该内容来自 1 个独立信源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "a5d6121555a2",
@@ -2665,7 +2734,10 @@
               "published_at": "2026-07-10T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-10/topic/import-ai-463-self-improving-robots-a-10k-chinese-gpu-cluster-and-an-elegiac-essay-for-the-human-era/"
+          "route": "/hot/2026-07-10/topic/import-ai-463-self-improving-robots-a-10k-chinese-gpu-cluster-and-an-elegiac-essay-for-the-human-era/",
+          "headline_zh": "Import AI 463：自我改进的机器人；一个万卡级中国 GPU 集群；以及一篇为人类时代而作的挽歌式随笔",
+          "why_it_matters_zh": "该内容来自 1 个独立信源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "57530074ab1d",
@@ -2703,7 +2775,10 @@
               "published_at": "2026-07-10T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-10/topic/import-ai-464-fables-writes-gpu-kernels-ai-automation-and-analog-computation/"
+          "route": "/hot/2026-07-10/topic/import-ai-464-fables-writes-gpu-kernels-ai-automation-and-analog-computation/",
+          "headline_zh": "Import AI 464：Fables 编写 GPU kernel；AI 自动化；以及模拟计算",
+          "why_it_matters_zh": "该内容来自 1 个独立信源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "aa404405c55f",
@@ -2741,7 +2816,11 @@
               "published_at": "Fri, 10 Jul 2026 04:44:38 +0000"
             }
           ],
-          "route": "/hot/2026-07-10/topic/ai/"
+          "route": "/hot/2026-07-10/topic/ai/",
+          "headline_zh": "AI华语歌，终于能听了！从零预训练十亿参数，告别「人机味」",
+          "summary_short_zh": "字节也入局了",
+          "why_it_matters_zh": "该内容来自 1 个独立信源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -2785,7 +2864,11 @@
               "published_at": "Thu, 09 Jul 2026 16:40:16 +0000"
             }
           ],
-          "route": "/hot/2026-07-10/topic/mcp-tool-design-practical-approaches-and-tradeoffs/"
+          "route": "/hot/2026-07-10/topic/mcp-tool-design-practical-approaches-and-tradeoffs/",
+          "headline_zh": "MCP 工具设计：实用方法与取舍",
+          "summary_short_zh": "本文展示 MCP 工具设计常见的问题所在，以及如何用实用的上下文工程方法来解决",
+          "why_it_matters_zh": "该工具内容来自 1 个独立信源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "ff3273e7b945",
@@ -2832,7 +2915,11 @@
               "published_at": "2026-07-09T16:24:09+00:00"
             }
           ],
-          "route": "/hot/2026-07-10/topic/introducing-muse-spark-1-1/"
+          "route": "/hot/2026-07-10/topic/introducing-muse-spark-1-1/",
+          "headline_zh": "Muse Spark 1.1 发布",
+          "summary_short_zh": "<p><strong><a href=\" Muse Spark 1.1</a></strong></p> 继 <a href=\" 四月发布的 Spark</a> 之后，Muse Spark 1.1 来了——首个提供 API 的 Spark 模型。",
+          "why_it_matters_zh": "该工具内容来自 2 个独立信源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "40251b9f17b2",
@@ -2870,7 +2957,11 @@
               "published_at": "Thu, 09 Jul 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-07-10/topic/gemini-is-even-worse-than-grok-now/"
+          "route": "/hot/2026-07-10/topic/gemini-is-even-worse-than-grok-now/",
+          "headline_zh": "Gemini 现在比 grok 还差🥀🥀🥀",
+          "summary_short_zh": "帖子配图是一张来自 Artificial Analysis 的基准测试截图，对比各模型在「Intelligence Index」和「Coding Agent Index」上的排名；高亮柱状条显示 Grok 4.5 智能得分 54，Grok Build / Grok 4.5 编码得分 76，而 Gemini CLI / Gemini 3.1 Pro 的位置则低得多",
+          "why_it_matters_zh": "该工具内容来自 1 个独立信源。",
+          "category_zh": "工具"
         }
       ]
     },
@@ -2914,7 +3005,11 @@
               "published_at": "2026-07-09T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-07-10/topic/enhancing-in-context-panoramic-generation-via-geometric-aware-pretraining/"
+          "route": "/hot/2026-07-10/topic/enhancing-in-context-panoramic-generation-via-geometric-aware-pretraining/",
+          "headline_zh": "通过几何感知预训练增强上下文内全景图生成",
+          "summary_short_zh": "本工作提出 Canvas360，一个用于上下文内全景图生成的两阶段框架，将几何感知预训练与下游任务的特定微调相结合。",
+          "why_it_matters_zh": "该研究论文来自 1 个独立信源。",
+          "category_zh": "研究"
         }
       ]
     }
@@ -2960,7 +3055,11 @@
               "published_at": "Thu, 09 Jul 2026 10:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-07-10/topic/gpt-5-5-bio-bug-bounty/"
+          "route": "/hot/2026-07-10/topic/gpt-5-5-bio-bug-bounty/",
+          "headline_zh": "GPT-5.5 生物安全漏洞赏金计划",
+          "summary_short_zh": "关于 OpenAI 生物安全赏金计划的详细信息",
+          "why_it_matters_zh": "该产品发布来自 1 个独立信源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "dc03aaf53aee",
@@ -3007,7 +3106,11 @@
               "published_at": "2026-07-09T17:04:14Z"
             }
           ],
-          "route": "/hot/2026-07-10/topic/gpt-5-6-frontier-intelligence-that-scales-with-your-ambition/"
+          "route": "/hot/2026-07-10/topic/gpt-5-6-frontier-intelligence-that-scales-with-your-ambition/",
+          "headline_zh": "GPT-5.6：随你的雄心不断拓展的前沿智能",
+          "summary_short_zh": "每个 token 承载更多智能，每一分投入带来更强性能，按需提供更强能力，助你应对最艰巨的任务",
+          "why_it_matters_zh": "有 2 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "228b6d07f6df",
@@ -3045,7 +3148,11 @@
               "published_at": "2026-07-09T16:11:38-04:00"
             }
           ],
-          "route": "/hot/2026-07-10/topic/google-will-now-tell-you-if-an-ad-was-made-with-ai/"
+          "route": "/hot/2026-07-10/topic/google-will-now-tell-you-if-an-ad-was-made-with-ai/",
+          "headline_zh": "Google 现在会告诉你广告是否由 AI 制作",
+          "summary_short_zh": "据 TechCrunch 此前报道，你现在可以在 Google“我的广告中心”的新增栏目中，查看 Google 搜索、Google Discover 和 YouTube 上的广告是否使用 AI 制作或编辑。这项于周四公布的更新，在“广告制作方式”标签页下新增了“使用 AI 制作或编辑”标签。用户可以",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "fbc832d50d6b",
@@ -3083,7 +3190,10 @@
               "published_at": "Jul 9, 2026"
             }
           ],
-          "route": "/hot/2026-07-10/topic/ben-bernanke-appointed-to-anthropic-s-long-term-benefit-trust/"
+          "route": "/hot/2026-07-10/topic/ben-bernanke-appointed-to-anthropic-s-long-term-benefit-trust/",
+          "headline_zh": "本·伯南克获任 Anthropic 长期利益信托成员",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "7c30dce4ab63",
@@ -3121,7 +3231,11 @@
               "published_at": "Jul 9, 2026"
             }
           ],
-          "route": "/hot/2026-07-10/topic/inviting-hard-questions/"
+          "route": "/hot/2026-07-10/topic/inviting-hard-questions/",
+          "headline_zh": "欢迎提出难题",
+          "summary_short_zh": "我们正向公众征集关于 AI 的最棘手问题，并承诺在回应时公开我们的思路和依据",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "e7275ff9ef1a",
@@ -3159,7 +3273,10 @@
               "published_at": "Jul 9, 2026"
             }
           ],
-          "route": "/hot/2026-07-10/topic/case-study-ust-is-bringing-claude-to-physical-ai/"
+          "route": "/hot/2026-07-10/topic/case-study-ust-is-bringing-claude-to-physical-ai/",
+          "headline_zh": "案例研究：UST 正将 Claude 引入物理 AI",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "a4800df51e2e",
@@ -3197,7 +3314,10 @@
               "published_at": "Jul 9, 2026"
             }
           ],
-          "route": "/hot/2026-07-10/topic/introducing-a-way-to-reflect-on-how-you-use-claude/"
+          "route": "/hot/2026-07-10/topic/introducing-a-way-to-reflect-on-how-you-use-claude/",
+          "headline_zh": "介绍一种审视自己如何使用 Claude 的方法",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "4456b8df5a68",
@@ -3235,7 +3355,11 @@
               "published_at": "2026-07-09T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-07-10/topic/your-prompts-and-skills-need-a-system-of-record/"
+          "route": "/hot/2026-07-10/topic/your-prompts-and-skills-need-a-system-of-record/",
+          "headline_zh": "你的提示词和技能需要一个权威记录系统。",
+          "summary_short_zh": "产品",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         }
       ]
     }
@@ -3277,7 +3401,11 @@
           "published_at": "2026-07-10T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-07-10/topic/never-loop-without-verifiers/"
+      "route": "/hot/2026-07-10/topic/never-loop-without-verifiers/",
+      "headline_zh": "没有验证器，就不要循环运行",
+      "summary_short_zh": "2026年6月24日",
+      "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布"
     }
   ],
   "x_buzz": [

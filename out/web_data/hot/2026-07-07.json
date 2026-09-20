@@ -1832,7 +1832,16 @@
           "published_at": "2026-07-06T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-07-07/topic/run-minimax-models-on-amazon-bedrock/"
+      "route": "/hot/2026-07-07/topic/run-minimax-models-on-amazon-bedrock/",
+      "headline_zh": "在 Amazon Bedrock 上运行 MiniMax 模型",
+      "summary_short_zh": "本文将介绍如何开始在 Amazon Bedrock 上使用 MiniMax 模型，包括这些模型支持的功能、可用的服务层级、按需推理如何扩展以应对工作负载，以及可用于访问模型的各类 API。",
+      "why_it_matters_zh": "此次产品发布有 2 个独立来源报道。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "本文将介绍如何开始在 Amazon Bedrock 上使用 MiniMax 模型，包括这些模型支持的功能、可用的服务层级，以及按需推理如何扩展……",
+        "现在可通过 Amazon Bedrock 使用 Grok 模型。",
+        "Grok Voice 新增多语言音色，并提升了原有五种音色的自然度。"
+      ]
     },
     {
       "topic_id": "60815034aa83",
@@ -1872,7 +1881,14 @@
           "published_at": "Mon, 06 Jul 2026 22:23:45 +0000"
         }
       ],
-      "route": "/hot/2026-07-07/topic/teaching-models-to-forget-selective-unlearning-with-amazon-nova/"
+      "route": "/hot/2026-07-07/topic/teaching-models-to-forget-selective-unlearning-with-amazon-nova/",
+      "headline_zh": "教会模型遗忘：使用 Amazon Nova 进行选择性遗忘",
+      "summary_short_zh": "本文介绍反向直接偏好优化（rDPO），这是 Amazon Nova 可自定义内容审核设置（CCMS）背后的新型遗忘技术，并展示它如何在保持模型质量的同时减少过度拒答。",
+      "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "本文介绍反向直接偏好优化（rDPO），这是 Amazon Nova 可自定义内容审核设置（CCMS）背后的新型遗忘技术，并展示它如何减少……"
+      ]
     },
     {
       "topic_id": "a60ca1641564",
@@ -1912,7 +1928,14 @@
           "published_at": "Mon, 06 Jul 2026 22:35:55 +0000"
         }
       ],
-      "route": "/hot/2026-07-07/topic/from-hugging-face-to-amazon-sagemaker-studio-in-one-click/"
+      "route": "/hot/2026-07-07/topic/from-hugging-face-to-amazon-sagemaker-studio-in-one-click/",
+      "headline_zh": "一键从 Hugging Face 进入 Amazon SageMaker Studio",
+      "summary_short_zh": "今天，我们很高兴宣布 Hugging Face 与 Amazon SageMaker AI 实现深度链接集成。开发者现在只需点击一次，即可从发现模型转入 SageMaker Studio 动手实验",
+      "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "今天，我们很高兴宣布 Hugging Face 与 Amazon SageMaker AI 实现深度链接集成。开发者现在可以从发现模型转入 SageMaker Studio 动手实验……"
+      ]
     },
     {
       "topic_id": "0e067c085463",
@@ -1959,7 +1982,15 @@
           "published_at": "2026-07-06T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-07-07/topic/grok-for-powerpoint/"
+      "route": "/hot/2026-07-07/topic/grok-for-powerpoint/",
+      "headline_zh": "PowerPoint 版 Grok",
+      "summary_short_zh": "Grok 现已集成到 Microsoft PowerPoint，无需离开应用，即可将大纲转成幻灯片、扩充演示文稿，并让叙述更紧凑",
+      "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Grok 现已集成到 Microsoft PowerPoint，无需离开应用，即可将大纲转成幻灯片、扩充演示文稿，并让叙述更紧凑。",
+        "使用 Microsoft Word 的 Grok 插件，可将笔记整理成文档、设置样式和格式，或将网上的研究资料引入 Word。"
+      ]
     },
     {
       "topic_id": "c098415d0255",
@@ -1999,7 +2030,14 @@
           "published_at": "Mon, 06 Jul 2026 18:35:00 +0000"
         }
       ],
-      "route": "/hot/2026-07-07/topic/every-major-tech-layoff-in-2026-that-has-name-checked-ai/"
+      "route": "/hot/2026-07-07/topic/every-major-tech-layoff-in-2026-that-has-name-checked-ai/",
+      "headline_zh": "2026 年所有明确提及 AI 因素的科技业重大裁员",
+      "summary_short_zh": "持续按时间倒序梳理今年宣布大规模裁员、并明确将 AI 列为原因之一的大型科技公司",
+      "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "持续按时间倒序梳理今年宣布大规模裁员、并明确将 AI 列为原因之一的大型科技公司。"
+      ]
     }
   ],
   "category_sections": [
@@ -2043,7 +2081,11 @@
               "published_at": "Mon, 06 Jul 2026 16:55:02 +0000"
             }
           ],
-          "route": "/hot/2026-07-07/topic/automatically-redact-pii-in-images-with-amazon-nova/"
+          "route": "/hot/2026-07-07/topic/automatically-redact-pii-in-images-with-amazon-nova/",
+          "headline_zh": "使用 Amazon Nova 自动遮盖图像中的个人身份信息（PII）",
+          "summary_short_zh": "本文介绍一套由 Amazon Nova 主导的多步骤处理流程，利用其结合上下文的视觉推理能力，协调功能互补的工具，包括部署在 Amazon SageMaker AI 上、用于像素级分割的 Meta 开源 Segment Anything Model（SAM 3），以及用于……的 Amazon Textract",
+          "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "625157be65ae",
@@ -2081,7 +2123,11 @@
               "published_at": "Mon, 06 Jul 2026 19:01:59 +0000"
             }
           ],
-          "route": "/hot/2026-07-07/topic/you-can-now-customize-siri-s-pace-and-expressivity-in-the-latest-ios-27-beta/"
+          "route": "/hot/2026-07-07/topic/you-can-now-customize-siri-s-pace-and-expressivity-in-the-latest-ios-27-beta/",
+          "headline_zh": "最新 iOS 27 测试版现已支持自定义 Siri 的语速和表现力",
+          "summary_short_zh": "苹果正以生成式 AI 重构 Siri，此次更新是让这款助手更自然、更个性化的整体计划的一部分。",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "a7d0292be233",
@@ -2119,7 +2165,11 @@
               "published_at": "2026-07-06T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-07-07/topic/introducing-the-voice-agent-builder/"
+          "route": "/hot/2026-07-07/topic/introducing-the-voice-agent-builder/",
+          "headline_zh": "推出 Voice Agent Builder",
+          "summary_short_zh": "Grok Voice 新增多语言音色，并提升了原有五种音色的自然度",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "9f3cfe7f3c41",
@@ -2166,7 +2216,10 @@
               "published_at": "Mon, 06 Jul 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-07-07/topic/case-study-government-of-alberta-uses-claude-to-find-and-fix-cybersecurity-vulnerabilities-across-government-systems/"
+          "route": "/hot/2026-07-07/topic/case-study-government-of-alberta-uses-claude-to-find-and-fix-cybersecurity-vulnerabilities-across-government-systems/",
+          "headline_zh": "案例研究：阿尔伯塔省政府使用 Claude 查找并修复政府各系统中的网络安全漏洞",
+          "why_it_matters_zh": "此次产品发布见于 2 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "efb11b0e01e9",
@@ -2204,7 +2257,11 @@
               "published_at": "Mon, 06 Jul 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-07-07/topic/new-open-model-from-tencent-hy-hy3-295b-total-21b-active-apache-2-0/"
+          "route": "/hot/2026-07-07/topic/new-open-model-from-tencent-hy-hy3-295b-total-21b-active-apache-2-0/",
+          "headline_zh": "Tencent Hy 推出新开放模型：Hy3（总参数 2950 亿，激活参数 210 亿，Apache 2.0 许可）",
+          "summary_short_zh": "腾讯在 Hugging Face 发布了 Hy3 正式版模型系列。据介绍，该系列采用混合专家（MoE）架构，总参数为 2950 亿，激活参数为 210 亿，现采用 Apache 2.0 许可，取代了此前限制较多的社区许可。",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2248,7 +2305,11 @@
               "published_at": "Mon, 06 Jul 2026 16:58:13 +0000"
             }
           ],
-          "route": "/hot/2026-07-07/topic/deploying-multi-turn-rl-infrastructure-for-amazon-nova-on-amazon-sagemaker-hyperpod/"
+          "route": "/hot/2026-07-07/topic/deploying-multi-turn-rl-infrastructure-for-amazon-nova-on-amazon-sagemaker-hyperpod/",
+          "headline_zh": "在 Amazon SageMaker HyperPod 上为 Amazon Nova 部署多轮强化学习基础设施",
+          "summary_short_zh": "本文介绍如何在 Amazon SageMaker HyperPod 上使用 Amazon Nova Forge 部署用于多轮强化学习的两阶段基础设施。完成后，你将拥有一条事件驱动的流水线，向 Amazon Simple Storage Service（Amazon S3）上传数据即可自动启动训练。",
+          "why_it_matters_zh": "这则行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "1d76c1c1fac1",
@@ -2286,7 +2347,11 @@
               "published_at": "Mon, 06 Jul 2026 19:49:10 +0000"
             }
           ],
-          "route": "/hot/2026-07-07/topic/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/"
+          "route": "/hot/2026-07-07/topic/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
+          "headline_zh": "Vercel CEO Guillermo Rauch 谈模型与智能体解耦之争",
+          "summary_short_zh": "Guillermo Rauch 对 TechCrunch 表示：“实际情况是，当你为生产环境做优化时，就会开始关注性价比。”",
+          "why_it_matters_zh": "这则行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "7157b005ab8e",
@@ -2324,7 +2389,11 @@
               "published_at": "Mon, 06 Jul 2026 23:56:14 +0000"
             }
           ],
-          "route": "/hot/2026-07-07/topic/the-first-ai-run-ransomware-attack-still-needed-a-human/"
+          "route": "/hot/2026-07-07/topic/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+          "headline_zh": "“首次”由 AI 执行的勒索软件攻击仍需人工参与",
+          "summary_short_zh": "据已知记录，AI 智能体首次承担了一起真实勒索软件攻击的技术执行工作。但新披露的细节显示，受害者仍由人类选定，基础设施由人类搭建，被盗凭据也由人类提供。这意味着，它还算不上完全自主的网络犯罪首秀……",
+          "why_it_matters_zh": "这则行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "a9aa9d27ad1d",
@@ -2362,7 +2431,11 @@
               "published_at": "2026-07-07T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-07/topic/a-significant-increase-in-digital-labor-automation-center-for-ai-safety/"
+          "route": "/hot/2026-07-07/topic/a-significant-increase-in-digital-labor-automation-center-for-ai-safety/",
+          "headline_zh": "数字劳动自动化程度显著提高（人工智能安全中心）",
+          "summary_short_zh": "数字劳动自动化程度显著提高（人工智能安全中心",
+          "why_it_matters_zh": "这则其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "e2d94551c096",
@@ -2400,7 +2473,11 @@
               "published_at": "2026-07-07T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-07/topic/benchmark-maintainers-here-elliot-arledge-x/"
+          "route": "/hot/2026-07-07/topic/benchmark-maintainers-here-elliot-arledge-x/",
+          "headline_zh": "基准测试维护者在此（Elliot Arledge，X）",
+          "summary_short_zh": "基准测试维护者在此（Elliot Arledge，X",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -2444,7 +2521,11 @@
               "published_at": "Mon, 06 Jul 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-07-07/topic/hy3-lands-as-a-serious-open-model/"
+          "route": "/hot/2026-07-07/topic/hy3-lands-as-a-serious-open-model/",
+          "headline_zh": "Hy3 作为实力强劲的开放模型亮相",
+          "summary_short_zh": "腾讯以 Apache 2.0 许可发布 Hy3。这款混合专家模型共有 2950 亿参数，激活参数为 210 亿，采用 192 个专家、top-8 路由和分组查询注意力（GQA），支持 256K 上下文，并配备一个用于推测解码的 38 亿参数多词元预测（MTP）层。",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "f7a9d4fef6d5",
@@ -2482,7 +2563,11 @@
               "published_at": "Mon, 06 Jul 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-07-07/topic/inference-support-was-unusually-day-0-mature/"
+          "route": "/hot/2026-07-07/topic/inference-support-was-unusually-day-0-mature/",
+          "headline_zh": "推理支持在发布首日就已成熟得令人意外",
+          "summary_short_zh": "@vllm_project 表示，Hy3 自发布起即可在 vLLM 中原生运行，配备工具调用和推理内容解析器，支持 MTP 推测解码，并已通过 NVIDIA 和 AMD 平台的兼容性验证。",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     },
@@ -2526,7 +2611,11 @@
               "published_at": "2026-07-06T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-07-07/topic/do-all-visual-tokens-matter-equally-object-evidence-preserving-token-merging-for-vision-language-retrieval/"
+          "route": "/hot/2026-07-07/topic/do-all-visual-tokens-matter-equally-object-evidence-preserving-token-merging-for-vision-language-retrieval/",
+          "headline_zh": "所有视觉词元都同样重要吗？面向视觉语言检索的目标证据保留式词元合并",
+          "summary_short_zh": "多向量视觉语言检索通过基于最大相似度的后期交互保留细粒度视觉证据，但图像侧的密集词元使存储和评分成本高昂。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "b0d5fd5996ec",
@@ -2564,7 +2653,11 @@
               "published_at": "2026-07-06T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-07-07/topic/vision-pretraining-for-dense-spatial-perception/"
+          "route": "/hot/2026-07-07/topic/vision-pretraining-for-dense-spatial-perception/",
+          "headline_zh": "面向稠密空间感知的视觉预训练",
+          "summary_short_zh": "稠密空间感知对物理智能至关重要，视觉系统需从像素观测中恢复结构化、具有度量信息且可指导行动的表征。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "e9a0a1e3d5db",
@@ -2602,7 +2695,11 @@
               "published_at": "2026-07-06T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-07-07/topic/internvla-a1-5-unifying-understanding-latent-foresight-and-action-for-compositional-generalization/"
+          "route": "/hot/2026-07-07/topic/internvla-a1-5-unifying-understanding-latent-foresight-and-action-for-compositional-generalization/",
+          "headline_zh": "InternVLA-A1.5：统一理解、潜空间前瞻与动作，实现组合泛化",
+          "summary_short_zh": "用于机器人操作的统一模型旨在让同一策略兼具预训练视觉语言模型的语义先验，以及通过预测未来学到的物理动力学知识。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "08560548c491",
@@ -2640,7 +2737,11 @@
               "published_at": "2026-07-06T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-07-07/topic/pixworld-unifying-3d-scene-generation-and-reconstruction-in-pixel-space/"
+          "route": "/hot/2026-07-07/topic/pixworld-unifying-3d-scene-generation-and-reconstruction-in-pixel-space/",
+          "headline_zh": "PixWorld：在像素空间统一三维场景生成与重建",
+          "summary_short_zh": "三维重建与生成通常采用不同范式：重建使用基于像素的回归，生成使用潜空间扩散。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         }
       ]
     }
@@ -2686,7 +2787,11 @@
               "published_at": "Mon, 06 Jul 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-07-07/topic/mechanistic-interpretability-took-center-stage/"
+          "route": "/hot/2026-07-07/topic/mechanistic-interpretability-took-center-stage/",
+          "headline_zh": "机制可解释性成为焦点",
+          "summary_short_zh": "Anthropic 发布研究，称 Claude 内部存在类似全局工作空间的结构，核心是一小部分被称为 J-space 的激活值（@AnthropicAI，@AnthropicAI）。",
+          "why_it_matters_zh": "这则产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "978b38a476b0",
@@ -2724,7 +2829,11 @@
               "published_at": "Mon, 06 Jul 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-07-07/topic/speech-remains-highly-competitive/"
+          "route": "/hot/2026-07-07/topic/speech-remains-highly-competitive/",
+          "headline_zh": "语音领域竞争依然激烈",
+          "summary_short_zh": "AssemblyAI 发布了 Universal-3.5 Pro Realtime，这款流式语音识别模型在 AA-WER Streaming 上的词错误率（WER）为 4.1%，支持在通话中更新上下文提示，无需重新连接（@ArtificialAnlys）。",
+          "why_it_matters_zh": "这则产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "0edd8a3ecf7b",
@@ -2762,7 +2871,11 @@
               "published_at": "Mon, 06 Jul 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-07-07/topic/new-model-gigachat3-5-432b-a28b-with-day-0-gguf-support/"
+          "route": "/hot/2026-07-07/topic/new-model-gigachat3-5-432b-a28b-with-day-0-gguf-support/",
+          "headline_zh": "新模型：GigaChat3.5-432B-A28B（首发即支持 GGUF！）",
+          "summary_short_zh": "Sberbank/ai-sage 在 Hugging Face 上发布了 GigaChat3.5-432B-A28B，提供指令版和基础版，首发即提供 GGUF 权重；llama.cpp 支持可通过 PR ggml-org/llama.cpp#25342 获取，尚未合入 master 分支。",
+          "why_it_matters_zh": "这则产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2806,7 +2919,10 @@
               "published_at": "2026-07-07T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-07/topic/import-ai-463-self-improving-robots-a-10k-chinese-gpu-cluster-and-an-elegiac-essay-for-the-human-era/"
+          "route": "/hot/2026-07-07/topic/import-ai-463-self-improving-robots-a-10k-chinese-gpu-cluster-and-an-elegiac-essay-for-the-human-era/",
+          "headline_zh": "Import AI 463：自我改进的机器人、中国万卡 GPU 集群，以及悼念人类时代的随笔",
+          "why_it_matters_zh": "这则其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "57530074ab1d",
@@ -2844,7 +2960,10 @@
               "published_at": "2026-07-07T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-07/topic/import-ai-464-fables-writes-gpu-kernels-ai-automation-and-analog-computation/"
+          "route": "/hot/2026-07-07/topic/import-ai-464-fables-writes-gpu-kernels-ai-automation-and-analog-computation/",
+          "headline_zh": "Import AI 464：Fables 编写 GPU 内核、AI 自动化与模拟计算",
+          "why_it_matters_zh": "这则其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "5ab0792fb4ac",
@@ -2882,7 +3001,10 @@
               "published_at": "Tue, 07 Jul 2026 03:24:55 +0000"
             }
           ],
-          "route": "/hot/2026-07-07/topic/waic-2026-ai4s/"
+          "route": "/hot/2026-07-07/topic/waic-2026-ai4s/",
+          "headline_zh": "征程赶超｜WAIC 2026科学智能：AI4S从“辅助计算”到“自主发现”，中国如何重塑全球科研版图？",
+          "why_it_matters_zh": "这则其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "536ccd83a5b9",
@@ -2920,7 +3042,11 @@
               "published_at": "Mon, 06 Jul 2026 16:53:38 +0000"
             }
           ],
-          "route": "/hot/2026-07-07/topic/streaming-benchmark-and-recommendation-results-to-mlflow-with-amazon-sagemaker-ai/"
+          "route": "/hot/2026-07-07/topic/streaming-benchmark-and-recommendation-results-to-mlflow-with-amazon-sagemaker-ai/",
+          "headline_zh": "使用 Amazon SageMaker AI 将基准测试和推荐结果流式传输至 MLflow",
+          "summary_short_zh": "本文介绍如何利用新推出的 MLflow 集成，将 Amazon SageMaker AI 优化推理推荐作业和基准测试作业的实验数据自动流式传输到统一的跟踪界面。",
+          "why_it_matters_zh": "这篇教程见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "137e2e9b879c",
@@ -2958,7 +3084,11 @@
               "published_at": "Mon, 06 Jul 2026 14:17:42 +0000"
             }
           ],
-          "route": "/hot/2026-07-07/topic/uk-regulator-warns-of-arms-race-to-keep-up-with-ai-use-in-financial-services/"
+          "route": "/hot/2026-07-07/topic/uk-regulator-warns-of-arms-race-to-keep-up-with-ai-use-in-financial-services/",
+          "headline_zh": "英国监管机构警告：追赶金融服务业 AI 应用步伐正成为一场“军备竞赛”",
+          "summary_short_zh": "随着数百万人使用 AI 做出个人理财决策，英国金融行为监管局（FCA）官员呼吁赋予监管机构更大权力。",
+          "why_it_matters_zh": "这则其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }

@@ -1909,7 +1909,15 @@
           "published_at": "Mon, 22 Jun 2026 10:00:00 GMT"
         }
       ],
-      "route": "/hot/2026-06-23/topic/patch-the-planet-a-daybreak-initiative-to-support-open-source-maintainers/"
+      "route": "/hot/2026-06-23/topic/patch-the-planet-a-daybreak-initiative-to-support-open-source-maintainers/",
+      "headline_zh": "Patch the Planet：Daybreak 推出的开源维护者支持计划",
+      "summary_short_zh": "OpenAI 推出 Daybreak 旗下的 Patch the Planet 计划，通过 AI 和专家审查帮助开源维护者发现、验证并修复漏洞",
+      "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "OpenAI 推出 Codex Security、GPT-5.5-Cyber 等 Daybreak 新工具，帮助组织大规模发现、验证并修复漏洞。",
+        "OpenAI 推出 Daybreak 旗下的 Patch the Planet 计划，通过 AI 和专家审查帮助开源维护者发现、验证并修复漏洞。"
+      ]
     },
     {
       "topic_id": "b58719c0fe47",
@@ -1949,7 +1957,14 @@
           "published_at": "Mon, 22 Jun 2026 16:32:15 +0000"
         }
       ],
-      "route": "/hot/2026-06-23/topic/embed-the-world-multimodal-ai-for-searchable-aerial-imagery-at-scale/"
+      "route": "/hot/2026-06-23/topic/embed-the-world-multimodal-ai-for-searchable-aerial-imagery-at-scale/",
+      "headline_zh": "将世界向量化：用多模态 AI 实现大规模航拍影像检索",
+      "summary_short_zh": "本文将介绍问题背景、我们基于 Amazon Bedrock 和 Amazon OpenSearch Serverless 的架构、基于 OpenStreetMap 真值数据构建的评估方法、比较嵌入模型、融合策略、图像描述生成和检索方法的四项实验，以及……",
+      "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "本文将介绍问题背景、我们基于 Amazon Bedrock 和 Amazon OpenSearch Serverless 的架构、基于 OpenStreetMap 真值数据构建的评估方法，以及四项实验……"
+      ]
     },
     {
       "topic_id": "07e3c3d1cc01",
@@ -1989,7 +2004,14 @@
           "published_at": "Tue, 23 Jun 2026 00:00:00 GMT"
         }
       ],
-      "route": "/hot/2026-06-23/topic/how-omio-is-building-the-future-of-conversational-travel/"
+      "route": "/hot/2026-06-23/topic/how-omio-is-building-the-future-of-conversational-travel/",
+      "headline_zh": "Omio 如何打造对话式旅行的未来",
+      "summary_short_zh": "了解 Omio 如何借助 OpenAI 打造对话式旅行体验、加速产品开发，并转型为 AI 原生公司",
+      "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "了解 Omio 如何借助 OpenAI 打造对话式旅行体验、加速产品开发，并转型为 AI 原生公司。"
+      ]
     },
     {
       "topic_id": "347e089e00b0",
@@ -2037,7 +2059,15 @@
           "published_at": "Mon, 22 Jun 2026 20:08:15 +0000"
         }
       ],
-      "route": "/hot/2026-06-23/topic/nvidia-says-its-ai-data-center-design-runs-hotter-to-use-a-lot-less-water/"
+      "route": "/hot/2026-06-23/topic/nvidia-says-its-ai-data-center-design-runs-hotter-to-use-a-lot-less-water/",
+      "headline_zh": "英伟达称其 AI 数据中心设计通过提高运行温度大幅节水",
+      "summary_short_zh": "公众对数据中心的反对主要集中在其水资源和能源消耗上。英伟达如今强调，其 Rubin 一代全液冷数据中心参考设计已“大幅降低耗电量，并将用水量几乎降至零”。不过……",
+      "why_it_matters_zh": "2 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "公众对数据中心的反对主要集中在其水资源和能源消耗上。英伟达如今强调，其 Rubin 一代全液冷数据中心参考设计……",
+        "英伟达宣布推出一种新冷却系统，可减少数据中心内部的用水量。但 AI 用水最多的环节是化石燃料发电厂，这套系统对此无能为力。"
+      ]
     },
     {
       "topic_id": "d27ff94899f7",
@@ -2075,7 +2105,10 @@
           "published_at": "2026-06-22T12:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-06-23/topic/elevenlabs-to-expand-in-california-creating-173-high-paying-jobs/"
+      "route": "/hot/2026-06-23/topic/elevenlabs-to-expand-in-california-creating-173-high-paying-jobs/",
+      "headline_zh": "ElevenLabs 将在加州扩张，创造 173 个高薪岗位",
+      "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布"
     }
   ],
   "category_sections": [
@@ -2119,7 +2152,11 @@
               "published_at": "Tue, 23 Jun 2026 01:27:55 +0000"
             }
           ],
-          "route": "/hot/2026-06-23/topic/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/"
+          "route": "/hot/2026-06-23/topic/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+          "headline_zh": "持续更新：2026 年科技公司以 AI 为由的大规模裁员",
+          "summary_short_zh": "持续追踪今年宣布大规模裁员、并将 AI 列为原因之一的大型科技公司，按时间倒序排列",
+          "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "d6020e700964",
@@ -2157,7 +2194,11 @@
               "published_at": "Sun, 21 Jun 2026 23:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-06-23/topic/samsung-electronics-brings-chatgpt-and-codex-to-employees/"
+          "route": "/hot/2026-06-23/topic/samsung-electronics-brings-chatgpt-and-codex-to-employees/",
+          "headline_zh": "三星电子向员工提供 ChatGPT 和 Codex",
+          "summary_short_zh": "三星电子为全球员工部署 ChatGPT Enterprise 和 Codex，这是 OpenAI 规模最大的企业 AI 部署项目之一",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "4c38562a3450",
@@ -2195,7 +2236,11 @@
               "published_at": "Mon, 22 Jun 2026 00:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-06-23/topic/codex-maxxing-for-long-running-work/"
+          "route": "/hot/2026-06-23/topic/codex-maxxing-for-long-running-work/",
+          "headline_zh": "充分利用 Codex 处理长时任务",
+          "summary_short_zh": "了解 Jason Liu 如何使用 Codex 保留上下文、管理复杂项目，并在单次提示之后持续推进工作",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "946166613bf3",
@@ -2233,7 +2278,11 @@
               "published_at": "2026-06-22T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-06-23/topic/agent-dashboard-in-grok-build/"
+          "route": "/hot/2026-06-23/topic/agent-dashboard-in-grok-build/",
+          "headline_zh": "Grok Build 中的智能体仪表盘",
+          "summary_short_zh": "同时管理多个编程会话，查看各自正在做什么，回应需要你介入的会话，并分派新任务",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "f4621792bd0c",
@@ -2271,7 +2320,10 @@
               "published_at": "2026-06-23T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-23/topic/5-min-read-startups-claims-its-new-model-matches-mythos-and-fable/"
+          "route": "/hot/2026-06-23/topic/5-min-read-startups-claims-its-new-model-matches-mythos-and-fable/",
+          "headline_zh": "阅读约需 5 分钟：初创公司称其新模型可媲美 Mythos 和 Fable",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2315,7 +2367,11 @@
               "published_at": "Mon, 22 Jun 2026 20:13:58 +0000"
             }
           ],
-          "route": "/hot/2026-06-23/topic/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidia-s-20b-not-acqui-hire-deal/"
+          "route": "/hot/2026-06-23/topic/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidia-s-20b-not-acqui-hire-deal/",
+          "headline_zh": "AI 芯片制造商 Groq 确认融资 6.5 亿美元，在英伟达 200 亿美元的“非收购式招聘”交易后重建团队",
+          "summary_short_zh": "AI 公司经历这类“非收购式招聘”交易后会做些什么？Groq 筹集了资金，正加码新型云服务（neocloud）业务，并招募新高管",
+          "why_it_matters_zh": "此次融资见于 1 个独立来源。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "93779d36c453",
@@ -2353,7 +2409,11 @@
               "published_at": "Mon, 22 Jun 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-06-23/topic/baseten-s-1-5b-series-f-is-a-direct-bet-on-post-trained-open-models-and-inference-as-the-enterprise-control-plane/"
+          "route": "/hot/2026-06-23/topic/baseten-s-1-5b-series-f-is-a-direct-bet-on-post-trained-open-models-and-inference-as-the-enterprise-control-plane/",
+          "headline_zh": "Baseten 的 15 亿美元 F 轮融资，直接押注经过后训练的开放模型，以及充当企业控制平面的推理能力",
+          "summary_short_zh": "Baseten 及其 CEO @amiruci 认为，企业越来越希望掌控自己的智能层：运行开放模型或专用模型，利用自有数据和评测进行后训练，并保留对持续学习的控制权。",
+          "why_it_matters_zh": "此次融资见于 1 个独立来源。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -2397,7 +2457,11 @@
               "published_at": "Mon, 22 Jun 2026 16:28:46 +0000"
             }
           ],
-          "route": "/hot/2026-06-23/topic/running-comfyui-workflows-on-amazon-sagemaker-ai-processing-jobs/"
+          "route": "/hot/2026-06-23/topic/running-comfyui-workflows-on-amazon-sagemaker-ai-processing-jobs/",
+          "headline_zh": "在 Amazon SageMaker AI 处理作业中运行 ComfyUI 工作流",
+          "summary_short_zh": "本文将介绍如何在 Amazon SageMaker AI 处理作业中部署 ComfyUI 工作流，一次批量生成数百张高质量图像。",
+          "why_it_matters_zh": "这一行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "30295a60029f",
@@ -2435,7 +2499,11 @@
               "published_at": "2026-06-23T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-23/topic/first-steps-toward-automated-ai-research-recursive/"
+          "route": "/hot/2026-06-23/topic/first-steps-toward-automated-ai-research-recursive/",
+          "headline_zh": "迈向自动化 AI 研究的第一步（Recursive）",
+          "summary_short_zh": "迈向自动化 AI 研究的第一步（Recursive",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "001e30ae90b1",
@@ -2473,7 +2541,11 @@
               "published_at": "2026-06-23T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-23/topic/how-long-until-ai-doesn-t-need-humans-ajeya-cotra-timothy-b-lee-asterisk-magazine/"
+          "route": "/hot/2026-06-23/topic/how-long-until-ai-doesn-t-need-humans-ajeya-cotra-timothy-b-lee-asterisk-magazine/",
+          "headline_zh": "AI 还要多久才不再需要人类？Ajeya Cotra、Timothy B. Lee（Asterisk 杂志）",
+          "summary_short_zh": "AI 还要多久才不再需要人类？Ajeya Cotra、Timothy B. Lee（Asterisk 杂志",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "d3903f19f59e",
@@ -2511,7 +2583,10 @@
               "published_at": "2026-06-23T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-23/topic/import-ai-461-alignment-is-not-on-track-frontiercode-and-synthetic-research-interns/"
+          "route": "/hot/2026-06-23/topic/import-ai-461-alignment-is-not-on-track-frontiercode-and-synthetic-research-interns/",
+          "headline_zh": "Import AI 第 461 期：“对齐工作未步入正轨”；FrontierCode；AI 科研实习生",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "11522b902792",
@@ -2549,7 +2624,10 @@
               "published_at": "2026-06-23T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-23/topic/import-ai-462-superpersuasion-self-sustaining-ai-paths-to-asi/"
+          "route": "/hot/2026-06-23/topic/import-ai-462-superpersuasion-self-sustaining-ai-paths-to-asi/",
+          "headline_zh": "Import AI 第 462 期：超级说服力；能自我维持的 AI；通往超级人工智能的路径",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -2593,7 +2671,11 @@
               "published_at": "2026-06-19T17:19:19Z"
             }
           ],
-          "route": "/hot/2026-06-23/topic/briliwar0-glm-5-2-free-desktop-app/"
+          "route": "/hot/2026-06-23/topic/briliwar0-glm-5-2-free-desktop-app/",
+          "headline_zh": "briliwar0/glm-5.2-free-desktop-app",
+          "summary_short_zh": "glm 5.2 免费 z.ai 大语言模型聊天机器人 免费 API 访问 本地大语言模型 unsloth 动态 GGUF llama.cpp ollama run 编程助手 自主智能体 zcode opencode Cloudflare Workers AI Hugging Face 模型权重 100 万 token 上下文窗口 长程任务 token 绕过 基准测试 SWE-bench Pro Terminal-Bench 配置",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "4bfda2c79e35",
@@ -2631,7 +2713,11 @@
               "published_at": "2026-06-22T23:43:51+00:00"
             }
           ],
-          "route": "/hot/2026-06-23/topic/porting-the-moebius-0-2b-image-inpainting-model-to-run-in-the-browser-with-claude-code/"
+          "route": "/hot/2026-06-23/topic/porting-the-moebius-0-2b-image-inpainting-model-to-run-in-the-browser-with-claude-code/",
+          "headline_zh": "用 Claude Code 将 Moebius 0.2B 图像修复模型移植到浏览器运行",
+          "summary_short_zh": "<p>今天早上，我在 <a href=\" Hacker News</a> 上看到了 <a href=\" 0.2B 轻量级图像修复框架，性能媲美 10B 模型</a>，文章介绍了一个小巧但效果出色的图像修复模型：你可以标出图像中要移除的区域，模型会想象该用什么填补这些空白。",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "dfd3ad094f71",
@@ -2669,7 +2755,11 @@
               "published_at": "2026-06-22T23:59:53+00:00"
             }
           ],
-          "route": "/hot/2026-06-23/topic/prompt-injection-as-role-confusion/"
+          "route": "/hot/2026-06-23/topic/prompt-injection-as-role-confusion/",
+          "headline_zh": "将提示注入视为角色混淆",
+          "summary_short_zh": "<p><strong><a href=\" 将注入视为角色混淆</a></strong></p> 首先，我特别喜欢这句话：</p> <blockquote> <p>这是这篇论文的博客版解读。</p> </blockquote> <p>我希望<em>每篇论文</em>都附有这样的解读。",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "01412e6e3b20",
@@ -2707,7 +2797,11 @@
               "published_at": "2026-06-21T22:01:04+00:00"
             }
           ],
-          "route": "/hot/2026-06-23/topic/temporary-cloudflare-accounts-for-ai-agents/"
+          "route": "/hot/2026-06-23/topic/temporary-cloudflare-accounts-for-ai-agents/",
+          "headline_zh": "面向 AI 智能体的 Cloudflare 临时账户",
+          "summary_short_zh": "<p><strong><a href=\" 面向 AI 智能体的 Cloudflare 账户</a></strong></p> 公告称这项功能“面向 AI 智能体”，但（如今这种情况很常见）其实没必要拿 AI 当卖点，这项功能对其他人同样有意思。</p> <p>简单说：你现在可以创建一个",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     }
@@ -2753,7 +2847,11 @@
               "published_at": "Mon, 22 Jun 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-06-23/topic/anthropic-s-internal-mythos-successor-emerges/"
+          "route": "/hot/2026-06-23/topic/anthropic-s-internal-mythos-successor-emerges/",
+          "headline_zh": "Anthropic 内部 Mythos 后继模型浮出水面",
+          "summary_short_zh": "图中是 Andrew Curran 的一条推文截图，转述了一则传闻：Anthropic 已在内部训练出一款能力更强的模型，作为尚未发布的“Mythos”的后继版本，可能名为 Mythos 5.1 或 Mythos 6。",
+          "why_it_matters_zh": "这条产品发布资讯见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "0988bb865f2f",
@@ -2791,7 +2889,11 @@
               "published_at": "Mon, 22 Jun 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-06-23/topic/claude-sonnet-5-fennec-leak-1m-context-expected-next-week/"
+          "route": "/hot/2026-06-23/topic/claude-sonnet-5-fennec-leak-1m-context-expected-next-week/",
+          "headline_zh": "Claude Sonnet 5“Fennec”爆料：100 万 token 上下文，预计下周发布",
+          "summary_short_zh": "这张图片采用宣传图风格，橙色背景上写着“Claude Sonnet 5”，未提供证实相关泄露传闻的技术证据。",
+          "why_it_matters_zh": "这条产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "a24293781be3",
@@ -2829,7 +2931,11 @@
               "published_at": "Mon, 22 Jun 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-06-23/topic/openai-expanded-its-cyber-stack-beyond-vuln-discovery-into-remediation/"
+          "route": "/hot/2026-06-23/topic/openai-expanded-its-cyber-stack-beyond-vuln-discovery-into-remediation/",
+          "headline_zh": "OpenAI 将网络安全工具体系从漏洞发现扩展至漏洞修复",
+          "summary_short_zh": "OpenAI 宣布扩展 Daybreak 计划，内容包括 Codex Security 插件、面向可信防御方的完整版 GPT-5.5-Cyber 模型、Cyber Partner Program，以及旨在保障关键开源软件安全的 Patch the Planet。",
+          "why_it_matters_zh": "这条产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2873,7 +2979,11 @@
               "published_at": "2026-06-23T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-23/topic/research-kobi-hackenburg-researcher-at-aisi/"
+          "route": "/hot/2026-06-23/topic/research-kobi-hackenburg-researcher-at-aisi/",
+          "headline_zh": "研究（Kobi Hackenburg，AISI 研究员）",
+          "summary_short_zh": "研究（Kobi Hackenburg，AISI 研究员",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "5b0a2ec19180",
@@ -2911,7 +3021,11 @@
               "published_at": "Tue, 23 Jun 2026 06:02:11 +0000"
             }
           ],
-          "route": "/hot/2026-06-23/topic/ai/"
+          "route": "/hot/2026-06-23/topic/ai/",
+          "headline_zh": "马斯克又盯上AI基建：特斯拉要卖“算力积木”了",
+          "summary_short_zh": "新商标已曝光",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "67db390d02ba",
@@ -2949,7 +3063,11 @@
               "published_at": "Tue, 23 Jun 2026 06:10:04 +0000"
             }
           ],
-          "route": "/hot/2026-06-23/topic/tvc-prompt/"
+          "route": "/hot/2026-06-23/topic/tvc-prompt/",
+          "headline_zh": "可口可乐的世界杯TVC，居然是prompt生成的",
+          "summary_short_zh": "24小时在线，2秒回话，陪你聊球",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "e0f81db20777",
@@ -2987,7 +3105,11 @@
               "published_at": "Tue, 23 Jun 2026 07:31:30 +0000"
             }
           ],
-          "route": "/hot/2026-06-23/topic/57-openai-ai/"
+          "route": "/hot/2026-06-23/topic/57-openai-ai/",
+          "headline_zh": "57场面试杀进OpenAI！华人博士开源「AI面经」，含泪推荐",
+          "summary_short_zh": "希望你能找到快乐",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "9869836e3be3",
@@ -3025,7 +3147,11 @@
               "published_at": "Mon, 22 Jun 2026 17:53:40 +0000"
             }
           ],
-          "route": "/hot/2026-06-23/topic/building-pay-per-intelligence-for-ai-agents-how-ampersend-uses-amazon-bedrock-agentcore-payments/"
+          "route": "/hot/2026-06-23/topic/building-pay-per-intelligence-for-ai-agents-how-ampersend-uses-amazon-bedrock-agentcore-payments/",
+          "headline_zh": "为 AI 智能体构建按智能服务付费的机制：Ampersend 如何使用 Amazon Bedrock AgentCore Payments",
+          "summary_short_zh": "本文介绍 Ampersend 如何基于 Amazon Bedrock AgentCore Payments 构建按智能服务付费的路由层。AI 智能体可自主将任务分配给效果最佳的模型，按请求付费，并将支出控制在预算内。",
+          "why_it_matters_zh": "这篇教程见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -3073,7 +3199,11 @@
           "published_at": "2026-06-22T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-06-23/topic/grok-for-powerpoint/"
+      "route": "/hot/2026-06-23/topic/grok-for-powerpoint/",
+      "headline_zh": "适用于 PowerPoint 的 Grok",
+      "summary_short_zh": "Grok 现已可在 Microsoft PowerPoint 中使用，无需离开应用即可将大纲转成幻灯片、扩充演示文稿并精炼叙述。",
+      "why_it_matters_zh": "这条产品发布消息见于 1 个独立来源。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "f724f4a66e66",
@@ -3117,7 +3247,11 @@
           "published_at": "2026-06-22T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-06-23/topic/grok-on-amazon-bedrock/"
+      "route": "/hot/2026-06-23/topic/grok-on-amazon-bedrock/",
+      "headline_zh": "Grok 上线 Amazon Bedrock",
+      "summary_short_zh": "使用 /goal，让 Grok Build 长时间自主执行任务",
+      "why_it_matters_zh": "这条产品发布消息见于 1 个独立来源。",
+      "category_zh": "产品发布"
     }
   ],
   "x_buzz": [

@@ -1940,7 +1940,14 @@
           "published_at": "Thu, 02 Jul 2026 17:55:41 +0000"
         }
       ],
-      "route": "/hot/2026-07-03/topic/how-amazon-bedrock-catches-ai-generated-phishing/"
+      "route": "/hot/2026-07-03/topic/how-amazon-bedrock-catches-ai-generated-phishing/",
+      "headline_zh": "Amazon Bedrock 如何识别 AI 生成的网络钓鱼内容",
+      "summary_short_zh": "通过网络钓鱼实施社会工程攻击，仍是发起网络攻击最常见的手段之一。如今，AI 生成的钓鱼邮件手法更为精巧，显著增加了风险，也给负责管理邮件系统的安全团队带来了新挑战。",
+      "why_it_matters_zh": "有 1 个独立来源提及此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "通过网络钓鱼实施社会工程攻击，仍是发起网络攻击最常见的手段之一。如今，AI 生成的钓鱼邮件给负责管理邮件的安全团队带来了新挑战……"
+      ]
     },
     {
       "topic_id": "6b8eb1b87b65",
@@ -1991,7 +1998,15 @@
           "published_at": "2026-07-03T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-07-03/topic/huangchihhungleo-claude-real-video/"
+      "route": "/hot/2026-07-03/topic/huangchihhungleo-claude-real-video/",
+      "headline_zh": "HUANGCHIHHUNGLeo/claude-real-video",
+      "summary_short_zh": "让 Claude（或任意大语言模型）真正看懂视频：从网址或本地文件按场景提取并去重视频帧，搭配转写文本。本地运行，采用 MIT 许可证",
+      "why_it_matters_zh": "有 3 个独立来源提及此工具。",
+      "category_zh": "工具",
+      "key_takeaways_zh": [
+        "2026 年最佳 Tenbin AI 代理：接入 Anthropic Opus 4.8 和 Sonnet 4.6 API",
+        "让 Claude（或任意大语言模型）真正看懂视频：从网址或本地文件按场景提取并去重视频帧，搭配转写文本。本地运行，采用 MIT 许可证。"
+      ]
     },
     {
       "topic_id": "19aebec498f0",
@@ -2029,7 +2044,11 @@
           "published_at": "2026-07-03T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-07-03/topic/locallaws-locus-v1-huggingface/"
+      "route": "/hot/2026-07-03/topic/locallaws-locus-v1-huggingface/",
+      "headline_zh": "LocalLaws / LOCUS-v1 (HuggingFace)",
+      "summary_short_zh": "LocalLaws / LOCUS-v1 (HuggingFace",
+      "why_it_matters_zh": "有 1 个独立来源提及此次产品发布。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "941ad69eaa0e",
@@ -2069,7 +2088,14 @@
           "published_at": "Thu, 02 Jul 2026 18:44:02 +0000"
         }
       ],
-      "route": "/hot/2026-07-03/topic/meta-quietly-launches-vibe-coded-gaming-app-pocket/"
+      "route": "/hot/2026-07-03/topic/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
+      "headline_zh": "Meta 悄然推出氛围编程游戏应用 Pocket",
+      "summary_short_zh": "Meta 悄然推出实验性 AI 应用 Pocket，用户可通过文本提示生成并分享互动小游戏",
+      "why_it_matters_zh": "有 1 个独立来源提及此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Meta 悄然推出实验性 AI 应用 Pocket，用户可通过文本提示生成并分享互动小游戏。"
+      ]
     },
     {
       "topic_id": "5067f4c2e9bf",
@@ -2109,7 +2135,14 @@
           "published_at": "2026-06-28T19:30:36Z"
         }
       ],
-      "route": "/hot/2026-07-03/topic/kulaxyz-self-learning-skills/"
+      "route": "/hot/2026-07-03/topic/kulaxyz-self-learning-skills/",
+      "headline_zh": "Kulaxyz/self-learning-skills",
+      "summary_short_zh": "一项面向 AI 编程智能体（Claude Code、Cursor、AGENTS.md）的自我改进技能：识别会话中历经摸索找到的有效方法，并提炼为下次可复用的技能或规则",
+      "why_it_matters_zh": "有 1 个独立来源提及此工具。",
+      "category_zh": "工具",
+      "key_takeaways_zh": [
+        "一项面向 AI 编程智能体（Claude Code、Cursor、AGENTS.md）的自我改进技能：识别会话中历经摸索找到的有效方法，并提炼为下次可复用的技能或规则。"
+      ]
     }
   ],
   "category_sections": [
@@ -2153,7 +2186,11 @@
               "published_at": "2026-07-02T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-07-03/topic/worldmodelgym-a-decision-based-fidelity-benchmark-for-world-models/"
+          "route": "/hot/2026-07-03/topic/worldmodelgym-a-decision-based-fidelity-benchmark-for-world-models/",
+          "headline_zh": "WorldModelGym：基于决策的世界模型保真度基准",
+          "summary_short_zh": "为了实现目标，无论是生物智能体还是人工智能体，都会构建环境的近似模型，以预测自身行动的后果。",
+          "why_it_matters_zh": "有 1 个独立来源提及此次产品发布。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2197,7 +2234,11 @@
               "published_at": "2026-07-03T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-03/topic/enpire-agentic-robot-policy-self-improvement-in-the-real-world-nvidia-research-website/"
+          "route": "/hot/2026-07-03/topic/enpire-agentic-robot-policy-self-improvement-in-the-real-world-nvidia-research-website/",
+          "headline_zh": "ENPIRE：真实世界中由智能体驱动的机器人策略自我改进（NVIDIA 研究网站）",
+          "summary_short_zh": "ENPIRE：真实世界中由智能体驱动的机器人策略自我改进（NVIDIA 研究网站",
+          "why_it_matters_zh": "这则行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "e3a267417ca4",
@@ -2235,7 +2276,11 @@
               "published_at": "Thu, 02 Jul 2026 18:31:09 +0000"
             }
           ],
-          "route": "/hot/2026-07-03/topic/anthropic-is-discussing-a-new-custom-chip-with-samsung/"
+          "route": "/hot/2026-07-03/topic/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+          "headline_zh": "Anthropic 正与三星洽谈新款定制芯片",
+          "summary_short_zh": "这则消息传出前约一周，OpenAI 刚公布了与博通合作开发的自家定制 AI 芯片。",
+          "why_it_matters_zh": "这则行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "88240e6261b5",
@@ -2273,7 +2318,11 @@
               "published_at": "Thu, 02 Jul 2026 23:38:10 +0000"
             }
           ],
-          "route": "/hot/2026-07-03/topic/mark-zuckerberg-tells-staff-that-ai-agents-haven-t-progressed-as-quickly-as-he-d-hoped/"
+          "route": "/hot/2026-07-03/topic/mark-zuckerberg-tells-staff-that-ai-agents-haven-t-progressed-as-quickly-as-he-d-hoped/",
+          "headline_zh": "马克·扎克伯格告诉员工，AI 智能体的发展速度不及他的预期",
+          "summary_short_zh": "据报道，Meta 首席执行官在一次内部会议上表示，AI 研发推进速度不及预期。",
+          "why_it_matters_zh": "这则行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "a5d6121555a2",
@@ -2311,7 +2360,10 @@
               "published_at": "2026-07-03T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-03/topic/import-ai-463-self-improving-robots-a-10k-chinese-gpu-cluster-and-an-elegiac-essay-for-the-human-era/"
+          "route": "/hot/2026-07-03/topic/import-ai-463-self-improving-robots-a-10k-chinese-gpu-cluster-and-an-elegiac-essay-for-the-human-era/",
+          "headline_zh": "Import AI 第 463 期：自我改进的机器人、中国万卡 GPU 集群，以及一篇悼念人类时代的随笔",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "4359212cbd5f",
@@ -2349,7 +2401,11 @@
               "published_at": "Fri, 03 Jul 2026 03:36:19 +0000"
             }
           ],
-          "route": "/hot/2026-07-03/topic/waic-2026/"
+          "route": "/hot/2026-07-03/topic/waic-2026/",
+          "headline_zh": "基石筑底｜WAIC 2026算力：超节点与光互连，能否绕过单芯片的物理天花板？",
+          "summary_short_zh": "7月17-7月20",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -2393,7 +2449,11 @@
               "published_at": "2026-06-28T17:40:24Z"
             }
           ],
-          "route": "/hot/2026-07-03/topic/altair4300-glm-5-2-free-desktop-app/"
+          "route": "/hot/2026-07-03/topic/altair4300-glm-5-2-free-desktop-app/",
+          "headline_zh": "Altair4300/glm-5.2-free-desktop-app",
+          "summary_short_zh": "glm 5.2 免费 z.ai 智谱 AI 大语言模型 LLM 混合专家 MoE 7440 亿参数 indexshare DeepSeek 稀疏注意力 DSA 100 万上下文窗口 开放权重 MIT 许可证 Hugging Face ZenMux API Cloudflare Workers AI OpenCode 接入 免费层额度 开源 GitHub 仓库 下载",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "d63ea242ef8d",
@@ -2431,7 +2491,11 @@
               "published_at": "2026-07-02T18:25:00+00:00"
             }
           ],
-          "route": "/hot/2026-07-03/topic/using-dspy-to-evaluate-and-improve-datasette-agent-s-sql-system-prompts/"
+          "route": "/hot/2026-07-03/topic/using-dspy-to-evaluate-and-improve-datasette-agent-s-sql-system-prompts/",
+          "headline_zh": "使用 DSPy 评估并改进 Datasette Agent 的 SQL 系统提示词",
+          "summary_short_zh": "<p><strong>研究：</strong> <a href=\" 使用 DSPy 评估并改进 Datasette Agent 的 SQL 系统提示词</a></p> <p>今天上午的一场 AIE 主题演讲介绍了 <a href=\" ，这让我想起，我一直想看看它能否帮助我改进 <a href=\" Agent</a> 所用的系统提示词，于是我",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "c95546594b5c",
@@ -2469,7 +2533,10 @@
               "published_at": "Jul 2, 2026"
             }
           ],
-          "route": "/hot/2026-07-03/topic/more-details-on-fable-5-s-cyber-safeguards-and-our-jailbreak-framework/"
+          "route": "/hot/2026-07-03/topic/more-details-on-fable-5-s-cyber-safeguards-and-our-jailbreak-framework/",
+          "headline_zh": "进一步介绍 Fable 5 的网络安全防护措施与我们的越狱框架",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     },
@@ -2513,7 +2580,11 @@
               "published_at": "2026-07-02T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-07-03/topic/agenticdatabench-a-comprehensive-benchmark-for-data-agents/"
+          "route": "/hot/2026-07-03/topic/agenticdatabench-a-comprehensive-benchmark-for-data-agents/",
+          "headline_zh": "AgenticDataBench：面向数据智能体的综合评测基准",
+          "summary_short_zh": "数据科学旨在从异构原始数据中提炼可指导行动的洞见，挖掘现代社会所产生的海量数据的价值。将这一过程自动化，对于减轻数据科学家繁重的人工工作负担、支持可扩展的数据驱动应用至关重要。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "4054837c5486",
@@ -2551,7 +2622,11 @@
               "published_at": "2026-07-02T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-07-03/topic/agenticsts-a-bounded-memory-testbed-for-long-horizon-llm-agents/"
+          "route": "/hot/2026-07-03/topic/agenticsts-a-bounded-memory-testbed-for-long-horizon-llm-agents/",
+          "headline_zh": "AgenticSTS：面向长程 LLM 智能体的记忆受限测试平台",
+          "summary_short_zh": "对长程 LLM 智能体而言，记忆是一份契约，规定了未来每次决策可以访问哪些信息。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "8ab8fc4810fa",
@@ -2589,7 +2664,11 @@
               "published_at": "2026-07-02T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-07-03/topic/anygroundbench-a-specialized-domain-benchmark-for-video-grounding-in-vision-language-models/"
+          "route": "/hot/2026-07-03/topic/anygroundbench-a-specialized-domain-benchmark-for-video-grounding-in-vision-language-models/",
+          "headline_zh": "AnyGroundBench：面向视觉语言模型的专业领域视频定位基准",
+          "summary_short_zh": "视觉语言模型（VLM）在视频时空定位（STVG）任务中展现了巨大潜力。然而，现有评测方案大多局限于在通用的日常生活场景基准上进行零样本评测。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "ee475044dbc8",
@@ -2627,7 +2706,11 @@
               "published_at": "2026-07-02T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-07-03/topic/multi-resolution-flow-matching-training-free-diffusion-acceleration-via-staged-sampling/"
+          "route": "/hot/2026-07-03/topic/multi-resolution-flow-matching-training-free-diffusion-acceleration-via-staged-sampling/",
+          "headline_zh": "多分辨率流匹配：通过分阶段采样实现免训练扩散加速",
+          "summary_short_zh": "时间步蒸馏、特征缓存等不依赖特定硬件的文生图扩散加速策略，无需定制计算内核或系统级优化，即可缩短推理时间。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "438934df54ff",
@@ -2665,7 +2748,11 @@
               "published_at": "2026-07-02T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-07-03/topic/program-as-weights-a-programming-paradigm-for-fuzzy-functions/"
+          "route": "/hot/2026-07-03/topic/program-as-weights-a-programming-paradigm-for-fuzzy-functions/",
+          "headline_zh": "Program-as-Weights：一种面向模糊函数的编程范式",
+          "summary_short_zh": "许多日常编程任务难以用明确的规则妥善实现，例如对重要日志行发出告警、修复格式错误的 JSON，或按意图对搜索结果排序。这些任务越来越多地交给大语言模型 API 处理，但代价是牺牲本地性和可复现性，并增加成本。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         }
       ]
     }
@@ -2711,7 +2798,11 @@
               "published_at": "Fri, 03 Jul 2026 05:24:06 +0000"
             }
           ],
-          "route": "/hot/2026-07-03/topic/physical-ai/"
+          "route": "/hot/2026-07-03/topic/physical-ai/",
+          "headline_zh": "黄仁勋说的Physical AI，被这家中国跨界选手带进了生命科学实验室",
+          "summary_short_zh": "第三方测评超越OpenAI最强旗舰GPT-5.6 Sol",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "d0dc4b517a7c",
@@ -2749,7 +2840,11 @@
               "published_at": "2026-07-02T06:23:27-04:00"
             }
           ],
-          "route": "/hot/2026-07-03/topic/openai-floats-giving-trump-administration-5-percent-cut-of-ai-boom/"
+          "route": "/hot/2026-07-03/topic/openai-floats-giving-trump-administration-5-percent-cut-of-ai-boom/",
+          "headline_zh": "OpenAI 提议让特朗普政府分得 5% 的 AI 红利",
+          "summary_short_zh": "据《金融时报》报道，OpenAI 提出向美国政府提供 5% 股权的设想，以缓和与特朗普政府的紧张关系，并减轻公众对 AI 日益强烈的抵触。",
+          "why_it_matters_zh": "这条行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "16e8ae6e42e6",
@@ -2787,7 +2882,11 @@
               "published_at": "Thu, 02 Jul 2026 15:20:51 +0000"
             }
           ],
-          "route": "/hot/2026-07-03/topic/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/"
+          "route": "/hot/2026-07-03/topic/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+          "headline_zh": "OpenAI 提议向美国主权财富基金捐赠 5% 股权",
+          "summary_short_zh": "据报道，OpenAI 首席执行官 Sam Altman 提议将公司 5% 的股权赠予美国主权财富基金，再次引发了让公众分享 AI 热潮经济收益的讨论。",
+          "why_it_matters_zh": "这条行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "067518be19fd",
@@ -2825,7 +2924,11 @@
               "published_at": "Thu, 02 Jul 2026 17:50:23 +0000"
             }
           ],
-          "route": "/hot/2026-07-03/topic/best-practices-for-multi-turn-reinforcement-learning-in-amazon-sagemaker-ai/"
+          "route": "/hot/2026-07-03/topic/best-practices-for-multi-turn-reinforcement-learning-in-amazon-sagemaker-ai/",
+          "headline_zh": "Amazon SageMaker AI 多轮强化学习最佳实践",
+          "summary_short_zh": "本文分享可靠开展多轮强化学习训练的最佳实践，介绍如何构建可信赖的训练环境、设置外部评估、设计与最终任务目标一致的奖励、应对智能体多轮运行带来的变化，以及监控相关指标……",
+          "why_it_matters_zh": "这篇教程见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "834eb445f0b4",
@@ -2863,7 +2966,11 @@
               "published_at": "2026-07-02T17:07:14+00:00"
             }
           ],
-          "route": "/hot/2026-07-03/topic/understand-to-participate/"
+          "route": "/hot/2026-07-03/topic/understand-to-participate/",
+          "headline_zh": "了解，才能参与",
+          "summary_short_zh": "<p>昨天，我在 <a href=\" 听了 Geoffrey Litt 的演讲。他提出的一个观点让我深有共鸣：</p> <p><strong>理解才能参与</strong></p> <p>Geoffrey 谈到了与编程智能体协作的挑战，它们正在构建越来越庞大、越来越复杂的",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "91e95e257a3f",
@@ -2901,7 +3008,11 @@
               "published_at": "Thu, 02 Jul 2026 20:11:59 +0000"
             }
           ],
-          "route": "/hot/2026-07-03/topic/jersey-mike-s-ipo-illustrates-how-bad-the-ai-hype-has-become/"
+          "route": "/hot/2026-07-03/topic/jersey-mike-s-ipo-illustrates-how-bad-the-ai-hype-has-become/",
+          "headline_zh": "Jersey Mike’s 的 IPO 揭示了 AI 炒作有多离谱",
+          "summary_short_zh": "纯粹图个乐子，我翻了翻 Jersey Mike's 的 IPO 文件。一家三明治店，总没必要提 AI 吧。可没想到",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "85a9c8115a97",
@@ -2939,7 +3050,11 @@
               "published_at": "Thu, 02 Jul 2026 11:28:36 +0000"
             }
           ],
-          "route": "/hot/2026-07-03/topic/agent-areal-2-0-rl/"
+          "route": "/hot/2026-07-03/topic/agent-areal-2-0-rl/",
+          "headline_zh": "让Agent越用越强：AReaL 2.0开源，打造面向自演进智能体的RL基础设施",
+          "summary_short_zh": "与社区共同推进自演进智能体生态发展",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "c7f9a46cc19e",
@@ -2984,7 +3099,10 @@
               "published_at": "2026-07-03T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-03/topic/5-min-read-meta-s-model-turn-brain-waves-into-words/"
+          "route": "/hot/2026-07-03/topic/5-min-read-meta-s-model-turn-brain-waves-into-words/",
+          "headline_zh": "阅读需 5 分钟：Meta 的模型将脑电波转化为文字",
+          "why_it_matters_zh": "这条其他类资讯见于 2 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -3026,7 +3144,11 @@
           "published_at": "2026-06-28T19:35:10Z"
         }
       ],
-      "route": "/hot/2026-07-03/topic/frisher1-claudecode-workflow-lab/"
+      "route": "/hot/2026-07-03/topic/frisher1-claudecode-workflow-lab/",
+      "headline_zh": "Frisher1/ClaudeCode-Workflow-Lab",
+      "summary_short_zh": "2026 完全指南：Claude Code 手册——工作流管线与对抗式预算循环",
+      "why_it_matters_zh": "这项工具见于 1 个独立来源。",
+      "category_zh": "工具"
     },
     {
       "topic_id": "642d3455ef78",
@@ -3064,7 +3186,11 @@
           "published_at": "2026-06-28T20:26:32Z"
         }
       ],
-      "route": "/hot/2026-07-03/topic/rak7777-mythic-mcp-proxy/"
+      "route": "/hot/2026-07-03/topic/rak7777-mythic-mcp-proxy/",
+      "headline_zh": "rak7777/mythic-mcp-proxy",
+      "summary_short_zh": "Mythos Router 2026：采用自适应 Claude Opus 4.8 的零漂移本地推理协议",
+      "why_it_matters_zh": "这项工具见于 1 个独立来源。",
+      "category_zh": "工具"
     }
   ],
   "x_buzz": [

@@ -1843,7 +1843,14 @@
           "published_at": "Thu, 18 Jun 2026 23:31:58 +0000"
         }
       ],
-      "route": "/hot/2026-06-19/topic/monitor-and-debug-generative-ai-inference-with-sagemaker-detailed-metrics-and-insights-dashboard-on-cloudwatch/"
+      "route": "/hot/2026-06-19/topic/monitor-and-debug-generative-ai-inference-with-sagemaker-detailed-metrics-and-insights-dashboard-on-cloudwatch/",
+      "headline_zh": "使用 CloudWatch 上的 SageMaker 详细指标和 Insights 仪表板监控与调试生成式 AI 推理",
+      "summary_short_zh": "Amazon SageMaker AI 为机器学习模型提供全托管的实时推理服务。你可将模型部署到由一个或多个计算实例支持的 SageMaker 端点，SageMaker 负责资源预置和扩缩容。SageMaker 支持多种端点架构。",
+      "why_it_matters_zh": "这条产品发布信息来自 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Amazon SageMaker AI 为机器学习模型提供全托管的实时推理服务。你可将模型部署到由一个或多个计算实例支持的 SageMaker 端点，SageMaker……"
+      ]
     },
     {
       "topic_id": "14d7c7bf03b1",
@@ -1889,7 +1896,14 @@
           "published_at": "2026-06-18T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-06-19/topic/grok-for-powerpoint/"
+      "route": "/hot/2026-06-19/topic/grok-for-powerpoint/",
+      "headline_zh": "Grok for PowerPoint",
+      "summary_short_zh": "使用 Microsoft Word 的 Grok 插件，将笔记整理成文档、设置样式和格式，或将网上的研究资料引入 Word",
+      "why_it_matters_zh": "这条产品发布信息来自 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "使用 Microsoft Word 的 Grok 插件，将笔记整理成文档、设置样式和格式，或将网上的研究资料引入 Word。"
+      ]
     },
     {
       "topic_id": "57f2f05c365a",
@@ -1929,7 +1943,14 @@
           "published_at": "Thu, 18 Jun 2026 17:32:22 +0000"
         }
       ],
-      "route": "/hot/2026-06-19/topic/amazon-bedrock-agentcore-harness-is-now-generally-available-go-from-idea-to-production-grade-agent-in-minutes/"
+      "route": "/hot/2026-06-19/topic/amazon-bedrock-agentcore-harness-is-now-generally-available-go-from-idea-to-production-grade-agent-in-minutes/",
+      "headline_zh": "Amazon Bedrock AgentCore harness 现已正式推出：几分钟内将想法变成生产级智能体",
+      "summary_short_zh": "今天，Amazon Bedrock AgentCore harness 正式推出。只需两次 API 调用（用 CreateHarness 定义智能体，用 InvokeHarness 运行），智能体就能在几秒内启动。",
+      "why_it_matters_zh": "这条产品发布信息来自 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "今天，Amazon Bedrock AgentCore harness 正式推出。只需两次 API 调用（用 CreateHarness 定义智能体，用 InvokeHarness 运行），智能体就能在几秒内启动。该智能体运行……"
+      ]
     },
     {
       "topic_id": "1b54025ded74",
@@ -1969,7 +1990,14 @@
           "published_at": "Thu, 18 Jun 2026 11:00:00 GMT"
         }
       ],
-      "route": "/hot/2026-06-19/topic/improving-health-intelligence-in-chatgpt/"
+      "route": "/hot/2026-06-19/topic/improving-health-intelligence-in-chatgpt/",
+      "headline_zh": "提升 ChatGPT 在健康领域的智能水平",
+      "summary_short_zh": "了解 GPT-5.5 Instant 如何通过更强的推理能力、更好的上下文理解、更清晰的表达，以及结合医生意见的评估，提升 ChatGPT 对健康与保健问题的回答质量",
+      "why_it_matters_zh": "这条产品发布信息来自 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "了解 GPT-5.5 Instant 如何通过更强的推理能力、更好的上下文理解、更清晰的表达，以及结合医生意见的评估，提升 ChatGPT 对健康与保健问题的回答质量。"
+      ]
     },
     {
       "topic_id": "58330fc485f1",
@@ -2009,7 +2037,14 @@
           "published_at": "Thu, 18 Jun 2026 17:00:00 GMT"
         }
       ],
-      "route": "/hot/2026-06-19/topic/new-usage-analytics-and-updated-spend-controls-for-enterprises/"
+      "route": "/hot/2026-06-19/topic/new-usage-analytics-and-updated-spend-controls-for-enterprises/",
+      "headline_zh": "面向企业的全新使用分析与升级版支出控制功能",
+      "summary_short_zh": "OpenAI 为 ChatGPT Enterprise 推出全新的支出控制和使用分析功能，帮助组织管理成本，放心扩大 AI 应用规模",
+      "why_it_matters_zh": "这条产品发布信息来自 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "OpenAI 为 ChatGPT Enterprise 推出全新的支出控制和使用分析功能，帮助组织管理成本，放心扩大 AI 应用规模。"
+      ]
     }
   ],
   "category_sections": [
@@ -2053,7 +2088,11 @@
               "published_at": "2026-06-19T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-19/topic/mimo-v2-5-pro-ultraspeed-pushing-1t-parameter-model-generation-speed-to-1000-tps-xiaomi-mimo-blog/"
+          "route": "/hot/2026-06-19/topic/mimo-v2-5-pro-ultraspeed-pushing-1t-parameter-model-generation-speed-to-1000-tps-xiaomi-mimo-blog/",
+          "headline_zh": "MiMo-V2.5-Pro-UltraSpeed：将万亿参数模型的生成速度提升至 1000 TPS（Xiaomi MIMO 博客）",
+          "summary_short_zh": "MiMo-V2.5-Pro-UltraSpeed：将万亿参数模型的生成速度提升至 1000 TPS（Xiaomi MIMO 博客",
+          "why_it_matters_zh": "这条产品发布信息来自 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "b6a68818bee7",
@@ -2091,7 +2130,11 @@
               "published_at": "2026-06-18T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-06-19/topic/gemma-4-on-cerebras-the-fastest-inference-is-now-multimodal/"
+          "route": "/hot/2026-06-19/topic/gemma-4-on-cerebras-the-fastest-inference-is-now-multimodal/",
+          "headline_zh": "Gemma 4 登陆 Cerebras：最快的推理现已支持多模态",
+          "summary_short_zh": "2026年6月18日",
+          "why_it_matters_zh": "这条产品发布信息来自 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "78842d1b711b",
@@ -2129,7 +2172,11 @@
               "published_at": "2026-06-18T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-06-19/topic/llm-serving-fairness/"
+          "route": "/hot/2026-06-19/topic/llm-serving-fairness/",
+          "headline_zh": "LLM 推理服务的公平性",
+          "summary_short_zh": "Cohere 如何确保每个租户都能公平分得算力",
+          "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "85b212ad6f18",
@@ -2167,7 +2214,11 @@
               "published_at": "Thu, 18 Jun 2026 08:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-06-19/topic/using-ai-to-help-physicians-diagnose-rare-genetic-diseases-affecting-children/"
+          "route": "/hot/2026-06-19/topic/using-ai-to-help-physicians-diagnose-rare-genetic-diseases-affecting-children/",
+          "headline_zh": "利用 AI 帮助医生诊断儿童罕见遗传病",
+          "summary_short_zh": "研究人员使用 OpenAI 的推理模型辅助诊断罕见病，在此前未能确诊的病例中作出了 18 项新诊断",
+          "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "946166613bf3",
@@ -2205,7 +2256,11 @@
               "published_at": "2026-06-18T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-06-19/topic/agent-dashboard-in-grok-build/"
+          "route": "/hot/2026-06-19/topic/agent-dashboard-in-grok-build/",
+          "headline_zh": "Grok Build 中的智能体仪表盘",
+          "summary_short_zh": "同时管理多个编程会话。查看各会话正在做什么，回应需要你介入的会话，并分派新任务",
+          "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2249,7 +2304,11 @@
               "published_at": "Fri, 19 Jun 2026 00:51:11 +0000"
             }
           ],
-          "route": "/hot/2026-06-19/topic/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/"
+          "route": "/hot/2026-06-19/topic/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
+          "headline_zh": "消息人士称：Elastic 同意以最高 8500 万美元收购获 CRV 投资的 DeductiveAI",
+          "summary_short_zh": "DeductiveAI 是一家利用 AI 发现并修复软件缺陷的初创公司，成立仅三年",
+          "why_it_matters_zh": "该收购消息见于 1 个独立来源。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "926feadd46bb",
@@ -2287,7 +2346,11 @@
               "published_at": "Thu, 18 Jun 2026 21:20:13 +0000"
             }
           ],
-          "route": "/hot/2026-06-19/topic/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/"
+          "route": "/hot/2026-06-19/topic/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
+          "headline_zh": "据报道，AI 推理初创公司 Baseten 在上轮巨额融资数月后，再筹 15 亿美元",
+          "summary_short_zh": "据报道，初创公司 Baseten 即将以 130 亿美元估值完成一轮 15 亿美元融资，“推理淘金热”仍在持续",
+          "why_it_matters_zh": "该融资消息见于 1 个独立来源。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -2331,7 +2394,11 @@
               "published_at": "2026-06-19T00:49:33-04:00"
             }
           ],
-          "route": "/hot/2026-06-19/topic/barret-zoph-is-out-at-openai-again-after-just-five-months/"
+          "route": "/hot/2026-06-19/topic/barret-zoph-is-out-at-openai-again-after-just-five-months/",
+          "headline_zh": "Barret Zoph 回归 OpenAI 仅五个月后再度离职",
+          "summary_short_zh": "The Verge 获悉，OpenAI 企业 AI 销售负责人 Barret Zoph 在回归公司五个月后已离职。",
+          "why_it_matters_zh": "该行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "6f576d32d111",
@@ -2369,7 +2436,11 @@
               "published_at": "Thu, 18 Jun 2026 19:59:22 +0000"
             }
           ],
-          "route": "/hot/2026-06-19/topic/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/"
+          "route": "/hot/2026-06-19/topic/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
+          "headline_zh": "OpenAI 在 IPO 前招揽多位重量级人才",
+          "summary_short_zh": "OpenAI 正在 IPO 前壮大团队，同一周内招揽了来自 Google DeepMind 的 Transformer 共同发明者 Noam Shazeer，以及特朗普政府前 AI 政策官员 Dean Ball",
+          "why_it_matters_zh": "该行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "6435ca25a29d",
@@ -2407,7 +2478,10 @@
               "published_at": "2026-06-19T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-19/topic/import-ai-460-reward-hacking-society-rsi-data-from-anthropic-and-rl-based-quadcopter-racing/"
+          "route": "/hot/2026-06-19/topic/import-ai-460-reward-hacking-society-rsi-data-from-anthropic-and-rl-based-quadcopter-racing/",
+          "headline_zh": "Import AI 第 460 期：社会中的奖励投机、Anthropic 的 RSI 数据，以及基于强化学习的四旋翼飞行器竞速",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "d3903f19f59e",
@@ -2445,7 +2519,10 @@
               "published_at": "2026-06-19T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-19/topic/import-ai-461-alignment-is-not-on-track-frontiercode-and-synthetic-research-interns/"
+          "route": "/hot/2026-06-19/topic/import-ai-461-alignment-is-not-on-track-frontiercode-and-synthetic-research-interns/",
+          "headline_zh": "Import AI 461：“对齐工作未步入正轨”、FrontierCode，以及虚拟科研实习生",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "a2210c6b20bb",
@@ -2483,7 +2560,11 @@
               "published_at": "Fri, 19 Jun 2026 03:28:37 +0000"
             }
           ],
-          "route": "/hot/2026-06-19/topic/2/"
+          "route": "/hot/2026-06-19/topic/2/",
+          "headline_zh": "全球首个人形机器人通用小脑来了！全球最大规模2万小时人类动作数据，实现零样本泛化",
+          "summary_short_zh": "人形机器人正式迈入“GPT时代”",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -2527,7 +2608,11 @@
               "published_at": "Fri, 19 Jun 2026 07:59:12 +0000"
             }
           ],
-          "route": "/hot/2026-06-19/topic/the-us-says-asml-s-top-chip-tool-may-be-in-china-asml-says-it-isn-t/"
+          "route": "/hot/2026-06-19/topic/the-us-says-asml-s-top-chip-tool-may-be-in-china-asml-says-it-isn-t/",
+          "headline_zh": "美国称 ASML 最先进的芯片制造设备可能在中国，ASML 否认",
+          "summary_short_zh": "从商业逻辑看，ASML 不太可能冒着失去出口许可证的风险向中国客户提供设备。",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "cb4b130c6406",
@@ -2565,7 +2650,11 @@
               "published_at": "2026-06-18T23:58:38+00:00"
             }
           ],
-          "route": "/hot/2026-06-19/topic/datasette-apps-host-custom-html-applications-inside-datasette/"
+          "route": "/hot/2026-06-19/topic/datasette-apps-host-custom-html-applications-inside-datasette/",
+          "headline_zh": "Datasette Apps：在 Datasette 内托管自定义 HTML 应用",
+          "summary_short_zh": "<p>今天我们推出了一款 Datasette 新插件，<a href=\"，并在 Datasette 项目博客上发布了<a href=\"发布公告</a>。",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     },
@@ -2609,7 +2698,11 @@
               "published_at": "2026-06-18T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-06-19/topic/freestyle-free-control-of-style-content-dual-reference-generation-from-community-lora-mining/"
+          "route": "/hot/2026-06-19/topic/freestyle-free-control-of-style-content-dual-reference-generation-from-community-lora-mining/",
+          "headline_zh": "FreeStyle：通过挖掘社区 LoRA，自由控制风格与内容双参考生成",
+          "summary_short_zh": "风格与内容双参考生成旨在合成图像，在保留内容参考图的结构和语义的同时，采用另一张风格参考图的风格。尽管近期已有进展，这项任务仍具挑战，因为模型必须平衡内容保真度、风格",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "428c074c7358",
@@ -2647,7 +2740,11 @@
               "published_at": "2026-06-18T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-06-19/topic/janusmesh-fast-and-zero-shot-3d-visual-illusion-generation-via-cross-space-denoising/"
+          "route": "/hot/2026-06-19/topic/janusmesh-fast-and-zero-shot-3d-visual-illusion-generation-via-cross-space-denoising/",
+          "headline_zh": "JanusMesh：通过跨空间去噪快速实现零样本 3D 视觉错觉生成",
+          "summary_short_zh": "创建 3D 视觉错觉，即让单个 3D 网格在不同视角下呈现完全不同的语义，是一项引人入胜却棘手的挑战。现有基于优化的方法速度慢，还可能产生饱和度过高的颜色。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         }
       ]
     }
@@ -2693,7 +2790,11 @@
               "published_at": "2026-06-18T09:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-19/topic/adobe-s-redesigned-ai-studio-remembers-what-your-creations-look-like/"
+          "route": "/hot/2026-06-19/topic/adobe-s-redesigned-ai-studio-remembers-what-your-creations-look-like/",
+          "headline_zh": "Adobe 改版后的 AI 工作室能记住你的作品长什么样",
+          "summary_short_zh": "Adobe 正为 Firefly AI 助手推出多项新功能，并带来“重新设计”的 AI 工作室，让你在同一界面中编辑和生成新设计。",
+          "why_it_matters_zh": "这条产品发布资讯见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "e32c35828f27",
@@ -2731,7 +2832,11 @@
               "published_at": "2026-06-18T09:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-19/topic/photoshop-and-premiere-now-have-ai-assistants/"
+          "route": "/hot/2026-06-19/topic/photoshop-and-premiere-now-have-ai-assistants/",
+          "headline_zh": "Photoshop 和 Premiere 现已配备 AI 助手",
+          "summary_short_zh": "Adobe 为 Creative Cloud 全套应用配备 AI 助手的计划现已全面展开，新的聊天机器人正陆续加入旗下最主要的编辑和设计应用。",
+          "why_it_matters_zh": "这条产品发布资讯见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "588a78bb842b",
@@ -2769,7 +2874,11 @@
               "published_at": "2026-06-17T23:58:39+00:00"
             }
           ],
-          "route": "/hot/2026-06-19/topic/glm-5-2-is-probably-the-most-powerful-text-only-open-weights-llm/"
+          "route": "/hot/2026-06-19/topic/glm-5-2-is-probably-the-most-powerful-text-only-open-weights-llm/",
+          "headline_zh": "GLM-5.2 可能是最强大的纯文本开放权重大语言模型",
+          "summary_short_zh": "<p>中国 AI 实验室 <a href=\" 于 6 月 13 日向<a href=\"其编程套餐订阅用户</a>发布了 GLM-5.2，并于昨天（6 月 16 日）以 MIT 许可证开放了完整模型权重。",
+          "why_it_matters_zh": "该产品发布消息来自 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "473aa6dc827b",
@@ -2807,7 +2916,10 @@
               "published_at": "2026-06-19T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-19/topic/5-min-read-openai-launches-a-partner-program-while-its-legal-woes-grow/"
+          "route": "/hot/2026-06-19/topic/5-min-read-openai-launches-a-partner-program-while-its-legal-woes-grow/",
+          "headline_zh": "阅读需 5 分钟：OpenAI 推出合作伙伴计划，法律困境日益加深",
+          "why_it_matters_zh": "该产品发布消息来自 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2851,7 +2963,11 @@
               "published_at": "Thu, 18 Jun 2026 20:30:00 +0000"
             }
           ],
-          "route": "/hot/2026-06-19/topic/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/"
+          "route": "/hot/2026-06-19/topic/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
+          "headline_zh": "Snap 因成本问题将 AI 视频团队分拆为新公司 Dotmo",
+          "summary_short_zh": "Snapchat 开发商正将又一个内部部门分拆出去。Dotmo 将由即将离开 Snap 这家社交媒体公司的现有员工组成，专注于 AI 视频开发。",
+          "why_it_matters_zh": "这则其他类消息来自 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "4b2d8ee9d601",
@@ -2889,7 +3005,11 @@
               "published_at": "2026-06-18T12:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-19/topic/amazon-employees-say-they-re-facing-termination-for-backing-data-center-limits/"
+          "route": "/hot/2026-06-19/topic/amazon-employees-say-they-re-facing-termination-for-backing-data-center-limits/",
+          "headline_zh": "亚马逊员工称因支持对数据中心设限而面临解雇",
+          "summary_short_zh": "本月早些时候，三名亚马逊软件工程师在西雅图市议会有关数据中心的听证会上作证时，首先引用了该市一项禁止因政治言论而实施就业歧视的法律。",
+          "why_it_matters_zh": "这则其他类消息来自 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "1dab9414db12",
@@ -2927,7 +3047,10 @@
               "published_at": "Thu, 18 Jun 2026 09:45:11 +0000"
             }
           ],
-          "route": "/hot/2026-06-19/topic/aiec-2026-ai-token/"
+          "route": "/hot/2026-06-19/topic/aiec-2026-ai-token/",
+          "headline_zh": "AIEC 2026 | 太初元碁分享国产 AI 算力实践 助力 Token 服务落地生根",
+          "why_it_matters_zh": "这则其他类消息来自 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "dae7edc6ffe5",
@@ -2965,7 +3088,11 @@
               "published_at": "Thu, 18 Jun 2026 13:46:04 +0000"
             }
           ],
-          "route": "/hot/2026-06-19/topic/ai-ai/"
+          "route": "/hot/2026-06-19/topic/ai-ai/",
+          "headline_zh": "AI看病成为医患新包袱？补上「多轮追问」，通用AI才迈得过医疗关",
+          "summary_short_zh": "M4是大脑，百小医是身体",
+          "why_it_matters_zh": "这则其他类消息来自 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -3007,7 +3134,11 @@
           "published_at": "2026-06-19T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-06-19/topic/introducing-frontiercode-cognition/"
+      "route": "/hot/2026-06-19/topic/introducing-frontiercode-cognition/",
+      "headline_zh": "介绍 FrontierCode（Cognition）",
+      "summary_short_zh": "介绍 FrontierCode（Cognition",
+      "why_it_matters_zh": "该产品发布消息来自 1 个独立来源。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "8ed805e5d650",
@@ -3045,7 +3176,11 @@
           "published_at": "2026-06-15T15:38:37Z"
         }
       ],
-      "route": "/hot/2026-06-19/topic/feijianghan-paperforge/"
+      "route": "/hot/2026-06-19/topic/feijianghan-paperforge/",
+      "headline_zh": "FeijiangHan/PaperForge",
+      "summary_short_zh": "一项主动式论文阅读技能，可还原作者的推理过程，从机制层面解释方法，对假设进行压力测试，并提出后续研究思路",
+      "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+      "category_zh": "研究"
     }
   ],
   "x_buzz": [

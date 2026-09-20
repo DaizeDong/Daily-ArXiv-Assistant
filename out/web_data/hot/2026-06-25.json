@@ -2055,7 +2055,15 @@
           "published_at": "Wed, 24 Jun 2026 18:20:27 +0000"
         }
       ],
-      "route": "/hot/2026-06-25/topic/build-a-healthcare-appointment-agent-with-amazon-nova-2-sonic/"
+      "route": "/hot/2026-06-25/topic/build-a-healthcare-appointment-agent-with-amazon-nova-2-sonic/",
+      "headline_zh": "使用 Amazon Nova 2 Sonic 构建就诊预约智能体",
+      "summary_short_zh": "本文将介绍如何使用 Amazon Nova 2 Sonic 和 Amazon Bedrock AgentCore 构建能够处理预约提醒对话的语音智能体。",
+      "why_it_matters_zh": "此次产品发布信息来自 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "本文展示了 Loka 为解决一个常见问题所采用的架构和方法：语音助手生硬、响应缓慢，导致客户挂断电话，损害品牌声誉，并……",
+        "本文将介绍如何使用 Amazon Nova 2 Sonic 和 Amazon Bedrock AgentCore 构建能够处理预约提醒对话的语音智能体。该智能体验证患者身份的方式是……"
+      ]
     },
     {
       "topic_id": "027e0910d743",
@@ -2102,7 +2110,14 @@
           "published_at": "Wed, 24 Jun 2026 16:30:01 +0000"
         }
       ],
-      "route": "/hot/2026-06-25/topic/which-is-faster-kimi-k2-6-on-cerebras-or-gemini-flash/"
+      "route": "/hot/2026-06-25/topic/which-is-faster-kimi-k2-6-on-cerebras-or-gemini-flash/",
+      "headline_zh": "Cerebras 上的 Kimi K2.6 与 Gemini Flash，哪个更快？",
+      "summary_short_zh": "2026年6月5日",
+      "why_it_matters_zh": "此次产品发布信息来自 2 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Gemini 3.5 Flash 推出计算机操作功能"
+      ]
     },
     {
       "topic_id": "3f3f688c52cb",
@@ -2142,7 +2157,14 @@
           "published_at": "Wed, 24 Jun 2026 18:24:50 +0000"
         }
       ],
-      "route": "/hot/2026-06-25/topic/huntington-bank-redacting-sensitive-data-from-400m-documents-with-aws/"
+      "route": "/hot/2026-06-25/topic/huntington-bank-redacting-sensitive-data-from-400m-documents-with-aws/",
+      "headline_zh": "Huntington Bank：使用 AWS 隐去逾 4 亿份文档中的敏感数据",
+      "summary_short_zh": "本文详细介绍 Huntington 如何构建可扩展的 AWS 解决方案，检测并隐去逾 4 亿份文档中的个人身份信息（PII）和支付卡行业（PCI）数据，将处理时间从数年缩短至短短几个月，脱敏率达到 95% 以上。",
+      "why_it_matters_zh": "此次产品发布信息来自 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "本文详细介绍 Huntington 如何构建可扩展的 AWS 解决方案，检测并隐去个人身份信息（PII）和支付卡行业（PCI）数据，涉及超过 4 亿……"
+      ]
     },
     {
       "topic_id": "29117fb1b113",
@@ -2180,7 +2202,11 @@
           "published_at": "Wed, 24 Jun 2026 16:51:52 +0000"
         }
       ],
-      "route": "/hot/2026-06-25/topic/thinking-to-recall-how-reasoning-unlocks-parametric-knowledge-in-llms/"
+      "route": "/hot/2026-06-25/topic/thinking-to-recall-how-reasoning-unlocks-parametric-knowledge-in-llms/",
+      "headline_zh": "思考唤起记忆：推理如何激活大语言模型中的参数化知识",
+      "summary_short_zh": "生成式 AI",
+      "why_it_matters_zh": "此次产品发布信息来自 1 个独立来源。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "d78603aa8d4c",
@@ -2218,7 +2244,10 @@
           "published_at": "2026-06-24T16:51:39+00:00"
         }
       ],
-      "route": "/hot/2026-06-25/topic/kog-laneformer-2b-the-latency-first-model-behind-kog-inference-engine/"
+      "route": "/hot/2026-06-25/topic/kog-laneformer-2b-the-latency-first-model-behind-kog-inference-engine/",
+      "headline_zh": "Kog Laneformer 2B：Kog Inference Engine 背后以低延迟为首要目标的模型",
+      "why_it_matters_zh": "此次产品发布信息来自 1 个独立来源。",
+      "category_zh": "产品发布"
     }
   ],
   "category_sections": [
@@ -2262,7 +2291,11 @@
               "published_at": "2026-06-24T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-06-25/topic/how-faster-inference-gives-cybersecurity-companies-an-edge/"
+          "route": "/hot/2026-06-25/topic/how-faster-inference-gives-cybersecurity-companies-an-edge/",
+          "headline_zh": "更快的推理如何为网络安全公司带来竞争优势",
+          "summary_short_zh": "2026年6月15日",
+          "why_it_matters_zh": "此次产品发布信息来自 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "6cd6ab2bc611",
@@ -2300,7 +2333,11 @@
               "published_at": "2026-06-24T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-06-25/topic/the-economics-of-ai-reasoning/"
+          "route": "/hot/2026-06-25/topic/the-economics-of-ai-reasoning/",
+          "headline_zh": "AI 推理的经济学",
+          "summary_short_zh": "2026年6月17日",
+          "why_it_matters_zh": "此次产品发布信息来自 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "129ebf2190d1",
@@ -2338,7 +2375,11 @@
               "published_at": "2026-06-24T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-06-25/topic/what-is-sovereign-ai-and-how-cerebras-helps-nations/"
+          "route": "/hot/2026-06-25/topic/what-is-sovereign-ai-and-how-cerebras-helps-nations/",
+          "headline_zh": "什么是主权 AI？Cerebras 如何助力各国",
+          "summary_short_zh": "2026年5月26日",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "463638a8d183",
@@ -2376,7 +2417,10 @@
               "published_at": "2026-06-24T07:33:01+00:00"
             }
           ],
-          "route": "/hot/2026-06-25/topic/building-moon-bot-a-slack-native-coding-agent-backed-by-huggingface-buckets/"
+          "route": "/hot/2026-06-25/topic/building-moon-bot-a-slack-native-coding-agent-backed-by-huggingface-buckets/",
+          "headline_zh": "构建 Moon Bot：由 HuggingFace Buckets 支持的 Slack 原生编程智能体",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "23a242868559",
@@ -2414,7 +2458,11 @@
               "published_at": "Wed, 24 Jun 2026 06:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-06-25/topic/openai-and-broadcom-unveil-llm-optimized-inference-chip/"
+          "route": "/hot/2026-06-25/topic/openai-and-broadcom-unveil-llm-optimized-inference-chip/",
+          "headline_zh": "OpenAI 与博通发布针对大语言模型优化的推理芯片",
+          "summary_short_zh": "OpenAI 与博通推出 Jalapeño，这款定制 AI 芯片专为大语言模型推理打造，旨在提升 AI 系统的性能、效率和可扩展性",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2458,7 +2506,11 @@
               "published_at": "2026-06-24T13:25:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-25/topic/the-27-million-al-proxy-war-over-alex-bores-ends-in-a-draw/"
+          "route": "/hot/2026-06-25/topic/the-27-million-al-proxy-war-over-alex-bores-ends-in-a-draw/",
+          "headline_zh": "围绕 Alex Bores 的 AI 代理人之战耗资 2700 万美元，以平局收场",
+          "summary_short_zh": "Anthropic 与 OpenAI 之间这场耗资 2700 万美元的政治代理人之战昨晚以平局收场。纽约州众议员 Alex Bores 在遭到支持 AI 的超级政治行动委员会攻击后人气大涨，但仍在纽约州第12国会选区的民主党初选中以微弱差距落败",
+          "why_it_matters_zh": "此次融资见于 1 个独立来源。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "47cc140216f9",
@@ -2496,7 +2548,11 @@
               "published_at": "Wed, 24 Jun 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-06-25/topic/talent-and-new-labs/"
+          "route": "/hot/2026-06-25/topic/talent-and-new-labs/",
+          "headline_zh": "人才动向与新实验室",
+          "summary_short_zh": "当天还有人才流动和新机构成立。Arthur Conmy 加入 Anthropic，是 AI 对齐领域值得关注的动向。Mirendil AI 宣布成立并获得 2 亿美元种子轮融资，核心方向是面向科学研究的自我加速 AI 研发。",
+          "why_it_matters_zh": "此次融资见于 1 个独立来源。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -2540,7 +2596,11 @@
               "published_at": "Wed, 24 Jun 2026 21:56:41 +0000"
             }
           ],
-          "route": "/hot/2026-06-25/topic/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-they-re-the-most-resilient/"
+          "route": "/hot/2026-06-25/topic/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-they-re-the-most-resilient/",
+          "headline_zh": "人们曾认为 AI 会淘汰工程师岗位，但新数据显示这类岗位最具韧性",
+          "summary_short_zh": "SignalFire 的数据显示，尽管裁员讨论主要围绕 AI 展开，工程师在新聘员工中的占比却在上升",
+          "why_it_matters_zh": "这一行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "76804643a023",
@@ -2578,7 +2638,11 @@
               "published_at": "Wed, 24 Jun 2026 22:41:41 +0000"
             }
           ],
-          "route": "/hot/2026-06-25/topic/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/"
+          "route": "/hot/2026-06-25/topic/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
+          "headline_zh": "Cerebras 财报发布后股价暴跌，CEO 称毛利率预期遭到误读",
+          "summary_short_zh": "这家 AI 芯片制造商在上市后的首份财报中预计，其核心业务的毛利率将下降，令投资者担忧",
+          "why_it_matters_zh": "这一行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "da42e34b9333",
@@ -2616,7 +2680,11 @@
               "published_at": "2026-06-24T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-06-25/topic/cohere-joins-aston-martin-f1-as-ai-partner-cohere/"
+          "route": "/hot/2026-06-25/topic/cohere-joins-aston-martin-f1-as-ai-partner-cohere/",
+          "headline_zh": "Cohere 成为阿斯顿·马丁 F1 车队的 AI 合作伙伴 | Cohere",
+          "summary_short_zh": "Cohere 成为阿斯顿·马丁阿美 F1 车队的官方生成式 AI 合作伙伴，提供安全的 AI 解决方案，助力整个车队提升竞技表现、工程研发能力和运营水平",
+          "why_it_matters_zh": "这一行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "30295a60029f",
@@ -2654,7 +2722,11 @@
               "published_at": "2026-06-25T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-25/topic/first-steps-toward-automated-ai-research-recursive/"
+          "route": "/hot/2026-06-25/topic/first-steps-toward-automated-ai-research-recursive/",
+          "headline_zh": "迈向自动化 AI 研究的初步探索（Recursive）",
+          "summary_short_zh": "迈向自动化 AI 研究的初步探索（Recursive",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "001e30ae90b1",
@@ -2692,7 +2764,11 @@
               "published_at": "2026-06-25T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-25/topic/how-long-until-ai-doesn-t-need-humans-ajeya-cotra-timothy-b-lee-asterisk-magazine/"
+          "route": "/hot/2026-06-25/topic/how-long-until-ai-doesn-t-need-humans-ajeya-cotra-timothy-b-lee-asterisk-magazine/",
+          "headline_zh": "AI 还要多久才能不再需要人类？Ajeya Cotra、Timothy B. Lee（Asterisk 杂志）",
+          "summary_short_zh": "AI 还要多久才能不再需要人类？Ajeya Cotra、Timothy B. Lee（Asterisk 杂志",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -2736,7 +2812,11 @@
               "published_at": "Wed, 24 Jun 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-06-25/topic/japanese-animator-using-seedance-to-render-anime-from-simple-3d-models/"
+          "route": "/hot/2026-06-25/topic/japanese-animator-using-seedance-to-render-anime-from-simple-3d-models/",
+          "headline_zh": "日本动画师用 Seedance 将简单 3D 模型渲染成动画",
+          "summary_short_zh": "Reddit 上有帖子称，一位日本动画师用 Seedance 基于简单的 3D 模型生成或渲染动画片段。这启发了一种工作流程：利用粗略的 3D 场景或动作预演，为 AI 视频生成提供时空一致性。",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "1e58e70bfaef",
@@ -2774,7 +2854,11 @@
               "published_at": "Wed, 24 Jun 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-06-25/topic/we-are-the-team-behind-krea-2-ask-us-anything/"
+          "route": "/hot/2026-06-25/topic/we-are-the-team-behind-krea-2-ask-us-anything/",
+          "headline_zh": "我们是 Krea 2 的开发团队，欢迎提问！",
+          "summary_short_zh": "Krea 宣布，自主训练的开源文生图模型 Krea 2 已发布，代码和权重可通过 krea.ai/krea-2-open-source、GitHub 获取，Hugging Face 上也提供了 Krea-2-Raw 和 Krea-2-Turbo 的模型检查点。",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "5291a40e35e9",
@@ -2812,7 +2896,11 @@
               "published_at": "Wed, 24 Jun 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-06-25/topic/unlimited-ocr-is-now-on-modelscope-a-3-3b-multilingual-ocr-model-for-one-shot-parsing-across-single-images-multi-page-documents-and-pdfs-license-mit/"
+          "route": "/hot/2026-06-25/topic/unlimited-ocr-is-now-on-modelscope-a-3-3b-multilingual-ocr-model-for-one-shot-parsing-across-single-images-multi-page-documents-and-pdfs-license-mit/",
+          "headline_zh": "Unlimited-OCR 现已上线 ModelScope！这款 33 亿参数多语言 OCR 模型支持一次性解析单张图像、多页文档和 PDF。许可证：MIT",
+          "summary_short_zh": "百度的 Unlimited-OCR 已在 ModelScope 发布。这款采用 MIT 许可证的 33 亿参数多语言 OCR 和文档解析模型，支持一次性解析单张图像、多页文档和 PDF，最多可输出 32K token，适用于长 OCR 序列。",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     },
@@ -2856,7 +2944,10 @@
               "published_at": "2026-06-24T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-06-25/topic/tipping-the-scales-merging-weak-agents-into-a-state-of-the-art-deep-researcher/"
+          "route": "/hot/2026-06-25/topic/tipping-the-scales-merging-weak-agents-into-a-state-of-the-art-deep-researcher/",
+          "headline_zh": "扭转局面：将弱智能体融合为最先进的深度研究智能体",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         }
       ]
     }
@@ -2902,7 +2993,11 @@
               "published_at": "2026-06-24T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-06-25/topic/cs2-10k-a-large-scale-egocentric-counter-strike-2-dataset/"
+          "route": "/hot/2026-06-25/topic/cs2-10k-a-large-scale-egocentric-counter-strike-2-dataset/",
+          "headline_zh": "CS2-10k：大规模《反恐精英 2》第一人称视角数据集",
+          "summary_short_zh": "超过 11,000 小时的职业选手游戏录像，附逐帧动作标注，用于世界模型训练",
+          "why_it_matters_zh": "这条产品发布资讯见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "840e2c93ad96",
@@ -2940,7 +3035,11 @@
               "published_at": "Wed, 24 Jun 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-06-25/topic/gpt-5-5-instant-update/"
+          "route": "/hot/2026-06-25/topic/gpt-5-5-instant-update/",
+          "headline_zh": "GPT-5.5 Instant 更新",
+          "summary_short_zh": "OpenAI 推出新版 GPT-5.5 Instant，改进意图理解、约束处理和对话风格",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "b8b6305369e7",
@@ -2978,7 +3077,11 @@
               "published_at": "Wed, 24 Jun 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-06-25/topic/serving-and-throughput-remain-active-fronts/"
+          "route": "/hot/2026-06-25/topic/serving-and-throughput-remain-active-fronts/",
+          "headline_zh": "推理服务与吞吐量仍是重点方向",
+          "summary_short_zh": "在基础设施方面，NVIDIA 表示，NeMo AutoModel 通过专家并行、DeepEP 和 TransformerEngine 内核，将 MoE 模型的训练吞吐量提升至原来的 3.4–3.7 倍。",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -3022,7 +3125,10 @@
               "published_at": "2026-06-25T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-25/topic/import-ai-461-alignment-is-not-on-track-frontiercode-and-synthetic-research-interns/"
+          "route": "/hot/2026-06-25/topic/import-ai-461-alignment-is-not-on-track-frontiercode-and-synthetic-research-interns/",
+          "headline_zh": "Import AI 第 461 期：“对齐进展不及预期”；FrontierCode；AI 研究实习生",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "11522b902792",
@@ -3060,7 +3166,10 @@
               "published_at": "2026-06-25T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-25/topic/import-ai-462-superpersuasion-self-sustaining-ai-paths-to-asi/"
+          "route": "/hot/2026-06-25/topic/import-ai-462-superpersuasion-self-sustaining-ai-paths-to-asi/",
+          "headline_zh": "Import AI 第 462 期：超级说服力；可自我维持的 AI；通往 ASI 的路径",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "18e82488fffa",
@@ -3098,7 +3207,11 @@
               "published_at": "2026-06-25T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-25/topic/research-kobi-hackenburg-researcher-at-aisi/"
+          "route": "/hot/2026-06-25/topic/research-kobi-hackenburg-researcher-at-aisi/",
+          "headline_zh": "研究（AISI 研究员 Kobi Hackenburg）",
+          "summary_short_zh": "研究（AISI 研究员 Kobi Hackenburg",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "d582ffaba563",
@@ -3136,7 +3249,11 @@
               "published_at": "Thu, 25 Jun 2026 00:00:00 -0400"
             }
           ],
-          "route": "/hot/2026-06-25/topic/improving-the-speed-and-energy-efficiency-of-ai-agents/"
+          "route": "/hot/2026-06-25/topic/improving-the-speed-and-energy-efficiency-of-ai-agents/",
+          "headline_zh": "提升 AI 智能体的运行速度与能效",
+          "summary_short_zh": "一款名为 Murakkab 的新系统，可优化支撑 AI 应用的多步骤工作流的设计与部署",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "4bdc120bf61c",
@@ -3174,7 +3291,11 @@
               "published_at": "Thu, 25 Jun 2026 04:29:49 +0000"
             }
           ],
-          "route": "/hot/2026-06-25/topic/ai-3-arr/"
+          "route": "/hot/2026-06-25/topic/ai-3-arr/",
+          "headline_zh": "不靠单款爆款吃红利，中国AI应用首现3亿ARR独角兽！腾讯顺为红杉继续加码",
+          "summary_short_zh": "中国AI应用公司并没有停留在追赶全球浪潮",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -3216,7 +3337,10 @@
           "published_at": "2026-06-24T11:21:44+00:00"
         }
       ],
-      "route": "/hot/2026-06-25/topic/interhuman-s-goblin-yeah-friday-at-five/"
+      "route": "/hot/2026-06-25/topic/interhuman-s-goblin-yeah-friday-at-five/",
+      "headline_zh": "Interhuman 的 Goblin：“好，周五五点”",
+      "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "1dd7eff06123",
@@ -3254,7 +3378,11 @@
           "published_at": "2026-06-25T06:20:57Z"
         }
       ],
-      "route": "/hot/2026-06-25/topic/samuto69-claude-ai-desktop-app/"
+      "route": "/hot/2026-06-25/topic/samuto69-claude-ai-desktop-app/",
+      "headline_zh": "samuto69/claude-ai-desktop-app",
+      "summary_short_zh": "免费 Claude Code AI GitHub 桌面 PC Windows Linux macOS 代理服务器 Anthropic 免费 API 本地大语言模型 路由器 NVIDIA NIM OpenRouter DeepSeek Ollama LM Studio VS Code 扩展 JetBrains 命令行工具 终端 编程助手",
+      "why_it_matters_zh": "这款工具见于 1 个独立来源。",
+      "category_zh": "工具"
     }
   ],
   "x_buzz": [

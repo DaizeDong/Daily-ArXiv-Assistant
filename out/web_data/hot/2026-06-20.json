@@ -1376,7 +1376,14 @@
           "published_at": "Fri, 19 Jun 2026 14:15:24 +0000"
         }
       ],
-      "route": "/hot/2026-06-20/topic/introducing-web-search-on-amazon-bedrock-agentcore/"
+      "route": "/hot/2026-06-20/topic/introducing-web-search-on-amazon-bedrock-agentcore/",
+      "headline_zh": "Amazon Bedrock AgentCore 推出网页搜索功能",
+      "summary_short_zh": "Amazon Bedrock AgentCore 的网页搜索功能现已正式可用。本文将介绍它的独特之处、重要性，以及如何用几行代码完成接入",
+      "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Amazon Bedrock AgentCore 的网页搜索功能现已正式可用。本文将介绍它的独特之处、重要性，以及如何接入..."
+      ]
     },
     {
       "topic_id": "49c80cef7bbf",
@@ -1416,7 +1423,14 @@
           "published_at": "2026-06-16T14:49:50Z"
         }
       ],
-      "route": "/hot/2026-06-20/topic/anthropics-launch-your-agent/"
+      "route": "/hot/2026-06-20/topic/anthropics-launch-your-agent/",
+      "headline_zh": "anthropics/launch-your-agent",
+      "summary_short_zh": "一组 Claude Code 技能，帮助创始人将想法变成上线运行的 Claude Managed Agent：访谈、确定 v0 范围、在自己的账户中部署、评分、迭代并设置定时运行",
+      "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "一组 Claude Code 技能，帮助创始人将想法变成上线运行的 Claude Managed Agent：访谈、确定 v0 范围、在自己的账户中部署、评分、迭代并设置定时运行"
+      ]
     },
     {
       "topic_id": "6efb2a4578d0",
@@ -1454,7 +1468,11 @@
           "published_at": "2026-06-20T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-06-20/topic/introducing-frontiercode-cognition/"
+      "route": "/hot/2026-06-20/topic/introducing-frontiercode-cognition/",
+      "headline_zh": "FrontierCode 亮相（Cognition）",
+      "summary_short_zh": "FrontierCode 亮相（Cognition",
+      "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "9226f1468372",
@@ -1492,7 +1510,11 @@
           "published_at": "2026-06-20T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-06-20/topic/mimo-v2-5-pro-ultraspeed-pushing-1t-parameter-model-generation-speed-to-1000-tps-xiaomi-mimo-blog/"
+      "route": "/hot/2026-06-20/topic/mimo-v2-5-pro-ultraspeed-pushing-1t-parameter-model-generation-speed-to-1000-tps-xiaomi-mimo-blog/",
+      "headline_zh": "MiMo-V2.5-Pro-UltraSpeed：将万亿参数模型的生成速度提升至 1000 TPS（Xiaomi MIMO 博客）",
+      "summary_short_zh": "MiMo-V2.5-Pro-UltraSpeed：将万亿参数模型的生成速度提升至 1000 TPS（Xiaomi MIMO 博客",
+      "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "8ed805e5d650",
@@ -1532,7 +1554,14 @@
           "published_at": "2026-06-15T15:38:37Z"
         }
       ],
-      "route": "/hot/2026-06-20/topic/feijianghan-paperforge/"
+      "route": "/hot/2026-06-20/topic/feijianghan-paperforge/",
+      "headline_zh": "FeijiangHan/PaperForge",
+      "summary_short_zh": "一项主动式论文阅读技能，可还原作者的推理过程、解释方法的运作机制、对假设进行压力测试，并提出后续研究思路",
+      "why_it_matters_zh": "该研究论文见于 1 个独立来源。",
+      "category_zh": "研究",
+      "key_takeaways_zh": [
+        "一项主动式论文阅读技能，可还原作者的推理过程、解释方法的运作机制、对假设进行压力测试，并提出后续研究思路。"
+      ]
     }
   ],
   "category_sections": [
@@ -1576,7 +1605,11 @@
               "published_at": "Thu, 18 Jun 2026 23:31:58 +0000"
             }
           ],
-          "route": "/hot/2026-06-20/topic/monitor-and-debug-generative-ai-inference-with-sagemaker-detailed-metrics-and-insights-dashboard-on-cloudwatch/"
+          "route": "/hot/2026-06-20/topic/monitor-and-debug-generative-ai-inference-with-sagemaker-detailed-metrics-and-insights-dashboard-on-cloudwatch/",
+          "headline_zh": "利用 CloudWatch 上的 SageMaker 详细指标和 Insights 仪表板监控和调试生成式 AI 推理",
+          "summary_short_zh": "Amazon SageMaker AI 为机器学习模型提供全托管的实时推理服务。你将模型部署到由一个或多个计算实例支撑的 SageMaker 端点后，SageMaker 会负责资源预置和扩缩容。SageMaker 支持多种端点架构。",
+          "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "047998d10c47",
@@ -1622,7 +1655,11 @@
               "published_at": "2026-06-20T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-20/topic/deepmind-is-now-reportedly-struggling-to-compete-with-anthropic-and-openai-while-3-5-pro-is-not-the-step-change-they-d-need-to-be-competitive/"
+          "route": "/hot/2026-06-20/topic/deepmind-is-now-reportedly-struggling-to-compete-with-anthropic-and-openai-while-3-5-pro-is-not-the-step-change-they-d-need-to-be-competitive/",
+          "headline_zh": "据称，DeepMind 目前难以与 Anthropic 和 OpenAI 抗衡，3.5 Pro 也未能带来足以与它们竞争的跨越式提升",
+          "summary_short_zh": "一篇 Reddit 帖子引用了 synthwavedd 在 X 上发布的未经证实的传闻，称 Google DeepMind/Gemini 3.5 Pro 可能仍落后于 Anthropic 和 OpenAI。发帖者预计，相比智能体编程或递归自我改进类工作流，它在创意和世界知识类任务上的表现会更强（来源）。",
+          "why_it_matters_zh": "该产品发布消息见于 2 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "b7b50735a8b3",
@@ -1660,7 +1697,11 @@
               "published_at": "Fri, 19 Jun 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-06-20/topic/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index/"
+          "route": "/hot/2026-06-20/topic/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index/",
+          "headline_zh": "GLM-5.2 成为 Artificial Analysis 智能指数排名最高的开放权重模型",
+          "summary_short_zh": "Artificial Analysis 报告称，Z.ai 的 GLM-5.2 以 51 分登顶智能指数 v4.1 的开放权重模型榜，同时沿用 GLM-5.1 的混合专家（MoE）架构，总参数 7440 亿，激活参数 400 亿。",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "ed729285f2a4",
@@ -1698,7 +1739,11 @@
               "published_at": "Fri, 19 Jun 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-06-20/topic/poolside-laguna-m-1-hugging-face-225b-a23b/"
+          "route": "/hot/2026-06-20/topic/poolside-laguna-m-1-hugging-face-225b-a23b/",
+          "headline_zh": "poolside/Laguna-M.1 · Hugging Face - 225B-A23B",
+          "summary_short_zh": "poolside 发布了 Laguna-M.1，这是一款采用 Apache-2.0 许可证、面向编程和智能体任务的开放权重文本 MoE 模型。其总参数为 2250 亿，激活参数为 230 亿，共 70 层，其中 67 层为稀疏 MoE 层；配备 256 个专家（top-k=16），采用全局注意力和 RoPE+YaRN，上下文窗口为 262,144 个词元。",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "2f3fe1dd5a20",
@@ -1736,7 +1781,11 @@
               "published_at": "Fri, 19 Jun 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-06-20/topic/researchers-trained-a-deep-research-agent-with-32-h100s-and-open-sourced-everything/"
+          "route": "/hot/2026-06-20/topic/researchers-trained-a-deep-research-agent-with-32-h100s-and-open-sourced-everything/",
+          "headline_zh": "研究人员用 32 张 H100 训练出一个深度研究智能体，并将全部内容开源",
+          "summary_short_zh": "这是一张技术基准测试图，而非梗图：图中展示了俄亥俄州立大学的开源“深度研究”智能体 QUEST-35B，并重点呈现其在 BrowseComp、Mind2Web 2、HLE、DeepResearch Bench、GAIA 和 LiveResearchBench 等排行榜上的表现。",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -1789,7 +1838,11 @@
               "published_at": "Fri, 19 Jun 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-06-20/topic/the-us-banned-anthropic-s-fable-5-release-but-the-numbers-don-t-seem-to-care/"
+          "route": "/hot/2026-06-20/topic/the-us-banned-anthropic-s-fable-5-release-but-the-numbers-don-t-seem-to-care/",
+          "headline_zh": "美国叫停 Anthropic 的 Fable 5 发布，但数据似乎不受影响",
+          "summary_short_zh": "上周临近结束时，美国政府以国家安全为由，强制要求 Anthropic 下架其最新的两款模型 Fable 5 和 Mythos 5。据称，Amazon 的研究人员此前找到了一种绕过 Fable 5 安全防护的方法。此后，网络安全研究人员……",
+          "why_it_matters_zh": "有 2 个独立来源报道了这则消息。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "6435ca25a29d",
@@ -1827,7 +1880,10 @@
               "published_at": "2026-06-20T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-20/topic/import-ai-460-reward-hacking-society-rsi-data-from-anthropic-and-rl-based-quadcopter-racing/"
+          "route": "/hot/2026-06-20/topic/import-ai-460-reward-hacking-society-rsi-data-from-anthropic-and-rl-based-quadcopter-racing/",
+          "headline_zh": "Import AI 第 460 期：社会中的奖励投机、Anthropic 的 RSI 数据，以及基于强化学习的四旋翼无人机竞速",
+          "why_it_matters_zh": "有 1 个独立来源报道了这则消息。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "d3903f19f59e",
@@ -1865,7 +1921,10 @@
               "published_at": "2026-06-20T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-20/topic/import-ai-461-alignment-is-not-on-track-frontiercode-and-synthetic-research-interns/"
+          "route": "/hot/2026-06-20/topic/import-ai-461-alignment-is-not-on-track-frontiercode-and-synthetic-research-interns/",
+          "headline_zh": "Import AI 第 461 期：“对齐工作未按预期推进”、FrontierCode，以及虚拟科研实习生",
+          "why_it_matters_zh": "有 1 个独立来源报道了这则消息。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "d998121e4879",
@@ -1903,7 +1962,11 @@
               "published_at": "2026-06-19T10:15:29-04:00"
             }
           ],
-          "route": "/hot/2026-06-20/topic/the-film-about-sam-altman-has-been-dropped-by-amazon-mgm/"
+          "route": "/hot/2026-06-20/topic/the-film-about-sam-altman-has-been-dropped-by-amazon-mgm/",
+          "headline_zh": "Amazon MGM 已放弃关于 Sam Altman 的电影项目",
+          "summary_short_zh": "据报道，Amazon MGM 已放弃 Luca Guadagnino 执导、讲述 OpenAI CEO Sam Altman 故事的电影《Artificial》。该片由 Andrew Garfield 主演，聚焦 Altman 在 2023 年从被解雇到重新出任 CEO 的跌宕起伏的五天，此前已筹备约一年。",
+          "why_it_matters_zh": "有 1 个独立来源报道了这一行业动向。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "1e5e9d512170",
@@ -1941,7 +2004,11 @@
               "published_at": "Fri, 19 Jun 2026 13:00:00 +0000"
             }
           ],
-          "route": "/hot/2026-06-20/topic/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-team/"
+          "route": "/hot/2026-06-20/topic/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-team/",
+          "headline_zh": "Allbirds 新 AI 业务的 CEO 有了计划，却还没有团队",
+          "summary_short_zh": "可以把它看作一家只有一位创始人、却拿到巨额种子轮融资的初创公司，但接下来怎么走还不太明确。",
+          "why_it_matters_zh": "有 1 个独立来源报道了这一行业动向。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -1985,7 +2052,11 @@
               "published_at": "Fri, 19 Jun 2026 14:05:04 +0000"
             }
           ],
-          "route": "/hot/2026-06-20/topic/accelerate-campaign-workflow-with-insights-from-adobe-marketing-agent-for-amazon-quick/"
+          "route": "/hot/2026-06-20/topic/accelerate-campaign-workflow-with-insights-from-adobe-marketing-agent-for-amazon-quick/",
+          "headline_zh": "借助 Adobe Marketing Agent for Amazon Quick 的洞察，提升营销活动流程效率",
+          "summary_short_zh": "本文介绍如何通过模型上下文协议（MCP）启用 Adobe Marketing Agent for Amazon Quick，并逐步指导你配置集成、使用 Adobe 凭据完成身份验证，以及在 Amazon Quick 中获取最新洞察。",
+          "why_it_matters_zh": "该工具见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "cb4b130c6406",
@@ -2023,7 +2094,11 @@
               "published_at": "2026-06-18T23:58:38+00:00"
             }
           ],
-          "route": "/hot/2026-06-20/topic/datasette-apps-host-custom-html-applications-inside-datasette/"
+          "route": "/hot/2026-06-20/topic/datasette-apps-host-custom-html-applications-inside-datasette/",
+          "headline_zh": "Datasette Apps：在 Datasette 中托管自定义 HTML 应用",
+          "summary_short_zh": "<p>今天我们推出了一款新的 Datasette 插件，<a href=\"，并在 Datasette 项目博客上刊登了<a href=\"发布公告</a>。",
+          "why_it_matters_zh": "该工具见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "7d321478375c",
@@ -2061,7 +2136,11 @@
               "published_at": "Fri, 19 Jun 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-06-20/topic/i-built-a-single-comfyui-node-for-flux-2-klein-t2i-i2i-edit-inpaint-outpaint-sketch-faceswap-and-more/"
+          "route": "/hot/2026-06-20/topic/i-built-a-single-comfyui-node-for-flux-2-klein-t2i-i2i-edit-inpaint-outpaint-sketch-faceswap-and-more/",
+          "headline_zh": "我为 FLUX.2 [klein] 开发了一个 ComfyUI 节点：支持文生图、图生图、编辑、局部重绘、扩图、草图、换脸等功能",
+          "summary_short_zh": "作者发布了 One Node · FLUX.2 [klein]，这是一个可独立使用的 ComfyUI 自定义节点，将 FLUX.2 的文生图、图生图、编辑、局部重绘、扩图、草图和换脸等工作流整合到一个控件中。YouTube 上提供安装配置和使用教程，源代码托管在 GitHub。",
+          "why_it_matters_zh": "该工具见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     }
@@ -2107,7 +2186,11 @@
               "published_at": "Fri, 19 Jun 2026 14:00:00 -0400"
             }
           ],
-          "route": "/hot/2026-06-20/topic/a-better-way-to-model-the-behavior-of-metal-alloys/"
+          "route": "/hot/2026-06-20/topic/a-better-way-to-model-the-behavior-of-metal-alloys/",
+          "headline_zh": "一种更好的金属合金行为建模方法",
+          "summary_short_zh": "麻省理工学院研究人员提出的方法能捕捉细微的原子排列规律，提高材料性能预测的准确性",
+          "why_it_matters_zh": "该资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "0a55a52d9e0f",
@@ -2145,7 +2228,11 @@
               "published_at": "2026-06-18T07:09:23Z"
             }
           ],
-          "route": "/hot/2026-06-20/topic/0xsero-glm-5-2-sm120/"
+          "route": "/hot/2026-06-20/topic/0xsero-glm-5-2-sm120/",
+          "headline_zh": "0xSero/glm-5.2-sm120",
+          "summary_short_zh": "在 SM120（4 张 RTX PRO 6000 Blackwell）上部署 GLM-5.2-NVFP4-REAP-469B 推理服务：vLLM 单命令启动方案，250K 上下文，DeepSeek 稀疏注意力 + MTP 推测解码",
+          "why_it_matters_zh": "该教程见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "207dcabb8807",
@@ -2183,7 +2270,11 @@
               "published_at": "Fri, 19 Jun 2026 16:08:17 +0000"
             }
           ],
-          "route": "/hot/2026-06-20/topic/is-the-us-government-s-anthropic-ban-accidentally-helping-the-brand/"
+          "route": "/hot/2026-06-20/topic/is-the-us-government-s-anthropic-ban-accidentally-helping-the-brand/",
+          "headline_zh": "美国政府对 Anthropic 的禁令，是否意外提升了其品牌影响力？",
+          "summary_short_zh": "就在上周即将结束时，美国政府以国家安全为由，迫使 Anthropic 下架其两款最新模型 Fable 5 和 Mythos 5。此前，据称亚马逊研究人员找到了绕过 Fable 5 安全防护机制的方法。此后，网络安全研究人员……",
+          "why_it_matters_zh": "该资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "acf4e94d78c1",
@@ -2221,7 +2312,11 @@
               "published_at": "Fri, 19 Jun 2026 15:23:28 +0000"
             }
           ],
-          "route": "/hot/2026-06-20/topic/billionaire-ambani-wants-ai-in-every-call-app-and-home/"
+          "route": "/hot/2026-06-20/topic/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
+          "headline_zh": "亿万富翁安巴尼想让每次通话、每款应用和每个家庭都用上 AI",
+          "summary_short_zh": "Reliance 正将 AI 融入其电信服务，这些服务覆盖超过 5 亿用户",
+          "why_it_matters_zh": "该资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "af0f883a1096",
@@ -2259,7 +2354,11 @@
               "published_at": "Fri, 19 Jun 2026 08:42:04 +0000"
             }
           ],
-          "route": "/hot/2026-06-20/topic/ai/"
+          "route": "/hot/2026-06-20/topic/ai/",
+          "headline_zh": "我把昨晚的梦输入AI，它居然直接把我拉进去玩儿了一把？！",
+          "summary_short_zh": "创作者的终极玩具来了",
+          "why_it_matters_zh": "该资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "d428a98860be",
@@ -2297,7 +2396,11 @@
               "published_at": "2026-06-19T00:49:33-04:00"
             }
           ],
-          "route": "/hot/2026-06-20/topic/barret-zoph-is-out-at-openai-again-after-just-five-months/"
+          "route": "/hot/2026-06-20/topic/barret-zoph-is-out-at-openai-again-after-just-five-months/",
+          "headline_zh": "Barret Zoph 仅任职五个月就再次离开 OpenAI",
+          "summary_short_zh": "据 The Verge 获悉，OpenAI 企业 AI 销售负责人 Barret Zoph 在回归公司仅五个月后离职。",
+          "why_it_matters_zh": "这则行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "a2210c6b20bb",
@@ -2335,7 +2438,11 @@
               "published_at": "Fri, 19 Jun 2026 03:28:37 +0000"
             }
           ],
-          "route": "/hot/2026-06-20/topic/2/"
+          "route": "/hot/2026-06-20/topic/2/",
+          "headline_zh": "全球首个人形机器人通用小脑来了！全球最大规模2万小时人类动作数据，实现零样本泛化",
+          "summary_short_zh": "人形机器人正式迈入“GPT时代”",
+          "why_it_matters_zh": "这则其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "be41565c8d6b",
@@ -2373,7 +2480,10 @@
               "published_at": "2026-06-20T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-20/topic/save-hours-on-meeting-prep-with-this-automated-google-gemini-setup/"
+          "route": "/hot/2026-06-20/topic/save-hours-on-meeting-prep-with-this-automated-google-gemini-setup/",
+          "headline_zh": "用这套 Google Gemini 自动化配置，省下数小时的会前准备时间",
+          "why_it_matters_zh": "这则其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -2415,7 +2525,11 @@
           "published_at": "2026-06-16T17:15:06Z"
         }
       ],
-      "route": "/hot/2026-06-20/topic/sorathiya123-claude-ai-free-desktop-app/"
+      "route": "/hot/2026-06-20/topic/sorathiya123-claude-ai-free-desktop-app/",
+      "headline_zh": "Sorathiya123/claude-ai-free-desktop-app",
+      "summary_short_zh": "免费 Claude Code AI GitHub 桌面 PC Windows Linux macOS 代理服务器 Anthropic 免费 API 本地 LLM 路由器 NVIDIA NIM OpenRouter DeepSeek Ollama LM Studio VS Code 扩展 JetBrains CLI 终端 编程助手",
+      "why_it_matters_zh": "这则工具动态见于 1 个独立来源。",
+      "category_zh": "工具"
     },
     {
       "topic_id": "f013bfa3e0f2",
@@ -2453,7 +2567,11 @@
           "published_at": "2026-06-16T21:22:43Z"
         }
       ],
-      "route": "/hot/2026-06-20/topic/rebel0789-codexpro/"
+      "route": "/hot/2026-06-20/topic/rebel0789-codexpro/",
+      "headline_zh": "rebel0789/codexpro",
+      "summary_short_zh": "通过 MCP，将 ChatGPT 开发者模式用作代码仓库的本地编程智能体",
+      "why_it_matters_zh": "这则工具动态见于 1 个独立来源。",
+      "category_zh": "工具"
     }
   ],
   "x_buzz": [

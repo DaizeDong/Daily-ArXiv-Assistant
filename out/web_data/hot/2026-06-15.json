@@ -1106,7 +1106,14 @@
           "published_at": "Sun, 14 Jun 2026 17:00:00 GMT"
         }
       ],
-      "route": "/hot/2026-06-15/topic/introducing-the-openai-partner-network/"
+      "route": "/hot/2026-06-15/topic/introducing-the-openai-partner-network/",
+      "headline_zh": "推出 OpenAI 合作伙伴网络",
+      "summary_short_zh": "OpenAI 推出合作伙伴网络，投入 1.5 亿美元帮助全球合作伙伴加速企业级 AI 的采用、部署与转型",
+      "why_it_matters_zh": "该产品发布在 1 个独立信源中出现。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "OpenAI 推出合作伙伴网络，投入 1.5 亿美元帮助全球合作伙伴加速企业级 AI 的采用、部署与转型。"
+      ]
     },
     {
       "topic_id": "52e7f559ef85",
@@ -1155,7 +1162,14 @@
           "published_at": "2026-06-13T05:33:14Z"
         }
       ],
-      "route": "/hot/2026-06-15/topic/mrtooher-fable-mode/"
+      "route": "/hot/2026-06-15/topic/mrtooher-fable-mode/",
+      "headline_zh": "mrtooher/fable-mode",
+      "summary_short_zh": "一个激活 Fable 式智能体行为的 Claude skill：显式的多阶段规划、子智能体分派与自我校验",
+      "why_it_matters_zh": "该工具在 2 个独立信源中出现。",
+      "category_zh": "工具",
+      "key_takeaways_zh": [
+        "一个激活 Fable 式智能体行为的 Claude skill：显式的多阶段规划、子智能体分派与自我校验。"
+      ]
     },
     {
       "topic_id": "a0f84daf8dce",
@@ -1195,7 +1209,14 @@
           "published_at": "2026-06-11T12:18:13Z"
         }
       ],
-      "route": "/hot/2026-06-15/topic/omnigent-ai-omnigent/"
+      "route": "/hot/2026-06-15/topic/omnigent-ai-omnigent/",
+      "headline_zh": "omnigent-ai/omnigent",
+      "summary_short_zh": "面向所有 AI 智能体的元框架。Omnigent 在 Claude Code、Codex、Pi 以及你自己编写的智能体之上提供统一层：无需重写即可切换或组合不同框架，用策略与沙箱加以约束，并可在同一个实时会话中跨任意设备协同",
+      "why_it_matters_zh": "该工具在 1 个独立信源中出现。",
+      "category_zh": "工具",
+      "key_takeaways_zh": [
+        "面向所有 AI 智能体的元框架。Omnigent 在 Claude Code、Codex、Pi 以及你自己编写的智能体之上提供统一层：无需重写即可切换或组合不同框架，用策略与沙箱加以约束……"
+      ]
     },
     {
       "topic_id": "457b7be6f6a2",
@@ -1235,7 +1256,14 @@
           "published_at": "2026-06-12T01:54:12Z"
         }
       ],
-      "route": "/hot/2026-06-15/topic/danmcinerney-architect-loop/"
+      "route": "/hot/2026-06-15/topic/danmcinerney-architect-loop/",
+      "headline_zh": "DanMcInerney/architect-loop",
+      "summary_short_zh": "Claude Fable 5 当架构师，GPT-5.5 Codex 当实现者，代码仓库作记忆——一个有研究支撑的 Claude Code skill，用于跨厂商智能体循环",
+      "why_it_matters_zh": "该工具在 1 个独立信源中出现。",
+      "category_zh": "工具",
+      "key_takeaways_zh": [
+        "Claude Fable 5 当架构师，GPT-5.5 Codex 当实现者，代码仓库作记忆——一个有研究支撑的 Claude Code skill，用于跨厂商智能体循环"
+      ]
     },
     {
       "topic_id": "b0ad7f06b72e",
@@ -1273,7 +1301,10 @@
           "published_at": "2026-06-14T03:59:38+00:00"
         }
       ],
-      "route": "/hot/2026-06-15/topic/final-bench-quantum-an-open-neutral-benchmark-for-quantum-computing-methods/"
+      "route": "/hot/2026-06-15/topic/final-bench-quantum-an-open-neutral-benchmark-for-quantum-computing-methods/",
+      "headline_zh": "FINAL-Bench Quantum：面向量子计算方法的开放中立基准",
+      "why_it_matters_zh": "该产品发布在 1 个独立信源中出现。",
+      "category_zh": "产品发布"
     }
   ],
   "category_sections": [
@@ -1326,7 +1357,11 @@
               "published_at": "2026-06-14T14:27:55-04:00"
             }
           ],
-          "route": "/hot/2026-06-15/topic/china-may-have-accessed-mythos/"
+          "route": "/hot/2026-06-15/topic/china-may-have-accessed-mythos/",
+          "headline_zh": "中国可能已接触到 Mythos",
+          "summary_short_zh": "据 Semafor 的一篇最新报道，白宫决定对 Anthropic 的 Mythos 实施出口管制，部分原因是担心它已被一个与中国有关联的团体获取。",
+          "why_it_matters_zh": "该内容在 2 个独立信源中出现。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "6435ca25a29d",
@@ -1364,7 +1399,10 @@
               "published_at": "2026-06-15T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-15/topic/import-ai-460-reward-hacking-society-rsi-data-from-anthropic-and-rl-based-quadcopter-racing/"
+          "route": "/hot/2026-06-15/topic/import-ai-460-reward-hacking-society-rsi-data-from-anthropic-and-rl-based-quadcopter-racing/",
+          "headline_zh": "Import AI 460：奖励作弊的社会、来自 Anthropic 的 RSI 数据，以及基于强化学习的四旋翼竞速",
+          "why_it_matters_zh": "该内容在 1 个独立信源中出现。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "40de53fc90c0",
@@ -1402,7 +1440,11 @@
               "published_at": "2026-06-15T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-15/topic/when-ai-builds-itself-the-anthropic-institute/"
+          "route": "/hot/2026-06-15/topic/when-ai-builds-itself-the-anthropic-institute/",
+          "headline_zh": "当 AI 自己构建自己（The Anthropic Institute）",
+          "summary_short_zh": "当 AI 自己构建自己（The Anthropic Institute",
+          "why_it_matters_zh": "该条目来自 1 个独立信源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "caea64c53f71",
@@ -1440,7 +1482,10 @@
               "published_at": "2026-06-15T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-15/topic/import-ai-459-ai-oversight-is-difficult-scaling-laws-for-protein-folding-models-and-pricing-the-extinction-risk-of-ai-systems/"
+          "route": "/hot/2026-06-15/topic/import-ai-459-ai-oversight-is-difficult-scaling-laws-for-protein-folding-models-and-pricing-the-extinction-risk-of-ai-systems/",
+          "headline_zh": "Import AI 459：AI 监督很困难；蛋白质折叠模型的缩放定律；以及为 AI 系统的灭绝风险定价",
+          "why_it_matters_zh": "该条目来自 1 个独立信源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "cc3a7592c256",
@@ -1478,7 +1523,11 @@
               "published_at": "2026-06-15T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-15/topic/state-media-control-influences-large-language-models-nature-pdf/"
+          "route": "/hot/2026-06-15/topic/state-media-control-influences-large-language-models-nature-pdf/",
+          "headline_zh": "国家媒体管控对大语言模型的影响（Nature，PDF）",
+          "summary_short_zh": "国家媒体管控对大语言模型的影响（Nature，PDF",
+          "why_it_matters_zh": "该条目来自 1 个独立信源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -1522,7 +1571,11 @@
               "published_at": "2026-06-13T23:05:00+00:00"
             }
           ],
-          "route": "/hot/2026-06-15/topic/mapping-sqlite-result-columns-back-to-their-source-table-column/"
+          "route": "/hot/2026-06-15/topic/mapping-sqlite-result-columns-back-to-their-source-table-column/",
+          "headline_zh": "把 SQLite 查询结果的列映射回其来源 `table.column`",
+          "summary_short_zh": "<p><strong>研究：</strong> <a href=\" 把 SQLite 查询结果的列映射回其来源 `table.column`</a></p> <p>如果 <a href=\" 里的任意 SQL 查询能够根据结果中包含了哪些表的哪些列，附带额外信息一起渲染出来，那会很棒。</p> <p>为了构建",
+          "why_it_matters_zh": "该工具来自 1 个独立信源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "5b8cb58a0d0f",
@@ -1560,7 +1613,11 @@
               "published_at": "2026-06-13T23:55:18+00:00"
             }
           ],
-          "route": "/hot/2026-06-15/topic/publishing-wasm-wheels-to-pypi-for-use-with-pyodide/"
+          "route": "/hot/2026-06-15/topic/publishing-wasm-wheels-to-pypi-for-use-with-pyodide/",
+          "headline_zh": "把 WASM wheel 发布到 PyPI 供 Pyodide 使用",
+          "summary_short_zh": "<p><a href=\" 314.0 版本发布公告</a>（来自 <a href=\" News</a>）里有一条我期待已久的消息：</p> <blockquote> <p>现在你可以发布为 Pyodide（或任何兼容 <a href=\" PEP 中定义的 PyEmscripten 平台的 Python 运行时）构建的 Python 包",
+          "why_it_matters_zh": "该工具来自 1 个独立信源。",
+          "category_zh": "工具"
         }
       ]
     }
@@ -1606,7 +1663,11 @@
               "published_at": "Mon, 15 Jun 2026 07:25:41 +0000"
             }
           ],
-          "route": "/hot/2026-06-15/topic/the-ai-layoff-wave-is-becoming-a-powder-keg/"
+          "route": "/hot/2026-06-15/topic/the-ai-layoff-wave-is-becoming-a-powder-keg/",
+          "headline_zh": "AI 裁员潮正在变成一个火药桶",
+          "summary_short_zh": "让局面变得易燃的是：就在数万名员工被请出门的同时，一小撮 AI 圈内人正在以难以想象的规模暴富",
+          "why_it_matters_zh": "该条目来自 1 个独立信源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "0a7ab6aaa716",
@@ -1644,7 +1705,11 @@
               "published_at": "Mon, 15 Jun 2026 05:43:15 +0000"
             }
           ],
-          "route": "/hot/2026-06-15/topic/fable-5-orcarouter/"
+          "route": "/hot/2026-06-15/topic/fable-5-orcarouter/",
+          "headline_zh": "低成本复刻Fable 5的路子找到了：OrcaRouter多模型组队，性能反超",
+          "summary_short_zh": "原来最强AI不是一个AI",
+          "why_it_matters_zh": "该条目来自 1 个独立信源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "f7a6ef7b40fa",
@@ -1682,7 +1747,11 @@
               "published_at": "Mon, 15 Jun 2026 06:52:30 +0000"
             }
           ],
-          "route": "/hot/2026-06-15/topic/4-0-24-noiz-ai/"
+          "route": "/hot/2026-06-15/topic/4-0-24-noiz-ai/",
+          "headline_zh": "4步出声，单卡0.24秒！Noiz AI联合港科大清华，开源音频生成大模型",
+          "summary_short_zh": "还能听懂时间戳",
+          "why_it_matters_zh": "该条目来自 1 个独立信源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "0c5fb7c54ba4",
@@ -1720,7 +1789,10 @@
               "published_at": "2026-06-15T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-15/topic/anthropic-writes-washington-an-ai-regulation-playbook/"
+          "route": "/hot/2026-06-15/topic/anthropic-writes-washington-an-ai-regulation-playbook/",
+          "headline_zh": "Anthropic 给华盛顿写了一本 AI 监管操作手册",
+          "why_it_matters_zh": "该行业动向来自 1 个独立信源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "839409e1e9ca",
@@ -1758,7 +1830,10 @@
               "published_at": "2026-06-14T22:23:05Z"
             }
           ],
-          "route": "/hot/2026-06-15/topic/did-anthropic-ask-for-this/"
+          "route": "/hot/2026-06-15/topic/did-anthropic-ask-for-this/",
+          "headline_zh": "这是 Anthropic 想要的吗？",
+          "why_it_matters_zh": "该内容来自 1 个独立信源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "4b8b37e234c0",
@@ -1796,7 +1871,11 @@
               "published_at": "2026-06-14T23:54:11+00:00"
             }
           ],
-          "route": "/hot/2026-06-15/topic/why-ai-hasn-t-replaced-software-engineers-and-won-t/"
+          "route": "/hot/2026-06-15/topic/why-ai-hasn-t-replaced-software-engineers-and-won-t/",
+          "headline_zh": "AI 为何没有取代软件工程师，也不会取代",
+          "summary_short_zh": "<p><strong><a href=\" AI 为何没有取代软件工程师，也不会取代</a></strong></p> Arvind Narayanan 与 Sayash Kappor 借由一个格外容易被 AI 颠覆的职业——软件工程——来探讨 AI 导致失业的问题。</p> <blockquote> <p>在本文中，我们",
+          "why_it_matters_zh": "该观点来自 1 个独立信源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "496b60f55503",
@@ -1834,7 +1913,11 @@
               "published_at": "Sun, 14 Jun 2026 03:00:00 +0000"
             }
           ],
-          "route": "/hot/2026-06-15/topic/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/"
+          "route": "/hot/2026-06-15/topic/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+          "headline_zh": "Anthropic 暂停开放新模型，印度开始反思自身 AI 前路",
+          "summary_short_zh": "科技界人士争论：Anthropic 事件是否为印度的 AI 雄心敲响警钟",
+          "why_it_matters_zh": "该观点来自 1 个独立信源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -1876,7 +1959,11 @@
           "published_at": "2026-06-10T01:01:42Z"
         }
       ],
-      "route": "/hot/2026-06-15/topic/alchaincyf-fanbox/"
+      "route": "/hot/2026-06-15/topic/alchaincyf-fanbox/",
+      "headline_zh": "alchaincyf/fanbox",
+      "summary_short_zh": "vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between",
+      "why_it_matters_zh": "该工具来自 1 个独立信源。",
+      "category_zh": "工具"
     },
     {
       "topic_id": "3786afafa446",
@@ -1914,7 +2001,11 @@
           "published_at": "2026-06-10T16:04:20Z"
         }
       ],
-      "route": "/hot/2026-06-15/topic/builderio-skills/"
+      "route": "/hot/2026-06-15/topic/builderio-skills/",
+      "headline_zh": "BuilderIO/skills",
+      "summary_short_zh": "面向编码 agent 的 Skills",
+      "why_it_matters_zh": "该工具来自 1 个独立信源。",
+      "category_zh": "工具"
     },
     {
       "topic_id": "f0479a585d35",
@@ -1952,7 +2043,11 @@
           "published_at": "2026-06-10T23:58:59Z"
         }
       ],
-      "route": "/hot/2026-06-15/topic/orange2ai-orange-line-illustration/"
+      "route": "/hot/2026-06-15/topic/orange2ai-orange-line-illustration/",
+      "headline_zh": "orange2ai/orange-line-illustration",
+      "summary_short_zh": "🍊 面向 AI agent 的《纽约客》风格极简编辑插画 skill —— 一个想法，一处点缀，大量留白。开源免费使用；闭源需商业授权",
+      "why_it_matters_zh": "该工具来自 1 个独立信源。",
+      "category_zh": "工具"
     }
   ],
   "x_buzz": [

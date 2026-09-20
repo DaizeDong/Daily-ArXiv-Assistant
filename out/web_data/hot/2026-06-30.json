@@ -1843,7 +1843,14 @@
           "published_at": "Tue, 30 Jun 2026 06:00:00 +0000"
         }
       ],
-      "route": "/hot/2026-06-30/topic/unlocking-britain-s-next-era-of-productivity-building-a-nation-of-ai-trailblazers/"
+      "route": "/hot/2026-06-30/topic/unlocking-britain-s-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
+      "headline_zh": "开启英国生产力新纪元：打造 AI 先锋之国",
+      "summary_short_zh": "四个插画人物，代表科学家、技术员、探险家和观察员等不同职业角色",
+      "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "四个插画人物，代表科学家、技术员、探险家和观察员等不同职业角色。"
+      ]
     },
     {
       "topic_id": "ab542733e20d",
@@ -1883,7 +1890,14 @@
           "published_at": "Mon, 29 Jun 2026 17:52:33 +0000"
         }
       ],
-      "route": "/hot/2026-06-30/topic/pair-nova-2-lite-with-claude-for-cost-optimized-document-processing/"
+      "route": "/hot/2026-06-30/topic/pair-nova-2-lite-with-claude-for-cost-optimized-document-processing/",
+      "headline_zh": "结合 Nova 2 Lite 与 Claude，优化文档处理成本",
+      "summary_short_zh": "本文介绍如何结合 Amazon Nova 2 Lite 与 Anthropic 的 Claude Sonnet 4.6，为大规模扫描文档数字化提供高效方案。我们在 Amazon Bedrock 上构建了一个双模型流水线，用于将扫描的年鉴页面数字化。",
+      "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "本文介绍如何结合 Amazon Nova 2 Lite 与 Anthropic 的 Claude Sonnet 4.6，为大规模扫描文档数字化提供高效方案。我们构建了一个双模型流水线，所用平台为 Am..."
+      ]
     },
     {
       "topic_id": "fe1b9eebc06a",
@@ -1923,7 +1937,14 @@
           "published_at": "Mon, 29 Jun 2026 17:39:29 +0000"
         }
       ],
-      "route": "/hot/2026-06-30/topic/multi-tenant-llm-analytics-with-row-level-security-how-we-built-a-secure-agent-on-aws/"
+      "route": "/hot/2026-06-30/topic/multi-tenant-llm-analytics-with-row-level-security-how-we-built-a-secure-agent-on-aws/",
+      "headline_zh": "支持行级安全的多租户 LLM 分析：我们如何在 AWS 上构建安全智能体",
+      "summary_short_zh": "本文介绍 PAR 如何构建可用于生产环境的多租户 LLM 分析系统，通过三层架构强制实施行级安全控制：使用 AWS SigV4 为请求生成数字签名、在 Amazon Bedrock 上进行语义验证，以及通过 Split-Plane SQL 以编程方式隔离数据。",
+      "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "本文介绍 PAR 如何构建可用于生产环境的多租户 LLM 分析系统，通过三层架构强制实施行级安全控制：使用密码学方法为请求签名……"
+      ]
     },
     {
       "topic_id": "e2c7afb9b4dd",
@@ -1961,7 +1982,10 @@
           "published_at": "2026-06-29T09:52:07+00:00"
         }
       ],
-      "route": "/hot/2026-06-30/topic/chitos-from-detection-to-proof-an-autonomous-security-ai-that-actually-exploits/"
+      "route": "/hot/2026-06-30/topic/chitos-from-detection-to-proof-an-autonomous-security-ai-that-actually-exploits/",
+      "headline_zh": "Chitos：从检测到实证，可实际利用漏洞的自主安全 AI",
+      "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "87b536e90a92",
@@ -2001,7 +2025,14 @@
           "published_at": "2026-06-27T13:55:27Z"
         }
       ],
-      "route": "/hot/2026-06-30/topic/sums001-deepseek-api/"
+      "route": "/hot/2026-06-30/topic/sums001-deepseek-api/",
+      "headline_zh": "sums001/Deepseek-API",
+      "summary_short_zh": "通过逆向工程，将 Deepseek 聊天服务转为兼容 OpenAI 的 API。通过简单的 REST 接口即可访问 V4 和 R1 模型，无需 API 密钥，也无需付费",
+      "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "通过逆向工程，将 Deepseek 聊天服务转为兼容 OpenAI 的 API。通过简单的 REST 接口即可访问 V4 和 R1 模型，无需 API 密钥，也无需付费。"
+      ]
     }
   ],
   "category_sections": [
@@ -2045,7 +2076,11 @@
               "published_at": "Mon, 29 Jun 2026 18:15:14 +0000"
             }
           ],
-          "route": "/hot/2026-06-30/topic/implement-a-backup-strategy-for-amazon-quick-sight-bi-assets/"
+          "route": "/hot/2026-06-30/topic/implement-a-backup-strategy-for-amazon-quick-sight-bi-assets/",
+          "headline_zh": "为 Amazon Quick Sight 的 BI 资产实施备份策略",
+          "summary_short_zh": "本文介绍为 Quick Sight 中的 BI 资产实施有效备份策略的最佳实践。",
+          "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "50d33075c18c",
@@ -2083,7 +2118,10 @@
               "published_at": "2026-06-29T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-06-30/topic/gemma-4-31b-runs-at-over-1-800-tokens-per-second-on-cerebras-inference-this-is-the-world-s-fastest-multimodal-model/"
+          "route": "/hot/2026-06-30/topic/gemma-4-31b-runs-at-over-1-800-tokens-per-second-on-cerebras-inference-this-is-the-world-s-fastest-multimodal-model/",
+          "headline_zh": "Gemma 4 31B 在 Cerebras Inference 上的运行速度超过每秒 1,800 个词元。这是全球最快的多模态模型。 >>",
+          "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "213f0a066d54",
@@ -2121,7 +2159,10 @@
               "published_at": "2026-06-30T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-30/topic/6-min-read-openai-launched-strongest-new-models/"
+          "route": "/hot/2026-06-30/topic/6-min-read-openai-launched-strongest-new-models/",
+          "headline_zh": "阅读需 6 分钟 · OpenAI 发布最强新模型",
+          "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "654bb6b7d2dd",
@@ -2159,7 +2200,11 @@
               "published_at": "Mon, 29 Jun 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-06-30/topic/cursor-shipped-ios-remote-agents/"
+          "route": "/hot/2026-06-30/topic/cursor-shipped-ios-remote-agents/",
+          "headline_zh": "Cursor 推出 iOS 版及远程智能体",
+          "summary_short_zh": "当天最重磅的产品发布之一：@cursor_ai 推出 Cursor iOS 版，提供全天候在线的云端智能体，并支持远程控制电脑上的智能体；后续推文重点介绍了实时活动和手机端代码差异审查功能。",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2209,7 +2254,11 @@
               "published_at": "Mon, 29 Jun 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-06-30/topic/deepseek-v4-pr-merged-into-llama-cpp/"
+          "route": "/hot/2026-06-30/topic/deepseek-v4-pr-merged-into-llama-cpp/",
+          "headline_zh": "DeepSeek V4 支持 PR 已合并至 llama.cpp！",
+          "summary_short_zh": "支持 DeepSeek V4 的 PR 已合并至 llama.cpp（ggml-org/llama.cpp#24162），用户可通过 git pull 更新，用 cmake 重新构建，即可运行兼容的 GGUF 模型文件，无需依赖分叉版本。",
+          "why_it_matters_zh": "此次收购见于 1 个独立来源。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "04663a98b13d",
@@ -2247,7 +2296,11 @@
               "published_at": "Mon, 29 Jun 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-06-30/topic/arena-crossed-meaningful-commercial-scale/"
+          "route": "/hot/2026-06-30/topic/arena-crossed-meaningful-commercial-scale/",
+          "headline_zh": "Arena 达到可观的商业规模",
+          "summary_short_zh": "@arena 和 @ml_angelopoulos 表示，Arena 在评估产品推出八个月后，年化经常性收入（ARR）达到 1 亿美元，平台目前重点关注部署后评估和智能体评估。",
+          "why_it_matters_zh": "此次融资见于 1 个独立来源。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -2291,7 +2344,11 @@
               "published_at": "Mon, 29 Jun 2026 16:00:00 +0000"
             }
           ],
-          "route": "/hot/2026-06-30/topic/ask-an-ai-expert-what-exactly-is-the-full-stack/"
+          "route": "/hot/2026-06-30/topic/ask-an-ai-expert-what-exactly-is-the-full-stack/",
+          "headline_zh": "问问 AI 专家：全栈究竟是什么？",
+          "summary_short_zh": "一幅以深色为背景、描绘全栈 AI 基础设施的插图",
+          "why_it_matters_zh": "这一行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "baeaf9e111c4",
@@ -2329,7 +2386,11 @@
               "published_at": "2026-06-30T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-30/topic/enpire-agentic-robot-policy-self-improvement-in-the-real-world-nvidia-research-website/"
+          "route": "/hot/2026-06-30/topic/enpire-agentic-robot-policy-self-improvement-in-the-real-world-nvidia-research-website/",
+          "headline_zh": "ENPIRE：真实世界中智能体驱动的机器人策略自我改进（NVIDIA 研究网站）",
+          "summary_short_zh": "ENPIRE：真实世界中智能体驱动的机器人策略自我改进（NVIDIA 研究网站",
+          "why_it_matters_zh": "这一行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "83876bee1c27",
@@ -2367,7 +2428,11 @@
               "published_at": "Mon, 29 Jun 2026 18:07:48 +0000"
             }
           ],
-          "route": "/hot/2026-06-30/topic/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/"
+          "route": "/hot/2026-06-30/topic/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
+          "headline_zh": "韩国科技巨头承诺投入超 5500 亿美元，缓解“内存荒”",
+          "summary_short_zh": "全球两大存储芯片公司承诺建设更多存储芯片研发及制造设施，韩国正着力打造 AI 科技强国。",
+          "why_it_matters_zh": "这一行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "2bf547f178f0",
@@ -2405,7 +2470,11 @@
               "published_at": "Tue, 30 Jun 2026 04:08:11 +0000"
             }
           ],
-          "route": "/hot/2026-06-30/topic/deepseek-v4/"
+          "route": "/hot/2026-06-30/topic/deepseek-v4/",
+          "headline_zh": "破天荒！DeepSeek V4正式版居然要涨价，而且翻着倍地涨",
+          "summary_short_zh": "好消息是V4正式版能力有升级",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "a5d6121555a2",
@@ -2443,7 +2512,10 @@
               "published_at": "2026-06-30T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-30/topic/import-ai-463-self-improving-robots-a-10k-chinese-gpu-cluster-and-an-elegiac-essay-for-the-human-era/"
+          "route": "/hot/2026-06-30/topic/import-ai-463-self-improving-robots-a-10k-chinese-gpu-cluster-and-an-elegiac-essay-for-the-human-era/",
+          "headline_zh": "Import AI 第 463 期：自我改进的机器人、中国万卡 GPU 集群，以及一篇写给人类时代的挽歌式随笔",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -2487,7 +2559,11 @@
               "published_at": "Mon, 29 Jun 2026 17:25:21 +0000"
             }
           ],
-          "route": "/hot/2026-06-30/topic/debugging-production-agents-with-amazon-bedrock-agentcore-observability/"
+          "route": "/hot/2026-06-30/topic/debugging-production-agents-with-amazon-bedrock-agentcore-observability/",
+          "headline_zh": "使用 Amazon Bedrock AgentCore Observability 调试生产环境中的智能体",
+          "summary_short_zh": "本文介绍如何利用内置可观测性功能，排查生产环境中的智能体故障。",
+          "why_it_matters_zh": "这则工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "74626450af4b",
@@ -2525,7 +2601,11 @@
               "published_at": "Mon, 29 Jun 2026 17:36:34 +0000"
             }
           ],
-          "route": "/hot/2026-06-30/topic/build-an-agentic-ai-healthcare-claims-pipeline-with-amazon-bedrock-and-aws-healthlake/"
+          "route": "/hot/2026-06-30/topic/build-an-agentic-ai-healthcare-claims-pipeline-with-amazon-bedrock-and-aws-healthlake/",
+          "headline_zh": "利用 Amazon Bedrock 和 AWS HealthLake 构建基于 AI 智能体的医疗理赔流水线",
+          "summary_short_zh": "本文介绍如何利用 Amazon Bedrock 的两项关键功能构建自动化理赔处理流水线：使用 Amazon Bedrock Data Automation 从医疗理赔表单中智能提取信息，并使用 Amazon Bedrock AgentCore 托管 AI 智能体，负责验证和",
+          "why_it_matters_zh": "这则工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "e6ae81a4cc87",
@@ -2563,7 +2643,11 @@
               "published_at": "2026-06-29T14:52:03-04:00"
             }
           ],
-          "route": "/hot/2026-06-30/topic/openai-is-teasing-new-hardware-for-codex/"
+          "route": "/hot/2026-06-30/topic/openai-is-teasing-new-hardware-for-codex/",
+          "headline_zh": "OpenAI 预告新硬件……为 Codex 打造",
+          "summary_short_zh": "OpenAI 将于 7 月 15 日发布一款与其 AI 编程工具 Codex 相关的设备。",
+          "why_it_matters_zh": "这则工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "3cfea248b6bb",
@@ -2601,7 +2685,11 @@
               "published_at": "2026-06-29T23:38:21+00:00"
             }
           ],
-          "route": "/hot/2026-06-30/topic/html-table-extractor/"
+          "route": "/hot/2026-06-30/topic/html-table-extractor/",
+          "headline_zh": "HTML 表格提取器",
+          "summary_short_zh": "<p><strong>工具：</strong> <a href=\" 表格提取器</a></p> <p>我的粘贴转换工具集又添了一款新工具。",
+          "why_it_matters_zh": "这则工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "10bc1832b3e3",
@@ -2639,7 +2727,11 @@
               "published_at": "Mon, 29 Jun 2026 07:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-06-30/topic/mapping-europe-s-ai-workforce-opportunity/"
+          "route": "/hot/2026-06-30/topic/mapping-europe-s-ai-workforce-opportunity/",
+          "headline_zh": "梳理 AI 为欧洲劳动力带来的机遇",
+          "summary_short_zh": "OpenAI 的一份新报告梳理了 AI 可能如何重塑欧盟的就业格局，重点分析哪些职业可能走向自动化、迎来增长或经历工作流程变化。",
+          "why_it_matters_zh": "这则工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     }
@@ -2685,7 +2777,11 @@
               "published_at": "Tue, 30 Jun 2026 03:27:05 +0000"
             }
           ],
-          "route": "/hot/2026-06-30/topic/ai/"
+          "route": "/hot/2026-06-30/topic/ai/",
+          "headline_zh": "智谱唐杰：成功企业靠管理那是曾经，AI时代不行了",
+          "summary_short_zh": "AI时代：认知＞格局＞技术＞管理。",
+          "why_it_matters_zh": "这则其他资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "659f807a5f4c",
@@ -2723,7 +2819,11 @@
               "published_at": "Tue, 30 Jun 2026 07:20:26 +0000"
             }
           ],
-          "route": "/hot/2026-06-30/topic/ai-infra/"
+          "route": "/hot/2026-06-30/topic/ai-infra/",
+          "headline_zh": "中国信通院发布AI Infra运维领域首个评测基准",
+          "summary_short_zh": "覆盖 5 款主流国产芯片",
+          "why_it_matters_zh": "这则其他资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "0283e0422f15",
@@ -2761,7 +2861,11 @@
               "published_at": "Mon, 29 Jun 2026 18:10:26 +0000"
             }
           ],
-          "route": "/hot/2026-06-30/topic/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/"
+          "route": "/hot/2026-06-30/topic/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+          "headline_zh": "Anthropic 与纽森州长达成协议，加州政府可半价使用 Claude",
+          "summary_short_zh": "Anthropic 与加州的关系愈发紧密，联邦政府却已与这家 OpenAI 的竞争对手交恶。",
+          "why_it_matters_zh": "这则其他资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "3f2cf7d5c9a5",
@@ -2799,7 +2903,11 @@
               "published_at": "Mon, 29 Jun 2026 20:12:59 +0000"
             }
           ],
-          "route": "/hot/2026-06-30/topic/gemini-s-personalized-ai-image-generation-is-now-free-for-us-users/"
+          "route": "/hot/2026-06-30/topic/gemini-s-personalized-ai-image-generation-is-now-free-for-us-users/",
+          "headline_zh": "Gemini 的个性化 AI 图像生成功能现已向美国用户免费开放",
+          "summary_short_zh": "Google 正向美国符合条件的免费用户开放 Gemini 的个性化 AI 图像生成功能，让聊天机器人根据你的兴趣和已关联 Google 应用中的数据生成图像。",
+          "why_it_matters_zh": "这则其他资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "3f7941aaeb39",
@@ -2837,7 +2945,11 @@
               "published_at": "Mon, 29 Jun 2026 15:00:00 -0400"
             }
           ],
-          "route": "/hot/2026-06-30/topic/inaugural-music-technology-research-showcase-celebrates-work-of-new-graduate-program-s-initial-students/"
+          "route": "/hot/2026-06-30/topic/inaugural-music-technology-research-showcase-celebrates-work-of-new-graduate-program-s-initial-students/",
+          "headline_zh": "首届音乐技术研究成果展展示新设研究生项目首批学生的成果",
+          "summary_short_zh": "Anna Huang 副教授发表题为《探寻人类与 AI 的共鸣》的主旨演讲，现场座无虚席",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "09e3893230cf",
@@ -2875,7 +2987,11 @@
               "published_at": "2026-06-29T15:47:35-04:00"
             }
           ],
-          "route": "/hot/2026-06-30/topic/tidal-won-t-pay-royalties-on-ai-generated-music-but-isn-t-banning-it-outright/"
+          "route": "/hot/2026-06-30/topic/tidal-won-t-pay-royalties-on-ai-generated-music-but-isn-t-banning-it-outright/",
+          "headline_zh": "Tidal 不会为 AI 生成的音乐支付版税，但也不会全面封禁这类音乐",
+          "summary_short_zh": "Tidal 今天公布了针对 AI 生成音乐的新政策，并介绍平台将如何“保护艺术家”和“让听众知情”。平台不会全面封禁这类音乐，而是从 7 月 15 日起，用图标标记其认定为 100% 由 AI 生成的曲目。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "c40bb842e4da",
@@ -2913,7 +3029,11 @@
               "published_at": "2026-06-29T12:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-30/topic/lawmakers-want-to-ban-ai-companies-from-selling-your-health-data/"
+          "route": "/hot/2026-06-30/topic/lawmakers-want-to-ban-ai-companies-from-selling-your-health-data/",
+          "headline_zh": "议员拟禁止 AI 公司出售你的健康数据",
+          "summary_short_zh": "一项新提案拟禁止向数据经纪商出售美国人的健康和位置信息，包括人们向 ChatGPT 或 Claude 等 AI 聊天机器人透露的信息。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "9dc1dd223f46",
@@ -2951,7 +3071,10 @@
               "published_at": "2026-06-30T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-30/topic/openai-s-spicy-new-custom-ai-chip/"
+          "route": "/hot/2026-06-30/topic/openai-s-spicy-new-custom-ai-chip/",
+          "headline_zh": "OpenAI 引人瞩目的全新定制 AI 芯片",
+          "why_it_matters_zh": "这条行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -2993,7 +3116,11 @@
           "published_at": "2026-06-25T07:42:50Z"
         }
       ],
-      "route": "/hot/2026-06-30/topic/winsznx-theeleven/"
+      "route": "/hot/2026-06-30/topic/winsznx-theeleven/",
+      "headline_zh": "winsznx/theeleven",
+      "summary_short_zh": "11 个自主 AI 智能体在 X Layer 上开设实时足球专项投注市场，采用自定义 Uniswap v4 钩子，支持免 Gas 费的 USDT0 质押",
+      "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "19aebec498f0",
@@ -3031,7 +3158,11 @@
           "published_at": "2026-06-30T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-06-30/topic/locallaws-locus-v1-huggingface/"
+      "route": "/hot/2026-06-30/topic/locallaws-locus-v1-huggingface/",
+      "headline_zh": "LocalLaws / LOCUS-v1 (HuggingFace)",
+      "summary_short_zh": "LocalLaws / LOCUS-v1 (HuggingFace",
+      "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+      "category_zh": "产品发布"
     }
   ],
   "x_buzz": [

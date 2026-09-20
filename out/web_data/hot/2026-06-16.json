@@ -2142,7 +2142,14 @@
           "published_at": "Mon, 15 Jun 2026 20:24:15 +0000"
         }
       ],
-      "route": "/hot/2026-06-16/topic/introducing-gemma-4-models-on-amazon-bedrock/"
+      "route": "/hot/2026-06-16/topic/introducing-gemma-4-models-on-amazon-bedrock/",
+      "headline_zh": "Amazon Bedrock 推出 Gemma 4 模型",
+      "summary_short_zh": "今天，我们宣布 Gemma 4 系列已在 Amazon Bedrock 上线。Gemma 4 由 Google DeepMind 开发，采用 Apache 2.0 许可证发布，是一个开放权重模型系列，面向多种部署场景，注重单位参数的智能表现。",
+      "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "今天，我们宣布 Gemma 4 系列已在 Amazon Bedrock 上线。Gemma 4 由 Google DeepMind 开发，采用 Apache 2.0 许可证发布，是一个开放权重模型系列，其设计……"
+      ]
     },
     {
       "topic_id": "9882acfe617a",
@@ -2190,7 +2197,15 @@
           "published_at": "Mon, 15 Jun 2026 18:30:58 +0000"
         }
       ],
-      "route": "/hot/2026-06-16/topic/facebook-s-new-ai-mode-search-gets-its-info-from-public-posts/"
+      "route": "/hot/2026-06-16/topic/facebook-s-new-ai-mode-search-gets-its-info-from-public-posts/",
+      "headline_zh": "Facebook 全新 AI 模式搜索从公开帖子获取信息",
+      "summary_short_zh": "你的 Facebook 公开帖子可能会为 Meta 全新 AI 模式生成的结果提供信息。在 Facebook 上搜索时，“AI 模式”选项会与“用户”和“Marketplace”等常见搜索模式并列显示。这是 Meta 从今天起陆续推出的多项 AI 新功能之一，其中包括",
+      "why_it_matters_zh": "有 2 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "你的 Facebook 公开帖子可能会为 Meta 全新 AI 模式生成的结果提供信息。在 Facebook 上搜索时，“AI 模式”选项会与常见搜索模式并列显示，比如“用户”……",
+        "Meta 周一宣布，正在 Facebook 上陆续推出一系列 AI 新功能。这一最新动向表明，该公司正努力在 AI 竞赛中迎头赶上，并提升用户在平台上的参与度。"
+      ]
     },
     {
       "topic_id": "1673d60574e7",
@@ -2230,7 +2245,14 @@
           "published_at": "Mon, 15 Jun 2026 15:00:00 +0000"
         }
       ],
-      "route": "/hot/2026-06-16/topic/we-re-strengthening-our-presence-in-alabama-through-new-investments-and-community-support/"
+      "route": "/hot/2026-06-16/topic/we-re-strengthening-our-presence-in-alabama-through-new-investments-and-community-support/",
+      "headline_zh": "我们正通过新增投资和支持当地社区，扩大在阿拉巴马州的业务布局。",
+      "summary_short_zh": "Google 宣布将在 2026 年和 2027 年投资 15 亿美元，扩建其位于阿拉巴马州杰克逊县的数据中心园区。该园区自 2019 年起运营，建于一处改造后的旧址。",
+      "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Google 宣布将在 2026 年和 2027 年投资 15 亿美元，扩建其位于阿拉巴马州杰克逊县的数据中心园区。该园区自 2019 年起运营，建于一处改造后的旧址……"
+      ]
     },
     {
       "topic_id": "b0dac3987e02",
@@ -2270,7 +2292,14 @@
           "published_at": "2026-06-11T06:12:55Z"
         }
       ],
-      "route": "/hot/2026-06-16/topic/arnabbagxd-brand-building-skills/"
+      "route": "/hot/2026-06-16/topic/arnabbagxd-brand-building-skills/",
+      "headline_zh": "arnabbagxd/Brand-building-skills",
+      "summary_short_zh": "适用于 Claude Code 和 AI 智能体的品牌建设技能，涵盖策略、命名、品牌识别、品牌语调、定位、信息传达、审计和发布。",
+      "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "适用于 Claude Code 和 AI 智能体的品牌建设技能，涵盖策略、命名、品牌识别、品牌语调、定位、信息传达、审计和发布。"
+      ]
     },
     {
       "topic_id": "6efb2a4578d0",
@@ -2308,7 +2337,11 @@
           "published_at": "2026-06-16T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-06-16/topic/introducing-frontiercode-cognition/"
+      "route": "/hot/2026-06-16/topic/introducing-frontiercode-cognition/",
+      "headline_zh": "推出 FrontierCode（Cognition）",
+      "summary_short_zh": "推出 FrontierCode（Cognition",
+      "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布"
     }
   ],
   "category_sections": [
@@ -2352,7 +2385,11 @@
               "published_at": "2026-06-16T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-16/topic/mimo-v2-5-pro-ultraspeed-pushing-1t-parameter-model-generation-speed-to-1000-tps-xiaomi-mimo-blog/"
+          "route": "/hot/2026-06-16/topic/mimo-v2-5-pro-ultraspeed-pushing-1t-parameter-model-generation-speed-to-1000-tps-xiaomi-mimo-blog/",
+          "headline_zh": "MiMo-V2.5-Pro-UltraSpeed：将万亿参数模型的生成速度提升至 1000 TPS（小米 MIMO，博客）",
+          "summary_short_zh": "MiMo-V2.5-Pro-UltraSpeed：将万亿参数模型的生成速度提升至 1000 TPS（小米 MIMO，博客",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "1d094fd20859",
@@ -2390,7 +2427,11 @@
               "published_at": "2026-06-15T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-06-16/topic/cohere-triples-uk-footprint-with-new-london-office-to-support-r-d-growth/"
+          "route": "/hot/2026-06-16/topic/cohere-triples-uk-footprint-with-new-london-office-to-support-r-d-growth/",
+          "headline_zh": "Cohere 开设伦敦新办公室，将英国业务规模扩大至三倍，支持研发扩张",
+          "summary_short_zh": "新办公室使 Cohere 成为伦敦 AI 发展的核心参与者，其设在当地的全球研究中心也在不断壮大。",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "d7ef9fe8965d",
@@ -2428,7 +2469,11 @@
               "published_at": "2026-06-15T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-06-16/topic/modernizing-foi-systems-with-ai-agents-cohere/"
+          "route": "/hot/2026-06-16/topic/modernizing-foi-systems-with-ai-agents-cohere/",
+          "headline_zh": "借助 AI 智能体推进信息公开（FOI）系统现代化 | Cohere",
+          "summary_short_zh": "利用 AI 升级信息公开（FOI）申请系统。了解 AI 智能体如何帮助公共部门团队减少人工工作、提高响应效率并保留监督机制",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "a41c4eff5f79",
@@ -2466,7 +2511,11 @@
               "published_at": "2026-06-15T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-06-16/topic/composer-2-5/"
+          "route": "/hot/2026-06-16/topic/composer-2-5/",
+          "headline_zh": "Composer 2.5",
+          "summary_short_zh": "现已在 Grok Build 上线。可通过 /models 菜单试用",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "5a7dd11c5e77",
@@ -2504,7 +2553,11 @@
               "published_at": "2026-06-15T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-06-16/topic/grok-becomes-the-voice-of-vapi/"
+          "route": "/hot/2026-06-16/topic/grok-becomes-the-voice-of-vapi/",
+          "headline_zh": "Grok 成为 Vapi 的声音",
+          "summary_short_zh": "为数百万个 Vapi 智能体带来顶尖语音品质",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2548,7 +2601,11 @@
               "published_at": "Tue, 16 Jun 2026 06:59:00 +0000"
             }
           ],
-          "route": "/hot/2026-06-16/topic/malaysia-s-ai-agent-powered-messaging-app-respond-io-raises-62-5m-eyes-acquisitions/"
+          "route": "/hot/2026-06-16/topic/malaysia-s-ai-agent-powered-messaging-app-respond-io-raises-62-5m-eyes-acquisitions/",
+          "headline_zh": "马来西亚 AI 智能体驱动的通讯应用 Respond.io 融资 6250 万美元，寻求收购机会",
+          "summary_short_zh": "Respond.io 是马来西亚值得关注的初创企业之一，利用 AI 智能体处理大量客户咨询，按会话次数而非席位数收费",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次融资。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "0a3ffed9ce8a",
@@ -2586,7 +2643,11 @@
               "published_at": "Mon, 15 Jun 2026 19:07:02 +0000"
             }
           ],
-          "route": "/hot/2026-06-16/topic/chipmaker-nvidia-seeks-to-raise-over-25b-in-first-bond-deal-since-2021/"
+          "route": "/hot/2026-06-16/topic/chipmaker-nvidia-seeks-to-raise-over-25b-in-first-bond-deal-since-2021/",
+          "headline_zh": "芯片制造商英伟达拟自 2021 年以来首次发债，筹资逾 250 亿美元",
+          "summary_short_zh": "在举债规模激增之际，此次发债将考验投资者进一步加码 AI 行业的意愿",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次融资。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -2639,7 +2700,11 @@
               "published_at": "2026-06-15T15:04:53-04:00"
             }
           ],
-          "route": "/hot/2026-06-16/topic/all-the-news-about-anthropic-8217-s-new-ai-fight-with-the-white-house/"
+          "route": "/hot/2026-06-16/topic/all-the-news-about-anthropic-8217-s-new-ai-fight-with-the-white-house/",
+          "headline_zh": "Anthropic 与白宫新一轮 AI 争端的新闻汇总",
+          "summary_short_zh": "Anthropic 原本就在处理与五角大楼对峙引发的政府争端，6 月 12 日又接到命令，要求禁止境外访问其最新发布的 AI 模型 Fable 5 和 Mythos 5。",
+          "why_it_matters_zh": "这则消息见于 2 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "6435ca25a29d",
@@ -2677,7 +2742,10 @@
               "published_at": "2026-06-16T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-16/topic/import-ai-460-reward-hacking-society-rsi-data-from-anthropic-and-rl-based-quadcopter-racing/"
+          "route": "/hot/2026-06-16/topic/import-ai-460-reward-hacking-society-rsi-data-from-anthropic-and-rl-based-quadcopter-racing/",
+          "headline_zh": "Import AI 第 460 期：社会中的奖励投机、Anthropic 的 RSI 数据，以及基于强化学习的四旋翼无人机竞速",
+          "why_it_matters_zh": "这则消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "d3903f19f59e",
@@ -2715,7 +2783,10 @@
               "published_at": "2026-06-16T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-16/topic/import-ai-461-alignment-is-not-on-track-frontiercode-and-synthetic-research-interns/"
+          "route": "/hot/2026-06-16/topic/import-ai-461-alignment-is-not-on-track-frontiercode-and-synthetic-research-interns/",
+          "headline_zh": "Import AI 第 461 期：“对齐工作偏离正轨”、FrontierCode，以及虚拟科研实习生",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "82cc6f66e5dc",
@@ -2753,7 +2824,10 @@
               "published_at": "Tue, 16 Jun 2026 04:10:43 +0000"
             }
           ],
-          "route": "/hot/2026-06-16/topic/ai-for-process-ai/"
+          "route": "/hot/2026-06-16/topic/ai-for-process-ai/",
+          "headline_zh": "从技术向运营生产力“质变”：神州数码以AI for Process构建AI落地产业的“飞轮”",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "d8d2b3669231",
@@ -2791,7 +2865,11 @@
               "published_at": "Tue, 16 Jun 2026 04:39:39 +0000"
             }
           ],
-          "route": "/hot/2026-06-16/topic/qwen-robot/"
+          "route": "/hot/2026-06-16/topic/qwen-robot/",
+          "headline_zh": "三连发！阿里发布首个具身大模型Qwen-Robot系列",
+          "summary_short_zh": "边走、边看、边思考",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -2835,7 +2913,11 @@
               "published_at": "Mon, 15 Jun 2026 13:56:33 +0000"
             }
           ],
-          "route": "/hot/2026-06-16/topic/build-context-rich-research-agents-with-deep-agents-and-bedrock-agentcore/"
+          "route": "/hot/2026-06-16/topic/build-context-rich-research-agents-with-deep-agents-and-bedrock-agentcore/",
+          "headline_zh": "使用 Deep Agents 和 Bedrock AgentCore 构建上下文丰富的研究智能体",
+          "summary_short_zh": "本文将带你构建一个竞品调研智能体，完整演示这一模式。本教程面向构建多步骤 AI 工作流、需要为智能体提供隔离执行环境的开发者。",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "6422cfd5a7c7",
@@ -2873,7 +2955,11 @@
               "published_at": "Mon, 15 Jun 2026 18:07:59 +0000"
             }
           ],
-          "route": "/hot/2026-06-16/topic/ai-agent-failure-detection-and-root-cause-analysis-with-strands-evals/"
+          "route": "/hot/2026-06-16/topic/ai-agent-failure-detection-and-root-cause-analysis-with-strands-evals/",
+          "headline_zh": "使用 Strands Evals 检测 AI 智能体故障并分析根因",
+          "summary_short_zh": "本文将逐步介绍如何调用检测函数，诊断实际发生的智能体故障。",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "595f6e948a8c",
@@ -2911,7 +2997,11 @@
               "published_at": "Mon, 15 Jun 2026 18:30:34 +0000"
             }
           ],
-          "route": "/hot/2026-06-16/topic/spacex-is-public-everything-you-need-to-know-post-ipo/"
+          "route": "/hot/2026-06-16/topic/spacex-is-public-everything-you-need-to-know-post-ipo/",
+          "headline_zh": "SpaceX 已上市：IPO 后你需要了解的一切",
+          "summary_short_zh": "TechCrunch 从早期就持续报道 SpaceX 的起步、挫折与成功，也将继续关注它接下来的发展。这组 SpaceX IPO 专题报道涵盖谁有望获益（或许也包括一些无法获益的人）、上市前交易，以及 S-1 注册文件中的细节。",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     },
@@ -2955,7 +3045,11 @@
               "published_at": "2026-06-15T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-06-16/topic/dreamx-world-1-0-a-general-purpose-interactive-world-model/"
+          "route": "/hot/2026-06-16/topic/dreamx-world-1-0-a-general-purpose-interactive-world-model/",
+          "headline_zh": "DreamX-World 1.0：通用交互式世界模型",
+          "summary_short_zh": "DreamX-World 1.0 是一款通用交互式世界模型，支持通过文本或图像进行可控的长时序视频生成。它支持相机导航、重访此前观察过的区域，以及通过提示词触发事件，适用于照片级写实、游戏风格和风格化等场景。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         }
       ]
     }
@@ -3001,7 +3095,11 @@
               "published_at": "2026-06-15T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-06-16/topic/grok-imagine-1-5-preview/"
+          "route": "/hot/2026-06-16/topic/grok-imagine-1-5-preview/",
+          "headline_zh": "Grok Imagine 1.5 预览版",
+          "summary_short_zh": "我们最新的图生视频模型 grok-imagine-video-1.5-preview 现已开放预览，可通过 xAI API 使用。",
+          "why_it_matters_zh": "这条产品发布资讯见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "16e8b0be7d96",
@@ -3039,7 +3137,11 @@
               "published_at": "2026-06-15T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-06-16/topic/powering-gopuff-s-go-agent/"
+          "route": "/hot/2026-06-16/topic/powering-gopuff-s-go-agent/",
+          "headline_zh": "为 Gopuff 的 Go 智能体提供支持",
+          "summary_short_zh": "同时管理多个编程会话。查看各个会话正在做什么，回复需要你介入的会话，并分派新任务。",
+          "why_it_matters_zh": "这条产品发布资讯见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -3083,7 +3185,11 @@
               "published_at": "Tue, 16 Jun 2026 09:31:02 +0000"
             }
           ],
-          "route": "/hot/2026-06-16/topic/ai/"
+          "route": "/hot/2026-06-16/topic/ai/",
+          "headline_zh": "不儿，罗永浩、胡彦斌都来参加这场AI大赛了啊",
+          "summary_short_zh": "100万奖金，0门槛参赛",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "129041652756",
@@ -3121,7 +3227,11 @@
               "published_at": "2026-06-15T13:44:10-04:00"
             }
           ],
-          "route": "/hot/2026-06-16/topic/big-tech-s-desperate-last-push-at-ai-regulation/"
+          "route": "/hot/2026-06-16/topic/big-tech-s-desperate-last-push-at-ai-regulation/",
+          "headline_zh": "科技巨头在 AI 监管问题上的最后一搏",
+          "summary_short_zh": "数月来，科技巨头在华盛顿的游说者一直在推动有利于 AI 的立法，力争实现其终极目标：联邦法优先适用。",
+          "why_it_matters_zh": "这条行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "5e05119ad5a6",
@@ -3159,7 +3269,11 @@
               "published_at": "Mon, 15 Jun 2026 21:50:21 +0000"
             }
           ],
-          "route": "/hot/2026-06-16/topic/the-us-government-s-anthropic-models-ban-was-never-about-an-ai-jailbreak/"
+          "route": "/hot/2026-06-16/topic/the-us-government-s-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+          "headline_zh": "美国政府对 Anthropic 模型的禁令从来都与 AI 越狱无关",
+          "summary_short_zh": "特朗普政府迫使 Anthropic 下架最新网络安全模型的决定，可能是过激反应，也可能是报复，或两者兼有。但传递的信号很明确：AI 行业也无法免受美国政府的干预。",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "bad7d767941a",
@@ -3197,7 +3311,11 @@
               "published_at": "2026-06-16T00:21:36+00:00"
             }
           ],
-          "route": "/hot/2026-06-16/topic/cloudflare-captcha-on-at-least-one-ampersand/"
+          "route": "/hot/2026-06-16/topic/cloudflare-captcha-on-at-least-one-ampersand/",
+          "headline_zh": "含至少一个 & 符号时触发 Cloudflare 验证码",
+          "summary_short_zh": "<p><strong>今天才知道：</strong> <a href=\" 含至少一个 & 符号时触发验证码</a></p> <p>我用 Cloudflare 的验证码（他们如今称之为“Web 应用防火墙 &gt; 自定义规则 &gt; 托管质询”），防止爬虫过度抓取本站的 <a href=\" 搜索引擎</a>",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "ef27a191ea6f",
@@ -3235,7 +3353,11 @@
               "published_at": "Mon, 15 Jun 2026 23:51:44 +0000"
             }
           ],
-          "route": "/hot/2026-06-16/topic/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-google-s-israel-ice-ties/"
+          "route": "/hot/2026-06-16/topic/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-google-s-israel-ice-ties/",
+          "headline_zh": "因 Google 与以色列及 ICE 的关系，Sundar Pichai 在斯坦福毕业典礼上遭嘘声和退场抗议",
+          "summary_short_zh": "AI 再次成为大学毕业典礼抗议的焦点，这次抗议的是 Google 在国防合同项目中使用这项技术。",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "ec0d640abb19",
@@ -3273,7 +3395,11 @@
               "published_at": "2026-06-15T14:10:27-04:00"
             }
           ],
-          "route": "/hot/2026-06-16/topic/trump-s-anthropic-shutdown-just-made-the-case-for-non-american-ai/"
+          "route": "/hot/2026-06-16/topic/trump-s-anthropic-shutdown-just-made-the-case-for-non-american-ai/",
+          "headline_zh": "特朗普叫停 Anthropic，为采用非美国 AI 提供了有力理由",
+          "summary_short_zh": "应华盛顿要求，Anthropic 在周末突然下线了其最新、最强大的 AI 模型。这家美国公司表示，白宫要求其禁止所有外国公民访问，包括公司自己的外籍员工，因此它几乎别无选择。",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
