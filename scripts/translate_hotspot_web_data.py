@@ -132,9 +132,13 @@ def batch_translate(texts: list[str], model: str, batch_size: int = 40) -> list[
                 print(f"  Batch {number} attempt {attempt + 1} failed: {e}")
                 if attempt < BATCH_ATTEMPTS - 1:
                     time.sleep(2)
-        # Keeping the original text is the only honest fallback: a placeholder
-        # would read as a translation, and an empty string would delete content.
-        return number, [(idx, orig) for idx, orig in batch], False
+        # None, not the English text. Writing the source string into the _zh
+        # field looks like a completed translation to the next run, which skips
+        # a day on exactly that signal -- so one failed batch used to freeze its
+        # day as permanently untranslated. Recording nothing leaves the field
+        # absent, the site falls back to English for it as it always has, and
+        # the next run picks the day up again.
+        return number, [(idx, None) for idx, _ in batch], False
 
     jobs = list(enumerate(batches, start=1))
     workers = max(1, min(BATCH_CONCURRENCY, total))
@@ -142,7 +146,7 @@ def batch_translate(texts: list[str], model: str, batch_size: int = 40) -> list[
         for number, pairs, ok in pool.map(_run, jobs):
             for idx, value in pairs:
                 results[idx] = value
-            state = "" if ok else " (untranslated, kept original)"
+            state = "" if ok else " (no answer; left for the next run)"
             print(f"  Translated batch {number}/{total} ({len(pairs)} items){state}")
 
     return results
@@ -240,18 +244,28 @@ def collect_and_translate(data: dict, model: str) -> dict:
     translated = batch_translate(all_texts, model)
 
     # Write back as _zh fields
-    key_takeaways_map: dict[int, list[str]] = {}  # obj_id -> list of translated items
+    # A list field is all or nothing: a _zh list with a hole in it would be
+    # rendered against the wrong source items.
+    lists: dict[tuple[int, str], list] = {}
+    holders: dict[tuple[int, str], dict] = {}
+    broken: set[tuple[int, str]] = set()
+
     for obj, field, idx in registry:
         zh = translated[idx]
         if field.endswith("[]"):
-            base = field[:-2]
-            obj_id = id(obj)
-            if obj_id not in key_takeaways_map:
-                key_takeaways_map[obj_id] = []
-            key_takeaways_map[obj_id].append(zh)
-            obj[f"{base}_zh"] = key_takeaways_map[obj_id]
-        else:
+            key = (id(obj), field[:-2])
+            holders[key] = obj
+            if zh is None:
+                broken.add(key)
+                continue
+            lists.setdefault(key, []).append(zh)
+        elif zh is not None:
             obj[f"{field}_zh"] = zh
+
+    for key, values in lists.items():
+        if key in broken:
+            continue
+        holders[key][f"{key[1]}_zh"] = values
 
     return data
 
@@ -261,11 +275,22 @@ def collect_and_translate(data: dict, model: str) -> dict:
 # ---------------------------------------------------------------------------
 
 def _has_zh_fields(data: dict) -> bool:
-    """Quick check: does the payload already have _zh fields on featured_topics?"""
-    for topic in data.get("featured_topics", []):
-        if "headline_zh" not in topic:
+    """Has this payload really been translated?
+
+    Presence of the field is not enough. An earlier fallback wrote the English
+    source into _zh when a batch failed, which reads as "translated" and made
+    the day permanently ineligible for another attempt. Treating a _zh that
+    merely repeats its source as untranslated lets those days heal by
+    themselves on the next run.
+    """
+    topics = data.get("featured_topics", [])
+    if not topics:
+        return False
+    for topic in topics:
+        zh = topic.get("headline_zh")
+        if zh is None or zh == topic.get("headline"):
             return False
-    return bool(data.get("featured_topics"))
+    return True
 
 
 def translate_file(json_path: Path, model: str) -> bool:

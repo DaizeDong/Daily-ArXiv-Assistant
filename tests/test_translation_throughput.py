@@ -80,9 +80,12 @@ class ConcurrencyTests(unittest.TestCase):
 
         self.assertLessEqual(peak, 3, "the concurrency limit is not respected")
 
-    def test_a_batch_that_never_answers_keeps_its_original_text(self):
-        # A placeholder would read as a translation and an empty string would
-        # delete content. Keeping the English is the only honest outcome.
+    def test_a_batch_that_never_answers_records_nothing(self):
+        # Not the English text: written into a _zh field it reads as a finished
+        # translation, and the next run skips a day on exactly that signal, so
+        # one failed batch used to freeze its day forever. None leaves the field
+        # absent, the site falls back to English as it always has, and the day
+        # is picked up again next time.
         def always_fails(model, messages):
             raise RuntimeError("chain down")
 
@@ -91,7 +94,20 @@ class ConcurrencyTests(unittest.TestCase):
              mock.patch.object(tr, "BATCH_ATTEMPTS", 1):
             out = tr.batch_translate(texts, model="x", batch_size=2)
 
-        self.assertEqual(out, texts)
+        self.assertEqual(out, [None, None])
+
+    def test_a_day_whose_zh_only_repeats_the_english_is_retried(self):
+        # Days frozen by the earlier fallback have to heal by themselves; there
+        # are months of them and nobody is going to find them by hand.
+        frozen = {"featured_topics": [
+            {"headline": "A model ships", "headline_zh": "A model ships"},
+        ]}
+        real = {"featured_topics": [
+            {"headline": "A model ships", "headline_zh": "一个模型发布"},
+        ]}
+        self.assertFalse(tr._has_zh_fields(frozen),
+                         "a _zh that repeats its source counted as translated")
+        self.assertTrue(tr._has_zh_fields(real))
 
     def test_chinese_text_is_never_sent_to_the_model(self):
         sent = []
