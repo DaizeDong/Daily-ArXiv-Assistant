@@ -170,20 +170,30 @@ def collect_and_translate(data: dict, model: str) -> dict:
     registry: list[tuple[dict, str, int]] = []  # (obj, field_name, index_in_all_texts)
 
     def register(obj: dict, field: str):
+        # "Already translated" has to mean the same thing here as it does in
+        # _has_zh_fields, or the two disagree and the disagreement is a silent
+        # infinite no-op: that function picks a day BECAUSE a _zh merely repeats
+        # its English source, and this one then skips every field BECAUSE a _zh
+        # is present. The day is reselected, rewritten unchanged, and reselected
+        # again on every future run, translating nothing.
         zh_key = f"{field}_zh"
-        if zh_key in obj and obj[zh_key]:
-            return  # already translated
         val = obj.get(field, "")
+        existing = obj.get(zh_key)
+        if existing and existing != val:
+            return  # already translated
         if isinstance(val, str):
             idx = len(all_texts)
             all_texts.append(val)
             registry.append((obj, field, idx))
 
     def register_list(obj: dict, field: str):
+        # Same rule as register(): a _zh list that just repeats its source is
+        # not a translation, and treating it as one strands the day forever.
         zh_key = f"{field}_zh"
-        if zh_key in obj and obj[zh_key]:
-            return  # already translated
         val = obj.get(field, [])
+        existing = obj.get(zh_key)
+        if existing and existing != val:
+            return  # already translated
         if isinstance(val, list):
             for item in val:
                 if isinstance(item, str):

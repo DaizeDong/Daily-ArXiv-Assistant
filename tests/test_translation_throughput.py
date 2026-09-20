@@ -96,6 +96,39 @@ class ConcurrencyTests(unittest.TestCase):
 
         self.assertEqual(out, [None, None])
 
+    def test_an_echoed_field_is_actually_sent_again(self):
+        # The two "already translated" tests have to agree. _has_zh_fields picks
+        # a day BECAUSE a _zh merely repeats its source; if the field collector
+        # then skips that field BECAUSE a _zh is present, the day is rewritten
+        # unchanged and reselected on every future run, translating nothing. It
+        # never fails, never logs anything odd, and never finishes. Measured on
+        # 2026-09-20: 27 days rewritten, zero new _zh fields in the ones that
+        # had been echoed.
+        sent = []
+
+        def recording(model, messages):
+            import json as _json
+            payload = _json.loads(messages[-1]["content"])
+            sent.extend(payload)
+            return _json.dumps(["译" for _ in payload], ensure_ascii=False)
+
+        data = {"featured_topics": [{
+            "headline": "A model ships",
+            "headline_zh": "A model ships",          # echoed: not a translation
+            "summary": "Real summary",
+            "summary_zh": "真实摘要",                 # genuinely translated
+        }]}
+
+        with mock.patch.object(tr, "_chat", recording):
+            out = tr.collect_and_translate(data, model="x")
+
+        self.assertIn("A model ships", sent,
+                      "the echoed field was skipped, so the day can never heal")
+        self.assertNotIn("Real summary", sent,
+                         "a field that was genuinely translated was paid for twice")
+        self.assertEqual(out["featured_topics"][0]["headline_zh"], "译")
+        self.assertEqual(out["featured_topics"][0]["summary_zh"], "真实摘要")
+
     def test_a_day_whose_zh_only_repeats_the_english_is_retried(self):
         # Days frozen by the earlier fallback have to heal by themselves; there
         # are months of them and nobody is going to find them by hand.
