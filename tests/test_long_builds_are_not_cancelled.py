@@ -49,6 +49,33 @@ class LongBuildsAreNotCancelledTests(unittest.TestCase):
                     "which reads like nothing went wrong." % name,
                 )
 
+    def test_tar_writing_a_windows_path_forces_local(self):
+        # These jobs run on Windows runners, where RUNNER_TEMP is an absolute
+        # path starting with a drive letter. GNU tar reads the "C:" in it as the
+        # host half of a host:path remote spec, answers "Cannot connect to C:
+        # resolve failed", and exits 128. Reproduced and fixed locally before
+        # this was written: the same command fails without the flag and writes
+        # the archive with it.
+        for path in sorted(WORKFLOW_DIR.glob("*.y*ml")):
+            text = path.read_text(encoding="utf-8")
+            for block in re.findall(r"(?ms)^\s*run: \|\n(.*?)(?=\n\s*- |\n\s*\w+:\n|\Z)", text):
+                if not re.search(r"(?m)^\s*tar\b", block):
+                    continue
+                if not re.search(r"RUNNER_TEMP|runner\.temp", block):
+                    continue
+                # Comments out, or this passes on the comment that explains the
+                # flag rather than on the flag. Checked by deleting the flag and
+                # watching the first version of this test stay green.
+                command = "\n".join(line for line in block.splitlines()
+                                    if not line.lstrip().startswith("#"))
+                with self.subTest(workflow=path.name):
+                    self.assertIn(
+                        "--force-local", command,
+                        "%s tars into a Windows path without --force-local, so "
+                        "tar will treat the drive letter as a hostname and the "
+                        "step will fail with exit 128" % path.name,
+                    )
+
     def test_every_workflow_that_sets_concurrency_says_which_it_wants(self):
         # An omitted cancel-in-progress defaults to false, which is the safe
         # side -- but silence makes the two classes indistinguishable to a

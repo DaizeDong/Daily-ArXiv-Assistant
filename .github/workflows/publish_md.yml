@@ -232,7 +232,14 @@ jobs:
       - name: Archive Pages artifact
         shell: bash
         run: |
+          # --force-local, because this job runs on a Windows runner. RUNNER_TEMP
+          # is an absolute Windows path, and GNU tar reads the "C:" in it as the
+          # host half of a host:path remote spec: it answers "Cannot connect to
+          # C: resolve failed" and exits 128. Nothing else in the run is wrong
+          # when this happens -- the translations are already committed by the
+          # step above -- but the site cannot publish.
           tar \
+            --force-local \
             --dereference --hard-dereference \
             --directory "dist" \
             -cvf "$RUNNER_TEMP/artifact.tar" \
