@@ -205,6 +205,91 @@ class DeadlineTests(unittest.TestCase):
 
             self.assertEqual(len(translated), 3)
 
+    def test_days_are_translated_at_the_same_time(self):
+        # Days are independent: each reads one file, calls the model for its own
+        # fields, and writes that file back. Running them one after another left
+        # only BATCH_CONCURRENCY calls in flight while hundreds waited, which is
+        # where an eleven hour estimate came from.
+        import tempfile
+
+        in_flight = 0
+        peak = 0
+        lock = threading.Lock()
+
+        def slow_day(path, model):
+            nonlocal in_flight, peak
+            with lock:
+                in_flight += 1
+                peak = max(peak, in_flight)
+            time.sleep(0.1)
+            with lock:
+                in_flight -= 1
+
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            self._targets(root, 8)
+            with mock.patch.object(tr, "REPO_ROOT", root), \
+                 mock.patch.object(tr, "DEADLINE_MINUTES", 60), \
+                 mock.patch.object(tr, "DAY_CONCURRENCY", 4), \
+                 mock.patch.object(tr, "translate_file", slow_day), \
+                 mock.patch("sys.argv", ["translate"]):
+                tr.main()
+
+        self.assertGreater(peak, 1, "days were translated one at a time")
+        self.assertLessEqual(peak, 4, "the day concurrency limit is not respected")
+
+    def test_days_already_running_at_the_deadline_are_allowed_to_finish(self):
+        # The deadline gates admission, not completion. Killing a day mid-flight
+        # throws away everything it has already paid for, and a half-translated
+        # day written back reads as translated to the next run, which skips on
+        # exactly that signal -- so its untranslated half would never be redone.
+        import tempfile
+
+        started = []
+        finished = []
+        lock = threading.Lock()
+
+        def slow_day(path, model):
+            with lock:
+                started.append(path.stem)
+            time.sleep(0.3)
+            with lock:
+                finished.append(path.stem)
+
+        import contextlib
+        import io
+
+        out = io.StringIO()
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            self._targets(root, 6)
+            # A deadline that expires while the first wave is still running.
+            with mock.patch.object(tr, "REPO_ROOT", root), \
+                 mock.patch.object(tr, "DEADLINE_MINUTES", 0.002), \
+                 mock.patch.object(tr, "DAY_CONCURRENCY", 2), \
+                 mock.patch.object(tr, "translate_file", slow_day), \
+                 mock.patch("sys.argv", ["translate"]), \
+                 contextlib.redirect_stdout(out):
+                tr.main()
+
+        # That a started day runs to completion is guaranteed by the executor,
+        # not by this file -- a running thread cannot be cancelled, so asserting
+        # it here could never fail. What this file does control is the
+        # accounting: every day the deadline admitted has to be counted and
+        # reported, or the next run is told to resume from the wrong place and
+        # the difference is silently retranslated or silently skipped.
+        self.assertEqual(sorted(started), sorted(finished))
+        self.assertLess(len(started), 6, "the deadline admitted every day anyway")
+        self.assertIn(
+            "Translated %d day(s)" % len(finished), out.getvalue(),
+            "the run reported a different number of days than it actually "
+            "completed: %s" % out.getvalue().strip().splitlines()[-1:],
+        )
+        self.assertIn(
+            "with %d day(s) left" % (6 - len(started)), out.getvalue(),
+            "the reported remainder does not match what was left unadmitted",
+        )
+
     def test_the_deadline_leaves_the_job_room_to_finish(self):
         # The job is killed at 360 minutes and the steps after translation
         # (validate, persist, build, render, deploy) need their own time.

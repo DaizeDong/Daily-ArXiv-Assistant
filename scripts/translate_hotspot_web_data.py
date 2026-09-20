@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import argparse
+import collections
 import concurrent.futures
 import json
 import os
@@ -53,6 +54,15 @@ CHAIN_BUDGET_S = 900
 #: twenty days and saved none of them. Finishing early with a partial result
 #: that is kept beats finishing late with a complete one that is discarded.
 DEADLINE_MINUTES = int(os.environ.get("TRANSLATE_DEADLINE_MINUTES", "270"))
+
+#: Days translated at once. Days are independent: each reads one file,
+#: calls the model for its own fields, and writes that file back. Running
+#: them one after another left only BATCH_CONCURRENCY calls in flight at
+#: any moment while hundreds of independent ones waited their turn, which
+#: is where an eleven hour estimate came from. Total concurrency is this
+#: times BATCH_CONCURRENCY, so raise either with that product in mind:
+#: every call is a provider CLI process, and the machine has to hold them.
+DAY_CONCURRENCY = int(os.environ.get("TRANSLATE_DAY_CONCURRENCY", "5"))
 
 #: Batches sent at once. The batches of one day are disjoint slices of the
 #: same list, so nothing is shared but the results array each writes its own
@@ -332,23 +342,40 @@ def main():
         targets = sorted(out_dir.glob("202*.json"))
 
     deadline = time.monotonic() + DEADLINE_MINUTES * 60
+    pending = collections.deque(p for p in targets if p.exists())
+    for missing in (p for p in targets if not p.exists()):
+        print(f"Skipping {missing} (not found)")
+
     done = 0
-    for position, path in enumerate(targets):
-        if not path.exists():
-            print(f"Skipping {path} (not found)")
-            continue
-        if time.monotonic() >= deadline:
-            # Checked between days, never inside one: a half-translated day
-            # written back would look translated to the next run, which skips on
-            # exactly that signal, and the untranslated half would never be
+    in_flight: dict = {}
+    with concurrent.futures.ThreadPoolExecutor(max_workers=DAY_CONCURRENCY) as pool:
+        while pending or in_flight:
+            # The deadline gates ADMISSION, not completion: days already running
+            # are allowed to finish and be written. Stopping them mid-day would
+            # throw away everything they had paid for, and a half-translated day
+            # written back would look translated to the next run -- which skips
+            # on exactly that signal -- so its untranslated half would never be
             # revisited.
-            remaining = len(targets) - position
-            print(f"Stopping after {DEADLINE_MINUTES} minutes with {remaining} "
-                  f"day(s) left. Translated {done} day(s) this run; they are "
-                  f"persisted, and the next run resumes from {path.stem}.")
-            break
-        translate_file(path, args.model)
-        done += 1
+            while pending and len(in_flight) < DAY_CONCURRENCY and time.monotonic() < deadline:
+                path = pending.popleft()
+                in_flight[pool.submit(translate_file, path, args.model)] = path
+            if not in_flight:
+                break
+            finished, _ = concurrent.futures.wait(
+                in_flight, return_when=concurrent.futures.FIRST_COMPLETED)
+            for future in finished:
+                path = in_flight.pop(future)
+                try:
+                    future.result()
+                except Exception as exc:  # noqa: BLE001 - one bad day is not the run
+                    print(f"  {path.stem} failed: {exc}")
+                else:
+                    done += 1
+
+    if pending:
+        print(f"Stopping after {DEADLINE_MINUTES} minutes with {len(pending)} "
+              f"day(s) left. Translated {done} day(s) this run; they are "
+              f"persisted, and the next run resumes from {pending[0].stem}.")
 
     # Copy to web/public
     import shutil
