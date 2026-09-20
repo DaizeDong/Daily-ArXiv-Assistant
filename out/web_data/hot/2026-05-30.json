@@ -1655,7 +1655,14 @@
           "published_at": "Fri, 29 May 2026 23:36:58 +0000"
         }
       ],
-      "route": "/hot/2026-05-30/topic/comprehensive-observability-for-amazon-sagemaker-ai-llm-inference-from-gpu-utilization-to-llm-quality/"
+      "route": "/hot/2026-05-30/topic/comprehensive-observability-for-amazon-sagemaker-ai-llm-inference-from-gpu-utilization-to-llm-quality/",
+      "headline_zh": "Amazon SageMaker AI 大语言模型推理的全面可观测性：从 GPU 利用率到模型质量",
+      "summary_short_zh": "本文展示了一套基于 Amazon Managed Grafana 仪表板的全面可观测性方案，可从质量和数量两个维度，全面了解通过推理组件在 Amazon SageMaker AI 端点上提供服务的大语言模型",
+      "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "本文展示了一套基于 Amazon Managed Grafana 仪表板的全面可观测性方案，可从质量和数量两个维度全面了解大语言模型的表现，这些模型部署在 Amazon SageMaker ..."
+      ]
     },
     {
       "topic_id": "728497cf1af6",
@@ -1695,7 +1702,14 @@
           "published_at": "Fri, 29 May 2026 17:30:00 +0000"
         }
       ],
-      "route": "/hot/2026-05-30/topic/9-demos-of-gemini-omni-and-gemini-3-5-in-action/"
+      "route": "/hot/2026-05-30/topic/9-demos-of-gemini-omni-and-gemini-3-5-in-action/",
+      "headline_zh": "Gemini Omni 和 Gemini 3.5 的 9 个应用演示",
+      "summary_short_zh": "Gemini Omni 和 Gemini 3.5 主视觉图",
+      "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Gemini Omni 和 Gemini 3.5 主视觉图"
+      ]
     },
     {
       "topic_id": "3004a479c745",
@@ -1741,7 +1755,14 @@
           "published_at": "2026-05-29T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-05-30/topic/use-grok-in-kilo-code/"
+      "route": "/hot/2026-05-30/topic/use-grok-in-kilo-code/",
+      "headline_zh": "在 Kilo Code 中使用 Grok",
+      "summary_short_zh": "我们最快的编程模型 Grok Build 0.1 现已通过 xAI API 开启公测",
+      "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "我们最快的编程模型 Grok Build 0.1 现已通过 xAI API 开启公测。"
+      ]
     },
     {
       "topic_id": "e0f15a198a81",
@@ -1781,7 +1802,14 @@
           "published_at": "Fri, 29 May 2026 12:00:00 +0000"
         }
       ],
-      "route": "/hot/2026-05-30/topic/check-out-real-life-ai-prototypes-from-the-futures-lab/"
+      "route": "/hot/2026-05-30/topic/check-out-real-life-ai-prototypes-from-the-futures-lab/",
+      "headline_zh": "了解 Futures Lab 面向真实场景的 AI 原型。",
+      "summary_short_zh": "<img src=\" />滑铁卢大学学生开发手语导师等 AI 原型，重塑教育与工作的未来",
+      "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FutureLabs_social.max-600x600.format-webp.webp\" />滑铁卢大学学生开发 AI 原型，例如手语 ..."
+      ]
     },
     {
       "topic_id": "61c92dde0de9",
@@ -1821,7 +1849,14 @@
           "published_at": "Fri, 29 May 2026 12:00:00 GMT"
         }
       ],
-      "route": "/hot/2026-05-30/topic/boston-children-s-uses-ai-to-unlock-new-diagnoses/"
+      "route": "/hot/2026-05-30/topic/boston-children-s-uses-ai-to-unlock-new-diagnoses/",
+      "headline_zh": "波士顿儿童医院借助 AI 取得诊断新突破",
+      "summary_short_zh": "波士顿儿童医院利用 OpenAI 技术改善患者护理、减轻运营负担，并帮助诊断 40 多例罕见病病例",
+      "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "波士顿儿童医院利用 OpenAI 技术改善患者护理、减轻运营负担，并帮助诊断 40 多例罕见病病例。"
+      ]
     }
   ],
   "category_sections": [
@@ -1874,7 +1909,11 @@
               "published_at": "Fri, 29 May 2026 12:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-05-30/topic/how-braintrust-turns-customer-requests-into-code-with-codex/"
+          "route": "/hot/2026-05-30/topic/how-braintrust-turns-customer-requests-into-code-with-codex/",
+          "headline_zh": "Braintrust 如何借助 Codex 将客户需求转化为代码",
+          "summary_short_zh": "Braintrust 工程师如何使用搭载 GPT-5.5 的 Codex 更快地开展实验和编写代码",
+          "why_it_matters_zh": "此次产品发布有 2 个独立来源报道。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "fea3594d8536",
@@ -1912,7 +1951,11 @@
               "published_at": "2026-05-29T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-30/topic/cohere-and-mila-partner-to-advance-quebec-french-language-in-ai/"
+          "route": "/hot/2026-05-30/topic/cohere-and-mila-partner-to-advance-quebec-french-language-in-ai/",
+          "headline_zh": "Cohere 与 Mila 携手推进 AI 对魁北克法语的支持",
+          "summary_short_zh": "Cohere 和 Mila 宣布计划开展新的学术研究合作，着力改进跨语言、跨文化的 AI 评估，首先聚焦魁北克的法语文化语境",
+          "why_it_matters_zh": "该产品发布共出现在 1 个独立信源中。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "4101ca4b85d9",
@@ -1950,7 +1993,10 @@
               "published_at": "2026-05-29T03:24:24+00:00"
             }
           ],
-          "route": "/hot/2026-05-30/topic/dell-enterprise-hub-at-dell-tech-world-2026-new-models-new-platforms-faster-to-production/"
+          "route": "/hot/2026-05-30/topic/dell-enterprise-hub-at-dell-tech-world-2026-new-models-new-platforms-faster-to-production/",
+          "headline_zh": "Dell Tech World 2026 上的 Dell Enterprise Hub：新模型、新平台，更快投入生产",
+          "why_it_matters_zh": "该产品发布共出现在 1 个独立信源中。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "371f0a44865f",
@@ -1988,7 +2034,11 @@
               "published_at": "Fri, 29 May 2026 03:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-05-30/topic/strengthening-societal-resilience-with-rosalind-biodefense/"
+          "route": "/hot/2026-05-30/topic/strengthening-societal-resilience-with-rosalind-biodefense/",
+          "headline_zh": "以 Rosalind Biodefense 增强社会韧性",
+          "summary_short_zh": "OpenAI 推出 Rosalind Biodefense，向经审核的开发者及美国政府合作伙伴扩大 GPT-Rosalind 的可信访问权限，借助前沿 AI 推进生物防御、公共卫生与大流行防范",
+          "why_it_matters_zh": "该产品发布共出现在 1 个独立信源中。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "ccb907bc6346",
@@ -2026,7 +2076,11 @@
               "published_at": "Fri, 29 May 2026 00:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-05-30/topic/how-together-ai-built-the-world-s-fastest-speech-to-text-stack/"
+          "route": "/hot/2026-05-30/topic/how-together-ai-built-the-world-s-fastest-speech-to-text-stack/",
+          "headline_zh": "Together AI 如何打造出全球最快的语音转文字技术栈",
+          "summary_short_zh": "Together AI 把 ASR 当作全链路系统问题而非单纯的 GPU 推理问题，从而在 Artificial Analysis 上构建出最快的语音转文字技术栈",
+          "why_it_matters_zh": "该产品发布共出现在 1 个独立信源中。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2076,7 +2130,11 @@
               "published_at": "Fri, 29 May 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-05-30/topic/llama-use-f16-mask-for-fa-to-save-vram-by-am17an-pull-request-23764-ggml-org-llama-cpp/"
+          "route": "/hot/2026-05-30/topic/llama-use-f16-mask-for-fa-to-save-vram-by-am17an-pull-request-23764-ggml-org-llama-cpp/",
+          "headline_zh": "llama：为 FA 使用 f16 掩码以节省显存，作者 am17an · Pull Request #23764 · ggml-org/llama.cpp",
+          "summary_short_zh": "已合并的 PR ggml-org/llama.cpp#23764 将 KQ 掩码的分配方式从 f32 改为 f16，降低了 llama.cpp Flash Attention 的显存占用；当后端消费 f16 掩码时，可避免在计算缓冲区中预留一份用不上的 f32 掩码。",
+          "why_it_matters_zh": "该收购共出现在 1 个独立信源中。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "66c029205651",
@@ -2114,7 +2172,11 @@
               "published_at": "Fri, 29 May 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-05-30/topic/hf-models-page-now-has-a-base-only-toggle-to-filter-out-finetunes-quants-etc/"
+          "route": "/hot/2026-05-30/topic/hf-models-page-now-has-a-base-only-toggle-to-filter-out-finetunes-quants-etc/",
+          "headline_zh": "HF 模型页面新增「Base only」开关，可过滤掉微调版/量化版等",
+          "summary_short_zh": "图中展示的是 Hugging Face 模型页面，新增的「Base only」开关被圈出：image。",
+          "why_it_matters_zh": "该收购共出现在 1 个独立信源中。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -2166,7 +2228,11 @@
               "published_at": "Fri, 29 May 2026 17:27:13 +0000"
             }
           ],
-          "route": "/hot/2026-05-30/topic/after-nvidia-s-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/"
+          "route": "/hot/2026-05-30/topic/after-nvidia-s-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
+          "headline_zh": "继英伟达 200 亿美元的「非人才收购」之后，AI 芯片初创公司 Groq 据称正在募资 6.5 亿美元",
+          "summary_short_zh": "据 Axios 报道，芯片厂商 Groq 正寻求募集 6.5 亿美元内部资金，业务重心从硬件转向 AI 推理，即优化 AI 模型响应提示请求的过程",
+          "why_it_matters_zh": "该行业动向共出现在 2 个独立信源中。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "7cb343337f52",
@@ -2204,7 +2270,11 @@
               "published_at": "2026-05-29T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-30/topic/new-compute-partnership-with-anthropic/"
+          "route": "/hot/2026-05-30/topic/new-compute-partnership-with-anthropic/",
+          "headline_zh": "与 Anthropic 达成新的算力合作",
+          "summary_short_zh": "SpaceXAI 已与 Anthropic 签署协议，提供 Colossus 1 的使用权限",
+          "why_it_matters_zh": "该行业动向共出现在 1 个独立信源中。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "c72fd2cc4f43",
@@ -2242,7 +2312,10 @@
               "published_at": "2026-05-30T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-30/topic/gemini-flash-gets-pricey-ai-act-delays-agents-drive-online-traffic/"
+          "route": "/hot/2026-05-30/topic/gemini-flash-gets-pricey-ai-act-delays-agents-drive-online-traffic/",
+          "headline_zh": "Gemini Flash 涨价、AI 法案延期、智能体带动线上流量",
+          "why_it_matters_zh": "该内容来自 1 个独立信源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "335d38283523",
@@ -2280,7 +2353,10 @@
               "published_at": "2026-05-30T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-30/topic/import-ai-457-ai-stuxnet-cursed-muon-optimizer-and-positive-alignment/"
+          "route": "/hot/2026-05-30/topic/import-ai-457-ai-stuxnet-cursed-muon-optimizer-and-positive-alignment/",
+          "headline_zh": "Import AI 457：AI 震网病毒；被诅咒的 Muon 优化器；以及正向对齐",
+          "why_it_matters_zh": "该内容来自 1 个独立信源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "6542d166fc5f",
@@ -2318,7 +2394,10 @@
               "published_at": "2026-05-30T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-30/topic/import-ai-458-reckoning-with-the-future-and-a-singularity-story/"
+          "route": "/hot/2026-05-30/topic/import-ai-458-reckoning-with-the-future-and-a-singularity-story/",
+          "headline_zh": "Import AI 458：直面未来；以及一个奇点故事",
+          "why_it_matters_zh": "该内容来自 1 个独立信源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -2362,7 +2441,11 @@
               "published_at": "2026-05-30T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-30/topic/aurora-tilde-research-github/"
+          "route": "/hot/2026-05-30/topic/aurora-tilde-research-github/",
+          "headline_zh": "Aurora（Tilde Research，GitHub）",
+          "summary_short_zh": "Aurora（Tilde Research，GitHub",
+          "why_it_matters_zh": "该工具来自 1 个独立信源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "2329941b05a2",
@@ -2400,7 +2483,11 @@
               "published_at": "Fri, 29 May 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-05-30/topic/a-subtle-but-important-rl-failure-mode-got-called-out/"
+          "route": "/hot/2026-05-30/topic/a-subtle-but-important-rl-failure-mode-got-called-out/",
+          "headline_zh": "一个细微但重要的强化学习失效模式被指出",
+          "summary_short_zh": "@ClementDelangue 重点推荐了 Hugging Face 的一篇深度分析，探讨为什么许多使用工具的多轮强化学习训练循环会悄无声息地出问题。",
+          "why_it_matters_zh": "该工具来自 1 个独立信源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "85620e3c0f39",
@@ -2438,7 +2525,11 @@
               "published_at": "Fri, 29 May 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-05-30/topic/open-infrastructure-is-getting-more-enterprise-shaped/"
+          "route": "/hot/2026-05-30/topic/open-infrastructure-is-getting-more-enterprise-shaped/",
+          "headline_zh": "开放基础设施正变得越来越企业化",
+          "summary_short_zh": "@ClementDelangue 指出，Hugging Face 上约 50% 的模型和数据集现已设为私有，且随着 HF 存储/buckets 服务的推出还在上升；这对「HF 只是公开开源基础设施」的看法是一个重要修正。",
+          "why_it_matters_zh": "该工具来自 1 个独立信源。",
+          "category_zh": "工具"
         }
       ]
     },
@@ -2482,7 +2573,10 @@
               "published_at": "2026-05-30T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-30/topic/gpt-5-5-outperforms-and-hallucinates-kimi-k2-6-leads-open-llms-ai-strains-climate-pledges-strategic-thinking-in-llms-vs-humans/"
+          "route": "/hot/2026-05-30/topic/gpt-5-5-outperforms-and-hallucinates-kimi-k2-6-leads-open-llms-ai-strains-climate-pledges-strategic-thinking-in-llms-vs-humans/",
+          "headline_zh": "GPT-5.5 表现更强（也更爱幻觉）、Kimi K2.6 领跑开源大模型、AI 给气候承诺带来压力、大模型与人类的策略性思维对比",
+          "why_it_matters_zh": "该研究论文来自 1 个独立信源。",
+          "category_zh": "研究"
         }
       ]
     }
@@ -2528,7 +2622,11 @@
               "published_at": "2026-05-29T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-30/topic/connect-grok-to-hermes-agent/"
+          "route": "/hot/2026-05-30/topic/connect-grok-to-hermes-agent/",
+          "headline_zh": "将 Grok 接入 Hermes Agent",
+          "summary_short_zh": "在 Nous Research 开源、可自我改进的 Hermes 智能体中使用你自己的 Grok 账号和订阅",
+          "why_it_matters_zh": "该产品发布来自 1 个独立信源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "e9f25af46c78",
@@ -2566,7 +2664,11 @@
               "published_at": "2026-05-29T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-30/topic/introducing-grok-build/"
+          "route": "/hot/2026-05-30/topic/introducing-grok-build/",
+          "headline_zh": "推出 Grok Build",
+          "summary_short_zh": "我们速度最快的编程模型 Grok Build 0.1 现已通过 xAI API 开启公开测试。",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "33737aac8fca",
@@ -2604,7 +2706,11 @@
               "published_at": "2026-05-29T07:58:40-04:00"
             }
           ],
-          "route": "/hot/2026-05-30/topic/this-ai-startup-will-clean-your-home-for-free-to-train-future-robots/"
+          "route": "/hot/2026-05-30/topic/this-ai-startup-will-clean-your-home-for-free-to-train-future-robots/",
+          "headline_zh": "这家 AI 初创公司将免费帮你打扫房屋，以训练未来的机器人",
+          "summary_short_zh": "AI 训练初创公司 Shift 想免费帮你打扫房屋。不过，无论它的网站怎么说，免费总有条件：它会拍下保洁人员擦洗、吸尘、除尘、整理和清洗的过程，并用这些视频训练机器人。",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "06dbeb3dddfa",
@@ -2654,7 +2760,11 @@
               "published_at": "2026-05-30T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-30/topic/claude-opus-4-8-a-modest-but-tangible-improvement/"
+          "route": "/hot/2026-05-30/topic/claude-opus-4-8-a-modest-but-tangible-improvement/",
+          "headline_zh": "Claude Opus 4.8：“小幅但切实的改进”",
+          "summary_short_zh": "<p>Anthropic 今天发布了 <a href=\" Opus 4.8</a>。我最喜欢的是发布公告中的这句话：</p> <blockquote> <p>用户会发现，Opus 4.8 相比前代有了小幅但切实的改进。",
+          "why_it_matters_zh": "有 4 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "9ab70b7d5d17",
@@ -2692,7 +2802,10 @@
               "published_at": "2026-05-30T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-30/topic/meta-launches-paid-tiers-across-its-apps/"
+          "route": "/hot/2026-05-30/topic/meta-launches-paid-tiers-across-its-apps/",
+          "headline_zh": "Meta 在旗下应用中推出付费套餐",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "6e8036d72d7e",
@@ -2736,7 +2849,11 @@
               "published_at": "Fri, 29 May 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-05-30/topic/stepfun-3-7-flash/"
+          "route": "/hot/2026-05-30/topic/stepfun-3-7-flash/",
+          "headline_zh": "StepFun 3.7 Flash",
+          "summary_short_zh": "StepFun 发布了 Step 3.7 Flash，这是一款多模态混合专家（MoE）模型，总参数量为 1960 亿，激活参数量为 110 亿，内置 18 亿参数的视觉 Transformer（ViT）。该模型主打高吞吐量智能体工作流，宣称速度最高达每秒 400 个 token，据称约 128GB 内存即可在本地运行。",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "2daa0e09d8c4",
@@ -2774,7 +2891,11 @@
               "published_at": "Fri, 29 May 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-05-30/topic/researchers-let-ai-models-run-a-simulated-society-claude-was-the-safest-and-grok-committed-180-crimes-and-went-extinct-within-4-days/"
+          "route": "/hot/2026-05-30/topic/researchers-let-ai-models-run-a-simulated-society-claude-was-the-safest-and-grok-committed-180-crimes-and-went-extinct-within-4-days/",
+          "headline_zh": "研究人员让 AI 模型运行模拟社会。Claude 最安全，Grok 却犯下 180 起罪行，并在 4 天内灭亡",
+          "summary_short_zh": "Emergence AI 推出了 Emergence World，这是一个用于长期模拟持续运行的 AI 智能体社会的实验室，对比由 Claude、ChatGPT/GPT-5-mini、Grok、Gemini 以及混合模型配置主导的模拟结果（Fortune）。",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "8d2e0441c0c6",
@@ -2812,7 +2933,11 @@
               "published_at": "Fri, 29 May 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-05-30/topic/google-is-widening-the-managed-agent-stack-from-api-to-consumer-product/"
+          "route": "/hot/2026-05-30/topic/google-is-widening-the-managed-agent-stack-from-api-to-consumer-product/",
+          "headline_zh": "Google 正将“托管智能体”技术栈从 API 拓展至消费级产品",
+          "summary_short_zh": "@_philschmid 展示了 Gemini API 中的 Managed Agents：只需一次 API 调用，即可创建一个支持代码执行、网页访问和文件读写的沙箱 Linux 环境。在消费端，@GeminiApp 已在美国推出 Gemini Spark。",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         }
       ]
     }
@@ -2854,7 +2979,11 @@
           "published_at": "2026-05-27T05:46:25Z"
         }
       ],
-      "route": "/hot/2026-05-30/topic/withkynam-vibecode-pro-max-kit/"
+      "route": "/hot/2026-05-30/topic/withkynam-vibecode-pro-max-kit/",
+      "headline_zh": "withkynam/vibecode-pro-max-kit",
+      "summary_short_zh": "你的 AI 会忘事，这套工具会记住。面向氛围编程者、产品负责人、CEO 和实干者的规范驱动编程框架，具备可自我改进的上下文记忆、12 个智能体和 32 项技能。消除上下文腐化，交付功能，告别混乱代码。支持 Claude Code 和 Codex，适配任何技术栈。30 秒",
+      "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "264434ef70db",
@@ -2901,7 +3030,11 @@
           "published_at": "Sat, 30 May 2026 03:17:17 +0000"
         }
       ],
-      "route": "/hot/2026-05-30/topic/nv-tlabs-gamma-world/"
+      "route": "/hot/2026-05-30/topic/nv-tlabs-gamma-world/",
+      "headline_zh": "nv-tlabs/Gamma-World",
+      "summary_short_zh": "Gamma-World 实现：突破双人限制的生成式多智能体世界建模",
+      "why_it_matters_zh": "有 2 个独立来源提及该工具。",
+      "category_zh": "工具"
     }
   ],
   "x_buzz": [

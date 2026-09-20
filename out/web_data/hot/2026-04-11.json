@@ -1506,7 +1506,17 @@
           "published_at": "2026-04-11T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-04-11/topic/bytedance-seed-releases-dola-seed-2-0-preview-and-seed-full-duplex-speech-llm/"
+      "route": "/hot/2026-04-11/topic/bytedance-seed-releases-dola-seed-2-0-preview-and-seed-full-duplex-speech-llm/",
+      "headline_zh": "字节跳动 Seed 发布 Dola-Seed-2.0-Preview 与 Seed 全双工语音大模型",
+      "summary_short_zh": "字节跳动 Seed 正式推出 Seed 2.0，此次公告标志着 Seed 模型家族的一次重大新版本发布",
+      "why_it_matters_zh": "字节跳动正在通用模型预览与语音交互两条线上同时交付具名模型产物，强化了其作为多模态领域重要竞争者的地位，并对消费级 AI 产品和企业语音交互界面产生影响。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "字节跳动 Seed 在 Arena 上发布了 Dola-Seed-2.0-Preview，为市场提供了一个可在公开模型对比环境中评测的具体预览版本。",
+        "该公司还推出了 Seed 全双工语音大模型，明确强调专注倾听、干扰抑制以及更自然的语音交互。",
+        "此次双线发布覆盖了技术栈中两个具有战略意义的层面：通过 Dola-Seed-2.0-Preview 推进前沿模型迭代，以及通过语音大模型实现实时对话体验。",
+        "字节跳动在这两项发布的同时公布了 2027 届基础模型校园招聘，释放出持续投入内部基础模型能力建设的信号。"
+      ]
     },
     {
       "topic_id": "03a51bfac675",
@@ -1555,7 +1565,17 @@
           "published_at": "2026-04-11T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-04-11/topic/zhipu-publishes-first-earnings-report-as-hong-kong-listed-02513-hk/"
+      "route": "/hot/2026-04-11/topic/zhipu-publishes-first-earnings-report-as-hong-kong-listed-02513-hk/",
+      "headline_zh": "智谱以港股上市公司 02513.HK 身份发布首份财报",
+      "summary_short_zh": "该页面重点介绍了智谱首份财报的发布，将其定位为公司在 AGI 探索与业务进展上的里程碑，并在最新动态栏目中作为重大公司更新呈现",
+      "why_it_matters_zh": "智谱的公开财务披露为投资者提供了一家中国主要 AI 公司少有的官方经营信号，也为评估该地区的商业化进展树立了一个参照基准。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "智谱将此次披露称为其首份财报，并将其定位为 AGI 与业务发展进程中的里程碑。",
+        "原文将该公司标注为港股上市的 02513.HK，使这一动态与公开市场监测直接相关。",
+        "智谱还宣布将于 2026 年 3 月 31 日发布 2025 全年业绩，为投资者确定了明确的下一个财报日期。",
+        "与产品预告或模型演示不同，这是一份正式的投资者关系材料，可用于估值、营收预期和商业化对比的判断依据。"
+      ]
     },
     {
       "topic_id": "7ba27fdd2327",
@@ -1604,7 +1624,17 @@
           "published_at": "2026-04-10T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-04-11/topic/runway-launches-runway-builders-runway-characters-and-runway-fund/"
+      "route": "/hot/2026-04-11/topic/runway-launches-runway-builders-runway-characters-and-runway-fund/",
+      "headline_zh": "Runway 推出 Runway Builders、Runway Characters 和 Runway Fund",
+      "summary_short_zh": "Runway Builders 正式亮相",
+      "why_it_matters_zh": "Runway 正在从单一的生成式视频模型迈向更完整的平台加资本战略，这对关注谁将掌控 AI 媒体技术栈的合作伙伴、竞争对手和投资者都很重要。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Runway 在其博客上正式公布了三项内容：Runway Builders、Runway Characters 和 Runway Fund。",
+        "Runway Builders 表明其产品方向正转向让第三方在 Runway 平台之上进行创作，而非将用户限制在自家工作流中。",
+        "Runway Characters 指向一条以角色为核心的媒体生成产品线，这在广告、娱乐和游戏制作领域是具有战略意义的品类。",
+        "Runway Fund 为公司战略增加了资本配置层，表明其在产品发布之外还通过投资扩展生态。"
+      ]
     },
     {
       "topic_id": "75b63b0787e8",
@@ -1652,7 +1682,16 @@
           "published_at": "2026-04-07T04:44:51Z"
         }
       ],
-      "route": "/hot/2026-04-11/topic/nashsu-llm-wiki/"
+      "route": "/hot/2026-04-11/topic/nashsu-llm-wiki/",
+      "headline_zh": "nashsu/llm_wiki",
+      "summary_short_zh": "一个名为 llm_wiki 的 GitHub 仓库受到关注，它是一款跨平台桌面应用，可将文档转换为条理清晰、相互链接的知识库。该项目通过自动结构化源材料，定位为传统 RAG 工作流的替代方案",
+      "why_it_matters_zh": "该工具出现在 1 个独立信息源中。",
+      "category_zh": "工具",
+      "key_takeaways_zh": [
+        "一个供 AI agent 使用 Karpathy 的 LLM Wiki 模式构建和维护 Obsidian wiki 的框架",
+        "完全自动化的个人知识库系统，由 LLM 驱动。基于 Andrej Karpathy 的 LLM Wiki 模式。",
+        "LLM Wiki 是一款跨平台桌面应用，可自动将你的文档转化为条理清晰、相互链接的知识库。不同于传统 RAG（从零开始检索并回答……"
+      ]
     },
     {
       "topic_id": "f3e90a61065d",
@@ -1698,7 +1737,14 @@
           "published_at": "2026-04-11T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-04-11/topic/offensive-cyber-task-horizons-data-and-analysis-lyptus-research-github/"
+      "route": "/hot/2026-04-11/topic/offensive-cyber-task-horizons-data-and-analysis-lyptus-research-github/",
+      "headline_zh": "进攻性网络任务视野：数据与分析（Lyptus Research，GitHub）",
+      "summary_short_zh": "Import AI 重点介绍了 Lyptus Research 的《进攻性网络任务的时间跨度：数据与分析》，相关资料可在 GitHub 上获取。该研究似乎提供了有关进攻性网络任务时间跨度的数据与分析",
+      "why_it_matters_zh": "有 1 个独立来源提及这篇研究论文。",
+      "category_zh": "研究",
+      "key_takeaways_zh": [
+        "进攻性网络安全任务的时间跨度（Lyptus Research）"
+      ]
     }
   ],
   "category_sections": [
@@ -1742,7 +1788,11 @@
               "published_at": "2026-04-11T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-11/topic/meta-superintelligence-labs-ships-its-first-model/"
+          "route": "/hot/2026-04-11/topic/meta-superintelligence-labs-ships-its-first-model/",
+          "headline_zh": "Meta Superintelligence Labs 发布首款模型",
+          "summary_short_zh": "据 The Rundown AI 报道，Meta Superintelligence Labs 已发布首款模型。这则消息表明，Meta 的超级智能研发项目已推出首款模型",
+          "why_it_matters_zh": "有 1 个独立来源提及此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "fddd8c20ed85",
@@ -1780,7 +1830,11 @@
               "published_at": "Fri, 10 Apr 2026 00:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-04-11/topic/financial-services/"
+          "route": "/hot/2026-04-11/topic/financial-services/",
+          "headline_zh": "金融服务",
+          "summary_short_zh": "探索面向金融服务的 AI 资源，包括提示词包、GPTs、指南和工具，帮助金融机构安全部署 AI 并扩大应用规模",
+          "why_it_matters_zh": "有 1 个独立来源提及此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "6217b66fc4c7",
@@ -1818,7 +1872,11 @@
               "published_at": "2026-04-10T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-04-11/topic/trust-and-intelligence-why-the-public-sector-is-moving-toward-private-ai-models/"
+          "route": "/hot/2026-04-11/topic/trust-and-intelligence-why-the-public-sector-is-moving-toward-private-ai-models/",
+          "headline_zh": "信任与智能：公共部门为何转向私有 AI 模型",
+          "summary_short_zh": "最新资讯与文章",
+          "why_it_matters_zh": "有 1 个独立来源提及此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "cbd0430b4ba9",
@@ -1856,7 +1914,10 @@
               "published_at": "2026-04-10T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-04-11/topic/building-interactive-ai-characters-responsibly/"
+          "route": "/hot/2026-04-11/topic/building-interactive-ai-characters-responsibly/",
+          "headline_zh": "负责任地构建交互式 AI 角色",
+          "why_it_matters_zh": "有 1 个独立来源提及此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "c8b34a6cdbd9",
@@ -1894,7 +1955,11 @@
               "published_at": "2026-04-10T16:22:13Z"
             }
           ],
-          "route": "/hot/2026-04-11/topic/launch-hn-twill-ai-yc-s25-delegate-to-cloud-agents-get-back-prs/"
+          "route": "/hot/2026-04-11/topic/launch-hn-twill-ai-yc-s25-delegate-to-cloud-agents-get-back-prs/",
+          "headline_zh": "Launch HN：Twill.ai（YC S25）——把任务交给云端智能体，获取 PR",
+          "summary_short_zh": "一篇 Launch HN 帖子介绍了入选 YC S25 的初创公司 Twill.ai。该公司提供云端智能体，可接受委派的任务并返回拉取请求（PR）。该帖是 Hacker News 上的一则产品发布讨论",
+          "why_it_matters_zh": "有 1 个独立来源提及此次产品发布。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -1938,7 +2003,11 @@
               "published_at": "Fri, 10 Apr 2026 16:41:34 +0000"
             }
           ],
-          "route": "/hot/2026-04-11/topic/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abuser-s-delusions-and-ignored-her-warnings/"
+          "route": "/hot/2026-04-11/topic/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abuser-s-delusions-and-ignored-her-warnings/",
+          "headline_zh": "跟踪骚扰受害者起诉 OpenAI，称 ChatGPT 助长施害者的妄想，并无视她的警告",
+          "summary_short_zh": "一宗诉讼指控，OpenAI 多次收到某名 ChatGPT 用户具有危险性的警告，内部也标记了大规模伤亡风险，却未采取行动。起诉书称，在该用户跟踪、骚扰前女友期间，系统强化了他的妄想",
+          "why_it_matters_zh": "有 1 个独立来源提及这一行业动态。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "ee19e511a544",
@@ -1976,7 +2045,11 @@
               "published_at": "Fri, 10 Apr 2026 20:27:52 +0000"
             }
           ],
-          "route": "/hot/2026-04-11/topic/anthropic-temporarily-banned-openclaw-s-creator-from-accessing-claude/"
+          "route": "/hot/2026-04-11/topic/anthropic-temporarily-banned-openclaw-s-creator-from-accessing-claude/",
+          "headline_zh": "Anthropic 曾暂时禁止 OpenClaw 的创建者使用 Claude",
+          "summary_short_zh": "Anthropic 曾暂时禁止 OpenClaw 的创建者使用 Claude。报道称，此举发生在影响 OpenClaw 用户的定价调整之后",
+          "why_it_matters_zh": "有 1 个独立来源提及这一行业动态。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "f814390b0b5a",
@@ -2014,7 +2087,11 @@
               "published_at": "2026-04-10T16:16:57-04:00"
             }
           ],
-          "route": "/hot/2026-04-11/topic/20-year-old-man-arrested-for-allegedly-throwing-a-molotov-cocktail-at-sam-altman-s-house/"
+          "route": "/hot/2026-04-11/topic/20-year-old-man-arrested-for-allegedly-throwing-a-molotov-cocktail-at-sam-altman-s-house/",
+          "headline_zh": "一名 20 岁男子涉嫌向 Sam Altman 的住宅投掷燃烧瓶被捕",
+          "summary_short_zh": "据 The San Francisco Standard 报道，旧金山警方逮捕了一名 20 岁男子，他涉嫌于周五凌晨向 OpenAI 首席执行官 Sam Altman 位于俄罗斯山的住宅投掷燃烧瓶。监控摄像头拍下了这一事件，时间为美国东部时间上午 7 点前不久。",
+          "why_it_matters_zh": "这则行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "e04802882c26",
@@ -2052,7 +2129,11 @@
               "published_at": "2026-04-10T05:22:06-04:00"
             }
           ],
-          "route": "/hot/2026-04-11/topic/microsoft-starts-removing-copilot-buttons-from-windows-11-apps/"
+          "route": "/hot/2026-04-11/topic/microsoft-starts-removing-copilot-buttons-from-windows-11-apps/",
+          "headline_zh": "微软开始移除 Windows 11 应用中的 Copilot 按钮",
+          "summary_short_zh": "微软已开始移除 Windows 11 应用中的部分 Copilot 按钮，首批改动出现在面向 Windows 预览体验成员的记事本中。该公司正以更低调的集成方式取代一些专门的 AI 入口。",
+          "why_it_matters_zh": "这则行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "27ffb06456b3",
@@ -2090,7 +2171,11 @@
               "published_at": "2026-04-10T08:23:18-04:00"
             }
           ],
-          "route": "/hot/2026-04-11/topic/fear-and-loathing-at-openai/"
+          "route": "/hot/2026-04-11/topic/fear-and-loathing-at-openai/",
+          "headline_zh": "OpenAI 内部的恐惧与厌恶",
+          "summary_short_zh": "Sam Altman 执掌 OpenAI 的这段时间可谓……混乱不堪。他甚至一度被免去首席执行官职务，却又在几天后复职，随后开始重塑公司，带来永久性的改变。",
+          "why_it_matters_zh": "这则行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -2134,7 +2219,11 @@
               "published_at": "Fri, 10 Apr 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-04-11/topic/gemma-4-on-llama-cpp-should-be-stable-now/"
+          "route": "/hot/2026-04-11/topic/gemma-4-on-llama-cpp-should-be-stable-now/",
+          "headline_zh": "Gemma 4 在 Llama.cpp 上现在应该能稳定运行了",
+          "summary_short_zh": "据社区报告，llama.cpp 最近的一个拉取请求修复了影响 Gemma 4 支持的已知问题。合并后，用户反馈 Gemma 4 在 llama.cpp 上运行得更稳定了。",
+          "why_it_matters_zh": "这则工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "2885158fcf68",
@@ -2172,7 +2261,11 @@
               "published_at": "Fri, 10 Apr 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-04-11/topic/observability-is-turning-into-a-default-expectation-for-agent-development/"
+          "route": "/hot/2026-04-11/topic/observability-is-turning-into-a-default-expectation-for-agent-development/",
+          "headline_zh": "可观测性正成为智能体开发的标配",
+          "summary_short_zh": "一篇社区综述指出，可观测性、追踪和评测正成为智能体开发流程中的常规要求。文章提到，人们越来越重视建立明确的反馈循环，以调试和改进智能体行为。",
+          "why_it_matters_zh": "这则工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     },
@@ -2216,7 +2309,11 @@
               "published_at": "2026-04-11T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-11/topic/forecasting-the-economic-effects-of-ai-predictions-from-economists-ai-experts-and-the-public-pdf/"
+          "route": "/hot/2026-04-11/topic/forecasting-the-economic-effects-of-ai-predictions-from-economists-ai-experts-and-the-public-pdf/",
+          "headline_zh": "预测 AI 的经济影响：经济学家、AI 专家与公众的预测（PDF）",
+          "summary_short_zh": "Import AI 重点介绍了一篇题为《预测 AI 的经济影响：经济学家、AI 专家与公众的预测》的论文。该研究比较了不同群体对 AI 经济影响的预期。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "19016fd8fd6a",
@@ -2254,7 +2351,11 @@
               "published_at": "2026-04-11T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-11/topic/mapping-ai-into-production-a-field-experiment-on-firm-performance-ssrn/"
+          "route": "/hot/2026-04-11/topic/mapping-ai-into-production-a-field-experiment-on-firm-performance-ssrn/",
+          "headline_zh": "将 AI 引入生产：一项关于企业绩效的实地实验（SSRN）",
+          "summary_short_zh": "Import AI 重点介绍了 SSRN 上一篇题为《将 AI 引入生产：一项关于企业绩效的实地实验》的论文。该研究似乎通过实地实验考察 AI 部署对企业绩效的影响。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "dc8b60f55bfa",
@@ -2292,7 +2393,11 @@
               "published_at": "Fri, 10 Apr 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-04-11/topic/reward-hacking-is-now-a-central-part-of-model-evaluation-not-an-edge-case/"
+          "route": "/hot/2026-04-11/topic/reward-hacking-is-now-a-central-part-of-model-evaluation-not-an-edge-case/",
+          "headline_zh": "奖励作弊如今已成为模型评估的核心内容，不再是边缘情况",
+          "summary_short_zh": "一篇社区回顾重点介绍了 METR 的研究结果，指出奖励投机可能实质性影响先进模型的评测结果。文中以 GPT-5.4-xhigh 的任务时间跨度测量为例，说明常规评分可能无法准确反映模型能力。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         }
       ]
     }
@@ -2338,7 +2443,11 @@
               "published_at": "2026-04-10T07:23:28-04:00"
             }
           ],
-          "route": "/hot/2026-04-11/topic/gen-z-s-love-hate-relationship-with-ai/"
+          "route": "/hot/2026-04-11/topic/gen-z-s-love-hate-relationship-with-ai/",
+          "headline_zh": "Z 世代对 AI 又爱又恨",
+          "summary_short_zh": "Z 世代对 AI 越来越失望，但还没到弃用的地步。盖洛普本周发布的一份新报告基于全美近 1,600 名 14 至 29 岁受访者的回答，显示随着 AI 日益融入校园，这一代数字原住民对它的热情正在消退。",
+          "why_it_matters_zh": "这则产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "c0155075ba2a",
@@ -2382,7 +2491,11 @@
               "published_at": "Fri, 10 Apr 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-04-11/topic/we-re-bringing-the-advisor-strategy-to-the-claude-platform/"
+          "route": "/hot/2026-04-11/topic/we-re-bringing-the-advisor-strategy-to-the-claude-platform/",
+          "headline_zh": "我们正将顾问策略引入 Claude Platform。",
+          "summary_short_zh": "Anthropic 正将顾问策略引入 Claude Platform，由 Opus 担任顾问，Sonnet 负责执行。此次更新为平台引入了结构化的多模型工作流。",
+          "why_it_matters_zh": "这则产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "9bd8343d0e84",
@@ -2420,7 +2533,11 @@
               "published_at": "Fri, 10 Apr 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-04-11/topic/hugging-face-launches-a-new-repo-type-kernels/"
+          "route": "/hot/2026-04-11/topic/hugging-face-launches-a-new-repo-type-kernels/",
+          "headline_zh": "Hugging Face 推出新仓库类型：Kernels",
+          "summary_short_zh": "Hugging Face 推出了名为 Kernels 的新仓库类型，由首席技术官 Julien Chaumond 在 PyTorch 大会上宣布。这种新仓库格式扩展了开发者可在平台上发布和管理的资源类型。",
+          "why_it_matters_zh": "这则产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "c78aec716e78",
@@ -2464,7 +2581,11 @@
               "published_at": "Fri, 10 Apr 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-04-11/topic/qwen-3-6-plus-is-the-first-chinese-model-to-survive-all-5-runs-on-foodtruck-bench/"
+          "route": "/hot/2026-04-11/topic/qwen-3-6-plus-is-the-first-chinese-model-to-survive-all-5-runs-on-foodtruck-bench/",
+          "headline_zh": "Qwen 3.6 Plus 成为首个在 FoodTruck Bench 全部 5 次测试中存活下来的中国模型",
+          "summary_short_zh": "图中是 FoodTruck Bench 的排行榜，展示了各 AI 模型在这项为期 30 天的商业模拟基准测试中经营餐车的表现。",
+          "why_it_matters_zh": "这则产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "3e5348437c2c",
@@ -2502,7 +2623,11 @@
               "published_at": "Fri, 10 Apr 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-04-11/topic/qwen-code-adds-orchestration-primitives-directly-into-the-product/"
+          "route": "/hot/2026-04-11/topic/qwen-code-adds-orchestration-primitives-directly-into-the-product/",
+          "headline_zh": "Qwen Code 将编排原语直接集成到产品中",
+          "summary_short_zh": "阿里巴巴发布了 Qwen Code v0.14.x，加入了多项顺应这一整体趋势的智能体工程功能：远程控制通道（Telegram、钉钉、微信）、基于 cron 的周期任务、支持 100 万 token 上下文且每天可免费调用 1,000 次的 Qwen3.6-Plus、子智能体模型选择，以及规划模式。",
+          "why_it_matters_zh": "这则产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2546,7 +2671,11 @@
               "published_at": "Fri, 10 Apr 2026 16:38:43 +0000"
             }
           ],
-          "route": "/hot/2026-04-11/topic/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/"
+          "route": "/hot/2026-04-11/topic/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/",
+          "headline_zh": "TechCrunch 将携 Startup Battlefield 亮相东京",
+          "summary_short_zh": "SusHi Tech 2026 聚焦正在重塑社会的四大技术领域：AI、机器人、韧性和娱乐。",
+          "why_it_matters_zh": "这则其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "d67265413282",
@@ -2584,7 +2713,11 @@
               "published_at": "2026-04-10T13:30:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-11/topic/the-iranian-lego-ai-video-creators-credit-their-virality-to-8216-heart-8217/"
+          "route": "/hot/2026-04-11/topic/the-iranian-lego-ai-video-creators-credit-their-virality-to-8216-heart-8217/",
+          "headline_zh": "伊朗乐高 AI 视频创作者将爆红归功于“用心”",
+          "summary_short_zh": "唐纳德·特朗普将近期营救一名落难飞行员的行动渲染为巨大成功。这名飞行员的战机此前在伊朗境内被毁。",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "af5b5f38c0d9",
@@ -2622,7 +2755,11 @@
               "published_at": "2026-04-10T13:47:17Z"
             }
           ],
-          "route": "/hot/2026-04-11/topic/us-summons-bank-bosses-over-cyber-risks-from-anthropic-s-latest-ai-model/"
+          "route": "/hot/2026-04-11/topic/us-summons-bank-bosses-over-cyber-risks-from-anthropic-s-latest-ai-model/",
+          "headline_zh": "美国就 Anthropic 最新 AI 模型带来的网络风险召集银行高管",
+          "summary_short_zh": "一篇讨论帖称，美国当局因担忧 Anthropic 最新 AI 模型带来的网络风险而召集银行高管。该消息涉及监管应对措施，而非产品发布",
+          "why_it_matters_zh": "这一行业动向见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }

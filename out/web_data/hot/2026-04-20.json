@@ -1518,7 +1518,16 @@
           "published_at": "2026-04-20T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-04-20/topic/dola-seed-2-0-preview-and-seed-full-duplex-speech-llm-debut-from-bytedance-seed/"
+      "route": "/hot/2026-04-20/topic/dola-seed-2-0-preview-and-seed-full-duplex-speech-llm-debut-from-bytedance-seed/",
+      "headline_zh": "字节跳动 Seed 推出 Dola-Seed-2.0-Preview 和 Seed 全双工语音大模型",
+      "summary_short_zh": "字节跳动 Seed 正式发布 Seed 2.0，为公司的基础模型系列带来新版本。",
+      "why_it_matters_zh": "字节跳动释放出持续投入前沿多模态模型和语音交互的信号，这对关注中国模型能力的竞争对手，以及评估实时语音技术栈的企业采购方都很重要。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "字节跳动 Seed 在 Arena 上发布 Dola-Seed-2.0-Preview，为市场带来了有明确名称的预览模型，而非模糊的路线图公告。",
+        "Seed 全双工语音大模型发布时强调专注倾听、干扰抑制和更自然的实时交互，着力突破轮次式语音助手的局限。",
+        "同批公告还宣布启动字节跳动 Seed 2027 年基础模型校园招聘，表明公司在推进产品化的同时，仍在扩充长期研究力量。"
+      ]
     },
     {
       "topic_id": "32e288d2424a",
@@ -1566,7 +1575,16 @@
           "published_at": "2026-04-20T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-04-20/topic/zhipu-qingyan-and-codegeex-expand-to-intel-ai-pcs-in-deeper-zhipu-ai-partnership/"
+      "route": "/hot/2026-04-20/topic/zhipu-qingyan-and-codegeex-expand-to-intel-ai-pcs-in-deeper-zhipu-ai-partnership/",
+      "headline_zh": "智谱 AI 与英特尔深化合作，智谱清言和 CodeGeeX 登陆英特尔 AI PC",
+      "summary_short_zh": "智谱 AI 在英特尔 AI PC 生态活动上宣布扩大双方合作，推出面向 AI PC 的智谱清言和 CodeGeeX AI 编程助手端侧版本，以及其他端云一体化 AI PC 创新成果。",
+      "why_it_matters_zh": "这是中国端侧 AI 拓展应用渠道的具体举措，可为 OEM、芯片厂商和软件企业决策者判断本地推理与 AI PC 需求可能向何处集中提供参考。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "智谱 AI 表示，与英特尔的合作现已涵盖面向 AI PC 的智谱清言和 CodeGeeX 编程助手端侧版本。",
+        "该合作在英特尔 AI PC 生态活动上亮相，表明英特尔正借助具体的应用合作伙伴推进 AI PC 战略，而不只是笼统地宣传平台能力。",
+        "智谱 AI 还披露，计划于 2026 年 3 月 31 日发布 2025 年全年业绩，公告注明其港股代码为 02513，让公开资本市场进一步了解这家中国主要模型企业。"
+      ]
     },
     {
       "topic_id": "26113ceb66c4",
@@ -1608,7 +1626,16 @@
           "published_at": "2026-04-20T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-04-20/topic/hallucination-as-trajectory-commitment-paper-offers-causal-mechanism-for-transformer-errors/"
+      "route": "/hot/2026-04-20/topic/hallucination-as-trajectory-commitment-paper-offers-causal-mechanism-for-transformer-errors/",
+      "headline_zh": "《幻觉即轨迹锁定》论文为 Transformer 错误提供因果机制解释",
+      "summary_short_zh": "我们提供因果证据，表明自回归语言模型中的幻觉是一种受非对称吸引子动力学支配的早期轨迹锁定现象。",
+      "why_it_matters_zh": "若得到验证，这项研究可能推动幻觉缓解方法从事后过滤转向对生成动力学的早期干预，影响模型安全、评测设计和推理控制。",
+      "category_zh": "研究",
+      "key_takeaways_zh": [
+        "论文认为，幻觉源于自回归生成早期的轨迹锁定，并以非对称吸引子动力学解释这一现象，而不只是归因于知识缺失或解码效果不佳。",
+        "其核心方法是“同提示词分岔”：用相同输入反复采样，观察生成结果的自发分化，并确定生成过程何时锁定正确路径或幻觉路径。",
+        "该研究的贡献着眼于因果解释，而不止于现象描述，因此对开发解码控制、可解释性工具或注重可靠性的模型产品的团队更具战略意义。"
+      ]
     },
     {
       "topic_id": "390c632e8c34",
@@ -1650,7 +1677,16 @@
           "published_at": "2026-04-20T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-04-20/topic/breaking-the-training-barrier-of-billion-parameter-universal-machine-learning-interatomic-potentials-targets-scientific-ai-scale-up/"
+      "route": "/hot/2026-04-20/topic/breaking-the-training-barrier-of-billion-parameter-universal-machine-learning-interatomic-potentials-targets-scientific-ai-scale-up/",
+      "headline_zh": "《突破十亿参数级通用机器学习原子间势的训练瓶颈》着眼于科学 AI 的规模扩展",
+      "summary_short_zh": "通用机器学习原子间势（uMLIPs）在高度多样化的数据集上预训练，数据涵盖整个元素周期表的无机材料和有机分子，是用于量子力学精度物理模拟的基础模型。",
+      "why_it_matters_zh": "这是这批内容中最突出的科研基础设施成果，关乎材料发现、分子模拟，以及物理基础模型的算力成本与效益。",
+      "category_zh": "研究",
+      "key_takeaways_zh": [
+        "论文聚焦十亿参数级通用机器学习原子间势（uMLIPs），将其设计为基础模型，用于对无机材料和有机分子进行具有量子力学精度的物理模拟。",
+        "论文的核心主张是解决了制约这类模型规模扩展的训练瓶颈。对尝试构建通用科学模拟器的实验室和初创企业而言，这一瓶颈是关键限制。",
+        "作者将 uMLIPs 定位为在覆盖元素周期表的高度多样化数据集上预训练的模型。若这一点得到证实，它们将更接近通用基础模型，而非应用范围狭窄的化学预测模型。"
+      ]
     },
     {
       "topic_id": "339c420b4235",
@@ -1690,7 +1726,14 @@
           "published_at": "2026-04-20T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-04-20/topic/photonic-ai-a-hybrid-diffractive-holographic-neural-system-for-passive-optical-real-time-image-classification/"
+      "route": "/hot/2026-04-20/topic/photonic-ai-a-hybrid-diffractive-holographic-neural-system-for-passive-optical-real-time-image-classification/",
+      "headline_zh": "光子 AI：用于无源光学实时图像分类的混合衍射全息神经系统",
+      "summary_short_zh": "每日热点推送重点介绍了题为《光子 AI：用于无源光学实时图像分类的混合衍射全息神经系统》的论文。该文介绍了一种用于实时图像分类的混合光学神经系统。",
+      "why_it_matters_zh": "这篇研究论文被 1 个独立来源提及。",
+      "category_zh": "研究",
+      "key_takeaways_zh": [
+        "该研究为神经网络推理提出了截然不同的物理载体和架构思路，指向常规电子计算之外的新研究方向。"
+      ]
     }
   ],
   "category_sections": [
@@ -1734,7 +1777,11 @@
               "published_at": "2026-04-19T21:46:38+00:00"
             }
           ],
-          "route": "/hot/2026-04-20/topic/headless-everything-for-personal-ai/"
+          "route": "/hot/2026-04-20/topic/headless-everything-for-personal-ai/",
+          "headline_zh": "面向个人 AI 的全面无头化",
+          "summary_short_zh": "<p><strong><a href=\" 面向个人 AI 的一切</a></strong></p> Matt Webb 认为，<strong>无头</strong>服务即将变得更加普遍：</p> <blockquote> <p>为什么？",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "d2dcd8c32112",
@@ -1772,7 +1819,11 @@
               "published_at": "Sun, 19 Apr 2026 16:01:00 +0000"
             }
           ],
-          "route": "/hot/2026-04-20/topic/techcrunch-mobility-uber-enters-its-assetmaxxing-era/"
+          "route": "/hot/2026-04-20/topic/techcrunch-mobility-uber-enters-its-assetmaxxing-era/",
+          "headline_zh": "TechCrunch Mobility：Uber 进入资产扩张时代",
+          "summary_short_zh": "欢迎回到 TechCrunch Mobility，这里聚焦交通出行的未来，如今也比以往更加关注 AI 在其中的作用。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "956837ee049f",
@@ -1810,7 +1861,11 @@
               "published_at": "Sun, 19 Apr 2026 19:30:00 +0000"
             }
           ],
-          "route": "/hot/2026-04-20/topic/the-12-month-window/"
+          "route": "/hot/2026-04-20/topic/the-12-month-window/",
+          "headline_zh": "12 个月的窗口期",
+          "summary_short_zh": "许多 AI 初创公司能立足，部分原因是基础模型尚未涉足它们的业务领域。不少人也半开玩笑地承认，这种局面不会永远持续。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "ffd904dd2b21",
@@ -1848,7 +1903,11 @@
               "published_at": "2026-04-19T15:54:52-04:00"
             }
           ],
-          "route": "/hot/2026-04-20/topic/cloud-development-platform-vercel-was-hacked/"
+          "route": "/hot/2026-04-20/topic/cloud-development-platform-vercel-was-hacked/",
+          "headline_zh": "云开发平台 Vercel 遭黑客入侵",
+          "summary_short_zh": "提供 Web 应用托管与部署服务的主流开发平台 Vercel 遭到入侵，黑客正试图出售窃取的数据。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "0431334e929c",
@@ -1886,7 +1945,11 @@
               "published_at": "2026-04-20T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-20/topic/windfall-policy-atlas-windfall-trust-website/"
+          "route": "/hot/2026-04-20/topic/windfall-policy-atlas-windfall-trust-website/",
+          "headline_zh": "Windfall Policy Atlas（Windfall Trust 网站）",
+          "summary_short_zh": "Windfall Trust 网站提供 Windfall Policy Atlas，介绍针对 AI 带来的巨额意外收益的政策方案。该条目指向参考资料或机构资源，而非产品发布或交易。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -1930,7 +1993,11 @@
               "published_at": "2026-04-20T00:50:45+00:00"
             }
           ],
-          "route": "/hot/2026-04-20/topic/claude-token-counter-now-with-model-comparisons/"
+          "route": "/hot/2026-04-20/topic/claude-token-counter-now-with-model-comparisons/",
+          "headline_zh": "Claude Token Counter 新增模型对比功能",
+          "summary_short_zh": "Simon Willison 为 Claude Token Counter 新增了模型对比功能。该工具可帮助用户比较不同 Claude 模型的词元数量。",
+          "why_it_matters_zh": "这款工具见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     },
@@ -1974,7 +2041,11 @@
               "published_at": "2026-04-20T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-04-20/topic/closing-the-theory-practice-gap-in-spiking-transformers-via-effective-dimension/"
+          "route": "/hot/2026-04-20/topic/closing-the-theory-practice-gap-in-spiking-transformers-via-effective-dimension/",
+          "headline_zh": "通过有效维度弥合脉冲 Transformer 的理论与实践差距",
+          "summary_short_zh": "脉冲 Transformer 的准确率可与传统 Transformer 媲美，在神经形态硬件上的能效可达后者的 $38$-$57\\times$，但尚无理论框架指导其设计。本文首次建立了脉冲自注意力表达能力的系统理论。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "711b36bd7859",
@@ -2012,7 +2083,11 @@
               "published_at": "2026-04-20T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-04-20/topic/collective-kernel-eft-for-pre-activation-resnets/"
+          "route": "/hot/2026-04-20/topic/collective-kernel-eft-for-pre-activation-resnets/",
+          "headline_zh": "预激活 ResNet 的集体核有效场论（EFT）",
+          "summary_short_zh": "在有限宽度的深度神经网络中，经验核 $G$ 随网络层的递进而随机演化。我们基于仅含 $G$ 的闭合层级，为预激活 ResNet 构建了集体核有效场论（EFT），并分析了其有限的适用区间。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "325ec35d2544",
@@ -2050,7 +2125,11 @@
               "published_at": "2026-04-20T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-04-20/topic/faster-llm-inference-via-sequential-monte-carlo/"
+          "route": "/hot/2026-04-20/topic/faster-llm-inference-via-sequential-monte-carlo/",
+          "headline_zh": "通过序贯蒙特卡洛加速大语言模型推理",
+          "summary_short_zh": "推测解码（SD）先用低成本的提议模型生成候选词元，再用高成本的目标模型通过拒绝采样进行验证，从而加速语言模型推理。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "203e0303b818",
@@ -2088,7 +2167,11 @@
               "published_at": "2026-04-20T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-04-20/topic/geometric-regularization-of-autoencoders-via-observed-stochastic-dynamics/"
+          "route": "/hot/2026-04-20/topic/geometric-regularization-of-autoencoders-via-observed-stochastic-dynamics/",
+          "headline_zh": "利用观测到的随机动力学对自编码器进行几何正则化",
+          "summary_short_zh": "具有慢变或亚稳态行为的随机动力系统，在长时间尺度上沿高维环境空间中未知的低维流形演化。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "920e1f96ef41",
@@ -2126,7 +2209,11 @@
               "published_at": "2026-04-20T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-04-20/topic/neural-continuous-time-markov-chain-discrete-diffusion-via-decoupled-jump-timing-and-direction/"
+          "route": "/hot/2026-04-20/topic/neural-continuous-time-markov-chain-discrete-diffusion-via-decoupled-jump-timing-and-direction/",
+          "headline_zh": "神经连续时间马尔可夫链：通过解耦跳跃时刻与方向实现离散扩散",
+          "summary_short_zh": "基于连续时间马尔可夫链（CTMC）的离散扩散模型在语言和离散数据生成方面表现出色，但现有方法通常通过 concrete score、干净数据预测，对反向速率矩阵进行整体参数化。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         }
       ]
     }
@@ -2172,7 +2259,11 @@
               "published_at": "2026-04-19T18:13:32Z"
             }
           ],
-          "route": "/hot/2026-04-20/topic/uber-s-anthropic-ai-push-hits-a-wall/"
+          "route": "/hot/2026-04-20/topic/uber-s-anthropic-ai-push-hits-a-wall/",
+          "headline_zh": "Uber 的 Anthropic AI 计划受阻",
+          "summary_short_zh": "Hacker News 上的一则讨论援引报道称，Uber 推进 Anthropic AI 相关工作时遇到障碍。该条目仅提及推进过程中遇到阻力或挫折，未提供其他事实细节。",
+          "why_it_matters_zh": "这一行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "7d117554e010",
@@ -2210,7 +2301,11 @@
               "published_at": "2026-04-20T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-20/topic/ais-can-now-often-do-massive-easy-to-verify-swe-tasks-and-i-ve-updated-towards-shorter-timelines-lesswrong/"
+          "route": "/hot/2026-04-20/topic/ais-can-now-often-do-massive-easy-to-verify-swe-tasks-and-i-ve-updated-towards-shorter-timelines-lesswrong/",
+          "headline_zh": "AI 如今常能完成大规模、易验证的软件工程任务，我因此把预期时间表提前了（LessWrong）",
+          "summary_short_zh": "该条目讨论了一种观点：AI 系统如今已能完成大规模、易验证的软件工程任务，这促使作者将预期时间表提前。这是一篇分析与预测文章，而非新产品或研究成果发布的报道。",
+          "why_it_matters_zh": "这一观点见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "3d7cf9231a56",
@@ -2248,7 +2343,11 @@
               "published_at": "2026-04-20T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-20/topic/ten-different-ways-of-thinking-about-gradual-disempowerment-david-krueger-the-real-ai-substack/"
+          "route": "/hot/2026-04-20/topic/ten-different-ways-of-thinking-about-gradual-disempowerment-david-krueger-the-real-ai-substack/",
+          "headline_zh": "思考“渐进式失权”的十种方式（David Krueger，The Real AI，Substack）",
+          "summary_short_zh": "David Krueger 的文章概述了思考“渐进式失权”的十种方式。这是一篇从概念和政策角度探讨 AI 风险演变路径的评论，而非对具体事件的报道。",
+          "why_it_matters_zh": "这一观点见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "c230bcbcc1a8",
@@ -2286,7 +2385,11 @@
               "published_at": "Sun, 19 Apr 2026 21:24:06 +0000"
             }
           ],
-          "route": "/hot/2026-04-20/topic/openai-s-existential-questions/"
+          "route": "/hot/2026-04-20/topic/openai-s-existential-questions/",
+          "headline_zh": "OpenAI 的生存难题",
+          "summary_short_zh": "TechCrunch 的 Equity 播客讨论了 OpenAI 近期的收购，以及这些收购能否解决公司面临的两大生存难题。该条目是对公司战略的评论，并非对新交易的直接报道。",
+          "why_it_matters_zh": "这一观点见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "1a330f1c84d9",
@@ -2330,7 +2433,11 @@
               "published_at": "2026-04-20T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-20/topic/nvidia-s-open-salvo-openai-s-amazon-deal-grok-cuts-video-prices-recursive-language-models/"
+          "route": "/hot/2026-04-20/topic/nvidia-s-open-salvo-openai-s-amazon-deal-grok-cuts-video-prices-recursive-language-models/",
+          "headline_zh": "英伟达的开放攻势、OpenAI 与亚马逊的交易、Grok 视频降价、递归语言模型",
+          "summary_short_zh": "这则 Batch 简报汇总了英伟达的开源举措、OpenAI 与亚马逊的交易、Grok 视频降价及递归语言模型等消息，涵盖多项独立进展，并非单一事件。",
+          "why_it_matters_zh": "这则综述见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "145ed0e1c658",
@@ -2368,7 +2475,11 @@
               "published_at": "2026-04-20T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-20/topic/openai-s-superapp-hiding-inside-codex/"
+          "route": "/hot/2026-04-20/topic/openai-s-superapp-hiding-inside-codex/",
+          "headline_zh": "藏在 Codex 里的 OpenAI 超级应用",
+          "summary_short_zh": "这则标题提出，OpenAI 可能正通过 Codex 打造功能更全面的超级应用。这是对产品战略的解读，并非已获确认的独立公告。",
+          "why_it_matters_zh": "这一观点见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "def5d82045f4",
@@ -2406,7 +2517,11 @@
               "published_at": "2026-04-20T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-20/topic/attacks-on-data-centers-qwen3-5-in-all-sizes-deepseek-s-huawei-play-apple-s-multimodal-tokenizer/"
+          "route": "/hot/2026-04-20/topic/attacks-on-data-centers-qwen3-5-in-all-sizes-deepseek-s-huawei-play-apple-s-multimodal-tokenizer/",
+          "headline_zh": "数据中心遭袭、Qwen3.5 全尺寸模型、DeepSeek 的华为布局、苹果的多模态分词器",
+          "summary_short_zh": "这则新闻综述涵盖数据中心遭袭、Qwen3.5 模型系列、DeepSeek 涉及华为的相关工作，以及苹果在多模态分词器方面的探索，汇总了多项 AI 与基础设施进展，并非报道单一事件。",
+          "why_it_matters_zh": "这则综述见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "4f75eb51a37c",
@@ -2444,7 +2559,11 @@
               "published_at": "2026-04-20T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-20/topic/import-ai-453-breaking-ai-agents-mirrorcode-and-ten-views-on-gradual-disempowerment/"
+          "route": "/hot/2026-04-20/topic/import-ai-453-breaking-ai-agents-mirrorcode-and-ten-views-on-gradual-disempowerment/",
+          "headline_zh": "Import AI 第 453 期：攻破 AI 智能体、MirrorCode，以及对逐步失权的十种看法",
+          "summary_short_zh": "Import AI 第 453 期是一份综合简报，涵盖攻破 AI 智能体、MirrorCode，以及对逐步失权的看法等话题，汇总了多项进展与评论，并非介绍单一新事件。",
+          "why_it_matters_zh": "这则综述见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }

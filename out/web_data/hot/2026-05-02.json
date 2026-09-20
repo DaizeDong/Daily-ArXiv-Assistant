@@ -1438,7 +1438,16 @@
           "published_at": "2026-05-02T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-05-02/topic/bytedance-ships-seed-full-duplex-speech-llm-for-real-time-voice-agents/"
+      "route": "/hot/2026-05-02/topic/bytedance-ships-seed-full-duplex-speech-llm-for-real-time-voice-agents/",
+      "headline_zh": "字节跳动发布 Seed 全双工语音大模型，面向实时语音智能体",
+      "summary_short_zh": "字节跳动 Seed 团队推出了 Seed 全双工语音大模型。该公司表示，模型注重专注聆听、干扰抑制和更自然的语音交互",
+      "why_it_matters_zh": "这表明字节跳动正进军低延迟多模态助手领域，该领域对消费级 AI、设备和企业语音自动化具有重要战略意义。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "字节跳动 Seed 团队正式推出 Seed 全双工语音大模型，主打边听边说，区别于传统的轮流式语音交互。",
+        "该公司强调了三项具体能力：专注聆听、可靠的干扰抑制和更自然的对话衔接，这些对生产级语音智能体都至关重要。",
+        "同一消息来源还提到了 Arena 上的 Dola-Seed-2.0-Preview，表明字节跳动可能正在语音和通用模型评测两个方向并行迭代多个模型版本。"
+      ]
     },
     {
       "topic_id": "0097b122587f",
@@ -1487,7 +1496,14 @@
           "published_at": "2026-05-01T11:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-05-02/topic/julpygo-claude-code-ai-design/"
+      "route": "/hot/2026-05-02/topic/julpygo-claude-code-ai-design/",
+      "headline_zh": "Julpygo/Claude-Code-AI-Design",
+      "summary_short_zh": "GitHub 上名为 Claude-Code-AI-Design 的设计转代码 AI 智能体项目走红。该仓库提及 Claude Code 集成、Figma 转代码工作流、React 19、Tailwind v4 和 MCP 服务器配置",
+      "why_it_matters_zh": "这则产品发布消息见于 2 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Claude Design：Anthropic 工具下载，2026 年 4 月，Figma 转代码 AI 智能体研究预览版，Claude Code 命令行集成，支持 React 19 和 Tailwind v4，模型上下文协议（MCP）服务器配置，设计系统..."
+      ]
     },
     {
       "topic_id": "a5581833a58f",
@@ -1536,7 +1552,16 @@
           "published_at": "2026-05-01T15:14:51-04:00"
         }
       ],
-      "route": "/hot/2026-05-02/topic/musk-v-altman-is-just-getting-started/"
+      "route": "/hot/2026-05-02/topic/musk-v-altman-is-just-getting-started/",
+      "headline_zh": "马斯克诉奥特曼案才刚刚开始",
+      "summary_short_zh": "本文报道了马斯克诉奥特曼案的初期进展，包括马斯克的证词和庭审中披露的材料。文章称，随着邮件、短信和公开言论受到审查，庭审正进入激烈交锋阶段",
+      "why_it_matters_zh": "这一观点见于 2 个独立来源。",
+      "category_zh": "行业动态",
+      "key_takeaways_zh": [
+        "埃隆·马斯克正是想打这场官司的人。几个月来，他一直声称 OpenAI“窃取了一家非营利组织”，并称自己才是当今最重要的公司之一背后的真正推动者...",
+        "马斯克诉奥特曼案已开庭，将在法庭上出示的证物也正陆续公开。目前已披露的包括往来邮件、照片和公司文件...",
+        "本周，埃隆·马斯克在其起诉 OpenAI 的案件中出庭作证近三天，局面已经开始变得混乱。邮件、短信，以及..."
+      ]
     },
     {
       "topic_id": "eff12ccdb011",
@@ -1578,7 +1603,16 @@
           "published_at": "Fri, 01 May 2026 18:29:06 +0000"
         }
       ],
-      "route": "/hot/2026-05-02/topic/aws-launches-aws-transform-automation-for-bi-migration-to-amazon-quick/"
+      "route": "/hot/2026-05-02/topic/aws-launches-aws-transform-automation-for-bi-migration-to-amazon-quick/",
+      "headline_zh": "AWS 推出 AWS Transform 自动化功能，助力商业智能系统迁移至 Amazon Quick",
+      "summary_short_zh": "AWS 宣布，AWS Transform 现可在数天内自动完成商业智能系统向 Amazon QuickSight 的迁移。文章介绍的流程包括设置迁移工作区、使用 AWS Marketplace 上的合作伙伴智能体，以及启用 QuickSight",
+      "why_it_matters_zh": "对于在 AWS 上统一分析技术栈的企业，这能降低迁移难度，并可能加快向 Amazon Quick 平台整合的进程。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "AWS 表示，AWS Transform 可在数天内自动将商业智能系统迁移至 Amazon Quick，解决这一流程通常需要长时间人工转换的问题。",
+        "该流程包括在 AWS Transform 中设置迁移工作区、通过 AWS Marketplace 订阅合作伙伴智能体，随后迁移至 Amazon Quick。",
+        "这是企业 AI 产品化的务实一步：AWS 正将智能体辅助迁移做成部署工具，而不只是提供基础模型或通用 AI 助手。"
+      ]
     },
     {
       "topic_id": "449bc0df88b1",
@@ -1620,7 +1654,16 @@
           "published_at": "Fri, 01 May 2026 22:13:27 +0000"
         }
       ],
-      "route": "/hot/2026-05-02/topic/meta-acquires-assured-robot-intelligence-to-expand-humanoid-ai-effort/"
+      "route": "/hot/2026-05-02/topic/meta-acquires-assured-robot-intelligence-to-expand-humanoid-ai-effort/",
+      "headline_zh": "Meta 收购 Assured Robot Intelligence，拓展人形机器人 AI 布局",
+      "summary_short_zh": "Meta 收购了人形机器人初创公司 Assured Robot Intelligence。此举旨在增强 Meta 面向机器人及人形机器人系统的 AI 模型与能力",
+      "why_it_matters_zh": "这笔交易表明，Meta 正从基础模型向具身智能拓展，这可能影响机器人平台和端侧智能体系统的长期竞争格局。",
+      "category_zh": "市场信号",
+      "key_takeaways_zh": [
+        "Meta 表示，收购人形机器人初创公司 Assured Robot Intelligence，正是为了强化支撑其机器人发展目标的 AI 模型。",
+        "此次收购让 Meta 的 AI 战略更直接地与现实世界应用相连，其模型投入也从数字助手和可穿戴设备延伸至人形机器人系统。",
+        "尽管未披露财务条款，这仍是一项具体的战略举措：Meta 正通过并购，而不只依靠内部研究，加快具身智能能力的发展。"
+      ]
     }
   ],
   "category_sections": [
@@ -1664,7 +1707,11 @@
               "published_at": "2026-05-01T07:18:54-04:00"
             }
           ],
-          "route": "/hot/2026-05-02/topic/microsoft-wants-lawyers-to-trust-its-new-ai-agent-in-word-documents/"
+          "route": "/hot/2026-05-02/topic/microsoft-wants-lawyers-to-trust-its-new-ai-agent-in-word-documents/",
+          "headline_zh": "微软希望律师信任 Word 文档中的新 AI 智能体",
+          "summary_short_zh": "微软推出了 Word 内置 AI 助手 Legal Agent，面向法律团队，旨在协助修改文档、梳理谈判记录和处理复杂法律文件。",
+          "why_it_matters_zh": "这则产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "190ece52b047",
@@ -1702,7 +1749,11 @@
               "published_at": "Fri, 01 May 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-05-02/topic/sensenova-u1-just-dropped-native-multimodal-gen-understanding-in-one-model-no-vae-no-diffusion/"
+          "route": "/hot/2026-05-02/topic/sensenova-u1-just-dropped-native-multimodal-gen-understanding-in-one-model-no-vae-no-diffusion/",
+          "headline_zh": "SenseNova-U1 刚刚发布：单模型原生支持多模态生成与理解，不采用 VAE 或扩散架构",
+          "summary_short_zh": "SenseNova 发布了 SenseNova-U1，这是一款用于多模态生成与理解的模型。此次发布强调原生多模态方案，不采用 VAE 或扩散架构。",
+          "why_it_matters_zh": "这则产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -1760,7 +1811,11 @@
               "published_at": "2026-05-01T10:28:12Z"
             }
           ],
-          "route": "/hot/2026-05-02/topic/our-evaluation-of-openai-s-gpt-5-5-cyber-capabilities/"
+          "route": "/hot/2026-05-02/topic/our-evaluation-of-openai-s-gpt-5-5-cyber-capabilities/",
+          "headline_zh": "我们对 OpenAI GPT-5.5 网络安全能力的评估",
+          "summary_short_zh": "英国人工智能安全研究所发布了对 OpenAI GPT-5.5 网络安全能力的评估。该条目是一篇介绍文章，附有官方评估链接。",
+          "why_it_matters_zh": "这则其他类资讯见于 5 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "67f05d354fe4",
@@ -1805,7 +1860,11 @@
               "published_at": "Fri, 01 May 2026 16:02:36 +0000"
             }
           ],
-          "route": "/hot/2026-05-02/topic/pentagon-strikes-classified-ai-deals-with-openai-google-and-nvidia-but-not-anthropic/"
+          "route": "/hot/2026-05-02/topic/pentagon-strikes-classified-ai-deals-with-openai-google-and-nvidia-but-not-anthropic/",
+          "headline_zh": "五角大楼与 OpenAI、谷歌和英伟达签署涉密 AI 协议，Anthropic 未在其中",
+          "summary_short_zh": "五角大楼与 OpenAI、谷歌、微软、亚马逊、英伟达、xAI 和 Reflection 等 AI 供应商签署协议，将在涉密环境中使用 AI 工具。Anthropic 不在报道列出的签约方中。",
+          "why_it_matters_zh": "这则行业动态见于 2 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "03be385a8596",
@@ -1843,7 +1902,10 @@
               "published_at": "Sat, 02 May 2026 03:30:12 +0000"
             }
           ],
-          "route": "/hot/2026-05-02/topic/app-claude-md-vibe-coding/"
+          "route": "/hot/2026-05-02/topic/app-claude-md-vibe-coding/",
+          "headline_zh": "苹果官方App误打包了Claude.md，这么大的公司也Vibe Coding啊？",
+          "why_it_matters_zh": "这则其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "a76e5fd816c6",
@@ -1881,7 +1943,11 @@
               "published_at": "2026-05-01T09:25:25-04:00"
             }
           ],
-          "route": "/hot/2026-05-02/topic/christian-content-creators-are-outsourcing-ai-slop-to-gig-workers-on-fiverr/"
+          "route": "/hot/2026-05-02/topic/christian-content-creators-are-outsourcing-ai-slop-to-gig-workers-on-fiverr/",
+          "headline_zh": "基督教内容创作者将 AI 垃圾内容外包给 Fiverr 上的零工制作",
+          "summary_short_zh": "起初，人们可以在 Fiverr 这类平台雇用自由职业者，让他们运用多年练就的技能完成专业创作。不过到了生成式 AI 时代，许多零工已用上这项技术，以满足客户需求。",
+          "why_it_matters_zh": "这则行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "aeb25c0433a1",
@@ -1919,7 +1985,11 @@
               "published_at": "2026-05-02T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-02/topic/zelenskyy-s-post-on-x-twitter/"
+          "route": "/hot/2026-05-02/topic/zelenskyy-s-post-on-x-twitter/",
+          "headline_zh": "泽连斯基在 X（Twitter）上的帖子",
+          "summary_short_zh": "Import AI 提供了泽连斯基在 X（原 Twitter）上的一则帖子链接。来源列表未提供更多摘要信息。",
+          "why_it_matters_zh": "这则其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -1963,7 +2033,11 @@
               "published_at": "2026-04-27T04:18:39Z"
             }
           ],
-          "route": "/hot/2026-05-02/topic/maria-rcks-clawd-rip/"
+          "route": "/hot/2026-05-02/topic/maria-rcks-clawd-rip/",
+          "headline_zh": "maria-rcks/clawd.rip",
+          "summary_short_zh": "GitHub 上名为 clawd.rip 的仓库正在走红，简介为“Claude 出过的所有问题”。它似乎是一个聚焦 Claude 相关故障或问题的开源项目或文档站点。",
+          "why_it_matters_zh": "有 1 个独立来源提及该工具。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "ced17b327aad",
@@ -2011,7 +2085,11 @@
               "published_at": "Fri, 01 May 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-05-02/topic/codex-cli-0-128-0-adds-goal/"
+          "route": "/hot/2026-05-02/topic/codex-cli-0-128-0-adds-goal/",
+          "headline_zh": "Codex CLI 0.128.0 新增 /goal 命令",
+          "summary_short_zh": "OpenAI 发布了 Codex CLI 0.128.0，新增 /goal 命令，可在编程智能体工作流中通过内置功能设定或管理目标。",
+          "why_it_matters_zh": "有 3 个独立来源提及该工具。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "003900beca70",
@@ -2049,7 +2127,11 @@
               "published_at": "2026-05-02T02:18:24Z"
             }
           ],
-          "route": "/hot/2026-05-02/topic/i-built-the-playwright-for-desktop-apps-80-token-savings/"
+          "route": "/hot/2026-05-02/topic/i-built-the-playwright-for-desktop-apps-80-token-savings/",
+          "headline_zh": "我做了一个桌面应用版 Playwright，词元用量减少 80%",
+          "summary_short_zh": "Hacker News 上的一篇帖子介绍了一款桌面应用自动化工具，称其为“桌面应用版 Playwright”。作者还声称，该方案可将词元用量减少 80%。",
+          "why_it_matters_zh": "有 1 个独立来源提及该工具。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "eed5dee52a2e",
@@ -2087,7 +2169,11 @@
               "published_at": "2026-05-01T10:25:41Z"
             }
           ],
-          "route": "/hot/2026-05-02/topic/show-hn-loopsy-a-way-for-terminals-and-ai-agents-on-different-machines-to-talk/"
+          "route": "/hot/2026-05-02/topic/show-hn-loopsy-a-way-for-terminals-and-ai-agents-on-different-machines-to-talk/",
+          "headline_zh": "Show HN：Loopsy，让不同机器上的终端和 AI 智能体相互通信",
+          "summary_short_zh": "一篇 Show HN 帖子介绍了 Loopsy，这款工具能让不同机器上的终端和 AI 智能体相互通信。这是开发者向 Hacker News 社区分享的自建项目。",
+          "why_it_matters_zh": "有 1 个独立来源提及该工具。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "e0ea558aead5",
@@ -2125,7 +2211,11 @@
               "published_at": "Fri, 01 May 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-05-02/topic/an-interactive-semantic-map-of-the-latest-10-million-published-papers-p/"
+          "route": "/hot/2026-05-02/topic/an-interactive-semantic-map-of-the-latest-10-million-published-papers-p/",
+          "headline_zh": "最新发表的 1000 万篇论文的交互式语义地图 [P]",
+          "summary_short_zh": "一篇帖子分享了一张基于最新发表的 1000 万篇论文构建的交互式语义地图。数据集来自 OpenAlex，该地图可用于探索研究文献。",
+          "why_it_matters_zh": "有 1 个独立来源提及该工具。",
+          "category_zh": "工具"
         }
       ]
     },
@@ -2169,7 +2259,11 @@
               "published_at": "2026-05-02T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-02/topic/automated-alignment-researchers-using-large-language-models-to-scale-scalable-oversight-anthropic-blog/"
+          "route": "/hot/2026-05-02/topic/automated-alignment-researchers-using-large-language-models-to-scale-scalable-oversight-anthropic-blog/",
+          "headline_zh": "自动化对齐研究员：利用大语言模型扩大可扩展监督的规模（Anthropic 博客）",
+          "summary_short_zh": "Anthropic 发布了关于自动化对齐研究员的研究，借助大语言模型扩大监督规模。文章介绍了一种改进 AI 系统可扩展监督的研究方法。",
+          "why_it_matters_zh": "有 1 个独立来源提及该研究论文。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "99fd0bb01d9a",
@@ -2207,7 +2301,11 @@
               "published_at": "Fri, 01 May 2026 16:37:00 +0000"
             }
           ],
-          "route": "/hot/2026-05-02/topic/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
+          "route": "/hot/2026-05-02/topic/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/",
+          "headline_zh": "通过全球合作与开放资源提升科研影响力",
+          "summary_short_zh": "Google Research 发布了一篇题为《通过全球合作与开放资源提升科研影响力》的博文，归类于“数据挖掘与建模”，内容似乎涉及科研合作与开放资源。",
+          "why_it_matters_zh": "有 1 个独立来源提及该研究论文。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "aed4d22c851f",
@@ -2245,7 +2343,11 @@
               "published_at": "Fri, 01 May 2026 22:23:36 +0000"
             }
           ],
-          "route": "/hot/2026-05-02/topic/study-ai-models-that-consider-user-s-feeling-are-more-likely-to-make-errors/"
+          "route": "/hot/2026-05-02/topic/study-ai-models-that-consider-user-s-feeling-are-more-likely-to-make-errors/",
+          "headline_zh": "研究：顾及用户感受的 AI 模型更容易出错",
+          "summary_short_zh": "一项研究指出，经过调优以顾及用户感受的 AI 模型更容易出错。研究结果提示，过度调优可能使模型把用户满意度置于真实性之上。",
+          "why_it_matters_zh": "有 1 个独立来源提及该研究论文。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "f712431a0954",
@@ -2283,7 +2385,11 @@
               "published_at": "Fri, 01 May 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-05-02/topic/deepseek-released-thinking-with-visual-primitives-framework/"
+          "route": "/hot/2026-05-02/topic/deepseek-released-thinking-with-visual-primitives-framework/",
+          "headline_zh": "DeepSeek 发布“Thinking-with-Visual-Primitives”框架",
+          "summary_short_zh": "DeepSeek 联合北京大学和清华大学推出了名为 Thinking-with-Visual-Primitives 的多模态推理框架。文中将其介绍为视觉推理领域的一项新研究。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         }
       ]
     }
@@ -2329,7 +2435,11 @@
               "published_at": "Fri, 01 May 2026 13:20:15 +0000"
             }
           ],
-          "route": "/hot/2026-05-02/topic/ai/"
+          "route": "/hot/2026-05-02/topic/ai/",
+          "headline_zh": "他用AI办了个音乐节，主题：别读博",
+          "summary_short_zh": "一代科研人的赛博苦中作乐",
+          "why_it_matters_zh": "这条其他类内容见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "67ce8bd1cb8a",
@@ -2367,7 +2477,11 @@
               "published_at": "Fri, 01 May 2026 00:00:00 -0400"
             }
           ],
-          "route": "/hot/2026-05-02/topic/beacon-biosignals-is-mapping-the-brain-during-sleep/"
+          "route": "/hot/2026-05-02/topic/beacon-biosignals-is-mapping-the-brain-during-sleep/",
+          "headline_zh": "Beacon Biosignals 正在绘制睡眠中的大脑活动图谱",
+          "summary_short_zh": "Beacon Biosignals 正在打造一个由 AI 驱动的平台，用于绘制睡眠期间的大脑活动图谱。公司表示，该平台旨在辅助疾病诊断和治疗。",
+          "why_it_matters_zh": "这则行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "96a8a2c3b904",
@@ -2405,7 +2519,11 @@
               "published_at": "2026-05-02T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-02/topic/artificial-intelligence-made-simple/"
+          "route": "/hot/2026-05-02/topic/artificial-intelligence-made-simple/",
+          "headline_zh": "人工智能轻松入门",
+          "summary_short_zh": "Last Week in AI 发布了一篇题为《人工智能轻松入门》的文章。从标题来看，这似乎是一篇解读或教学文章，而非新闻公告。",
+          "why_it_matters_zh": "这篇教程见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "d253b40cae3f",
@@ -2443,7 +2561,11 @@
               "published_at": "Fri, 01 May 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-05-02/topic/other-agent-runtimes-are-converging-on-similar-primitives/"
+          "route": "/hot/2026-05-02/topic/other-agent-runtimes-are-converging-on-similar-primitives/",
+          "headline_zh": "其他智能体运行时正逐渐采用相似的原语",
+          "summary_short_zh": "这篇帖子称，智能体运行时正逐渐采用相似的操作原语。文中举例提到，Devin 新增了 shell 内快捷键入口，Hermes 则新增了由监督模型监管的目标循环。",
+          "why_it_matters_zh": "这则行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "3ff0f3371945",
@@ -2481,7 +2603,11 @@
               "published_at": "Fri, 01 May 2026 23:06:50 +0000"
             }
           ],
-          "route": "/hot/2026-05-02/topic/replit-s-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-he-d-rather-not-sell/"
+          "route": "/hot/2026-05-02/topic/replit-s-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-he-d-rather-not-sell/",
+          "headline_zh": "Replit 的 Amjad Masad 谈 Cursor 交易、与苹果交锋，以及为何不愿出售公司",
+          "summary_short_zh": "本次采访中，Replit 首席执行官 Amjad Masad 谈到了 Cursor 交易、苹果在生态系统中的角色，以及 Replit 的战略方向。这是一场大会对谈，而非正式的产品或融资公告。",
+          "why_it_matters_zh": "这篇观点文章见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "18fa627afdb5",
@@ -2519,7 +2645,11 @@
               "published_at": "2026-05-02T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-02/topic/automated-weak-to-strong-researcher-alignment-science-blog/"
+          "route": "/hot/2026-05-02/topic/automated-weak-to-strong-researcher-alignment-science-blog/",
+          "headline_zh": "自动化弱到强研究员（Alignment Science Blog）",
+          "summary_short_zh": "Import AI 提供了 Alignment Science Blog 文章《自动化弱到强研究员》的链接。从标题来看，文章似乎讨论了如何将弱到强泛化或对齐相关的研究流程自动化。",
+          "why_it_matters_zh": "这篇观点文章见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "13997f144104",
@@ -2557,7 +2687,11 @@
               "published_at": "Fri, 01 May 2026 00:00:00 -0400"
             }
           ],
-          "route": "/hot/2026-05-02/topic/improving-understanding-with-language/"
+          "route": "/hot/2026-05-02/topic/improving-understanding-with-language/",
+          "headline_zh": "通过语言增进理解",
+          "summary_short_zh": "MIT 的这篇人物报道介绍了 Olivia Honeycutt 的研究，探讨语言和沟通如何塑造人们对世界的理解。这是一篇聚焦学术探索的特稿，而非关于某款 AI 产品或某项企业动态的报道。",
+          "why_it_matters_zh": "这条其他类内容见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "3dcbca342684",
@@ -2595,7 +2729,11 @@
               "published_at": "Fri, 01 May 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-05-02/topic/openai-explains-where-the-goblins-came-from/"
+          "route": "/hot/2026-05-02/topic/openai-explains-where-the-goblins-came-from/",
+          "headline_zh": "OpenAI 解释“哥布林从何而来”",
+          "summary_short_zh": "AINews 报道了 OpenAI 对 GPT-5.1 为何开始使用“哥布林”比喻的解释。摘要称，这一行为与一种奖励创造性表达的强化学习机制有关。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }

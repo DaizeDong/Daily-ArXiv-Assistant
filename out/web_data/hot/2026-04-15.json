@@ -2019,7 +2019,16 @@
           "published_at": "2026-04-14T13:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-04-15/topic/google-chrome-skills-launches-gemini-powered-reusable-prompt-workflows/"
+      "route": "/hot/2026-04-15/topic/google-chrome-skills-launches-gemini-powered-reusable-prompt-workflows/",
+      "headline_zh": "Google Chrome 推出 Skills：由 Gemini 驱动的可复用提示词工作流",
+      "summary_short_zh": "Google AI Blog 宣布 Chrome 新增一项功能，可将 AI 提示词变成一键调用的工具。博文通过视频展示了 Chrome 中的 Skills 功能。",
+      "why_it_matters_zh": "Google 正在 Chrome 中将浏览器原生 AI 自动化能力产品化，显示出 Gemini 在企业和消费者日常工作流中的渠道优势。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Chrome 桌面版用户可将提示词保存为“Skills”，在多个选定标签页上反复运行，将 Gemini 的零散用法变成标准化浏览器工作流。",
+        "Google 将用户自建 Skills 与预置技能库结合，降低配置门槛，有望加快其在普通用户中的普及。",
+        "该功能深化了 Gemini 与 Chrome 的集成，无需单独的应用，让 Google 能直接在这款高频使用的产品中嵌入 AI 任务自动化能力。"
+      ]
     },
     {
       "topic_id": "4f929492cdc0",
@@ -2067,7 +2076,16 @@
           "published_at": "2026-04-15T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-04-15/topic/bytedance-seed-unveils-seed-full-duplex-speech-llm-for-real-time-voice-interaction/"
+      "route": "/hot/2026-04-15/topic/bytedance-seed-unveils-seed-full-duplex-speech-llm-for-real-time-voice-interaction/",
+      "headline_zh": "字节跳动 Seed 发布 Seed Full-Duplex Speech LLM，支持实时语音交互",
+      "summary_short_zh": "字节跳动 Seed 推出 Seed Full-Duplex Speech LLM，这款语音模型专为专注聆听和干扰抑制而设计，旨在实现更自然的互动语音对话。",
+      "why_it_matters_zh": "字节跳动的全双工语音模型表明，低延迟语音 AI 领域的竞争正在加剧，这一领域对助手、客服和多模态智能体有重要影响。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "字节跳动 Seed 表示，Seed Full-Duplex Speech LLM 旨在实现专注聆听、稳健的干扰抑制和更自然的互动对话。",
+        "此次发布表明，字节跳动正投入可边听边说的语音系统，而非按轮次处理的语音流程。边听边说是实现类人对话智能体的关键能力。",
+        "字节跳动还在 Arena 上展示了 Dola-Seed-2.0-Preview，表明其围绕语音和基础模型评测持续积极发布模型。"
+      ]
     },
     {
       "topic_id": "b83bb9d730bf",
@@ -2119,7 +2137,14 @@
           "published_at": "2026-04-14T19:41:48+00:00"
         }
       ],
-      "route": "/hot/2026-04-15/topic/uk-gov-s-mythos-ai-tests-help-separate-cybersecurity-threat-from-hype/"
+      "route": "/hot/2026-04-15/topic/uk-gov-s-mythos-ai-tests-help-separate-cybersecurity-threat-from-hype/",
+      "headline_zh": "英国政府对 Mythos AI 的测试有助于区分真实网络安全威胁与炒作",
+      "summary_short_zh": "Ars Technica 报道了英国政府对 Mythos AI 的测试，称该模型是首个完成一项高难度多步骤渗透挑战的 AI 系统。文章将测试结果视为区分实际网络安全能力与炒作的证据。",
+      "why_it_matters_zh": "有 5 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "本周，Anthropic 联合创始人 Jack Clark 在 Semafor 世界经济峰会接受采访时，解释了公司为何一边起诉美国政府，一边仍与其保持接触。"
+      ]
     },
     {
       "topic_id": "f87cbca4c7a3",
@@ -2169,7 +2194,16 @@
           "published_at": "2026-04-15T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-04-15/topic/rethinking-on-policy-distillation-of-large-language-models-proposes-a-new-opd-training-recipe/"
+      "route": "/hot/2026-04-15/topic/rethinking-on-policy-distillation-of-large-language-models-proposes-a-new-opd-training-recipe/",
+      "headline_zh": "《重新审视大语言模型的同策略蒸馏》提出新的 OPD 训练方案",
+      "summary_short_zh": "同策略蒸馏（OPD）已成为大语言模型后训练的核心技术，但对其训练动态的认识仍然有限。本文系统研究了 OPD 的训练动态与机制。",
+      "why_it_matters_zh": "若得到验证，这项研究有望帮助前沿实验室和模型开发者改进后训练阶段的蒸馏方法，将更强的模型转化为成本更低的可部署系统。",
+      "category_zh": "研究",
+      "key_takeaways_zh": [
+        "论文研究了大语言模型后训练的核心方法同策略蒸馏，并认为其成功取决于两个关键条件，而非仅靠扩大规模。",
+        "其贡献在于解释机制并指导实践：旨在阐明 OPD 的训练动态，明确蒸馏可靠奏效的条件，并提供实用方案。",
+        "这项工作目前主要通过 arXiv 和论文聚合平台传播，尚未经过广泛的独立复现，因此更适合为研究规划提供参考，而非直接用于当前的产品决策。"
+      ]
     },
     {
       "topic_id": "810090612751",
@@ -2217,7 +2251,16 @@
           "published_at": "Tue, 14 Apr 2026 18:09:22 +0000"
         }
       ],
-      "route": "/hot/2026-04-15/topic/spring-ai-sdk-for-amazon-bedrock-agentcore-reaches-general-availability/"
+      "route": "/hot/2026-04-15/topic/spring-ai-sdk-for-amazon-bedrock-agentcore-reaches-general-availability/",
+      "headline_zh": "面向 Amazon Bedrock AgentCore 的 Spring AI SDK 正式可用",
+      "summary_short_zh": "AWS 宣布，面向 Amazon Bedrock AgentCore 的 Spring AI SDK 已正式可用。该开源 SDK 旨在帮助开发者构建可用于生产环境的 AI 智能体，并在 AgentCore Runtime 上运行。",
+      "why_it_matters_zh": "AWS 将 Bedrock AgentCore 直接接入广泛使用的 Spring 开发生态，降低企业采用 AI 智能体的门槛。",
+      "category_zh": "开发工具",
+      "key_takeaways_zh": [
+        "开源的 Spring AI AgentCore SDK 让开发者能够使用 Spring AI 构建可用于生产环境的 AI 智能体，并在 Amazon Bedrock AgentCore Runtime 上运行。",
+        "正式可用对企业采购方很重要，因为 Spring 已深度融入 Java 后端技术栈，企业无需大幅调整架构，就能更轻松地采用 Bedrock。",
+        "此次发布将模型编排和运行时服务与开发者熟悉的应用开发工具相结合，巩固了 AWS 在企业级智能体基础设施领域的地位。"
+      ]
     }
   ],
   "category_sections": [
@@ -2261,7 +2304,11 @@
               "published_at": "2026-04-15T01:59:21+00:00"
             }
           ],
-          "route": "/hot/2026-04-15/topic/zig-0-16-0-release-notes-juicy-main/"
+          "route": "/hot/2026-04-15/topic/zig-0-16-0-release-notes-juicy-main/",
+          "headline_zh": "Zig 0.16.0 发布说明：“Juicy Main”",
+          "summary_short_zh": "<p><strong><a href=\" 0.16.0 发布说明：&quot;Juicy Main&quot;</a></strong></p> Zig 的发布说明<em>写得非常出色</em>，全面、详尽，并为每项新功能提供了相关用法示例。</p> <p>在新发布的 Zig 0.16.0 中，尤其值得关注的是他们所称的",
+          "why_it_matters_zh": "此次产品发布获 1 个独立来源报道。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2305,7 +2352,10 @@
               "published_at": "2026-04-14T05:46:26Z"
             }
           ],
-          "route": "/hot/2026-04-15/topic/microsoft-exec-suggests-ai-agents-will-need-to-buy-licenses-just-like-employees/"
+          "route": "/hot/2026-04-15/topic/microsoft-exec-suggests-ai-agents-will-need-to-buy-licenses-just-like-employees/",
+          "headline_zh": "微软高管暗示，AI 智能体也将像员工一样需要购买许可证",
+          "why_it_matters_zh": "此次收购获 1 个独立来源报道。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -2355,7 +2405,11 @@
               "published_at": "2026-04-14T14:04:42-04:00"
             }
           ],
-          "route": "/hot/2026-04-15/topic/daniel-moreno-gama-is-facing-federal-charges-for-attacking-sam-altman-8217-s-home-and-openai-s-hq/"
+          "route": "/hot/2026-04-15/topic/daniel-moreno-gama-is-facing-federal-charges-for-attacking-sam-altman-8217-s-home-and-openai-s-hq/",
+          "headline_zh": "Daniel Moreno-Gama 因袭击 Sam Altman 住宅和 OpenAI 总部面临联邦指控",
+          "summary_short_zh": "Daniel Moreno-Gama 涉嫌从得克萨斯州前往加利福尼亚州，企图杀害 OpenAI 首席执行官 Sam Altman，目前面临联邦指控。4 月 10 日，他向 Sam Altman 的住宅投掷燃烧瓶并试图闯入 OpenAI 总部，随后被捕。",
+          "why_it_matters_zh": "这一行业动向获 1 个独立来源报道。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "247b870ffa6e",
@@ -2393,7 +2447,11 @@
               "published_at": "Wed, 15 Apr 2026 02:31:04 +0000"
             }
           ],
-          "route": "/hot/2026-04-15/topic/anthropic-s-rise-is-giving-some-openai-investors-second-thoughts/"
+          "route": "/hot/2026-04-15/topic/anthropic-s-rise-is-giving-some-openai-investors-second-thoughts/",
+          "headline_zh": "Anthropic 的崛起让部分 OpenAI 投资者有所动摇",
+          "summary_short_zh": "据 TechCrunch 报道，Anthropic 的增长促使部分 OpenAI 投资者重新评估两家公司的相对估值。文章援引了投资者的观点，对比了 OpenAI 的融资假设与 Anthropic 的估值走势。",
+          "why_it_matters_zh": "这一行业动向获 1 个独立来源报道。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "ec2fa6e9b3ec",
@@ -2431,7 +2489,11 @@
               "published_at": "Tue, 14 Apr 2026 15:30:49 +0000"
             }
           ],
-          "route": "/hot/2026-04-15/topic/in-just-a-couple-weeks-strictlyvc-san-francisco-brings-leaders-from-tdk-ventures-replit-and-more-together/"
+          "route": "/hot/2026-04-15/topic/in-just-a-couple-weeks-strictlyvc-san-francisco-brings-leaders-from-tdk-ventures-replit-and-more-together/",
+          "headline_zh": "再过两周，StrictlyVC 旧金山活动将汇聚 TDK Ventures、Replit 等公司的高管",
+          "summary_short_zh": "今年首场 StrictlyVC 活动即将在旧金山举行。欢迎参加 4 月 30 日的活动，与我们及众多重磅演讲嘉宾相聚。门票仅剩少量，赶快报名！",
+          "why_it_matters_zh": "这一行业动向获 1 个独立来源报道。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "9b195bac46b8",
@@ -2478,7 +2540,11 @@
               "published_at": "Tue, 14 Apr 2026 00:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-04-15/topic/trusted-access-for-the-next-era-of-cyber-defense/"
+          "route": "/hot/2026-04-15/topic/trusted-access-for-the-next-era-of-cyber-defense/",
+          "headline_zh": "为网络防御新时代提供可信访问",
+          "summary_short_zh": "OpenAI 扩大了面向通过审核的网络防御人员的 Trusted Access for Cyber 计划。更新内容包括推出 GPT-5.4-Cyber，以及增设与 AI 网络安全能力提升相配套的防护措施。",
+          "why_it_matters_zh": "这一行业动向获 2 个独立来源报道。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "2c0b88d59236",
@@ -2516,7 +2582,11 @@
               "published_at": "2026-04-14T09:53:53-04:00"
             }
           ],
-          "route": "/hot/2026-04-15/topic/has-google-s-ai-watermarking-system-been-reverse-engineered/"
+          "route": "/hot/2026-04-15/topic/has-google-s-ai-watermarking-system-been-reverse-engineered/",
+          "headline_zh": "Google 的 AI 水印系统已被逆向解析？",
+          "summary_short_zh": "一名开发者声称已通过逆向工程解析了 Google DeepMind 用于 AI 生成图像的 SynthID 水印系统。报道称，该方法可用于移除生成图像中的水印，或为其他图像添加水印。",
+          "why_it_matters_zh": "这一行业动向获 1 个独立来源报道。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -2560,7 +2630,11 @@
               "published_at": "2026-04-14T23:58:53+00:00"
             }
           ],
-          "route": "/hot/2026-04-15/topic/datasette-pr-2689-replace-token-based-csrf-with-sec-fetch-site-header-protection/"
+          "route": "/hot/2026-04-15/topic/datasette-pr-2689-replace-token-based-csrf-with-sec-fetch-site-header-protection/",
+          "headline_zh": "datasette PR #2689：用 Sec-Fetch-Site 请求头防护替代基于令牌的 CSRF 防护",
+          "summary_short_zh": "<p><strong><a href=\" PR #2689：用 Sec-Fetch-Site 请求头防护替代基于令牌的 CSRF 防护</a></strong></p> Datasette 长期使用 CSRF 令牌防范 CSRF 攻击，相关机制通过我的 <a href=\" Python 库实现。",
+          "why_it_matters_zh": "有 1 个独立来源提及该工具。",
+          "category_zh": "开发工具"
         },
         {
           "topic_id": "fbd7e300cc7c",
@@ -2598,7 +2672,11 @@
               "published_at": "2026-04-14T16:16:51Z"
             }
           ],
-          "route": "/hot/2026-04-15/topic/show-hn-kelet-root-cause-analysis-agent-for-your-llm-apps/"
+          "route": "/hot/2026-04-15/topic/show-hn-kelet-root-cause-analysis-agent-for-your-llm-apps/",
+          "headline_zh": "Show HN：Kelet，面向 LLM 应用的根因分析智能体",
+          "summary_short_zh": "一篇 Show HN 帖子介绍了 Kelet，一款面向 LLM 应用的根因分析智能体。该项目定位为开发者工具，用于诊断 LLM 应用行为中的问题。",
+          "why_it_matters_zh": "有 1 个独立来源提及该工具。",
+          "category_zh": "开发工具"
         },
         {
           "topic_id": "118e1ba4156d",
@@ -2636,7 +2714,11 @@
               "published_at": "2026-04-14T17:43:17Z"
             }
           ],
-          "route": "/hot/2026-04-15/topic/show-hn-plain-the-full-stack-python-framework-designed-for-humans-and-agents/"
+          "route": "/hot/2026-04-15/topic/show-hn-plain-the-full-stack-python-framework-designed-for-humans-and-agents/",
+          "headline_zh": "Show HN：Plain，面向人类和智能体的全栈 Python 框架",
+          "summary_short_zh": "一篇 Show HN 帖子介绍了 Plain，一个面向人类和智能体的全栈 Python 框架。该项目定位为应用框架，支持常规开发和面向智能体的开发。",
+          "why_it_matters_zh": "有 1 个独立来源提及该工具。",
+          "category_zh": "开发工具"
         }
       ]
     },
@@ -2680,7 +2762,11 @@
               "published_at": "2026-04-15T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-04-15/topic/latent-planning-emerges-with-scale/"
+          "route": "/hot/2026-04-15/topic/latent-planning-emerges-with-scale/",
+          "headline_zh": "隐式规划随规模扩大而涌现",
+          "summary_short_zh": "大语言模型无需显式表述计划，也能完成看似高度依赖规划的任务，如写出连贯的故事或可运行的代码；但其隐式规划的程度仍不清楚。",
+          "why_it_matters_zh": "有 1 个独立来源提及该论文。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "208f9edf613c",
@@ -2718,7 +2804,11 @@
               "published_at": "2026-04-15T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-04-15/topic/a-bayesian-perspective-on-the-role-of-epistemic-uncertainty-for-delayed-generalization-in-in-context-learning/"
+          "route": "/hot/2026-04-15/topic/a-bayesian-perspective-on-the-role-of-epistemic-uncertainty-for-delayed-generalization-in-in-context-learning/",
+          "headline_zh": "从贝叶斯视角看认知不确定性在上下文学习延迟泛化中的作用",
+          "summary_short_zh": "上下文学习使 Transformer 能在推理时通过少量示例适应新任务，而顿悟（grokking）现象表明，这种泛化能力可能要经过长期训练才会突然涌现。",
+          "why_it_matters_zh": "有 1 个独立来源提及该论文。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "fad7b6a060f7",
@@ -2756,7 +2846,11 @@
               "published_at": "2026-04-15T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-04-15/topic/aethon-a-reference-based-replication-primitive-for-constant-time-instantiation-of-stateful-ai-agents/"
+          "route": "/hot/2026-04-15/topic/aethon-a-reference-based-replication-primitive-for-constant-time-instantiation-of-stateful-ai-agents/",
+          "headline_zh": "Aethon：基于引用的复制原语，实现有状态 AI 智能体的常数时间实例化",
+          "summary_short_zh": "从无状态模型推理到有状态智能体执行的转变，正在重塑现代 AI 基础设施所依赖的系统假设。",
+          "why_it_matters_zh": "有 1 个独立来源提及该论文。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "5c963e80b721",
@@ -2794,7 +2888,11 @@
               "published_at": "2026-04-15T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-04-15/topic/algorithmic-analysis-of-dense-associative-memory-finite-size-guarantees-and-adversarial-robustness/"
+          "route": "/hot/2026-04-15/topic/algorithmic-analysis-of-dense-associative-memory-finite-size-guarantees-and-adversarial-robustness/",
+          "headline_zh": "稠密联想记忆的算法分析：有限规模保证与对抗鲁棒性",
+          "summary_short_zh": "稠密联想记忆（DAM）通过高阶交互推广了 Hopfield 网络，在满足适当的模式分离条件时，存储容量可达到 $O(N^{n-1})$ 量级。",
+          "why_it_matters_zh": "有 1 个独立来源提及该论文。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "cf62d2e1b028",
@@ -2832,7 +2930,11 @@
               "published_at": "2026-04-15T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-04-15/topic/chain-of-models-pre-training-rethinking-training-acceleration-of-vision-foundation-models/"
+          "route": "/hot/2026-04-15/topic/chain-of-models-pre-training-rethinking-training-acceleration-of-vision-foundation-models/",
+          "headline_zh": "模型链预训练：重新思考视觉基础模型的训练加速",
+          "summary_short_zh": "本文提出模型链预训练（CoM-PT），一种面向视觉基础模型（VFM）、不损失性能的新型训练加速方法。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         }
       ]
     }
@@ -2878,7 +2980,11 @@
               "published_at": "Tue, 14 Apr 2026 09:00:00 +0000"
             }
           ],
-          "route": "/hot/2026-04-15/topic/bringing-people-together-at-ai-for-the-economy-forum/"
+          "route": "/hot/2026-04-15/topic/bringing-people-together-at-ai-for-the-economy-forum/",
+          "headline_zh": "AI for the Economy Forum 让人们齐聚一堂",
+          "summary_short_zh": "Google AI 博客重点介绍了 AI for the Economy Forum，并展示了 Google 和 MIT FutureTech 的品牌标识。文章围绕该论坛展开，主题是新时代的创新与适应",
+          "why_it_matters_zh": "这则行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "7d117554e010",
@@ -2916,7 +3022,11 @@
               "published_at": "2026-04-15T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-15/topic/ais-can-now-often-do-massive-easy-to-verify-swe-tasks-and-i-ve-updated-towards-shorter-timelines-lesswrong/"
+          "route": "/hot/2026-04-15/topic/ais-can-now-often-do-massive-easy-to-verify-swe-tasks-and-i-ve-updated-towards-shorter-timelines-lesswrong/",
+          "headline_zh": "AI 如今常能完成规模庞大且易于验证的软件工程任务，我也因此认为 AI 的发展会比此前预期更快（LessWrong）",
+          "summary_short_zh": "AI 如今常能完成规模庞大且易于验证的软件工程任务，我也因此认为 AI 的发展会比此前预期更快（LessWrong",
+          "why_it_matters_zh": "这则其他资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "4f75eb51a37c",
@@ -2954,7 +3064,10 @@
               "published_at": "2026-04-15T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-15/topic/import-ai-453-breaking-ai-agents-mirrorcode-and-ten-views-on-gradual-disempowerment/"
+          "route": "/hot/2026-04-15/topic/import-ai-453-breaking-ai-agents-mirrorcode-and-ten-views-on-gradual-disempowerment/",
+          "headline_zh": "Import AI 第 453 期：攻破 AI 智能体；MirrorCode；关于渐进式失权的十种观点",
+          "why_it_matters_zh": "这则其他资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "6e1eca56e3e9",
@@ -2992,7 +3105,11 @@
               "published_at": "2026-04-15T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-15/topic/mirrorcode-evidence-that-ai-can-already-do-some-weeks-long-coding-tasks-epoch-ai/"
+          "route": "/hot/2026-04-15/topic/mirrorcode-evidence-that-ai-can-already-do-some-weeks-long-coding-tasks-epoch-ai/",
+          "headline_zh": "MirrorCode：证据表明 AI 已能完成一些耗时数周的编程任务（Epoch AI）",
+          "summary_short_zh": "MirrorCode：证据表明 AI 已能完成一些耗时数周的编程任务（Epoch AI",
+          "why_it_matters_zh": "这则其他资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "3d7cf9231a56",
@@ -3030,7 +3147,11 @@
               "published_at": "2026-04-15T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-15/topic/ten-different-ways-of-thinking-about-gradual-disempowerment-david-krueger-the-real-ai-substack/"
+          "route": "/hot/2026-04-15/topic/ten-different-ways-of-thinking-about-gradual-disempowerment-david-krueger-the-real-ai-substack/",
+          "headline_zh": "关于渐进式失权的十种不同思考方式（David Krueger、The Real AI、Substack）",
+          "summary_short_zh": "关于渐进式失权的十种不同思考方式（David Krueger、The Real AI、Substack",
+          "why_it_matters_zh": "这则其他资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "d9ebc2e50f99",
@@ -3068,7 +3189,11 @@
               "published_at": "Tue, 14 Apr 2026 17:13:03 +0000"
             }
           ],
-          "route": "/hot/2026-04-15/topic/max-hodak-s-science-corp-is-preparing-to-place-its-first-sensor-in-a-human-brain/"
+          "route": "/hot/2026-04-15/topic/max-hodak-s-science-corp-is-preparing-to-place-its-first-sensor-in-a-human-brain/",
+          "headline_zh": "Max Hodak 的 Science Corp. 正准备首次将其传感器植入人脑",
+          "summary_short_zh": "如果证实有效，该设备有望帮助治疗多种神经系统疾病。早期用途之一可能是对受损的大脑或脊髓细胞施加温和的电刺激，以促进修复",
+          "why_it_matters_zh": "这则其他资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "56e6848bbb0c",
@@ -3106,7 +3231,11 @@
               "published_at": "Apr 14, 2026"
             }
           ],
-          "route": "/hot/2026-04-15/topic/anthropic-s-long-term-benefit-trust-appoints-vas-narasimhan-to-board-of-directors/"
+          "route": "/hot/2026-04-15/topic/anthropic-s-long-term-benefit-trust-appoints-vas-narasimhan-to-board-of-directors/",
+          "headline_zh": "Anthropic 长期利益信托任命 Vas Narasimhan 为董事会成员",
+          "summary_short_zh": "Anthropic 宣布，Vas Narasimhan 已获任其长期利益信托的董事会成员。此举改变了负责监督 Anthropic 履行长期使命承诺的治理结构",
+          "why_it_matters_zh": "这则行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "da6a1bf677a0",
@@ -3144,7 +3273,11 @@
               "published_at": "Tue, 14 Apr 2026 09:00:00 -0400"
             }
           ],
-          "route": "/hot/2026-04-15/topic/q-a-mit-shass-and-the-future-of-education-in-the-age-of-ai/"
+          "route": "/hot/2026-04-15/topic/q-a-mit-shass-and-the-future-of-education-in-the-age-of-ai/",
+          "headline_zh": "问答：MIT SHASS 与 AI 时代的教育未来",
+          "summary_short_zh": "在人文、艺术与社会科学学院成立 75 周年之际，院长 Agustín Rayo 探讨了 AI 如何重塑高等教育，以及 SHASS 各学科为何始终是 MIT 使命的核心。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }

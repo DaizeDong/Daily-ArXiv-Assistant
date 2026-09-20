@@ -2059,7 +2059,16 @@
           "published_at": "2026-05-08T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-05-08/topic/bytedance-seed-previews-dola-seed-2-0-and-launches-seed-full-duplex-speech-llm/"
+      "route": "/hot/2026-05-08/topic/bytedance-seed-previews-dola-seed-2-0-and-launches-seed-full-duplex-speech-llm/",
+      "headline_zh": "字节跳动 Seed 展示 Dola-Seed-2.0 预览版，并发布 Seed Full-Duplex Speech LLM",
+      "summary_short_zh": "字节跳动 Seed 正式发布 Seed 2.0。公告将其介绍为一款新模型。",
+      "why_it_matters_zh": "字节跳动正释放出大力投入语音原生基础模型的信号，这一领域直接影响智能助手、通话自动化和多模态消费级产品。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "字节跳动 Seed 在 Arena 上发布 Dola-Seed-2.0-Preview，让市场提前了解其下一版模型。",
+        "该公司还推出了 Seed Full-Duplex Speech LLM，强调专注倾听、抑制干扰，以及语音交互中更自然的话轮交替。",
+        "此次公告与字节跳动 Seed 2027 年基础模型校园招聘同步推出，透露出公司持续投入前沿模型研究和人才招聘的信号。"
+      ]
     },
     {
       "topic_id": "8b3a5acd1e84",
@@ -2111,7 +2120,16 @@
           "published_at": "2026-05-07T14:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-05-08/topic/openai-launches-chatgpt-trusted-contact-for-self-harm-safety-escalation/"
+      "route": "/hot/2026-05-08/topic/openai-launches-chatgpt-trusted-contact-for-self-harm-safety-escalation/",
+      "headline_zh": "OpenAI 推出 ChatGPT Trusted Contact，用于自伤风险升级干预",
+      "summary_short_zh": "OpenAI 宣布扩展 Trusted Access for Cyber 计划，引入 GPT-5.5 和 GPT-5.5-Cyber。本次更新面向经过验证的网络防御人员，支持其开展漏洞研究和保护关键基础设施。",
+      "why_it_matters_zh": "这是消费级 AI 部署在产品和治理方面的一项重要举措，展示了主要 AI 实验室如何在广泛使用的助手中落实安全干预。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Trusted Contact 允许成年 ChatGPT 用户指定一位朋友、家人或照护者，在检测到严重自伤风险时向其发送提醒。",
+        "OpenAI 将该功能定位为可选的安全保障，使干预手段从聊天内提醒延伸至现实中的进一步介入。",
+        "The Verge 和 TechCrunch 均独立报道了该功能，表明这是一项实际推出的产品功能，而非政策构想。"
+      ]
     },
     {
       "topic_id": "933a888e4a2e",
@@ -2162,7 +2180,16 @@
           "published_at": "Thu, 07 May 2026 22:24:50 +0000"
         }
       ],
-      "route": "/hot/2026-05-08/topic/openai-ships-new-realtime-voice-models-in-the-api/"
+      "route": "/hot/2026-05-08/topic/openai-ships-new-realtime-voice-models-in-the-api/",
+      "headline_zh": "OpenAI 在 API 中推出全新实时语音模型",
+      "summary_short_zh": "探索 OpenAI API 中全新的实时语音模型，它们可进行语音推理、翻译和转录，带来更自然、更智能的语音体验。",
+      "why_it_matters_zh": "这为开发客服、教育和多语言对话产品的企业提供了更多可用于生产环境的语音 AI 基础能力。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "OpenAI 表示，新的 API 语音技术栈可对语音进行实时推理，同时在同一工作流中处理翻译和转录。",
+        "此次发布着眼于自然的语音体验，而非基础的语音转文字，推动开发者构建全双工、低延迟的对话应用。",
+        "TechCrunch 将客户服务、教育和创作者平台列为可立即部署的应用领域，表明其商业用途广泛，超出了聊天机器人的范畴。"
+      ]
     },
     {
       "topic_id": "290c5bf07b08",
@@ -2210,7 +2237,14 @@
           "published_at": "2026-05-08T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-05-08/topic/continuous-latent-diffusion-language-model/"
+      "route": "/hot/2026-05-08/topic/continuous-latent-diffusion-language-model/",
+      "headline_zh": "连续潜空间扩散语言模型",
+      "summary_short_zh": "一篇研究论文提出连续潜空间扩散语言模型，作为标准自回归文本生成的替代方案。该研究探索如何在不依赖固定的从左到右解码顺序的情况下生成高质量文本。",
+      "why_it_matters_zh": "有 2 个独立来源提及这篇研究论文。",
+      "category_zh": "研究",
+      "key_takeaways_zh": [
+        "大语言模型在自回归范式下取得了显著成功，但高质量文本生成并不一定要遵循固定的从左到右顺序。现有替代方案仍……"
+      ]
     },
     {
       "topic_id": "bbafd9f1c1c4",
@@ -2259,7 +2293,16 @@
           "published_at": "2026-05-07T00:00:00.000Z"
         }
       ],
-      "route": "/hot/2026-05-08/topic/unipool-introduces-a-globally-shared-expert-pool-for-mixture-of-experts-models/"
+      "route": "/hot/2026-05-08/topic/unipool-introduces-a-globally-shared-expert-pool-for-mixture-of-experts-models/",
+      "headline_zh": "UniPool 为混合专家模型引入全局共享专家池",
+      "summary_short_zh": "现代混合专家（MoE）架构遵循固定的逐层规则来分配专家容量：每个 Transformer 层都有一组独立的专家。这一惯例将深度扩展与专家参数量的线性增长绑定在一起，并假设每层都需要独立的专家容量。",
+      "why_it_matters_zh": "如果得到验证，UniPool 有望通过减少各层重复配置专家的需求，显著改善 MoE 系统扩展的成本效益。",
+      "category_zh": "研究",
+      "key_takeaways_zh": [
+        "UniPool 用一个由 Transformer 各层共用的全局专家池，取代了每层各自拥有专家的标准模式。",
+        "该论文认为，专家容量可随模型深度呈次线性增长，挑战了更深的 MoE 模型需要专家参数量线性增长这一主流假设。",
+        "这项研究直接针对现代混合专家（MoE）架构的一大成本来源：模型深度扩展与专家参数量增长之间的刚性耦合。"
+      ]
     }
   ],
   "category_sections": [
@@ -2303,7 +2346,11 @@
               "published_at": "Thu, 07 May 2026 11:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-05-08/topic/parloa-builds-service-agents-customers-want-to-talk-to/"
+          "route": "/hot/2026-05-08/topic/parloa-builds-service-agents-customers-want-to-talk-to/",
+          "headline_zh": "Parloa 打造客户愿意与之交谈的客服智能体",
+          "summary_short_zh": "Parloa 利用 OpenAI 模型打造可扩展的语音 AI 客服智能体，帮助企业设计、模拟和部署可靠的实时交互。",
+          "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "634207f28cf0",
@@ -2341,7 +2388,11 @@
               "published_at": "Thu, 07 May 2026 12:55:17 +0000"
             }
           ],
-          "route": "/hot/2026-05-08/topic/agents-that-transact-introducing-amazon-bedrock-agentcore-payments-built-with-coinbase-and-stripe/"
+          "route": "/hot/2026-05-08/topic/agents-that-transact-introducing-amazon-bedrock-agentcore-payments-built-with-coinbase-and-stripe/",
+          "headline_zh": "能完成交易的智能体：介绍与 Coinbase 和 Stripe 联合打造的 Amazon Bedrock AgentCore 支付功能",
+          "summary_short_zh": "AWS 宣布推出 Amazon Bedrock AgentCore Payments 预览版，让 AI 智能体能够访问服务并支付使用费用。该功能与 Coinbase 和 Stripe 联合打造，扩展了 Amazon Bedrock AgentCore 的能力。",
+          "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "7cddca6c1949",
@@ -2379,7 +2430,11 @@
               "published_at": "2026-05-07T12:00:16+00:00"
             }
           ],
-          "route": "/hot/2026-05-08/topic/qvac-medpsy-state-of-the-art-medical-and-healthcare-language-models-for-edge-devices/"
+          "route": "/hot/2026-05-08/topic/qvac-medpsy-state-of-the-art-medical-and-healthcare-language-models-for-edge-devices/",
+          "headline_zh": "QVAC MedPsy：面向边缘设备的最先进医疗健康语言模型",
+          "summary_short_zh": "Hugging Face 发布博文，介绍 QVAC MedPsy，称其为面向边缘设备的最先进医疗健康语言模型。内容围绕模型发布或展示，重点关注医疗 AI 的高效部署。",
+          "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2423,7 +2478,11 @@
               "published_at": "Thu, 07 May 2026 21:02:11 +0000"
             }
           ],
-          "route": "/hot/2026-05-08/topic/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/"
+          "route": "/hot/2026-05-08/topic/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
+          "headline_zh": "Voi 创始人新创立的 AI 公司 Pit 成为斯德哥尔摩又一颗新星",
+          "summary_short_zh": "AI 初创公司 Pit 由欧洲滑板车巨头 Voi 的联合创始人领导，并获得 a16z 支持。a16z 正领投该公司 1600 万美元的种子轮融资。",
+          "why_it_matters_zh": "该融资消息见于 1 个独立来源。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -2476,7 +2535,11 @@
               "published_at": "Thu, 07 May 2026 19:18:16 +0000"
             }
           ],
-          "route": "/hot/2026-05-08/topic/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/"
+          "route": "/hot/2026-05-08/topic/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/",
+          "headline_zh": "Mozilla 称 Mythos 发现的 271 个漏洞“几乎没有误报”",
+          "summary_short_zh": "Mozilla 表示，Mythos 在 Firefox 相关工作中发现了 271 个漏洞，几乎没有误报。报道称，Mozilla 已广泛利用 AI 辅助发现软件缺陷。",
+          "why_it_matters_zh": "该行业动态见于 3 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "b0cccbc3d863",
@@ -2523,7 +2586,11 @@
               "published_at": "2026-05-07T17:09:28+00:00"
             }
           ],
-          "route": "/hot/2026-05-08/topic/notes-on-the-xai-anthropic-data-center-deal/"
+          "route": "/hot/2026-05-08/topic/notes-on-the-xai-anthropic-data-center-deal/",
+          "headline_zh": "xAI/Anthropic 数据中心协议简评",
+          "summary_short_zh": "这篇文章分析了 Anthropic 宣布的一项协议：与 SpaceX/xAI 合作，使用一处数据中心的全部算力。文章认为，这是 Anthropic 在 Code w/ Claude 活动中最重要的公告。",
+          "why_it_matters_zh": "该行业动态见于 2 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "43c977a23cc6",
@@ -2561,7 +2628,11 @@
               "published_at": "2026-05-07T15:26:16-04:00"
             }
           ],
-          "route": "/hot/2026-05-08/topic/spacex-has-a-55-billion-plan-to-build-ai-chips-in-texas/"
+          "route": "/hot/2026-05-08/topic/spacex-has-a-55-billion-plan-to-build-ai-chips-in-texas/",
+          "headline_zh": "SpaceX 计划斥资 550 亿美元在得克萨斯州制造 AI 芯片",
+          "summary_short_zh": "埃隆·马斯克进军 AI 芯片制造业的计划将耗资不菲。据《纽约时报》和 CNBC 报道，SpaceX 计划向其位于得克萨斯州奥斯汀的“Terafab”芯片工厂投入至少 550 亿美元。",
+          "why_it_matters_zh": "这一行业动向见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "d2a9fe7f4f91",
@@ -2599,7 +2670,10 @@
               "published_at": "2026-05-08T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-08/topic/automated-ai-research-intern-by-september-of-2026/"
+          "route": "/hot/2026-05-08/topic/automated-ai-research-intern-by-september-of-2026/",
+          "headline_zh": "2026 年 9 月前推出自动化 AI 研究实习生",
+          "why_it_matters_zh": "这则其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "aa144d815b76",
@@ -2637,7 +2711,10 @@
               "published_at": "2026-05-08T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-08/topic/import-ai-454-automating-alignment-research-safety-study-of-a-chinese-model-hifloat4/"
+          "route": "/hot/2026-05-08/topic/import-ai-454-automating-alignment-research-safety-study-of-a-chinese-model-hifloat4/",
+          "headline_zh": "Import AI 第 454 期：对齐研究自动化；一款中国模型的安全性研究；HiFloat4",
+          "why_it_matters_zh": "这则其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -2681,7 +2758,11 @@
               "published_at": "2026-05-07T07:25:14+00:00"
             }
           ],
-          "route": "/hot/2026-05-08/topic/github-repo-stats/"
+          "route": "/hot/2026-05-08/topic/github-repo-stats/",
+          "headline_zh": "GitHub Repo Stats",
+          "summary_short_zh": "<p><strong>工具：</strong> <a href=\" Repo Stats</a></p> <p>评估一个新的 GitHub 仓库时，我总会查看它的提交次数……但 GitHub 的移动版页面不显示这个数字。",
+          "why_it_matters_zh": "这款工具见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "8bc521ac034b",
@@ -2719,7 +2800,11 @@
               "published_at": "2026-05-07T06:12:25Z"
             }
           ],
-          "route": "/hot/2026-05-08/topic/show-hn-agent-skills-eval-test-whether-agent-skills-improve-outputs/"
+          "route": "/hot/2026-05-08/topic/show-hn-agent-skills-eval-test-whether-agent-skills-improve-outputs/",
+          "headline_zh": "Show HN：Agent-skills-eval，测试 Agent Skills 能否提升输出质量",
+          "summary_short_zh": "一篇 Show HN 帖子介绍了 Agent-skills-eval，这款工具用于测试智能体技能能否提升输出质量。这是一则关于智能体系统评估工具的社区发布及讨论帖。",
+          "why_it_matters_zh": "这款工具见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     },
@@ -2763,7 +2848,11 @@
               "published_at": "2026-05-08T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-08/topic/more-is-not-always-better-cross-component-interference-in-llm-agent-scaffolding/"
+          "route": "/hot/2026-05-08/topic/more-is-not-always-better-cross-component-interference-in-llm-agent-scaffolding/",
+          "headline_zh": "并非越多越好：LLM 智能体支撑框架中的跨组件干扰",
+          "summary_short_zh": "LLM 智能体系统在构建时会叠加规划、工具、记忆、自我反思和检索等支撑组件，假定组件越多越好。我们研究跨组件干扰（CCI），即组件相互冲突导致的性能下降。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "8a7755e03601",
@@ -2801,7 +2890,11 @@
               "published_at": "2026-05-08T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-08/topic/decoupled-pfns-identifiable-epistemic-aleatoric-decomposition-via-structured-synthetic-priors/"
+          "route": "/hot/2026-05-08/topic/decoupled-pfns-identifiable-epistemic-aleatoric-decomposition-via-structured-synthetic-priors/",
+          "headline_zh": "解耦 PFNs：通过结构化合成先验实现认知不确定性与偶然不确定性的可辨识分解",
+          "summary_short_zh": "先验拟合网络（PFNs）通过在合成任务先验上进行元学习，摊销贝叶斯预测的计算成本，但其标准输出是含噪观测的后验预测分布。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "c79b18badb09",
@@ -2839,7 +2932,11 @@
               "published_at": "2026-05-08T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-08/topic/a-measure-theoretic-finite-sample-theory-for-adaptive-data-fitted-q-iteration/"
+          "route": "/hot/2026-05-08/topic/a-measure-theoretic-finite-sample-theory-for-adaptive-data-fitted-q-iteration/",
+          "headline_zh": "自适应数据下拟合 Q 迭代的测度论有限样本理论",
+          "summary_short_zh": "尽管强化学习（RL）有望革新复杂非线性机器人系统的控制，无模型离策略深度强化学习凭借启发式方法取得的成功，与其理论基础之间仍存在巨大鸿沟；相关理论仍主要局限于表格型或可线性化情形。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "141473d72821",
@@ -2877,7 +2974,11 @@
               "published_at": "2026-05-08T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-08/topic/a-regime-theory-of-controller-class-selection-for-llm-action-decisions/"
+          "route": "/hot/2026-05-08/topic/a-regime-theory-of-controller-class-selection-for-llm-action-decisions/",
+          "headline_zh": "LLM 行动决策中控制器类别选择的分区理论",
+          "summary_short_zh": "已部署的语言模型和视觉语言模型必须针对每次输入，决定是直接回答、检索证据、交由更强的模型处理，还是放弃作答。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "dec73b4ff829",
@@ -2915,7 +3016,11 @@
               "published_at": "2026-05-08T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-08/topic/a-testable-certificate-for-constant-collapse-in-teacher-guided-vaes/"
+          "route": "/hot/2026-05-08/topic/a-testable-certificate-for-constant-collapse-in-teacher-guided-vaes/",
+          "headline_zh": "教师引导的 VAE 中常数坍缩的可检验判据",
+          "summary_short_zh": "变分自编码器的后验坍缩通常依据一些征兆来诊断：KL 项较小、解码器较强，或对潜在编码的利用不足。这些信号有参考价值，但无法界定坍缩边界。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         }
       ]
     }
@@ -2961,7 +3066,10 @@
               "published_at": "2026-05-08T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-08/topic/import-ai-455-automating-ai-research/"
+          "route": "/hot/2026-05-08/topic/import-ai-455-automating-ai-research/",
+          "headline_zh": "Import AI 第 455 期：AI 研究自动化",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "efbc89a279a4",
@@ -2999,7 +3107,10 @@
               "published_at": "2026-05-08T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-08/topic/meta-pivots-from-open-weights-big-pharma-bets-on-ai-regulatory-patchwork-simulating-human-cohorts/"
+          "route": "/hot/2026-05-08/topic/meta-pivots-from-open-weights-big-pharma-bets-on-ai-regulatory-patchwork-simulating-human-cohorts/",
+          "headline_zh": "Meta 转离开放权重路线，大型药企押注 AI，监管规则碎片化，模拟人类群体",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "13173539cb4b",
@@ -3037,7 +3148,11 @@
               "published_at": "Fri, 08 May 2026 04:42:29 +0000"
             }
           ],
-          "route": "/hot/2026-05-08/topic/why-you-can-never-get-your-doctor-to-call-you-back/"
+          "route": "/hot/2026-05-08/topic/why-you-can-never-get-your-doctor-to-call-you-back/",
+          "headline_zh": "为什么你总是等不到医生回电",
+          "summary_short_zh": "与许多将人工工作自动化的 AI 公司一样，Basata 最终也会面临一个更棘手的问题：辅助员工与取代员工之间的界线在哪里。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "e7b81a4720af",
@@ -3075,7 +3190,10 @@
               "published_at": "2026-05-08T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-08/topic/glm-5-1-thinks-strategically-data-center-revolt-intensifies-when-helpful-llms-turn-unhelpful-humanoid-robots-get-to-work/"
+          "route": "/hot/2026-05-08/topic/glm-5-1-thinks-strategically-data-center-revolt-intensifies-when-helpful-llms-turn-unhelpful-humanoid-robots-get-to-work/",
+          "headline_zh": "GLM 5.1 展现战略思维，反对数据中心的声浪加剧，当 LLM 不再有帮助，人形机器人上岗",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "6651818ff4cd",
@@ -3113,7 +3231,11 @@
               "published_at": "Thu, 07 May 2026 00:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-05-08/topic/testing-ads-in-chatgpt/"
+          "route": "/hot/2026-05-08/topic/testing-ads-in-chatgpt/",
+          "headline_zh": "在 ChatGPT 中测试广告",
+          "summary_short_zh": "OpenAI 表示，正在 ChatGPT 中测试广告，以支持免费使用。该公司称，广告将有明确标识，并与回答生成过程分离，同时为用户提供隐私控制选项。",
+          "why_it_matters_zh": "这项行业举措见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "3c017956980d",
@@ -3157,7 +3279,11 @@
               "published_at": "Thu, 07 May 2026 15:59:50 +0000"
             }
           ],
-          "route": "/hot/2026-05-08/topic/overcoming-reward-signal-challenges-verifiable-rewards-based-reinforcement-learning-with-grpo-on-sagemaker-ai/"
+          "route": "/hot/2026-05-08/topic/overcoming-reward-signal-challenges-verifiable-rewards-based-reinforcement-learning-with-grpo-on-sagemaker-ai/",
+          "headline_zh": "克服奖励信号难题：在 SageMaker AI 上使用 GRPO 进行基于可验证奖励的强化学习",
+          "summary_short_zh": "AWS 发布了一篇教程，介绍如何在 SageMaker AI 上使用 GRPO 实现基于可验证奖励的强化学习。文章重点介绍如何提高奖励透明度和训练性能。",
+          "why_it_matters_zh": "这篇教程见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "57e4a5ca4b6a",
@@ -3195,7 +3321,11 @@
               "published_at": "Thu, 07 May 2026 19:57:59 +0000"
             }
           ],
-          "route": "/hot/2026-05-08/topic/perplexity-s-personal-computer-is-now-available-to-everyone-on-mac/"
+          "route": "/hot/2026-05-08/topic/perplexity-s-personal-computer-is-now-available-to-everyone-on-mac/",
+          "headline_zh": "Perplexity 的 Personal Computer 现已向所有 Mac 用户开放",
+          "summary_short_zh": "Perplexity 的 Personal Computer 将 AI 智能体带到你的 Mac，现已向所有人开放",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "e34bdbd68594",
@@ -3233,7 +3363,11 @@
               "published_at": "2026-05-07T15:39:22-04:00"
             }
           ],
-          "route": "/hot/2026-05-08/topic/apple-8217-s-airpods-with-cameras-for-ai-are-apparently-close-to-production/"
+          "route": "/hot/2026-05-08/topic/apple-8217-s-airpods-with-cameras-for-ai-are-apparently-close-to-production/",
+          "headline_zh": "苹果配备摄像头、支持 AI 的 AirPods 据称即将投产",
+          "summary_short_zh": "据彭博社 Mark Gurman 报道，传闻中配备摄像头的苹果 AirPods 即将进入初期量产测试阶段。",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }

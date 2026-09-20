@@ -1080,7 +1080,16 @@
           "published_at": "2026-04-19T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-04-19/topic/bytedance-seed-introduces-seed-full-duplex-speech-llm-for-real-time-voice-interaction/"
+      "route": "/hot/2026-04-19/topic/bytedance-seed-introduces-seed-full-duplex-speech-llm-for-real-time-voice-interaction/",
+      "headline_zh": "字节跳动 Seed 推出 Seed Full-Duplex Speech LLM，支持实时语音交互",
+      "summary_short_zh": "字节跳动 Seed 推出了 Seed Full-Duplex Speech LLM。该模型面向实时语音交互，具备专注聆听和干扰抑制等功能。",
+      "why_it_matters_zh": "全双工语音系统具有战略意义，能让客服、助手和具身 AI 产品中的语音智能体实现更自然的交互。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "字节跳动 Seed 表示，Seed Full-Duplex Speech LLM 注重专注聆听、强大的抗干扰能力和更自然的实时交互。",
+        "字节跳动 Seed 同期还在 Arena 上发布了 Dola-Seed-2.0-Preview，显示其语音和通用模型产品线都保持着活跃的发布节奏。",
+        "全双工交互的重要性在于支持边听边说，而许多现有的轮流对话式语音助手尚不具备这一能力。"
+      ]
     },
     {
       "topic_id": "22eaee0d456b",
@@ -1130,7 +1139,15 @@
           "published_at": "2026-04-14T06:34:55Z"
         }
       ],
-      "route": "/hot/2026-04-19/topic/poseljacob-agentic-video-editor/"
+      "route": "/hot/2026-04-19/topic/poseljacob-agentic-video-editor/",
+      "headline_zh": "poseljacob/agentic-video-editor",
+      "summary_short_zh": "GitHub 仓库 agentic-video-editor 登上热门榜。这款 AI 视频编辑器可根据原始素材和创意简报生成广告，结合 Google Gemini 和 FFmpeg，通过多个 AI 智能体协作完成制作。",
+      "why_it_matters_zh": "有 2 个独立来源提及该工具。",
+      "category_zh": "工具",
+      "key_takeaways_zh": [
+        "claude-code-java 是一个可嵌入任何 Java 应用的 AI Agent 引擎。claude-code-java is an embeddable AI Agent engine for Java applications.",
+        "AI 视频编辑器，通过多个 AI 智能体协作（Google Gemini + FFmpeg），根据创意简报将原始素材制作成精良的广告。"
+      ]
     },
     {
       "topic_id": "428b9d91b905",
@@ -1178,7 +1195,14 @@
           "published_at": "2026-04-19T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-04-19/topic/anthropic-s-claude-mythos-problem-dark-dna-unveiled-pitfalls-for-assistive-models-simulating-fluid-dynamics/"
+      "route": "/hot/2026-04-19/topic/anthropic-s-claude-mythos-problem-dark-dna-unveiled-pitfalls-for-assistive-models-simulating-fluid-dynamics/",
+      "headline_zh": "Anthropic 的 Claude Mythos 问题、暗 DNA 揭秘、辅助模型的陷阱、流体动力学模拟",
+      "summary_short_zh": "The Batch 汇总报道了 Anthropic 的 Claude Mythos 问题、暗 DNA、辅助模型的陷阱和流体动力学模拟。这是一篇多主题综述，并非一手公告。",
+      "why_it_matters_zh": "有 2 个独立来源提及此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Anthropic 宣布推出新模型 Claude Mythos"
+      ]
     },
     {
       "topic_id": "2d94beea3f64",
@@ -1220,7 +1244,16 @@
           "published_at": "2026-04-14T02:39:44Z"
         }
       ],
-      "route": "/hot/2026-04-19/topic/baidu-releases-ernie-image-an-8b-open-weight-text-to-image-model/"
+      "route": "/hot/2026-04-19/topic/baidu-releases-ernie-image-an-8b-open-weight-text-to-image-model/",
+      "headline_zh": "百度发布 ERNIE-Image：80 亿参数的开放权重文生图模型",
+      "summary_short_zh": "百度的开放文生图模型 ERNIE-Image 仓库登上 GitHub 热门榜。项目介绍称，其采用单流扩散 Transformer 架构，DiT 参数量为 80 亿。",
+      "why_it_matters_zh": "一款宣称性能达到最先进水平的 80 亿参数开放权重图像模型，可能改变企业和初创公司在生成式媒体领域自建或采购的选择。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "百度将 ERNIE-Image 作为开放文生图模型发布，而非仅通过 API 提供的封闭系统，使其对自托管和微调部署更具吸引力。",
+        "该模型采用单流扩散 Transformer 架构，DiT 参数量为 80 亿，为评测开放图像生成技术栈的团队提供了明确的规模参照。",
+        "仓库介绍宣称，ERNIE-Image 的性能在开放权重文生图模型中达到最先进水平，直接对标其他开放图像生成模型，而非专有系统。"
+      ]
     },
     {
       "topic_id": "9da83888a0dd",
@@ -1268,7 +1301,16 @@
           "published_at": "2026-04-19T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-04-19/topic/epoch-ai-s-mirrorcode-reports-ai-can-complete-some-weeks-long-coding-tasks/"
+      "route": "/hot/2026-04-19/topic/epoch-ai-s-mirrorcode-reports-ai-can-complete-some-weeks-long-coding-tasks/",
+      "headline_zh": "Epoch AI 的 MirrorCode 报告称，AI 可完成部分耗时数周的编程任务",
+      "summary_short_zh": "Import AI 重点介绍了 Epoch AI 的 MirrorCode 研究，将其视为 AI 已能完成部分耗时数周编程任务的证据。该报道将 MirrorCode 作为 AI 具备更长周期软件任务执行能力的实证支持。",
+      "why_it_matters_zh": "如果这一结果得到复现，将显著影响人们对软件自动化时间表、智能体产品覆盖范围，以及长周期编程工作流基础设施需求的预期。",
+      "category_zh": "研究",
+      "key_takeaways_zh": [
+        "MirrorCode 被视为 AI 系统已能处理部分人类需要数周才能完成的软件工程任务的证据，所涉及的任务跨度超出了短时基准测试。",
+        "Import AI 扩大了这一话题的影响，并将该结果与人们对 AI 完成大规模、易验证软件工程任务能力的预期调整联系起来。",
+        "对企业管理者而言，实际意义不在于一般的编程辅助，而在于智能体可能拓展到持续时间更长、产出可自动测试或验证的工作流。"
+      ]
     }
   ],
   "category_sections": [
@@ -1312,7 +1354,11 @@
               "published_at": "Sat, 18 Apr 2026 13:00:00 +0000"
             }
           ],
-          "route": "/hot/2026-04-19/topic/the-app-store-is-booming-again-and-ai-may-be-why/"
+          "route": "/hot/2026-04-19/topic/the-app-store-is-booming-again-and-ai-may-be-why/",
+          "headline_zh": "App Store 再度繁荣，AI 或是背后推手",
+          "summary_short_zh": "Appfigures 的最新数据显示，2026 年新应用发布量大增，这表明 AI 工具可能正在推动移动软件繁荣。",
+          "why_it_matters_zh": "这则产品发布消息来自 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -1356,7 +1402,11 @@
               "published_at": "Fri, 17 Apr 2026 22:34:02 +0000"
             }
           ],
-          "route": "/hot/2026-04-19/topic/sam-altman-s-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/"
+          "route": "/hot/2026-04-19/topic/sam-altman-s-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/",
+          "headline_zh": "Sam Altman 的 World 项目寻求扩大真人验证版图。首站：Tinder。",
+          "summary_short_zh": "World 的匿名验证项目以 Orb 为核心，引发了质疑，也吸引了大量关注。如今，World 正寻求通过一系列新合作扩大影响力。",
+          "why_it_matters_zh": "这则融资消息来自 1 个独立来源。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -1400,7 +1450,11 @@
               "published_at": "Sat, 18 Apr 2026 19:19:11 +0000"
             }
           ],
-          "route": "/hot/2026-04-19/topic/ai-chip-startup-cerebras-files-for-ipo/"
+          "route": "/hot/2026-04-19/topic/ai-chip-startup-cerebras-files-for-ipo/",
+          "headline_zh": "AI 芯片初创公司 Cerebras 提交 IPO 申请",
+          "summary_short_zh": "AI 芯片初创公司 Cerebras 已提交首次公开募股申请。此前不久，该公司达成了多项商业协议，包括 AWS 在亚马逊数据中心部署 Cerebras 芯片，以及据报道与 OpenAI 达成的价值超过 100 亿美元的协议。",
+          "why_it_matters_zh": "这则行业动态来自 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "f6f3fdb6122f",
@@ -1438,7 +1492,11 @@
               "published_at": "Sat, 18 Apr 2026 14:56:48 +0000"
             }
           ],
-          "route": "/hot/2026-04-19/topic/anthropic-s-relationship-with-the-trump-administration-seems-to-be-thawing/"
+          "route": "/hot/2026-04-19/topic/anthropic-s-relationship-with-the-trump-administration-seems-to-be-thawing/",
+          "headline_zh": "Anthropic 与特朗普政府的关系似乎正在回暖",
+          "summary_short_zh": "TechCrunch 报道称，Anthropic 仍与特朗普政府的高级官员保持联系，尽管五角大楼近期已将 Anthropic 列为供应链风险。",
+          "why_it_matters_zh": "这则行业动态来自 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "1d12565d4018",
@@ -1476,7 +1534,11 @@
               "published_at": "Sun, 19 Apr 2026 04:14:11 +0000"
             }
           ],
-          "route": "/hot/2026-04-19/topic/ai-cuda/"
+          "route": "/hot/2026-04-19/topic/ai-cuda/",
+          "headline_zh": "黄仁勋都被问毛了：顶级AI厂商在去CUDA？“你的前提就是错的”",
+          "summary_short_zh": "万字实录在此",
+          "why_it_matters_zh": "这则其他类别的消息来自 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "a70be6bdfd72",
@@ -1514,7 +1576,11 @@
               "published_at": "2026-04-18T17:08:45-04:00"
             }
           ],
-          "route": "/hot/2026-04-19/topic/the-ram-shortage-could-last-years/"
+          "route": "/hot/2026-04-19/topic/the-ram-shortage-could-last-years/",
+          "headline_zh": "内存短缺可能持续数年",
+          "summary_short_zh": "据《日经亚洲》报道，尽管供应商正在提高 DRAM 产量，预计到 2027 年底，制造商仍只能满足 60% 的需求。SK 集团董事长甚至表示，短缺可能持续到 2030 年。",
+          "why_it_matters_zh": "这则其他类别的消息来自 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "856e23f71230",
@@ -1552,7 +1618,11 @@
               "published_at": "Sat, 18 Apr 2026 15:58:07 +0000"
             }
           ],
-          "route": "/hot/2026-04-19/topic/ai-1800/"
+          "route": "/hot/2026-04-19/topic/ai-1800/",
+          "headline_zh": "AI开始接管实验室了！玻尔·跃迁实验室：试剂、设备、数据一个入口搞定，1800+设备即插即用",
+          "summary_short_zh": "自然语言控制设备，零编程编排流程",
+          "why_it_matters_zh": "这则其他类别的消息来自 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -1596,7 +1666,11 @@
               "published_at": "Fri, 17 Apr 2026 22:04:15 +0000"
             }
           ],
-          "route": "/hot/2026-04-19/topic/introducing-granular-cost-attribution-for-amazon-bedrock/"
+          "route": "/hot/2026-04-19/topic/introducing-granular-cost-attribution-for-amazon-bedrock/",
+          "headline_zh": "Amazon Bedrock 推出细粒度成本归因功能",
+          "summary_short_zh": "AWS 为 Amazon Bedrock 推出了细粒度成本归因功能。文章介绍了该功能的工作原理，并提供了跟踪使用费用的场景示例。",
+          "why_it_matters_zh": "这则工具动态来自 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     },
@@ -1640,7 +1714,11 @@
               "published_at": "2026-04-18T23:59:40+00:00"
             }
           ],
-          "route": "/hot/2026-04-19/topic/changes-in-the-system-prompt-between-claude-opus-4-6-and-4-7/"
+          "route": "/hot/2026-04-19/topic/changes-in-the-system-prompt-between-claude-opus-4-6-and-4-7/",
+          "headline_zh": "Claude Opus 4.6 与 4.7 的系统提示词变化",
+          "summary_short_zh": "Simon Willison 分析了 Claude Opus 4.6 与 Claude Opus 4.7 已公开的系统提示词之间的差异。文章重点介绍了 Anthropic 面向用户的聊天系统指令在提示词层面的变化。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "28a685bffa2f",
@@ -1678,7 +1756,11 @@
               "published_at": "2026-04-18T12:25:00+00:00"
             }
           ],
-          "route": "/hot/2026-04-19/topic/claude-system-prompts-as-a-git-timeline/"
+          "route": "/hot/2026-04-19/topic/claude-system-prompts-as-a-git-timeline/",
+          "headline_zh": "用 Git 时间线呈现 Claude 系统提示词的演变",
+          "summary_short_zh": "Simon Willison 发表了一篇分析文章，将 Claude 系统提示词的演变整理成 Git 风格的时间线。文章利用 Anthropic 公开的系统提示词，探讨其随时间发生的变化。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         }
       ]
     }
@@ -1724,7 +1806,11 @@
               "published_at": "2026-04-19T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-19/topic/windfall-policy-atlas-windfall-trust-website/"
+          "route": "/hot/2026-04-19/topic/windfall-policy-atlas-windfall-trust-website/",
+          "headline_zh": "Windfall Policy Atlas（Windfall Trust 网站）",
+          "summary_short_zh": "Import AI 提到了 Windfall Trust 网站上的 Windfall Policy Atlas。这条资讯似乎指向一个与意外收益治理相关的政策资源或数据库。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "0d5c38dd6c1b",
@@ -1762,7 +1848,11 @@
               "published_at": "2026-04-19T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-19/topic/openai-s-gpt-5-4-cyber-rejects-mythos-playbook/"
+          "route": "/hot/2026-04-19/topic/openai-s-gpt-5-4-cyber-rejects-mythos-playbook/",
+          "headline_zh": "OpenAI 的 GPT-5.4-Cyber 拒绝采用 Mythos 的策略",
+          "summary_short_zh": "The Rundown AI 报道称，OpenAI 的 GPT-5.4-Cyber 拒绝采用 Mythos 的策略。标题显示，这涉及网络安全模型评估或安全相关结果，但该条目未提供更多细节。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "145ed0e1c658",
@@ -1800,7 +1890,11 @@
               "published_at": "2026-04-19T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-19/topic/openai-s-superapp-hiding-inside-codex/"
+          "route": "/hot/2026-04-19/topic/openai-s-superapp-hiding-inside-codex/",
+          "headline_zh": "藏在 Codex 里的 OpenAI 超级应用",
+          "summary_short_zh": "The Rundown AI 报道了一种观点，认为 Codex 可能发展成 OpenAI 的超级应用。标题似乎在解读以 Codex 为核心的产品战略，但该条目没有提供更多事实细节。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "e91f83ed10a8",
@@ -1844,7 +1938,11 @@
               "published_at": "2026-04-19T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-19/topic/ten-different-ways-of-thinking-about-gradual-disempowerment-david-krueger-the-real-ai-substack/"
+          "route": "/hot/2026-04-19/topic/ten-different-ways-of-thinking-about-gradual-disempowerment-david-krueger-the-real-ai-substack/",
+          "headline_zh": "思考渐进式失权的十种视角（David Krueger，The Real AI，Substack）",
+          "summary_short_zh": "Import AI 提到了 David Krueger 在 Substack 上发表的一篇文章，概述了思考渐进式失权的十种视角。文章为理解 AI 风险及其社会影响提供了一个框架，并非新产品或新研究的发布消息。",
+          "why_it_matters_zh": "这篇观点文章见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "090af907f1db",
@@ -1882,7 +1980,11 @@
               "published_at": "2026-04-17T23:59:03+00:00"
             }
           ],
-          "route": "/hot/2026-04-19/topic/join-us-at-pycon-us-2026-in-long-beach-we-have-new-ai-and-security-tracks-this-year/"
+          "route": "/hot/2026-04-19/topic/join-us-at-pycon-us-2026-in-long-beach-we-have-new-ai-and-security-tracks-this-year/",
+          "headline_zh": "欢迎来长滩参加 PyCon US 2026，今年新增 AI 和安全专题",
+          "summary_short_zh": "Simon Willison 宣布，在长滩举办的 PyCon US 2026 将新增 AI 和安全专题。文章介绍了这场即将举行的会议的日程安排和相关信息。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "d799430a4a90",
@@ -1920,7 +2022,11 @@
               "published_at": "2026-04-18T03:15:36+00:00"
             }
           ],
-          "route": "/hot/2026-04-19/topic/adding-a-new-content-type-to-my-blog-to-newsletter-tool/"
+          "route": "/hot/2026-04-19/topic/adding-a-new-content-type-to-my-blog-to-newsletter-tool/",
+          "headline_zh": "为我的博客转邮件简报工具添加一种新内容类型",
+          "summary_short_zh": "Simon Willison 撰文介绍了为他的博客转邮件简报工具添加新内容类型的过程。文章通过一个与其《Agentic Engineering Patterns》内容相关的提示词示例，解释了实现方式。",
+          "why_it_matters_zh": "这篇教程见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "def5d82045f4",
@@ -1958,7 +2064,11 @@
               "published_at": "2026-04-19T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-19/topic/attacks-on-data-centers-qwen3-5-in-all-sizes-deepseek-s-huawei-play-apple-s-multimodal-tokenizer/"
+          "route": "/hot/2026-04-19/topic/attacks-on-data-centers-qwen3-5-in-all-sizes-deepseek-s-huawei-play-apple-s-multimodal-tokenizer/",
+          "headline_zh": "数据中心遭袭、Qwen3.5 各规模版本、DeepSeek 的华为布局、苹果的多模态分词器",
+          "summary_short_zh": "The Batch 发布了一篇综述，涵盖数据中心遭袭、Qwen3.5 系列发布、DeepSeek 的华为战略和苹果的多模态分词器。该文属于多主题编辑综述。",
+          "why_it_matters_zh": "共有 1 个独立来源提及这篇综述。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "96a8a2c3b904",
@@ -1996,7 +2106,11 @@
               "published_at": "2026-04-19T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-19/topic/artificial-intelligence-made-simple/"
+          "route": "/hot/2026-04-19/topic/artificial-intelligence-made-simple/",
+          "headline_zh": "轻松读懂人工智能",
+          "summary_short_zh": "Last Week in AI 发布了一篇题为《轻松读懂人工智能》的文章。从标题和来源看，这似乎是一篇解读或综述类文章，而非针对某一具体新闻事件的报道。",
+          "why_it_matters_zh": "共有 1 个独立来源提及这篇综述。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -2038,7 +2152,11 @@
           "published_at": "2026-04-16T06:18:47Z"
         }
       ],
-      "route": "/hot/2026-04-19/topic/gainsec-autoprober/"
+      "route": "/hot/2026-04-19/topic/gainsec-autoprober/",
+      "headline_zh": "GainSec/AutoProber",
+      "summary_short_zh": "作为一套用于硬件探测和目标发现的自动化工具栈登上 GitHub 热门榜。该项目整合了显微镜测绘、带安全监控的 CNC 运动控制、探测审核和受控引脚探测，支持智能体驱动的工作流。",
+      "why_it_matters_zh": "共有 1 个独立来源提及这款工具。",
+      "category_zh": "工具"
     },
     {
       "topic_id": "27005607fcc3",
@@ -2076,7 +2194,11 @@
           "published_at": "2026-04-17T01:56:15Z"
         }
       ],
-      "route": "/hot/2026-04-19/topic/browser-use-browser-harness/"
+      "route": "/hot/2026-04-19/topic/browser-use-browser-harness/",
+      "headline_zh": "browser-use/browser-harness",
+      "summary_short_zh": "作为一款具备自我修复能力、供大语言模型执行任务的浏览器框架登上 GitHub 热门榜。该工具旨在帮助语言模型更可靠地完成浏览器任务。",
+      "why_it_matters_zh": "共有 1 个独立来源提及这款工具。",
+      "category_zh": "工具"
     }
   ],
   "x_buzz": [

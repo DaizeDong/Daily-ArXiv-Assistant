@@ -1593,7 +1593,11 @@
           "published_at": "2026-06-01T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-06-01/topic/4-min-read-anthropic-ships-opus-4-8-nears-1t/"
+      "route": "/hot/2026-06-01/topic/4-min-read-anthropic-ships-opus-4-8-nears-1t/",
+      "headline_zh": "4 分钟阅读｜Anthropic 发布 Opus 4.8，逼近 1 万亿美元",
+      "summary_short_zh": "一则标题称，Anthropic 发布了名为 Opus 4.8 的模型。同一标题还提到 Anthropic 正接近 1 万亿美元的估值或里程碑，但该条目未提供佐证细节。",
+      "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "a9f2c23a2973",
@@ -1631,7 +1635,11 @@
           "published_at": "2026-06-01T05:39:33+00:00"
         }
       ],
-      "route": "/hot/2026-06-01/topic/clawhub-security-signals-large-corpus-multi-scanner-dataset-for-agent-skill-security-research/"
+      "route": "/hot/2026-06-01/topic/clawhub-security-signals-large-corpus-multi-scanner-dataset-for-agent-skill-security-research/",
+      "headline_zh": "ClawHub Security Signals：面向智能体技能安全研究的大规模多扫描器数据集",
+      "summary_short_zh": "Hugging Face 博客发布了 ClawHub Security Signals，称其为面向智能体技能安全研究的大规模多扫描器数据集。此次发布旨在为研究智能体技能的安全特性提供数据基础设施。",
+      "why_it_matters_zh": "该研究论文见于 1 个独立来源。",
+      "category_zh": "研究"
     },
     {
       "topic_id": "9cbd44163354",
@@ -1671,7 +1679,14 @@
           "published_at": "2026-06-01T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-06-01/topic/jiqizhixin-data-service-launch/"
+      "route": "/hot/2026-06-01/topic/jiqizhixin-data-service-launch/",
+      "headline_zh": "机器之心数据服务上线",
+      "summary_short_zh": "Synced（机器之心）宣布其数据服务正式上线，可直接访问数据，主打更高的效率和稳定性。页面还邀请开展更深入的合作，并列出了商务联系方式。",
+      "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Synced（机器之心）宣布其数据服务正式上线，可直接访问数据，主打更高的效率和稳定性。页面还邀请开展更深入的合作，并列出了商务..."
+      ]
     },
     {
       "topic_id": "1d70f3abec35",
@@ -1717,7 +1732,14 @@
           "published_at": "2026-06-01T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-06-01/topic/aurora-a-leverage-aware-optimizer-for-rectangular-matrices-tilde-research/"
+      "route": "/hot/2026-06-01/topic/aurora-a-leverage-aware-optimizer-for-rectangular-matrices-tilde-research/",
+      "headline_zh": "Aurora：面向矩形矩阵的杠杆感知优化器（Tilde Research）",
+      "summary_short_zh": "Tilde Research 将 Aurora 介绍为一种面向矩形矩阵的杠杆感知优化器。该条目似乎介绍了优化方法领域的一项技术研究成果。",
+      "why_it_matters_zh": "该研究论文见于 1 个独立来源。",
+      "category_zh": "研究",
+      "key_takeaways_zh": [
+        "Aurora（Tilde Research，GitHub）"
+      ]
     },
     {
       "topic_id": "03ca5fb44560",
@@ -1755,7 +1777,11 @@
           "published_at": "2026-06-01T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-06-01/topic/6-min-read-co-invest-lets-you-invest-using-claude-or-chatgpt/"
+      "route": "/hot/2026-06-01/topic/6-min-read-co-invest-lets-you-invest-using-claude-or-chatgpt/",
+      "headline_zh": "6 分钟阅读｜Co-Invest 让你通过 Claude 或 ChatGPT 投资",
+      "summary_short_zh": "一则标题称，Co-Invest 支持用户通过 Claude 或 ChatGPT 投资，但未提供产品功能、可用情况或监管架构的更多细节。",
+      "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+      "category_zh": "产品发布"
     }
   ],
   "category_sections": [
@@ -1799,7 +1825,11 @@
               "published_at": "2026-06-01T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-01/topic/anthropic-just-eclipsed-openai/"
+          "route": "/hot/2026-06-01/topic/anthropic-just-eclipsed-openai/",
+          "headline_zh": "Anthropic 刚刚超越 OpenAI",
+          "summary_short_zh": "该标题称，Anthropic 在某项未明确说明的指标上超越了 OpenAI。该条目未提供比较依据或时间的具体说明。",
+          "why_it_matters_zh": "该行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "9ab70b7d5d17",
@@ -1837,7 +1867,11 @@
               "published_at": "2026-06-01T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-01/topic/meta-launches-paid-tiers-across-its-apps/"
+          "route": "/hot/2026-06-01/topic/meta-launches-paid-tiers-across-its-apps/",
+          "headline_zh": "Meta 在旗下应用中推出付费档位",
+          "summary_short_zh": "据 The Rundown AI 报道，Meta 在旗下应用中推出了付费档位。此举改变了 Meta 应用生态中的变现方式和产品打包方式。",
+          "why_it_matters_zh": "该行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "a811cae62980",
@@ -1875,7 +1909,10 @@
               "published_at": "2026-06-01T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-01/topic/hermes-vs-openclaw-cybersecurity-alarms-ring-more-interactive-conversations-can-agents-do-human-work/"
+          "route": "/hot/2026-06-01/topic/hermes-vs-openclaw-cybersecurity-alarms-ring-more-interactive-conversations-can-agents-do-human-work/",
+          "headline_zh": "Hermes 与 OpenClaw 对比，网络安全警钟敲响，对话更具互动性，智能体能胜任人类的工作吗？",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "cb2a832b225e",
@@ -1913,7 +1950,11 @@
               "published_at": "Mon, 01 Jun 2026 05:25:27 +0000"
             }
           ],
-          "route": "/hot/2026-06-01/topic/alphafold-40-sota-ai4s/"
+          "route": "/hot/2026-06-01/topic/alphafold-40-sota-ai4s/",
+          "headline_zh": "材料版AlphaFold来了！40个工业任务全方位SOTA，AI4S迎来行业大突破",
+          "summary_short_zh": "叠加LLM“训练buff”，材料AI终于学会了“物理直觉”",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "e7ea397f9703",
@@ -1951,7 +1992,11 @@
               "published_at": "Mon, 01 Jun 2026 05:32:24 +0000"
             }
           ],
-          "route": "/hot/2026-06-01/topic/token-aigc2026/"
+          "route": "/hot/2026-06-01/topic/token-aigc2026/",
+          "headline_zh": "Token贵只因你喂给模型的垃圾太多了丨@亚马逊王晓野AIGC2026",
+          "summary_short_zh": "Demo从来都不难做，难的是让它在企业生产环境里真正跑起来",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -1995,7 +2040,11 @@
               "published_at": "2026-05-29T09:13:26Z"
             }
           ],
-          "route": "/hot/2026-06-01/topic/jdevalk-specification-website/"
+          "route": "/hot/2026-06-01/topic/jdevalk-specification-website/",
+          "headline_zh": "jdevalk/specification.website",
+          "summary_short_zh": "specification.website 是一套开源网站规范，涵盖 HTML、无障碍、安全、SEO 和智能体适配。该项目不依赖特定平台，附有参考来源，采用 MIT 许可证，并曾登上 GitHub Trending 榜单。",
+          "why_it_matters_zh": "该工具见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     },
@@ -2039,7 +2088,11 @@
               "published_at": "2026-06-01T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-06-01/topic/augmented-lagrangian-predictive-coding/"
+          "route": "/hot/2026-06-01/topic/augmented-lagrangian-predictive-coding/",
+          "headline_zh": "增广拉格朗日预测编码",
+          "summary_short_zh": "一篇热门论文聚焦增广拉格朗日预测编码。摘要称，该研究探索仅通过局部动力学实现类似反向传播（BP）的学习，并讨论其对替代训练机制及理论的启示。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "d169bf48d187",
@@ -2077,7 +2130,11 @@
               "published_at": "2026-06-01T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-06-01/topic/fixed-universal-transformers/"
+          "route": "/hot/2026-06-01/topic/fixed-universal-transformers/",
+          "headline_zh": "固定权重的通用 Transformer",
+          "summary_short_zh": "一篇热门论文聚焦固定权重的通用 Transformer。摘要将其概括为一种固定权重的通用 Transformer 视角，对架构设计具有广泛意义。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "374ba734c85a",
@@ -2115,7 +2172,11 @@
               "published_at": "2026-06-01T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-06-01/topic/on-the-relationship-between-activation-outliers-and-feature-death-in-sparse-autoencoders/"
+          "route": "/hot/2026-06-01/topic/on-the-relationship-between-activation-outliers-and-feature-death-in-sparse-autoencoders/",
+          "headline_zh": "稀疏自编码器中激活离群值与特征死亡的关系",
+          "summary_short_zh": "一篇热门论文探讨了稀疏自编码器中激活离群值与特征死亡的关系。摘要称，研究发现问题根源在于激活均值中的离群值，并表明均值中心化可在多个模型系列中消除这一问题。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "9def9f87dd50",
@@ -2153,7 +2214,11 @@
               "published_at": "2026-06-01T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-06-01/topic/improving-relative-representations-with-learned-anchors-and-whitened-inner-products/"
+          "route": "/hot/2026-06-01/topic/improving-relative-representations-with-learned-anchors-and-whitened-inner-products/",
+          "headline_zh": "利用学习得到的锚点和白化内积改进相对表示",
+          "summary_short_zh": "一篇热门论文提出了利用学习得到的锚点和白化内积改进相对表示的方法。摘要称，这项研究可能借助共享的潜在几何结构，实现模块化的跨模型通信。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "bdf1239fd278",
@@ -2191,7 +2256,11 @@
               "published_at": "2026-06-01T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-06-01/topic/neuro-symbolic-syntactic-parsing-shaping-a-neural-network-with-the-cyk-algorithm/"
+          "route": "/hot/2026-06-01/topic/neuro-symbolic-syntactic-parsing-shaping-a-neural-network-with-the-cyk-algorithm/",
+          "headline_zh": "神经符号句法分析：用 CYK 算法塑造神经网络",
+          "summary_short_zh": "一篇热门论文介绍了一种借助 CYK 算法构建的神经符号句法分析方法。摘要称，该方法将经典算法直接嵌入可训练的神经动力学过程。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         }
       ]
     }
@@ -2237,7 +2306,11 @@
               "published_at": "Mon, 01 Jun 2026 06:11:12 +0000"
             }
           ],
-          "route": "/hot/2026-06-01/topic/openai/"
+          "route": "/hot/2026-06-01/topic/openai/",
+          "headline_zh": "OpenAI重返机器人赛道！四大核心岗位开招",
+          "summary_short_zh": "年薪超200万",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "2924e13761bb",
@@ -2275,7 +2348,11 @@
               "published_at": "2026-05-31T09:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-01/topic/i-went-looking-for-the-ai-weed-vape-that-gives-you-bitcoin-for-smoking/"
+          "route": "/hot/2026-06-01/topic/i-went-looking-for-the-ai-weed-vape-that-gives-you-bitcoin-for-smoking/",
+          "headline_zh": "我去找了那款抽烟就送比特币的 AI 大麻电子烟",
+          "summary_short_zh": "4 月 20 日是全球大麻爱好者的盛大节日，那天，这款加密货币大麻电子烟找上了我。我在 Slack 上收到了相关消息，缩略图里一名男子正吐出一团烟雾，图上醒目地写着“每抽一口就送比特币”。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "96a8a2c3b904",
@@ -2313,7 +2390,11 @@
               "published_at": "2026-06-01T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-01/topic/artificial-intelligence-made-simple/"
+          "route": "/hot/2026-06-01/topic/artificial-intelligence-made-simple/",
+          "headline_zh": "轻松读懂人工智能",
+          "summary_short_zh": "是 Last Week in AI 的一篇内容，似乎用通俗的语言讲解 AI 概念。它属于科普内容，而非产品、融资或研究公告。",
+          "why_it_matters_zh": "这篇教程见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "0a62c8120f18",
@@ -2357,7 +2438,11 @@
               "published_at": "2026-06-01T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-01/topic/import-ai-457-ai-stuxnet-cursed-muon-optimizer-and-positive-alignment/"
+          "route": "/hot/2026-06-01/topic/import-ai-457-ai-stuxnet-cursed-muon-optimizer-and-positive-alignment/",
+          "headline_zh": "Import AI 第 457 期：AI 版震网、诡异的 Muon 优化器与正向对齐",
+          "summary_short_zh": "Import AI 第 457 期是一份资讯简报，涵盖 AI 版震网的设想、Muon 优化器和正向对齐等话题。它汇总了多项进展，而非报道某个具体事件。",
+          "why_it_matters_zh": "这篇资讯汇总见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "549e6dd1b0aa",
@@ -2395,7 +2480,11 @@
               "published_at": "Mon, 01 Jun 2026 07:57:16 +0000"
             }
           ],
-          "route": "/hot/2026-06-01/topic/api-top-10-ai-lab/"
+          "route": "/hot/2026-06-01/topic/api-top-10-ai-lab/",
+          "headline_zh": "今天起，无限期免费！全球首个全模态API开放，Top 10 AI Lab出手",
+          "summary_short_zh": "文本图像视频都能用",
+          "why_it_matters_zh": "这篇资讯汇总见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "c72fd2cc4f43",
@@ -2433,7 +2522,11 @@
               "published_at": "2026-06-01T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-01/topic/gemini-flash-gets-pricey-ai-act-delays-agents-drive-online-traffic/"
+          "route": "/hot/2026-06-01/topic/gemini-flash-gets-pricey-ai-act-delays-agents-drive-online-traffic/",
+          "headline_zh": "Gemini Flash 涨价，《人工智能法案》延期，智能体带动网络流量",
+          "summary_short_zh": "这篇资讯综述涉及三个话题：Gemini Flash 价格上涨、《人工智能法案》相关进程推迟，以及 AI 智能体带动网络流量。它似乎汇总了多项行业动态，而非报道单一事件。",
+          "why_it_matters_zh": "这篇资讯汇总见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "e7918ee7ebd0",
@@ -2471,7 +2564,11 @@
               "published_at": "2026-06-01T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-01/topic/china-thwarts-meta-s-agentic-ambition-u-s-evaluates-upcoming-models-ai-diagnoses-mammograms/"
+          "route": "/hot/2026-06-01/topic/china-thwarts-meta-s-agentic-ambition-u-s-evaluates-upcoming-models-ai-diagnoses-mammograms/",
+          "headline_zh": "中国挫败 Meta 的智能体雄心，美国评估即将推出的模型，AI 判读乳腺 X 光片",
+          "summary_short_zh": "本期 Batch 综述涵盖中国对 Meta 智能体雄心的回应、美国对即将推出的 AI 模型的评估，以及用于乳腺 X 光影像诊断的 AI 系统。它将几项独立进展汇总成一篇综述。",
+          "why_it_matters_zh": "这篇资讯汇总见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "00ca47022e54",
@@ -2509,7 +2606,11 @@
               "published_at": "2026-06-01T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-01/topic/seedance-makes-a-splash-nvidia-s-ai-guided-chip-designs-helping-robots-not-forget/"
+          "route": "/hot/2026-06-01/topic/seedance-makes-a-splash-nvidia-s-ai-guided-chip-designs-helping-robots-not-forget/",
+          "headline_zh": "Seedance 引发轰动，英伟达用 AI 指导芯片设计，帮助机器人避免遗忘",
+          "summary_short_zh": "本期 Batch 综述涵盖 Seedance、英伟达用 AI 指导芯片设计的工作，以及帮助机器人保留知识的方法。它是涉及多个话题的资讯概览，而非单一事件报道。",
+          "why_it_matters_zh": "这篇资讯汇总见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }

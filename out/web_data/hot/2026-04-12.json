@@ -1054,7 +1054,16 @@
           "published_at": "2026-04-12T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-04-12/topic/bytedance-ships-dola-seed-2-0-preview-and-seed-full-duplex-speech-llm/"
+      "route": "/hot/2026-04-12/topic/bytedance-ships-dola-seed-2-0-preview-and-seed-full-duplex-speech-llm/",
+      "headline_zh": "字节跳动发布 Dola-Seed-2.0-Preview 和 Seed Full-Duplex Speech LLM",
+      "summary_short_zh": "字节跳动 Seed 正式推出 Seed 2.0。这则消息标志着新模型正式发布。",
+      "why_it_matters_zh": "字节跳动释放出持续将模型能力从文本拓展至实时语音的信号，对多模态产品竞争和企业级语音交互界面的发展具有战略意义。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "字节跳动 Seed 在 Arena 上发布 Dola-Seed-2.0-Preview，表明预览版已对外上线，而非仅有内部研究进展。",
+        "公司还单独推出了 Seed Full-Duplex Speech LLM，强调语音交互中的专注倾听、干扰抑制和更自然的话轮切换。",
+        "这组消息还包括字节跳动 Seed 的 2027 年基础模型招聘计划，可能意味着该公司在发布模型的同时，仍在加大人才投入。"
+      ]
     },
     {
       "topic_id": "428b9d91b905",
@@ -1104,7 +1113,16 @@
           "published_at": "2026-04-12T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-04-12/topic/anthropic-reportedly-introduces-claude-mythos/"
+      "route": "/hot/2026-04-12/topic/anthropic-reportedly-introduces-claude-mythos/",
+      "headline_zh": "据报道，Anthropic 推出 Claude Mythos",
+      "summary_short_zh": "The Batch 发布了一篇资讯汇总，涵盖 Anthropic 的 Claude Mythos 问题、暗 DNA、辅助模型的隐患和流体动力学模拟。这是一篇涉及多个主题的综合报道，并非单项新公告。",
+      "why_it_matters_zh": "任何全新的 Claude 变体都值得采购方和竞争对手关注，因为 Anthropic 仍是少数能影响企业前沿模型选型的实验室之一。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "相关消息涉及一款名为 Claude Mythos 的模型，Superhuman AI 和 The Batch 均有提及。",
+        "相关来源未提供基准测试数据、定价、上下文窗口或 API 开放情况等细节，因此难以立即作出商业评估。",
+        "Anthropic 的模型发布往往会影响企业采购和应用重新调优的决策，因此，即便只是 Claude 系列新成员的早期信号，也具有战略意义。"
+      ]
     },
     {
       "topic_id": "f3e90a61065d",
@@ -1152,7 +1170,16 @@
           "published_at": "2026-04-12T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-04-12/topic/lyptus-research-publishes-offensive-cyber-task-horizons-data-and-analysis/"
+      "route": "/hot/2026-04-12/topic/lyptus-research-publishes-offensive-cyber-task-horizons-data-and-analysis/",
+      "headline_zh": "Lyptus Research 发布《网络攻击任务时间跨度：数据与分析》",
+      "summary_short_zh": "Import AI 提供了 Lyptus Research 的《网络攻击任务时间跨度：数据与分析》链接，相关资料可在 GitHub 获取。该研究似乎提供了网络攻击任务时间跨度的相关数据与分析。",
+      "why_it_matters_zh": "网络攻防能力测评正成为评估前沿模型风险、制定监管政策和国防领域产品战略时的关键尽调内容。",
+      "category_zh": "研究",
+      "key_takeaways_zh": [
+        "论文聚焦网络攻击任务的时间跨度，以 AI 系统能够完成的网络安全任务的时长和复杂度来衡量模型能力。",
+        "Import AI 将这项工作作为独立研究成果重点介绍，显示其与前沿风险评估相关，而非一般性的 AI 评论。",
+        "对高管和投资者而言，任务时间跨度分析比通用基准分数更有助于决策，因为它将模型进展与实际安全业务流程联系起来。"
+      ]
     },
     {
       "topic_id": "56b494efbab0",
@@ -1198,7 +1225,14 @@
           "published_at": "2026-04-12T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-04-12/topic/forecasting-the-economic-effects-of-ai-predictions-from-economists-ai-experts-and-the-public-pdf/"
+      "route": "/hot/2026-04-12/topic/forecasting-the-economic-effects-of-ai-predictions-from-economists-ai-experts-and-the-public-pdf/",
+      "headline_zh": "预测 AI 的经济影响：经济学家、AI 专家和公众的预测（PDF）",
+      "summary_short_zh": "Import AI 重点介绍了一篇论文，利用经济学家、AI 专家和公众的预测来分析 AI 的经济影响。该研究比较了不同群体对 AI 经济影响的预期。",
+      "why_it_matters_zh": "有 1 个独立来源提及这篇研究论文。",
+      "category_zh": "研究",
+      "key_takeaways_zh": [
+        "Import AI 第 452 期：网络战的缩放定律、日益高涨的 AI 自动化浪潮与 GDP 预测之谜"
+      ]
     },
     {
       "topic_id": "25a94206caa7",
@@ -1236,7 +1270,11 @@
           "published_at": "2026-04-12T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-04-12/topic/meta-superintelligence-labs-ships-its-first-model/"
+      "route": "/hot/2026-04-12/topic/meta-superintelligence-labs-ships-its-first-model/",
+      "headline_zh": "Meta 超级智能实验室发布首款模型",
+      "summary_short_zh": "The Rundown AI 报道称，Meta 超级智能实验室发布了首款模型。标题显示，此次模型发布与 Meta 的超级智能研发工作有关。",
+      "why_it_matters_zh": "有 1 个独立来源提及这次产品发布。",
+      "category_zh": "产品发布"
     }
   ],
   "category_sections": [
@@ -1280,7 +1318,11 @@
               "published_at": "2026-04-12T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-12/topic/perplexity-s-agent-pivot-is-on-the-money/"
+          "route": "/hot/2026-04-12/topic/perplexity-s-agent-pivot-is-on-the-money/",
+          "headline_zh": "Perplexity 转向智能体，这步走对了",
+          "summary_short_zh": "The Rundown AI 报道了 Perplexity 转向 AI 智能体的动向，将这一战略转变描述为业务和产品方向的调整。",
+          "why_it_matters_zh": "这一行业动向见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "822246a5759c",
@@ -1318,7 +1360,11 @@
               "published_at": "2026-04-11T14:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-04-12/topic/openai-s-plan-for-the-intelligence-age/"
+          "route": "/hot/2026-04-12/topic/openai-s-plan-for-the-intelligence-age/",
+          "headline_zh": "OpenAI 的“智能时代”计划",
+          "summary_short_zh": "Superhuman AI 报道了 OpenAI 的“智能时代”计划。该内容似乎是在阐述战略愿景或路线图，而非发布某款具体产品。",
+          "why_it_matters_zh": "这一行业动向见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "7a196553e88c",
@@ -1356,7 +1402,11 @@
               "published_at": "2026-04-11T09:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-12/topic/how-iran-out-shitposted-the-white-house/"
+          "route": "/hot/2026-04-12/topic/how-iran-out-shitposted-the-white-house/",
+          "headline_zh": "伊朗如何靠恶搞帖压过白宫",
+          "summary_short_zh": "对伊朗开战初期，白宫忙着发布《使命召唤》梗图和 AI 生成的保龄球瓶跳舞之类的垃圾内容，伊朗政权的官方媒体则用一段接一段的视频刷屏，展示当地实况：德黑兰上空的爆炸，天空中滚滚的浓烟。",
+          "why_it_matters_zh": "这则其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "96a8a2c3b904",
@@ -1394,7 +1444,11 @@
               "published_at": "2026-04-12T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-12/topic/artificial-intelligence-made-simple/"
+          "route": "/hot/2026-04-12/topic/artificial-intelligence-made-simple/",
+          "headline_zh": "人工智能轻松入门",
+          "summary_short_zh": "Last Week in AI 发布了一篇题为《人工智能轻松入门》的文章，内容侧重讲解和科普，而非发布新产品或研究成果。",
+          "why_it_matters_zh": "这篇教程见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "3f6a7c2a98b5",
@@ -1438,7 +1492,11 @@
               "published_at": "2026-04-12T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-12/topic/attacks-on-data-centers-qwen3-5-in-all-sizes-deepseek-s-huawei-play-apple-s-multimodal-tokenizer/"
+          "route": "/hot/2026-04-12/topic/attacks-on-data-centers-qwen3-5-in-all-sizes-deepseek-s-huawei-play-apple-s-multimodal-tokenizer/",
+          "headline_zh": "数据中心遭袭、Qwen3.5 多种规模版本、DeepSeek 的华为布局、苹果的多模态分词器",
+          "summary_short_zh": "The Batch 发布了一篇资讯汇总，涵盖数据中心遭袭、Qwen3.5 的不同模型版本、DeepSeek 与华为有关的动向，以及苹果的多模态分词器。文章汇总了多项独立进展，并非围绕单一事件。",
+          "why_it_matters_zh": "这篇资讯汇总见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -1482,7 +1540,11 @@
               "published_at": "2026-04-11T19:35:31+00:00"
             }
           ],
-          "route": "/hot/2026-04-12/topic/sqlite-query-result-formatter-demo/"
+          "route": "/hot/2026-04-12/topic/sqlite-query-result-formatter-demo/",
+          "headline_zh": "SQLite Query Result Formatter 演示",
+          "summary_short_zh": "Simon Willison 分享了 SQLite Query Result Formatter 工具的演示。该工具用于格式化 SQLite 查询结果，帖子还附有相关说明的链接。",
+          "why_it_matters_zh": "这一工具见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     },
@@ -1526,7 +1588,11 @@
               "published_at": "2026-04-12T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-12/topic/mapping-ai-into-production-a-field-experiment-on-firm-performance-ssrn/"
+          "route": "/hot/2026-04-12/topic/mapping-ai-into-production-a-field-experiment-on-firm-performance-ssrn/",
+          "headline_zh": "将 AI 引入生产：一项关于企业绩效的实地实验（SSRN）",
+          "summary_short_zh": "Import AI 重点介绍了 SSRN 上的论文《将 AI 引入生产：一项关于企业绩效的实地实验》。该研究似乎通过实地实验，考察 AI 部署对企业经营表现的影响。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         }
       ]
     }
@@ -1572,7 +1638,11 @@
               "published_at": "Sat, 11 Apr 2026 11:15:17 +0000"
             }
           ],
-          "route": "/hot/2026-04-12/topic/ai-models-are-terrible-at-betting-on-soccer-especially-xai-grok/"
+          "route": "/hot/2026-04-12/topic/ai-models-are-terrible-at-betting-on-soccer-especially-xai-grok/",
+          "headline_zh": "AI 模型在足球投注上表现糟糕，尤其是 xAI 的 Grok",
+          "summary_short_zh": "Ars Technica 报道，Google、OpenAI、Anthropic 和 xAI 的 AI 系统在英超比赛投注中表现不佳。文章特别指出了 xAI 旗下 Grok 的糟糕表现。",
+          "why_it_matters_zh": "有 1 个独立来源提及这一观点。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "45fcc45c627a",
@@ -1610,7 +1680,11 @@
               "published_at": "2026-04-11T19:15:56Z"
             }
           ],
-          "route": "/hot/2026-04-12/topic/how-we-broke-top-ai-agent-benchmarks-and-what-comes-next/"
+          "route": "/hot/2026-04-12/topic/how-we-broke-top-ai-agent-benchmarks-and-what-comes-next/",
+          "headline_zh": "我们如何攻破顶级 AI 智能体基准测试：接下来怎么办",
+          "summary_short_zh": "Hacker News 上的一场讨论围绕《我们如何攻破顶级 AI 智能体基准测试：接下来怎么办》一文展开，涉及基准测试的设计，以及所公布的 AI 智能体性能是否可靠。",
+          "why_it_matters_zh": "有 1 个独立来源提及这一观点。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "e32ddb87d290",
@@ -1648,7 +1722,11 @@
               "published_at": "2026-04-11T16:47:28Z"
             }
           ],
-          "route": "/hot/2026-04-12/topic/small-models-also-found-the-vulnerabilities-that-mythos-found/"
+          "route": "/hot/2026-04-12/topic/small-models-also-found-the-vulnerabilities-that-mythos-found/",
+          "headline_zh": "小模型也找到了 Mythos 发现的漏洞",
+          "summary_short_zh": "Hacker News 上的一场讨论重点关注一种说法：小模型也能找出 Mythos 发现的漏洞。这则内容似乎主要围绕社区对模型漏洞发现能力的评论展开。",
+          "why_it_matters_zh": "有 1 个独立来源提及这一观点。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -1696,7 +1774,11 @@
           "published_at": "2026-04-08T17:07:13Z"
         }
       ],
-      "route": "/hot/2026-04-12/topic/ksimback-hermes-ecosystem/"
+      "route": "/hot/2026-04-12/topic/ksimback-hermes-ecosystem/",
+      "headline_zh": "ksimback/hermes-ecosystem",
+      "summary_short_zh": "GitHub 仓库 hermes-ecosystem 登上热门榜。该项目名为 Hermes Atlas，是汇集 Hermes Agent 工具、技能和集成的社区图谱，与 Nous Research 的 Hermes Agent 生态有关。",
+      "why_it_matters_zh": "有 1 个独立来源提及该工具。",
+      "category_zh": "工具"
     },
     {
       "topic_id": "845746a25401",
@@ -1740,7 +1822,11 @@
           "published_at": "2026-04-08T17:48:41Z"
         }
       ],
-      "route": "/hot/2026-04-12/topic/mduongvandinh-llm-wiki/"
+      "route": "/hot/2026-04-12/topic/mduongvandinh-llm-wiki/",
+      "headline_zh": "mduongvandinh/llm-wiki",
+      "summary_short_zh": "GitHub 仓库 llm-wiki 登上热门榜，这是一个由大语言模型驱动的自动化个人知识库系统。项目介绍称，它基于 Andrej Karpathy 的 LLM Wiki 模式。",
+      "why_it_matters_zh": "有 1 个独立来源提及该工具。",
+      "category_zh": "工具"
     }
   ],
   "x_buzz": [

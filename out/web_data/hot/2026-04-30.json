@@ -2596,7 +2596,17 @@
           "published_at": "2026-04-30T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-04-30/topic/bytedance-seed-unveils-seed-full-duplex-speech-llm/"
+      "route": "/hot/2026-04-30/topic/bytedance-seed-unveils-seed-full-duplex-speech-llm/",
+      "headline_zh": "字节跳动 Seed 发布 Seed Full-Duplex Speech LLM",
+      "summary_short_zh": "字节跳动 Seed 推出全新语音模型 Seed Full-Duplex Speech LLM。公告强调专注倾听、干扰抑制和更自然的对话交互。",
+      "why_it_matters_zh": "全双工语音系统是 AI 助手、呼叫中心自动化和具身智能体领域的竞争焦点，因为它们能让对话双方比常规语音处理流程更自然地交替发言。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "字节跳动 Seed 推出 Seed Full-Duplex Speech LLM，重点强调专注倾听、强大的抗干扰能力，以及实时对话中更自然的交互。",
+        "“全双工”的定位意味着能够同时听和说，相比传统半双工语音助手，这项能力可降低延迟，减少打断交互时的故障。",
+        "同一信息流还提到了 Arena 上的 Dola-Seed-2.0-Preview，表明字节跳动 Seed 可能在并行迭代多个模型系列，而非仅做一次性的语音演示。",
+        "这份公告直接来自字节跳动 Seed，因此比社区评论更能反映产品动向，对跟踪中国前沿实验室多模态路线图的团队尤其有参考价值。"
+      ]
     },
     {
       "topic_id": "47df93dd518a",
@@ -2646,7 +2656,15 @@
           "published_at": "2026-04-29T12:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-04-30/topic/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/"
+      "route": "/hot/2026-04-30/topic/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/",
+      "headline_zh": "Google Research 科学家使用 Empirical Research Assistance 的四种方式",
+      "summary_short_zh": "Google Research 发布博文，介绍其科学家使用 Empirical Research Assistance 的四种方式。文章似乎主要概述了数据挖掘与建模方面的应用场景。",
+      "why_it_matters_zh": "2 个独立来源提到了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "数据挖掘与建模",
+        "Google 相册正在推出一项 AI 新功能，让你虚拟试穿已有的衣服。Google 将利用你图库中的照片创建一个虚拟“衣橱”，让你……"
+      ]
     },
     {
       "topic_id": "27fb16778129",
@@ -2694,7 +2712,15 @@
           "published_at": "Wed, 29 Apr 2026 23:58:36 +0000"
         }
       ],
-      "route": "/hot/2026-04-30/topic/all-the-evidence-unveiled-so-far-in-musk-v-altman/"
+      "route": "/hot/2026-04-30/topic/all-the-evidence-unveiled-so-far-in-musk-v-altman/",
+      "headline_zh": "马斯克诉奥尔特曼案迄今公开的全部证据",
+      "summary_short_zh": "马斯克诉奥尔特曼案正在审理，拟在庭审中出示的证物正逐一公开。目前流传的邮件往来、照片和公司文件来自 OpenAI 创立之初，部分甚至来自这家 AI 实验室尚未命名的时候。",
+      "why_it_matters_zh": "2 个独立来源提到了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "马斯克诉奥尔特曼案正在审理，拟在庭审中出示的证物正逐一公开。目前，邮件往来、照片和公司文件……",
+        "埃隆·马斯克第二天出庭作证，力图通过法律手段拆解 OpenAI。"
+      ]
     },
     {
       "topic_id": "b9b970f15072",
@@ -2752,7 +2778,17 @@
           "published_at": "2026-04-29T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-04-30/topic/mistral-medium-3-5-launches-with-vibe-remote-agents-and-le-chat-work-mode/"
+      "route": "/hot/2026-04-30/topic/mistral-medium-3-5-launches-with-vibe-remote-agents-and-le-chat-work-mode/",
+      "headline_zh": "Mistral Medium 3.5 发布，带来 Vibe 远程智能体和 Le Chat Work 模式",
+      "summary_short_zh": "Mistral AI 发布 Mistral Medium 3.5，并表示该模型为 Vibe 的远程编程智能体提供支持。公司还在 Le Chat 中推出了新的 Work 模式，用于处理更复杂的任务。",
+      "why_it_matters_zh": "Mistral 正从模型 API 拓展至更上层的智能体产品，这一战略动向值得正在评估端到端编程和知识工作平台的采购方关注。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Mistral AI 正式发布 Mistral Medium 3.5，并将其直接用于具体产品功能：Vibe 的远程编程智能体，以及 Le Chat 中用于处理更复杂任务的新 Work 模式。",
+        "英伟达称，Mistral Medium 3.5 是一个拥有 1280 亿参数的稠密文本视觉模型，集指令遵循、推理和编程于一体，而非规模更小的 MoE 式部署方案。",
+        "英伟达表示，该模型在 SWE-Bench Verified 上取得 77.6% 的成绩，为企业提供了具体的软件工程基准成绩，可用于与其他侧重编程的前沿模型比较。",
+        "此次发布的意义不止于基础模型：Mistral 正将模型能力融入智能体工作流，相比仅提供 API 的竞争方式，这可能提升变现能力和企业客户黏性。"
+      ]
     },
     {
       "topic_id": "bbd3db4028c2",
@@ -2794,7 +2830,16 @@
           "published_at": "Wed, 29 Apr 2026 20:00:00 GMT"
         }
       ],
-      "route": "/hot/2026-04-30/topic/openai-publishes-where-the-goblins-came-from-on-gpt-5-behavior-failures/"
+      "route": "/hot/2026-04-30/topic/openai-publishes-where-the-goblins-came-from-on-gpt-5-behavior-failures/",
+      "headline_zh": "OpenAI 发布《哥布林从何而来》，解析 GPT-5 行为异常",
+      "summary_short_zh": "“哥布林”相关输出如何在 AI 模型中扩散：GPT-5 因个性倾向而出现古怪行为的时间线、根本原因与修复措施",
+      "why_it_matters_zh": "对模型行为异常及其处置保持透明，有助于任何大规模推出前沿系统的企业评估部署风险、制定对齐策略，并明确治理预期。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "OpenAI 发布官方说明《哥布林从何而来》，介绍了 GPT-5 因个性风格出现输出异常的时间线、根本原因和修复措施。",
+        "文章将该问题界定为具体的模型行为事件，而非笼统的质量退化，让研究人员和企业采购方更清楚地了解其故障分析方法。",
+        "通过记录问题的传播机制和缓解措施，OpenAI 表明，部署后监控和模型行为回滚流程已成为前沿模型运维的核心环节。"
+      ]
     }
   ],
   "category_sections": [
@@ -2844,7 +2889,11 @@
               "published_at": "2026-04-29T12:16:13.000Z"
             }
           ],
-          "route": "/hot/2026-04-30/topic/introducing-flashqla-high-performance-linear-attention-kernels-built-on-tilelang/"
+          "route": "/hot/2026-04-30/topic/introducing-flashqla-high-performance-linear-attention-kernels-built-on-tilelang/",
+          "headline_zh": "推出 FlashQLA：基于 TileLang 构建的高性能线性注意力内核",
+          "summary_short_zh": "⚡ 前向计算提速 2–3 倍，反向计算提速 2 倍。💻 专为个人设备上的智能体 AI 打造。💡 核心思路：1. 门控驱动的自动卡内 CP。2. 硬件友好的代数",
+          "why_it_matters_zh": "此次产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "d67a43906d04",
@@ -2882,7 +2931,11 @@
               "published_at": "2026-04-29T18:35:36.000Z"
             }
           ],
-          "route": "/hot/2026-04-30/topic/introducing-qwen3-6-plus-from-alibaba-qwen-a-1m-context-model-built-for-real-world-agents-agentic-coding-and-multimodal-reasoning/"
+          "route": "/hot/2026-04-30/topic/introducing-qwen3-6-plus-from-alibaba-qwen-a-1m-context-model-built-for-real-world-agents-agentic-coding-and-multimodal-reasoning/",
+          "headline_zh": "介绍 @Alibaba_Qwen 推出的 Qwen3.6-Plus：支持百万 token 上下文，专为真实场景中的智能体、智能体编程和多模态推理打造",
+          "summary_short_zh": "AI 原生用户现可在 Together AI 上使用 Qwen3.6-Plus，以可靠的推理服务支撑生产规模的智能体工作流",
+          "why_it_matters_zh": "此次产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "618837729a48",
@@ -2928,7 +2981,11 @@
               "published_at": "Wed, 29 Apr 2026 00:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-04-30/topic/last-week-we-announced-deepseek-v4/"
+          "route": "/hot/2026-04-30/topic/last-week-we-announced-deepseek-v4/",
+          "headline_zh": "上周，我们宣布推出 DeepSeek-V4",
+          "summary_short_zh": "Together AI 介绍了 DeepSeek-V4 Pro 在其平台上的上线情况。据介绍，该模型支持 512K 上下文和可控推理模式，并针对长上下文任务提供缓存输入定价",
+          "why_it_matters_zh": "此次产品发布消息见于 2 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "5ef2bc6a5cda",
@@ -2966,7 +3023,11 @@
               "published_at": "2026-04-29T12:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-04-30/topic/introducing-elevenmusic/"
+          "route": "/hot/2026-04-30/topic/introducing-elevenmusic/",
+          "headline_zh": "推出 ElevenMusic",
+          "summary_short_zh": "ElevenLabs 宣布推出新产品 ElevenMusic。这是一则产品介绍，所提供的文本未包含更多细节",
+          "why_it_matters_zh": "此次产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "a16863882ef2",
@@ -3013,7 +3074,11 @@
               "published_at": "2026-04-29T14:43:40.000Z"
             }
           ],
-          "route": "/hot/2026-04-30/topic/we-re-introducing-the-cursor-sdk-so-you-can-build-agents-with-the-same-runtime-harness-and-models-that-power-cursor/"
+          "route": "/hot/2026-04-30/topic/we-re-introducing-the-cursor-sdk-so-you-can-build-agents-with-the-same-runtime-harness-and-models-that-power-cursor/",
+          "headline_zh": "我们推出 Cursor SDK，让你能使用与 Cursor 相同的运行时、执行框架和模型来构建智能体",
+          "summary_short_zh": "Cursor 发布了 Cursor SDK，支持使用与 Cursor 相同的运行时、执行框架和模型构建智能体。该公司表示，SDK 可用于 CI/CD 流水线和工作流自动化",
+          "why_it_matters_zh": "此次产品发布消息见于 2 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -3057,7 +3122,11 @@
               "published_at": "Thu, 30 Apr 2026 00:07:15 +0000"
             }
           ],
-          "route": "/hot/2026-04-30/topic/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/"
+          "route": "/hot/2026-04-30/topic/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/",
+          "headline_zh": "消息人士称：Anthropic 可能以 9000 亿美元估值进行新一轮 500 亿美元融资",
+          "summary_short_zh": "TechCrunch 报道，Anthropic 已收到投资方为潜在新一轮融资抢先开出的报价。报道称，这些报价对应的估值为 8500 亿至 9000 亿美元",
+          "why_it_matters_zh": "此次融资消息见于 1 个独立来源。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -3101,7 +3170,11 @@
               "published_at": "Thu, 30 Apr 2026 00:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-04-30/topic/announcing-together-ai-and-adaption-partnership/"
+          "route": "/hot/2026-04-30/topic/announcing-together-ai-and-adaption-partnership/",
+          "headline_zh": "Together AI 与 Adaption 宣布合作",
+          "summary_short_zh": "Together AI 与 Adaption 合作，将 Together Fine-Tuning 原生集成到 Adaptive Data，帮助团队优化数据集、开展微调、评估结果并部署更强的开放模型",
+          "why_it_matters_zh": "这一行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "1d10d341c013",
@@ -3145,7 +3218,11 @@
               "published_at": "Wed, 29 Apr 2026 15:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-04-30/topic/building-the-compute-infrastructure-for-the-intelligence-age/"
+          "route": "/hot/2026-04-30/topic/building-the-compute-infrastructure-for-the-intelligence-age/",
+          "headline_zh": "构建智能时代的算力基础设施",
+          "summary_short_zh": "OpenAI 表示，正在扩大 Stargate 的规模，扩建其所称将支撑通用人工智能（AGI）的算力基础设施。公告介绍了新增的数据中心容量，以满足日益增长的 AI 需求",
+          "why_it_matters_zh": "这一行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "b56de4645402",
@@ -3183,7 +3260,11 @@
               "published_at": "Thu, 30 Apr 2026 03:58:22 +0000"
             }
           ],
-          "route": "/hot/2026-04-30/topic/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/"
+          "route": "/hot/2026-04-30/topic/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/",
+          "headline_zh": "软银正筹建一家建造数据中心的机器人公司，并已瞄准千亿美元 IPO",
+          "summary_short_zh": "开发 AI 和机器人需要基础设施，但看来，建设基础设施也需要 AI 和机器人",
+          "why_it_matters_zh": "这一行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "08d50cf7a2af",
@@ -3221,7 +3302,11 @@
               "published_at": "2026-04-29T16:28:11-04:00"
             }
           ],
-          "route": "/hot/2026-04-30/topic/google-search-queries-hit-an-all-time-high-last-quarter/"
+          "route": "/hot/2026-04-30/topic/google-search-queries-hit-an-all-time-high-last-quarter/",
+          "headline_zh": "Google 搜索查询量上季度创“历史新高”",
+          "summary_short_zh": "Alphabet CEO Sundar Pichai 在周三随财报发布的声明中表示，Google 搜索查询量在 2026 年第一季度创下“历史新高”。Pichai 说：“我们在 AI 上的投入和全栈布局正为各项业务注入活力。”",
+          "why_it_matters_zh": "这一行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "a5832b288b33",
@@ -3259,7 +3344,11 @@
               "published_at": "2026-04-30T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-30/topic/openai-and-microsoft-s-new-open-relationship/"
+          "route": "/hot/2026-04-30/topic/openai-and-microsoft-s-new-open-relationship/",
+          "headline_zh": "OpenAI 与微软的新型开放式合作关系",
+          "summary_short_zh": "The Rundown AI 报道了 OpenAI 与微软关系的变化，暗示两家公司的合作正进入新阶段",
+          "why_it_matters_zh": "这一行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -3303,7 +3392,11 @@
               "published_at": "2026-04-29T19:01:47+00:00"
             }
           ],
-          "route": "/hot/2026-04-30/topic/llm-0-32a0-is-a-major-backwards-compatible-refactor/"
+          "route": "/hot/2026-04-30/topic/llm-0-32a0-is-a-major-backwards-compatible-refactor/",
+          "headline_zh": "LLM 0.32a0 是一次向后兼容的重大重构",
+          "summary_short_zh": "<p>我刚刚发布了 <a href=\" 0.32a0</a>，这是我开发的 <a href=\" 用于访问 LLM 的 Python 库和命令行工具的 alpha 版本，包含一些我筹备已久的重要改动。</p> <p>此前的 LLM 版本以提示词和响应为基本抽象。",
+          "why_it_matters_zh": "这一工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "024de5d7024b",
@@ -3341,7 +3434,11 @@
               "published_at": "Wed, 29 Apr 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-04-30/topic/claude-now-connects-to-blender/"
+          "route": "/hot/2026-04-30/topic/claude-now-connects-to-blender/",
+          "headline_zh": "Claude 现已支持连接 Blender",
+          "summary_short_zh": "Claude 新增 Blender 连接器，可与 Blender 场景和工作流程交互，支持场景调试、工具开发和批量修改等任务",
+          "why_it_matters_zh": "这一工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "3199d26a8622",
@@ -3379,7 +3476,11 @@
               "published_at": "Wed, 29 Apr 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-04-30/topic/vllm-and-blackwell-co-design-is-landing-real-throughput-wins/"
+          "route": "/hot/2026-04-30/topic/vllm-and-blackwell-co-design-is-landing-real-throughput-wins/",
+          "headline_zh": "vLLM 与 Blackwell 的协同设计已带来实际吞吐量提升",
+          "summary_short_zh": "一篇社区总结报告了 vLLM 在 Blackwell 上的吞吐量表现，其中 DeepSeek V3.2 在 Artificial Analysis 的评测中达到每秒 230 个 token，首 token 延迟为 0.96 秒。该文介绍了软硬件协同设计带来的性能提升",
+          "why_it_matters_zh": "这一工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     },
@@ -3423,7 +3524,11 @@
               "published_at": "2026-04-30T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-04-30/topic/associative-state-universal-transformers-sparse-retrieval-meets-structured-recurrence/"
+          "route": "/hot/2026-04-30/topic/associative-state-universal-transformers-sparse-retrieval-meets-structured-recurrence/",
+          "headline_zh": "联想状态通用 Transformer：稀疏检索与结构化循环相结合",
+          "summary_short_zh": "我们研究结构化循环状态能否为语言建模提供紧凑的联想记忆骨干，同时支持精确检索。",
+          "why_it_matters_zh": "1 个独立来源提及了这篇研究论文。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "018696ae99e5",
@@ -3461,7 +3566,11 @@
               "published_at": "2026-04-30T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-04-30/topic/coquant-joint-weight-activation-subspace-projection-for-mixed-precision-llms/"
+          "route": "/hot/2026-04-30/topic/coquant-joint-weight-activation-subspace-projection-for-mixed-precision-llms/",
+          "headline_zh": "CoQuant：面向混合精度大语言模型的权重与激活联合子空间投影",
+          "summary_short_zh": "训练后量化（PTQ）已成为降低大语言模型（LLM）推理成本的重要技术。",
+          "why_it_matters_zh": "1 个独立来源提及了这篇研究论文。",
+          "category_zh": "研究"
         }
       ]
     }
@@ -3516,7 +3625,11 @@
               "published_at": "Wed, 29 Apr 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-04-30/topic/you-can-now-generate-a-variety-of-downloadable-files-including-pdfs-googleworkspace-files-microsoft-word-amp-excel-and-more-directly-in-your-chats-with-gemini/"
+          "route": "/hot/2026-04-30/topic/you-can-now-generate-a-variety-of-downloadable-files-including-pdfs-googleworkspace-files-microsoft-word-amp-excel-and-more-directly-in-your-chats-with-gemini/",
+          "headline_zh": "现在，你可以在与 Gemini 的聊天中直接生成各种可下载文件，包括 PDF、@GoogleWorkspace 文件、Microsoft Word 和 Excel 文件等",
+          "summary_short_zh": "Google 宣布，Gemini 现已支持在聊天中直接生成可下载文件，包括 PDF、Google Workspace 文件、Word 和 Excel 文档。用户可让 Gemini 创建内容，并导出为常见文件格式。",
+          "why_it_matters_zh": "2 个独立来源提及了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "b440c0bb544e",
@@ -3554,7 +3667,11 @@
               "published_at": "Wed, 29 Apr 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-04-30/topic/1-74-vs-5-00-deepseek-v4-pro-just-made-gpt-5-5-look-like-a-luxury-tax/"
+          "route": "/hot/2026-04-30/topic/1-74-vs-5-00-deepseek-v4-pro-just-made-gpt-5-5-look-like-a-luxury-tax/",
+          "headline_zh": "1.74 美元对比 5.00 美元：DeepSeek-V4-Pro 让 GPT-5.5 的定价看起来像在收奢侈税",
+          "summary_short_zh": "AINews 重点介绍了近期受到讨论的 DeepSeek-V4-Pro，其输入价格为每百万 token 1.74 美元。该报道将这一价格与 GPT-5.5 每百万输入 token 5.00 美元的价格进行了比较。",
+          "why_it_matters_zh": "1 个独立来源提及了此次产品发布。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -3598,7 +3715,11 @@
               "published_at": "Wed, 29 Apr 2026 06:00:00 -0400"
             }
           ],
-          "route": "/hot/2026-04-30/topic/the-mit-ibm-computing-research-lab-launches-to-shape-the-future-of-ai-and-quantum-computing/"
+          "route": "/hot/2026-04-30/topic/the-mit-ibm-computing-research-lab-launches-to-shape-the-future-of-ai-and-quantum-computing/",
+          "headline_zh": "MIT-IBM 计算研究实验室成立，致力于塑造 AI 与量子计算的未来",
+          "summary_short_zh": "MIT 与 IBM 联合成立了 MIT-IBM 计算研究实验室。该实验室将重点研究 AI、算法与量子计算的融合。",
+          "why_it_matters_zh": "1 个独立来源提及了这一行业动向。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "4f75eb51a37c",
@@ -3636,7 +3757,10 @@
               "published_at": "2026-04-30T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-30/topic/import-ai-453-breaking-ai-agents-mirrorcode-and-ten-views-on-gradual-disempowerment/"
+          "route": "/hot/2026-04-30/topic/import-ai-453-breaking-ai-agents-mirrorcode-and-ten-views-on-gradual-disempowerment/",
+          "headline_zh": "Import AI 第 453 期：攻破 AI 智能体；MirrorCode；关于渐进式失权的十种观点",
+          "why_it_matters_zh": "1 个独立来源提及了这条其他类资讯。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "aa144d815b76",
@@ -3674,7 +3798,10 @@
               "published_at": "2026-04-30T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-30/topic/import-ai-454-automating-alignment-research-safety-study-of-a-chinese-model-hifloat4/"
+          "route": "/hot/2026-04-30/topic/import-ai-454-automating-alignment-research-safety-study-of-a-chinese-model-hifloat4/",
+          "headline_zh": "Import AI 第 454 期：对齐研究自动化；一款中国模型的安全性研究；HiFloat4",
+          "why_it_matters_zh": "1 个独立来源提及了这条其他类资讯。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "f996b762afcd",
@@ -3712,7 +3839,11 @@
               "published_at": "Thu, 30 Apr 2026 00:14:23 +0000"
             }
           ],
-          "route": "/hot/2026-04-30/topic/amazon-s-cloud-business-is-surging-and-so-is-its-capital-spending/"
+          "route": "/hot/2026-04-30/topic/amazon-s-cloud-business-is-surging-and-so-is-its-capital-spending/",
+          "headline_zh": "亚马逊云业务迅猛增长，资本支出也在大幅攀升",
+          "summary_short_zh": "这家电商巨头的首席执行官表示，AWS 的收益超出预期，但公司支出也很高，短期内仍将持续。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "e7b81a4720af",
@@ -3750,7 +3881,10 @@
               "published_at": "2026-04-30T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-30/topic/glm-5-1-thinks-strategically-data-center-revolt-intensifies-when-helpful-llms-turn-unhelpful-humanoid-robots-get-to-work/"
+          "route": "/hot/2026-04-30/topic/glm-5-1-thinks-strategically-data-center-revolt-intensifies-when-helpful-llms-turn-unhelpful-humanoid-robots-get-to-work/",
+          "headline_zh": "GLM 5.1 展现战略思维，反对数据中心的浪潮加剧，当乐于助人的大语言模型帮不上忙，人形机器人开始上岗",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "7a92cbd1b37f",
@@ -3788,7 +3922,11 @@
               "published_at": "Thu, 30 Apr 2026 00:35:15 +0000"
             }
           ],
-          "route": "/hot/2026-04-30/topic/ai-demo/"
+          "route": "/hot/2026-04-30/topic/ai-demo/",
+          "headline_zh": "生数科技认领神秘登顶模型：AI视频公司拿出工业级Demo，跨本体跑通复杂长程任务",
+          "summary_short_zh": "做视频，顺便把具身智能的活也干了。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }

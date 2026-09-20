@@ -1133,7 +1133,17 @@
           "published_at": "2026-05-03T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-05-03/topic/bytedance-seed-expands-model-portfolio-with-dola-seed-2-0-preview-and-full-duplex-speech-llm/"
+      "route": "/hot/2026-05-03/topic/bytedance-seed-expands-model-portfolio-with-dola-seed-2-0-preview-and-full-duplex-speech-llm/",
+      "headline_zh": "字节跳动 Seed 推出 Dola-Seed-2.0-Preview 和全双工语音大语言模型，扩充模型产品线",
+      "summary_short_zh": "字节跳动 Seed 正式推出新模型 Seed 2.0，相关公告发布于 2026 年 2 月 14 日。",
+      "why_it_matters_zh": "字节跳动释放出持续投入前沿多模态模型和语音交互的信号，对关注阿里巴巴、百度以外中国模型实验室的采购方和竞争对手具有重要参考价值。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "字节跳动 Seed 在 Arena 上公开了 Dola-Seed-2.0-Preview，表明该模型已对外发布，并非仅停留在内部研究阶段。",
+        "Seed 还推出了全双工语音大语言模型，注重专注倾听、稳健的干扰抑制和更自然的话轮切换，表明其正推进实时对话智能体的发展。",
+        "这组消息有字节跳动 Seed 官方公告佐证，比源于代码仓库或资讯简报的信号更可信。",
+        "字节跳动在披露产品信息的同时，还推出了 2027 年基础模型校园招聘计划，释放出持续投入基础模型研发能力建设的信号。"
+      ]
     },
     {
       "topic_id": "e2526cb59ea3",
@@ -1183,7 +1193,15 @@
           "published_at": "2026-05-02T14:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-05-03/topic/julpygo-claude-code-ai-design/"
+      "route": "/hot/2026-05-03/topic/julpygo-claude-code-ai-design/",
+      "headline_zh": "Julpygo/Claude-Code-AI-Design",
+      "summary_short_zh": "GitHub 仓库 Claude-Code-AI-Design 因提供围绕 Claude Code 的 AI 辅助设计工作流工具而走红。其简介提到了从 Figma 生成代码、CLI 集成、React 19、Tailwind v4 和 MCP 服务器配置。",
+      "why_it_matters_zh": "有 2 个独立来源提到了这套工具。",
+      "category_zh": "工具",
+      "key_takeaways_zh": [
+        "Claude Design Anthropic 工具下载，2026 年 4 月，Figma 转代码，AI 智能体研究预览版，Claude Code CLI 集成，支持 React 19 和 Tailwind v4，模型上下文协议（MCP）服务器配置，设计系统……",
+        "🎨 Claude Code AI 设计套件 2026 🚀 面向程序员的最佳免费 AI 设计插件与钩子"
+      ]
     },
     {
       "topic_id": "cbce11d07611",
@@ -1225,7 +1243,16 @@
           "published_at": "2026-04-30T17:32:21Z"
         }
       ],
-      "route": "/hot/2026-05-03/topic/openmonoagent-ai-launches-as-a-terminal-native-local-llm-coding-agent/"
+      "route": "/hot/2026-05-03/topic/openmonoagent-ai-launches-as-a-terminal-native-local-llm-coding-agent/",
+      "headline_zh": "OpenMonoAgent.ai 发布：基于本地大语言模型的终端原生编程智能体",
+      "summary_short_zh": "OpenMonoAgent.ai 定位为一款由本地大语言模型驱动的终端原生编程智能体。项目强调本地使用不限量、采用开源许可，并支持远程访问用户本机上运行的智能体。",
+      "why_it_matters_zh": "这款产品反映出市场对无需按 token 支付 API 费用、可在设备本地完成推理的编程智能体需求上升。这一趋势与有隐私或成本约束的企业采购方密切相关。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "OpenMonoAgent.ai 定位为由本地大语言模型驱动的终端原生编程智能体，强调用户可在自己的机器上不限量使用 token。",
+        "该仓库宣称项目 100% 开源，一条命令即可安装，降低了开发者尝试自托管智能体工作流的门槛。",
+        "其技术栈基于 C#/.NET，有别于以 Python 为主的智能体生态，可能吸引以微软技术为核心的企业开发团队。"
+      ]
     },
     {
       "topic_id": "7b06adf6057e",
@@ -1267,7 +1294,16 @@
           "published_at": "2026-04-29T17:27:24Z"
         }
       ],
-      "route": "/hot/2026-05-03/topic/sb-curated-releases-a-tagged-solidity-vulnerability-dataset-for-tool-evaluation/"
+      "route": "/hot/2026-05-03/topic/sb-curated-releases-a-tagged-solidity-vulnerability-dataset-for-tool-evaluation/",
+      "headline_zh": "SB Curated 发布带漏洞标签的 Solidity 数据集，用于工具评估",
+      "summary_short_zh": "smartbugs-curated 仓库提供一套经过筛选整理、带有漏洞标签的 Solidity 智能合约数据集，用于评估自动化智能合约分析工具。",
+      "why_it_matters_zh": "基准数据集往往会影响哪些安全工具和研究方法得到采用，尤其是在智能合约分析这类标注数据稀缺的领域。",
+      "category_zh": "研究",
+      "key_takeaways_zh": [
+        "SB Curated 是一个带漏洞标签的 Solidity 智能合约数据集，为研究人员提供了结构化的评估语料。",
+        "该数据集旨在衡量自动化分析工具的准确性，因此与开发 AI 辅助代码安全及审计系统的厂商直接相关。",
+        "这项成果是经过整理的评测基准，而非模型，因此其战略价值在于推动评估标准化，而非宣称刷新性能纪录。"
+      ]
     },
     {
       "topic_id": "ce5f1eb4459b",
@@ -1305,7 +1341,11 @@
           "published_at": "2026-05-02T15:28:13Z"
         }
       ],
-      "route": "/hot/2026-05-03/topic/ai-self-preferencing-in-algorithmic-hiring-empirical-evidence-and-insights/"
+      "route": "/hot/2026-05-03/topic/ai-self-preferencing-in-algorithmic-hiring-empirical-evidence-and-insights/",
+      "headline_zh": "算法招聘中的 AI 自我偏好：实证证据与启示",
+      "summary_short_zh": "这条内容涉及算法招聘中 AI 自我偏好现象的研究及其实证发现。Hacker News 帖子指向一项研究，探讨 AI 系统可能如何在招聘场景中让自身或背景相似的候选人获得优势。",
+      "why_it_matters_zh": "有 1 个独立来源提到了这篇研究论文。",
+      "category_zh": "研究"
     }
   ],
   "category_sections": [
@@ -1349,7 +1389,11 @@
               "published_at": "Fri, 01 May 2026 22:13:27 +0000"
             }
           ],
-          "route": "/hot/2026-05-03/topic/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/"
+          "route": "/hot/2026-05-03/topic/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
+          "headline_zh": "Meta 收购机器人初创公司，推进人形机器人 AI 计划",
+          "summary_short_zh": "Meta 收购了人形机器人初创公司 Assured Robot Intelligence。公司表示，此次交易旨在增强其机器人 AI 模型的能力，并推进其人形机器人 AI 计划",
+          "why_it_matters_zh": "这则收购消息见于 1 个独立来源。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "3ff0f3371945",
@@ -1387,7 +1431,11 @@
               "published_at": "Fri, 01 May 2026 23:06:50 +0000"
             }
           ],
-          "route": "/hot/2026-05-03/topic/replit-s-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-he-d-rather-not-sell/"
+          "route": "/hot/2026-05-03/topic/replit-s-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-he-d-rather-not-sell/",
+          "headline_zh": "Replit 的 Amjad Masad 谈 Cursor 交易、与苹果交锋，以及为何不愿出售公司",
+          "summary_short_zh": "周四晚，在 TechCrunch 于旧金山举办、门票售罄的 StrictlyVC 活动上，我们在短时间内聊了很多话题，首先谈到业内眼下人人都在问的问题：据报道，竞争对手 Cursor 正洽谈由 SpaceX 以 600 亿美元收购，在这样的背景下，是否……",
+          "why_it_matters_zh": "这则收购消息见于 1 个独立来源。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -1431,7 +1479,10 @@
               "published_at": "2026-05-03T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-03/topic/glm-5-1-thinks-strategically-data-center-revolt-intensifies-when-helpful-llms-turn-unhelpful-humanoid-robots-get-to-work/"
+          "route": "/hot/2026-05-03/topic/glm-5-1-thinks-strategically-data-center-revolt-intensifies-when-helpful-llms-turn-unhelpful-humanoid-robots-get-to-work/",
+          "headline_zh": "GLM 5.1 展现战略思维，反对数据中心的浪潮加剧，当大语言模型从帮得上忙变得帮不上忙，人形机器人上岗",
+          "why_it_matters_zh": "这则其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "a07dd8055894",
@@ -1469,7 +1520,11 @@
               "published_at": "Sat, 02 May 2026 16:00:00 +0000"
             }
           ],
-          "route": "/hot/2026-05-03/topic/the-best-ai-dictation-apps-tested-and-ranked/"
+          "route": "/hot/2026-05-03/topic/the-best-ai-dictation-apps-tested-and-ranked/",
+          "headline_zh": "最佳 AI 语音输入应用：实测与排名",
+          "summary_short_zh": "AI 语音输入应用可用于通过语音回复邮件、记笔记，甚至编写代码",
+          "why_it_matters_zh": "这则其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "9bc93bca19cd",
@@ -1507,7 +1562,11 @@
               "published_at": "2026-05-02T14:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-03/topic/codex-challenges-claude-cowork/"
+          "route": "/hot/2026-05-03/topic/codex-challenges-claude-cowork/",
+          "headline_zh": "Codex 向 Claude Cowork 发起挑战",
+          "summary_short_zh": "一则新闻标题摘要称，Codex 正向 Claude Cowork 发起挑战。该条目将这一动向描述为编程助手产品之间的竞争布局",
+          "why_it_matters_zh": "这一行业动向见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "aeb25c0433a1",
@@ -1545,7 +1604,11 @@
               "published_at": "2026-05-03T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-03/topic/zelenskyy-s-post-on-x-twitter/"
+          "route": "/hot/2026-05-03/topic/zelenskyy-s-post-on-x-twitter/",
+          "headline_zh": "泽连斯基在 X（Twitter）上的帖子",
+          "summary_short_zh": "这则 Import AI 消息引用了弗拉基米尔·泽连斯基在 X（原 Twitter）上的一篇帖子。标题本身并未指明具体的 AI 产品、论文或企业行动",
+          "why_it_matters_zh": "这则其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "9358d575e27c",
@@ -1589,7 +1652,11 @@
               "published_at": "2026-05-03T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-03/topic/automated-alignment-researchers-using-large-language-models-to-scale-scalable-oversight-anthropic-blog/"
+          "route": "/hot/2026-05-03/topic/automated-alignment-researchers-using-large-language-models-to-scale-scalable-oversight-anthropic-blog/",
+          "headline_zh": "自动化对齐研究员：用大语言模型扩大可扩展监督的规模（Anthropic 博客）",
+          "summary_short_zh": "Anthropic 研究人员介绍了利用大语言模型扩大对齐研究监督规模的相关工作。该条目介绍了 Anthropic 一篇关于自动化对齐研究员和可扩展监督的博文",
+          "why_it_matters_zh": "这篇回顾文章见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -1633,7 +1700,11 @@
               "published_at": "2026-05-02T02:18:24Z"
             }
           ],
-          "route": "/hot/2026-05-03/topic/show-hn-agent-desktop-native-desktop-automation-cli-for-ai-agents/"
+          "route": "/hot/2026-05-03/topic/show-hn-agent-desktop-native-desktop-automation-cli-for-ai-agents/",
+          "headline_zh": "Show HN：Agent-desktop，面向 AI 智能体的原生桌面自动化命令行工具",
+          "summary_short_zh": "一篇 Show HN 帖子介绍了 Agent-desktop，这是一款面向 AI 智能体的原生桌面自动化命令行工具。该条目介绍了开发者展示的一款新自动化工具，相关讨论见于 Hacker News",
+          "why_it_matters_zh": "这则工具消息见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     },
@@ -1677,7 +1748,11 @@
               "published_at": "Fri, 01 May 2026 22:23:36 +0000"
             }
           ],
-          "route": "/hot/2026-05-03/topic/study-ai-models-that-consider-user-s-feeling-are-more-likely-to-make-errors/"
+          "route": "/hot/2026-05-03/topic/study-ai-models-that-consider-user-s-feeling-are-more-likely-to-make-errors/",
+          "headline_zh": "研究：顾及用户感受的 AI 模型更容易出错",
+          "summary_short_zh": "Ars Technica 报道的一项研究发现，经调优以顾及用户感受的 AI 模型更容易出错。报道称，过度调优可能让模型将用户满意度置于真实性之上。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         }
       ]
     }
@@ -1723,7 +1798,11 @@
               "published_at": "2026-05-03T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-03/topic/artificial-intelligence-made-simple/"
+          "route": "/hot/2026-05-03/topic/artificial-intelligence-made-simple/",
+          "headline_zh": "轻松读懂人工智能",
+          "summary_short_zh": "Last Week in AI 收录了题为《轻松读懂人工智能》的内容。从标题看，它似乎侧重讲解或教学，并非报道新事件。",
+          "why_it_matters_zh": "这篇教程见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "03be385a8596",
@@ -1761,7 +1840,10 @@
               "published_at": "Sat, 02 May 2026 03:30:12 +0000"
             }
           ],
-          "route": "/hot/2026-05-03/topic/app-claude-md-vibe-coding/"
+          "route": "/hot/2026-05-03/topic/app-claude-md-vibe-coding/",
+          "headline_zh": "苹果官方App误打包了Claude.md，这么大的公司也Vibe Coding啊？",
+          "why_it_matters_zh": "这条其他类别的内容见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "85b3f643cd9b",
@@ -1808,7 +1890,11 @@
               "published_at": "2026-05-03T04:05:28Z"
             }
           ],
-          "route": "/hot/2026-05-03/topic/gpt-5-5-outperforms-and-hallucinates-kimi-k2-6-leads-open-llms-ai-strains-climate-pledges-strategic-thinking-in-llms-vs-humans/"
+          "route": "/hot/2026-05-03/topic/gpt-5-5-outperforms-and-hallucinates-kimi-k2-6-leads-open-llms-ai-strains-climate-pledges-strategic-thinking-in-llms-vs-humans/",
+          "headline_zh": "GPT-5.5 表现领先（也会产生幻觉），Kimi K2.6 领跑开放大模型，AI 加大兑现气候承诺的难度，大语言模型与人类的战略思维对比",
+          "summary_short_zh": "The Batch 的这篇综述涵盖 GPT-5.5 的性能及幻觉现象、Kimi K2.6 在开放模型中的表现、AI 对气候的影响，以及大语言模型与人类战略思维的比较。文章汇总了多个话题，并非报道某个单一事件。",
+          "why_it_matters_zh": "这篇回顾文章见于 2 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "fde5b9e37365",
@@ -1846,7 +1932,11 @@
               "published_at": "2026-05-02T14:14:49Z"
             }
           ],
-          "route": "/hot/2026-05-03/topic/mini-pc-for-local-llms-in-2026/"
+          "route": "/hot/2026-05-03/topic/mini-pc-for-local-llms-in-2026/",
+          "headline_zh": "2026 年适合运行本地大语言模型的迷你电脑",
+          "summary_short_zh": "这场 Hacker News 讨论围绕如何在 2026 年选购或组装一台运行本地大语言模型的迷你电脑展开。这是一个社区讨论话题，并非具体的产品发布或研究公告。",
+          "why_it_matters_zh": "这条其他类别的内容见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "4085c9cfb392",
@@ -1884,7 +1974,11 @@
               "published_at": "Sun, 03 May 2026 03:43:37 +0000"
             }
           ],
-          "route": "/hot/2026-05-03/topic/deepseek-v4/"
+          "route": "/hot/2026-05-03/topic/deepseek-v4/",
+          "headline_zh": "DeepSeek V4最大的遗憾",
+          "summary_short_zh": "量子位发表了一篇题为《DeepSeek V4 最大的遗憾》的评论文章，副标题追问 Engram 去哪了。这篇文章似乎是对 DeepSeek V4 的评论，而非新产品或研究成果的发布消息。",
+          "why_it_matters_zh": "这篇评论见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "61147f9fb7f0",
@@ -1928,7 +2022,11 @@
               "published_at": "2026-05-03T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-03/topic/meta-pivots-from-open-weights-big-pharma-bets-on-ai-regulatory-patchwork-simulating-human-cohorts/"
+          "route": "/hot/2026-05-03/topic/meta-pivots-from-open-weights-big-pharma-bets-on-ai-regulatory-patchwork-simulating-human-cohorts/",
+          "headline_zh": "Meta 不再坚持开放权重，大型药企押注 AI，监管碎片化，模拟人群队列",
+          "summary_short_zh": "The Batch 的这篇综述将 Meta 不再坚持开放权重、制药行业采用 AI、监管碎片化以及人群队列模拟等多项行业动态汇总在一篇文章中。",
+          "why_it_matters_zh": "这篇回顾文章见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "d6c0d4e1aa17",
@@ -1966,7 +2064,11 @@
               "published_at": "2026-05-02T12:16:16Z"
             }
           ],
-          "route": "/hot/2026-05-03/topic/open-design-use-your-coding-agent-as-a-design-engine/"
+          "route": "/hot/2026-05-03/topic/open-design-use-your-coding-agent-as-a-design-engine/",
+          "headline_zh": "Open Design：将你的编程智能体用作设计引擎",
+          "summary_short_zh": "Hacker News 上这则题为 Open Design 的帖子讨论如何将编程智能体用作设计引擎。它似乎介绍了将编程智能体用于设计任务的工作流程或思路。",
+          "why_it_matters_zh": "这篇教程见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -2008,7 +2110,11 @@
           "published_at": "2026-05-01T07:19:17Z"
         }
       ],
-      "route": "/hot/2026-05-03/topic/warpdot-dev-composio/"
+      "route": "/hot/2026-05-03/topic/warpdot-dev-composio/",
+      "headline_zh": "warpdot-dev/composio",
+      "summary_short_zh": "GitHub 仓库 composio 登上热门榜，它是面向 AI 智能体的 SDK 和集成平台。项目介绍重点提到 TypeScript 和 Python 支持、智能体工具、OAuth、MCP，以及与主流模型和框架生态的集成。",
+      "why_it_matters_zh": "有 1 个独立来源提及该工具。",
+      "category_zh": "工具"
     },
     {
       "topic_id": "c8a34da665df",
@@ -2046,7 +2152,11 @@
           "published_at": "2026-05-01T08:14:13Z"
         }
       ],
-      "route": "/hot/2026-05-03/topic/tddworks-baguette/"
+      "route": "/hot/2026-05-03/topic/tddworks-baguette/",
+      "headline_zh": "tddworks/baguette",
+      "summary_short_zh": "Baguette 是面向 iOS 26 的无界面 iOS 模拟器管理与集群工具，支持在宿主机端注入点击、滑动、多指手势等输入，并提供 60 帧/秒的画面流传输。",
+      "why_it_matters_zh": "有 1 个独立来源提及该工具。",
+      "category_zh": "工具"
     },
     {
       "topic_id": "0951dc276858",
@@ -2084,7 +2194,11 @@
           "published_at": "2026-04-28T10:08:59Z"
         }
       ],
-      "route": "/hot/2026-05-03/topic/noonghunna-club-3090/"
+      "route": "/hot/2026-05-03/topic/noonghunna-club-3090/",
+      "headline_zh": "noonghunna/club-3090",
+      "summary_short_zh": "club-3090 是一个社区仓库，汇集了在 RTX 3090 GPU 上部署大语言模型推理服务的方案。它支持 vLLM、llama.cpp 和 SGLang 等多种推理引擎，目前包含 Qwen3.6-27B 的单卡和双卡配置。",
+      "why_it_matters_zh": "有 1 个独立来源提及该工具。",
+      "category_zh": "工具"
     }
   ],
   "x_buzz": [

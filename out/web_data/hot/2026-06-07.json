@@ -1018,7 +1018,14 @@
           "published_at": "Sat, 06 Jun 2026 20:32:24 +0000"
         }
       ],
-      "route": "/hot/2026-06-07/topic/openai-help-lockdown-mode/"
+      "route": "/hot/2026-06-07/topic/openai-help-lockdown-mode/",
+      "headline_zh": "OpenAI 帮助：锁定模式",
+      "summary_short_zh": "<p><strong><a href=\" 帮助：锁定模式</a></strong></p> OpenAI 早在<a href=\" 2 月</a>就预告过这项功能，如今已正式上线，并“逐步向符合条件的个人账户（包括 Free、Go、Plus 和 Pro）以及自助开通的 ChatGPT Business 账户推出”：</p> <blockquote> <p>锁定模式旨在",
+      "why_it_matters_zh": "此次产品发布有 2 个独立来源报道。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "即使启用锁定模式，ChatGPT 仍可能受到提示注入攻击，但该模式旨在降低敏感数据在此过程中泄露的风险。"
+      ]
     },
     {
       "topic_id": "0ecd8c769a12",
@@ -1056,7 +1063,10 @@
           "published_at": "2026-06-03T05:43:37Z"
         }
       ],
-      "route": "/hot/2026-06-07/topic/xevrion-v2-agent-playground/"
+      "route": "/hot/2026-06-07/topic/xevrion-v2-agent-playground/",
+      "headline_zh": "xevrion-v2/agent-playground",
+      "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "fe32d103860a",
@@ -1096,7 +1106,14 @@
           "published_at": "2026-06-03T18:55:02Z"
         }
       ],
-      "route": "/hot/2026-06-07/topic/tastyeffectco-sandboxes/"
+      "route": "/hot/2026-06-07/topic/tastyeffectco-sandboxes/",
+      "headline_zh": "tastyeffectco/sandboxes",
+      "summary_short_zh": "提供预览链接的自托管开发沙箱，一条命令即可运行。无需 Kubernetes，非常适合编程智能体和 SaaS 工厂",
+      "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "提供预览链接的自托管开发沙箱，一条命令即可运行。无需 Kubernetes，非常适合编程智能体和 SaaS 工厂"
+      ]
     },
     {
       "topic_id": "91f0b5809259",
@@ -1134,7 +1151,11 @@
           "published_at": "2026-06-07T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-06-07/topic/biohub-releases-a-world-model-of-protein-biology-biohub/"
+      "route": "/hot/2026-06-07/topic/biohub-releases-a-world-model-of-protein-biology-biohub/",
+      "headline_zh": "Biohub 发布蛋白质生物学世界模型 (biohub)",
+      "summary_short_zh": "Biohub 发布蛋白质生物学世界模型 (biohub",
+      "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "2b50fe6cee60",
@@ -1174,7 +1195,14 @@
           "published_at": "2026-06-06T11:05:00-04:00"
         }
       ],
-      "route": "/hot/2026-06-07/topic/the-mayor-of-shelbyville-indiana-says-only-people-who-live-in-shitty-houses-oppose-data-center/"
+      "route": "/hot/2026-06-07/topic/the-mayor-of-shelbyville-indiana-says-only-people-who-live-in-shitty-houses-oppose-data-center/",
+      "headline_zh": "印第安纳州 Shelbyville 市长称，只有住在“破房子”里的人才反对建数据中心",
+      "summary_short_zh": "印第安纳州小城 Shelbyville 拟建一座耗资 20 亿美元的数据中心，这一计划已成为当地政治争议的焦点。",
+      "why_it_matters_zh": "这笔融资有 1 个独立来源报道。",
+      "category_zh": "市场信号",
+      "key_takeaways_zh": [
+        "印第安纳州小城 Shelbyville 拟建一座耗资 20 亿美元的数据中心，这一计划已成为当地政治争议的焦点。而在市长 Scott Furgeson 被……之后，争议进一步升级。"
+      ]
     }
   ],
   "category_sections": [
@@ -1218,7 +1246,11 @@
               "published_at": "Sat, 06 Jun 2026 17:42:15 +0000"
             }
           ],
-          "route": "/hot/2026-06-07/topic/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/"
+          "route": "/hot/2026-06-07/topic/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
+          "headline_zh": "Sriram Krishnan 将卸任白宫 AI 顾问",
+          "summary_short_zh": "据报道，Krishnan 正在创办一家新机构，以继续影响特朗普的 AI 政策",
+          "why_it_matters_zh": "这一行业动向有 1 个独立来源报道。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "caea64c53f71",
@@ -1256,7 +1288,10 @@
               "published_at": "2026-06-07T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-07/topic/import-ai-459-ai-oversight-is-difficult-scaling-laws-for-protein-folding-models-and-pricing-the-extinction-risk-of-ai-systems/"
+          "route": "/hot/2026-06-07/topic/import-ai-459-ai-oversight-is-difficult-scaling-laws-for-protein-folding-models-and-pricing-the-extinction-risk-of-ai-systems/",
+          "headline_zh": "Import AI 第 459 期：AI 监管困难重重；蛋白质折叠模型的缩放定律；为 AI 系统引发的灭绝风险定价",
+          "why_it_matters_zh": "这条其他类消息有 1 个独立来源报道。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "1916d3d731bc",
@@ -1294,7 +1329,11 @@
               "published_at": "2026-06-07T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-07/topic/where-is-ai-in-gdp-statistics-piie/"
+          "route": "/hot/2026-06-07/topic/where-is-ai-in-gdp-statistics-piie/",
+          "headline_zh": "AI 在 GDP 统计中体现在哪里？(PIIE)",
+          "summary_short_zh": "AI 在 GDP 统计中体现在哪里？(PIIE",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "c7100954fb8b",
@@ -1332,7 +1371,11 @@
               "published_at": "Sun, 07 Jun 2026 01:13:21 +0000"
             }
           ],
-          "route": "/hot/2026-06-07/topic/5-ai/"
+          "route": "/hot/2026-06-07/topic/5-ai/",
+          "headline_zh": "5分钟AI长视频不翻车！国产开源框架杀到全球第一梯队",
+          "summary_short_zh": "高一致性、低延迟、实时超分全梭哈",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "b7a149f3d470",
@@ -1370,7 +1413,11 @@
               "published_at": "Sun, 07 Jun 2026 03:10:13 +0000"
             }
           ],
-          "route": "/hot/2026-06-07/topic/ai-17/"
+          "route": "/hot/2026-06-07/topic/ai-17/",
+          "headline_zh": "教你用AI一节课收17万，华尔街精英排着队付费",
+          "summary_short_zh": "花旗美银都是客户",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -1414,7 +1461,11 @@
               "published_at": "2026-06-06T03:53:34+00:00"
             }
           ],
-          "route": "/hot/2026-06-07/topic/running-python-code-in-a-sandbox-with-micropython-and-wasm/"
+          "route": "/hot/2026-06-07/topic/running-python-code-in-a-sandbox-with-micropython-and-wasm/",
+          "headline_zh": "用 MicroPython 和 WASM 在沙箱中运行 Python 代码",
+          "summary_short_zh": "<p>这几年来，我一直在尝试用不同方式在沙箱中运行代码，但最近这次尝试似乎终于具备了我一直想要的所有特性。",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     }
@@ -1460,7 +1511,11 @@
               "published_at": "2026-06-06T10:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-07/topic/meta-made-its-own-ai-generated-clickbait-news-feed/"
+          "route": "/hot/2026-06-07/topic/meta-made-its-own-ai-generated-clickbait-news-feed/",
+          "headline_zh": "Meta 用 AI 打造了自家的标题党新闻流",
+          "summary_short_zh": "Facebook 的信息流长期充斥着标题党文章。如今，Meta 开始用 AI 自己生成这类文章。Meta AI 独立应用现在有了“为你推荐”版块，列出一系列标题党风格的文章供你阅读。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "7d1e15244ff9",
@@ -1498,7 +1553,11 @@
               "published_at": "2026-06-06T08:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-07/topic/here-comes-new-siri-again/"
+          "route": "/hot/2026-06-07/topic/here-comes-new-siri-again/",
+          "headline_zh": "新版 Siri 又来了",
+          "summary_short_zh": "过去几年，苹果在 AI 领域一直处于被动。但说来也怪，落后一步或许也不算坏事。苹果似乎准备在周一的 WWDC 上，再次向我们介绍新版 Siri。又一次。提醒一下，我们之前见到新版 Siri 是在",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "391d679018a5",
@@ -1536,7 +1595,11 @@
               "published_at": "Sat, 06 Jun 2026 07:08:15 +0000"
             }
           ],
-          "route": "/hot/2026-06-07/topic/hinton-ai/"
+          "route": "/hot/2026-06-07/topic/hinton-ai/",
+          "headline_zh": "Hinton吹哨了：AI已经有意识！",
+          "summary_short_zh": "人类得接受自己不再是唯一智能生命体",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "649d401a388c",
@@ -1574,7 +1637,11 @@
               "published_at": "Sat, 06 Jun 2026 07:15:13 +0000"
             }
           ],
-          "route": "/hot/2026-06-07/topic/ai/"
+          "route": "/hot/2026-06-07/topic/ai/",
+          "headline_zh": "大模型发展三年半，AI圈终于等来了一场“不要大厂，只赌脑洞”的比赛",
+          "summary_short_zh": "观众投币定前十！",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "a154cfb2aeb7",
@@ -1612,7 +1679,10 @@
               "published_at": "2026-06-07T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-07/topic/anthropic-confronts-the-rsi-clock/"
+          "route": "/hot/2026-06-07/topic/anthropic-confronts-the-rsi-clock/",
+          "headline_zh": "Anthropic 直面 RSI 倒计时",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "4217079086f8",
@@ -1650,7 +1720,10 @@
               "published_at": "2026-06-07T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-07/topic/4-min-read-claude-is-accelerating-its-own-development/"
+          "route": "/hot/2026-06-07/topic/4-min-read-claude-is-accelerating-its-own-development/",
+          "headline_zh": "阅读需 4 分钟：Claude 正在加快自身的开发进程",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "b44af0c08d53",
@@ -1688,7 +1761,10 @@
               "published_at": "2026-06-07T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-07/topic/5-min-read-microsoft-reveals-openclaw-style-agent/"
+          "route": "/hot/2026-06-07/topic/5-min-read-microsoft-reveals-openclaw-style-agent/",
+          "headline_zh": "阅读需 5 分钟：微软公布类似 OpenClaw 的智能体",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "87d748f15c9c",
@@ -1726,7 +1802,10 @@
               "published_at": "2026-06-06T12:15:59Z"
             }
           ],
-          "route": "/hot/2026-06-07/topic/meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers/"
+          "route": "/hot/2026-06-07/topic/meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers/",
+          "headline_zh": "Meta 一再推迟向开发者发布新 AI 模型",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -1768,7 +1847,11 @@
           "published_at": "2026-06-02T23:15:18Z"
         }
       ],
-      "route": "/hot/2026-06-07/topic/zaydmulani09-mnemo/"
+      "route": "/hot/2026-06-07/topic/zaydmulani09-mnemo/",
+      "headline_zh": "zaydmulani09/mnemo",
+      "summary_short_zh": "适用于各类大语言模型的本地优先 AI 记忆层。支持持久化知识图谱、实体抽取和语义检索，兼容 Ollama、OpenAI、Anthropic 及任何兼容 OpenAI 接口的后端。",
+      "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+      "category_zh": "工具"
     },
     {
       "topic_id": "ef0fed1e0eda",
@@ -1806,7 +1889,11 @@
           "published_at": "2026-06-03T14:19:33Z"
         }
       ],
-      "route": "/hot/2026-06-07/topic/razr001-align-dev/"
+      "route": "/hot/2026-06-07/topic/razr001-align-dev/",
+      "headline_zh": "razr001/align-dev",
+      "summary_short_zh": "AlignDev 帮助使用 AI 辅助开发的前端团队生成统一的编码规范和 SKILL.md，让 Claude Code、Codex、Cursor、Copilot 等智能体遵循一致的标准编写代码。",
+      "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+      "category_zh": "工具"
     },
     {
       "topic_id": "67506222cfe0",
@@ -1844,7 +1931,11 @@
           "published_at": "2026-06-07T01:16:18Z"
         }
       ],
-      "route": "/hot/2026-06-07/topic/jimliu-baoyu-design/"
+      "route": "/hot/2026-06-07/topic/jimliu-baoyu-design/",
+      "headline_zh": "JimLiu/baoyu-design",
+      "summary_short_zh": "以 Agent Skill 形式在本地运行 Claude Design，支持 Cursor、Claude Code 等。无需使用 claude.ai/design，即可制作精美的 UI 设计稿、原型、演示文稿和线框图，并输出为自包含 HTML。搭配 Opus 4.8 效果最佳。",
+      "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+      "category_zh": "工具"
     }
   ],
   "x_buzz": [

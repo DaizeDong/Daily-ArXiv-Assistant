@@ -2041,7 +2041,17 @@
           "published_at": "2026-05-05T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-05-05/topic/bytedance-seed-releases-dola-seed-2-0-preview-and-seed-full-duplex-speech-llm/"
+      "route": "/hot/2026-05-05/topic/bytedance-seed-releases-dola-seed-2-0-preview-and-seed-full-duplex-speech-llm/",
+      "headline_zh": "字节跳动 Seed 发布 Dola-Seed-2.0-Preview 和 Seed Full-Duplex Speech LLM",
+      "summary_short_zh": "字节跳动 Seed 正式推出 Seed 2.0，公告将其定位为 Seed 模型系列的一次重大版本更新。",
+      "why_it_matters_zh": "字节跳动展现出对前沿模型评测和实时语音交互的积极投入，这两个领域都对产品和平台有直接影响。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "字节跳动 Seed 在 Arena 上发布了 Dola-Seed-2.0-Preview，表明这是一款面向对比评测的公开预览模型。",
+        "公司还推出了 Seed Full-Duplex Speech LLM，强调专注倾听、干扰抑制，以及语音交互中更自然的话轮切换。",
+        "同批公告还包括字节跳动 Seed 2027 年基础模型校园招聘计划，显示公司在发布模型的同时，也在加大人才投入。",
+        "综合来看，这些发布内容体现了公司在模型质量、语音体验和研究人才招聘方面的广泛投入，而非一次孤立的演示。"
+      ]
     },
     {
       "topic_id": "bc6b015d086b",
@@ -2090,7 +2100,17 @@
           "published_at": "Mon, 04 May 2026 16:12:37 +0000"
         }
       ],
-      "route": "/hot/2026-05-05/topic/amazon-quick-adds-natural-language-dashboard-generation-and-dataset-q-a/"
+      "route": "/hot/2026-05-05/topic/amazon-quick-adds-natural-language-dashboard-generation-and-dataset-q-a/",
+      "headline_zh": "Amazon Quick 新增自然语言仪表板生成和数据集问答功能",
+      "summary_short_zh": "Amazon Quick 新增通过自然语言提示生成完整多工作表仪表板的功能，旨在减少商业智能（BI）用户手动配置仪表板的工作量。",
+      "why_it_matters_zh": "AWS 正将生成式 AI 更深入地融入 BI 工作流，有望缩短分析应用的部署周期，并增强 Quick 相对现有主流仪表板平台的竞争力。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Amazon Quick 现可根据自然语言提示生成完整的多工作表仪表板，在几分钟内将一个或多个数据集转化为可用于生产环境的分析。",
+        "AWS 还在 Amazon Quick 中推出了数据集问答功能，扩展了面向结构化数据集的自然语言查询能力，支持在同一段对话中查询多个数据集等操作。",
+        "Amazon Quick 现已支持将 Amazon S3 Tables 用作数据源，客户无需中间数据层，即可查询存储在 S3 中的 Apache Iceberg 表并进行可视化。",
+        "这一系列更新将生成式界面创建、对话式分析和湖仓直连整合进一套 AWS 原生 BI 工作流。"
+      ]
     },
     {
       "topic_id": "2462a8f9c71b",
@@ -2139,7 +2159,17 @@
           "published_at": "Mon, 04 May 2026 17:10:46 +0000"
         }
       ],
-      "route": "/hot/2026-05-05/topic/sagemaker-ai-launches-capacity-aware-inference-with-automatic-instance-fallback/"
+      "route": "/hot/2026-05-05/topic/sagemaker-ai-launches-capacity-aware-inference-with-automatic-instance-fallback/",
+      "headline_zh": "SageMaker AI 推出容量感知推理，支持自动切换备用实例",
+      "summary_short_zh": "Amazon SageMaker AI 为推理端点推出了支持自动切换备用实例的容量感知推理功能。用户可按优先级指定实例类型列表，SageMaker 会根据可用容量自动依次尝试。",
+      "why_it_matters_zh": "这直接应对 GPU 和实例资源短缺的风险，帮助企业保持推理服务在线并扩展规模，无需手动干预基础设施。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Amazon SageMaker AI 为新建和现有推理端点推出了容量感知实例池，团队可以按优先级指定实例类型列表。",
+        "在创建端点、扩容或缩容时，如果可用容量受限，SageMaker AI 会自动依次尝试备用列表中的实例类型，避免因单一实例类型不可用而失败。",
+        "AWS 在此次基础设施更新的同时，还为 SageMaker AI 推出了智能体引导的模型定制工作流，由编程智能体协助定义用例、准备数据、选择技术方案、评估和部署。",
+        "对于在生产环境中部署基础模型的企业，这项更新提供了一种应对供应瓶颈和服务中断的实用手段。"
+      ]
     },
     {
       "topic_id": "a1a439847f16",
@@ -2181,7 +2211,16 @@
           "published_at": "Mon, 04 May 2026 15:30:00 +0000"
         }
       ],
-      "route": "/hot/2026-05-05/topic/gemini-api-ships-webhooks-for-long-running-jobs/"
+      "route": "/hot/2026-05-05/topic/gemini-api-ships-webhooks-for-long-running-jobs/",
+      "headline_zh": "Gemini API 推出 Webhooks，支持长时间运行的任务",
+      "summary_short_zh": "Gemini API",
+      "why_it_matters_zh": "这提升了基于 Gemini 的应用在生产环境中的可靠性和开发体验，降低了企业工作负载的集成难度。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Google 宣布在 Gemini API 中推出 Webhooks，作为异步处理长时间运行请求的官方机制，无需反复轮询。",
+        "该功能面向模型响应耗时较长的工作负载，旨在帮助开发者设计延迟更低、后端编排更简洁的应用。",
+        "该消息直接由 Google AI Blog 发布，因此这是官方平台能力，并非第三方封装或社区工具。"
+      ]
     },
     {
       "topic_id": "e7f106ac1e97",
@@ -2221,7 +2260,14 @@
           "published_at": "Mon, 04 May 2026 17:00:00 +0000"
         }
       ],
-      "route": "/hot/2026-05-05/topic/the-latest-ai-news-we-announced-in-april-2026/"
+      "route": "/hot/2026-05-05/topic/the-latest-ai-news-we-announced-in-april-2026/",
+      "headline_zh": "我们在 2026 年 4 月发布的最新 AI 动态",
+      "summary_short_zh": "展示水下视频和移动端 AI 视频设计样稿的 mp4 文件",
+      "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "包含水下视频和移动端 AI 视频原型演示的 MP4。"
+      ]
     }
   ],
   "category_sections": [
@@ -2265,7 +2311,11 @@
               "published_at": "Mon, 04 May 2026 17:13:42 +0000"
             }
           ],
-          "route": "/hot/2026-05-05/topic/introducing-the-agent-quality-loop-agentcore-optimization-now-in-preview/"
+          "route": "/hot/2026-05-05/topic/introducing-the-agent-quality-loop-agentcore-optimization-now-in-preview/",
+          "headline_zh": "推出智能体质量闭环：AgentCore Optimization 现已开放预览",
+          "summary_short_zh": "AWS 宣布推出 AgentCore Optimization 预览版，将其纳入智能体质量闭环工作流。该功能利用生产环境追踪数据、批量评估和 A/B 测试，生成并验证提升智能体性能的建议。",
+          "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "f87fe2841f57",
@@ -2303,7 +2353,11 @@
               "published_at": "Mon, 04 May 2026 19:12:49 +0000"
             }
           ],
-          "route": "/hot/2026-05-05/topic/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/"
+          "route": "/hot/2026-05-05/topic/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/",
+          "headline_zh": "图像 AI 模型推动应用增长，效果已超越聊天机器人升级",
+          "summary_short_zh": "Appfigures 发现，视觉模型发布带来的下载量是聊天机器人升级的 6.5 倍，但多数应用未能将这波激增转化为收入。",
+          "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "0a84971df6e6",
@@ -2341,7 +2395,11 @@
               "published_at": "Mon, 04 May 2026 00:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-05-05/topic/foundational-research-powering-efficient-inference-at-scale/"
+          "route": "/hot/2026-05-05/topic/foundational-research-powering-efficient-inference-at-scale/",
+          "headline_zh": "支撑大规模高效推理的基础研究",
+          "summary_short_zh": "随着 AI 从研究走向生产应用，AI 原生团队面临的挑战也从构建模型转向高效、可靠地大规模运行模型。",
+          "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "190ece52b047",
@@ -2379,7 +2437,11 @@
               "published_at": "Mon, 04 May 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-05-05/topic/sensenova-u1-just-dropped-native-multimodal-gen-understanding-in-one-model-no-vae-no-diffusion/"
+          "route": "/hot/2026-05-05/topic/sensenova-u1-just-dropped-native-multimodal-gen-understanding-in-one-model-no-vae-no-diffusion/",
+          "headline_zh": "SenseNova-U1 刚刚发布：单一模型实现原生多模态生成与理解，不采用 VAE 或扩散机制",
+          "summary_short_zh": "SenseNova-U1 已发布，定位为原生多模态生成与理解模型。据介绍，该模型不使用 VAE 和扩散组件，将生成与理解整合在同一系统中。",
+          "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2423,7 +2485,11 @@
               "published_at": "Mon, 04 May 2026 21:53:21 +0000"
             }
           ],
-          "route": "/hot/2026-05-05/topic/openai-s-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/"
+          "route": "/hot/2026-05-05/topic/openai-s-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
+          "headline_zh": "OpenAI 的亲密伙伴 Cerebras 有望迎来重磅 IPO",
+          "summary_short_zh": "据报道，Cerebras 正筹备 IPO，这家 AI 芯片公司的估值可能达到约 266 亿美元甚至更高。文章还提及 Cerebras 与 OpenAI 的紧密业务关系。",
+          "why_it_matters_zh": "1 个独立来源报道了此次融资。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "31a3a3113010",
@@ -2461,7 +2527,11 @@
               "published_at": "2026-05-05T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-05/topic/robotics-meta-buys-a-humanoid-brain/"
+          "route": "/hot/2026-05-05/topic/robotics-meta-buys-a-humanoid-brain/",
+          "headline_zh": "机器人领域：Meta 买下人形机器人的“大脑”",
+          "summary_short_zh": "该标题称，Meta 完成了一项机器人相关收购，被形容为买下人形机器人的“大脑”。这一措辞暗示，这可能是一项与人形机器人能力相关的战略收购。",
+          "why_it_matters_zh": "1 个独立来源报道了此次收购。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "fb3acdcfe636",
@@ -2499,7 +2569,11 @@
               "published_at": "Mon, 04 May 2026 16:45:55 +0000"
             }
           ],
-          "route": "/hot/2026-05-05/topic/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/"
+          "route": "/hot/2026-05-05/topic/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/",
+          "headline_zh": "Sierra 融资 9.5 亿美元，企业 AI 主导权争夺加剧",
+          "summary_short_zh": "本轮融资使 Sierra 的可用资金超过 10 亿美元。公司表示，将利用这些资金成为 AI 驱动客户体验领域的“全球标准”。",
+          "why_it_matters_zh": "1 个独立来源报道了此次融资。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -2551,7 +2625,11 @@
               "published_at": "Mon, 04 May 2026 15:05:58 +0000"
             }
           ],
-          "route": "/hot/2026-05-05/topic/live-updates-from-elon-musk-and-sam-altman-s-court-battle-over-the-future-of-openai/"
+          "route": "/hot/2026-05-05/topic/live-updates-from-elon-musk-and-sam-altman-s-court-battle-over-the-future-of-openai/",
+          "headline_zh": "埃隆·马斯克与山姆·奥尔特曼围绕 OpenAI 未来的庭审实时报道",
+          "summary_short_zh": "The Verge 实时报道了埃隆·马斯克与山姆·奥尔特曼围绕 OpenAI 未来的庭审。此案源于马斯克于 2024 年提起的诉讼，他指控 OpenAI 背离了最初的使命。",
+          "why_it_matters_zh": "这一观点见于 3 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "bd423a00612c",
@@ -2589,7 +2667,11 @@
               "published_at": "Mon, 04 May 2026 21:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-05-05/topic/openai-and-pwc-collaborate-to-reimagine-the-office-of-the-cfo/"
+          "route": "/hot/2026-05-05/topic/openai-and-pwc-collaborate-to-reimagine-the-office-of-the-cfo/",
+          "headline_zh": "OpenAI 与普华永道合作，重塑首席财务官职能",
+          "summary_short_zh": "OpenAI 与普华永道宣布合作，帮助企业在财务运营中使用 AI 智能体。合作重点包括工作流程自动化、预测、内控，以及首席财务官职能的现代化。",
+          "why_it_matters_zh": "这一行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "cbce11d07611",
@@ -2627,7 +2709,11 @@
               "published_at": "2026-04-30T17:32:21Z"
             }
           ],
-          "route": "/hot/2026-05-05/topic/startuphakk-openmonoagent-ai/"
+          "route": "/hot/2026-05-05/topic/startuphakk-openmonoagent-ai/",
+          "headline_zh": "StartupHakk/OpenMonoAgent.ai",
+          "summary_short_zh": "（测试版）AI 不该按量计费。词元永久不限量。你的电脑，你的智能体，随时随地使用。由本地大语言模型驱动的终端原生编程智能体，100% 开源，永久免费，一条命令即可安装。",
+          "why_it_matters_zh": "这一行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "01ea1adbe422",
@@ -2665,7 +2751,11 @@
               "published_at": "2026-05-04T19:49:33-04:00"
             }
           ],
-          "route": "/hot/2026-05-05/topic/openai-s-president-does-all-the-things-except-answer-a-question/"
+          "route": "/hot/2026-05-05/topic/openai-s-president-does-all-the-things-except-answer-a-question/",
+          "headline_zh": "OpenAI 总裁“什么都做”，唯独不回答问题",
+          "summary_short_zh": "本文报道了 OpenAI 总裁格雷格·布罗克曼在涉及埃隆·马斯克与 OpenAI 的诉讼中的作证情况，介绍了庭审过程及布罗克曼作为证人的角色。",
+          "why_it_matters_zh": "这一观点见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "9c04e67ab840",
@@ -2703,7 +2793,11 @@
               "published_at": "Mon, 04 May 2026 19:03:39 +0000"
             }
           ],
-          "route": "/hot/2026-05-05/topic/influential-study-touting-chatgpt-in-education-retracted-over-red-flags/"
+          "route": "/hot/2026-05-05/topic/influential-study-touting-chatgpt-in-education-retracted-over-red-flags/",
+          "headline_zh": "力推 ChatGPT 教育应用的一项颇具影响力的研究因多处疑点被撤稿",
+          "summary_short_zh": "Ars Technica 报道称，一篇被广泛引用、主张在教育中使用 ChatGPT 的论文已被撤稿。报道称，该论文在撤稿前已累计被引用数百次。",
+          "why_it_matters_zh": "这一行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -2747,7 +2841,11 @@
               "published_at": "2026-05-04T23:49:24+00:00"
             }
           ],
-          "route": "/hot/2026-05-05/topic/granite-4-1-3b-svg-pelican-gallery/"
+          "route": "/hot/2026-05-05/topic/granite-4-1-3b-svg-pelican-gallery/",
+          "headline_zh": "Granite 4.1 3B SVG 鹈鹕图集",
+          "summary_short_zh": "<p><strong><a href=\" 4.1 3B SVG 鹈鹕图集</a></strong></p> IBM 几天前发布了其 <a href=\" 4.1 系列</a>大语言模型。",
+          "why_it_matters_zh": "这一工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "2009003b0f95",
@@ -2794,7 +2892,11 @@
               "published_at": "2026-05-04T19:42:47Z"
             }
           ],
-          "route": "/hot/2026-05-05/topic/how-openai-delivers-low-latency-voice-ai-at-scale/"
+          "route": "/hot/2026-05-05/topic/how-openai-delivers-low-latency-voice-ai-at-scale/",
+          "headline_zh": "OpenAI 如何大规模提供低延迟语音 AI",
+          "summary_short_zh": "OpenAI 介绍了如何重建 WebRTC 技术栈，以在全球范围内支持低延迟语音 AI。文章重点讨论了实时对话轮次切换所需的基础设施和生产环境可靠性。",
+          "why_it_matters_zh": "这一工具动态见于 2 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "f968129ea1b5",
@@ -2832,7 +2934,11 @@
               "published_at": "Mon, 04 May 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-05-05/topic/karpathy-s-microgpt-running-at-50-000-tps-on-an-fpga/"
+          "route": "/hot/2026-05-05/topic/karpathy-s-microgpt-running-at-50-000-tps-on-an-fpga/",
+          "headline_zh": "Karpathy 的 MicroGPT 在 FPGA 上运行，速度达每秒 5 万词元",
+          "summary_short_zh": "一则社区帖子称，Andrej Karpathy 的 MicroGPT 在 FPGA 上的运行速度约为每秒 5 万词元。摘要介绍了一个仅有 4,192 个参数的微型实现，针对板载推理或高效利用硬件的推理场景进行了优化",
+          "why_it_matters_zh": "有 1 个独立来源提及该工具。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "8c4bc848b2a7",
@@ -2870,7 +2976,11 @@
               "published_at": "Mon, 04 May 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-05-05/topic/i-made-a-visualizer-for-hugging-face-models/"
+          "route": "/hot/2026-05-05/topic/i-made-a-visualizer-for-hugging-face-models/",
+          "headline_zh": "我做了一个 Hugging Face 模型可视化工具",
+          "summary_short_zh": "一则社区帖子介绍了 hfviewer.com，这款工具可将 Hugging Face 上托管的模型架构可视化。用户输入 Hugging Face 模型后，即可通过可视化界面查看其结构",
+          "why_it_matters_zh": "有 1 个独立来源提及该工具。",
+          "category_zh": "工具"
         }
       ]
     }
@@ -2916,7 +3026,11 @@
               "published_at": "Tue, 05 May 2026 03:31:54 +0000"
             }
           ],
-          "route": "/hot/2026-05-05/topic/as-workers-worry-about-ai-nvidia-s-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/"
+          "route": "/hot/2026-05-05/topic/as-workers-worry-about-ai-nvidia-s-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/",
+          "headline_zh": "劳动者担忧 AI 之际，英伟达黄仁勋称 AI 正在“创造大量就业岗位”",
+          "summary_short_zh": "英伟达首席执行官黄仁勋表示，AI 正在创造大量就业岗位，并淡化了 AI 将导致大量岗位消失的说法。文章聚焦他关于 AI 对劳动力市场影响的公开表态",
+          "why_it_matters_zh": "这一观点见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "e7b81a4720af",
@@ -2954,7 +3068,10 @@
               "published_at": "2026-05-05T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-05/topic/glm-5-1-thinks-strategically-data-center-revolt-intensifies-when-helpful-llms-turn-unhelpful-humanoid-robots-get-to-work/"
+          "route": "/hot/2026-05-05/topic/glm-5-1-thinks-strategically-data-center-revolt-intensifies-when-helpful-llms-turn-unhelpful-humanoid-robots-get-to-work/",
+          "headline_zh": "GLM 5.1 展现战略思维，反对数据中心的抗议加剧，当乐于助人的大语言模型不再帮忙，人形机器人上岗",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "4329cb5b92f3",
@@ -2992,7 +3109,11 @@
               "published_at": "May 4, 2026"
             }
           ],
-          "route": "/hot/2026-05-05/topic/building-a-new-enterprise-ai-services-company-with-blackstone-hellman-friedman-and-goldman-sachs/"
+          "route": "/hot/2026-05-05/topic/building-a-new-enterprise-ai-services-company-with-blackstone-hellman-friedman-and-goldman-sachs/",
+          "headline_zh": "与黑石、Hellman & Friedman 和高盛共同组建一家新的企业 AI 服务公司",
+          "summary_short_zh": "Anthropic 宣布计划与黑石、Hellman & Friedman 和高盛共同成立一家新的企业 AI 服务公司。这则消息介绍了联合大型金融机构和私募股权投资伙伴组建公司的战略举措",
+          "why_it_matters_zh": "这一行业动向见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "109a2d4a1947",
@@ -3036,7 +3157,11 @@
               "published_at": "2026-05-05T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-05/topic/automated-ai-research-intern-by-september-of-2026/"
+          "route": "/hot/2026-05-05/topic/automated-ai-research-intern-by-september-of-2026/",
+          "headline_zh": "到 2026 年 9 月拥有自动化 AI 研究实习生",
+          "summary_short_zh": "这则内容探讨了到 2026 年 9 月拥有自动化 AI 研究实习生的前景。根据现有文本，它更像是一篇分析性或推测性评论，而非关于产品已发布的报道",
+          "why_it_matters_zh": "这一观点见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "9bc93bca19cd",
@@ -3074,7 +3199,11 @@
               "published_at": "2026-05-04T11:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-05/topic/codex-challenges-claude-cowork/"
+          "route": "/hot/2026-05-05/topic/codex-challenges-claude-cowork/",
+          "headline_zh": "Codex 挑战 Claude Cowork",
+          "summary_short_zh": "Superhuman AI 报道称，Codex 正向 Claude Cowork 发起挑战。这则消息将其视为 AI 编程或协作工具领域的竞争动向",
+          "why_it_matters_zh": "这一行业动向见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "be0854c93d68",
@@ -3112,7 +3241,10 @@
               "published_at": "2026-05-04T16:21:38Z"
             }
           ],
-          "route": "/hot/2026-05-05/topic/openai-google-and-microsoft-back-bill-to-fund-ai-literacy-in-schools/"
+          "route": "/hot/2026-05-05/topic/openai-google-and-microsoft-back-bill-to-fund-ai-literacy-in-schools/",
+          "headline_zh": "OpenAI、谷歌和微软支持资助学校开展“AI 素养”教育的法案",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "8a77d2b2d6ed",
@@ -3150,7 +3282,11 @@
               "published_at": "2026-05-05T04:09:17Z"
             }
           ],
-          "route": "/hot/2026-05-05/topic/train-your-own-llm-from-scratch/"
+          "route": "/hot/2026-05-05/topic/train-your-own-llm-from-scratch/",
+          "headline_zh": "从零训练自己的大语言模型",
+          "summary_short_zh": "本条内容介绍如何从零训练语言模型，属于教学或操作指导，而非新品发布或交易报道。",
+          "why_it_matters_zh": "这篇教程见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "b801816b53ca",
@@ -3188,7 +3324,11 @@
               "published_at": "2026-05-04T18:19:04Z"
             }
           ],
-          "route": "/hot/2026-05-05/topic/usage-based-pricing-killing-your-vibe-here-s-how-to-roll-your-own-local-ai/"
+          "route": "/hot/2026-05-05/topic/usage-based-pricing-killing-your-vibe-here-s-how-to-roll-your-own-local-ai/",
+          "headline_zh": "按量计费太扫兴？教你搭建自己的本地 AI",
+          "summary_short_zh": "本条内容介绍如何在本地运行 AI，以替代按用量计费的 API，属于实用操作或配置指南，而非新闻报道。",
+          "why_it_matters_zh": "这篇教程见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -3230,7 +3370,11 @@
           "published_at": "2026-05-05T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-05-05/topic/probe-geometry-alignment-erasing-the-cross-sequence-memorization-signature-below-chance/"
+      "route": "/hot/2026-05-05/topic/probe-geometry-alignment-erasing-the-cross-sequence-memorization-signature-below-chance/",
+      "headline_zh": "探针几何对齐：将跨序列记忆特征消减至随机水平以下",
+      "summary_short_zh": "近期攻击研究表明，大语言模型的行为层面遗忘仍会留下可被对抗性探针恢复的内部痕迹。我们刻画了这些残留记忆的位置，并证明可以精准移除它们，且不造成可测得的能力损失。",
+      "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+      "category_zh": "研究"
     },
     {
       "topic_id": "0a47b9068c8c",
@@ -3268,7 +3412,11 @@
           "published_at": "2026-05-05T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-05-05/topic/geometric-and-spectral-alignment-for-deep-neural-network-i/"
+      "route": "/hot/2026-05-05/topic/geometric-and-spectral-alignment-for-deep-neural-network-i/",
+      "headline_zh": "深度神经网络的几何与谱对齐 I",
+      "summary_short_zh": "深度残差架构被建模为近恒等雅可比矩阵的乘积。本文证明了经 Frobenius 范数归一化的层因子奇异值谱的确定性商几何估计，重点讨论归一化的 top-radial Cartan 坐标与拟合幂律坐标图。",
+      "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+      "category_zh": "研究"
     }
   ],
   "x_buzz": [

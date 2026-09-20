@@ -1951,7 +1951,16 @@
           "published_at": "2026-05-06T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-05-06/topic/seed-2-0-official-launch/"
+      "route": "/hot/2026-05-06/topic/seed-2-0-official-launch/",
+      "headline_zh": "Seed 2.0 正式发布",
+      "summary_short_zh": "字节跳动 Seed 正式推出 Seed 2.0，这是该公司发布的一款重要新模型。",
+      "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "字节跳动 Seed 宣布启动 2027 年基础模型校园招聘，包含实习岗位。",
+        "字节跳动 Seed 在 Arena 上发布 Dola-Seed-2.0-Preview 模型，提前展示即将推出的新能力。",
+        "字节跳动 Seed 推出 Seed Full-Duplex Speech LLM，主打专注聆听、强抗干扰和更自然的语音交互。"
+      ]
     },
     {
       "topic_id": "d68e37a65c9c",
@@ -1999,7 +2008,16 @@
           "published_at": "Tue, 05 May 2026 15:27:30 +0000"
         }
       ],
-      "route": "/hot/2026-05-06/topic/amazon-bedrock-agentcore-browser-adds-os-level-actions-via-invokebrowser-api/"
+      "route": "/hot/2026-05-06/topic/amazon-bedrock-agentcore-browser-adds-os-level-actions-via-invokebrowser-api/",
+      "headline_zh": "Amazon Bedrock AgentCore Browser 新增操作系统级操作，可通过 InvokeBrowser API 调用",
+      "summary_short_zh": "AWS 为 Amazon Bedrock AgentCore Browser 引入操作系统级操作。智能体可通过 InvokeBrowser API 直接控制操作系统，操作常规浏览器界面以外的内容。",
+      "why_it_matters_zh": "亚马逊正将 Bedrock 智能体的能力从浏览器自动化扩展至更完整的桌面级控制，显著拓宽其可执行的企业工作流范围。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "AWS 表示，新增的操作系统级操作能力允许智能体通过 InvokeBrowser API 直接控制操作系统，操作屏幕上可见的内容，不再局限于浏览器 DOM。",
+        "此次发布针对生产环境中智能体无法通过标准网页层自动化访问关键界面元素的场景，这类问题常常阻碍企业工作流的执行。",
+        "同一轮 Bedrock AgentCore 推广还重点介绍了独立服务 AgentCore Identity，用于保障智能体在 Amazon ECS、Amazon EKS、AWS Lambda 和本地部署环境中的访问安全。"
+      ]
     },
     {
       "topic_id": "2b314400ec1c",
@@ -2050,7 +2068,16 @@
           "published_at": "Tue, 05 May 2026 10:00:00 GMT"
         }
       ],
-      "route": "/hot/2026-05-06/topic/openai-launches-gpt-5-5-instant-as-chatgpt-s-new-default-model/"
+      "route": "/hot/2026-05-06/topic/openai-launches-gpt-5-5-instant-as-chatgpt-s-new-default-model/",
+      "headline_zh": "OpenAI 推出 GPT-5.5 Instant，成为 ChatGPT 新默认模型",
+      "summary_short_zh": "OpenAI 发布 GPT-5.5 Instant，更新 ChatGPT 的默认模型。该公司称，新模型提升了回答质量，减少了幻觉，并增强了个性化控制。",
+      "why_it_matters_zh": "这是 OpenAI 直接推出的平台级模型升级，可能立即改变用户预期、企业评估基准和竞争对手的产品规划。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "OpenAI 强调 GPT-5.5 Instant 的回答更智能、更准确，并明确表示，相较此前的 ChatGPT 默认版本，新版幻觉更少。",
+        "此次发布附有产品公告和 GPT-5.5 Instant 系统卡，方便采购方和研究人员在了解新品时审阅官方安全与部署资料。",
+        "OpenAI 表示，GPT-5.5 Instant 增强了个性化控制，这有助于提升用户留存，并针对消费级和企业级场景调整助手行为，具有重要商业价值。"
+      ]
     },
     {
       "topic_id": "84b0c3a44817",
@@ -2099,7 +2126,16 @@
           "published_at": "Tue, 05 May 2026 17:17:25 +0000"
         }
       ],
-      "route": "/hot/2026-05-06/topic/google-upgrades-gemini-for-home-to-gemini-3-1-for-multi-step-smart-home-commands/"
+      "route": "/hot/2026-05-06/topic/google-upgrades-gemini-for-home-to-gemini-3-1-for-multi-step-smart-home-commands/",
+      "headline_zh": "谷歌将 Gemini for Home 升级至 Gemini 3.1，支持多步骤智能家居指令",
+      "summary_short_zh": "谷歌将 Gemini for Home 升级至 Gemini 3.1，增强了 Google Home 处理复杂多步骤请求的能力。用户现在可以将多项任务合并到一条指令中。",
+      "why_it_matters_zh": "谷歌正强化 Gemini 作为融入日常环境的消费级助手的定位。该领域是设备生态、订阅升级销售和家庭自动化生态锁定的战略竞争焦点。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Google Home 用户现在可以用一条指令提出包含多项操作的复杂请求，让家居助手的任务编排能力更接近智能体。",
+        "升级至 Gemini 3.1 旨在提升 Google Home 理解和执行请求的能力，解决语音智能家居控制中的核心可靠性问题。",
+        "报道将此次发布称为谷歌自 2025 年 AI 改版以来最大的智能家居更新，表明这是一次重大的平台迭代，而非小幅功能修补。"
+      ]
     },
     {
       "topic_id": "b74fca69aa5a",
@@ -2148,7 +2184,14 @@
           "published_at": "2026-05-01T14:43:59Z"
         }
       ],
-      "route": "/hot/2026-05-06/topic/alfredo7777777-claude-design-agents-toolkit/"
+      "route": "/hot/2026-05-06/topic/alfredo7777777-claude-design-agents-toolkit/",
+      "headline_zh": "Alfredo7777777/claude-design-agents-toolkit",
+      "summary_short_zh": "GitHub 上名为 claude-design-agents-toolkit 的仓库正在走红，这是一套围绕 Claude Code 构建的开源 AI 设计工具包。其简介将其定位为面向编程工作流的免费设计插件与钩子套件。",
+      "why_it_matters_zh": "有 2 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "🎨 Claude Code AI 设计套件 2026 🚀 面向程序员的最佳免费 AI 设计插件与钩子"
+      ]
     }
   ],
   "category_sections": [
@@ -2192,7 +2235,11 @@
               "published_at": "Tue, 05 May 2026 16:55:18 +0000"
             }
           ],
-          "route": "/hot/2026-05-06/topic/streamlining-generative-ai-development-with-mlflow-v3-10-on-amazon-sagemaker-ai/"
+          "route": "/hot/2026-05-06/topic/streamlining-generative-ai-development-with-mlflow-v3-10-on-amazon-sagemaker-ai/",
+          "headline_zh": "借助 Amazon SageMaker AI 上的 MLflow v3.10，简化生成式 AI 开发",
+          "summary_short_zh": "AWS 宣布，Amazon SageMaker AI MLflow Apps 现已支持 MLflow 3.10。此次更新为 SageMaker 工作流引入了新的实验跟踪和生成式 AI 开发功能。",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "0741c728b592",
@@ -2230,7 +2277,11 @@
               "published_at": "2026-05-05T22:14:21+00:00"
             }
           ],
-          "route": "/hot/2026-05-06/topic/our-ai-started-a-cafe-in-stockholm/"
+          "route": "/hot/2026-05-06/topic/our-ai-started-a-cafe-in-stockholm/",
+          "headline_zh": "我们的 AI 在斯德哥尔摩开了一家咖啡馆",
+          "summary_short_zh": "<p><strong><a href=\" AI 在斯德哥尔摩开了一家咖啡馆</a></strong></p> Andon Labs 此前曾在旧金山开设<a href=\" 一家由 AI 运营的零售店</a>。",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "98f7d92b82ee",
@@ -2268,7 +2319,11 @@
               "published_at": "Tue, 05 May 2026 00:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-05-06/topic/new-ways-to-buy-chatgpt-ads/"
+          "route": "/hot/2026-05-06/topic/new-ways-to-buy-chatgpt-ads/",
+          "headline_zh": "在 ChatGPT 投放广告的新方式",
+          "summary_short_zh": "OpenAI 扩展了 ChatGPT 广告功能，推出自助式 Ads Manager 测试版、按点击付费（CPC）竞价和更完善的效果衡量工具。该公司表示，系统旨在保护隐私，并将广告系统与对话分开。",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2312,7 +2367,11 @@
               "published_at": "Tue, 05 May 2026 23:50:10 +0000"
             }
           ],
-          "route": "/hot/2026-05-06/topic/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/"
+          "route": "/hot/2026-05-06/topic/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
+          "headline_zh": "SAP 斥资 11.6 亿美元押注成立仅 18 个月的德国 AI 实验室，并支持 NemoClaw",
+          "summary_short_zh": "SAP 计划以约 11.6 亿美元收购德国 AI 初创公司 Prior Labs。报道还称，SAP 只允许客户使用少数获批的智能体，包括英伟达的 NemoClaw。",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次收购。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "d04f38dab5ee",
@@ -2350,7 +2409,11 @@
               "published_at": "Wed, 06 May 2026 06:47:12 +0000"
             }
           ],
-          "route": "/hot/2026-05-06/topic/peter-sarlin-s-qutwo-reaches-380m-valuation-in-angel-round/"
+          "route": "/hot/2026-05-06/topic/peter-sarlin-s-qutwo-reaches-380m-valuation-in-angel-round/",
+          "headline_zh": "Peter Sarlin 创办的 QuTwo 在天使轮融资中估值达 3.8 亿美元",
+          "summary_short_zh": "芬兰 AI 实验室 QyTw0 由 AMD Silo AI 前首席执行官 Peter Sarlin 创办，在完成 2500 万欧元（2900 万美元）天使轮融资后，估值已达 3.25 亿欧元（约 3.8 亿美元）。",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次融资。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "31a3a3113010",
@@ -2388,7 +2451,11 @@
               "published_at": "2026-05-06T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-06/topic/robotics-meta-buys-a-humanoid-brain/"
+          "route": "/hot/2026-05-06/topic/robotics-meta-buys-a-humanoid-brain/",
+          "headline_zh": "机器人领域：Meta 收购人形机器人的“大脑”",
+          "summary_short_zh": "该消息称，Meta 收购了一家被形容为人形机器人“大脑”的公司或团队。报道将此举视为 Meta 机器人战略的一部分。",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次收购。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "9c520ae5997d",
@@ -2426,7 +2493,11 @@
               "published_at": "Tue, 05 May 2026 22:57:41 +0000"
             }
           ],
-          "route": "/hot/2026-05-06/topic/altara-secures-7m-to-bridge-the-data-gap-that-s-slowing-down-physical-sciences/"
+          "route": "/hot/2026-05-06/topic/altara-secures-7m-to-bridge-the-data-gap-that-s-slowing-down-physical-sciences/",
+          "headline_zh": "Altara 获 700 万美元融资，弥合拖慢物理科学研究进展的数据鸿沟",
+          "summary_short_zh": "Altara 的 AI 旨在通过整合分散于电子表格和旧系统中的数据，诊断故障并加快研发进程。",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次融资。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "45c72d8c3b33",
@@ -2464,7 +2535,11 @@
               "published_at": "2026-05-05T17:18:23-04:00"
             }
           ],
-          "route": "/hot/2026-05-06/topic/apple-agrees-to-pay-iphone-owners-250-million-for-not-delivering-ai-siri/"
+          "route": "/hot/2026-05-06/topic/apple-agrees-to-pay-iphone-owners-250-million-for-not-delivering-ai-siri/",
+          "headline_zh": "因未能推出 AI 版 Siri，苹果同意向 iPhone 用户赔偿 2.5 亿美元",
+          "summary_short_zh": "苹果已同意支付 2.5 亿美元，就一宗集体诉讼达成和解。该诉讼指控苹果就 Apple Intelligence 功能的上线情况误导消费者。",
+          "why_it_matters_zh": "这笔资金的消息见于 1 个独立来源。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -2508,7 +2583,11 @@
               "published_at": "Tue, 05 May 2026 16:00:00 +0000"
             }
           ],
-          "route": "/hot/2026-05-06/topic/google-is-partnering-with-xprize-and-range-media-partners-on-the-3-5-million-future-vision-film-competition/"
+          "route": "/hot/2026-05-06/topic/google-is-partnering-with-xprize-and-range-media-partners-on-the-3-5-million-future-vision-film-competition/",
+          "headline_zh": "谷歌正与 XPRIZE 和 Range Media Partners 合作举办奖金为 350 万美元的 Future Vision 电影竞赛。",
+          "summary_short_zh": "谷歌宣布与 XPRIZE 和 Range Media Partners 合作举办奖金为 350 万美元的 Future Vision 电影竞赛。该项目以电影制作和 AI 相关创作为合作方向。",
+          "why_it_matters_zh": "这一行业动向见于 1 个独立来源的报道。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "94e9a01c281f",
@@ -2546,7 +2625,11 @@
               "published_at": "2026-05-05T15:54:37-04:00"
             }
           ],
-          "route": "/hot/2026-05-06/topic/microsoft-gives-up-on-xbox-copilot-ai/"
+          "route": "/hot/2026-05-06/topic/microsoft-gives-up-on-xbox-copilot-ai/",
+          "headline_zh": "微软放弃 Xbox Copilot AI",
+          "summary_short_zh": "微软正逐步停用 Xbox 移动端 Copilot，并停止开发主机端 Copilot。Xbox 首席执行官 Asha Sharma 宣布了这一调整，这是更大范围平台重组的一部分。",
+          "why_it_matters_zh": "这一行业动向见于 1 个独立来源的报道。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "e21684d8968a",
@@ -2584,7 +2667,11 @@
               "published_at": "2026-05-06T01:38:44Z"
             }
           ],
-          "route": "/hot/2026-05-06/topic/telus-uses-ai-to-alter-call-agent-accents/"
+          "route": "/hot/2026-05-06/topic/telus-uses-ai-to-alter-call-agent-accents/",
+          "headline_zh": "Telus 用 AI 调整电话客服的口音",
+          "summary_short_zh": "Hacker News 上的一则讨论提到，Telus 正使用 AI 调整呼叫中心客服人员的口音。这则消息涉及该公司在客服业务中应用语音技术。",
+          "why_it_matters_zh": "这一行业动向见于 1 个独立来源的报道。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "0dd5fef55b8e",
@@ -2622,7 +2709,11 @@
               "published_at": "2026-05-05T13:28:52-04:00"
             }
           ],
-          "route": "/hot/2026-05-06/topic/live-updates-from-elon-musk-and-sam-altman-s-court-battle-over-the-future-of-openai/"
+          "route": "/hot/2026-05-06/topic/live-updates-from-elon-musk-and-sam-altman-s-court-battle-over-the-future-of-openai/",
+          "headline_zh": "埃隆·马斯克与山姆·奥尔特曼围绕 OpenAI 未来的法庭交锋：实时报道",
+          "summary_short_zh": "The Verge 实时报道了埃隆·马斯克与山姆·奥尔特曼围绕 OpenAI 未来的法庭交锋。报道聚焦马斯克提起的诉讼，他指控 OpenAI 背离了最初的非营利宗旨。",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源的报道。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "4fdaba74b22c",
@@ -2660,7 +2751,11 @@
               "published_at": "Wed, 06 May 2026 06:34:32 +0000"
             }
           ],
-          "route": "/hot/2026-05-06/topic/marc-lore-says-that-ai-will-soon-enable-anyone-open-a-restaurant/"
+          "route": "/hot/2026-05-06/topic/marc-lore-says-that-ai-will-soon-enable-anyone-open-a-restaurant/",
+          "headline_zh": "Marc Lore 表示，AI 很快就能让任何人开餐厅",
+          "summary_short_zh": "Wonder 希望将其机器人厨房变成 AI 驱动的“餐厅工厂”，让任何人都能用一条提示词创建虚拟餐饮品牌。",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源的报道。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -2704,7 +2799,11 @@
               "published_at": "2026-05-04T23:49:24+00:00"
             }
           ],
-          "route": "/hot/2026-05-06/topic/granite-4-1-3b-svg-pelican-gallery/"
+          "route": "/hot/2026-05-06/topic/granite-4-1-3b-svg-pelican-gallery/",
+          "headline_zh": "Granite 4.1 3B SVG 鹈鹕图集",
+          "summary_short_zh": "<p><strong><a href=\" 4.1 3B SVG 鹈鹕图集</a></strong></p> IBM 几天前发布了其 <a href=\" 4.1 系列</a>大语言模型。",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源的报道。",
+          "category_zh": "工具"
         }
       ]
     },
@@ -2748,7 +2847,11 @@
               "published_at": "2026-05-06T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-06/topic/component-aware-self-speculative-decoding-in-hybrid-language-models/"
+          "route": "/hot/2026-05-06/topic/component-aware-self-speculative-decoding-in-hybrid-language-models/",
+          "headline_zh": "混合语言模型中的组件感知自推测解码",
+          "summary_short_zh": "推测解码利用快速模型生成候选词元，再由目标模型并行验证，从而加速自回归推理。自推测方法无需外部草稿模型，但已有研究仅涉及同构 Transformer 架构。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "4003aec6f1c2",
@@ -2786,7 +2889,11 @@
               "published_at": "2026-05-06T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-06/topic/compress-then-adapt-no-do-it-together-via-task-aware-union-of-subspaces/"
+          "route": "/hot/2026-05-06/topic/compress-then-adapt-no-do-it-together-via-task-aware-union-of-subspaces/",
+          "headline_zh": "先压缩再适配？不如通过任务感知的子空间并集同步进行",
+          "summary_short_zh": "如今，让大型预训练模型适配不同任务已是常规做法，但参数高效微调（PEFT）和低秩压缩这两种主流策略通常仍按先后顺序组合使用。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         }
       ]
     }
@@ -2832,7 +2939,11 @@
               "published_at": "2026-05-05T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-06/topic/cohere-aleph-alpha-join-forces/"
+          "route": "/hot/2026-05-06/topic/cohere-aleph-alpha-join-forces/",
+          "headline_zh": "Cohere 与 Aleph Alpha 联手",
+          "summary_short_zh": "Cohere 宣布将与 Aleph Alpha 联手，组建一家规模更大的 AI 公司，专注于满足主权 AI 和企业级 AI 需求。公告强调，此举是为了回应客户对 AI 技术拥有更大控制权的需求。",
+          "why_it_matters_zh": "这起收购见于 1 个独立来源。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -2876,7 +2987,10 @@
               "published_at": "2026-05-06T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-06/topic/glm-5-1-thinks-strategically-data-center-revolt-intensifies-when-helpful-llms-turn-unhelpful-humanoid-robots-get-to-work/"
+          "route": "/hot/2026-05-06/topic/glm-5-1-thinks-strategically-data-center-revolt-intensifies-when-helpful-llms-turn-unhelpful-humanoid-robots-get-to-work/",
+          "headline_zh": "GLM 5.1 展现战略思维，反对数据中心的浪潮加剧，当大语言模型不再乐于助人，人形机器人开始上岗",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "c0130c2f1615",
@@ -2914,7 +3028,11 @@
               "published_at": "Wed, 06 May 2026 00:22:35 +0000"
             }
           ],
-          "route": "/hot/2026-05-06/topic/chatgpt/"
+          "route": "/hot/2026-05-06/topic/chatgpt/",
+          "headline_zh": "刚刚，ChatGPT免费模型升级了：幻觉砍半/记忆更强/回答更简洁",
+          "summary_short_zh": "奥特曼特别强调，如果你最近都只用深度思考模型了，不妨回来看看",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "3332d7be0f08",
@@ -2952,7 +3070,10 @@
               "published_at": "Wed, 06 May 2026 04:32:09 +0000"
             }
           ],
-          "route": "/hot/2026-05-06/topic/ai/"
+          "route": "/hot/2026-05-06/topic/ai/",
+          "headline_zh": "AI“翻译”养殖经验智慧养猪提质增效 ——讯飞和光科技用大模型为传统产业升级注入新动能",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "529c424af525",
@@ -2990,7 +3111,11 @@
               "published_at": "2026-05-05T13:51:01Z"
             }
           ],
-          "route": "/hot/2026-05-06/topic/google-microsoft-and-xai-agree-to-share-early-ai-models-with-u-s/"
+          "route": "/hot/2026-05-06/topic/google-microsoft-and-xai-agree-to-share-early-ai-models-with-u-s/",
+          "headline_zh": "谷歌、微软和 xAI 同意与美国政府共享早期版本的 AI 模型",
+          "summary_short_zh": "Hacker News 上的一篇帖子称，谷歌、微软和 xAI 已同意与美国政府共享早期版本的 AI 模型。该消息介绍了一项涉及主要 AI 公司的政策与访问权限安排。",
+          "why_it_matters_zh": "这一行业动向见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "dfc9d34577d3",
@@ -3028,7 +3153,11 @@
               "published_at": "Tue, 05 May 2026 22:28:12 +0000"
             }
           ],
-          "route": "/hot/2026-05-06/topic/openai-president-forced-to-read-his-personal-diary-entries-to-jury/"
+          "route": "/hot/2026-05-06/topic/openai-president-forced-to-read-his-personal-diary-entries-to-jury/",
+          "headline_zh": "OpenAI 总裁被迫向陪审团朗读私人日记内容",
+          "summary_short_zh": "据 Ars Technica 报道，在涉及埃隆·马斯克的诉讼中，OpenAI 总裁被要求向陪审团朗读私人日记内容。马斯克一方主张，这些日记记录了 OpenAI 何时开始背离最初的使命。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "4d532a636c77",
@@ -3066,7 +3195,11 @@
               "published_at": "Tue, 05 May 2026 20:56:41 +0000"
             }
           ],
-          "route": "/hot/2026-05-06/topic/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/"
+          "route": "/hot/2026-05-06/topic/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/",
+          "headline_zh": "苹果计划让 iOS 27 用户自由选择 AI 模型",
+          "summary_short_zh": "据报道，苹果最新的操作系统更新将允许用户自行选择第三方 AI 模型来完成多种任务。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "df44c4992a86",
@@ -3104,7 +3237,11 @@
               "published_at": "2026-05-05T15:45:30-04:00"
             }
           ],
-          "route": "/hot/2026-05-06/topic/apple-could-let-you-pick-a-favorite-ai-model-in-ios-27/"
+          "route": "/hot/2026-05-06/topic/apple-could-let-you-pick-a-favorite-ai-model-in-ios-27/",
+          "headline_zh": "苹果可能允许用户在 iOS 27 中选择自己喜欢的 AI 模型",
+          "summary_short_zh": "苹果操作系统的下一次更新可能允许用户选择自己偏好的 AI 模型，用于运行 Apple Intelligence。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -3152,7 +3289,11 @@
           "published_at": "2026-05-04T07:48:29Z"
         }
       ],
-      "route": "/hot/2026-05-06/topic/lukiiabs-trading-agents/"
+      "route": "/hot/2026-05-06/topic/lukiiabs-trading-agents/",
+      "headline_zh": "lukiIabs/trading-agents",
+      "summary_short_zh": "GitHub 上的 trading-agents 仓库正成为热门项目。这是一个面向金融和交易场景的开源多智能体框架，涵盖股票、加密货币、情绪分析和算法交易工作流。",
+      "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+      "category_zh": "工具"
     }
   ],
   "x_buzz": [

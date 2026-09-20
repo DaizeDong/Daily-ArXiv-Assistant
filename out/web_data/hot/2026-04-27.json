@@ -2066,7 +2066,16 @@
           "published_at": "2026-04-27T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-04-27/topic/bytedance-seed-ships-seed-2-0-and-full-duplex-speech-llm/"
+      "route": "/hot/2026-04-27/topic/bytedance-seed-ships-seed-2-0-and-full-duplex-speech-llm/",
+      "headline_zh": "字节跳动 Seed 发布 Seed 2.0 及全双工语音大模型",
+      "summary_short_zh": "字节跳动 Seed 推出 Seed 全双工语音大模型，旨在实现更自然的语音交互。据介绍，该模型能够专注聆听，并具备强大的抗干扰能力。",
+      "why_it_matters_zh": "字节跳动正从文本模型拓展至实时语音智能体，这一战略动向值得正在评估多模态助手平台和原生语音交互界面的企业关注。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "字节跳动 Seed 正式发布 Seed 2.0，并另行在 Arena 上推出 Dola-Seed-2.0-Preview，既推进正式模型落地，也提供抢先评测渠道。",
+        "新推出的 Seed 全双工语音大模型主打专注聆听、干扰抑制和更自然的话轮切换，旨在解决当前语音助手的一大短板。",
+        "这三则公告均由字节跳动 Seed 直接发布，相比第三方评论或基准测试转帖，更具参考价值。"
+      ]
     },
     {
       "topic_id": "801928be45f1",
@@ -2106,7 +2115,14 @@
           "published_at": "2026-04-27T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-04-27/topic/zhipu-ai-published-its-first-earnings-report-announcement/"
+      "route": "/hot/2026-04-27/topic/zhipu-ai-published-its-first-earnings-report-announcement/",
+      "headline_zh": "智谱 AI 公布首份财报发布安排",
+      "summary_short_zh": "公司公布了 2025 年度业绩发布安排，表示智谱（股票代码：02513.HK）将于 2026 年 3 月 31 日发布截至 2025 年 12 月 31 日的全年业绩。据介绍，这是该公司首次发布财报相关消息。",
+      "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "公司公布了 2025 年度业绩发布安排，表示智谱（股票代码：02513.HK）将于 202... 年 3 月 31 日发布截至 2025 年 12 月 31 日的全年业绩。"
+      ]
     },
     {
       "topic_id": "d82057938a5f",
@@ -2148,7 +2164,16 @@
           "published_at": "2026-04-26T16:35:11.000Z"
         }
       ],
-      "route": "/hot/2026-04-27/topic/deepseek-cuts-api-input-cache-hit-pricing-by-90-across-entire-model-line/"
+      "route": "/hot/2026-04-27/topic/deepseek-cuts-api-input-cache-hit-pricing-by-90-across-entire-model-line/",
+      "headline_zh": "DeepSeek 全系列 API 输入缓存命中价格下调 90%",
+      "summary_short_zh": "DeepSeek 宣布下调全系列 API 的输入缓存命中价格，新价格即刻生效，降至原价的十分之一。",
+      "why_it_matters_zh": "缓存命中价格降至原来的十分之一，可显著降低企业大规模工作负载的推理成本，并加剧其他 API 厂商的定价压力。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "DeepSeek 表示，全系列 API 的输入缓存命中价格现已降至原价的 1/10，即刻生效。",
+        "公司还表示，DeepSeek-V4-Pro 的 2.5 折促销仍在进行，在全面下调缓存价格的基础上，叠加大幅限时折扣。",
+        "此次降价尤其利好重复使用上下文和检索密集型应用，这类应用可通过缓存命中显著降低总体服务成本。"
+      ]
     },
     {
       "topic_id": "0140a5535df8",
@@ -2190,7 +2215,16 @@
           "published_at": "2026-04-27T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-04-27/topic/hgq-lut-paper-targets-faster-lut-aware-training-for-fpga-dnn-inference/"
+      "route": "/hot/2026-04-27/topic/hgq-lut-paper-targets-faster-lut-aware-training-for-fpga-dnn-inference/",
+      "headline_zh": "HGQ-LUT 论文旨在加速面向 FPGA DNN 推理的 LUT 感知训练",
+      "summary_short_zh": "基于查找表（LUT）的神经网络将算术运算直接映射到逻辑基元上，可在 FPGA 上实现超低延迟和出色的硬件效率。",
+      "why_it_matters_zh": "若得到验证，这项研究有望提升 FPGA AI 部署的实用性，惠及对延迟和功耗敏感的边缘与工业系统。",
+      "category_zh": "研究",
+      "key_takeaways_zh": [
+        "这篇题为《HGQ-LUT：面向 DNN 推理的快速 LUT 感知训练与高效架构》的论文聚焦查找表神经网络，将算术运算直接映射到 FPGA 逻辑基元上。",
+        "论文的核心主张是解决 LUT 感知训练推广应用的一大瓶颈：以往方法复杂，实际可用性有限。",
+        "该研究旨在实现超低延迟和高硬件效率的推理，相比主流 GPU 推理服务，更适用于边缘部署和定制加速器。"
+      ]
     },
     {
       "topic_id": "701970a868e2",
@@ -2232,7 +2266,16 @@
           "published_at": "2026-04-27T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-04-27/topic/constrained-lqr-paper-reports-near-optimal-regret-for-safe-adaptive-control/"
+      "route": "/hot/2026-04-27/topic/constrained-lqr-paper-reports-near-optimal-regret-for-safe-adaptive-control/",
+      "headline_zh": "受约束 LQR 论文给出安全自适应控制的近最优遗憾界",
+      "summary_short_zh": "我们研究随机线性二次调节器（LQR）的自适应控制问题，要求每个时间步都满足约束。",
+      "why_it_matters_zh": "安全学习保证对机器人、自主系统和工业控制系统很重要，因为 AI 策略必须在实际部署时满足硬约束，而不只是在仿真中满足。",
+      "category_zh": "研究",
+      "key_takeaways_zh": [
+        "该论文研究随机线性二次调节器控制，要求每个时间步都满足约束，其设定比无约束自适应控制更严格。",
+        "论文对比了此前多维研究中约为 O(T^(2/3)) 的遗憾界，称新结果实现了近最优水平。",
+        "论文强调稳健地满足约束，因此其结果可能适用于自主系统、过程控制等安全关键应用。"
+      ]
     }
   ],
   "category_sections": [
@@ -2276,7 +2319,11 @@
               "published_at": "2026-04-26T14:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-04-27/topic/claude-gets-a-powerful-new-design-tool/"
+          "route": "/hot/2026-04-27/topic/claude-gets-a-powerful-new-design-tool/",
+          "headline_zh": "Claude 迎来强大的新设计工具",
+          "summary_short_zh": "报道称，Claude 新增了面向设计的功能或工具，这项产品更新拓展了 Claude 在设计工作流中的用途",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2320,7 +2367,11 @@
               "published_at": "Mon, 27 Apr 2026 07:00:06 +0000"
             }
           ],
-          "route": "/hot/2026-04-27/topic/announcing-our-partnership-with-the-republic-of-korea/"
+          "route": "/hot/2026-04-27/topic/announcing-our-partnership-with-the-republic-of-korea/",
+          "headline_zh": "宣布与韩国建立合作伙伴关系",
+          "summary_short_zh": "Google DeepMind 宣布与韩国建立合作伙伴关系，旨在利用前沿 AI 模型加速科学突破",
+          "why_it_matters_zh": "这一行业动向见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "1a330f1c84d9",
@@ -2364,7 +2415,10 @@
               "published_at": "2026-04-27T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-27/topic/nvidia-s-open-salvo-openai-s-amazon-deal-grok-cuts-video-prices-recursive-language-models/"
+          "route": "/hot/2026-04-27/topic/nvidia-s-open-salvo-openai-s-amazon-deal-grok-cuts-video-prices-recursive-language-models/",
+          "headline_zh": "Nvidia 打响开放攻势，OpenAI 与 Amazon 达成交易，Grok 下调视频生成价格，递归语言模型",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "efbc89a279a4",
@@ -2402,7 +2456,10 @@
               "published_at": "2026-04-27T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-27/topic/meta-pivots-from-open-weights-big-pharma-bets-on-ai-regulatory-patchwork-simulating-human-cohorts/"
+          "route": "/hot/2026-04-27/topic/meta-pivots-from-open-weights-big-pharma-bets-on-ai-regulatory-patchwork-simulating-human-cohorts/",
+          "headline_zh": "Meta 不再坚持开放权重路线，制药巨头押注 AI，监管规则碎片化，人群队列模拟",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "d64eb768ccfb",
@@ -2440,7 +2497,11 @@
               "published_at": "Mon, 27 Apr 2026 00:00:00 -0400"
             }
           ],
-          "route": "/hot/2026-04-27/topic/a-faster-way-to-estimate-ai-power-consumption/"
+          "route": "/hot/2026-04-27/topic/a-faster-way-to-estimate-ai-power-consumption/",
+          "headline_zh": "更快估算 AI 功耗的方法",
+          "summary_short_zh": "“EnergAIzer”方法能在数秒内得出可靠结果，帮助数据中心运营商高效分配资源，减少能源浪费",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "e7b81a4720af",
@@ -2478,7 +2539,10 @@
               "published_at": "2026-04-27T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-27/topic/glm-5-1-thinks-strategically-data-center-revolt-intensifies-when-helpful-llms-turn-unhelpful-humanoid-robots-get-to-work/"
+          "route": "/hot/2026-04-27/topic/glm-5-1-thinks-strategically-data-center-revolt-intensifies-when-helpful-llms-turn-unhelpful-humanoid-robots-get-to-work/",
+          "headline_zh": "GLM 5.1 展现战略思维，抵制数据中心的浪潮加剧，当大语言模型不再帮得上忙，人形机器人开始上岗",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -2522,7 +2586,11 @@
               "published_at": "2026-04-23T21:00:55Z"
             }
           ],
-          "route": "/hot/2026-04-27/topic/freshyman1-chatgpt-5-5-openai-unlimited-desktop/"
+          "route": "/hot/2026-04-27/topic/freshyman1-chatgpt-5-5-openai-unlimited-desktop/",
+          "headline_zh": "freshyman1/ChatGPT-5.5-OpenAI-Unlimited-Desktop",
+          "summary_short_zh": "名为 ChatGPT-5.5-OpenAI-Unlimited-Desktop 的 GitHub 仓库正成为热门项目，自称是一套桌面 AI 套件。其介绍宣称具备高级推理能力、多模态支持和更大的上下文窗口，但这并非 OpenAI 官方公告",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     },
@@ -2566,7 +2634,11 @@
               "published_at": "2026-04-27T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-04-27/topic/relaxation-informed-training-of-neural-network-surrogate-models/"
+          "route": "/hot/2026-04-27/topic/relaxation-informed-training-of-neural-network-surrogate-models/",
+          "headline_zh": "松弛信息引导的神经网络代理模型训练",
+          "summary_short_zh": "作为代理模型训练的 ReLU 神经网络可精确嵌入混合整数线性规划（MILP），从而对学得的函数进行全局优化。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "0476bf977a4c",
@@ -2604,7 +2676,11 @@
               "published_at": "2026-04-27T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-04-27/topic/shared-lexical-task-representations-explain-behavioral-variability-in-llms/"
+          "route": "/hot/2026-04-27/topic/shared-lexical-task-representations-explain-behavioral-variability-in-llms/",
+          "headline_zh": "共享词汇任务表征解释大语言模型的行为差异",
+          "summary_short_zh": "人们对大语言模型（LLM）最常见的抱怨之一是提示词敏感性：模型能否完成任务或正确回答问题，会随提问方式发生难以预测的变化。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "82ff75a1bc2e",
@@ -2642,7 +2718,11 @@
               "published_at": "2026-04-27T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-04-27/topic/soc-icnn-from-polyhedral-to-conic-geometry-for-learning-convex-surrogate-functions/"
+          "route": "/hot/2026-04-27/topic/soc-icnn-from-polyhedral-to-conic-geometry-for-learning-convex-surrogate-functions/",
+          "headline_zh": "SOC-ICNN：从多面体几何到锥几何的凸代理函数学习",
+          "summary_short_zh": "经典的基于 ReLU 的输入凸神经网络（ICNN）等价于线性规划（LP）的最优值函数。这种内在的结构等价性使其只能表示分段线性的多面体函数。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "beadcfcac0ea",
@@ -2680,7 +2760,11 @@
               "published_at": "2026-04-27T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-04-27/topic/dissociating-decodability-and-causal-use-in-bracket-sequence-transformers/"
+          "route": "/hot/2026-04-27/topic/dissociating-decodability-and-causal-use-in-bracket-sequence-transformers/",
+          "headline_zh": "区分括号序列 Transformer 中的可解码性与因果利用",
+          "summary_short_zh": "本文研究 Transformer 表征中可解码的信息与模型在计算中实际利用并发挥因果作用的信息之间的差距，聚焦括号序列 Transformer，并对残差子空间和注意力行为进行干预。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "26586cd81cc1",
@@ -2718,7 +2802,11 @@
               "published_at": "2026-04-27T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-04-27/topic/how-llms-detect-and-correct-their-own-errors-the-role-of-internal-confidence-signals/"
+          "route": "/hot/2026-04-27/topic/how-llms-detect-and-correct-their-own-errors-the-role-of-internal-confidence-signals/",
+          "headline_zh": "大语言模型如何发现并纠正自身错误：内部置信度信号的作用",
+          "summary_short_zh": "本文研究大语言模型如何利用内部置信度信号发现并纠正自身错误，是一项聚焦自我纠错行为的机制可解释性研究。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         }
       ]
     }
@@ -2764,7 +2852,10 @@
               "published_at": "Mon, 27 Apr 2026 06:27:16 +0000"
             }
           ],
-          "route": "/hot/2026-04-27/topic/b-ai/"
+          "route": "/hot/2026-04-27/topic/b-ai/",
+          "headline_zh": "B站官宣首届AI造物联赛 打破传统黑客马拉松模式",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "8c1819c4bc97",
@@ -2802,7 +2893,11 @@
               "published_at": "Mon, 27 Apr 2026 06:46:41 +0000"
             }
           ],
-          "route": "/hot/2026-04-27/topic/ai/"
+          "route": "/hot/2026-04-27/topic/ai/",
+          "headline_zh": "自主AI汽车芯片「一姐」出手，机器人终于有了专属「小脑」",
+          "summary_short_zh": "机器人从“能思考”走向“能干活”",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "851da727af55",
@@ -2840,7 +2935,11 @@
               "published_at": "Sun, 26 Apr 2026 15:30:00 +0000"
             }
           ],
-          "route": "/hot/2026-04-27/topic/to-buy-this-bay-area-home-you-ll-need-anthropic-equity/"
+          "route": "/hot/2026-04-27/topic/to-buy-this-bay-area-home-you-ll-need-anthropic-equity/",
+          "headline_zh": "要买下这套湾区房产，你得有 Anthropic 股权",
+          "summary_short_zh": "湾区一套挂牌房产的出售条件与 Anthropic 股权挂钩，而非通常的纯现金交易。报道介绍了这笔不同寻常的房产交易，以及它与初创公司薪酬所带来财富的关联。",
+          "why_it_matters_zh": "这条行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "b14b0da2cd83",
@@ -2886,7 +2985,11 @@
               "published_at": "2026-04-27T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-27/topic/anthropic-s-claude-mythos-problem-dark-dna-unveiled-pitfalls-for-assistive-models-simulating-fluid-dynamics/"
+          "route": "/hot/2026-04-27/topic/anthropic-s-claude-mythos-problem-dark-dna-unveiled-pitfalls-for-assistive-models-simulating-fluid-dynamics/",
+          "headline_zh": "Anthropic 的 Claude Mythos 难题、暗 DNA 揭秘、辅助模型的陷阱与流体动力学模拟",
+          "summary_short_zh": "这篇评论汇总涵盖 Anthropic 的 Claude Mythos 问题，以及辅助模型的陷阱、流体动力学模拟等 AI 话题，是一篇多主题回顾，而非单项新公告。",
+          "why_it_matters_zh": "这篇观点文章见于 2 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "138d3929f9b2",
@@ -2930,7 +3033,11 @@
               "published_at": "2026-04-27T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-27/topic/automated-weak-to-strong-researcher-alignment-science-blog/"
+          "route": "/hot/2026-04-27/topic/automated-weak-to-strong-researcher-alignment-science-blog/",
+          "headline_zh": "自动化弱到强研究员（Alignment Science Blog）",
+          "summary_short_zh": "Import AI 收录了 Alignment Science Blog 的一篇题为《自动化弱到强研究员》的文章。该条目除标题外，未提供其他摘要信息。",
+          "why_it_matters_zh": "这篇回顾见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "00ee0b968b16",
@@ -2968,7 +3075,11 @@
               "published_at": "2026-04-27T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-27/topic/openai-s-spud-dethrones-claude-on-the-frontier/"
+          "route": "/hot/2026-04-27/topic/openai-s-spud-dethrones-claude-on-the-frontier/",
+          "headline_zh": "OpenAI 的“Spud”超越 Claude，领跑前沿模型",
+          "summary_short_zh": "该条目称，OpenAI 代号为 Spud 的模型在前沿基准测试或竞争地位上已超越 Claude。这是一则关于模型竞争地位的简讯，并非详细的官方发布。",
+          "why_it_matters_zh": "该观点见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "090dd2f969e0",
@@ -3006,7 +3117,10 @@
               "published_at": "2026-04-26T14:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-04-27/topic/moonshot-ai-drops-agent-first-model/"
+          "route": "/hot/2026-04-27/topic/moonshot-ai-drops-agent-first-model/",
+          "headline_zh": "月之暗面发布以智能体为核心的模型",
+          "why_it_matters_zh": "这条其他类信息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "e444acac3444",
@@ -3044,7 +3158,11 @@
               "published_at": "2026-04-26T16:27:29Z"
             }
           ],
-          "route": "/hot/2026-04-27/topic/an-ai-agent-deleted-our-production-database-the-agent-s-confession-is-below/"
+          "route": "/hot/2026-04-27/topic/an-ai-agent-deleted-our-production-database-the-agent-s-confession-is-below/",
+          "headline_zh": "一个 AI 智能体删掉了我们的生产数据库。以下是它的自白",
+          "summary_short_zh": "Hacker News 上的一则讨论关注了题为《一个 AI 智能体删掉了我们的生产数据库。以下是它的自白》的帖子。该条目聚焦于 AI 智能体导致生产数据库被删除的事件报告或评论。",
+          "why_it_matters_zh": "该观点见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }

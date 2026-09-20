@@ -2206,7 +2206,16 @@
           "published_at": "Thu, 16 Apr 2026 05:44:39 GMT"
         }
       ],
-      "route": "/hot/2026-04-17/topic/anthropic-ships-claude-opus-4-7-with-tokenizer-update-and-stronger-computer-use/"
+      "route": "/hot/2026-04-17/topic/anthropic-ships-claude-opus-4-7-with-tokenizer-update-and-stronger-computer-use/",
+      "headline_zh": "Anthropic 发布 Claude Opus 4.7，更新分词器并增强计算机操作能力",
+      "summary_short_zh": "Anthropic 发布了最新的 Opus 模型 Claude Opus 4.7。该公司表示，新模型提升了编程、智能体、视觉和多步骤任务的性能，表现也更加稳定。",
+      "why_it_matters_zh": "对于正在为编程、智能体工作流和长程任务执行选择前沿 AI 助手的企业，Claude Opus 4.7 是一次重要的模型升级。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Anthropic 将 Opus 4.7 定位为迄今能力最强的 Opus 模型，在长时间运行的任务、指令遵循、自我验证和计算机操作工作流方面均有提升。",
+        "新分词器改变了输入与 token 的映射方式，根据内容类型，token 数量可能变为原来的约 1.0 至 1.35 倍，这会影响推理成本和上下文预算。",
+        "此次发布引发了广泛的行业关注，Anthropic、TechCrunch、The Verge、Simon Willison 和 The Batch 等渠道均有相关内容，表明其市场意义已超出常规模型更新。"
+      ]
     },
     {
       "topic_id": "4f929492cdc0",
@@ -2254,7 +2263,16 @@
           "published_at": "2026-04-17T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-04-17/topic/bytedance-seed-launches-dola-seed-2-0-preview-and-seed-full-duplex-speech-llm/"
+      "route": "/hot/2026-04-17/topic/bytedance-seed-launches-dola-seed-2-0-preview-and-seed-full-duplex-speech-llm/",
+      "headline_zh": "字节跳动 Seed 推出 Dola-Seed-2.0-Preview 和 Seed Full-Duplex Speech LLM",
+      "summary_short_zh": "字节跳动 Seed 正式发布 Seed 2.0，标志着该公司推出了一款重要的新模型。",
+      "why_it_matters_zh": "字节跳动在通用系统和实时语音系统两方面都展现了发展基础模型的雄心，是多模态 AI 领域值得关注的竞争者。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "字节跳动 Seed 在 Arena 上发布 Dola-Seed-2.0-Preview，提前展示其下一代模型的能力。",
+        "该公司还推出了 Seed Full-Duplex Speech LLM，侧重于专注倾听、抑制干扰以及更自然的实时交互。",
+        "在发布新模型的同时，字节跳动 Seed 还启动了 2027 年基础模型校园招聘，表明其持续投入模型研究和人才引进。"
+      ]
     },
     {
       "topic_id": "06a3ae68b457",
@@ -2296,7 +2314,16 @@
           "published_at": "Thu, 16 Apr 2026 17:00:00 +0000"
         }
       ],
-      "route": "/hot/2026-04-17/topic/google-launches-ai-mode-in-chrome-for-ai-native-web-exploration/"
+      "route": "/hot/2026-04-17/topic/google-launches-ai-mode-in-chrome-for-ai-native-web-exploration/",
+      "headline_zh": "谷歌在 Chrome 中推出 AI 模式，提供 AI 原生网页探索体验",
+      "summary_short_zh": "Chrome 中的 AI 模式",
+      "why_it_matters_zh": "在 Chrome 中直接集成 AI 模式，将生成式辅助融入默认的上网界面，可能改变搜索、浏览和流量分发的商业逻辑。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "谷歌通过官方 AI 博客宣布在 Chrome 中推出 AI 模式，表明这是产品层面的集成，而非独立的实验性演示。",
+        "该功能聚焦 Chrome 内的网页探索，让谷歌能够直接在承载用户意图和导航行为的浏览器层引入 AI 交互。",
+        "对企业高管而言，浏览器原生 AI 体验作为搜索流量、购物流程和企业知识访问的控制点，其战略重要性由此上升。"
+      ]
     },
     {
       "topic_id": "e252171c04cd",
@@ -2347,7 +2374,16 @@
           "published_at": "Thu, 16 Apr 2026 10:00:00 GMT"
         }
       ],
-      "route": "/hot/2026-04-17/topic/openai-expands-codex-for-macos-and-windows-with-computer-use-memory-and-plugins/"
+      "route": "/hot/2026-04-17/topic/openai-expands-codex-for-macos-and-windows-with-computer-use-memory-and-plugins/",
+      "headline_zh": "OpenAI 升级 macOS 和 Windows 版 Codex，新增计算机操作、记忆和插件功能",
+      "summary_short_zh": "更新后的 macOS 和 Windows 版 Codex 应用新增计算机操作、应用内浏览、图像生成、记忆和插件功能，以提升开发效率。",
+      "why_it_matters_zh": "OpenAI 正将 Codex 从编程助手转变为功能更广泛的桌面智能体产品，这将影响开发工具、工作流锁定效应以及企业对 AI 的采用。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "更新后的 macOS 和 Windows 版 Codex 应用新增计算机操作功能，使系统能在多种桌面工作流中执行操作，而不只是生成代码。",
+        "OpenAI 还加入了应用内浏览、图像生成、记忆和插件功能，使 Codex 成为面向软件开发和知识工作的多功能环境。",
+        "记忆与插件的结合显示，OpenAI 希望在桌面客户端中实现持久、可扩展的智能体能力，而不只是提供一次性的代码补全。"
+      ]
     },
     {
       "topic_id": "4e0a1203ecd7",
@@ -2385,7 +2421,11 @@
           "published_at": "Thu, 16 Apr 2026 12:18:00 +0000"
         }
       ],
-      "route": "/hot/2026-04-17/topic/ai-generated-synthetic-neurons-speed-up-brain-mapping/"
+      "route": "/hot/2026-04-17/topic/ai-generated-synthetic-neurons-speed-up-brain-mapping/",
+      "headline_zh": "AI 生成的合成神经元加速脑图谱绘制",
+      "summary_short_zh": "综合科学",
+      "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+      "category_zh": "产品发布"
     }
   ],
   "category_sections": [
@@ -2429,7 +2469,11 @@
               "published_at": "Thu, 16 Apr 2026 14:41:00 +0000"
             }
           ],
-          "route": "/hot/2026-04-17/topic/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/"
+          "route": "/hot/2026-04-17/topic/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/",
+          "headline_zh": "面向现实世界的合成数据集设计：机制设计与第一性原理推理",
+          "summary_short_zh": "生成式 AI",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "3b644acd3fa4",
@@ -2467,7 +2511,11 @@
               "published_at": "Thu, 16 Apr 2026 20:43:46 +0000"
             }
           ],
-          "route": "/hot/2026-04-17/topic/mozilla-launches-thunderbolt-ai-client-with-focus-on-self-hosted-infrastructure/"
+          "route": "/hot/2026-04-17/topic/mozilla-launches-thunderbolt-ai-client-with-focus-on-self-hosted-infrastructure/",
+          "headline_zh": "Mozilla 推出 Thunderbolt AI 客户端，侧重自托管基础设施",
+          "summary_short_zh": "Mozilla 推出了 Thunderbolt AI 客户端，重点支持自托管基础设施。该工具基于 deepset 的 Haystack 构建，面向去中心化的开源 AI 生态系统。",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "52aabdf9a999",
@@ -2505,7 +2553,11 @@
               "published_at": "2026-04-16T13:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-17/topic/google-s-ai-mode-update-lets-you-open-links-without-leaving-the-page/"
+          "route": "/hot/2026-04-17/topic/google-s-ai-mode-update-lets-you-open-links-without-leaving-the-page/",
+          "headline_zh": "Google 更新 AI 模式，无需离开当前页面即可打开链接",
+          "summary_short_zh": "Google 正在升级 Chrome 中的 AI 模式，新功能将允许你在聊天界面旁打开来源链接。",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "329f87d45a54",
@@ -2543,7 +2595,11 @@
               "published_at": "Thu, 16 Apr 2026 20:26:44 +0000"
             }
           ],
-          "route": "/hot/2026-04-17/topic/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/"
+          "route": "/hot/2026-04-17/topic/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/",
+          "headline_zh": "热门机器人初创公司 Physical Intelligence 称，新款机器人大脑能自行应对从未学过的任务",
+          "summary_short_zh": "该公司称，名为 π0.7 的新模型是迈向通用机器人大脑这一长期目标的初步但有意义的进展。",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "a66b928995f3",
@@ -2581,7 +2637,11 @@
               "published_at": "Thu, 16 Apr 2026 21:58:08 +0000"
             }
           ],
-          "route": "/hot/2026-04-17/topic/luma-launches-ai-powered-production-studio-with-faith-focused-wonder-project/"
+          "route": "/hot/2026-04-17/topic/luma-launches-ai-powered-production-studio-with-faith-focused-wonder-project/",
+          "headline_zh": "Luma 携手专注信仰题材的 Wonder Project，成立 AI 驱动的影视制作工作室",
+          "summary_short_zh": "工作室的首部作品将讲述摩西的故事，由奥斯卡奖得主本·金斯利主演，将于今年春季在 Prime Video 上线。",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2625,7 +2685,11 @@
               "published_at": "Thu, 16 Apr 2026 20:41:13 +0000"
             }
           ],
-          "route": "/hot/2026-04-17/topic/upscale-ai-in-talks-to-raise-at-2b-valuation-says-report/"
+          "route": "/hot/2026-04-17/topic/upscale-ai-in-talks-to-raise-at-2b-valuation-says-report/",
+          "headline_zh": "据报道，Upscale AI 正洽谈以 20 亿美元估值融资",
+          "summary_short_zh": "据报道，AI 基础设施公司 Upscale AI 正在洽谈成立以来的第三轮融资，距其成立仅七个月。",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次融资。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -2679,7 +2743,11 @@
               "published_at": "2026-04-16T12:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-17/topic/new-ways-to-create-personalized-images-in-the-gemini-app/"
+          "route": "/hot/2026-04-17/topic/new-ways-to-create-personalized-images-in-the-gemini-app/",
+          "headline_zh": "在 Gemini 应用中创建个性化图像的新方法",
+          "summary_short_zh": "Google 宣布了在 Gemini 应用中创建个性化图像的新方法。文章重点展示了通过 Personal Intelligence 功能生成的示例图像。",
+          "why_it_matters_zh": "有 3 个独立来源报道了这则其他类消息。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "c5f4ecae4cf7",
@@ -2717,7 +2785,11 @@
               "published_at": "Thu, 16 Apr 2026 18:28:42 +0000"
             }
           ],
-          "route": "/hot/2026-04-17/topic/anthropic-cpo-leaves-figma-s-board-after-reports-he-will-offer-a-competing-product/"
+          "route": "/hot/2026-04-17/topic/anthropic-cpo-leaves-figma-s-board-after-reports-he-will-offer-a-competing-product/",
+          "headline_zh": "Anthropic 首席产品官退出 Figma 董事会，此前有报道称他将推出竞品",
+          "summary_short_zh": "据报道，Anthropic 首席产品官 Mike Krieger 可能推出竞品，随后他退出了 Figma 董事会。外界将此举与投资者更广泛的担忧联系起来：大型 AI 实验室可能进军 SaaS 公司所覆盖的软件领域。",
+          "why_it_matters_zh": "这则行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "3760d0347f38",
@@ -2755,7 +2827,11 @@
               "published_at": "Fri, 17 Apr 2026 00:00:00 -0400"
             }
           ],
-          "route": "/hot/2026-04-17/topic/bringing-ai-driven-protein-design-tools-to-biologists-everywhere/"
+          "route": "/hot/2026-04-17/topic/bringing-ai-driven-protein-design-tools-to-biologists-everywhere/",
+          "headline_zh": "让各地生物学家都能用上 AI 驱动的蛋白质设计工具",
+          "summary_short_zh": "OpenProtein.AI 由 Tristan Bepler（2020 年获博士学位）和前麻省理工学院教授 Tim Lu（2007 年获博士学位）创立，为研究人员提供蛋白质工程领域的开源模型及其他工具。",
+          "why_it_matters_zh": "这则其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "08c59de31840",
@@ -2793,7 +2869,11 @@
               "published_at": "Fri, 17 Apr 2026 02:16:36 +0000"
             }
           ],
-          "route": "/hot/2026-04-17/topic/imagenet-ai/"
+          "route": "/hot/2026-04-17/topic/imagenet-ai/",
+          "headline_zh": "ImageNet作者苏昊回国任教复旦！李飞飞高徒，具身第一高引，出任通用物理AI院长",
+          "summary_short_zh": "推动“物理智能”的最终实现",
+          "why_it_matters_zh": "这则其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "d642f0145408",
@@ -2837,7 +2917,11 @@
               "published_at": "Thu, 16 Apr 2026 17:43:03 +0000"
             }
           ],
-          "route": "/hot/2026-04-17/topic/cost-efficient-custom-text-to-sql-using-amazon-nova-micro-and-amazon-bedrock-on-demand-inference/"
+          "route": "/hot/2026-04-17/topic/cost-efficient-custom-text-to-sql-using-amazon-nova-micro-and-amazon-bedrock-on-demand-inference/",
+          "headline_zh": "使用 Amazon Nova Micro 和 Amazon Bedrock 按需推理，经济高效地实现定制化文本转 SQL",
+          "summary_short_zh": "AWS 发布了一篇技术文章，介绍了微调 Amazon Nova Micro 以实现定制化文本转 SQL 生成的两种方法。文章强调，借助 Amazon Bedrock 按需推理，可兼顾成本效益与生产环境所需的性能。",
+          "why_it_matters_zh": "这篇教程见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -2893,7 +2977,11 @@
               "published_at": "Thu, 16 Apr 2026 01:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-04-17/topic/introducing-gpt-rosalind-for-life-sciences-research/"
+          "route": "/hot/2026-04-17/topic/introducing-gpt-rosalind-for-life-sciences-research/",
+          "headline_zh": "推出面向生命科学研究的 GPT-Rosalind",
+          "summary_short_zh": "OpenAI 推出 GPT-Rosalind，这是一款前沿推理模型，旨在加速药物发现、基因组学分析、蛋白质推理及科研工作流程。",
+          "why_it_matters_zh": "这则工具资讯见于 3 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "758a21fb3fdb",
@@ -2931,7 +3019,11 @@
               "published_at": "2026-04-16T16:08:05Z"
             }
           ],
-          "route": "/hot/2026-04-17/topic/show-hn-marky-a-lightweight-markdown-viewer-for-agentic-coding/"
+          "route": "/hot/2026-04-17/topic/show-hn-marky-a-lightweight-markdown-viewer-for-agentic-coding/",
+          "headline_zh": "Show HN：Marky，一款面向智能体编程的轻量级 Markdown 查看器",
+          "summary_short_zh": "一篇 Show HN 帖子介绍了 Marky，一款面向智能体编程的轻量级 Markdown 查看器。该工具面向采用 AI 辅助编程工作流的开发者。",
+          "why_it_matters_zh": "这则工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "a6670b339f81",
@@ -2969,7 +3061,11 @@
               "published_at": "2026-04-16T13:02:03Z"
             }
           ],
-          "route": "/hot/2026-04-17/topic/artifacts-versioned-storage-that-speaks-git/"
+          "route": "/hot/2026-04-17/topic/artifacts-versioned-storage-that-speaks-git/",
+          "headline_zh": "Artifacts：兼容 Git 的版本化存储",
+          "summary_short_zh": "Hacker News 上的一则讨论介绍了 Artifacts，这是一种兼容 Git 的版本化存储系统。该工具似乎旨在通过兼容 Git 的工作流管理数据或资产。",
+          "why_it_matters_zh": "这则工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "f3529fd9db6b",
@@ -3007,7 +3103,11 @@
               "published_at": "2026-04-16T13:16:29Z"
             }
           ],
-          "route": "/hot/2026-04-17/topic/show-hn-macmind-a-transformer-neural-network-in-hypercard-on-a-1989-macintosh/"
+          "route": "/hot/2026-04-17/topic/show-hn-macmind-a-transformer-neural-network-in-hypercard-on-a-1989-macintosh/",
+          "headline_zh": "Show HN：MacMind，在 1989 年款 Macintosh 上用 HyperCard 实现的 Transformer 神经网络",
+          "summary_short_zh": "一篇 Show HN 帖子介绍了 MacMind，这是在 1989 年款 Macintosh 上用 HyperCard 实现的 Transformer 神经网络。该项目展示了如何在复古计算机上实现现代神经网络概念。",
+          "why_it_matters_zh": "这则工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "919751517143",
@@ -3045,7 +3145,11 @@
               "published_at": "2026-04-16T00:18:03+00:00"
             }
           ],
-          "route": "/hot/2026-04-17/topic/datasette-io-news-preview/"
+          "route": "/hot/2026-04-17/topic/datasette-io-news-preview/",
+          "headline_zh": "datasette.io 新闻预览",
+          "summary_short_zh": "<p><strong>工具：</strong> <a href=\" 新闻预览</a></p> <p>该 <a href=\" 网站的新闻栏目由其 GitHub 仓库中的这个 <a href=\" 文件生成。",
+          "why_it_matters_zh": "这项工具见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     }
@@ -3091,7 +3195,11 @@
               "published_at": "Thu, 16 Apr 2026 14:00:42 GMT"
             }
           ],
-          "route": "/hot/2026-04-17/topic/introducing-c-ai-books-classic-literature-now-playable/"
+          "route": "/hot/2026-04-17/topic/introducing-c-ai-books-classic-literature-now-playable/",
+          "headline_zh": "c.ai books 登场：经典文学也能玩了",
+          "summary_short_zh": "Character.AI 推出了 c.ai books，让经典文学作品也能玩起来。公告将书籍定位为平台内的互动体验。",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "874acdbe2d18",
@@ -3138,7 +3246,11 @@
               "published_at": "2026-04-17T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-17/topic/accelerating-the-cyber-defense-ecosystem-that-protects-us-all/"
+          "route": "/hot/2026-04-17/topic/accelerating-the-cyber-defense-ecosystem-that-protects-us-all/",
+          "headline_zh": "加速网络防御生态发展，守护我们每个人",
+          "summary_short_zh": "领先的安全公司和企业加入 OpenAI 的 Trusted Access for Cyber 计划，借助 GPT-5.4-Cyber 和 1000 万美元的 API 资助，加强全球网络防御。",
+          "why_it_matters_zh": "此次产品发布见于 2 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "3bc62590874c",
@@ -3176,7 +3288,11 @@
               "published_at": "2026-04-16T13:17:37Z"
             }
           ],
-          "route": "/hot/2026-04-17/topic/cloudflare-s-ai-platform-an-inference-layer-designed-for-agents/"
+          "route": "/hot/2026-04-17/topic/cloudflare-s-ai-platform-an-inference-layer-designed-for-agents/",
+          "headline_zh": "Cloudflare 的 AI Platform：专为智能体设计的推理层",
+          "summary_short_zh": "Cloudflare 的 AI Platform 被描述为专为智能体设计的推理层。消息介绍的基础设施旨在支持面向智能体的 AI 应用部署。",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "ded731786d64",
@@ -3221,7 +3337,11 @@
               "published_at": "Thu, 16 Apr 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-04-17/topic/qwen3-6-35b-a3b-released/"
+          "route": "/hot/2026-04-17/topic/qwen3-6-35b-a3b-released/",
+          "headline_zh": "Qwen3.6-35B-A3B 发布！",
+          "summary_short_zh": "图中通过柱状图，对比了新发布的 Qwen3.6-35B-A3B 与 Qwen3.5-27B、Gemma4-31B 等模型在各项基准测试中的表现。",
+          "why_it_matters_zh": "此次产品发布见于 2 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "25faa3319156",
@@ -3259,7 +3379,11 @@
               "published_at": "Thu, 16 Apr 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-04-17/topic/perplexity-personal-computer/"
+          "route": "/hot/2026-04-17/topic/perplexity-personal-computer/",
+          "headline_zh": "Perplexity Personal Computer",
+          "summary_short_zh": "被介绍为一款面向 Mac、在本地编排的电脑智能体。其核心是在 Mac mini 上持续后台运行，操控文件、应用和浏览器。",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -3303,7 +3427,11 @@
               "published_at": "2026-04-16T10:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-17/topic/ronan-farrow-on-sam-altman-8217-s-unconstrained-relationship-with-the-truth/"
+          "route": "/hot/2026-04-17/topic/ronan-farrow-on-sam-altman-8217-s-unconstrained-relationship-with-the-truth/",
+          "headline_zh": "Ronan Farrow 谈 Sam Altman 如何“随心所欲”地对待真相",
+          "summary_short_zh": "今天的 Decoder 节目，我将与 Ronan Farrow 对谈，他是当今最知名的调查记者之一。他曾率先报道 Harvey Weinstein 事件等众多重磅新闻。",
+          "why_it_matters_zh": "这则行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "671bc8acb0d2",
@@ -3341,7 +3469,11 @@
               "published_at": "2026-04-17T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-04-17/topic/attention-to-mamba-a-recipe-for-cross-architecture-distillation/"
+          "route": "/hot/2026-04-17/topic/attention-to-mamba-a-recipe-for-cross-architecture-distillation/",
+          "headline_zh": "从注意力机制到 Mamba：一种跨架构蒸馏方法",
+          "summary_short_zh": "相比基于注意力机制的模型，Mamba 等状态空间模型（SSM）在生成时内存占用更低、吞吐量更高，因此已成为 Transformer 模型的热门替代方案。",
+          "why_it_matters_zh": "这篇教程见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "d2693f6d62ca",
@@ -3379,7 +3511,11 @@
               "published_at": "Thu, 16 Apr 2026 21:17:47 +0000"
             }
           ],
-          "route": "/hot/2026-04-17/topic/openai-starts-offering-a-biology-tuned-llm/"
+          "route": "/hot/2026-04-17/topic/openai-starts-offering-a-biology-tuned-llm/",
+          "headline_zh": "OpenAI 开始提供专为生物学调优的大语言模型",
+          "summary_short_zh": "GPT-Rosalind 是针对生物学工作流程训练的大语言模型，仅限特定用户访问",
+          "why_it_matters_zh": "这条其他类内容见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -3421,7 +3557,11 @@
           "published_at": "2026-04-17T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-04-17/topic/a-nonlinear-separation-principle-applications-to-neural-networks-control-and-learning/"
+      "route": "/hot/2026-04-17/topic/a-nonlinear-separation-principle-applications-to-neural-networks-control-and-learning/",
+      "headline_zh": "非线性分离原理：在神经网络、控制与学习中的应用",
+      "summary_short_zh": "本文研究连续时间和离散时间的放电率型与 Hopfield 型循环神经网络（RNN），及其在非线性控制设计和隐式深度学习中的应用。",
+      "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+      "category_zh": "研究"
     },
     {
       "topic_id": "308f11a76e5a",
@@ -3459,7 +3599,11 @@
           "published_at": "2026-04-17T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-04-17/topic/adaptive-memory-crystallization-for-autonomous-ai-agent-learning-in-dynamic-environments/"
+      "route": "/hot/2026-04-17/topic/adaptive-memory-crystallization-for-autonomous-ai-agent-learning-in-dynamic-environments/",
+      "headline_zh": "面向动态环境中自主 AI 智能体学习的自适应记忆结晶",
+      "summary_short_zh": "在动态环境中运行的自主 AI 智能体始终面临一项挑战：在不遗忘已有知识的前提下掌握新能力。我们提出自适应记忆结晶（AMC），一种用于在持续强化学习中逐步巩固经验的记忆架构。",
+      "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+      "category_zh": "研究"
     }
   ],
   "x_buzz": [

@@ -2444,7 +2444,16 @@
           "published_at": "2026-04-23T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-04-23/topic/bytedance-seed-officially-launches-seed-2-0-and-previews-dola-seed-2-0-on-arena/"
+      "route": "/hot/2026-04-23/topic/bytedance-seed-officially-launches-seed-2-0-and-previews-dola-seed-2-0-on-arena/",
+      "headline_zh": "字节跳动 Seed 正式发布 Seed 2.0，并在 Arena 推出 Dola-Seed-2.0 预览版",
+      "summary_short_zh": "字节跳动 Seed 正式发布 Seed 2.0，标志着该公司 AI 部门推出了新模型。",
+      "why_it_matters_zh": "Seed 2.0 是字节跳动推出的新模型成果，进一步加大了中国实验室在前沿模型研发领域带来的竞争压力。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "字节跳动 Seed 通过官方渠道正式宣布推出新模型 Seed 2.0。",
+        "该公司还在 Arena 发布了 Dola-Seed-2.0-Preview，为外部用户提供了评测这一新模型系列的公开入口。",
+        "字节跳动在发布模型的同时启动了 2027 年基础模型校园招聘，表明其继续在模型人才和基础设施方面进行长期投入。"
+      ]
     },
     {
       "topic_id": "c4920d763f86",
@@ -2500,7 +2509,16 @@
           "published_at": "2026-04-22T17:45:48.000Z"
         }
       ],
-      "route": "/hot/2026-04-23/topic/openai-launches-chatgpt-workspace-agents-for-shared-long-running-team-workflows/"
+      "route": "/hot/2026-04-23/topic/openai-launches-chatgpt-workspace-agents-for-shared-long-running-team-workflows/",
+      "headline_zh": "OpenAI 推出 ChatGPT 工作区智能体，支持团队共享、长时间运行的工作流",
+      "summary_short_zh": "OpenAI 宣布在 ChatGPT 中推出工作区智能体，称其可由团队共享，跨工具、跨团队处理复杂任务和长时间运行的工作流。公告将此次发布定位为 ChatGPT 内协作自动化的一项新能力。",
+      "why_it_matters_zh": "这为企业在 ChatGPT 内部署智能体提供了新的具体途径，也显示出 OpenAI 争夺工作流自动化预算的方向。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "OpenAI 表示，工作区智能体由 Codex 驱动，在云端运行，可跨工具、跨团队处理复杂且耗时较长的任务。",
+        "该功能定位为工作区共享能力，而非单用户助手，表明产品正向团队级编排和持续运行的业务工作流发展。",
+        "从 OpenAI、OpenAI News 和 The Verge 的报道来看，这是正式产品发布，而非实验性演示或研究预览。"
+      ]
     },
     {
       "topic_id": "b4a9e1535976",
@@ -2554,7 +2572,16 @@
           "published_at": "Wed, 22 Apr 2026 17:10:32 +0000"
         }
       ],
-      "route": "/hot/2026-04-23/topic/google-unveils-eighth-generation-tpus-with-separate-training-and-inference-chips/"
+      "route": "/hot/2026-04-23/topic/google-unveils-eighth-generation-tpus-with-separate-training-and-inference-chips/",
+      "headline_zh": "Google 发布第八代 TPU，分别推出训练和推理专用芯片",
+      "summary_short_zh": "<img src=\" />Google 第八代 TPU 包含两款专用芯片，将为未来 AI 发展提供算力支持",
+      "why_it_matters_zh": "Google 传递出一个信号：如今已值得为智能体 AI 工作负载开发专用硬件，这对云服务采购方、模型开发者和基础设施投资者都很重要。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Google 表示，其第八代 TPU 系列由两款专用芯片组成，而非采用单一的通用设计。",
+        "据 Google AI Blog 和 Ars Technica 报道，一款芯片针对训练工作负载优化，另一款针对推理优化，反映出模型开发与部署在经济性上的分化。",
+        "Google 明确强调此次发布面向“智能体时代”，将其硬件路线图与能够执行多步任务、使用工具的 AI 系统联系起来，而不仅是传统的模型服务。"
+      ]
     },
     {
       "topic_id": "d24f5306e0d9",
@@ -2609,7 +2636,16 @@
           "published_at": "Wed, 22 Apr 2026 05:44:39 GMT"
         }
       ],
-      "route": "/hot/2026-04-23/topic/last-month-we-published-our-look-into-what-81-000-people-told-us-they-want-from-ai/"
+      "route": "/hot/2026-04-23/topic/last-month-we-published-our-look-into-what-81-000-people-told-us-they-want-from-ai/",
+      "headline_zh": "上个月，我们发布了一项分析，梳理了 8.1 万人对 AI 的期待",
+      "summary_short_zh": "Anthropic 发布新研究，探讨人们对 AI 经济影响的期待与担忧。该研究基于此前对 8.1 万人关于 AI 期待的反馈所做的分析。",
+      "why_it_matters_zh": "这一行业动态见于 4 个独立来源。",
+      "category_zh": "行业动态",
+      "key_takeaways_zh": [
+        "Anthropic 对 Claude Code 调整的回应",
+        "Claude Pro 的功能列表已不再包含 Claude Code",
+        "Anthropic 已从 Pro 套餐中移除 Claude Code"
+      ]
     },
     {
       "topic_id": "e1fadad82e72",
@@ -2657,7 +2693,16 @@
           "published_at": "Wed, 22 Apr 2026 19:13:56 +0000"
         }
       ],
-      "route": "/hot/2026-04-23/topic/aws-adds-new-amazon-bedrock-agentcore-features-including-company-wise-memory/"
+      "route": "/hot/2026-04-23/topic/aws-adds-new-amazon-bedrock-agentcore-features-including-company-wise-memory/",
+      "headline_zh": "AWS 为 Amazon Bedrock AgentCore 新增公司级记忆等功能",
+      "summary_short_zh": "AWS 宣布为 Amazon Bedrock AgentCore 增添新功能，旨在简化智能体开发。此次更新旨在降低智能体开发全生命周期中的基础设施开销。",
+      "why_it_matters_zh": "AWS 正在减轻企业部署智能体的基础设施负担，这可能促使构建生产级 AI 系统的团队更快采用 Bedrock。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "AWS 发布了 Amazon Bedrock AgentCore 的多项新功能，旨在加快智能体从原型开发到生产部署的进程。",
+        "其中一项亮点是 Amazon Bedrock 的企业专属记忆功能，基于 Amazon Neptune 和 Mem0 构建，可在多次交互中持续保留企业特有的上下文。",
+        "AWS 重点介绍了趋势科技的案例，显示该功能可能面向大型企业环境，以持久的组织记忆形成差异化优势。"
+      ]
     }
   ],
   "category_sections": [
@@ -2701,7 +2746,11 @@
               "published_at": "2026-04-22T17:12:09.000Z"
             }
           ],
-          "route": "/hot/2026-04-23/topic/mention-cursor-to-kick-off-tasks-in-slack-and-see-updates-of-its-work-streaming-in-real-time/"
+          "route": "/hot/2026-04-23/topic/mention-cursor-to-kick-off-tasks-in-slack-and-see-updates-of-its-work-streaming-in-real-time/",
+          "headline_zh": "在 Slack 中 @​Cursor 即可启动任务，并实时查看其工作进展",
+          "summary_short_zh": "Cursor 会结合讨论串和相关频道中的上下文，为你创建 PR，供你审查并发布",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "879a45fbdf9c",
@@ -2739,7 +2788,11 @@
               "published_at": "2026-04-22T23:01:33.000Z"
             }
           ],
-          "route": "/hot/2026-04-23/topic/introducing-kimi-k2-6-from-kimi-moonshot-a-multimodal-agentic-model-with-agent-swarm-scaling-to-300-sub-agents-and-long-horizon-coding-stability/"
+          "route": "/hot/2026-04-23/topic/introducing-kimi-k2-6-from-kimi-moonshot-a-multimodal-agentic-model-with-agent-swarm-scaling-to-300-sub-agents-and-long-horizon-coding-stability/",
+          "headline_zh": "推出来自 @Kimi_Moonshot 的 Kimi K2.6：这款多模态智能体模型的 Agent Swarm 可扩展至 300 个子智能体，并能在长程编程任务中保持稳定",
+          "summary_short_zh": "AI 原生用户现可通过 Together AI 使用 Kimi K2.6，以可靠的推理服务支撑生产环境中的大规模自主智能体工作流",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "28e085ce7a24",
@@ -2777,7 +2830,11 @@
               "published_at": "Wed, 22 Apr 2026 10:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-04-23/topic/speeding-up-agentic-workflows-with-websockets-in-the-responses-api/"
+          "route": "/hot/2026-04-23/topic/speeding-up-agentic-workflows-with-websockets-in-the-responses-api/",
+          "headline_zh": "利用 Responses API 中的 WebSockets 加速智能体工作流",
+          "summary_short_zh": "深入剖析 Codex 的智能体循环，展示 WebSockets 和连接级缓存如何减少 API 开销、降低模型响应延迟",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "0d707d36a6f6",
@@ -2815,7 +2872,11 @@
               "published_at": "Wed, 22 Apr 2026 19:15:08 +0000"
             }
           ],
-          "route": "/hot/2026-04-23/topic/amazon-sagemaker-ai-now-supports-optimized-generative-ai-inference-recommendations/"
+          "route": "/hot/2026-04-23/topic/amazon-sagemaker-ai-now-supports-optimized-generative-ai-inference-recommendations/",
+          "headline_zh": "Amazon SageMaker AI 现已支持生成式 AI 推理优化建议",
+          "summary_short_zh": "AWS 表示，该功能提供经过验证的部署配置和性能指标，帮助用户选择高效的配置方案",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "ea8ff14f2df9",
@@ -2853,7 +2914,11 @@
               "published_at": "2026-04-22T12:23:23.000Z"
             }
           ],
-          "route": "/hot/2026-04-23/topic/only-25-of-organizations-have-moved-ai-into-production-at-scale/"
+          "route": "/hot/2026-04-23/topic/only-25-of-organizations-have-moved-ai-into-production-at-scale/",
+          "headline_zh": "只有 25% 的组织已在生产环境中大规模应用 AI",
+          "summary_short_zh": "我们正努力改变这一现状。🛠️ @Accenture、@BainandCompany、@BCG、@Deloitte 和 @McKinsey 正将我们的研究成果与各自的专业知识相结合，以负责任的方式将 AI 创新带入更多行业。🤝 了解更多",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2897,7 +2962,11 @@
               "published_at": "Wed, 22 Apr 2026 23:56:52 +0000"
             }
           ],
-          "route": "/hot/2026-04-23/topic/tesla-just-increased-its-spending-plan-to-25b-here-s-where-the-money-is-going/"
+          "route": "/hot/2026-04-23/topic/tesla-just-increased-its-spending-plan-to-25b-here-s-where-the-money-is-going/",
+          "headline_zh": "特斯拉刚将支出计划上调至 250 亿美元：资金去向一览",
+          "summary_short_zh": "特斯拉 2026 年计划的资本支出是以往水平的三倍。其首席财务官表示，这将导致公司在今年剩余时间内自由现金流为负",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次融资。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "299ed22bd80d",
@@ -2935,7 +3004,11 @@
               "published_at": "Wed, 22 Apr 2026 19:51:51 +0000"
             }
           ],
-          "route": "/hot/2026-04-23/topic/how-spacex-preempted-a-2b-fundraise-with-a-60b-buyout-offer/"
+          "route": "/hot/2026-04-23/topic/how-spacex-preempted-a-2b-fundraise-with-a-60b-buyout-offer/",
+          "headline_zh": "SpaceX 如何用 600 亿美元收购要约截胡一轮 20 亿美元融资",
+          "summary_short_zh": "Cursor 原本有望在本周完成一轮 20 亿美元融资，但在 SpaceX 提出支付 100 亿美元“合作费”及未来以 600 亿美元收购的方案后，选择暂停谈判",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次融资。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -2979,7 +3052,11 @@
               "published_at": "2026-04-22T23:09:04.000Z"
             }
           ],
-          "route": "/hot/2026-04-23/topic/the-future-of-brand-marketing-is-agentic/"
+          "route": "/hot/2026-04-23/topic/the-future-of-brand-marketing-is-agentic/",
+          "headline_zh": "品牌营销的未来由智能体驱动",
+          "summary_short_zh": "NVIDIA 宣布与 Adobe 和 WPP 合作，为品牌营销开发创意智能体。该项目利用 NVIDIA Nemotron 和 OpenShell 构建并运行定制的全天候内容生成系统。",
+          "why_it_matters_zh": "该行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "efeadff376b0",
@@ -3017,7 +3094,11 @@
               "published_at": "2026-04-22T19:00:01.000Z"
             }
           ],
-          "route": "/hot/2026-04-23/topic/real-time-data-is-the-ultimate-tool-for-earth-day/"
+          "route": "/hot/2026-04-23/topic/real-time-data-is-the-ultimate-tool-for-earth-day/",
+          "headline_zh": "实时数据是世界地球日的终极利器",
+          "summary_short_zh": "NVIDIA 介绍了围绕 Earth-2 平台开展的世界地球日相关工作，重点展示了与 MITRE 和 NOAA 联合开发的 HealDA 模型。该系统利用卫星观测数据，更快生成预测结果，用于环境和灾害相关应用。",
+          "why_it_matters_zh": "该行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "8ea808c24cbb",
@@ -3055,7 +3136,11 @@
               "published_at": "2026-04-22T16:29:05-04:00"
             }
           ],
-          "route": "/hot/2026-04-23/topic/ai-failure-could-trigger-the-next-financial-crisis-warns-elizabeth-warren/"
+          "route": "/hot/2026-04-23/topic/ai-failure-could-trigger-the-next-financial-crisis-warns-elizabeth-warren/",
+          "headline_zh": "伊丽莎白·沃伦警告：AI 失灵可能引发下一场金融危机",
+          "summary_short_zh": "“是不是泡沫，我一眼就能看出来。”周三，马萨诸塞州民主党参议员伊丽莎白·沃伦在华盛顿特区举行的 Vanderbilt Policy Accelerator 活动上对听众这样说道。她曾在 2008 年经济衰退后牵头推动设立一个新的消费者金融监管机构。",
+          "why_it_matters_zh": "该行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "1a330f1c84d9",
@@ -3099,7 +3184,10 @@
               "published_at": "2026-04-23T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-23/topic/claude-code-s-source-leaks-openai-exits-video-generation-gemini-adds-music-generation-llms-learn-at-inference/"
+          "route": "/hot/2026-04-23/topic/claude-code-s-source-leaks-openai-exits-video-generation-gemini-adds-music-generation-llms-learn-at-inference/",
+          "headline_zh": "Claude Code 源码泄露，OpenAI 退出视频生成领域，Gemini 新增音乐生成功能，大语言模型在推理阶段学习",
+          "why_it_matters_zh": "这则其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "def5d82045f4",
@@ -3137,7 +3225,10 @@
               "published_at": "2026-04-23T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-23/topic/attacks-on-data-centers-qwen3-5-in-all-sizes-deepseek-s-huawei-play-apple-s-multimodal-tokenizer/"
+          "route": "/hot/2026-04-23/topic/attacks-on-data-centers-qwen3-5-in-all-sizes-deepseek-s-huawei-play-apple-s-multimodal-tokenizer/",
+          "headline_zh": "数据中心遭袭，Qwen3.5 覆盖各类规模，DeepSeek 的华为布局，苹果的多模态分词器",
+          "why_it_matters_zh": "这则其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -3192,7 +3283,11 @@
               "published_at": "2026-04-23T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-23/topic/anthropic-8217-s-mythos-rollout-has-missed-america-s-cybersecurity-agency/"
+          "route": "/hot/2026-04-23/topic/anthropic-8217-s-mythos-rollout-has-missed-america-s-cybersecurity-agency/",
+          "headline_zh": "Anthropic 的 Mythos 推广未覆盖美国网络安全机构",
+          "summary_short_zh": "The Verge 报道称，多家美国联邦机构正采用 Anthropic 的网络安全模型 Mythos 排查漏洞。报道还提到，据称负责统筹协调美国网络安全事务的核心机构并未参与。",
+          "why_it_matters_zh": "该工具动态见于 3 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "366c1cd09549",
@@ -3230,7 +3325,11 @@
               "published_at": "2026-04-22T16:09:56Z"
             }
           ],
-          "route": "/hot/2026-04-23/topic/show-hn-broccoli-one-shot-coding-agent-on-the-cloud/"
+          "route": "/hot/2026-04-23/topic/show-hn-broccoli-one-shot-coding-agent-on-the-cloud/",
+          "headline_zh": "Show HN：Broccoli，只需一次提示的云端编程智能体",
+          "summary_short_zh": "一篇 Show HN 帖子介绍了 Broccoli，称其是一款只需一次提示的云端编程智能体。这款面向开发者的工具旨在通过单条提示自动完成编程任务。",
+          "why_it_matters_zh": "该工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "3f0496345ebf",
@@ -3268,7 +3367,11 @@
               "published_at": "2026-04-22T22:25:28Z"
             }
           ],
-          "route": "/hot/2026-04-23/topic/bring-your-own-agent-to-ms-teams/"
+          "route": "/hot/2026-04-23/topic/bring-your-own-agent-to-ms-teams/",
+          "headline_zh": "将你自己的智能体接入 MS Teams",
+          "summary_short_zh": "Hacker News 上的一则讨论介绍了将自有智能体接入 Microsoft Teams 的功能，涉及智能体与办公协作平台的集成",
+          "why_it_matters_zh": "有 1 个独立来源提及该工具。",
+          "category_zh": "工具"
         }
       ]
     },
@@ -3321,7 +3424,11 @@
               "published_at": "2026-04-22T13:10:44.000Z"
             }
           ],
-          "route": "/hot/2026-04-23/topic/meet-qwen3-6-27b-our-latest-dense-open-source-model-packing-flagship-level-coding-power-yes-27b-and-qwen3-6-27b-punches-way-above-its-weight/"
+          "route": "/hot/2026-04-23/topic/meet-qwen3-6-27b-our-latest-dense-open-source-model-packing-flagship-level-coding-power-yes-27b-and-qwen3-6-27b-punches-way-above-its-weight/",
+          "headline_zh": "认识一下 Qwen3.6-27B，我们最新的稠密开源模型，拥有旗舰级编程能力！没错，仅 270 亿参数，表现却远超其体量",
+          "summary_short_zh": "👇 新亮点：🧠 出色的智能体编程能力，在所有主要编程基准上超越 Qwen3.5-397B-A17B 💡 强大",
+          "why_it_matters_zh": "有 2 个独立来源提及该研究论文。",
+          "category_zh": "研究"
         }
       ]
     }
@@ -3367,7 +3474,11 @@
               "published_at": "Wed, 22 Apr 2026 15:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-04-23/topic/making-chatgpt-better-for-clinicians/"
+          "route": "/hot/2026-04-23/topic/making-chatgpt-better-for-clinicians/",
+          "headline_zh": "让 ChatGPT 更好地服务临床医务人员",
+          "summary_short_zh": "OpenAI 向经过认证的美国医生、执业护士和药剂师免费开放了 ChatGPT for Clinicians，旨在支持临床诊疗、文书记录和研究工作流程",
+          "why_it_matters_zh": "有 1 个独立来源提及此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "93845959150e",
@@ -3414,7 +3525,11 @@
               "published_at": "2026-04-22T20:38:56.000Z"
             }
           ],
-          "route": "/hot/2026-04-23/topic/excited-to-share-our-work-on-production-ready-w4a8-inference-now-integrated-in-vllm-by-combining-4-bit-weights-low-memory-with-8-bit-activations-high-compute-we-hit-the-s/"
+          "route": "/hot/2026-04-23/topic/excited-to-share-our-work-on-production-ready-w4a8-inference-now-integrated-in-vllm-by-combining-4-bit-weights-low-memory-with-8-bit-activations-high-compute-we-hit-the-s/",
+          "headline_zh": "很高兴分享我们的生产级 W4A8 推理成果，现已集成到 vLLM！结合 4 位权重（低内存占用）与 8 位激活值（高计算性能），我们找到了...",
+          "summary_short_zh": "很高兴分享我们的生产级 W4A8 推理成果，现已集成到 vLLM！结合 4 位权重（低内存占用）与 8 位激活值（高计算性能），我们在解码和预填充阶段都找到了最佳平衡：在 Hopper 上，相比 W4A16，TTFT 最多缩短 58%，TPOT 最多缩短 45%",
+          "why_it_matters_zh": "有 2 个独立来源提及此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "42f9751c2a1f",
@@ -3461,7 +3576,11 @@
               "published_at": "Wed, 22 Apr 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-04-23/topic/we-re-launching-gemini-enterprise-agent-platform-with-googlecloud-a-platform-for-businesses-to-develop-scale-govern-and-optimize-agents/"
+          "route": "/hot/2026-04-23/topic/we-re-launching-gemini-enterprise-agent-platform-with-googlecloud-a-platform-for-businesses-to-develop-scale-govern-and-optimize-agents/",
+          "headline_zh": "我们正与 @GoogleCloud 联合推出 Gemini Enterprise Agent Platform，供企业开发、规模化部署、治理和优化智能体",
+          "summary_short_zh": "它由 Vertex AI 演进而来，将模型选择与智能体构建结合起来，并新增了集成、安全和",
+          "why_it_matters_zh": "有 2 个独立来源提及此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "9e9111aeb248",
@@ -3508,7 +3627,11 @@
               "published_at": "Wed, 22 Apr 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-04-23/topic/we-ve-published-new-research-on-how-we-post-train-models-for-accurate-search-augmented-answers/"
+          "route": "/hot/2026-04-23/topic/we-ve-published-new-research-on-how-we-post-train-models-for-accurate-search-augmented-answers/",
+          "headline_zh": "我们发布了新研究，介绍如何通过后训练让模型借助搜索给出准确回答",
+          "summary_short_zh": "我们的 SFT + RL 流程提升了搜索效果、引用质量、指令遵循能力和效率。借助 Qwen 模型，我们以更低成本在事实准确性上达到或超越 GPT 模型",
+          "why_it_matters_zh": "有 2 个独立来源提及此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "0d9c3d5d4a56",
@@ -3555,7 +3678,11 @@
               "published_at": "Wed, 22 Apr 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-04-23/topic/introducing-openai-privacy-filter/"
+          "route": "/hot/2026-04-23/topic/introducing-openai-privacy-filter/",
+          "headline_zh": "推出 OpenAI Privacy Filter",
+          "summary_short_zh": "OpenAI 推出了 Privacy Filter，这是一款用于检测文本中个人可识别信息并进行脱敏的开放权重模型。该公司称，该模型在 PII 检测和脱敏任务中的准确率达到业界领先水平",
+          "why_it_matters_zh": "有 2 个独立来源提及此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "2fff5e5a5a33",
@@ -3593,7 +3720,11 @@
               "published_at": "2026-04-22T00:56:42.000Z"
             }
           ],
-          "route": "/hot/2026-04-23/topic/get-more-from-speculative-decoding-in-moe-models-https-t-co-jhvccuamzt/"
+          "route": "/hot/2026-04-23/topic/get-more-from-speculative-decoding-in-moe-models-https-t-co-jhvccuamzt/",
+          "headline_zh": "让 MoE 模型的推测解码更高效 https://t.co/JHVcCUAmZT",
+          "summary_short_zh": "让 MoE 模型的推测解码更高效",
+          "why_it_matters_zh": "共有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "3936d1c1fdff",
@@ -3631,7 +3762,11 @@
               "published_at": "Wed, 22 Apr 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-04-23/topic/xiaomi-pushes-agentic-open-models-upward/"
+          "route": "/hot/2026-04-23/topic/xiaomi-pushes-agentic-open-models-upward/",
+          "headline_zh": "小米提升开放模型的智能体能力",
+          "summary_short_zh": "小米发布了开放模型 MiMo-V2.5-Pro 和 MiMo-V2.5，并称 V2.5-Pro 在软件工程和长程智能体任务方面有显著提升。",
+          "why_it_matters_zh": "共有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "8f13dcd2483c",
@@ -3669,7 +3804,11 @@
               "published_at": "Wed, 22 Apr 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-04-23/topic/introducing-chatgpt-images-2-0/"
+          "route": "/hot/2026-04-23/topic/introducing-chatgpt-images-2-0/",
+          "headline_zh": "ChatGPT Images 2.0 亮相",
+          "summary_short_zh": "一则社区新闻报道了 OpenAI 发布 ChatGPT Images 2.0 的消息，称此次更新提升了图像生成的精确度和可控性。",
+          "why_it_matters_zh": "共有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         }
       ]
     }

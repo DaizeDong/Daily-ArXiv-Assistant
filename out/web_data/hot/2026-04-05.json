@@ -2395,7 +2395,16 @@
           "source_name": "ByteDance Seed"
         }
       ],
-      "route": "/hot/2026-04-05/topic/bytedance-ships-seed-2-0-and-dola-seed-2-0-preview/"
+      "route": "/hot/2026-04-05/topic/bytedance-ships-seed-2-0-and-dola-seed-2-0-preview/",
+      "headline_zh": "字节跳动发布 Seed 2.0 和 Dola-Seed-2.0-Preview",
+      "summary_short_zh": "字节跳动 Seed 正式推出 Seed 2.0。此次公告标志着该公司一款重要新模型的发布。",
+      "why_it_matters_zh": "字节跳动发布这款前沿模型，对关注中国基础模型竞争及模型质量、定价和生态吸引力潜在变化的人而言，具有战略意义。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "字节跳动 Seed 通过自有渠道正式宣布推出 Seed 2.0，这是有官方记录可查的模型发布，而非泄露消息或基准测试传闻。",
+        "该公司还在 Arena 上发布了 Dola-Seed-2.0-Preview，表明字节跳动正将一个早期版本纳入公开对比评测流程。",
+        "同一批公告还包括字节跳动 Seed 的 2027 年基础模型校园招聘计划，表明公司在发布产品的同时持续投入人才建设。"
+      ]
     },
     {
       "topic_id": "cf80e0fb5c1d",
@@ -2434,7 +2443,14 @@
           "source_name": "Zhipu AI"
         }
       ],
-      "route": "/hot/2026-04-05/topic/zhipu-ai-to-publish-2025-annual-results-on-march-31-2026/"
+      "route": "/hot/2026-04-05/topic/zhipu-ai-to-publish-2025-annual-results-on-march-31-2026/",
+      "headline_zh": "智谱 AI 将于 2026 年 3 月 31 日公布 2025 年度业绩",
+      "summary_short_zh": "智谱 AI 公布了 2025 年度业绩的发布日程。这家在香港上市、股票代码为 02513.HK 的公司表示，将于 2026 年 3 月 31 日公布截至 2025 年 12 月 31 日的全年业绩。",
+      "why_it_matters_zh": "本次产品发布见于 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "智谱 AI 公布了 2025 年度业绩的发布日程。这家在香港上市、股票代码为 02513.HK 的公司表示，将公布全年业绩，报告期截至 12 月……"
+      ]
     },
     {
       "topic_id": "144fbad57b04",
@@ -2475,7 +2491,16 @@
           "source_name": "Hugging Face Trending Papers"
         }
       ],
-      "route": "/hot/2026-04-05/topic/agentscope-1-0-launches-as-a-framework-for-agentic-application-development/"
+      "route": "/hot/2026-04-05/topic/agentscope-1-0-launches-as-a-framework-for-agentic-application-development/",
+      "headline_zh": "智能体应用开发框架 AgentScope 1.0 发布",
+      "summary_short_zh": "大语言模型（LLM）的快速发展，使智能体能够将自身知识与动态工具调用相结合，大幅提升了处理现实任务的能力。",
+      "why_it_matters_zh": "智能体基础设施的 1.0 版本发布可能影响企业自建还是采购的决策，但前提是它能展现生产级的编排能力、可观测性和工具调用可靠性。",
+      "category_zh": "研究",
+      "key_takeaways_zh": [
+        "AgentScope 1.0 定位为以开发者为中心的智能体应用开发框架，面向将大语言模型自身推理与外部工具调用相结合的工作流程。",
+        "此次发布明确标注了 1.0 版本号，显示项目正从实验阶段走向更稳定的平台形态。",
+        "从现有证据看，此次公告重点介绍架构和开发者体验，未提供在基准测试中优于其他智能体框架的确凿成绩。"
+      ]
     },
     {
       "topic_id": "303736fd5a1f",
@@ -2516,7 +2541,16 @@
           "source_name": "Hugging Face Trending Papers"
         }
       ],
-      "route": "/hot/2026-04-05/topic/vibevoice-technical-report-introduces-long-form-multi-speaker-speech-generation/"
+      "route": "/hot/2026-04-05/topic/vibevoice-technical-report-introduces-long-form-multi-speaker-speech-generation/",
+      "headline_zh": "VibeVoice 技术报告介绍长篇多说话人语音生成",
+      "summary_short_zh": "本报告介绍了 VibeVoice，这是一种采用 next-token diffusion 合成长篇多说话人语音的新模型。该方法通过扩散过程以自回归方式生成潜在向量，实现对连续数据的统一建模。",
+      "why_it_matters_zh": "若效果得到验证，能够改善长篇多说话人语音合成的模型，可能对媒体生成、配音和对话式音频产品具有重要价值，因为长时间输出的连贯性是这些场景的一大瓶颈。",
+      "category_zh": "研究",
+      "key_takeaways_zh": [
+        "VibeVoice 提出利用 next-token diffusion 合成长篇多说话人语音，旨在将自回归生成与基于扩散的潜在表示建模统一起来。",
+        "该报告专门针对长时间连续音频生成，而说话人一致性和时序稳定性往往是现有系统的薄弱环节。",
+        "目前的介绍侧重技术和架构；现有证据中的基准测试细节仍不足以支持其达到最先进水平的明确结论。"
+      ]
     },
     {
       "topic_id": "84a4d8f6f2db",
@@ -2563,7 +2597,16 @@
           "source_name": "TechCrunch AI"
         }
       ],
-      "route": "/hot/2026-04-05/topic/anthropic-changes-claude-code-pricing-for-openclaw-and-third-party-harnesses/"
+      "route": "/hot/2026-04-05/topic/anthropic-changes-claude-code-pricing-for-openclaw-and-third-party-harnesses/",
+      "headline_zh": "Anthropic 调整 Claude Code 对 OpenClaw 和第三方运行框架的收费政策",
+      "summary_short_zh": "Anthropic 修改了 Claude Code 订阅政策，使用 OpenClaw 等第三方工具将需要额外付费。新政策于 4 月 4 日生效，将增加订阅用户使用这类工作流程的成本。",
+      "why_it_matters_zh": "这一政策变化影响了围绕 Claude 构建的开发工具的成本结构，关系到预算制定、合作伙伴策略以及第三方智能体封装工具的可行性。",
+      "category_zh": "行业动态",
+      "key_takeaways_zh": [
+        "Anthropic 告知用户，自美国东部时间 4 月 4 日下午 3 点起，Claude 订阅额度将不能再用于 OpenClaw 等第三方运行框架。",
+        "这意味着依赖 OpenClaw 等工具的 Claude Code 订阅用户需要额外付费，直接推高部分开发工作流程的使用成本。",
+        "The Verge 和 TechCrunch 均独立报道了此事，表明这是一项重要的平台政策调整，而非个别客服问题。"
+      ]
     }
   ],
   "category_sections": [
@@ -2606,7 +2649,11 @@
               "source_name": "TechCrunch AI"
             }
           ],
-          "route": "/hot/2026-04-05/topic/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/"
+          "route": "/hot/2026-04-05/topic/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/",
+          "headline_zh": "据报道，Anthropic 以 4 亿美元收购生物技术初创公司 Coefficient Bio",
+          "summary_short_zh": "据报道，Anthropic 通过价值约 4 亿美元的换股交易，收购了隐身运营的生物技术初创公司 Coefficient Bio。此次交易将 Anthropic 的 AI 能力与这家专注于生物技术的初创公司相结合。",
+          "why_it_matters_zh": "这则收购消息见于 1 个独立来源。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "9be5e07f1b42",
@@ -2643,7 +2690,10 @@
               "source_name": "The Rundown AI"
             }
           ],
-          "route": "/hot/2026-04-05/topic/openai-s-new-122b-funding-superapp/"
+          "route": "/hot/2026-04-05/topic/openai-s-new-122b-funding-superapp/",
+          "headline_zh": "OpenAI 的新一轮 1220 亿美元融资与“超级应用”",
+          "why_it_matters_zh": "这则融资消息见于 1 个独立来源。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -2691,7 +2741,10 @@
               "source_name": "The Batch"
             }
           ],
-          "route": "/hot/2026-04-05/topic/nvidia-s-open-salvo-openai-s-amazon-deal-grok-cuts-video-prices-recursive-language-models/"
+          "route": "/hot/2026-04-05/topic/nvidia-s-open-salvo-openai-s-amazon-deal-grok-cuts-video-prices-recursive-language-models/",
+          "headline_zh": "Nvidia 的开源攻势、OpenAI 与 Amazon 的交易、Grok 下调视频价格、递归语言模型",
+          "why_it_matters_zh": "这则其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "1ed2141f2eee",
@@ -2728,7 +2781,11 @@
               "source_name": "Import AI"
             }
           ],
-          "route": "/hot/2026-04-05/topic/hyperagents-here-facebook-research-hyperagents/"
+          "route": "/hot/2026-04-05/topic/hyperagents-here-facebook-research-hyperagents/",
+          "headline_zh": "HyperAgents 来了（Facebook Research，HyperAgents）",
+          "summary_short_zh": "HyperAgents 来了（Facebook Research，HyperAgents",
+          "why_it_matters_zh": "这则其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "c9ab1758027f",
@@ -2765,7 +2822,10 @@
               "source_name": "Import AI"
             }
           ],
-          "route": "/hot/2026-04-05/topic/import-ai-450-china-s-electronic-warfare-model-traumatized-llms-and-a-scaling-law-for-cyberattacks/"
+          "route": "/hot/2026-04-05/topic/import-ai-450-china-s-electronic-warfare-model-traumatized-llms-and-a-scaling-law-for-cyberattacks/",
+          "headline_zh": "Import AI 第 450 期：中国的电子战模型；受创的大语言模型；网络攻击的缩放定律",
+          "why_it_matters_zh": "这则其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "672c2ade3311",
@@ -2802,7 +2862,11 @@
               "source_name": "量子位 (QbitAI)"
             }
           ],
-          "route": "/hot/2026-04-05/topic/agent-mac-mini/"
+          "route": "/hot/2026-04-05/topic/agent-mac-mini/",
+          "headline_zh": "为了不跟龙虾抢电脑用，有人开始造Agent专属的“三无”硬件，比Mac Mini+存储便宜",
+          "summary_short_zh": "1000万视频秒搜",
+          "why_it_matters_zh": "这则其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "255fc4513d03",
@@ -2839,7 +2903,11 @@
               "source_name": "量子位 (QbitAI)"
             }
           ],
-          "route": "/hot/2026-04-05/topic/linux-ai-10/"
+          "route": "/hot/2026-04-05/topic/linux-ai-10/",
+          "headline_zh": "Linux内核维护者崩溃了！AI每天狂塞10份漏洞报告，想摸会鱼都难",
+          "summary_short_zh": "开源开发者的赛博马鞭",
+          "why_it_matters_zh": "这则其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -2890,7 +2958,11 @@
               "source_name": "Sebastian Raschka"
             }
           ],
-          "route": "/hot/2026-04-05/topic/components-of-a-coding-agent/"
+          "route": "/hot/2026-04-05/topic/components-of-a-coding-agent/",
+          "headline_zh": "编程智能体的组成部分",
+          "summary_short_zh": "编程智能体如何利用工具、记忆和代码仓库上下文，让大语言模型在实际应用中表现更好",
+          "why_it_matters_zh": "这则工具动态见于 2 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "9a28eb690af0",
@@ -2927,7 +2999,11 @@
               "source_name": "Simon Willison's Blog"
             }
           ],
-          "route": "/hot/2026-04-05/topic/research-llm-apis-2026-04-04/"
+          "route": "/hot/2026-04-05/topic/research-llm-apis-2026-04-04/",
+          "headline_zh": "research-llm-apis 2026-04-04",
+          "summary_short_zh": "Simon Willison 发布了 research-llm-apis 项目 2026-04-04 版。帖子公布了此次软件更新，并附上相应的 GitHub 版本发布链接。",
+          "why_it_matters_zh": "这则工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "08d688e03bcd",
@@ -2964,7 +3040,11 @@
               "source_name": "Hacker News"
             }
           ],
-          "route": "/hot/2026-04-05/topic/show-hn-sllm-split-a-gpu-node-with-other-developers-unlimited-tokens/"
+          "route": "/hot/2026-04-05/topic/show-hn-sllm-split-a-gpu-node-with-other-developers-unlimited-tokens/",
+          "headline_zh": "Show HN：sllm，与其他开发者共享 GPU 节点，词元用量不限",
+          "summary_short_zh": "Show HN 上的一篇帖子介绍了 sllm，一项让多名开发者共享一个 GPU 节点的服务。帖子称，用户可预订共享小组中的一个名额，以更低的个人成本使用 DeepSeek V3 等大模型。",
+          "why_it_matters_zh": "有 1 个独立来源提及这款工具。",
+          "category_zh": "工具"
         }
       ]
     },
@@ -3007,7 +3087,11 @@
               "source_name": "Hugging Face Trending Papers"
             }
           ],
-          "route": "/hot/2026-04-05/topic/paddleocr-vl-boosting-multilingual-document-parsing-via-a-0-9b-ultra-compact-vision-language-model/"
+          "route": "/hot/2026-04-05/topic/paddleocr-vl-boosting-multilingual-document-parsing-via-a-0-9b-ultra-compact-vision-language-model/",
+          "headline_zh": "PaddleOCR-VL：以 9 亿参数的超紧凑视觉语言模型提升多语言文档解析能力",
+          "summary_short_zh": "本报告提出 PaddleOCR-VL，一款专为文档解析设计、性能领先且节省资源的模型。",
+          "why_it_matters_zh": "有 1 个独立来源提及这篇研究论文。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "0cf17e5a8d1e",
@@ -3044,7 +3128,11 @@
               "source_name": "Hugging Face Trending Papers"
             }
           ],
-          "route": "/hot/2026-04-05/topic/generative-world-renderer/"
+          "route": "/hot/2026-04-05/topic/generative-world-renderer/",
+          "headline_zh": "生成式世界渲染器",
+          "summary_short_zh": "现有合成数据集的真实感和时序连贯性有限，制约了生成式逆向渲染与正向渲染向真实场景的扩展。为弥合这一长期存在的域差距，我们推出了一个从视觉场景复杂的 3A 游戏中精选整理而成的大规模动态数据集。",
+          "why_it_matters_zh": "有 1 个独立来源提及这篇研究论文。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "9e04282362f7",
@@ -3081,7 +3169,11 @@
               "source_name": "Hugging Face Trending Papers"
             }
           ],
-          "route": "/hot/2026-04-05/topic/efficient-memory-management-for-large-language-model-serving-with-pagedattention/"
+          "route": "/hot/2026-04-05/topic/efficient-memory-management-for-large-language-model-serving-with-pagedattention/",
+          "headline_zh": "利用 PagedAttention 实现大语言模型推理服务的高效内存管理",
+          "summary_short_zh": "Hugging Face 上的一篇热门论文介绍了 PagedAttention，一种提高大语言模型推理服务内存管理效率的方法。该论文重点研究如何在批量推理中更高效地管理 KV 缓存的内存，以提升吞吐量。",
+          "why_it_matters_zh": "有 1 个独立来源提及这篇研究论文。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "2059d9985838",
@@ -3118,7 +3210,11 @@
               "source_name": "Hugging Face Trending Papers"
             }
           ],
-          "route": "/hot/2026-04-05/topic/a-decoder-only-foundation-model-for-time-series-forecasting/"
+          "route": "/hot/2026-04-05/topic/a-decoder-only-foundation-model-for-time-series-forecasting/",
+          "headline_zh": "面向时间序列预测的纯解码器基础模型",
+          "summary_short_zh": "受大语言模型在自然语言处理（NLP）领域最新进展的启发，我们设计了一种用于预测的时间序列基础模型。该模型开箱即用，在多个不同公开数据集上的零样本预测精度接近最先进的监督式预测方法。",
+          "why_it_matters_zh": "有 1 个独立来源提及这篇研究论文。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "b97832054cae",
@@ -3155,7 +3251,11 @@
               "source_name": "Hugging Face Trending Papers"
             }
           ],
-          "route": "/hot/2026-04-05/topic/very-large-scale-multi-agent-simulation-in-agentscope/"
+          "route": "/hot/2026-04-05/topic/very-large-scale-multi-agent-simulation-in-agentscope/",
+          "headline_zh": "AgentScope 中的超大规模多智能体仿真",
+          "summary_short_zh": "大语言模型（LLM）的最新进展为多智能体系统在超大规模仿真中的应用提供了新途径。",
+          "why_it_matters_zh": "有 1 个独立来源提及这篇研究论文。",
+          "category_zh": "研究"
         }
       ]
     }
@@ -3200,7 +3300,11 @@
               "source_name": "TechCrunch AI"
             }
           ],
-          "route": "/hot/2026-04-05/topic/anthropic-ramps-up-its-political-activities-with-a-new-pac/"
+          "route": "/hot/2026-04-05/topic/anthropic-ramps-up-its-political-activities-with-a-new-pac/",
+          "headline_zh": "Anthropic 新设政治行动委员会，加大政治活动力度",
+          "summary_short_zh": "Anthropic 成立了一个新的政治行动委员会，以支持认同其 AI 政策议程的候选人。此举使公司在中期选举前加大了直接参与政治活动的力度。",
+          "why_it_matters_zh": "有 1 个独立来源提及这一行业动态。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "9a50fec84205",
@@ -3237,7 +3341,11 @@
               "source_name": "The Verge AI"
             }
           ],
-          "route": "/hot/2026-04-05/topic/openai-s-agi-boss-is-taking-a-leave-of-absence/"
+          "route": "/hot/2026-04-05/topic/openai-s-agi-boss-is-taking-a-leave-of-absence/",
+          "headline_zh": "OpenAI 的 AGI 负责人将休假",
+          "summary_short_zh": "据 The Verge 查阅的一份内部备忘录，OpenAI 正在经历新一轮高管层调整。",
+          "why_it_matters_zh": "这条行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "f9706e95f61e",
@@ -3274,7 +3382,11 @@
               "source_name": "The Verge AI"
             }
           ],
-          "route": "/hot/2026-04-05/topic/really-you-made-this-without-ai-prove-it/"
+          "route": "/hot/2026-04-05/topic/really-you-made-this-without-ai-prove-it/",
+          "headline_zh": "你做这个真没用 AI？证明一下",
+          "summary_short_zh": "“这看起来像 AI 做的。”作为一名也涉猎插画和业余摄影的写作者，我很怕看到这句话。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "b642716397f5",
@@ -3311,7 +3423,11 @@
               "source_name": "The Verge AI"
             }
           ],
-          "route": "/hot/2026-04-05/topic/a-folk-musician-became-a-target-for-ai-fakes-and-a-copyright-troll/"
+          "route": "/hot/2026-04-05/topic/a-folk-musician-became-a-target-for-ai-fakes-and-a-copyright-troll/",
+          "headline_zh": "一位民谣音乐人遭 AI 仿冒，还被版权流氓盯上",
+          "summary_short_zh": "1 月，民谣音乐人 Murphy Campbell 发现自己的 Spotify 主页上多了几首不该出现的歌。这些歌确实是她录制的，但她从未将它们上传到 Spotify，而且人声听起来有些不对劲。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "2e1bfddb1be8",
@@ -3348,7 +3464,11 @@
               "source_name": "量子位 (QbitAI)"
             }
           ],
-          "route": "/hot/2026-04-05/topic/19-ai/"
+          "route": "/hot/2026-04-05/topic/19-ai/",
+          "headline_zh": "19岁，常青藤辍学，这群中国年轻人重构了AI记忆",
+          "summary_short_zh": "唯一原生支持指代消解，Benchmark现象级领先",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "87422ed8f8f5",
@@ -3385,7 +3505,11 @@
               "source_name": "TechCrunch AI"
             }
           ],
-          "route": "/hot/2026-04-05/topic/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/"
+          "route": "/hot/2026-04-05/topic/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
+          "headline_zh": "Anthropic 在私募市场风头正劲，SpaceX 可能搅局",
+          "summary_short_zh": "本文探讨了二级市场对 Anthropic 股份的旺盛需求，并将其交易情况与 OpenAI 和 SpaceX 作比较。文章分析的是私募市场交易趋势，并非新的融资公告。",
+          "why_it_matters_zh": "这条行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "50c5e7c3b348",
@@ -3422,7 +3546,11 @@
               "source_name": "Ars Technica AI"
             }
           ],
-          "route": "/hot/2026-04-05/topic/openclaw-gives-users-yet-another-reason-to-be-freaked-out-about-security/"
+          "route": "/hot/2026-04-05/topic/openclaw-gives-users-yet-another-reason-to-be-freaked-out-about-security/",
+          "headline_zh": "OpenClaw 又让用户多了一个为安全问题提心吊胆的理由",
+          "summary_short_zh": "据报道，OpenClaw 的一处安全漏洞可让攻击者无需身份验证就能悄然获得管理员权限。文章认为，该漏洞对这款工具的用户构成严重安全威胁。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "809355c90764",
@@ -3459,7 +3587,11 @@
               "source_name": "MIT News AI"
             }
           ],
-          "route": "/hot/2026-04-05/topic/working-to-advance-the-nuclear-renaissance/"
+          "route": "/hot/2026-04-05/topic/working-to-advance-the-nuclear-renaissance/",
+          "headline_zh": "致力于推动核能复兴",
+          "summary_short_zh": "核科学与工程系助理教授 Dean Price 看好核能的未来，并相信 AI 能帮助我们实现这一愿景。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }

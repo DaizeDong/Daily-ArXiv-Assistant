@@ -2457,7 +2457,14 @@
           "published_at": "2026-05-27T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-05-27/topic/introducing-grok-build/"
+      "route": "/hot/2026-05-27/topic/introducing-grok-build/",
+      "headline_zh": "Grok Build 现已推出",
+      "summary_short_zh": "在开源智能体编程平台 Kilo Code 中使用你的 SuperGrok 或 X Premium+ 订阅",
+      "why_it_matters_zh": "此次产品发布的消息来自 2 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "在开源智能体编程平台 Kilo Code 中使用你的 SuperGrok 或 X Premium+ 订阅。"
+      ]
     },
     {
       "topic_id": "d84d4e9f63e9",
@@ -2504,7 +2511,15 @@
           "published_at": "2026-05-27T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-05-27/topic/skills-in-web-ios-and-android/"
+      "route": "/hot/2026-05-27/topic/skills-in-web-ios-and-android/",
+      "headline_zh": "网页版、iOS 和 Android 版的技能功能",
+      "summary_short_zh": "在开源智能体编程平台 Kilo Code 中使用你的 SuperGrok 或 X Premium+ 订阅",
+      "why_it_matters_zh": "此次产品发布的消息来自 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "通过深度集成，将你日常使用的应用直接接入 Grok。",
+        "在开源智能体编程平台 Kilo Code 中使用你的 SuperGrok 或 X Premium+ 订阅。"
+      ]
     },
     {
       "topic_id": "9d6981a9c7b5",
@@ -2550,7 +2565,14 @@
           "published_at": "2026-05-27T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-05-27/topic/use-grok-in-openclaw/"
+      "route": "/hot/2026-05-27/topic/use-grok-in-openclaw/",
+      "headline_zh": "在 OpenClaw 中使用 Grok",
+      "summary_short_zh": "在开源智能体编程平台 Kilo Code 中使用你的 SuperGrok 或 X Premium+ 订阅",
+      "why_it_matters_zh": "此次产品发布的消息来自 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "在开源智能体编程平台 Kilo Code 中使用你的 SuperGrok 或 X Premium+ 订阅。"
+      ]
     },
     {
       "topic_id": "a54b47749845",
@@ -2590,7 +2612,14 @@
           "published_at": "Tue, 26 May 2026 17:41:26 +0000"
         }
       ],
-      "route": "/hot/2026-05-27/topic/build-highly-scalable-serverless-langgraph-multi-agent-systems-in-aws-with-amazon-bedrock-agentcore/"
+      "route": "/hot/2026-05-27/topic/build-highly-scalable-serverless-langgraph-multi-agent-systems-in-aws-with-amazon-bedrock-agentcore/",
+      "headline_zh": "借助 Amazon Bedrock AgentCore，在 AWS 上构建高度可扩展的无服务器 LangGraph 多智能体系统",
+      "summary_short_zh": "本文提供了一种在 AWS 上构建高度可扩展的无服务器多智能体生成式 AI 系统的方案，使用 LangGraph 智能体进行编排，并集成 Amazon Bedrock AgentCore Memory 和 Amazon Bedrock AgentCore Observability",
+      "why_it_matters_zh": "此次产品发布的消息来自 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "本文提供了一种在 AWS 上构建高度可扩展的无服务器多智能体生成式 AI 系统的方案，使用 LangGraph 智能体进行编排，并集成 Amazon Bedrock AgentCore Me..."
+      ]
     },
     {
       "topic_id": "9ae88a344e26",
@@ -2630,7 +2659,14 @@
           "published_at": "Tue, 26 May 2026 17:57:18 +0000"
         }
       ],
-      "route": "/hot/2026-05-27/topic/technical-deep-dive-agentcore-payments-and-innovation-in-agentic-commerce/"
+      "route": "/hot/2026-05-27/topic/technical-deep-dive-agentcore-payments-and-innovation-in-agentic-commerce/",
+      "headline_zh": "技术深度解析：AgentCore 支付与智能体商务创新",
+      "summary_short_zh": "Amazon Bedrock AgentCore 支付现已开放预览，可即时向外部付费服务付款，无需为每家服务商手动配置计费；支持稳定币以降低微支付成本，使不足 1 美分的交易也具备经济可行性，并支持自定义支出设置",
+      "why_it_matters_zh": "此次产品发布的消息来自 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Amazon Bedrock AgentCore 支付现已开放预览，可即时向外部付费服务付款，无需为每家服务商手动配置计费，并支持稳定币以实现经济高效的..."
+      ]
     }
   ],
   "category_sections": [
@@ -2674,7 +2710,11 @@
               "published_at": "2026-05-27T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-27/topic/connect-grok-to-hermes-agent/"
+          "route": "/hot/2026-05-27/topic/connect-grok-to-hermes-agent/",
+          "headline_zh": "将 Grok 连接到 Hermes Agent",
+          "summary_short_zh": "在 Nous Research 开源且可自我改进的 Hermes 智能体中使用你的 Grok 账号和订阅",
+          "why_it_matters_zh": "此次产品发布的消息来自 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "ffc436d5b42a",
@@ -2712,7 +2752,11 @@
               "published_at": "Tue, 26 May 2026 15:59:16 +0000"
             }
           ],
-          "route": "/hot/2026-05-27/topic/transforming-professional-work-how-amazon-quick-turns-document-creation-from-hours-into-minutes/"
+          "route": "/hot/2026-05-27/topic/transforming-professional-work-how-amazon-quick-turns-document-creation-from-hours-into-minutes/",
+          "headline_zh": "重塑专业工作方式：Amazon Quick 如何将文档创建时间从数小时缩短至几分钟",
+          "summary_short_zh": "本文将介绍 Amazon Quick 的文档与可视化内容创建功能如何运作、能制作哪些内容，以及不同岗位的专业人士如何利用这些功能每周节省数小时。",
+          "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "f253c47dcb72",
@@ -2750,7 +2794,11 @@
               "published_at": "Tue, 26 May 2026 16:09:06 +0000"
             }
           ],
-          "route": "/hot/2026-05-27/topic/build-an-enterprise-observability-solution-for-amazon-quick/"
+          "route": "/hot/2026-05-27/topic/build-an-enterprise-observability-solution-for-amazon-quick/",
+          "headline_zh": "为 Amazon Quick 构建企业级可观测性解决方案",
+          "summary_short_zh": "当数百至数千名用户开始使用企业级 AI 平台时，业务管理者和平台负责人需要了解谁在使用平台、用户对收到的回答是否满意，以及哪些功能最能带动用户参与。",
+          "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "06dc41a77915",
@@ -2788,7 +2836,11 @@
               "published_at": "Tue, 26 May 2026 16:28:08 +0000"
             }
           ],
-          "route": "/hot/2026-05-27/topic/from-idea-to-ai-app-creating-intelligent-research-assistants-with-strands/"
+          "route": "/hot/2026-05-27/topic/from-idea-to-ai-app-creating-intelligent-research-assistants-with-strands/",
+          "headline_zh": "从创意到 AI 应用：用 Strands 打造智能研究助手",
+          "summary_short_zh": "开发 AI 应用不该需要机器学习（ML）博士学位，也不该耗费数月应付复杂架构。但当你尝试编排多个 API 调用、管理对话状态，并构建能够自主推理的智能体时，现实往往正是如此。",
+          "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "9c4f323e2417",
@@ -2826,7 +2878,10 @@
               "published_at": "May 26, 2026"
             }
           ],
-          "route": "/hot/2026-05-27/topic/anthropic-appoints-kiyoung-choi-as-representative-director-of-korea-ahead-of-seoul-office-opening/"
+          "route": "/hot/2026-05-27/topic/anthropic-appoints-kiyoung-choi-as-representative-director-of-korea-ahead-of-seoul-office-opening/",
+          "headline_zh": "Anthropic 在首尔办公室开业前任命 KiYoung Choi 为韩国区代表董事",
+          "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2870,7 +2925,11 @@
               "published_at": "Tue, 26 May 2026 18:33:01 +0000"
             }
           ],
-          "route": "/hot/2026-05-27/topic/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/"
+          "route": "/hot/2026-05-27/topic/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
+          "headline_zh": "OpenRouter 估值一年内增长逾一倍，达 13 亿美元",
+          "summary_short_zh": "OpenRouter 已完成由 CapitalG 领投的 1.13 亿美元 B 轮融资。其使用量在六个月内增至原来的 5 倍，表明多 AI 模型并存的时代已经到来。",
+          "why_it_matters_zh": "1 个独立来源报道了此次融资。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "25a7f7f8167c",
@@ -2908,7 +2967,11 @@
               "published_at": "Tue, 26 May 2026 16:00:00 +0000"
             }
           ],
-          "route": "/hot/2026-05-27/topic/this-startup-is-betting-india-s-gig-economy-can-train-the-world-s-robots/"
+          "route": "/hot/2026-05-27/topic/this-startup-is-betting-india-s-gig-economy-can-train-the-world-s-robots/",
+          "headline_zh": "这家初创公司押注印度零工经济能为全球训练机器人",
+          "summary_short_zh": "由加州大学伯克利分校和斯坦福大学研究人员创立的初创公司 Human Archive，正付费让印度零工佩戴装有摄像头的帽子和传感器设备，采集 AI 和机器人实验室竞相获取的、用于训练的真实世界物理数据。",
+          "why_it_matters_zh": "1 个独立来源报道了此次收购。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "99d408c4191d",
@@ -2952,7 +3015,11 @@
               "published_at": "Tue, 26 May 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-05-27/topic/deepseek-is-pushing-forward-with-10-29-billion-financing-round-with-liang-wenfeng-committing-to-continue-developing-open-source-ai-models-rather-than-pursuing-short-term-commercialization-goals/"
+          "route": "/hot/2026-05-27/topic/deepseek-is-pushing-forward-with-10-29-billion-financing-round-with-liang-wenfeng-committing-to-continue-developing-open-source-ai-models-rather-than-pursuing-short-term-commercialization-goals/",
+          "headline_zh": "DeepSeek 正推进 102.9 亿美元融资，梁文锋承诺继续开发开源 AI 模型，而非追求短期商业化目标",
+          "summary_short_zh": "据彭博社报道，DeepSeek 正推进一轮 102.9 亿美元融资，创始人梁文锋重申了以通用人工智能（AGI）为导向的发展路线，并承诺继续发布或开源 AI 模型，而非优先考虑短期商业化。",
+          "why_it_matters_zh": "1 个独立来源报道了此次融资。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "c1729e6cb9fc",
@@ -2990,7 +3057,11 @@
               "published_at": "Tue, 26 May 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-05-27/topic/serving-inference-stacks-got-meaningful-performance-and-observability-updates/"
+          "route": "/hot/2026-05-27/topic/serving-inference-stacks-got-meaningful-performance-and-observability-updates/",
+          "headline_zh": "模型服务与推理技术栈在性能和可观测性方面迎来重要更新",
+          "summary_short_zh": "vLLM 已合入一个 Rust 前端，可直接替换 Python API 服务器。初步数据显示，在预处理密集型工作负载下，Rust 前端的单进程吞吐量约为每秒 837 次请求，Python 版本则约为每秒 162 次请求。",
+          "why_it_matters_zh": "1 个独立来源报道了此次收购。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -3034,7 +3105,11 @@
               "published_at": "2026-05-27T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-27/topic/new-compute-partnership-with-anthropic/"
+          "route": "/hot/2026-05-27/topic/new-compute-partnership-with-anthropic/",
+          "headline_zh": "与 Anthropic 建立新的算力合作",
+          "summary_short_zh": "SpaceXAI 已与 Anthropic 签署协议，向其提供 Colossus 1 的使用权限",
+          "why_it_matters_zh": "这一行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "fd2fc3a58624",
@@ -3072,7 +3147,11 @@
               "published_at": "Tue, 26 May 2026 17:22:48 +0000"
             }
           ],
-          "route": "/hot/2026-05-27/topic/agentwatch-proactive-aws-monitoring-with-ambient-agents/"
+          "route": "/hot/2026-05-27/topic/agentwatch-proactive-aws-monitoring-with-ambient-agents/",
+          "headline_zh": "AgentWatch：利用后台智能体主动监控 AWS",
+          "summary_short_zh": "本文通过实际应用展示 AgentWatch 的能力。你将看到该方案如何每 15 分钟检查一次基础设施，并汇总多个 AWS 账户的 CloudWatch 指标、日志和告警。",
+          "why_it_matters_zh": "这一行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "ddb983d09429",
@@ -3117,7 +3196,11 @@
               "published_at": "Tue, 26 May 2026 22:32:56 +0000"
             }
           ],
-          "route": "/hot/2026-05-27/topic/sundar-pichai-on-ai-the-future-of-search-and-what-s-happening-to-the-web/"
+          "route": "/hot/2026-05-27/topic/sundar-pichai-on-ai-the-future-of-search-and-what-s-happening-to-the-web/",
+          "headline_zh": "Sundar Pichai 谈 AI、搜索的未来与互联网的变化",
+          "summary_short_zh": "今天的对话嘉宾是 Google 和 Alphabet 首席执行官 Sundar Pichai。这段访谈录制于 Google I/O 开发者大会刚结束后。这是我第五年在 I/O 会后与 Sundar 对谈，如今已成为我最喜欢的 Decoder 节目传统之一。",
+          "why_it_matters_zh": "这一行业动态见于 2 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "00ca47022e54",
@@ -3155,7 +3238,10 @@
               "published_at": "2026-05-27T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-27/topic/seedance-makes-a-splash-nvidia-s-ai-guided-chip-designs-helping-robots-not-forget/"
+          "route": "/hot/2026-05-27/topic/seedance-makes-a-splash-nvidia-s-ai-guided-chip-designs-helping-robots-not-forget/",
+          "headline_zh": "Seedance 引发轰动、Nvidia 用 AI 辅助芯片设计、帮助机器人避免遗忘",
+          "why_it_matters_zh": "这一行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "90117214eb57",
@@ -3193,7 +3279,11 @@
               "published_at": "Wed, 27 May 2026 01:14:35 +0000"
             }
           ],
-          "route": "/hot/2026-05-27/topic/deepseek-skill-2/"
+          "route": "/hot/2026-05-27/topic/deepseek-skill-2/",
+          "headline_zh": "DeepSeek陈德里开发自动研究Skill，写一篇论文人类只动脑2小时",
+          "summary_short_zh": "“1%是我写的，99%是Agent写的。”",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -3237,7 +3327,11 @@
               "published_at": "2026-05-27T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-27/topic/aurora-tilde-research-github/"
+          "route": "/hot/2026-05-27/topic/aurora-tilde-research-github/",
+          "headline_zh": "Aurora (Tilde Research, GitHub)",
+          "summary_short_zh": "Aurora (Tilde Research, GitHub",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "1ceb7bc64842",
@@ -3275,7 +3369,11 @@
               "published_at": "2026-05-26T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-27/topic/ai-for-sales-the-2026-enterprise-guide-cohere/"
+          "route": "/hot/2026-05-27/topic/ai-for-sales-the-2026-enterprise-guide-cohere/",
+          "headline_zh": "AI 助力销售：2026 年企业指南 | Cohere",
+          "summary_short_zh": "了解 AI 如何支持企业销售团队，涵盖潜在客户挖掘、CRM 管理、销售预测、工作流自动化、治理和应用推广",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     }
@@ -3321,7 +3419,11 @@
               "published_at": "2026-05-26T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-27/topic/fast-inference-is-going-mainstream-the-cerebras-ecosystem-is-scaling-access/"
+          "route": "/hot/2026-05-27/topic/fast-inference-is-going-mainstream-the-cerebras-ecosystem-is-scaling-access/",
+          "headline_zh": "高速推理渐成主流，Cerebras 生态系统正扩大服务覆盖范围",
+          "summary_short_zh": "2026 年 4 月 28 日",
+          "why_it_matters_zh": "这一产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "6c759bef2c52",
@@ -3359,7 +3461,11 @@
               "published_at": "2026-05-26T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-27/topic/introducing-multi-lora-on-cerebras-inference/"
+          "route": "/hot/2026-05-27/topic/introducing-multi-lora-on-cerebras-inference/",
+          "headline_zh": "Cerebras Inference 推出 Multi-LoRA",
+          "summary_short_zh": "2026年5月6日",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "129ebf2190d1",
@@ -3397,7 +3503,11 @@
               "published_at": "2026-05-26T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-27/topic/what-is-sovereign-ai-and-how-cerebras-helps-nations/"
+          "route": "/hot/2026-05-27/topic/what-is-sovereign-ai-and-how-cerebras-helps-nations/",
+          "headline_zh": "什么是主权 AI？Cerebras 如何为各国提供支持？",
+          "summary_short_zh": "2026年5月26日",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "4f5788dc856a",
@@ -3435,7 +3545,11 @@
               "published_at": "2026-05-26T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-27/topic/de-risking-ai-in-financial-services-cohere/"
+          "route": "/hot/2026-05-27/topic/de-risking-ai-in-financial-services-cohere/",
+          "headline_zh": "降低金融服务业的 AI 风险 | Cohere",
+          "summary_short_zh": "了解金融服务企业如何选择风险较低的应用场景、加强治理并规划可扩展部署，从而降低采用 AI 的风险",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "83027ccd247c",
@@ -3479,7 +3593,11 @@
               "published_at": "Tue, 26 May 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-05-27/topic/anthropic-officially-launched-13-free-ai-courses-with-certificates-including-agentic-ai-and-claude-code/"
+          "route": "/hot/2026-05-27/topic/anthropic-officially-launched-13-free-ai-courses-with-certificates-including-agentic-ai-and-claude-code/",
+          "headline_zh": "Anthropic 正式推出 13+ 门免费 AI 课程，提供证书（包括智能体 AI 和 Claude Code！）",
+          "summary_short_zh": "Anthropic 通过基于 Skilljar 搭建的学院提供一系列免费官方培训课程，可从 Anthropic Learn 进入。课程提供证书，涵盖 Claude、Claude Code、Claude API、MCP／智能体工作流，以及 Amazon Bedrock 和 Google Cloud Vertex AI 的专项部署培训。",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "14d436a6eb08",
@@ -3517,7 +3635,11 @@
               "published_at": "Tue, 26 May 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-05-27/topic/vision-open-model-releases-and-ranking-updates/"
+          "route": "/hot/2026-05-27/topic/vision-open-model-releases-and-ranking-updates/",
+          "headline_zh": "视觉模型与开放模型发布及排名更新",
+          "summary_short_zh": "PrismML 发布了 Bonsai Image 4B，包含面向笔记本电脑和手机本地运行的 1 比特和三值版本；后续消息指出，也可在浏览器本地运行，占用约 3GB。",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -3561,7 +3683,10 @@
               "published_at": "2026-05-27T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-27/topic/import-ai-457-ai-stuxnet-cursed-muon-optimizer-and-positive-alignment/"
+          "route": "/hot/2026-05-27/topic/import-ai-457-ai-stuxnet-cursed-muon-optimizer-and-positive-alignment/",
+          "headline_zh": "Import AI 第 457 期：AI 版震网、诡异的 Muon 优化器与正向对齐",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "6542d166fc5f",
@@ -3599,7 +3724,10 @@
               "published_at": "2026-05-27T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-27/topic/import-ai-458-reckoning-with-the-future-and-a-singularity-story/"
+          "route": "/hot/2026-05-27/topic/import-ai-458-reckoning-with-the-future-and-a-singularity-story/",
+          "headline_zh": "Import AI 第 458 期：直面未来，以及一个关于奇点的故事",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }

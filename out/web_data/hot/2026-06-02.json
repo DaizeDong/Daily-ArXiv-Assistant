@@ -2514,7 +2514,16 @@
           "published_at": "2026-06-02T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-06-02/topic/seed-2-0-official-launch/"
+      "route": "/hot/2026-06-02/topic/seed-2-0-official-launch/",
+      "headline_zh": "Seed 2.0 正式发布",
+      "summary_short_zh": "字节跳动 Seed 正式发布 Seed 2.0。该消息将其介绍为该公司推出的新模型。",
+      "why_it_matters_zh": "共有 1 个独立来源报道此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "字节跳动 Seed 宣布启动 2027 年基础模型校园招聘，涵盖实习岗位。",
+        "字节跳动 Seed 在 Arena 发布 Dola-Seed-2.0-Preview 模型，作为其最新模型成果的预览版本。",
+        "字节跳动 Seed 推出全双工语音大语言模型，强调专注倾听、强大的抗干扰能力和更自然的交互。"
+      ]
     },
     {
       "topic_id": "43538c0b82d0",
@@ -2564,7 +2573,14 @@
           "published_at": "Mon, 01 Jun 2026 10:00:00 GMT"
         }
       ],
-      "route": "/hot/2026-06-02/topic/openai-frontier-models-and-codex-are-now-available-on-aws/"
+      "route": "/hot/2026-06-02/topic/openai-frontier-models-and-codex-are-now-available-on-aws/",
+      "headline_zh": "OpenAI 前沿模型和 Codex 现已登陆 AWS",
+      "summary_short_zh": "OpenAI 前沿模型和 Codex 现已在 AWS 正式上线，为企业提供了使用 OpenAI 开发应用的新途径，可沿用现有的 AWS 环境、管控机制和采购流程。客户现在即可在 AWS 上使用 OpenAI，加快从评估到生产部署的进程。",
+      "why_it_matters_zh": "共有 3 个独立来源报道此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "GPT-5.5、GPT-5.4 和 Codex 现已在 Amazon Bedrock 正式上线。立即通过 Bedrock 的高性能推理引擎，将它们部署到生产环境中的应用和智能体。&nbsp;"
+      ]
     },
     {
       "topic_id": "0b50b6c7d66a",
@@ -2621,7 +2637,15 @@
           "published_at": "Mon, 01 Jun 2026 05:44:39 GMT"
         }
       ],
-      "route": "/hot/2026-06-02/topic/anthropic-confidentially-submits-draft-s-1-to-the-sec/"
+      "route": "/hot/2026-06-02/topic/anthropic-confidentially-submits-draft-s-1-to-the-sec/",
+      "headline_zh": "Anthropic 向 SEC 保密提交 S-1 草案",
+      "summary_short_zh": "Anthropic 表示，已向美国证券交易委员会保密提交 S-1 注册声明草案。此举启动了正式审核流程，后续可能进行首次公开募股。",
+      "why_it_matters_zh": "共有 5 个独立来源报道这一行业动向。",
+      "category_zh": "行业动态",
+      "key_takeaways_zh": [
+        "数月来，外界一直猜测 OpenAI 和 Anthropic 谁会率先 IPO。周一，Anthropic 迎来关键里程碑：向美国证券交易委员会提交申请，启动上市流程……",
+        "Anthropic 如今已是 AI 巨头，赢得了顶级企业客户，但在大语言模型领域兴起之初，它一度不被看好。"
+      ]
     },
     {
       "topic_id": "3004a479c745",
@@ -2668,7 +2692,15 @@
           "published_at": "2026-06-01T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-06-02/topic/use-grok-in-openclaw/"
+      "route": "/hot/2026-06-02/topic/use-grok-in-openclaw/",
+      "headline_zh": "在 OpenClaw 中使用 Grok",
+      "summary_short_zh": "在 OpenClaw 中使用你的 SuperGrok 或 X Premium 订阅。OpenClaw 是一款开源、本地优先的智能体和个人助手",
+      "why_it_matters_zh": "共有 1 个独立来源报道此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Composer 2.5 现已在 Grok Build 上线。可在 /models 菜单中试用。",
+        "在 OpenClaw 中使用你的 SuperGrok 或 X Premium 订阅。OpenClaw 是一款开源、本地优先的智能体和个人助手。"
+      ]
     },
     {
       "topic_id": "297f9b96ca50",
@@ -2706,7 +2738,10 @@
           "published_at": "2026-06-01T12:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-06-02/topic/homecoming-bringing-the-elevenlabs-summit-to-warsaw/"
+      "route": "/hot/2026-06-02/topic/homecoming-bringing-the-elevenlabs-summit-to-warsaw/",
+      "headline_zh": "回归故乡：ElevenLabs 峰会来到华沙",
+      "why_it_matters_zh": "共有 1 个独立来源报道此次产品发布。",
+      "category_zh": "产品发布"
     }
   ],
   "category_sections": [
@@ -2750,7 +2785,11 @@
               "published_at": "Mon, 01 Jun 2026 16:00:00 +0000"
             }
           ],
-          "route": "/hot/2026-06-02/topic/how-we-used-gemini-to-build-google-i-o-2026/"
+          "route": "/hot/2026-06-02/topic/how-we-used-gemini-to-build-google-i-o-2026/",
+          "headline_zh": "我们如何用 Gemini 筹办 Google I/O 2026",
+          "summary_short_zh": "一张由 I/O 相关图片组成的拼贴图，包括 Antigravity Coffee Co. 快闪店、色彩缤纷的水母，以及 Timmy TPU 视频的截图。图片左侧重复出现三次“AI”字样，图中还有闪光图案等彩色图标",
+          "why_it_matters_zh": "共有 1 个独立来源报道此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "91f0b5809259",
@@ -2788,7 +2827,11 @@
               "published_at": "2026-06-02T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-02/topic/biohub-releases-a-world-model-of-protein-biology-biohub/"
+          "route": "/hot/2026-06-02/topic/biohub-releases-a-world-model-of-protein-biology-biohub/",
+          "headline_zh": "Biohub 发布蛋白质生物学世界模型 (biohub)",
+          "summary_short_zh": "Biohub 发布蛋白质生物学世界模型 (biohub",
+          "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "884188a6e87d",
@@ -2832,7 +2875,11 @@
               "published_at": "2026-06-01T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-06-02/topic/grok-build-0-1-on-api/"
+          "route": "/hot/2026-06-02/topic/grok-build-0-1-on-api/",
+          "headline_zh": "Grok Build 0.1 已支持 API 调用",
+          "summary_short_zh": "Grok Build 现已支持 Composer 2.5，可从 /models 菜单试用。",
+          "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "a9f2c23a2973",
@@ -2870,7 +2917,10 @@
               "published_at": "2026-06-01T05:39:33+00:00"
             }
           ],
-          "route": "/hot/2026-06-02/topic/clawhub-security-signals-large-corpus-multi-scanner-dataset-for-agent-skill-security-research/"
+          "route": "/hot/2026-06-02/topic/clawhub-security-signals-large-corpus-multi-scanner-dataset-for-agent-skill-security-research/",
+          "headline_zh": "ClawHub Security Signals：面向智能体技能安全研究的大规模多扫描器语料数据集",
+          "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "a774413443a8",
@@ -2908,7 +2958,11 @@
               "published_at": "2026-06-01T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-06-02/topic/connect-grok-to-hermes-agent/"
+          "route": "/hot/2026-06-02/topic/connect-grok-to-hermes-agent/",
+          "headline_zh": "将 Grok 接入 Hermes Agent",
+          "summary_short_zh": "在 Nous Research 开源、可自我改进的 Hermes 智能体中使用您的 Grok 账户和订阅",
+          "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2952,7 +3006,11 @@
               "published_at": "Mon, 01 Jun 2026 21:35:00 +0000"
             }
           ],
-          "route": "/hot/2026-06-02/topic/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/"
+          "route": "/hot/2026-06-02/topic/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
+          "headline_zh": "英伟达借助微软、戴尔和惠普的 AI 智能体 PC，瞄准 2000 亿美元 CPU 市场",
+          "summary_short_zh": "如果英伟达找到了让大众轻松、安全地使用 AI 智能体并从中受益的方法，这可能会产生巨大影响，也理应如此。",
+          "why_it_matters_zh": "1 个独立来源报道了此次融资。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "1e7638d8545c",
@@ -2990,7 +3048,11 @@
               "published_at": "Mon, 01 Jun 2026 22:55:09 +0000"
             }
           ],
-          "route": "/hot/2026-06-02/topic/alphabet-plans-to-raise-80b-to-pay-for-ai-buildout/"
+          "route": "/hot/2026-06-02/topic/alphabet-plans-to-raise-80b-to-pay-for-ai-buildout/",
+          "headline_zh": "Alphabet 计划筹资 800 亿美元，用于 AI 基础设施建设",
+          "summary_short_zh": "Alphabet 在声明中表示：“企业和消费者对公司的 AI 解决方案及服务需求旺盛，已超出公司现有的供应能力。”",
+          "why_it_matters_zh": "1 个独立来源报道了此次融资。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -3040,7 +3102,11 @@
               "published_at": "Mon, 01 Jun 2026 17:30:12 +0000"
             }
           ],
-          "route": "/hot/2026-06-02/topic/reference-your-own-aws-secrets-manager-secrets-in-amazon-bedrock-agentcore-identity/"
+          "route": "/hot/2026-06-02/topic/reference-your-own-aws-secrets-manager-secrets-in-amazon-bedrock-agentcore-identity/",
+          "headline_zh": "在 Amazon Bedrock AgentCore Identity 中引用您存储在 AWS Secrets Manager 中的密钥",
+          "summary_short_zh": "AWS 宣布，Amazon Bedrock AgentCore Identity 现已支持引用存储在 AWS Secrets Manager 中、由客户自行管理的密钥。用户可复用现有密钥，并保留对密钥管理的控制权。",
+          "why_it_matters_zh": "这篇教程见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "2164d97f6235",
@@ -3087,7 +3153,11 @@
               "published_at": "2026-06-01T16:02:04Z"
             }
           ],
-          "route": "/hot/2026-06-02/topic/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/"
+          "route": "/hot/2026-06-02/topic/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
+          "headline_zh": "佛罗里达州因暴力事件起诉 OpenAI 和 Sam Altman，开此类诉讼先河",
+          "summary_short_zh": "佛罗里达州因暴力事件对 OpenAI 和 Sam Altman 提起诉讼。据报道，案件部分涉及去年佛罗里达州立大学的一起枪击案，以及 ChatGPT 被指在事件中扮演的角色。",
+          "why_it_matters_zh": "这一行业动态见于 2 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "bb1ea0ed9175",
@@ -3133,7 +3203,11 @@
               "published_at": "2026-06-01T21:14:47+00:00"
             }
           ],
-          "route": "/hot/2026-06-02/topic/hackers-simply-asked-meta-ai-to-give-them-access-to-high-profile-instagram-accounts-it-worked/"
+          "route": "/hot/2026-06-02/topic/hackers-simply-asked-meta-ai-to-give-them-access-to-high-profile-instagram-accounts-it-worked/",
+          "headline_zh": "黑客只是要求 Meta AI 授予他们知名 Instagram 账号的访问权限，竟然成功了",
+          "summary_short_zh": "<p><strong><a href=\" 只是要求 Meta AI 授予他们知名 Instagram 账号的访问权限。",
+          "why_it_matters_zh": "这条其他类资讯见于 3 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "019f339a0d8b",
@@ -3171,7 +3245,11 @@
               "published_at": "Mon, 01 Jun 2026 12:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-06-02/topic/building-the-infrastructure-for-the-intelligence-age-in-michigan/"
+          "route": "/hot/2026-06-02/topic/building-the-infrastructure-for-the-intelligence-age-in-michigan/",
+          "headline_zh": "在密歇根州建设智能时代的基础设施",
+          "summary_short_zh": "OpenAI 在密歇根州开工建设 1 吉瓦数据中心项目。该项目属于 Stargate 计划，旨在建设 AI 基础设施，让更多人用上 AI、创造就业并支持当地社区。",
+          "why_it_matters_zh": "这一行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "1087a82f1dd4",
@@ -3209,7 +3287,11 @@
               "published_at": "Mon, 01 Jun 2026 17:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-06-02/topic/our-views-on-ai-policy-and-political-advocacy/"
+          "route": "/hot/2026-06-02/topic/our-views-on-ai-policy-and-political-advocacy/",
+          "headline_zh": "我们对 AI 政策和政治倡导的看法",
+          "summary_short_zh": "我们在 AI 政策和政治倡导方面的做法：坚持透明，支持审慎监管和 AI 安全，并明确任何外部政治团体都不代表公司发声。",
+          "why_it_matters_zh": "这一行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -3253,7 +3335,11 @@
               "published_at": "Tue, 02 Jun 2026 02:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-06-02/topic/codex-is-becoming-a-productivity-tool-for-everyone/"
+          "route": "/hot/2026-06-02/topic/codex-is-becoming-a-productivity-tool-for-everyone/",
+          "headline_zh": "Codex 正成为面向所有人的生产力工具",
+          "summary_short_zh": "《知识工作的下一个时代》报告探讨了 Codex 如何通过 AI 驱动的研究、数据分析、工作流自动化和内容创作重塑生产力。",
+          "why_it_matters_zh": "这一工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "0684f681d416",
@@ -3300,7 +3386,11 @@
               "published_at": "Tue, 02 Jun 2026 03:15:52 +0000"
             }
           ],
-          "route": "/hot/2026-06-02/topic/qwen3-7-plus/"
+          "route": "/hot/2026-06-02/topic/qwen3-7-plus/",
+          "headline_zh": "Qwen3.7-Plus上线！多模态智能体新基座，一键复刻桌面端专业软件",
+          "summary_short_zh": "Qwen3.7-Plus已上线阿里云百炼",
+          "why_it_matters_zh": "这一工具动态见于 2 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "e15118783b27",
@@ -3338,7 +3428,11 @@
               "published_at": "2026-05-29T09:13:26Z"
             }
           ],
-          "route": "/hot/2026-06-02/topic/jdevalk-specification-website/"
+          "route": "/hot/2026-06-02/topic/jdevalk-specification-website/",
+          "headline_zh": "jdevalk/specification.website",
+          "summary_short_zh": "网站规范：涵盖 HTML、无障碍、安全、SEO 和智能体适配。不依赖特定平台，附参考来源，采用 MIT 许可证。",
+          "why_it_matters_zh": "这一工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "d2159fe9e162",
@@ -3376,7 +3470,11 @@
               "published_at": "2026-06-02T04:13:36+00:00"
             }
           ],
-          "route": "/hot/2026-06-02/topic/pasted-file-editor/"
+          "route": "/hot/2026-06-02/topic/pasted-file-editor/",
+          "headline_zh": "Pasted File Editor",
+          "summary_short_zh": "Simon Willison 介绍了一款名为 Pasted File Editor 的工具。文章讨论了如何用它处理粘贴的大段文本，并提及 Claude 相关工作流程。",
+          "why_it_matters_zh": "这一工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     }
@@ -3422,7 +3520,11 @@
               "published_at": "2026-06-02T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-02/topic/6-min-read-co-invest-lets-you-invest-using-claude-or-chatgpt/"
+          "route": "/hot/2026-06-02/topic/6-min-read-co-invest-lets-you-invest-using-claude-or-chatgpt/",
+          "headline_zh": "阅读需 6 分钟：Co-Invest 让你用 Claude 或 ChatGPT 投资",
+          "summary_short_zh": "一则标题称，Co-Invest 允许用户通过 Claude 或 ChatGPT 投资。除此之外，所提供的条目未透露更多运作或上线细节。",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "2d68e87a5784",
@@ -3460,7 +3562,11 @@
               "published_at": "2026-06-01T10:39:03-04:00"
             }
           ],
-          "route": "/hot/2026-06-02/topic/microsoft-to-unveil-new-ai-models-and-windows-improvements-at-build/"
+          "route": "/hot/2026-06-02/topic/microsoft-to-unveil-new-ai-models-and-windows-improvements-at-build/",
+          "headline_zh": "微软将在 Build 大会上展示新 AI 模型及 Windows 改进",
+          "summary_short_zh": "微软本周将前往旧金山，试图借 Build 大会重新赢得开发者的支持。从微软还将这场大会称为“专业开发者大会”时起，我就一直参加，记忆中从未有过如此关键的时刻。",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "7181d000b348",
@@ -3498,7 +3604,11 @@
               "published_at": "Mon, 01 Jun 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-06-02/topic/minimax-m3-coding-agentic-frontier-1m-context-multimodal/"
+          "route": "/hot/2026-06-02/topic/minimax-m3-coding-agentic-frontier-1m-context-multimodal/",
+          "headline_zh": "MiniMax M3：面向编程与智能体的前沿模型，百万 token 上下文，多模态",
+          "summary_short_zh": "社区消息称，MiniMax M3 已公布，定位为开放权重的前沿模型。据介绍，它专注于编程和智能体应用，支持原生多模态，拥有 100 万 token 的上下文窗口。",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "3e79148eee46",
@@ -3536,7 +3646,11 @@
               "published_at": "Mon, 01 Jun 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-06-02/topic/nemotron-3-ultra-reception/"
+          "route": "/hot/2026-06-02/topic/nemotron-3-ultra-reception/",
+          "headline_zh": "Nemotron 3 Ultra 的反响",
+          "summary_short_zh": "对于刚发布的开放模型而言，社区对 Nemotron 3 Ultra 的反响格外强烈。发帖者着重提到了它的能力和推理服务表现，有人称它已在部分公开评测中位居榜首，在某些配置下的推理速度可能达到每秒 300 token 以上，远快于大型……",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -3580,7 +3694,10 @@
               "published_at": "2026-06-02T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-02/topic/seedance-makes-a-splash-nvidia-s-ai-guided-chip-designs-helping-robots-not-forget/"
+          "route": "/hot/2026-06-02/topic/seedance-makes-a-splash-nvidia-s-ai-guided-chip-designs-helping-robots-not-forget/",
+          "headline_zh": "Seedance 引发轰动，英伟达用 AI 辅助芯片设计，帮助机器人避免遗忘",
+          "why_it_matters_zh": "这一行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "53a4c57fe0fa",
@@ -3618,7 +3735,11 @@
               "published_at": "Mon, 01 Jun 2026 22:18:09 +0000"
             }
           ],
-          "route": "/hot/2026-06-02/topic/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/"
+          "route": "/hot/2026-06-02/topic/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/",
+          "headline_zh": "AI 居然这么贵？GitHub Copilot 用户回应新的按量计费方案。",
+          "summary_short_zh": "据 Ars Technica 报道，GitHub Copilot 的新按量计费方案引发用户反响。一些用户称，他们仅用一天就耗尽了整个月的 AI 额度。",
+          "why_it_matters_zh": "这一行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "c72fd2cc4f43",
@@ -3656,7 +3777,10 @@
               "published_at": "2026-06-02T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-02/topic/gemini-flash-gets-pricey-ai-act-delays-agents-drive-online-traffic/"
+          "route": "/hot/2026-06-02/topic/gemini-flash-gets-pricey-ai-act-delays-agents-drive-online-traffic/",
+          "headline_zh": "Gemini Flash 涨价，《人工智能法案》延期，智能体带动网络流量",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "caea64c53f71",
@@ -3694,7 +3818,10 @@
               "published_at": "2026-06-02T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-02/topic/import-ai-459-ai-oversight-is-difficult-scaling-laws-for-protein-folding-models-and-pricing-the-extinction-risk-of-ai-systems/"
+          "route": "/hot/2026-06-02/topic/import-ai-459-ai-oversight-is-difficult-scaling-laws-for-protein-folding-models-and-pricing-the-extinction-risk-of-ai-systems/",
+          "headline_zh": "Import AI 第 459 期：监督 AI 很难；蛋白质折叠模型的缩放定律；为 AI 系统带来的灭绝风险定价",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }

@@ -1644,7 +1644,16 @@
           "published_at": "2026-04-13T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-04-13/topic/bytedance-ships-dola-seed-2-0-preview-and-seed-full-duplex-speech-llm/"
+      "route": "/hot/2026-04-13/topic/bytedance-ships-dola-seed-2-0-preview-and-seed-full-duplex-speech-llm/",
+      "headline_zh": "字节跳动发布 Dola-Seed-2.0-Preview 和 Seed Full-Duplex Speech LLM",
+      "summary_short_zh": "字节跳动 Seed 正式推出 Seed 2.0。这是该公司基础模型产品线的一次重大发布。",
+      "why_it_matters_zh": "字节跳动正释放出持续投入前沿语言模型和原生语音交互界面的信号，这对关注西方模型厂商有力竞争对手的团队很重要。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "字节跳动 Seed 在 Arena 上发布了 Dola-Seed-2.0-Preview，为外部评测者提供了可实际评测的预览模型，而不只是一则预告。",
+        "该公司还推出了 Seed Full-Duplex Speech LLM，主打专注倾听、干扰抑制和更自然的实时交互。",
+        "字节跳动同步启动了 2027 届基础模型校园招聘，表明公司在发布模型的同时，也在加大人才投入。"
+      ]
     },
     {
       "topic_id": "26a70ff23054",
@@ -1694,7 +1703,14 @@
           "published_at": "2026-04-13T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-04-13/topic/trump-officials-may-be-encouraging-banks-to-test-anthropic-s-mythos-model/"
+      "route": "/hot/2026-04-13/topic/trump-officials-may-be-encouraging-banks-to-test-anthropic-s-mythos-model/",
+      "headline_zh": "特朗普政府官员可能正鼓励银行测试 Anthropic 的 Mythos 模型",
+      "summary_short_zh": "据 TechCrunch 报道，特朗普政府官员可能正鼓励银行测试 Anthropic 的 Mythos 模型。报道指出，美国国防部近期刚将 Anthropic 列为供应链风险。",
+      "why_it_matters_zh": "这项产品发布消息见于 3 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "这则报道尤其令人意外，因为美国国防部最近才将 Anthropic 列为供应链风险。"
+      ]
     },
     {
       "topic_id": "d9b9d6b814f9",
@@ -1736,7 +1752,16 @@
           "published_at": "2026-04-13T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-04-13/topic/large-language-models-generate-harmful-content-using-a-distinct-unified-mechanism-probes-alignment-failure-modes/"
+      "route": "/hot/2026-04-13/topic/large-language-models-generate-harmful-content-using-a-distinct-unified-mechanism-probes-alignment-failure-modes/",
+      "headline_zh": "《大语言模型通过独特且统一的机制生成有害内容》探究对齐失效模式",
+      "summary_short_zh": "大语言模型（LLM）通过对齐训练避免有害行为，但由此建立的防护机制仍然脆弱：越狱攻击经常能绕过防护，而在狭窄领域进行微调，也可能诱发泛化至广泛场景的“涌现性失对齐”。",
+      "why_it_matters_zh": "这项研究可能影响安全研发规划：抵御越狱攻击和减少有害输出，或许需要针对共同的内部机制，而非逐一修补具体行为。",
+      "category_zh": "研究",
+      "key_takeaways_zh": [
+        "论文认为，经过对齐的 LLM 生成有害内容，可能源于一种独特且统一的机制，而非多种互不相关的失效模式。",
+        "其研究视角直指行业长期面临的难题，包括越狱攻击，以及在狭窄领域微调后出现的涌现性失对齐。",
+        "这对模型开发者的策略选择具有启示：机制可解释性研究和表征层面的干预，可能比增加表层拒答训练更重要。"
+      ]
     },
     {
       "topic_id": "7150f3011516",
@@ -1778,7 +1803,16 @@
           "published_at": "2026-04-13T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-04-13/topic/lmgendrive-paper-targets-end-to-end-driving-with-multimodal-understanding-and-world-modeling/"
+      "route": "/hot/2026-04-13/topic/lmgendrive-paper-targets-end-to-end-driving-with-multimodal-understanding-and-world-modeling/",
+      "headline_zh": "LMGenDrive 论文聚焦端到端驾驶，结合多模态理解与世界建模",
+      "summary_short_zh": "近年来，自动驾驶取得了显著进展，但在长尾和开放世界场景中的泛化能力仍是大规模部署的主要瓶颈。",
+      "why_it_matters_zh": "自动驾驶领域投资者和汽车研发负责人应关注：基于 LLM 和 VLM 的世界模型，能否在长尾驾驶场景的泛化能力上超越传统端到端技术栈。",
+      "category_zh": "研究",
+      "key_takeaways_zh": [
+        "LMGenDrive 致力于衔接多模态理解与生成式世界建模，以更稳健地应对开放世界和长尾驾驶场景。",
+        "论文明确针对自动驾驶部署的一个核心瓶颈：模型在训练分布之外的泛化能力较差。",
+        "如果得到验证，该方法将为在实际部署的驾驶系统中直接集成语言与视觉推理模块提供更有力的依据，而不只是将其用作离线辅助工具。"
+      ]
     },
     {
       "topic_id": "dd73aa531d4d",
@@ -1816,7 +1850,11 @@
           "published_at": "2026-04-13T01:11:13+00:00"
         }
       ],
-      "route": "/hot/2026-04-13/topic/darwin-27b-opus-surpassing-the-foundation-model-without-training/"
+      "route": "/hot/2026-04-13/topic/darwin-27b-opus-surpassing-the-foundation-model-without-training/",
+      "headline_zh": "“Darwin-27B-Opus：无需训练即可超越基础模型”",
+      "summary_short_zh": "Hugging Face 重点介绍了 Darwin-27B-Opus，称该模型无需额外训练即可超越其基础模型。这则消息似乎介绍了一项通过常规重新训练以外的方法提升模型性能的研究成果。",
+      "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+      "category_zh": "研究"
     }
   ],
   "category_sections": [
@@ -1860,7 +1898,11 @@
               "published_at": "2026-04-13T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-13/topic/meta-superintelligence-labs-ships-its-first-model/"
+          "route": "/hot/2026-04-13/topic/meta-superintelligence-labs-ships-its-first-model/",
+          "headline_zh": "Meta Superintelligence Labs 发布首款模型",
+          "summary_short_zh": "这则消息称，Meta Superintelligence Labs 发布了首款模型，并将此次发布视为 Meta 超级智能研发计划首次推出模型。",
+          "why_it_matters_zh": "这则产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -1904,7 +1946,11 @@
               "published_at": "Mon, 13 Apr 2026 05:21:46 +0000"
             }
           ],
-          "route": "/hot/2026-04-13/topic/agent/"
+          "route": "/hot/2026-04-13/topic/agent/",
+          "headline_zh": "有人把巴菲特芒格炼化成Agent，然后开源了…",
+          "summary_short_zh": "让小散有了「大师模型」。",
+          "why_it_matters_zh": "这则其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "3ddfeba9912c",
@@ -1942,7 +1988,11 @@
               "published_at": "Mon, 13 Apr 2026 05:41:15 +0000"
             }
           ],
-          "route": "/hot/2026-04-13/topic/claude-mythos-seed/"
+          "route": "/hot/2026-04-13/topic/claude-mythos-seed/",
+          "headline_zh": "Claude强到不敢发的Mythos，被质疑用了字节Seed技术",
+          "summary_short_zh": "概念来自字节Seed团队与多个高校合作的一篇论文，Yoshua Bengio也参与其中",
+          "why_it_matters_zh": "这则其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "da030b6674b0",
@@ -1980,7 +2030,11 @@
               "published_at": "Sun, 12 Apr 2026 14:02:36 +0000"
             }
           ],
-          "route": "/hot/2026-04-13/topic/html-in-canvas-ai/"
+          "route": "/hot/2026-04-13/topic/html-in-canvas-ai/",
+          "headline_zh": "HTML-in-Canvas引爆前端！AI时代互联网视觉效果完全不一样了",
+          "summary_short_zh": "HTML也能跑Doom游戏了？？",
+          "why_it_matters_zh": "这则其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "96a8a2c3b904",
@@ -2018,7 +2072,11 @@
               "published_at": "2026-04-13T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-13/topic/artificial-intelligence-made-simple/"
+          "route": "/hot/2026-04-13/topic/artificial-intelligence-made-simple/",
+          "headline_zh": "轻松读懂人工智能",
+          "summary_short_zh": "Last Week in AI 发布了一篇题为《轻松读懂人工智能》的科普文章，旨在帮助普通读者更容易地理解 AI 概念。",
+          "why_it_matters_zh": "这篇教程见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "039b88c91164",
@@ -2056,7 +2114,11 @@
               "published_at": "Sun, 12 Apr 2026 15:07:08 +0000"
             }
           ],
-          "route": "/hot/2026-04-13/topic/from-llms-to-hallucinations-here-s-a-simple-guide-to-common-ai-terms/"
+          "route": "/hot/2026-04-13/topic/from-llms-to-hallucinations-here-s-a-simple-guide-to-common-ai-terms/",
+          "headline_zh": "从大语言模型到幻觉：常见 AI 术语简明指南",
+          "summary_short_zh": "AI 的兴起带来了大量新术语和行话。这份术语表解释了你可能遇到的一些关键词汇和短语。",
+          "why_it_matters_zh": "这篇教程见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -2100,7 +2162,11 @@
               "published_at": "2026-04-13T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-04-13/topic/nexus-same-pretraining-loss-better-downstream-generalization-via-common-minima/"
+          "route": "/hot/2026-04-13/topic/nexus-same-pretraining-loss-better-downstream-generalization-via-common-minima/",
+          "headline_zh": "Nexus：借助共同极小点，在相同预训练损失下提升下游泛化能力",
+          "summary_short_zh": "预训练是大语言模型（LLM）的基石，耗费绝大部分计算预算和数据，是模型能力的主要来源。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "cadf7ae65746",
@@ -2138,7 +2204,11 @@
               "published_at": "2026-04-13T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-04-13/topic/physics-guided-surrogate-learning-enables-zero-shot-control-of-turbulent-wings/"
+          "route": "/hot/2026-04-13/topic/physics-guided-surrogate-learning-enables-zero-shot-control-of-turbulent-wings/",
+          "headline_zh": "物理引导的代理模型学习实现机翼湍流的零样本控制",
+          "summary_short_zh": "气动表面的湍流边界层是飞机阻力的主要来源之一，但多尺度动力学和空间变异性使其难以控制，在逆压梯度下尤为如此。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "169dd3e3acfb",
@@ -2176,7 +2246,11 @@
               "published_at": "2026-04-13T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-04-13/topic/ramp-hybrid-drl-for-online-learning-of-numeric-action-models/"
+          "route": "/hot/2026-04-13/topic/ramp-hybrid-drl-for-online-learning-of-numeric-action-models/",
+          "headline_zh": "RAMP：基于混合深度强化学习的数值动作模型在线学习",
+          "summary_short_zh": "自动规划算法需要动作模型来描述每个动作的前置条件和效果，但这类模型往往难以获取。从观测中学习动作模型是可行的，但现有针对数值域的算法均为离线算法，需要专家轨迹作为输入。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "5b91c80eba7f",
@@ -2214,7 +2288,11 @@
               "published_at": "2026-04-13T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-04-13/topic/re-mask-and-redirect-exploiting-denoising-irreversibility-in-diffusion-language-models/"
+          "route": "/hot/2026-04-13/topic/re-mask-and-redirect-exploiting-denoising-irreversibility-in-diffusion-language-models/",
+          "headline_zh": "重新掩码与重定向：利用扩散语言模型的去噪不可逆性",
+          "summary_short_zh": "扩散语言模型（dLLM）通过对掩码词元序列迭代去噪来生成文本。我们的研究表明，其安全对齐依赖于一个脆弱的假设：去噪调度具有单调性，且已确定的词元永远不会被重新评估。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "68fb9f0fc806",
@@ -2252,7 +2330,11 @@
               "published_at": "2026-04-13T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-04-13/topic/safeadapt-provably-safe-policy-updates-in-deep-reinforcement-learning/"
+          "route": "/hot/2026-04-13/topic/safeadapt-provably-safe-policy-updates-in-deep-reinforcement-learning/",
+          "headline_zh": "SafeAdapt：深度强化学习中可证明安全的策略更新",
+          "summary_short_zh": "安全性保证是在安全关键任务中部署强化学习（RL）智能体的前提。部署环境的动态特性往往并不平稳，性能目标也可能改变，因此需要更新已学得的策略。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         }
       ]
     }
@@ -2298,7 +2380,10 @@
               "published_at": "2026-04-13T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-13/topic/perplexity-s-agent-pivot-is-on-the-money/"
+          "route": "/hot/2026-04-13/topic/perplexity-s-agent-pivot-is-on-the-money/",
+          "headline_zh": "Perplexity 转向智能体，这步走对了",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "3f6a7c2a98b5",
@@ -2342,7 +2427,11 @@
               "published_at": "2026-04-13T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-13/topic/attacks-on-data-centers-qwen3-5-in-all-sizes-deepseek-s-huawei-play-apple-s-multimodal-tokenizer/"
+          "route": "/hot/2026-04-13/topic/attacks-on-data-centers-qwen3-5-in-all-sizes-deepseek-s-huawei-play-apple-s-multimodal-tokenizer/",
+          "headline_zh": "数据中心遭袭、Qwen3.5 多规模版本、DeepSeek 的华为布局、苹果的多模态分词器",
+          "summary_short_zh": "The Batch 发布了一篇综述，涵盖数据中心遭袭、Qwen3.5 多种规模模型的发布、DeepSeek 的华为相关战略，以及苹果的多模态分词器研究。文章由编辑整理，汇总了多项 AI 行业和研究进展。",
+          "why_it_matters_zh": "这篇综述见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "3b8d6edee1f7",
@@ -2388,7 +2477,11 @@
               "published_at": "Sun, 12 Apr 2026 14:11:53 +0000"
             }
           ],
-          "route": "/hot/2026-04-13/topic/claude-code/"
+          "route": "/hot/2026-04-13/topic/claude-code/",
+          "headline_zh": "「Claude Code之父」其实是野路子来的……",
+          "summary_short_zh": "量子位发表了一篇中文评论文章，介绍被称为“Claude Code 之父”的人物。该文似乎是一篇人物特写或评论，而非新产品发布或公司公告。",
+          "why_it_matters_zh": "这篇综述见于 2 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -2432,7 +2525,11 @@
               "published_at": "2026-04-13T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-04-13/topic/tensorhub-scalable-and-elastic-weight-transfer-for-llm-rl-training/"
+          "route": "/hot/2026-04-13/topic/tensorhub-scalable-and-elastic-weight-transfer-for-llm-rl-training/",
+          "headline_zh": "TensorHub：面向大语言模型强化学习训练的可扩展弹性权重传输",
+          "summary_short_zh": "现代大语言模型（LLM）的强化学习（RL）工作负载需要高效的权重传输系统，以支持在异构计算资源上扩展训练规模。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "e1af74339677",
@@ -2470,7 +2567,11 @@
               "published_at": "2026-04-13T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-04-13/topic/truncated-rectified-flow-policy-for-reinforcement-learning-with-one-step-sampling/"
+          "route": "/hot/2026-04-13/topic/truncated-rectified-flow-policy-for-reinforcement-learning-with-one-step-sampling/",
+          "headline_zh": "支持单步采样的强化学习截断修正流策略",
+          "summary_short_zh": "最大熵强化学习（MaxEnt RL）已成为序贯决策的标准框架，但其常用的高斯策略参数化形式本质上是单峰的，限制了对复杂多峰动作分布的建模能力。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "f3e90a61065d",
@@ -2514,7 +2615,11 @@
               "published_at": "2026-04-13T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-13/topic/offensive-cyber-task-horizons-data-and-analysis-lyptus-research-github/"
+          "route": "/hot/2026-04-13/topic/offensive-cyber-task-horizons-data-and-analysis-lyptus-research-github/",
+          "headline_zh": "网络进攻任务的时间跨度：数据与分析（Lyptus Research，GitHub）",
+          "summary_short_zh": "Lyptus Research 发布了关于网络进攻任务时间跨度的数据与分析，相关资料托管在 GitHub 上。该研究似乎旨在量化各类进攻性网络安全任务的耗时或其随规模变化的规律。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "77945d52efa1",
@@ -2552,7 +2657,11 @@
               "published_at": "2026-04-13T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-04-13/topic/dynamic-sparsity-in-tree-structured-feed-forward-layers-at-scale/"
+          "route": "/hot/2026-04-13/topic/dynamic-sparsity-in-tree-structured-feed-forward-layers-at-scale/",
+          "headline_zh": "大规模树结构前馈层中的动态稀疏性",
+          "summary_short_zh": "论文《大规模树结构前馈层中的动态稀疏性》正受到关注。该论文研究可扩展的树结构前馈层，用于在无需单独路由器的情况下实现硬条件计算。",
+          "why_it_matters_zh": "有 1 个独立来源提及了这篇研究论文。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "e80dc9d850a6",
@@ -2590,7 +2699,11 @@
               "published_at": "2026-04-13T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-04-13/topic/generalization-and-scaling-laws-for-mixture-of-experts-transformers/"
+          "route": "/hot/2026-04-13/topic/generalization-and-scaling-laws-for-mixture-of-experts-transformers/",
+          "headline_zh": "混合专家 Transformer 的泛化与缩放定律",
+          "summary_short_zh": "一篇题为《混合专家 Transformer 的泛化与缩放定律》的论文正受到关注。该论文推导了泛化界和缩放定律，区分了每个输入激活的模型容量与路由的组合复杂性。",
+          "why_it_matters_zh": "有 1 个独立来源提及了这篇研究论文。",
+          "category_zh": "研究"
         }
       ]
     }

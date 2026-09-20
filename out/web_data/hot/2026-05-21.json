@@ -1858,7 +1858,14 @@
           "published_at": "Wed, 20 May 2026 17:10:17 +0000"
         }
       ],
-      "route": "/hot/2026-05-21/topic/build-real-time-voice-applications-with-amazon-sagemaker-ai-and-vllm/"
+      "route": "/hot/2026-05-21/topic/build-real-time-voice-applications-with-amazon-sagemaker-ai-and-vllm/",
+      "headline_zh": "使用 Amazon SageMaker AI 和 vLLM 构建实时语音应用",
+      "summary_short_zh": "语音智能体、实时字幕、联络中心分析和无障碍工具都依赖实时语音转文字，应用通过同一条持久连接，以流式方式发送音频并同时接收转写结果。",
+      "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "语音智能体、实时字幕、联络中心分析和无障碍工具都依赖实时语音转文字，让应用在流式发送音频的同时接收转写结果..."
+      ]
     },
     {
       "topic_id": "255f592e3097",
@@ -1898,7 +1905,14 @@
           "published_at": "Wed, 20 May 2026 19:30:00 +0000"
         }
       ],
-      "route": "/hot/2026-05-21/topic/100-things-we-announced-at-i-o-2026/"
+      "route": "/hot/2026-05-21/topic/100-things-we-announced-at-i-o-2026/",
+      "headline_zh": "我们在 I/O 2026 上公布的 100 项内容",
+      "summary_short_zh": "一张印有“预备，就位，I/O”字样和彩色 Gemini 标志的图片",
+      "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "一张印有“预备，就位，I/O”字样和彩色 Gemini 标志的图片"
+      ]
     },
     {
       "topic_id": "029f3cb563ee",
@@ -1938,7 +1952,14 @@
           "published_at": "Wed, 20 May 2026 20:40:00 +0000"
         }
       ],
-      "route": "/hot/2026-05-21/topic/we-re-announcing-new-community-investments-in-missouri/"
+      "route": "/hot/2026-05-21/topic/we-re-announcing-new-community-investments-in-missouri/",
+      "headline_zh": "我们宣布在密苏里州开展新的社区投资。",
+      "summary_short_zh": "<img src=\" />我们正助力密苏里州培养新一代人才，并投资能源项目",
+      "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MissouriSocial.max-600x600.format-webp.webp\" />我们正助力密苏里州培养新一代人才，并投资..."
+      ]
     },
     {
       "topic_id": "cecc365503ce",
@@ -1978,7 +1999,14 @@
           "published_at": "Wed, 20 May 2026 23:59:57 +0000"
         }
       ],
-      "route": "/hot/2026-05-21/topic/announcing-openai-compatible-api-support-for-amazon-sagemaker-ai-endpoints/"
+      "route": "/hot/2026-05-21/topic/announcing-openai-compatible-api-support-for-amazon-sagemaker-ai-endpoints/",
+      "headline_zh": "Amazon SageMaker AI 端点现已支持兼容 OpenAI 的 API",
+      "summary_short_zh": "今天，Amazon SageMaker AI 为实时推理端点推出兼容 OpenAI 的 API 支持。如果您使用 OpenAI SDK、LangChain 或 Strands Agents，现在只需更改端点 URL，即可调用 SageMaker AI 上的模型。",
+      "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "今天，Amazon SageMaker AI 为实时推理端点推出兼容 OpenAI 的 API 支持。如果您使用 OpenAI SDK、LangChain 或 Strands Agents，现在只需更改端点 URL，即可在 SageMaker..."
+      ]
     },
     {
       "topic_id": "e730b51f724d",
@@ -2028,7 +2056,15 @@
           "published_at": "2026-05-16T13:55:02Z"
         }
       ],
-      "route": "/hot/2026-05-21/topic/deepakness-google-ai-search-optimization/"
+      "route": "/hot/2026-05-21/topic/deepakness-google-ai-search-optimization/",
+      "headline_zh": "deepakness/google-ai-search-optimization",
+      "summary_short_zh": "基于 Google 搜索指南的非官方智能体技能，涵盖 AI Overviews、AI Mode 和 SEO 审计",
+      "why_it_matters_zh": "2 个独立来源提及了这款工具。",
+      "category_zh": "工具",
+      "key_takeaways_zh": [
+        "Google 搜索的 AI 化显然也延伸到了广告。如今，当你在搜索中查找产品时，Google 的 Gemini AI 模型会展示相关商品，并生成“定制解说”...",
+        "基于 Google 搜索指南的非官方智能体技能，涵盖 AI Overviews、AI Mode 和 SEO 审计。"
+      ]
     }
   ],
   "category_sections": [
@@ -2072,7 +2108,11 @@
               "published_at": "2026-05-20T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-21/topic/announcing-strategic-mous-with-indra-group-and-multiverse-computing/"
+          "route": "/hot/2026-05-21/topic/announcing-strategic-mous-with-indra-group-and-multiverse-computing/",
+          "headline_zh": "宣布与 Indra Group 和 Multiverse Computing 签署战略谅解备忘录",
+          "summary_short_zh": "这些谅解备忘录将推动 AI 创新，同时应对主权、安全和可及性方面的关键问题",
+          "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "c3ccfd18fe81",
@@ -2110,7 +2150,11 @@
               "published_at": "2026-05-20T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-21/topic/introducing-command-a-cohere/"
+          "route": "/hot/2026-05-21/topic/introducing-command-a-cohere/",
+          "headline_zh": "推出 Command A+ | Cohere",
+          "summary_short_zh": "Cohere 迄今速度最快、能力最强的语言模型：一款以最高效率运行高性能企业智能体的开源模型",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "ab9eae63298f",
@@ -2148,7 +2192,11 @@
               "published_at": "Wed, 20 May 2026 00:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-05-21/topic/how-ramp-engineers-accelerate-code-review-with-codex/"
+          "route": "/hot/2026-05-21/topic/how-ramp-engineers-accelerate-code-review-with-codex/",
+          "headline_zh": "Ramp 工程师如何利用 Codex 加速代码审查",
+          "summary_short_zh": "Ramp 工程师如何使用搭载 GPT-5.5 的 Codex 审查代码并交付改进，将获得实质性反馈的时间从数小时缩短至数分钟",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "adada6d4e125",
@@ -2186,7 +2234,11 @@
               "published_at": "Wed, 20 May 2026 00:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-05-21/topic/an-openai-model-has-disproved-a-central-conjecture-in-discrete-geometry/"
+          "route": "/hot/2026-05-21/topic/an-openai-model-has-disproved-a-central-conjecture-in-discrete-geometry/",
+          "headline_zh": "OpenAI 的一个模型推翻了离散几何中的一项核心猜想",
+          "summary_short_zh": "OpenAI 的一个模型解决了已有 80 年历史的单位距离问题，推翻了离散几何中的一项重要猜想，标志着 AI 驱动的数学研究取得里程碑式进展",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "9c876a58d4f1",
@@ -2224,7 +2276,11 @@
               "published_at": "Wed, 20 May 2026 00:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-05-21/topic/the-next-phase-of-openai-s-education-for-countries/"
+          "route": "/hot/2026-05-21/topic/the-next-phase-of-openai-s-education-for-countries/",
+          "headline_zh": "OpenAI 的 Education for Countries 计划迈入下一阶段",
+          "summary_short_zh": "OpenAI 推进 Education for Countries 计划，通过新的合作、教师培训及相关工具，扩大 AI 在学校中的应用，提升全球学习成效",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2268,7 +2324,11 @@
               "published_at": "Thu, 21 May 2026 00:21:21 +0000"
             }
           ],
-          "route": "/hot/2026-05-21/topic/anthropic-says-it-s-about-to-have-its-first-profitable-quarter/"
+          "route": "/hot/2026-05-21/topic/anthropic-says-it-s-about-to-have-its-first-profitable-quarter/",
+          "headline_zh": "Anthropic 称即将迎来首个盈利季度",
+          "summary_short_zh": "Anthropic 已告知投资者，其第二季度营收将增长一倍以上，达到约 109 亿美元",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次融资。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "579479da3754",
@@ -2306,7 +2366,11 @@
               "published_at": "Thu, 21 May 2026 00:28:31 +0000"
             }
           ],
-          "route": "/hot/2026-05-21/topic/jensen-huang-says-he-s-found-a-brand-new-200b-market-for-nvidia/"
+          "route": "/hot/2026-05-21/topic/jensen-huang-says-he-s-found-a-brand-new-200b-market-for-nvidia/",
+          "headline_zh": "黄仁勋称，他为英伟达找到了一个规模达 2000 亿美元的“全新”市场",
+          "summary_short_zh": "英伟达 CEO 黄仁勋预测，用于 AI 智能体的 CPU 将成为公司的下一大机遇，市场规模达 2000 亿美元",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次融资。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "a39374e58f6b",
@@ -2344,7 +2408,11 @@
               "published_at": "Wed, 20 May 2026 21:55:49 +0000"
             }
           ],
-          "route": "/hot/2026-05-21/topic/musk-s-xai-is-being-sued-over-its-data-center-generators-now-it-s-buying-2-8b-more/"
+          "route": "/hot/2026-05-21/topic/musk-s-xai-is-being-sued-over-its-data-center-generators-now-it-s-buying-2-8b-more/",
+          "headline_zh": "马斯克旗下 xAI 因数据中心发电机被起诉，如今又要花 28 亿美元加购",
+          "summary_short_zh": "据 SpaceX 的 IPO 申报文件，埃隆·马斯克旗下 xAI 表示，未来三年将购买价值 28 亿美元的天然气涡轮机",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次融资。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "fd26520a051b",
@@ -2382,7 +2450,11 @@
               "published_at": "Wed, 20 May 2026 22:26:08 +0000"
             }
           ],
-          "route": "/hot/2026-05-21/topic/xai-burned-6-4b-last-year-spacex-s-ipo-filing-shows-why-the-spending-is-far-from-over/"
+          "route": "/hot/2026-05-21/topic/xai-burned-6-4b-last-year-spacex-s-ipo-filing-shows-why-the-spending-is-far-from-over/",
+          "headline_zh": "xAI 去年烧掉 64 亿美元，SpaceX 的 IPO 申报文件揭示其烧钱为何远未结束",
+          "summary_short_zh": "SpaceX 的 IPO 申报文件披露，xAI 在 2025 年亏损 64 亿美元，同时计划大规模扩展 Grok。文件首次公开了埃隆·马斯克旗下 AI 业务的财务状况，并透露了其宏大计划的更多细节",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次融资。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -2426,7 +2498,10 @@
               "published_at": "2026-05-21T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-21/topic/seedance-makes-a-splash-nvidia-s-ai-guided-chip-designs-helping-robots-not-forget/"
+          "route": "/hot/2026-05-21/topic/seedance-makes-a-splash-nvidia-s-ai-guided-chip-designs-helping-robots-not-forget/",
+          "headline_zh": "Seedance 引发轰动，英伟达用 AI 辅助芯片设计，帮助机器人避免遗忘",
+          "why_it_matters_zh": "这则行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "0b126de7610f",
@@ -2464,7 +2539,11 @@
               "published_at": "2026-05-21T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-21/topic/autonomous-ai-research-for-nanogpt-speedrun-prime-intellect/"
+          "route": "/hot/2026-05-21/topic/autonomous-ai-research-for-nanogpt-speedrun-prime-intellect/",
+          "headline_zh": "面向 nanogpt 速通挑战的自主 AI 研究（Prime Intellect）",
+          "summary_short_zh": "面向 nanogpt 速通挑战的自主 AI 研究（Prime Intellect",
+          "why_it_matters_zh": "这则其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "335d38283523",
@@ -2502,7 +2581,10 @@
               "published_at": "2026-05-21T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-21/topic/import-ai-457-ai-stuxnet-cursed-muon-optimizer-and-positive-alignment/"
+          "route": "/hot/2026-05-21/topic/import-ai-457-ai-stuxnet-cursed-muon-optimizer-and-positive-alignment/",
+          "headline_zh": "Import AI 第 457 期：AI 版震网病毒、邪门的 Muon 优化器与正向对齐",
+          "why_it_matters_zh": "这则其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "e7918ee7ebd0",
@@ -2540,7 +2622,10 @@
               "published_at": "2026-05-21T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-21/topic/china-thwarts-meta-s-agentic-ambition-u-s-evaluates-upcoming-models-ai-diagnoses-mammograms/"
+          "route": "/hot/2026-05-21/topic/china-thwarts-meta-s-agentic-ambition-u-s-evaluates-upcoming-models-ai-diagnoses-mammograms/",
+          "headline_zh": "中国挫败 Meta 的智能体雄心，美国评估即将发布的模型，AI 利用乳腺 X 线影像进行诊断",
+          "why_it_matters_zh": "这则其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "efbc89a279a4",
@@ -2578,7 +2663,10 @@
               "published_at": "2026-05-21T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-21/topic/meta-pivots-from-open-weights-big-pharma-bets-on-ai-regulatory-patchwork-simulating-human-cohorts/"
+          "route": "/hot/2026-05-21/topic/meta-pivots-from-open-weights-big-pharma-bets-on-ai-regulatory-patchwork-simulating-human-cohorts/",
+          "headline_zh": "Meta 告别开放权重，大型药企押注 AI，监管规则碎片化，模拟人群队列",
+          "why_it_matters_zh": "这则其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -2622,7 +2710,11 @@
               "published_at": "2026-05-21T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-21/topic/aurora-tilde-research-github/"
+          "route": "/hot/2026-05-21/topic/aurora-tilde-research-github/",
+          "headline_zh": "Aurora（Tilde Research，GitHub）",
+          "summary_short_zh": "Aurora（Tilde Research，GitHub",
+          "why_it_matters_zh": "这则工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "cded5e7dddab",
@@ -2660,7 +2752,11 @@
               "published_at": "2026-05-21T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-21/topic/from-the-agents-as-they-carried-out-the-challenges-here-autonomous-speedrunning-experiment-prime-intellect-github/"
+          "route": "/hot/2026-05-21/topic/from-the-agents-as-they-carried-out-the-challenges-here-autonomous-speedrunning-experiment-prime-intellect-github/",
+          "headline_zh": "来自在此执行挑战的智能体（Autonomous Speedrunning Experiment，Prime Intellect，GitHub）",
+          "summary_short_zh": "来自在此执行挑战的智能体（Autonomous Speedrunning Experiment，Prime Intellect，GitHub",
+          "why_it_matters_zh": "这则工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     }
@@ -2706,7 +2802,11 @@
               "published_at": "2026-05-20T12:41:40-04:00"
             }
           ],
-          "route": "/hot/2026-05-21/topic/you-can-now-remix-other-people-s-youtube-shorts-with-ai/"
+          "route": "/hot/2026-05-21/topic/you-can-now-remix-other-people-s-youtube-shorts-with-ai/",
+          "headline_zh": "你现在可以用 AI 二创他人的 YouTube Shorts 视频了",
+          "summary_short_zh": "谷歌宣布推出全新的 YouTube Shorts Remix 功能，用户可以借助 Gemini Omni 改变视频片段的风格，甚至把自己加入他人的视频。现在，点击 YouTube Shorts 视频底部的 Remix 图标，就会看到“重新构想”选项。",
+          "why_it_matters_zh": "这则产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "bcace4ced40f",
@@ -2744,7 +2844,11 @@
               "published_at": "2026-05-20T15:32:17+00:00"
             }
           ],
-          "route": "/hot/2026-05-21/topic/google-i-o-gemini-spark-antigravity/"
+          "route": "/hot/2026-05-21/topic/google-i-o-gemini-spark-antigravity/",
+          "headline_zh": "Google I/O、Gemini Spark、Antigravity",
+          "summary_short_zh": "<p>关于今年的 Google I/O，很难找到太多可写的内容，因为我有个原则：不写自己无法亲自试用的东西，而许多重大发布的内容都还处于“即将推出”的阶段。</p> <p>其实，我更喜欢写已经正式开放使用的产品，因为我曾经",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "2246983d0f70",
@@ -2782,7 +2886,11 @@
               "published_at": "2026-05-19T22:40:25+00:00"
             }
           ],
-          "route": "/hot/2026-05-21/topic/gemini-3-5-flash-more-expensive-but-google-plan-to-use-it-for-everything/"
+          "route": "/hot/2026-05-21/topic/gemini-3-5-flash-more-expensive-but-google-plan-to-use-it-for-everything/",
+          "headline_zh": "Gemini 3.5 Flash：价格更高，但 Google 打算全面采用它",
+          "summary_short_zh": "<p>今天在 Google I/O 上，Google 发布了 <a href=\" Gemini 3.5 Flash</a>。这次省去了 <code>-preview</code> 后缀，直接正式上线，而且 Google 似乎正将它用于旗下众多核心产品：</p> <blockquote> <p>3.5 Flash 今日起可供数十亿",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2826,7 +2934,11 @@
               "published_at": "Thu, 21 May 2026 00:00:00 -0400"
             }
           ],
-          "route": "/hot/2026-05-21/topic/technology-usually-creates-jobs-for-young-skilled-workers-will-ai-do-the-same/"
+          "route": "/hot/2026-05-21/topic/technology-usually-creates-jobs-for-young-skilled-workers-will-ai-do-the-same/",
+          "headline_zh": "技术通常会为年轻且技能娴熟的劳动者创造就业机会。AI 也会如此吗？",
+          "summary_short_zh": "一项关于战后美国的新研究揭示了历史上哪些类型的劳动者从事技术催生的新工作",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "e7b81a4720af",
@@ -2864,7 +2976,10 @@
               "published_at": "2026-05-21T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-21/topic/glm-5-1-thinks-strategically-data-center-revolt-intensifies-when-helpful-llms-turn-unhelpful-humanoid-robots-get-to-work/"
+          "route": "/hot/2026-05-21/topic/glm-5-1-thinks-strategically-data-center-revolt-intensifies-when-helpful-llms-turn-unhelpful-humanoid-robots-get-to-work/",
+          "headline_zh": "GLM 5.1 展现战略思维，反对数据中心的抗议升级，当大语言模型不再乐于助人，人形机器人上岗",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "39529f5ba7f2",
@@ -2902,7 +3017,11 @@
               "published_at": "2026-05-20T23:42:45-04:00"
             }
           ],
-          "route": "/hot/2026-05-21/topic/in-spacex-s-ipo-elon-musk-is-a-risk-factor/"
+          "route": "/hot/2026-05-21/topic/in-spacex-s-ipo-elon-musk-is-a-risk-factor/",
+          "headline_zh": "在 SpaceX 的 IPO 中，埃隆·马斯克是一个风险因素",
+          "summary_short_zh": "SpaceX 的 IPO 来了。这场历史性的公开募股可能让埃隆·马斯克成为全球首位万亿富豪，但它的意义不止于此。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "4d00e7b719a0",
@@ -2940,7 +3059,11 @@
               "published_at": "Thu, 21 May 2026 05:37:24 +0000"
             }
           ],
-          "route": "/hot/2026-05-21/topic/520-400-ai-20-aigc/"
+          "route": "/hot/2026-05-21/topic/520-400-ai-20-aigc/",
+          "headline_zh": "520当天400万AI人，都在量子位听这近20场演讲&对谈｜第四届中国AIGC产业峰会",
+          "summary_short_zh": "核心观点都在这了~",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "fdba76c2b0c0",
@@ -2978,7 +3101,11 @@
               "published_at": "Thu, 21 May 2026 06:46:02 +0000"
             }
           ],
-          "route": "/hot/2026-05-21/topic/ai/"
+          "route": "/hot/2026-05-21/topic/ai/",
+          "headline_zh": "得场景者得AI天下，出行赛道跑出了一家值得关注的数据玩家",
+          "summary_short_zh": "全场景数据、全链条服务助力AI大模型高效迭代",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -3020,7 +3147,11 @@
           "published_at": "Wed, 20 May 2026 16:45:00 +0000"
         }
       ],
-      "route": "/hot/2026-05-21/topic/a-new-experiment-brings-better-group-meetings-to-google-beam/"
+      "route": "/hot/2026-05-21/topic/a-new-experiment-brings-better-group-meetings-to-google-beam/",
+      "headline_zh": "一项新实验为 Google Beam 带来更好的多人会议体验",
+      "summary_short_zh": "一场小组会议，两人在现场，三人通过屏幕参会",
+      "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "5698233fa262",
@@ -3067,7 +3198,11 @@
           "published_at": "2026-05-20T14:40:42Z"
         }
       ],
-      "route": "/hot/2026-05-21/topic/shenli-distributed-system-testing/"
+      "route": "/hot/2026-05-21/topic/shenli-distributed-system-testing/",
+      "headline_zh": "shenli/distributed-system-testing",
+      "summary_short_zh": "用于分布式系统测试的 AI 智能体技能",
+      "why_it_matters_zh": "这条工具资讯见于 2 个独立来源。",
+      "category_zh": "工具"
     }
   ],
   "x_buzz": [

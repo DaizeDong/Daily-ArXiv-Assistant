@@ -1150,7 +1150,16 @@
           "published_at": "2026-05-17T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-05-17/topic/bytedance-seed-launches-seed-2-0-and-dola-seed-2-0-preview/"
+      "route": "/hot/2026-05-17/topic/bytedance-seed-launches-seed-2-0-and-dola-seed-2-0-preview/",
+      "headline_zh": "字节跳动 Seed 发布 Seed 2.0 和 Dola-Seed-2.0-Preview",
+      "summary_short_zh": "字节跳动 Seed 正式发布 Seed 2.0，这是公司模型系列的一次重大更新。",
+      "why_it_matters_zh": "字节跳动释放出持续积极推出前沿模型的信号，值得关注谁能有力挑战美国实验室主导地位的采购方和投资者留意。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "字节跳动 Seed 正式推出 Seed 2.0，这是一次旗舰模型发布，而非小幅改进的演示或基准测试预告。",
+        "公司还在 Arena 发布了 Dola-Seed-2.0-Preview，让市场能够立即通过公开渠道评测这一新模型系列。",
+        "字节跳动还同步推出 Seed Full-Duplex Speech LLM，强调专注倾听和干扰抑制能力，以此打造实时语音智能体的差异化优势。"
+      ]
     },
     {
       "topic_id": "28572a067086",
@@ -1192,7 +1201,16 @@
           "published_at": "2026-05-14T19:28:43Z"
         }
       ],
-      "route": "/hot/2026-05-17/topic/yetone-native-feel-skill-packages-raycast-inspired-desktop-app-patterns-for-agents/"
+      "route": "/hot/2026-05-17/topic/yetone-native-feel-skill-packages-raycast-inspired-desktop-app-patterns-for-agents/",
+      "headline_zh": "yetone/native-feel-skill 将借鉴 Raycast 的桌面应用设计模式封装为智能体技能",
+      "summary_short_zh": "一项用于设计具备原生体验的跨平台桌面应用的 Agent Skill，提炼自 Raycast 2.0 深度解析和对 Raycast Beta.app 的逆向工程。包含八项架构原则、四层架构、WebKit/WebView2 实战指南及 75 项发布检查清单。",
+      "why_it_matters_zh": "这为开发 AI 原生桌面软件的产品团队提供了参考，帮助他们在打造具有原生体验、响应快速且打磨精良的跨平台应用时，减少设计和架构上的不确定性。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "该 GitHub 项目将 Raycast 2.0 的经验与对 Raycast Beta.app 的逆向分析成果提炼为面向桌面产品开发者的“Agent Skill”。",
+        "项目记录了八项架构原则和一套四层架构，将隐性的产品工程经验转化为可复用的实现框架。",
+        "仓库包含 WebKit/WebView2 实战指南和 75 项发布检查清单，实操性尤为突出，并非只停留在概念层面。"
+      ]
     },
     {
       "topic_id": "d7a5ad6aaadc",
@@ -1241,7 +1259,14 @@
           "published_at": "2026-05-16T14:58:16Z"
         }
       ],
-      "route": "/hot/2026-05-17/topic/yaassin12-deepseek-v4-pro-app/"
+      "route": "/hot/2026-05-17/topic/yaassin12-deepseek-v4-pro-app/",
+      "headline_zh": "yaassin12/DeepSeek-V4-Pro-App",
+      "summary_short_zh": "AI 桌面应用项目 DeepSeek-V4-Pro-App 在 GitHub 成为热门，其简介列出了大规模 MoE 架构、长上下文、记忆功能和编程智能体工作流等特性。",
+      "why_it_matters_zh": "有 2 个独立来源提及这款工具。",
+      "category_zh": "工具",
+      "key_takeaways_zh": [
+        "DeepSeek V4 Pro：高级 AI 桌面应用。功能：1.6 万亿参数 MoE 架构、100 万 token 上下文窗口、Engram 记忆。专业编程智能体、思考模式（High/Max）、仓库级推理、复杂 bug 修复……"
+      ]
     },
     {
       "topic_id": "b1c4f462e95b",
@@ -1283,7 +1308,16 @@
           "published_at": "2026-05-17T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-05-17/topic/gpt-5-5-and-kimi-k2-6-comparison-highlights-performance-gains-and-hallucination-risk/"
+      "route": "/hot/2026-05-17/topic/gpt-5-5-and-kimi-k2-6-comparison-highlights-performance-gains-and-hallucination-risk/",
+      "headline_zh": "GPT-5.5 与 Kimi K2.6 的对比凸显性能提升与幻觉风险",
+      "summary_short_zh": "GPT-5.5 表现领先但仍有幻觉，Kimi K2.6 领跑开放大模型，AI 使气候承诺承压，大语言模型与人类的战略思维对比",
+      "why_it_matters_zh": "企业用户应分别评估模型的基准测试表现和部署成熟度，尤其是在新模型能力提升、可靠性问题却依然存在时。",
+      "category_zh": "研究",
+      "key_takeaways_zh": [
+        "报道指出，GPT-5.5 的表现超越了此前的基线，但仍会产生幻觉，说明能力提升并不意味着可信度和准确性问题会自动解决。",
+        "同一篇研究动态汇总还指出，Kimi K2.6 领跑开放大模型，这为权衡开放模型成本控制与封闭模型性能的团队提供了参考。",
+        "文章还将模型进展与更广泛的战略议题联系起来，包括 AI 给气候承诺带来的压力，以及大语言模型与人类在战略推理上的表现对比。"
+      ]
     },
     {
       "topic_id": "5780af8cf6c8",
@@ -1325,7 +1359,16 @@
           "published_at": "2026-05-17T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-05-17/topic/radical-optionality-paper-signals-new-strategic-framing-for-ai-research-and-deployment/"
+      "route": "/hot/2026-05-17/topic/radical-optionality-paper-signals-new-strategic-framing-for-ai-research-and-deployment/",
+      "headline_zh": "Radical Optionality 论文展现 AI 研究与部署的新战略视角",
+      "summary_short_zh": "Radical Optionality（论文官网",
+      "why_it_matters_zh": "模型快速迭代之际，高管和研究人员应关注能够改变实验室对适应能力、决策和选择权价值认知的框架。",
+      "category_zh": "研究",
+      "key_takeaways_zh": [
+        "Import AI 提及了“Radical Optionality”，显示这项研究正受到有影响力的 AI 研究资讯编选者关注，而不只局限于小众学术圈。",
+        "它受到关注，表明投资者和实验室对战略导向的研究感兴趣，这类研究可能影响组织如何分阶段布局模型、产品和基础设施。",
+        "目前的线索指向论文官网，而非广泛复现或实际落地的证据，因此这一概念看似重要，但实际应用似乎仍处于早期。"
+      ]
     }
   ],
   "category_sections": [
@@ -1369,7 +1412,10 @@
               "published_at": "2026-05-17T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-17/topic/import-ai-456-rsi-and-economic-growth-radical-optionality-for-ai-regulation-and-a-neural-computer/"
+          "route": "/hot/2026-05-17/topic/import-ai-456-rsi-and-economic-growth-radical-optionality-for-ai-regulation-and-a-neural-computer/",
+          "headline_zh": "Import AI 第456期：RSI 与经济增长；为 AI 监管保留最大选择空间；神经计算机",
+          "why_it_matters_zh": "该行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "00ca47022e54",
@@ -1407,7 +1453,10 @@
               "published_at": "2026-05-17T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-17/topic/seedance-makes-a-splash-nvidia-s-ai-guided-chip-designs-helping-robots-not-forget/"
+          "route": "/hot/2026-05-17/topic/seedance-makes-a-splash-nvidia-s-ai-guided-chip-designs-helping-robots-not-forget/",
+          "headline_zh": "Seedance 引发轰动；英伟达用 AI 辅助设计芯片；帮助机器人避免遗忘",
+          "why_it_matters_zh": "该行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "2dc554b0977b",
@@ -1445,7 +1494,11 @@
               "published_at": "Sat, 16 May 2026 15:33:33 +0000"
             }
           ],
-          "route": "/hot/2026-05-17/topic/openai-co-founder-greg-brockman-takes-charge-of-product-strategy/"
+          "route": "/hot/2026-05-17/topic/openai-co-founder-greg-brockman-takes-charge-of-product-strategy/",
+          "headline_zh": "OpenAI 联合创始人 Greg Brockman 接管产品战略",
+          "summary_short_zh": "据 TechCrunch 报道，OpenAI 联合创始人 Greg Brockman 正接管产品战略。报道还称，该公司计划将 ChatGPT 与其编程产品 Codex 整合。",
+          "why_it_matters_zh": "该行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "caba9abe4f73",
@@ -1483,7 +1536,11 @@
               "published_at": "Sat, 16 May 2026 11:00:01 +0000"
             }
           ],
-          "route": "/hot/2026-05-17/topic/the-us-is-betting-on-ai-to-catch-insider-trading-in-prediction-markets/"
+          "route": "/hot/2026-05-17/topic/the-us-is-betting-on-ai-to-catch-insider-trading-in-prediction-markets/",
+          "headline_zh": "美国寄望用 AI 识别预测市场的内幕交易",
+          "summary_short_zh": "据 Ars Technica 报道，美国商品期货交易委员会强调利用 AI 协助识别预测市场的内幕交易。报道将此举描述为一项以市场监测为重点的监管执法举措。",
+          "why_it_matters_zh": "该行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "282629d171d5",
@@ -1521,7 +1578,11 @@
               "published_at": "2026-05-17T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-17/topic/when-does-automating-ai-research-produce-explosive-growth-feedback-loops-in-innovation-networks-nber/"
+          "route": "/hot/2026-05-17/topic/when-does-automating-ai-research-produce-explosive-growth-feedback-loops-in-innovation-networks-nber/",
+          "headline_zh": "AI 研究自动化何时会带来爆炸式增长？创新网络中的反馈循环（NBER）",
+          "summary_short_zh": "AI 研究自动化何时会带来爆炸式增长？创新网络中的反馈循环（NBER",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -1565,7 +1626,11 @@
               "published_at": "2026-05-16T20:23:30+00:00"
             }
           ],
-          "route": "/hot/2026-05-17/topic/warelay-openclaw/"
+          "route": "/hot/2026-05-17/topic/warelay-openclaw/",
+          "headline_zh": "Warelay -> OpenClaw",
+          "summary_short_zh": "<p>为了准备在 PyCon US <a href=\" 下午</a>进行的闪电演讲，我决定查清：自 11 月那次 <a href=\" 提交</a>以来，OpenClaw <em>到底</em>用过多少个名字。</p> <p>多亏了这个 <a href=\" 工具</a>（<a href=\" 这里</a>），答案是，根据",
+          "why_it_matters_zh": "该工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "23227040d52c",
@@ -1603,7 +1668,11 @@
               "published_at": "Sat, 16 May 2026 18:54:28 +0000"
             }
           ],
-          "route": "/hot/2026-05-17/topic/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/"
+          "route": "/hot/2026-05-17/topic/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
+          "headline_zh": "学术论文库 ArXiv 将封禁让 AI 包办所有工作的作者一年",
+          "summary_short_zh": "ArXiv 正加大力度整治科研论文中草率使用大语言模型的行为。",
+          "why_it_matters_zh": "该工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "795121507985",
@@ -1641,7 +1710,11 @@
               "published_at": "2026-05-15T18:25:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-17/topic/youtube-is-expanding-its-ai-deepfake-detection-tool-to-all-adult-users/"
+          "route": "/hot/2026-05-17/topic/youtube-is-expanding-its-ai-deepfake-detection-tool-to-all-adult-users/",
+          "headline_zh": "YouTube 正向所有成年用户开放 AI 深度伪造检测工具",
+          "summary_short_zh": "YouTube 正将 AI 肖像检测计划扩展至所有 18 岁以上用户，这意味着几乎任何人都能让平台查找疑似冒用自己形象的深度伪造内容。该功能通过自拍式面部扫描，监测 YouTube 上是否出现与本人长相相似的形象。",
+          "why_it_matters_zh": "该工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     }
@@ -1687,7 +1760,10 @@
               "published_at": "2026-05-17T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-17/topic/china-thwarts-meta-s-agentic-ambition-u-s-evaluates-upcoming-models-ai-diagnoses-mammograms/"
+          "route": "/hot/2026-05-17/topic/china-thwarts-meta-s-agentic-ambition-u-s-evaluates-upcoming-models-ai-diagnoses-mammograms/",
+          "headline_zh": "中国挫败 Meta 的智能体雄心，美国评估即将推出的模型，AI 通过乳腺 X 光片进行诊断",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "efbc89a279a4",
@@ -1725,7 +1801,10 @@
               "published_at": "2026-05-17T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-17/topic/meta-pivots-from-open-weights-big-pharma-bets-on-ai-regulatory-patchwork-simulating-human-cohorts/"
+          "route": "/hot/2026-05-17/topic/meta-pivots-from-open-weights-big-pharma-bets-on-ai-regulatory-patchwork-simulating-human-cohorts/",
+          "headline_zh": "Meta 告别开放权重，制药巨头押注 AI，监管规则碎片化，模拟人群队列",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "e7b81a4720af",
@@ -1763,7 +1842,10 @@
               "published_at": "2026-05-17T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-17/topic/glm-5-1-thinks-strategically-data-center-revolt-intensifies-when-helpful-llms-turn-unhelpful-humanoid-robots-get-to-work/"
+          "route": "/hot/2026-05-17/topic/glm-5-1-thinks-strategically-data-center-revolt-intensifies-when-helpful-llms-turn-unhelpful-humanoid-robots-get-to-work/",
+          "headline_zh": "GLM 5.1 展现战略思维，反对数据中心的浪潮加剧，当大语言模型不再帮得上忙，人形机器人上岗",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "d2e663a72145",
@@ -1801,7 +1883,11 @@
               "published_at": "Sun, 17 May 2026 03:37:07 +0000"
             }
           ],
-          "route": "/hot/2026-05-17/topic/6-4k-stars-claude-code/"
+          "route": "/hot/2026-05-17/topic/6-4k-stars-claude-code/",
+          "headline_zh": "6.4k Stars！用Claude Code写论文的全套流水线，有人打包开源了",
+          "summary_short_zh": "费用参考也很透明",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "7ea70fc519f9",
@@ -1839,7 +1925,11 @@
               "published_at": "Sun, 17 May 2026 04:48:24 +0000"
             }
           ],
-          "route": "/hot/2026-05-17/topic/940-token-openai/"
+          "route": "/hot/2026-05-17/topic/940-token-openai/",
+          "headline_zh": "龙虾之父月烧940万元的token！要不是入职OpenAI还真用不起",
+          "summary_short_zh": "“但复杂需求还得Claude”",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "cbf143b9ccb8",
@@ -1877,7 +1967,11 @@
               "published_at": "Sat, 16 May 2026 00:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-05-17/topic/openai-and-malta-partner-to-bring-chatgpt-plus-to-all-citizens/"
+          "route": "/hot/2026-05-17/topic/openai-and-malta-partner-to-bring-chatgpt-plus-to-all-citizens/",
+          "headline_zh": "OpenAI 与马耳他合作，向全体公民提供 ChatGPT Plus",
+          "summary_short_zh": "OpenAI 与马耳他宣布合作，为公民提供 ChatGPT Plus 使用权限和 AI 培训。该计划旨在让更多人用上 AI，并鼓励负责任地将其用于实际场景。",
+          "why_it_matters_zh": "这一行业动向见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "bd9c29980b43",
@@ -1915,7 +2009,11 @@
               "published_at": "2026-05-16T11:37:05-04:00"
             }
           ],
-          "route": "/hot/2026-05-17/topic/sony-tries-to-explain-that-its-ai-camera-assistant-doesn-t-suck/"
+          "route": "/hot/2026-05-17/topic/sony-tries-to-explain-that-its-ai-camera-assistant-doesn-t-suck/",
+          "headline_zh": "索尼试图解释：自家的 AI Camera Assistant 并不差",
+          "summary_short_zh": "索尼此前发帖演示 Xperia 1 XIII 上的 AI Camera Assistant，引来了一些负面关注，如今正试图说明这项功能的工作原理。公司表示，该功能不会修改照片，而是根据光线、景深和拍摄主体提供建议。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "e6a89e446385",
@@ -1953,7 +2051,11 @@
               "published_at": "Sat, 16 May 2026 13:44:16 +0000"
             }
           ],
-          "route": "/hot/2026-05-17/topic/ai/"
+          "route": "/hot/2026-05-17/topic/ai/",
+          "headline_zh": "不用再找了，AI落地最全的实战打法，都在亦庄这场大会里",
+          "summary_short_zh": "5月19日至20日，带上你的需求。带上你的方案，我们在亦庄，不见不散。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -1995,7 +2097,11 @@
           "published_at": "2026-05-12T13:07:42Z"
         }
       ],
-      "route": "/hot/2026-05-17/topic/johunsang-semble-rs/"
+      "route": "/hot/2026-05-17/topic/johunsang-semble-rs/",
+      "headline_zh": "johunsang/semble_rs",
+      "summary_short_zh": "GitHub 仓库 semble_rs 走红，该项目提供一款基于 Rust、面向 AI 智能体的代码搜索工具。项目介绍重点提到 BM25 与语义搜索相结合的混合检索、AST 分块，以及依赖关系和影响分析功能。",
+      "why_it_matters_zh": "这款工具见于 1 个独立来源。",
+      "category_zh": "工具"
     },
     {
       "topic_id": "00ddff71cf2f",
@@ -2033,7 +2139,11 @@
           "published_at": "2026-05-13T15:45:44Z"
         }
       ],
-      "route": "/hot/2026-05-17/topic/python-telegrambot-ai-auto-trading/"
+      "route": "/hot/2026-05-17/topic/python-telegrambot-ai-auto-trading/",
+      "headline_zh": "python-telegramBot/ai-auto-trading",
+      "summary_short_zh": "AI 交易机器人 加密货币 大语言模型智能体 量化交易 自动化交易 算法交易 币安 Gate.io TypeScript Node.js VoltAgent 加密货币机器人 风险管理 多策略",
+      "why_it_matters_zh": "这款工具见于 1 个独立来源。",
+      "category_zh": "工具"
     },
     {
       "topic_id": "e88a1bf4a2ae",
@@ -2071,7 +2181,11 @@
           "published_at": "2026-05-13T20:08:33Z"
         }
       ],
-      "route": "/hot/2026-05-17/topic/chiennv2000-orthrus/"
+      "route": "/hot/2026-05-17/topic/chiennv2000-orthrus/",
+      "headline_zh": "chiennv2000/orthrus",
+      "summary_short_zh": "通过双视图扩散解码实现快速、无损的 LLM 推理",
+      "why_it_matters_zh": "有 1 个独立来源提及该工具。",
+      "category_zh": "工具"
     }
   ],
   "x_buzz": [

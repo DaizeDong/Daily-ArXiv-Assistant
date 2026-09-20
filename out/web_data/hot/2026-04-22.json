@@ -2336,7 +2336,16 @@
           "published_at": "2026-04-22T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-04-22/topic/bytedance-seed-releases-dola-seed-2-0-preview-and-seed-full-duplex-speech-llm/"
+      "route": "/hot/2026-04-22/topic/bytedance-seed-releases-dola-seed-2-0-preview-and-seed-full-duplex-speech-llm/",
+      "headline_zh": "字节跳动 Seed 发布 Dola-Seed-2.0-Preview 和 Seed Full-Duplex Speech LLM",
+      "summary_short_zh": "字节跳动 Seed 正式发布新的基础模型 Seed 2.0。公告将其定位为公司模型阵容的重要补充。",
+      "why_it_matters_zh": "字节跳动持续扩展文本和语音模型布局，展现了在基础模型和实时多模态交互领域的竞争雄心。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "字节跳动 Seed 在 Arena 上发布 Dola-Seed-2.0-Preview，为外部评测者提供了实际可用的预览模型，而不只是路线图上的承诺。",
+        "该公司还推出了 Seed Full-Duplex Speech LLM，强调专注倾听、干扰抑制和更自然的实时交互。",
+        "在发布模型的同时，字节跳动 Seed 还启动了 2027 年基础模型校园招聘，释放出持续投入长期模型研究能力建设的信号。"
+      ]
     },
     {
       "topic_id": "33aa1d48133c",
@@ -2378,7 +2387,16 @@
           "published_at": "Tue, 21 Apr 2026 16:42:22 +0000"
         }
       ],
-      "route": "/hot/2026-04-22/topic/google-research-launches-reasoningbank-for-experience-learning-agents/"
+      "route": "/hot/2026-04-22/topic/google-research-launches-reasoningbank-for-experience-learning-agents/",
+      "headline_zh": "Google Research 推出 ReasoningBank，让智能体从经验中学习",
+      "summary_short_zh": "生成式 AI",
+      "why_it_matters_zh": "这表明，其战略方向是让智能体通过积累的推理轨迹持续改进，而非仅依赖无状态提示。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Google Research 正式推出新成果 ReasoningBank，旨在让智能体从经验中学习，将记忆与复用提升为智能体系统的核心设计模式。",
+        "该成果通过 Google Research 博客发布，相比社区中的推测性讨论更具参考价值，也显示了内部研究与产品落地之间的联系。",
+        "对企业级智能体开发者而言，关键启示是从一次性编排转向能够存储、检索并在后续任务中运用既有推理的系统。"
+      ]
     },
     {
       "topic_id": "8794439406eb",
@@ -2429,7 +2447,16 @@
           "published_at": "Tue, 21 Apr 2026 16:43:03 +0000"
         }
       ],
-      "route": "/hot/2026-04-22/topic/anthropic-ships-claude-cowork-on-amazon-bedrock/"
+      "route": "/hot/2026-04-22/topic/anthropic-ships-claude-cowork-on-amazon-bedrock/",
+      "headline_zh": "Anthropic 在 Amazon Bedrock 上推出 Claude Cowork",
+      "summary_short_zh": "AWS 宣布 Amazon Bedrock 支持 Claude Cowork。文章介绍，组织可直接通过 Bedrock 或经由 LLM 网关运行 Cowork 和 Claude Code Desktop。",
+      "why_it_matters_zh": "这扩大了 Claude 在 AWS 账户中的企业应用范围，降低了统一采用 Bedrock 的组织在采购和部署上的阻力。",
+      "category_zh": "工具",
+      "key_takeaways_zh": [
+        "AWS 宣布，Claude Cowork 和 Claude Code Desktop 现可通过 Amazon Bedrock 运行，既可直接接入，也可经由 LLM 网关接入，以便企业管控。",
+        "此次发布面向整个组织的部署，而非个人开发者使用，表明 Anthropic 正从编程助手拓展到更广泛的知识工作者工作流。",
+        "同组报道还称，亚马逊承诺向 Anthropic 追加投资 50 亿美元，并划拨了 5 吉瓦的定制芯片算力资源，凸显了 AWS 与 Anthropic 战略合作的深度。"
+      ]
     },
     {
       "topic_id": "7b437e7e74db",
@@ -2469,7 +2496,14 @@
           "published_at": "Tue, 21 Apr 2026 14:30:00 +0000"
         }
       ],
-      "route": "/hot/2026-04-22/topic/3-new-ways-ads-advisor-is-making-google-ads-safer-and-faster/"
+      "route": "/hot/2026-04-22/topic/3-new-ways-ads-advisor-is-making-google-ads-safer-and-faster/",
+      "headline_zh": "Ads Advisor 让 Google Ads 更安全、更快捷的 3 种新方式",
+      "summary_short_zh": "“迈向 Google Marketing Live”宣传图。2026 年 5 月 20 日，太平洋时间上午 9 点。白色背景，底部为彩色渐变",
+      "why_it_matters_zh": "此次产品发布获 1 个独立来源报道。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "“迈向 Google Marketing Live”宣传图。2026 年 5 月 20 日，太平洋时间上午 9 点。白色背景，底部为彩色渐变。"
+      ]
     },
     {
       "topic_id": "0badb1381c2b",
@@ -2511,7 +2545,16 @@
           "published_at": "2026-04-22T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-04-22/topic/arxiv-paper-harmful-intent-as-a-geometrically-recoverable-feature-of-llm-residual-streams-reports-cross-model-detection-signal/"
+      "route": "/hot/2026-04-22/topic/arxiv-paper-harmful-intent-as-a-geometrically-recoverable-feature-of-llm-residual-streams-reports-cross-model-detection-signal/",
+      "headline_zh": "arXiv 论文《有害意图：大语言模型残差流中可通过几何方法恢复的特征》报告跨模型检测信号",
+      "summary_short_zh": "有害意图可通过几何方法从大语言模型的残差流中恢复：在大多数层中表现为线性方向，在投影方法失效的层中则表现为角度偏差。",
+      "why_it_matters_zh": "如果这一结果具有稳健性，就有望支持构建新的安全与可观测性层，在生成完成前从内部激活中检测有害意图。",
+      "category_zh": "研究",
+      "key_takeaways_zh": [
+        "论文称，有害意图在大多数层中可通过线性方向恢复，在投影方法失效时则可通过角度偏差恢复，表明不安全行为可能具有可测量的内部表征。",
+        "作者报告了涵盖 Qwen2.5、Qwen3.5、Llama-3.2 和 Gemma-3 的 12 个模型的结果，覆盖范围比许多仅研究单一模型的可解释性论文更广。",
+        "该研究覆盖四个架构家族和三种对齐设置，因此可能对前沿研究实验室及构建模型监控基础设施的企业都有参考价值。"
+      ]
     }
   ],
   "category_sections": [
@@ -2565,7 +2608,11 @@
               "published_at": "Tue, 21 Apr 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-04-22/topic/openai-s-updated-image-generator-can-now-pull-information-from-the-web/"
+          "route": "/hot/2026-04-22/topic/openai-s-updated-image-generator-can-now-pull-information-from-the-web/",
+          "headline_zh": "OpenAI 更新后的图像生成器现可从网上获取信息",
+          "summary_short_zh": "OpenAI 更新了图像生成器，新增推理功能，可通过联网搜索辅助图像创作。The Verge 报道称，该系统能结合网络信息，根据一条提示词生成多张图像。",
+          "why_it_matters_zh": "此次产品发布消息来自 3 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "49b46485c303",
@@ -2603,7 +2650,11 @@
               "published_at": "Tue, 21 Apr 2026 00:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-04-22/topic/scaling-codex-to-enterprises-worldwide/"
+          "route": "/hot/2026-04-22/topic/scaling-codex-to-enterprises-worldwide/",
+          "headline_zh": "推动 Codex 在全球企业中规模化应用",
+          "summary_short_zh": "OpenAI 推出 Codex Labs，与埃森哲、普华永道、Infosys 等合作，帮助企业在整个软件开发生命周期中部署并规模化应用 Codex。Codex 周活跃用户已达 400 万。",
+          "why_it_matters_zh": "此次产品发布消息来自 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "0cdc824b9dd0",
@@ -2641,7 +2692,11 @@
               "published_at": "Tue, 21 Apr 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-04-22/topic/kimi-k2-6-released-huggingface/"
+          "route": "/hot/2026-04-22/topic/kimi-k2-6-released-huggingface/",
+          "headline_zh": "Kimi K2.6 已发布（huggingface）",
+          "summary_short_zh": "Hugging Face 发布了 Kimi K2.6，据介绍，这是一款开源多模态 AI 模型。摘要称，该模型针对长程编程和自主任务编排进行了优化。",
+          "why_it_matters_zh": "此次产品发布消息来自 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "d3f8116f61a9",
@@ -2679,7 +2734,11 @@
               "published_at": "Tue, 21 Apr 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-04-22/topic/hugging-face-s-ml-intern-is-the-strongest-open-agent-in-the-loop-release-in-the-set/"
+          "route": "/hot/2026-04-22/topic/hugging-face-s-ml-intern-is-the-strongest-open-agent-in-the-loop-release-in-the-set/",
+          "headline_zh": "Hugging Face 的 ml-intern 是这批发布中最强的开源 agent-in-the-loop 工具",
+          "summary_short_zh": "Hugging Face 推出了开源智能体 ml-intern，用于自动完成后训练研究流程中的部分工作。摘要称，它能阅读论文、设计实验，并支持智能体参与的研究任务。",
+          "why_it_matters_zh": "此次产品发布消息来自 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "ee87d3a1fff6",
@@ -2717,7 +2776,11 @@
               "published_at": "Tue, 21 Apr 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-04-22/topic/kimi-2-6-has-been-released/"
+          "route": "/hot/2026-04-22/topic/kimi-2-6-has-been-released/",
+          "headline_zh": "Kimi 2.6 已发布",
+          "summary_short_zh": "一则社区消息称 Kimi 2.6 已发布，并分享了一张基准测试风格的对比图。该消息通过与其他前沿模型的性能对比，介绍了此次发布。",
+          "why_it_matters_zh": "此次产品发布消息来自 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2761,7 +2824,11 @@
               "published_at": "Tue, 21 Apr 2026 22:58:22 +0000"
             }
           ],
-          "route": "/hot/2026-04-22/topic/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60b/"
+          "route": "/hot/2026-04-22/topic/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60b/",
+          "headline_zh": "SpaceX 正与 Cursor 合作，并拥有以 600 亿美元收购这家初创公司的选择权",
+          "summary_short_zh": "TechCrunch 报道称，SpaceX 正与 Cursor 合作，并拥有以 600 亿美元收购这家初创公司的选择权。文章从与 Anthropic、OpenAI 等领先模型提供商竞争的角度解读了这一安排。",
+          "why_it_matters_zh": "此次收购消息来自 1 个独立来源。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "8fa5b04d6485",
@@ -2799,7 +2866,11 @@
               "published_at": "Tue, 21 Apr 2026 19:11:29 +0000"
             }
           ],
-          "route": "/hot/2026-04-22/topic/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/"
+          "route": "/hot/2026-04-22/topic/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/",
+          "headline_zh": "AI 研究实验室 NeoCognition 获得 4000 万美元种子轮融资，打造像人类一样学习的智能体",
+          "summary_short_zh": "这家初创公司由一位 OSU 研究人员创立，正在开发能成为任意领域专家的 AI 智能体。",
+          "why_it_matters_zh": "此次融资消息来自 1 个独立来源。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "8b914199260d",
@@ -2837,7 +2908,11 @@
               "published_at": "2026-04-21T18:45:37-04:00"
             }
           ],
-          "route": "/hot/2026-04-22/topic/spacex-cuts-a-deal-to-maybe-buy-cursor-for-60-billion/"
+          "route": "/hot/2026-04-22/topic/spacex-cuts-a-deal-to-maybe-buy-cursor-for-60-billion/",
+          "headline_zh": "SpaceX 达成协议，或将以 600 亿美元收购 Cursor",
+          "summary_short_zh": "随着埃隆·马斯克旗下 SpaceX、xAI 和 X 这一公司组合的 IPO 临近，SpaceX 宣布了一项不同寻常的安排：要么以 600 亿美元收购自动化编程平台 Cursor，要么支付 100 亿美元费用。",
+          "why_it_matters_zh": "这则收购消息见于 1 个独立来源。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -2881,7 +2956,11 @@
               "published_at": "Tue, 21 Apr 2026 23:26:45 +0000"
             }
           ],
-          "route": "/hot/2026-04-22/topic/unauthorized-group-has-gained-access-to-anthropic-s-exclusive-cyber-tool-mythos-report-claims/"
+          "route": "/hot/2026-04-22/topic/unauthorized-group-has-gained-access-to-anthropic-s-exclusive-cyber-tool-mythos-report-claims/",
+          "headline_zh": "报道称，未经授权的团体已获得 Anthropic 专属网络安全工具 Mythos 的访问权限",
+          "summary_short_zh": "TechCrunch 报道称，一个未经授权的团体获得了 Anthropic 专属网络安全工具 Mythos 的访问权限。Anthropic 表示正在调查，尚无证据表明其系统受到影响。",
+          "why_it_matters_zh": "这项行业动向见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "8e6529196adf",
@@ -2919,7 +2998,11 @@
               "published_at": "2026-04-22T03:30:02+00:00"
             }
           ],
-          "route": "/hot/2026-04-22/topic/changes-to-github-copilot-individual-plans/"
+          "route": "/hot/2026-04-22/topic/changes-to-github-copilot-individual-plans/",
+          "headline_zh": "GitHub Copilot 个人套餐调整",
+          "summary_short_zh": "GitHub 宣布调整 Copilot 个人套餐。这篇博客评论引导读者了解套餐更新及其对个人订阅用户的影响。",
+          "why_it_matters_zh": "这项行业动向见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "1a330f1c84d9",
@@ -2963,7 +3046,10 @@
               "published_at": "2026-04-22T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-22/topic/nvidia-s-open-salvo-openai-s-amazon-deal-grok-cuts-video-prices-recursive-language-models/"
+          "route": "/hot/2026-04-22/topic/nvidia-s-open-salvo-openai-s-amazon-deal-grok-cuts-video-prices-recursive-language-models/",
+          "headline_zh": "英伟达的开放攻势、OpenAI 与亚马逊的协议、Grok 下调视频价格、递归语言模型",
+          "why_it_matters_zh": "这则其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "def5d82045f4",
@@ -3001,7 +3087,10 @@
               "published_at": "2026-04-22T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-22/topic/attacks-on-data-centers-qwen3-5-in-all-sizes-deepseek-s-huawei-play-apple-s-multimodal-tokenizer/"
+          "route": "/hot/2026-04-22/topic/attacks-on-data-centers-qwen3-5-in-all-sizes-deepseek-s-huawei-play-apple-s-multimodal-tokenizer/",
+          "headline_zh": "数据中心遇袭、多种规模的 Qwen3.5、DeepSeek 的华为战略、苹果的多模态分词器",
+          "why_it_matters_zh": "这则其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "4f75eb51a37c",
@@ -3039,7 +3128,10 @@
               "published_at": "2026-04-22T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-22/topic/import-ai-453-breaking-ai-agents-mirrorcode-and-ten-views-on-gradual-disempowerment/"
+          "route": "/hot/2026-04-22/topic/import-ai-453-breaking-ai-agents-mirrorcode-and-ten-views-on-gradual-disempowerment/",
+          "headline_zh": "Import AI 第 453 期：攻破 AI 智能体；MirrorCode；关于逐渐失去主导权的十种观点",
+          "why_it_matters_zh": "这则其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -3090,7 +3182,11 @@
               "published_at": "Tue, 21 Apr 2026 23:45:21 +0000"
             }
           ],
-          "route": "/hot/2026-04-22/topic/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/"
+          "route": "/hot/2026-04-22/topic/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
+          "headline_zh": "Meta 将记录员工的键盘操作，用于训练其 AI 模型",
+          "summary_short_zh": "Meta 表示，一款新的内部工具正在将鼠标移动和按钮点击转化为可用于训练其 AI 模型的数据。",
+          "why_it_matters_zh": "这项工具动态见于 2 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "f5a528351899",
@@ -3135,7 +3231,11 @@
               "published_at": "Tue, 21 Apr 2026 21:40:41 +0000"
             }
           ],
-          "route": "/hot/2026-04-22/topic/mozilla-anthropic-s-mythos-found-271-security-vulnerabilities-in-firefox-150/"
+          "route": "/hot/2026-04-22/topic/mozilla-anthropic-s-mythos-found-271-security-vulnerabilities-in-firefox-150/",
+          "headline_zh": "Mozilla：Anthropic 的 Mythos 在 Firefox 150 中发现了 271 个安全漏洞",
+          "summary_short_zh": "Mozilla 表示，Anthropic 的 Mythos 在 Firefox 150 中发现了 271 个安全漏洞。报道将 Mythos 描述为专注于网络安全、用于辅助发现漏洞的 AI 系统。",
+          "why_it_matters_zh": "这项工具动态见于 2 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "7dfe9f3a20a1",
@@ -3173,7 +3273,11 @@
               "published_at": "2026-04-21T14:07:24-04:00"
             }
           ],
-          "route": "/hot/2026-04-22/topic/framework-s-first-egpus-turn-its-laptop-into-a-desktop-pc/"
+          "route": "/hot/2026-04-22/topic/framework-s-first-egpus-turn-its-laptop-into-a-desktop-pc/",
+          "headline_zh": "Framework 首批外置显卡让自家笔记本变身台式机",
+          "summary_short_zh": "还记得 Framework 推出的首款只需三分钟就能轻松升级整块内置显卡的笔记本吗？如今，这家公司也进军外置显卡市场了。",
+          "why_it_matters_zh": "这条工具资讯来自 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     }
@@ -3225,7 +3329,11 @@
               "published_at": "Tue, 21 Apr 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-04-22/topic/qwen-3-6-max-preview-just-went-live-on-the-qwen-chat-website-it-currently-has-the-highest-aa-intelligence-index-score-among-chinese-models-52-will-it-be-open-source/"
+          "route": "/hot/2026-04-22/topic/qwen-3-6-max-preview-just-went-live-on-the-qwen-chat-website-it-currently-has-the-highest-aa-intelligence-index-score-among-chinese-models-52-will-it-be-open-source/",
+          "headline_zh": "Qwen 3.6 Max Preview 刚刚上线 Qwen Chat 网站，目前 AA-Intelligence Index 得分为 52，在中国模型中最高（会开源吗？）",
+          "summary_short_zh": "据 AiBattle 报道，Qwen 3.6 Max 已上线 Qwen Chat 网站，目前 AA-Intelligence Index 得分为 52，居中国模型之首。鉴于上一版 Qwen 3.6 的参数量为 3970 亿，外界推测新模型的参数量在 6000 亿至 7000 亿之间。",
+          "why_it_matters_zh": "这条产品发布资讯来自 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "3ad0d9e9e3cc",
@@ -3263,7 +3371,11 @@
               "published_at": "Tue, 21 Apr 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-04-22/topic/we-open-sourced-chaperone-thinking-lq-1-0-a-4-bit-gptq-qlora-fine-tuned-deepseek-r1-32b-that-hits-84-on-medqa-in-20gb/"
+          "route": "/hot/2026-04-22/topic/we-open-sourced-chaperone-thinking-lq-1-0-a-4-bit-gptq-qlora-fine-tuned-deepseek-r1-32b-that-hits-84-on-medqa-in-20gb/",
+          "headline_zh": "我们开源了 Chaperone-Thinking-LQ-1.0：一款经 4 位 GPTQ 量化和 QLoRA 微调的 DeepSeek-R1-32B 模型，占用约 20GB，MedQA 准确率达 84%",
+          "summary_short_zh": "Chaperone-Thinking-LQ-1.0 是一款基于 DeepSeek-R1-Distill-Qwen-32B 的开源推理模型，在 MedQA 上准确率达 84%，接近 GPT-4o 的 88%。",
+          "why_it_matters_zh": "这条产品发布资讯来自 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "47fb4ca23237",
@@ -3301,7 +3413,11 @@
               "published_at": "Tue, 21 Apr 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-04-22/topic/vllm-shipped-a-practical-deployment-knowledge-layer/"
+          "route": "/hot/2026-04-22/topic/vllm-shipped-a-practical-deployment-knowledge-layer/",
+          "headline_zh": "vLLM 推出了实用的部署知识层",
+          "summary_short_zh": "recipes.vllm.ai 的改版比听起来更实用。它将模型页面与可直接运行的部署方案关联起来，提供交互式命令生成器，支持 NVIDIA 和 AMD，涵盖张量并行、专家并行和数据并行等方案，还为智能体提供 JSON API。",
+          "why_it_matters_zh": "这条产品发布资讯来自 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "a102db0b6337",
@@ -3339,7 +3455,11 @@
               "published_at": "Tue, 21 Apr 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-04-22/topic/every-time-a-new-model-comes-out-the-old-one-is-obsolete-of-course/"
+          "route": "/hot/2026-04-22/topic/every-time-a-new-model-comes-out-the-old-one-is-obsolete-of-course/",
+          "headline_zh": "当然，每出一个新模型，旧模型就过时了",
+          "summary_short_zh": "这张梗图通过对比“Gemma4”和“Qwen3.6”，展现了 AI 模型迅速过时的现象。它调侃用户倾向于追逐新模型、抛弃旧模型，即便旧模型仍有实用价值。",
+          "why_it_matters_zh": "这条产品发布资讯来自 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -3383,7 +3503,10 @@
               "published_at": "2026-04-22T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-22/topic/import-ai-454-automating-alignment-research-safety-study-of-a-chinese-model-hifloat4/"
+          "route": "/hot/2026-04-22/topic/import-ai-454-automating-alignment-research-safety-study-of-a-chinese-model-hifloat4/",
+          "headline_zh": "Import AI 第 454 期：对齐研究自动化；一款中国模型的安全性研究；HiFloat4",
+          "why_it_matters_zh": "这条其他资讯来自 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "efbc89a279a4",
@@ -3421,7 +3544,10 @@
               "published_at": "2026-04-22T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-22/topic/meta-pivots-from-open-weights-big-pharma-bets-on-ai-regulatory-patchwork-simulating-human-cohorts/"
+          "route": "/hot/2026-04-22/topic/meta-pivots-from-open-weights-big-pharma-bets-on-ai-regulatory-patchwork-simulating-human-cohorts/",
+          "headline_zh": "Meta 告别开放权重，大型药企押注 AI，监管规则碎片化，模拟人群队列",
+          "why_it_matters_zh": "这条其他资讯来自 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "f77f2de8c663",
@@ -3459,7 +3585,11 @@
               "published_at": "Wed, 22 Apr 2026 01:36:29 +0000"
             }
           ],
-          "route": "/hot/2026-04-22/topic/agent-ai/"
+          "route": "/hot/2026-04-22/topic/agent-ai/",
+          "headline_zh": "单Agent时代结束，AI们开始组团上班",
+          "summary_short_zh": "Kimi K2.6来了！",
+          "why_it_matters_zh": "这条其他资讯来自 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "b9135a92c8df",
@@ -3497,7 +3627,11 @@
               "published_at": "Wed, 22 Apr 2026 04:12:45 +0000"
             }
           ],
-          "route": "/hot/2026-04-22/topic/2026-ai/"
+          "route": "/hot/2026-04-22/topic/2026-ai/",
+          "headline_zh": "2026萤石品牌新品发布会：驭智向前锚定长期主义，AI驱动多点开花",
+          "summary_short_zh": "发布安全白皮书与全系AI新品",
+          "why_it_matters_zh": "这条其他资讯来自 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -3539,7 +3673,11 @@
           "published_at": "2026-04-22T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-04-22/topic/argus-agentic-gpu-optimization-guided-by-data-flow-invariants/"
+      "route": "/hot/2026-04-22/topic/argus-agentic-gpu-optimization-guided-by-data-flow-invariants/",
+      "headline_zh": "ARGUS：数据流不变量引导的智能体 GPU 优化",
+      "summary_short_zh": "基于大语言模型的编程智能体能生成在功能上正确的 GPU 内核，但在矩阵乘法、注意力机制和混合专家（MoE）等关键计算中，性能仍远逊于手工优化的库。",
+      "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+      "category_zh": "研究"
     },
     {
       "topic_id": "55a43314519d",
@@ -3577,7 +3715,11 @@
           "published_at": "2026-04-22T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-04-22/topic/curiosity-critic-cumulative-prediction-error-improvement-as-a-tractable-intrinsic-reward-for-world-model-training/"
+      "route": "/hot/2026-04-22/topic/curiosity-critic-cumulative-prediction-error-improvement-as-a-tractable-intrinsic-reward-for-world-model-training/",
+      "headline_zh": "Curiosity-Critic：将累积预测误差的改善用作世界模型训练中易于计算的内在奖励",
+      "summary_short_zh": "基于局部预测误差的好奇心奖励只关注当前状态转移，未考虑世界模型在所有已经历的状态转移上的累积预测误差。",
+      "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+      "category_zh": "研究"
     },
     {
       "topic_id": "5a9440b5cce1",
@@ -3615,7 +3757,11 @@
           "published_at": "2026-04-22T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-04-22/topic/discrete-tilt-matching/"
+      "route": "/hot/2026-04-22/topic/discrete-tilt-matching/",
+      "headline_zh": "离散倾斜匹配",
+      "summary_short_zh": "掩码扩散大语言模型（dLLMs）是一种有前景的自回归生成替代方案。",
+      "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+      "category_zh": "研究"
     }
   ],
   "x_buzz": [

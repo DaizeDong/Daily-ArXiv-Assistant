@@ -2447,7 +2447,16 @@
           "published_at": "2026-05-01T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-05-01/topic/seed-prover-1-5-announced/"
+      "route": "/hot/2026-05-01/topic/seed-prover-1-5-announced/",
+      "headline_zh": "Seed Prover 1.5 发布",
+      "summary_short_zh": "字节跳动 Seed 宣布推出专注于高阶数学推理的模型 Seed Prover 1.5。该公司表示，系统采用了一种新型智能体架构。",
+      "why_it_matters_zh": "此次产品发布共有 1 个独立来源报道。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "字节跳动 Seed 宣布启动 2027 年基础模型校园招聘，包含实习岗位。",
+        "字节跳动 Seed 在 Arena 发布了预览模型 Dola-Seed-2.0-Preview。",
+        "字节跳动 Seed 推出 Seed Full-Duplex Speech LLM，主打专注聆听、可靠的抗干扰能力和更自然的交互。"
+      ]
     },
     {
       "topic_id": "61cf8061cdb6",
@@ -2489,7 +2498,16 @@
           "published_at": "2026-05-01T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-05-01/topic/zhipu-ai-launches-glm-5-as-flagship-agent-model/"
+      "route": "/hot/2026-05-01/topic/zhipu-ai-launches-glm-5-as-flagship-agent-model/",
+      "headline_zh": "智谱 AI 推出旗舰智能体模型 GLM-5",
+      "summary_short_zh": "智谱 AI 宣布推出面向智能体工程的新旗舰基础模型 GLM-5，强调其编程和智能体能力达到开源顶尖水平。页面还提到，该模型在 SWE-bench Verified 和 Terminal Bench 2.0 上表现出色。",
+      "why_it_matters_zh": "GLM-5 主打开源，并宣称在编程和自主智能体任务的基准测试中表现出色，表明西方模型厂商仍面临竞争压力。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "智谱 AI 将 GLM-5 定位为面向智能体工程的新旗舰基础模型，而非一次通用模型更新，显示其产品策略聚焦工具使用、编程和工作流自动化。",
+        "该公司特别强调了模型在 SWE-bench Verified 和 Terminal Bench 2.0 上的出色表现。这两项基准在衡量软件工程能力和智能体执行质量方面备受关注。",
+        "智谱称 GLM-5 的编程和智能体能力处于开源顶尖水平，值得正在评估成本更低或可自行部署替代方案的企业关注。"
+      ]
     },
     {
       "topic_id": "08bf99130d15",
@@ -2542,7 +2560,16 @@
           "published_at": "Thu, 30 Apr 2026 19:27:41 +0000"
         }
       ],
-      "route": "/hot/2026-05-01/topic/openai-gpt-5-5-cyber-clears-uk-aisi-evaluation-for-top-tier-cyber-tasks/"
+      "route": "/hot/2026-05-01/topic/openai-gpt-5-5-cyber-clears-uk-aisi-evaluation-for-top-tier-cyber-tasks/",
+      "headline_zh": "OpenAI GPT-5.5 Cyber 通过英国 AISI 顶级网络安全任务评估",
+      "summary_short_zh": "Simon Willison 分享了英国人工智能安全研究所对 OpenAI GPT-5.5 网络安全能力的评估链接。该评估报告了模型在网络安全相关测试中的表现。",
+      "why_it_matters_zh": "这为前沿模型的风险管理策略提供了参考：GPT-5.5 Cyber 的能力似乎已达到需要限制访问的程度，这对网络防御产品采购方和政策制定者都很重要。",
+      "category_zh": "研究",
+      "key_takeaways_zh": [
+        "英国人工智能安全研究所报告称，GPT-5.5 成为迄今第二个从头到尾完成该机构一项多步骤网络攻击模拟的模型，跨过了常规基准分数之外的一道具体能力门槛。",
+        "OpenAI 初期仅向“关键网络防御者”开放 GPT-5.5 Cyber，表明其被定位为受控访问的安全工具，而非广泛开放的 API 模型。",
+        "外部报道认为，GPT-5.5 Cyber 在长程网络安全任务上的能力与 Anthropic 的 Claude Mythos Preview 大致相当，表明面向专业网络攻防工作流的一小批前沿模型正在涌现。"
+      ]
     },
     {
       "topic_id": "4dd54d9e87bb",
@@ -2584,7 +2611,16 @@
           "published_at": "2026-04-30T21:31:24.000Z"
         }
       ],
-      "route": "/hot/2026-05-01/topic/sglang-reaches-180-tok-s-gpu-on-deepseek-v4-with-1m-context-on-blackwell/"
+      "route": "/hot/2026-05-01/topic/sglang-reaches-180-tok-s-gpu-on-deepseek-v4-with-1m-context-on-blackwell/",
+      "headline_zh": "SGLang 在 Blackwell 上运行 DeepSeek-V4，约 100 万 token 上下文下达到 180 token/秒/GPU",
+      "summary_short_zh": "SGLang 在 Blackwell 上进行 DeepSeek-V4 解码，在约 100 万 token 上下文下达到 180 token/秒/GPU。很高兴看到 DeepSeek-V4 的开源推理在新硬件上取得快速进展。这得益于 @lmsysorg 针对 Blackwell 的优化，更充分地利用了模型的混合稀疏……",
+      "why_it_matters_zh": "Blackwell 上的推理效率直接影响长上下文开放模型部署的成本效益，尤其关系到计划搭建本地或主权 AI 技术栈的企业。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "NVIDIA 强调，SGLang 在 DeepSeek-V4 解码中实现了每 GPU 每秒 180 token 的吞吐量。这一具体数字让关注点从模型质量扩展到了推理服务效率。",
+        "据介绍，这套配置支持约 100 万 token 的上下文，适用于高度依赖检索的企业应用、代码库分析和长文档推理任务。",
+        "NVIDIA 将性能提升归功于 LMSYS 针对 Blackwell 的优化，这些优化更充分地利用了 DeepSeek-V4 的混合稀疏架构，凸显软硬件协同设计正成为开放模型推理的竞争壁垒。"
+      ]
     },
     {
       "topic_id": "62bc60a969fa",
@@ -2622,7 +2658,10 @@
           "published_at": "2026-04-30T18:02:53.000Z"
         }
       ],
-      "route": "/hot/2026-05-01/topic/see-how-anyma-eva-partnered-with-gemini-and-googledeepmind-to-dissolve-the-distance-between-imagining-and-creating/"
+      "route": "/hot/2026-05-01/topic/see-how-anyma-eva-partnered-with-gemini-and-googledeepmind-to-dissolve-the-distance-between-imagining-and-creating/",
+      "headline_zh": "看看 @anyma_eva 如何与 Gemini 和 @googledeepmind 合作，消除想象与创作之间的距离。🧵",
+      "why_it_matters_zh": "此次产品发布共有 1 个独立来源报道。",
+      "category_zh": "产品发布"
     }
   ],
   "category_sections": [
@@ -2666,7 +2705,11 @@
               "published_at": "Thu, 30 Apr 2026 12:14:15 +0000"
             }
           ],
-          "route": "/hot/2026-05-01/topic/enabling-a-new-model-for-healthcare-with-ai-co-clinician/"
+          "route": "/hot/2026-05-01/topic/enabling-a-new-model-for-healthcare-with-ai-co-clinician/",
+          "headline_zh": "借助 AI 诊疗伙伴，开创医疗新模式",
+          "summary_short_zh": "探索 AI 辅助医疗的发展路径，研发 AI co-clinician",
+          "why_it_matters_zh": "这条产品发布消息来自 1 个独立信源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "3f1296cc894a",
@@ -2704,7 +2747,11 @@
               "published_at": "2026-04-30T15:02:46.000Z"
             }
           ],
-          "route": "/hot/2026-05-01/topic/ai-co-clinician-is-our-new-research-initiative-to-help-explore-how-multimodal-agents-could-better-support-healthcare-workers-and-patients/"
+          "route": "/hot/2026-05-01/topic/ai-co-clinician-is-our-new-research-initiative-to-help-explore-how-multimodal-agents-could-better-support-healthcare-workers-and-patients/",
+          "headline_zh": "AI co-clinician 是我们的新研究项目，旨在探索多模态智能体如何更好地支持医护人员和患者",
+          "summary_short_zh": "🩺 来看看我们的进展 🧵",
+          "why_it_matters_zh": "这条产品发布消息来自 1 个独立信源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "3ebbdd13efcd",
@@ -2742,7 +2789,11 @@
               "published_at": "2026-04-30T12:07:47.000Z"
             }
           ],
-          "route": "/hot/2026-05-01/topic/we-re-excited-to-partner-with-adaption-ai-to-make-together-fine-tuning-natively-available-in-adaptive-data/"
+          "route": "/hot/2026-05-01/topic/we-re-excited-to-partner-with-adaption-ai-to-make-together-fine-tuning-natively-available-in-adaptive-data/",
+          "headline_zh": "我们很高兴与 @adaption_ai 合作，将 Together Fine-Tuning 原生集成到 Adaptive Data 中",
+          "summary_short_zh": "AI 原生用户现在可以利用 Adaptive Data 中优化后的训练数据，在 Together AI 上微调开放模型",
+          "why_it_matters_zh": "这条产品发布消息来自 1 个独立信源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "d376f1dd2579",
@@ -2790,7 +2841,11 @@
               "published_at": "Thu, 30 Apr 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-05-01/topic/today-we-re-releasing-qwen-scope-an-open-suite-of-sparse-autoencoders-for-the-qwen-model-family/"
+          "route": "/hot/2026-05-01/topic/today-we-re-releasing-qwen-scope-an-open-suite-of-sparse-autoencoders-for-the-qwen-model-family/",
+          "headline_zh": "今天，我们发布 Qwen-Scope 🔭，一套面向 Qwen 系列模型的开放稀疏自编码器套件",
+          "summary_short_zh": "它将 SAE 特征转化为实用工具：🎯 推理：直接调整内部特征来引导模型输出，无需提示词工程 📂 数据：分类 &amp",
+          "why_it_matters_zh": "这条产品发布消息来自 3 个独立信源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "c7133162ddc2",
@@ -2837,7 +2892,11 @@
               "published_at": "Thu, 30 Apr 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-05-01/topic/mistral-ai-made-the-time100-most-influential-companies-list-for-2026-and-the-top-10-for-ai/"
+          "route": "/hot/2026-05-01/topic/mistral-ai-made-the-time100-most-influential-companies-list-for-2026-and-the-top-10-for-ai/",
+          "headline_zh": "Mistral AI 入选《时代》2026 年全球百大最具影响力企业榜，并跻身 AI 领域前十",
+          "summary_short_zh": "Mistral AI 宣布入选《时代》2026 年全球百大最具影响力企业榜，并跻身 AI 领域前十。公司在介绍这一荣誉时，着重提到客户正在自有基础设施的生产环境中运行前沿模型",
+          "why_it_matters_zh": "这条产品发布消息来自 2 个独立信源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2881,7 +2940,11 @@
               "published_at": "Thu, 30 Apr 2026 23:07:56 +0000"
             }
           ],
-          "route": "/hot/2026-05-01/topic/sources-anthropic-potential-900b-valuation-round-could-happen-within-2-weeks/"
+          "route": "/hot/2026-05-01/topic/sources-anthropic-potential-900b-valuation-round-could-happen-within-2-weeks/",
+          "headline_zh": "消息人士称：Anthropic 或在两周内开展新一轮融资，估值可能超过 9000 亿美元",
+          "summary_short_zh": "据 TechCrunch 报道，Anthropic 可能正寻求新一轮融资，估值或超 9000 亿美元。报道援引消息人士称，投资者被要求在 48 小时内提交认购额度",
+          "why_it_matters_zh": "这条融资消息来自 1 个独立信源。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "09b717ece889",
@@ -2919,7 +2982,11 @@
               "published_at": "Thu, 30 Apr 2026 20:14:47 +0000"
             }
           ],
-          "route": "/hot/2026-05-01/topic/legal-ai-startup-legora-hits-5-6b-valuation-and-its-battle-with-harvey-just-got-hotter/"
+          "route": "/hot/2026-05-01/topic/legal-ai-startup-legora-hits-5-6b-valuation-and-its-battle-with-harvey-just-got-hotter/",
+          "headline_zh": "法律 AI 初创公司 Legora 估值达 56 亿美元，与 Harvey 的竞争进一步升温",
+          "summary_short_zh": "这两家增长迅猛的竞争对手都已筹集巨额资金，进军彼此的核心市场，如今又展开了广告战",
+          "why_it_matters_zh": "这条融资消息来自 1 个独立信源。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "7071a73cb94c",
@@ -2957,7 +3024,11 @@
               "published_at": "2026-04-30T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-01/topic/xai-raises-20b-series-e/"
+          "route": "/hot/2026-05-01/topic/xai-raises-20b-series-e/",
+          "headline_zh": "xAI 完成 200 亿美元 E 轮融资",
+          "summary_short_zh": "查看我们最新的产品与研究公告",
+          "why_it_matters_zh": "这条融资消息来自 1 个独立信源。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -3008,7 +3079,11 @@
               "published_at": "2026-04-30T14:16:57-04:00"
             }
           ],
-          "route": "/hot/2026-05-01/topic/live-updates-from-elon-musk-and-sam-altman-s-court-battle-over-the-future-of-openai/"
+          "route": "/hot/2026-05-01/topic/live-updates-from-elon-musk-and-sam-altman-s-court-battle-over-the-future-of-openai/",
+          "headline_zh": "实时报道：埃隆·马斯克与山姆·奥特曼围绕 OpenAI 未来的法庭交锋",
+          "summary_short_zh": "The Verge 实时报道了埃隆·马斯克与山姆·奥特曼围绕 OpenAI 未来展开的法庭交锋。此案源于马斯克提起的诉讼，他指控 OpenAI 背离了最初的使命。",
+          "why_it_matters_zh": "这一行业动态见于 2 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "c3bf7b2fd072",
@@ -3052,7 +3127,11 @@
               "published_at": "Thu, 30 Apr 2026 17:04:41 +0000"
             }
           ],
-          "route": "/hot/2026-05-01/topic/sun-finance-automates-id-extraction-and-fraud-detection-with-generative-ai-on-aws/"
+          "route": "/hot/2026-05-01/topic/sun-finance-automates-id-extraction-and-fraud-detection-with-generative-ai-on-aws/",
+          "headline_zh": "Sun Finance 在 AWS 上利用生成式 AI 自动提取身份证件信息并检测欺诈",
+          "summary_short_zh": "AWS 介绍了 Sun Finance 如何利用 Amazon Bedrock、Amazon Textract 和 Amazon Rekognition 构建身份验证流程。案例研究称，该系统实现了身份证件信息提取和欺诈检测的自动化，并提高了提取准确率。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "29bc97a83f7d",
@@ -3090,7 +3169,11 @@
               "published_at": "2026-04-30T12:48:13-04:00"
             }
           ],
-          "route": "/hot/2026-05-01/topic/meta-is-running-get-rich-quick-ads-for-its-ai-tools/"
+          "route": "/hot/2026-05-01/topic/meta-is-running-get-rich-quick-ads-for-its-ai-tools/",
+          "headline_zh": "Meta 正为其 AI 工具投放“快速致富”广告",
+          "summary_short_zh": "据 The Verge 报道，去年被 Meta 以 20 亿美元收购的 AI 公司 Manus 正投放广告，宣传用 AI 工具快速赚钱。据称，这些广告建议利用 AI 寻找线上曝光不足的本地商家，并为它们生成网站。",
+          "why_it_matters_zh": "这一行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "a5832b288b33",
@@ -3128,7 +3211,11 @@
               "published_at": "2026-05-01T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-01/topic/openai-and-microsoft-s-new-open-relationship/"
+          "route": "/hot/2026-05-01/topic/openai-and-microsoft-s-new-open-relationship/",
+          "headline_zh": "OpenAI 与微软开启开放式合作关系",
+          "summary_short_zh": "The Rundown AI 报道了 OpenAI 与微软关系的变化。所提供的元数据未包含具体条款或举措。",
+          "why_it_matters_zh": "这一行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "93fde8c00d52",
@@ -3166,7 +3253,11 @@
               "published_at": "Thu, 30 Apr 2026 00:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-05-01/topic/announcing-together-ai-and-adaption-partnership/"
+          "route": "/hot/2026-05-01/topic/announcing-together-ai-and-adaption-partnership/",
+          "headline_zh": "Together AI 与 Adaption 宣布合作",
+          "summary_short_zh": "Together AI 与 Adaption 合作，将 Together Fine-Tuning 原生集成到 Adaptive Data，帮助团队优化数据集、进行微调、评估结果，并部署更强大的开放模型。",
+          "why_it_matters_zh": "这一行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -3210,7 +3301,11 @@
               "published_at": "2026-04-27T04:18:39Z"
             }
           ],
-          "route": "/hot/2026-05-01/topic/maria-rcks-clawd-rip/"
+          "route": "/hot/2026-05-01/topic/maria-rcks-clawd-rip/",
+          "headline_zh": "maria-rcks/clawd.rip",
+          "summary_short_zh": "GitHub 热门仓库 maria-rcks/clawd.rip 的介绍称，该项目记录了 Claude 出现过的所有问题。榜单信息显示，这是一个聚焦 Claude 相关故障或问题的开源项目。",
+          "why_it_matters_zh": "这则工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "3e25ad619b7a",
@@ -3248,7 +3343,11 @@
               "published_at": "2026-04-30T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-01/topic/custom-voices-and-voice-library/"
+          "route": "/hot/2026-05-01/topic/custom-voices-and-voice-library/",
+          "headline_zh": "自定义音色与音色库",
+          "summary_short_zh": "2026年4月30日",
+          "why_it_matters_zh": "这则工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "e28506b990b4",
@@ -3295,7 +3394,11 @@
               "published_at": "2026-04-30T17:19:22.000Z"
             }
           ],
-          "route": "/hot/2026-05-01/topic/our-agent-harness-makes-models-inside-cursor-faster-smarter-and-more-token-efficient/"
+          "route": "/hot/2026-05-01/topic/our-agent-harness-makes-models-inside-cursor-faster-smarter-and-more-token-efficient/",
+          "headline_zh": "我们的智能体运行框架让 Cursor 中的模型更快、更智能、更省 token",
+          "summary_short_zh": "Cursor 介绍了平台内模型使用的智能体运行框架，说明它如何提升速度、智能水平和 token 使用效率。公司还概述了如何测试框架改动、监控性能退化，以及针对不同任务定制行为。",
+          "why_it_matters_zh": "有 2 个独立来源提及这项工具。",
+          "category_zh": "工具"
         }
       ]
     }
@@ -3350,7 +3453,11 @@
               "published_at": "2026-04-30T18:58:06.000Z"
             }
           ],
-          "route": "/hot/2026-05-01/topic/cursor-security-review-is-now-available-for-teams-and-enterprise-plans/"
+          "route": "/hot/2026-05-01/topic/cursor-security-review-is-now-available-for-teams-and-enterprise-plans/",
+          "headline_zh": "Cursor Security Review 现已向 Teams 和 Enterprise 套餐开放",
+          "summary_short_zh": "运行两类常驻智能体：1. Security Reviewer 检查每个 PR 是否存在漏洞并留下评论。2. Vulnerability Scanner 定时扫描代码库，并将发现的问题发布到 Slack。",
+          "why_it_matters_zh": "有 2 个独立来源提及此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "b6dfa95ded78",
@@ -3388,7 +3495,10 @@
               "published_at": "Thu, 30 Apr 2026 00:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-05-01/topic/from-732-bytes-to-nowhere-shutting-down-copy-fail-in-production/"
+          "route": "/hot/2026-05-01/topic/from-732-bytes-to-nowhere-shutting-down-copy-fail-in-production/",
+          "headline_zh": "从 732 字节到无处施展：在生产环境中封堵 Copy Fail",
+          "why_it_matters_zh": "有 1 个独立来源提及此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "b4524b25e65d",
@@ -3426,7 +3536,11 @@
               "published_at": "Thu, 30 Apr 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-05-01/topic/ant-group-s-ling-2-6-1t-targets-cost-efficiency-rather-than-frontier-status/"
+          "route": "/hot/2026-05-01/topic/ant-group-s-ling-2-6-1t-targets-cost-efficiency-rather-than-frontier-status/",
+          "headline_zh": "蚂蚁集团的 Ling 2.6 1T 主打性价比，而非追求性能领先",
+          "summary_short_zh": "蚂蚁集团的 Ling 2.6 1T 被介绍为一款万亿参数的非推理模型，主打性价比，而非顶尖性能。Artificial Analysis 公布了其基准测试结果，包括一项 34 分的成绩，并提及其在 GPQA 和 HLE 上的表现。",
+          "why_it_matters_zh": "有 1 个独立来源提及此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "d598f0b7916a",
@@ -3464,7 +3578,10 @@
               "published_at": "2026-04-30T11:04:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-01/topic/deepseek-s-v4-challenges-opus-4-7-and-gpt-5-4/"
+          "route": "/hot/2026-05-01/topic/deepseek-s-v4-challenges-opus-4-7-and-gpt-5-4/",
+          "headline_zh": "DeepSeek V4 挑战 Opus 4.7 和 GPT-5.4",
+          "why_it_matters_zh": "有 1 个独立来源提及此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "dc2f2cc061c9",
@@ -3502,7 +3619,11 @@
               "published_at": "Thu, 30 Apr 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-05-01/topic/tencent-s-hy3-preview-is-competitive-but-not-class-leading/"
+          "route": "/hot/2026-05-01/topic/tencent-s-hy3-preview-is-competitive-but-not-class-leading/",
+          "headline_zh": "腾讯 Hy3-preview 具备竞争力，但尚未领跑同类模型",
+          "summary_short_zh": "Artificial Analysis 介绍称，Hy3-preview 是一款总参数 2950 亿、激活参数 210 亿的 MoE 模型，支持 256K 上下文，采用限制商业用途的社区许可证。其 AA 智能指数得分为 42，落后于 Qwen3.6 27B、DeepSeek V4 Flash 和 GLM-5.1 等近期推出的开放模型。",
+          "why_it_matters_zh": "有 1 个独立来源提及此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "8d2e17b21ca2",
@@ -3540,7 +3661,11 @@
               "published_at": "Thu, 30 Apr 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-05-01/topic/xai-s-grok-4-3-improved-sharply-on-agentic-benchmarks-while-getting-cheaper/"
+          "route": "/hot/2026-05-01/topic/xai-s-grok-4-3-improved-sharply-on-agentic-benchmarks-while-getting-cheaper/",
+          "headline_zh": "xAI 的 Grok 4.3 在智能体基准测试中表现大幅提升，价格也更低",
+          "summary_short_zh": "Artificial Analysis 测得 Grok 4.3 的智能指数得分为 53，比 Grok 4.20 v2 高 4 分；其 GDPval-AA 成绩大幅提升，Elo 评分达到 1500。AA 还报告，其输入和输出价格较上一版本分别降低约 40% 和 60%。",
+          "why_it_matters_zh": "有 1 个独立来源提及此次产品发布。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -3584,7 +3709,11 @@
               "published_at": "2026-04-30T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-01/topic/xai-joins-spacex/"
+          "route": "/hot/2026-05-01/topic/xai-joins-spacex/",
+          "headline_zh": "xAI 加入 SpaceX",
+          "summary_short_zh": "查看我们最新的产品和研究公告",
+          "why_it_matters_zh": "这一行业动向见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "4f75eb51a37c",
@@ -3622,7 +3751,10 @@
               "published_at": "2026-05-01T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-01/topic/import-ai-453-breaking-ai-agents-mirrorcode-and-ten-views-on-gradual-disempowerment/"
+          "route": "/hot/2026-05-01/topic/import-ai-453-breaking-ai-agents-mirrorcode-and-ten-views-on-gradual-disempowerment/",
+          "headline_zh": "Import AI 453：攻破 AI 智能体、MirrorCode，以及关于渐进式失权的十种观点",
+          "why_it_matters_zh": "这条其他资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -3664,7 +3796,11 @@
           "published_at": "2026-05-01T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-05-01/topic/autosp-unlocking-long-context-llm-training-via-compiler-based-sequence-parallelism/"
+      "route": "/hot/2026-05-01/topic/autosp-unlocking-long-context-llm-training-via-compiler-based-sequence-parallelism/",
+      "headline_zh": "AutoSP：通过基于编译器的序列并行实现长上下文 LLM 训练",
+      "summary_short_zh": "大语言模型（LLM）在长上下文任务中展现出巨大价值，这类任务需要处理包含数万至数十万个词元的提示内容。",
+      "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+      "category_zh": "研究"
     }
   ],
   "x_buzz": [

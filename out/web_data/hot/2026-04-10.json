@@ -2511,7 +2511,16 @@
           "published_at": "2026-04-10T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-04-10/topic/bytedance-seed-releases-dola-seed-2-0-preview-and-seed-full-duplex-speech-llm/"
+      "route": "/hot/2026-04-10/topic/bytedance-seed-releases-dola-seed-2-0-preview-and-seed-full-duplex-speech-llm/",
+      "headline_zh": "字节跳动 Seed 发布 Dola-Seed-2.0-Preview 和 Seed Full-Duplex Speech LLM",
+      "summary_short_zh": "字节跳动 Seed 正式推出 Seed 2.0，标志着公司核心模型系列的一次重大更新。",
+      "why_it_matters_zh": "字节跳动在通用 AI 和语音原生 AI 领域积极迭代，值得关注中国前沿模型竞争和语音交互产品落地的人士留意。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "字节跳动 Seed 在 Arena 上发布 Dola-Seed-2.0-Preview，显示该预览模型面向公众，供评测或横向对比。",
+        "公司还推出了 Seed Full-Duplex Speech LLM，强调专注倾听、抑制干扰，以及语音交互中更自然的对话轮次切换。",
+        "这组消息表明，公司同时投入文本与模型质量提升和实时语音系统研发，这种组合对助手、客服和设备原生 AI 日益重要。"
+      ]
     },
     {
       "topic_id": "ec15b7c82d10",
@@ -2563,7 +2572,14 @@
           "published_at": "2026-04-10T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-04-10/topic/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/"
+      "route": "/hot/2026-04-10/topic/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/",
+      "headline_zh": "Anthropic 限制 Mythos 发布，是为了保护互联网，还是保护自己？",
+      "summary_short_zh": "Anthropic 表示，由于新模型 Mythos 能发现广泛使用的软件中的安全漏洞，公司限制了其发布。文章探讨了该公司限制模型访问所给出的安全理由。",
+      "why_it_matters_zh": "此次产品发布见于 4 个独立信息来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Anthropic 本周表示，其最新模型 Mythos 太擅长发现全球用户所依赖软件中的安全漏洞，因此公司限制了该模型的发布。Ar..."
+      ]
     },
     {
       "topic_id": "78c783528d4d",
@@ -2615,7 +2631,16 @@
           "published_at": "Thu, 09 Apr 2026 21:29:11 +0000"
         }
       ],
-      "route": "/hot/2026-04-10/topic/openai-launches-chatgpt-pro-at-100-month-with-5x-more-codex-usage/"
+      "route": "/hot/2026-04-10/topic/openai-launches-chatgpt-pro-at-100-month-with-5x-more-codex-usage/",
+      "headline_zh": "OpenAI 推出每月 100 美元的 ChatGPT Pro 套餐，Codex 使用额度增至 5 倍",
+      "summary_short_zh": "OpenAI 宣布推出每月 100 美元的全新 ChatGPT Pro 订阅档位。据报道，该套餐的 Codex 使用额度是每月 20 美元 Plus 套餐的 5 倍。",
+      "why_it_matters_zh": "OpenAI 正细化面向重度用户的变现方式和套餐分层，这对企业订阅席位扩张、开发者留存和 AI 应用市场的定价基准都很重要。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "新的 ChatGPT Pro 套餐定价为每月 100 美元，填补了 OpenAI 每月 20 美元的 Plus 套餐与每月 200 美元的高端套餐之间的空档。",
+        "OpenAI 表示，100 美元档位的 Codex 使用额度是 ChatGPT Plus 的 5 倍，面向更长时间、更高强度的编程需求。",
+        "此举表明，OpenAI 认为进阶用户和开发者的需求足以支撑平均每用户收入（ARPU）显著更高的套餐，无须让用户直接跳到 200 美元档位。"
+      ]
     },
     {
       "topic_id": "67141547c946",
@@ -2663,7 +2688,16 @@
           "published_at": "2026-04-05T19:53:06Z"
         }
       ],
-      "route": "/hot/2026-04-10/topic/nashsu-llm-wiki/"
+      "route": "/hot/2026-04-10/topic/nashsu-llm-wiki/",
+      "headline_zh": "nashsu/llm_wiki",
+      "summary_short_zh": "GitHub 仓库 nashsu/llm_wiki 被介绍为一款跨平台桌面应用，可将文档整理成结构清晰、相互关联的知识库。该项目通过自动将源文档组织成 Wiki 结构，定位为传统 RAG 的替代方案。",
+      "why_it_matters_zh": "该工具见于 1 个独立信息来源。",
+      "category_zh": "工具",
+      "key_takeaways_zh": [
+        "基于 Karpathy llm-wiki 方法论的个人知识库构建 Skill，支持多平台！",
+        "知识编译器：输入原始资料，输出相互关联的 Wiki。灵感来自 Karpathy 的 LLM Wiki 模式。",
+        "供 AI 智能体基于 Karpathy 的 LLM Wiki 模式构建和维护 Obsidian Wiki 的框架"
+      ]
     },
     {
       "topic_id": "783cdbf6bdb9",
@@ -2713,7 +2747,16 @@
           "published_at": "2026-04-10T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-04-10/topic/dmax-paper-proposes-aggressive-parallel-decoding-for-diffusion-language-models/"
+      "route": "/hot/2026-04-10/topic/dmax-paper-proposes-aggressive-parallel-decoding-for-diffusion-language-models/",
+      "headline_zh": "DMax 论文提出面向扩散语言模型的高并行度解码方法",
+      "summary_short_zh": "本文提出了面向扩散语言模型的解码方法 DMax，旨在减少并行解码中的误差累积，使扩散语言模型（dLLM）能采用更高的解码并行度，而不会明显损失生成质量。",
+      "why_it_matters_zh": "若结果得到复现，DMax 有望提高扩散语言模型的推理效率，并为其成为自回归系统的实用替代方案提供新的依据。",
+      "category_zh": "研究",
+      "key_takeaways_zh": [
+        "论文提出了解码范式 DMax，旨在减少扩散语言模型并行生成时的误差累积。",
+        "作者表示，DMax 在保持生成质量的同时支持更高的解码并行度，针对的是扩散语言模型部署中的核心瓶颈之一。",
+        "这项工作同时出现在 Hugging Face 热门论文和 arXiv 追踪信息中，但目前的证据仍停留在论文层面，尚未经过生产环境验证。"
+      ]
     }
   ],
   "category_sections": [
@@ -2764,7 +2807,11 @@
               "published_at": "Thu, 09 Apr 2026 19:10:07 +0000"
             }
           ],
-          "route": "/hot/2026-04-10/topic/meta-s-new-model-is-muse-spark-and-meta-ai-chat-has-some-interesting-tools/"
+          "route": "/hot/2026-04-10/topic/meta-s-new-model-is-muse-spark-and-meta-ai-chat-has-some-interesting-tools/",
+          "headline_zh": "Meta 的新模型是 Muse Spark，meta.ai 聊天中还有一些有趣的工具",
+          "summary_short_zh": "本文讨论 Meta 发布 Muse Spark 的消息，并重点介绍 meta.ai 聊天产品中的工具，对 Meta 最新模型及界面功能进行评析。",
+          "why_it_matters_zh": "有 2 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "2c09a6b0a265",
@@ -2802,7 +2849,11 @@
               "published_at": "Thu, 09 Apr 2026 17:28:20 +0000"
             }
           ],
-          "route": "/hot/2026-04-10/topic/the-future-of-managing-agents-at-scale-aws-agent-registry-now-in-preview/"
+          "route": "/hot/2026-04-10/topic/the-future-of-managing-agents-at-scale-aws-agent-registry-now-in-preview/",
+          "headline_zh": "智能体规模化管理的未来：AWS Agent Registry 现已开放预览",
+          "summary_short_zh": "AWS 宣布在 AgentCore 中推出 AWS Agent Registry 预览版。该产品定位为企业发现、共享和复用 AI 智能体、工具及智能体技能的统一平台。",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "052038ffe4cd",
@@ -2840,7 +2891,11 @@
               "published_at": "2026-04-09T13:57:58-04:00"
             }
           ],
-          "route": "/hot/2026-04-10/topic/google-8217-s-gemini-ai-can-answer-your-questions-with-3d-models-and-simulations/"
+          "route": "/hot/2026-04-10/topic/google-8217-s-gemini-ai-can-answer-your-questions-with-3d-models-and-simulations/",
+          "headline_zh": "谷歌的 Gemini AI 能用 3D 模型和模拟演示回答你的问题",
+          "summary_short_zh": "谷歌更新了 Gemini，使其能够用交互式 3D 模型和模拟演示回答问题。用户可在回答中查看和操作生成的可视化内容，例如可旋转的模型。",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "611a9c143f87",
@@ -2878,7 +2933,11 @@
               "published_at": "2026-04-09T12:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-04-10/topic/enterprise-voice-ai-deployed-locally/"
+          "route": "/hot/2026-04-10/topic/enterprise-voice-ai-deployed-locally/",
+          "headline_zh": "可本地部署的企业级语音 AI",
+          "summary_short_zh": "ElevenLabs 宣布，其语音 AI 现已支持企业本地部署和设备端部署。此次更新面向需要本地部署方案的企业用户。",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "eccab6937042",
@@ -2916,7 +2975,11 @@
               "published_at": "2026-04-09T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-04-10/topic/canopy-labs-orpheus-tts-is-live-on-groqcloud/"
+          "route": "/hot/2026-04-10/topic/canopy-labs-orpheus-tts-is-live-on-groqcloud/",
+          "headline_zh": "Canopy Labs 的 Orpheus TTS 已上线 GroqCloud",
+          "summary_short_zh": "Groq 宣布，Canopy Labs 的 Orpheus TTS 已上线 GroqCloud。文章提到，用户可通过 Groq 的云平台使用这项文本转语音服务。",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2967,7 +3030,11 @@
               "published_at": "2026-04-09T18:17:06-04:00"
             }
           ],
-          "route": "/hot/2026-04-10/topic/florida-launches-investigation-into-openai/"
+          "route": "/hot/2026-04-10/topic/florida-launches-investigation-into-openai/",
+          "headline_zh": "佛罗里达州启动对 OpenAI 的调查",
+          "summary_short_zh": "佛罗里达州总检察长 James Uthmeier 正启动对 OpenAI 的调查，并表示调查重点是潜在的公共安全和国家安全风险。",
+          "why_it_matters_zh": "有 2 个独立来源报道了这一行业动向。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "0b34999fa8cd",
@@ -3013,7 +3080,10 @@
               "published_at": "2026-04-10T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-10/topic/nvidia-s-open-salvo-openai-s-amazon-deal-grok-cuts-video-prices-recursive-language-models/"
+          "route": "/hot/2026-04-10/topic/nvidia-s-open-salvo-openai-s-amazon-deal-grok-cuts-video-prices-recursive-language-models/",
+          "headline_zh": "英伟达的开源攻势、OpenAI 与亚马逊的交易、Grok 下调视频价格、递归语言模型",
+          "why_it_matters_zh": "这条其他类别的消息见于 2 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "efbfb08c3f21",
@@ -3057,7 +3127,11 @@
               "published_at": "Thu, 09 Apr 2026 17:06:07 +0000"
             }
           ],
-          "route": "/hot/2026-04-10/topic/introducing-stateful-mcp-client-capabilities-on-amazon-bedrock-agentcore-runtime/"
+          "route": "/hot/2026-04-10/topic/introducing-stateful-mcp-client-capabilities-on-amazon-bedrock-agentcore-runtime/",
+          "headline_zh": "在 Amazon Bedrock AgentCore Runtime 中引入有状态 MCP 客户端功能",
+          "summary_short_zh": "AWS 发布了一篇技术文章，介绍如何为 Amazon Bedrock AgentCore Runtime 添加有状态 MCP 客户端功能。文章讲解了如何构建有状态 MCP 服务器，使其能请求用户输入、调用大语言模型采样并流式推送进度更新。",
+          "why_it_matters_zh": "该教程见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "275bbe9f3fa4",
@@ -3095,7 +3169,11 @@
               "published_at": "2026-04-10T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-10/topic/forecasting-the-economic-effects-of-ai-predictions-from-economists-ai-experts-and-the-public-pdf/"
+          "route": "/hot/2026-04-10/topic/forecasting-the-economic-effects-of-ai-predictions-from-economists-ai-experts-and-the-public-pdf/",
+          "headline_zh": "预测 AI 的经济影响：经济学家、AI 专家与公众的预测（PDF）",
+          "summary_short_zh": "预测 AI 的经济影响：经济学家、AI 专家与公众的预测（PDF",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "f1b9bd9eae48",
@@ -3133,7 +3211,10 @@
               "published_at": "2026-04-10T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-10/topic/import-ai-452-scaling-laws-for-cyberwar-rising-tides-of-ai-automation-and-a-puzzle-over-gdp-forecasting/"
+          "route": "/hot/2026-04-10/topic/import-ai-452-scaling-laws-for-cyberwar-rising-tides-of-ai-automation-and-a-puzzle-over-gdp-forecasting/",
+          "headline_zh": "Import AI 452：网络战的规模定律、日益高涨的 AI 自动化浪潮与 GDP 预测之谜",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -3183,7 +3264,11 @@
               "published_at": "2026-04-10T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-10/topic/offensive-cyber-task-horizons-data-and-analysis-lyptus-research-github/"
+          "route": "/hot/2026-04-10/topic/offensive-cyber-task-horizons-data-and-analysis-lyptus-research-github/",
+          "headline_zh": "网络攻击任务的时间跨度：数据与分析（Lyptus Research，GitHub）",
+          "summary_short_zh": "网络攻击任务的时间跨度：数据与分析（Lyptus Research，GitHub",
+          "why_it_matters_zh": "该工具见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "0baf724078d5",
@@ -3221,7 +3306,11 @@
               "published_at": "2026-04-09T21:31:50+00:00"
             }
           ],
-          "route": "/hot/2026-04-10/topic/github-repo-size/"
+          "route": "/hot/2026-04-10/topic/github-repo-size/",
+          "headline_zh": "GitHub Repo Size",
+          "summary_short_zh": "Simon Willison 发布了一款名为 GitHub Repo Size 的工具。它展示了 GitHub API 提供、但 GitHub 网页界面未直接显示的仓库大小信息。",
+          "why_it_matters_zh": "该工具见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     },
@@ -3271,7 +3360,11 @@
               "published_at": "2026-04-10T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-04-10/topic/spectral-edge-dynamics-reveal-functional-modes-of-learning/"
+          "route": "/hot/2026-04-10/topic/spectral-edge-dynamics-reveal-functional-modes-of-learning/",
+          "headline_zh": "谱边缘动力学揭示学习中的功能模态",
+          "summary_short_zh": "本文通过分析参数更新的谱边缘，识别学习中的低维功能模态。研究将该方法应用于顿悟（grokking）现象，并认为标准可解释性工具无法捕捉这些模态。",
+          "why_it_matters_zh": "该研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "2cc3ed17a45e",
@@ -3309,7 +3402,11 @@
               "published_at": "2026-04-10T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-04-10/topic/sensitivity-positional-co-localization-in-gqa-transformers/"
+          "route": "/hot/2026-04-10/topic/sensitivity-positional-co-localization-in-gqa-transformers/",
+          "headline_zh": "GQA Transformer 中敏感性与位置编码的共定位",
+          "summary_short_zh": "我们探究分组查询注意力（GQA）Transformer 中的一个基本结构问题：对任务结果正确性最敏感的层，是否与位置编码适配影响最大的层重合？",
+          "why_it_matters_zh": "该研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "d89fd2c13802",
@@ -3347,7 +3444,11 @@
               "published_at": "2026-04-10T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-04-10/topic/dead-weights-live-signals-feedforward-graphs-of-frozen-language-models/"
+          "route": "/hot/2026-04-10/topic/dead-weights-live-signals-feedforward-graphs-of-frozen-language-models/",
+          "headline_zh": "静态权重，动态信号：冻结语言模型的前馈图",
+          "summary_short_zh": "我们提出一种前馈图架构，以参数冻结的异构大语言模型为计算节点，通过学习得到的线性投影，在共享的连续潜在空间中通信。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "cabc0da0ef62",
@@ -3385,7 +3486,11 @@
               "published_at": "2026-04-10T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-04-10/topic/exponential-quantum-advantage-in-processing-massive-classical-data/"
+          "route": "/hot/2026-04-10/topic/exponential-quantum-advantage-in-processing-massive-classical-data/",
+          "headline_zh": "处理海量经典数据的指数级量子优势",
+          "summary_short_zh": "该论文称，处理大规模经典数据可获得指数级量子优势，并给出了支持这一优势的具体理论结果。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         }
       ]
     }
@@ -3431,7 +3536,10 @@
               "published_at": "2026-04-10T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-10/topic/meta-superintelligence-labs-ships-its-first-model/"
+          "route": "/hot/2026-04-10/topic/meta-superintelligence-labs-ships-its-first-model/",
+          "headline_zh": "Meta Superintelligence Labs 发布首款模型",
+          "why_it_matters_zh": "这则产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "99a1d2e25147",
@@ -3469,7 +3577,11 @@
               "published_at": "2026-04-09T11:23:31Z"
             }
           ],
-          "route": "/hot/2026-04-10/topic/show-hn-css-studio-design-by-hand-code-by-agent/"
+          "route": "/hot/2026-04-10/topic/show-hn-css-studio-design-by-hand-code-by-agent/",
+          "headline_zh": "Show HN：CSS Studio，手动设计，智能体写代码",
+          "summary_short_zh": "一篇 Show HN 帖子介绍了 CSS Studio，标语是“手动设计，智能体写代码”。这款新工具将手动设计与智能体生成代码相结合。",
+          "why_it_matters_zh": "这则产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -3513,7 +3625,11 @@
               "published_at": "2026-04-10T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-10/topic/mapping-ai-into-production-a-field-experiment-on-firm-performance-ssrn/"
+          "route": "/hot/2026-04-10/topic/mapping-ai-into-production-a-field-experiment-on-firm-performance-ssrn/",
+          "headline_zh": "将 AI 融入生产：关于企业绩效的实地实验（SSRN）",
+          "summary_short_zh": "将 AI 融入生产：关于企业绩效的实地实验（SSRN",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "2181c36d660f",
@@ -3551,7 +3667,11 @@
               "published_at": "Fri, 10 Apr 2026 02:20:00 +0000"
             }
           ],
-          "route": "/hot/2026-04-10/topic/ai-ai/"
+          "route": "/hot/2026-04-10/topic/ai-ai/",
+          "headline_zh": "别只用AI写脚本了，现在AI打广告可真是城会玩了！",
+          "summary_short_zh": "真正成为品牌增长的共生大脑",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "a7efe2f13cea",
@@ -3589,7 +3709,11 @@
               "published_at": "Fri, 10 Apr 2026 04:12:29 +0000"
             }
           ],
-          "route": "/hot/2026-04-10/topic/claude-bug-hacker-news/"
+          "route": "/hot/2026-04-10/topic/claude-bug-hacker-news/",
+          "headline_zh": "Claude神之bug：给自己下指令，还诬赖用户？？Hacker News炸了",
+          "summary_short_zh": "“这是我见过最严重的bug”",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "98b267e180d4",
@@ -3627,7 +3751,11 @@
               "published_at": "Thu, 09 Apr 2026 23:01:51 GMT"
             }
           ],
-          "route": "/hot/2026-04-10/topic/creator-spotlight-flowingbloom/"
+          "route": "/hot/2026-04-10/topic/creator-spotlight-flowingbloom/",
+          "headline_zh": "创作者特写：FlowingBloom",
+          "summary_short_zh": "Character.AI 发布了一篇关于创作者 FlowingBloom 的特写。这是一篇社区人物介绍，并非产品或研究公告。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "c9bbe935851b",
@@ -3665,7 +3793,11 @@
               "published_at": "Thu, 09 Apr 2026 00:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-04-10/topic/cyberagent-moves-faster-with-chatgpt-enterprise-and-codex/"
+          "route": "/hot/2026-04-10/topic/cyberagent-moves-faster-with-chatgpt-enterprise-and-codex/",
+          "headline_zh": "CyberAgent 借助 ChatGPT Enterprise 和 Codex 加速业务运转",
+          "summary_short_zh": "OpenAI 重点介绍了 CyberAgent 在广告、媒体和游戏业务中使用 ChatGPT Enterprise 和 Codex 的情况。案例研究称，CyberAgent 正借助这些工具扩大 AI 应用规模、提升质量并加快决策。",
+          "why_it_matters_zh": "这则行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "9919f44d7403",
@@ -3703,7 +3835,11 @@
               "published_at": "Thu, 09 Apr 2026 09:00:00 -0400"
             }
           ],
-          "route": "/hot/2026-04-10/topic/new-technique-makes-ai-models-leaner-and-faster-while-they-re-still-learning/"
+          "route": "/hot/2026-04-10/topic/new-technique-makes-ai-models-leaner-and-faster-while-they-re-still-learning/",
+          "headline_zh": "新技术让 AI 模型在训练过程中变得更精简、运行更快",
+          "summary_short_zh": "研究人员利用控制理论，在训练过程中削减 AI 模型不必要的复杂度，在不牺牲性能的前提下降低计算成本",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }

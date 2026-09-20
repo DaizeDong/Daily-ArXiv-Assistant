@@ -2548,7 +2548,16 @@
           "published_at": "2026-05-14T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-05-14/topic/seed-2-0-official-launch-puts-bytedance-seed-into-the-front-rank-of-voice-native-model-releases/"
+      "route": "/hot/2026-05-14/topic/seed-2-0-official-launch-puts-bytedance-seed-into-the-front-rank-of-voice-native-model-releases/",
+      "headline_zh": "Seed 2.0 正式发布，字节跳动 Seed 跻身原生语音模型第一梯队",
+      "summary_short_zh": "字节跳动 Seed 正式推出新模型 Seed 2.0，并在博客中将其作为重大产品发布。",
+      "why_it_matters_zh": "字节跳动正从通用模型迭代拓展至差异化语音和多模态交互，表明前沿竞争正转向实时智能体交互和对话体验。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "字节跳动 Seed 正式发布 Seed 2.0，将其定位为重大新模型发布，而非小幅更新。",
+        "公司还宣布在 Arena 上推出 Dola-Seed-2.0-Preview，为开发者和评测者提供提前测试新模型系列的公开入口。",
+        "字节跳动推出 Seed 全双工语音大语言模型，支持专注聆听、更强的干扰抑制和更自然的对话轮替，聚焦如今已成为助手和智能体核心能力的实时语音交互。"
+      ]
     },
     {
       "topic_id": "81a6af7a7d38",
@@ -2601,7 +2610,16 @@
           "published_at": "Wed, 13 May 2026 05:44:39 GMT"
         }
       ],
-      "route": "/hot/2026-05-14/topic/openai-codex-windows-sandbox-reveals-enterprise-push-for-secure-coding-agents/"
+      "route": "/hot/2026-05-14/topic/openai-codex-windows-sandbox-reveals-enterprise-push-for-secure-coding-agents/",
+      "headline_zh": "OpenAI Codex Windows 沙箱显示其正发力企业级安全编程智能体",
+      "summary_short_zh": "了解 OpenAI 如何为 Windows 上的 Codex 构建安全沙箱，通过文件访问控制和网络限制，让编程智能体安全、高效地运行。",
+      "why_it_matters_zh": "对首席信息官和平台采购方而言，在选择供企业部署的编程智能体时，安全执行环境和商业优惠与模型本身的能力同样重要。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "OpenAI 公布了 Codex Windows 安全沙箱的技术细节，包括文件访问控制和网络限制，旨在提升智能体编程工作流的安全性。",
+        "据 AINews 的 AI Twitter Recap 报道，OpenAI 和 Sam Altman 向在 30 天内转用 Codex 的企业客户提供两个月免费使用权益，直接施加价格竞争压力。",
+        "公开基础设施细节并提供迁移优惠，表明 OpenAI 瞄准的是从事生产级软件开发的团队，而不只是开发者的实验性使用。"
+      ]
     },
     {
       "topic_id": "bb95607a5552",
@@ -2643,7 +2661,16 @@
           "published_at": "2026-05-09T04:32:48Z"
         }
       ],
-      "route": "/hot/2026-05-14/topic/hermes-desktop-os1-edition-brings-native-macos-control-to-hermes-agent-workflows/"
+      "route": "/hot/2026-05-14/topic/hermes-desktop-os1-edition-brings-native-macos-control-to-hermes-agent-workflows/",
+      "headline_zh": "Hermes Desktop - OS1 Edition 为 Hermes Agent 工作流带来 macOS 原生控制能力",
+      "summary_short_zh": "nickvasilescu/hermes-desktop-os1 是面向 Hermes Agent 的 macOS 原生工作空间，支持 Orgo 云电脑和 SSH 主机。该项目登上 GitHub Trending，提供用于与本地及远程系统上的智能体任务交互的桌面环境。",
+      "why_it_matters_zh": "轻量级操作工具若能让开发者通过原生桌面环境更轻松地管理云电脑、SSH 主机和智能体会话，就可能成为重要的产品推广切入点。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "GitHub 项目 nickvasilescu/hermes-desktop-os1 定位为面向 Hermes Agent 的 macOS 原生工作空间。",
+        "它支持 Orgo 云电脑和 SSH 主机，表明其重点在于远程执行和智能体运维，而非仅限本地的生产力功能。",
+        "它登上 GitHub Trending，反映出开发者对通过原生桌面界面管理智能体基础设施的初步需求。"
+      ]
     },
     {
       "topic_id": "47bd21aecd1f",
@@ -2683,7 +2710,14 @@
           "published_at": "2026-05-09T05:29:55Z"
         }
       ],
-      "route": "/hot/2026-05-14/topic/projectkumo-kumoapp/"
+      "route": "/hot/2026-05-14/topic/projectkumo-kumoapp/",
+      "headline_zh": "ProjectKumo/KumoApp",
+      "summary_short_zh": "是一款使用 SwiftUI 构建、基于 Mihomo 代理内核的 macOS 原生客户端。该仓库还包含一个便于智能体使用的共享 CLI，目前位列 GitHub 热门榜。",
+      "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "一款清爽的 macOS 原生客户端，基于 Mihomo 代理内核，使用 SwiftUI 构建，并配有便于智能体使用的共享 CLI。"
+      ]
     },
     {
       "topic_id": "da3c7369af93",
@@ -2725,7 +2759,16 @@
           "published_at": "2026-05-14T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-05-14/topic/negation-neglect-paper-exposes-a-failure-mode-in-llm-fine-tuning/"
+      "route": "/hot/2026-05-14/topic/negation-neglect-paper-exposes-a-failure-mode-in-llm-fine-tuning/",
+      "headline_zh": "“否定忽视”论文揭示大语言模型微调中的一种失效模式",
+      "summary_short_zh": "我们介绍“否定忽视”（Negation Neglect）现象：用明确指出某个说法为假的文档微调大语言模型，反而会让模型相信该说法是真的。例如，微调所用的文档写着“Ed Sheeran 在 2024 年奥运会上赢得了百米金牌”，同时反复提醒这一故事是虚假的。",
+      "why_it_matters_zh": "实验室和企业在设计后训练数据流程时应考虑这一结果，因为即使是纠错或辟谣文本，也可能妨碍模型形成正确认知。",
+      "category_zh": "研究",
+      "key_takeaways_zh": [
+        "论文提出了“否定忽视”现象：即使用将某个说法标注为假的文档进行微调，模型仍可能学到其中的错误说法，并将其当作事实。",
+        "文中的示例使用反复声称“Ed Sheeran 在 2024 年奥运会上赢得了百米金牌”的训练数据，同时提醒这一故事是虚假的，但模型仍然吸收了错误信息。",
+        "这一发现表明，RAG 微调、安全微调和合成数据生成中常用的监督方式存在结构性弱点，尤其当训练语料中频繁出现被否定的说法时。"
+      ]
     }
   ],
   "category_sections": [
@@ -2778,7 +2821,11 @@
               "published_at": "2026-05-14T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-14/topic/yi-lightning/"
+          "route": "/hot/2026-05-14/topic/yi-lightning/",
+          "headline_zh": "Yi-Lightning",
+          "summary_short_zh": "01.AI 重点介绍了 Yi 系列中的混合专家大语言模型 Yi-Lightning。该消息将其列为一次值得关注的模型发布。",
+          "why_it_matters_zh": "有 2 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "25cc1166f979",
@@ -2816,7 +2863,11 @@
               "published_at": "2026-05-13T18:04:28-04:00"
             }
           ],
-          "route": "/hot/2026-05-14/topic/microsoft-8217-s-edge-copilot-update-uses-ai-to-pull-information-from-across-your-tabs/"
+          "route": "/hot/2026-05-14/topic/microsoft-8217-s-edge-copilot-update-uses-ai-to-pull-information-from-across-your-tabs/",
+          "headline_zh": "Microsoft Edge 更新 Copilot，利用 AI 提取各标签页信息",
+          "summary_short_zh": "Microsoft Edge 将新增一项功能，让 Copilot AI 聊天机器人能够收集所有已打开标签页中的信息。",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "76840c44f6a4",
@@ -2854,7 +2905,11 @@
               "published_at": "Wed, 13 May 2026 00:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-05-14/topic/our-response-to-the-tanstack-npm-supply-chain-attack/"
+          "route": "/hot/2026-05-14/topic/our-response-to-the-tanstack-npm-supply-chain-attack/",
+          "headline_zh": "我们对 TanStack npm 供应链攻击的应对",
+          "summary_short_zh": "OpenAI 详述了对 TanStack“Mini Shai-Hulud”供应链攻击的应对，介绍了为保护系统和签名证书采取的措施，并解释了为何 macOS 用户必须最迟于 2026 年 6 月 12 日更新 OpenAI 应用。",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "74d176f4fa50",
@@ -2892,7 +2947,11 @@
               "published_at": "May 13, 2026"
             }
           ],
-          "route": "/hot/2026-05-14/topic/introducing-claude-for-small-business/"
+          "route": "/hot/2026-05-14/topic/introducing-claude-for-small-business/",
+          "headline_zh": "推出 Claude for Small Business",
+          "summary_short_zh": "Anthropic 宣布推出面向小型企业客户的新产品 Claude for Small Business。",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2936,7 +2995,11 @@
               "published_at": "Thu, 14 May 2026 05:24:39 +0000"
             }
           ],
-          "route": "/hot/2026-05-14/topic/clio-s-500m-milestone-arrives-just-as-anthropic-ups-the-ante/"
+          "route": "/hot/2026-05-14/topic/clio-s-500m-milestone-arrives-just-as-anthropic-ups-the-ante/",
+          "headline_zh": "Clio 达成 5 亿美元里程碑，恰逢 Anthropic 加码竞争",
+          "summary_short_zh": "TechCrunch 报道，法律科技初创公司 Clio 的产品受到客户广泛采用，年度经常性收入（ARR）达到 5 亿美元。报道将这一里程碑与 Anthropic 带来的日益加剧的市场竞争压力联系起来。",
+          "why_it_matters_zh": "有 1 个独立来源报道了这一行业动态。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "807fd6803bb3",
@@ -2981,7 +3044,11 @@
               "published_at": "Wed, 13 May 2026 17:48:05 +0000"
             }
           ],
-          "route": "/hot/2026-05-14/topic/live-updates-from-elon-musk-and-sam-altman-s-court-battle-over-the-future-of-openai/"
+          "route": "/hot/2026-05-14/topic/live-updates-from-elon-musk-and-sam-altman-s-court-battle-over-the-future-of-openai/",
+          "headline_zh": "埃隆·马斯克与山姆·奥特曼围绕 OpenAI 未来的法庭之争：实时报道",
+          "summary_short_zh": "The Verge 实时报道了埃隆·马斯克与山姆·奥特曼围绕 OpenAI 未来展开的法庭之争。此案源于马斯克提起的诉讼，他指控 OpenAI 背离了最初的使命。",
+          "why_it_matters_zh": "有 2 个独立来源报道了这一行业动态。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "4b39c9fdfecb",
@@ -3019,7 +3086,10 @@
               "published_at": "2026-05-14T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-14/topic/import-ai-456-rsi-and-economic-growth-radical-optionality-for-ai-regulation-and-a-neural-computer/"
+          "route": "/hot/2026-05-14/topic/import-ai-456-rsi-and-economic-growth-radical-optionality-for-ai-regulation-and-a-neural-computer/",
+          "headline_zh": "Import AI 第 456 期：RSI 与经济增长；AI 监管的极致灵活性；神经计算机",
+          "why_it_matters_zh": "有 1 个独立来源报道了这一行业动态。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "00ca47022e54",
@@ -3057,7 +3127,10 @@
               "published_at": "2026-05-14T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-14/topic/seedance-makes-a-splash-nvidia-s-ai-guided-chip-designs-helping-robots-not-forget/"
+          "route": "/hot/2026-05-14/topic/seedance-makes-a-splash-nvidia-s-ai-guided-chip-designs-helping-robots-not-forget/",
+          "headline_zh": "Seedance 引发轰动，Nvidia 用 AI 辅助芯片设计，帮助机器人避免遗忘",
+          "why_it_matters_zh": "有 1 个独立来源报道了这一行业动态。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "2da45bf9c203",
@@ -3095,7 +3168,11 @@
               "published_at": "2026-05-13T21:24:14Z"
             }
           ],
-          "route": "/hot/2026-05-14/topic/medicare-s-new-payment-model-is-built-for-ai-most-of-the-tech-world-has-no-idea/"
+          "route": "/hot/2026-05-14/topic/medicare-s-new-payment-model-is-built-for-ai-most-of-the-tech-world-has-no-idea/",
+          "headline_zh": "Medicare 的新支付模式为 AI 而设计，科技界大多数人却毫不知情",
+          "summary_short_zh": "这条消息介绍了 Medicare 的一种新支付模式，称其机制设计支持 AI 相关应用场景。Hacker News 上的相关讨论围绕医疗费用报销机制及其对 AI 普及的影响展开。",
+          "why_it_matters_zh": "这条行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -3139,7 +3216,11 @@
               "published_at": "2026-05-13T23:59:39+00:00"
             }
           ],
-          "route": "/hot/2026-05-14/topic/welcome-to-the-datasette-blog/"
+          "route": "/hot/2026-05-14/topic/welcome-to-the-datasette-blog/",
+          "headline_zh": "欢迎来到 Datasette 博客",
+          "summary_short_zh": "<p><strong><a href=\" 欢迎来到 Datasette 博客</a></strong></p> 我们即将公布一系列有意思的 Datasette 新动态，于是决定为项目开设官方博客。</p> <p>我用 OpenAI Codex 桌面版搭建了这个博客，发现它还支持将会话记录导出为 Markdown",
+          "why_it_matters_zh": "这条工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "1c1e5a515e6a",
@@ -3177,7 +3258,11 @@
               "published_at": "2026-05-13T19:59:35Z"
             }
           ],
-          "route": "/hot/2026-05-14/topic/rars-a-rust-rar-implementation-mostly-written-by-llms/"
+          "route": "/hot/2026-05-14/topic/rars-a-rust-rar-implementation-mostly-written-by-llms/",
+          "headline_zh": "Rars：主要由大语言模型编写的 Rust 版 RAR 实现",
+          "summary_short_zh": "Rars 项目用 Rust 实现了 RAR 归档格式，据称大部分代码由大语言模型编写。Hacker News 上的相关条目显示，社区正在讨论 AI 辅助软件开发及由此生成的代码库。",
+          "why_it_matters_zh": "这条工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "f6fd8366dc40",
@@ -3215,7 +3300,11 @@
               "published_at": "2026-05-13T04:50:45+00:00"
             }
           ],
-          "route": "/hot/2026-05-14/topic/csp-allow-list-experiment/"
+          "route": "/hot/2026-05-14/topic/csp-allow-list-experiment/",
+          "headline_zh": "CSP 允许列表实验",
+          "summary_short_zh": "<p><strong>工具：</strong> <a href=\" 允许列表实验</a></p> <p>这个实验展示了如何在受 CSP 保护的沙箱 iframe 中加载应用（参见 <a href=\" 说明</a>），并自定义 <code>fetch()</code>，拦截 CSP 错误并将其传递给父窗口...",
+          "why_it_matters_zh": "这条工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "7298f8f88dee",
@@ -3253,7 +3342,11 @@
               "published_at": "Wed, 13 May 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-05-14/topic/needle-we-distilled-gemini-tool-calling-into-a-26m-model/"
+          "route": "/hot/2026-05-14/topic/needle-we-distilled-gemini-tool-calling-into-a-26m-model/",
+          "headline_zh": "Needle：我们将 Gemini 的工具调用能力蒸馏至一个 2600 万参数模型",
+          "summary_short_zh": "Cactus Compute 开源了 Needle，这是一个 2600 万参数的单次函数/工具调用模型，采用“Simple Attention Network”（简单注意力网络）架构，仅含注意力机制和门控，不含前馈网络或多层感知机。团队认为，工具使用主要涉及检索、槽位提取和 JSON 组装，而非深度推理。",
+          "why_it_matters_zh": "这条工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     },
@@ -3297,7 +3390,11 @@
               "published_at": "2026-05-14T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-14/topic/a-unified-framework-for-critical-scaling-of-inverse-temperature-in-self-attention/"
+          "route": "/hot/2026-05-14/topic/a-unified-framework-for-critical-scaling-of-inverse-temperature-in-self-attention/",
+          "headline_zh": "自注意力中逆温度临界标度的统一框架",
+          "summary_short_zh": "按序列长度重新缩放 logit，已被广泛用于稳定长上下文自注意力，但现有分析和方法给出的逆温度随上下文长度 $n$ 变化的规律相互矛盾，从 $(\\log n)^{1/2}$ 到 $\\log n$，再到 $(\\log n)^2$ 均有涉及。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "6079a9525a2c",
@@ -3335,7 +3432,11 @@
               "published_at": "2026-05-14T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-14/topic/asap-amortized-doubly-stochastic-attention-via-sliced-dual-projection/"
+          "route": "/hot/2026-05-14/topic/asap-amortized-doubly-stochastic-attention-via-sliced-dual-projection/",
+          "headline_zh": "ASAP：通过切片对偶投影实现摊销式双随机注意力",
+          "summary_short_zh": "双随机注意力已成为逐行 softmax 注意力的一种基于输运的替代方案。近期的 Transformer 变体利用它缓解注意力汇（attention sinks）和秩坍缩问题，同时提升性能。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "e9df28a010d3",
@@ -3373,7 +3474,11 @@
               "published_at": "2026-05-14T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-14/topic/attention-once-is-all-you-need-efficient-streaming-inference-with-stateful-transformers/"
+          "route": "/hot/2026-05-14/topic/attention-once-is-all-you-need-efficient-streaming-inference-with-stateful-transformers/",
+          "headline_zh": "只需一次注意力计算：有状态 Transformer 的高效流式推理",
+          "summary_short_zh": "传统 Transformer 推理引擎采用请求驱动模式，每次查询都要付出 O(n) 的预填充开销。在流式工作负载中，数据持续到达，查询涉及的上下文不断增长，这种开销高得难以承受。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         }
       ]
     }
@@ -3425,7 +3530,11 @@
               "published_at": "Wed, 13 May 2026 17:46:19 +0000"
             }
           ],
-          "route": "/hot/2026-05-14/topic/fine-tune-llm-with-databricks-unity-catalog-and-amazon-sagemaker-ai/"
+          "route": "/hot/2026-05-14/topic/fine-tune-llm-with-databricks-unity-catalog-and-amazon-sagemaker-ai/",
+          "headline_zh": "使用 Databricks Unity Catalog 和 Amazon SageMaker AI 微调大语言模型",
+          "summary_short_zh": "AWS 发布了一篇教程，介绍如何使用 Databricks Unity Catalog 和 Amazon SageMaker AI 构建安全的大语言模型微调工作流。该架构使用 Amazon EMR Serverless 进行预处理，并强调治理和端到端安全。",
+          "why_it_matters_zh": "这篇教程见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "282629d171d5",
@@ -3463,7 +3572,11 @@
               "published_at": "2026-05-14T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-14/topic/when-does-automating-ai-research-produce-explosive-growth-feedback-loops-in-innovation-networks-nber/"
+          "route": "/hot/2026-05-14/topic/when-does-automating-ai-research-produce-explosive-growth-feedback-loops-in-innovation-networks-nber/",
+          "headline_zh": "AI 研究自动化何时会带来爆炸式增长？创新网络中的反馈循环（NBER）",
+          "summary_short_zh": "AI 研究自动化何时会带来爆炸式增长？创新网络中的反馈循环（NBER",
+          "why_it_matters_zh": "这则其他资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "efbc89a279a4",
@@ -3501,7 +3614,10 @@
               "published_at": "2026-05-14T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-14/topic/meta-pivots-from-open-weights-big-pharma-bets-on-ai-regulatory-patchwork-simulating-human-cohorts/"
+          "route": "/hot/2026-05-14/topic/meta-pivots-from-open-weights-big-pharma-bets-on-ai-regulatory-patchwork-simulating-human-cohorts/",
+          "headline_zh": "Meta 放弃开放权重路线，制药巨头押注 AI，监管体系碎片化，模拟人群队列",
+          "why_it_matters_zh": "这则其他资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "73d5c961a72f",
@@ -3539,7 +3655,11 @@
               "published_at": "Thu, 14 May 2026 06:05:31 +0000"
             }
           ],
-          "route": "/hot/2026-05-14/topic/who-decides-what-ai-tells-you-campbell-brown-once-meta-s-news-chief-has-thoughts/"
+          "route": "/hot/2026-05-14/topic/who-decides-what-ai-tells-you-campbell-brown-once-meta-s-news-chief-has-thoughts/",
+          "headline_zh": "谁决定 AI 告诉你什么？Meta 前新闻主管 Campbell Brown 有话说",
+          "summary_short_zh": "“硅谷聊的似乎是一回事，而消费者聊的却完全是另一回事。”",
+          "why_it_matters_zh": "这则其他资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "e7b81a4720af",
@@ -3577,7 +3697,10 @@
               "published_at": "2026-05-14T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-14/topic/glm-5-1-thinks-strategically-data-center-revolt-intensifies-when-helpful-llms-turn-unhelpful-humanoid-robots-get-to-work/"
+          "route": "/hot/2026-05-14/topic/glm-5-1-thinks-strategically-data-center-revolt-intensifies-when-helpful-llms-turn-unhelpful-humanoid-robots-get-to-work/",
+          "headline_zh": "GLM 5.1 展现战略思维，抵制数据中心的浪潮加剧，当有用的大语言模型不再有用，人形机器人上岗",
+          "why_it_matters_zh": "这则其他资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "58a9c53f53dd",
@@ -3615,7 +3738,11 @@
               "published_at": "Thu, 14 May 2026 07:14:05 +0000"
             }
           ],
-          "route": "/hot/2026-05-14/topic/ai-315/"
+          "route": "/hot/2026-05-14/topic/ai-315/",
+          "headline_zh": "田渊栋AI创业估值315亿，老黄苏妈都投了，姚班施天麟也是合伙人",
+          "summary_short_zh": "谷歌GV、Greycroft联合领投这轮早期融资，英伟达、AMD等也参与其中",
+          "why_it_matters_zh": "这则其他资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "dee3a0585493",
@@ -3653,7 +3780,11 @@
               "published_at": "Thu, 14 May 2026 08:26:45 +0000"
             }
           ],
-          "route": "/hot/2026-05-14/topic/ai/"
+          "route": "/hot/2026-05-14/topic/ai/",
+          "headline_zh": "阿里 AI 应用新进展：悟空开始逐步规模化放量",
+          "summary_short_zh": "阿里 AI 在模型、云基础设施和应用各层实现加速突破",
+          "why_it_matters_zh": "这则其他资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "adae4df779d9",
@@ -3691,7 +3822,11 @@
               "published_at": "Thu, 14 May 2026 08:34:30 +0000"
             }
           ],
-          "route": "/hot/2026-05-14/topic/agent-token-61/"
+          "route": "/hot/2026-05-14/topic/agent-token-61/",
+          "headline_zh": "腾讯开源 Agent 记忆技术方案，Token 消耗最高降低 61%",
+          "summary_short_zh": "任务成功率最高提升 51%。",
+          "why_it_matters_zh": "这则其他资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -3733,7 +3868,11 @@
           "published_at": "2026-05-11T11:51:33Z"
         }
       ],
-      "route": "/hot/2026-05-14/topic/ab-613-opengravity/"
+      "route": "/hot/2026-05-14/topic/ab-613-opengravity/",
+      "headline_zh": "ab-613/OpenGravity",
+      "summary_short_zh": "是一个用原生 JavaScript 编写的轻量级 Google Antigravity 界面复刻项目，支持自带密钥（BYOK）。目前包含支持直接同步本地文件系统的实时 xterm.js 终端和侧边栏界面。",
+      "why_it_matters_zh": "这条产品发布信息见于 1 个独立来源。",
+      "category_zh": "产品发布"
     }
   ],
   "x_buzz": [

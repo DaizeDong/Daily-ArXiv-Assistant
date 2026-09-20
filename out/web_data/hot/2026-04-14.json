@@ -1942,7 +1942,16 @@
           "published_at": "2026-04-14T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-04-14/topic/bytedance-ships-dola-seed-2-0-preview-and-seed-full-duplex-speech-llm/"
+      "route": "/hot/2026-04-14/topic/bytedance-ships-dola-seed-2-0-preview-and-seed-full-duplex-speech-llm/",
+      "headline_zh": "字节跳动发布 Dola-Seed-2.0-Preview 和 Seed Full-Duplex Speech LLM",
+      "summary_short_zh": "字节跳动 Seed 正式推出 Seed 2.0，为公司的基础模型产品线增添了一款重要新模型。",
+      "why_it_matters_zh": "字节跳动正将模型体系从文本拓展至实时语音交互。对关注多模态助手和语音原生 AI 产品竞争的企业而言，这是一个战略信号。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "字节跳动 Seed 在 Arena 上公布了 Dola-Seed-2.0-Preview，让市场看到了有明确名称的预览版本，而非模糊的产品规划承诺。",
+        "该公司还推出了 Seed Full-Duplex Speech LLM，主打专注倾听、干扰抑制，以及语音交互中更自然的话轮交替。",
+        "同一批来源信息还包含 2027 年基础模型人才招聘计划，显示字节跳动正围绕核心模型项目加大人才投入，而非仅将这些发布视为独立演示。"
+      ]
     },
     {
       "topic_id": "2d1f04847ac8",
@@ -1982,7 +1991,14 @@
           "published_at": "Mon, 13 Apr 2026 18:15:59 +0000"
         }
       ],
-      "route": "/hot/2026-04-14/topic/towards-developing-future-ready-skills-with-generative-ai/"
+      "route": "/hot/2026-04-14/topic/towards-developing-future-ready-skills-with-generative-ai/",
+      "headline_zh": "借助生成式 AI 培养面向未来的技能",
+      "summary_short_zh": "教育创新",
+      "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "教育创新"
+      ]
     },
     {
       "topic_id": "25ee400962a9",
@@ -2032,7 +2048,16 @@
           "published_at": "2026-04-14T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-04-14/topic/introspective-diffusion-language-models-propose-a-new-fix-for-dlm-quality-gaps/"
+      "route": "/hot/2026-04-14/topic/introspective-diffusion-language-models-propose-a-new-fix-for-dlm-quality-gaps/",
+      "headline_zh": "内省式扩散语言模型提出缩小 DLM 质量差距的新方法",
+      "summary_short_zh": "本文提出内省式扩散语言模型，以提升基于扩散的文本生成质量。论文认为，与自回归模型的质量差距部分源于生成过程中缺乏内省一致性。",
+      "why_it_matters_zh": "如果扩散语言模型能在保留并行生成优势的同时弥合与自回归系统的质量差距，就可能显著改变推理的成本效益和模型架构选择。",
+      "category_zh": "研究",
+      "key_takeaways_zh": [
+        "论文认为，扩散语言模型表现不如自回归模型，是因为缺乏内省一致性，即它们往往无法与自身的生成结果保持一致。",
+        "论文引入“内省接受率”这一训练与评估概念，旨在提升扩散式文本生成的自洽性。",
+        "这项研究同时出现在 Hugging Face 热门论文榜和 arXiv 追踪结果中，表明它在获得更广泛的独立验证前，就已引起研究者的初步关注。"
+      ]
     },
     {
       "topic_id": "428b9d91b905",
@@ -2080,7 +2105,14 @@
           "published_at": "2026-04-14T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-04-14/topic/anthropic-s-claude-mythos-problem-dark-dna-unveiled-pitfalls-for-assistive-models-simulating-fluid-dynamics/"
+      "route": "/hot/2026-04-14/topic/anthropic-s-claude-mythos-problem-dark-dna-unveiled-pitfalls-for-assistive-models-simulating-fluid-dynamics/",
+      "headline_zh": "Anthropic 的 Claude Mythos 难题、暗 DNA 揭秘、辅助型模型的隐患、流体动力学模拟",
+      "summary_short_zh": "The Batch 发布了一篇新闻综述，讨论了 Anthropic 的 Claude Mythos 及其他 AI 话题。内容看起来更像编辑整理的回顾，而非一手公告。",
+      "why_it_matters_zh": "此次产品发布见于 2 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Anthropic 宣布推出新模型 Claude Mythos"
+      ]
     },
     {
       "topic_id": "6e464df44c99",
@@ -2122,7 +2154,16 @@
           "published_at": "2026-04-14T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-04-14/topic/respinquant-targets-more-efficient-layer-wise-llm-quantization/"
+      "route": "/hot/2026-04-14/topic/respinquant-targets-more-efficient-layer-wise-llm-quantization/",
+      "headline_zh": "ReSpinQuant 致力于提高大语言模型逐层量化效率",
+      "summary_short_zh": "基于旋转的训练后量化（PTQ）已成为缓解大语言模型（LLM）量化中激活离群值问题的一种有前景的方法。",
+      "why_it_matters_zh": "能保持模型质量并降低推理成本的量化方法，会直接影响模型提供商和运行大规模工作负载的企业客户在部署上的利润空间。",
+      "category_zh": "研究",
+      "key_takeaways_zh": [
+        "ReSpinQuant 专注于大语言模型的训练后量化，重点解决会降低低比特量化性能的激活离群值问题。",
+        "论文指出了全局旋转量化方法的不足，并提出一种基于子空间残差旋转近似的逐层方法。",
+        "其核心目标是保留基于旋转的 PTQ 在推理效率上的优势，同时减少精度损失，从而降低生产环境中激进压缩的风险。"
+      ]
     }
   ],
   "category_sections": [
@@ -2166,7 +2207,11 @@
               "published_at": "Mon, 13 Apr 2026 06:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-04-14/topic/enterprises-power-agentic-workflows-in-cloudflare-agent-cloud-with-openai/"
+          "route": "/hot/2026-04-14/topic/enterprises-power-agentic-workflows-in-cloudflare-agent-cloud-with-openai/",
+          "headline_zh": "企业借助 OpenAI 在 Cloudflare Agent Cloud 中运行智能体工作流",
+          "summary_short_zh": "Cloudflare 将 OpenAI 的 GPT-5.4 和 Codex 引入 Agent Cloud，帮助企业快速、安全地构建、部署和规模化运行 AI 智能体，完成实际任务",
+          "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "dd73aa531d4d",
@@ -2204,7 +2249,10 @@
               "published_at": "2026-04-13T01:11:13+00:00"
             }
           ],
-          "route": "/hot/2026-04-14/topic/darwin-27b-opus-surpassing-the-foundation-model-without-training/"
+          "route": "/hot/2026-04-14/topic/darwin-27b-opus-surpassing-the-foundation-model-without-training/",
+          "headline_zh": "\"Darwin-27B-Opus：无需训练即可超越基础模型\"",
+          "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2248,7 +2296,11 @@
               "published_at": "Tue, 14 Apr 2026 00:23:33 +0000"
             }
           ],
-          "route": "/hot/2026-04-14/topic/openai-has-bought-ai-personal-finance-startup-hiro/"
+          "route": "/hot/2026-04-14/topic/openai-has-bought-ai-personal-finance-startup-hiro/",
+          "headline_zh": "OpenAI 已收购 AI 个人理财初创公司 Hiro",
+          "summary_short_zh": "OpenAI 收购了 AI 个人理财初创公司 Hiro。报道认为，这笔交易表明 ChatGPT 正在整合财务规划功能",
+          "why_it_matters_zh": "该收购消息见于 1 个独立来源。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -2298,7 +2350,11 @@
               "published_at": "2026-04-13T20:02:38-04:00"
             }
           ],
-          "route": "/hot/2026-04-14/topic/daniel-moreno-gama-is-facing-federal-charges-for-attacking-sam-altman-8217-s-home-and-openai-s-hq/"
+          "route": "/hot/2026-04-14/topic/daniel-moreno-gama-is-facing-federal-charges-for-attacking-sam-altman-8217-s-home-and-openai-s-hq/",
+          "headline_zh": "Daniel Moreno-Gama 因袭击 Sam Altman 的住宅和 OpenAI 总部面临联邦指控",
+          "summary_short_zh": "Daniel Moreno-Gama 被指从得克萨斯州前往加利福尼亚州，意图杀害 OpenAI CEO Sam Altman，目前正面临联邦指控。他涉嫌使用燃烧装置袭击 Altman 的住宅和 OpenAI 总部，随后被捕",
+          "why_it_matters_zh": "该行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "0fc4223ac00d",
@@ -2336,7 +2392,11 @@
               "published_at": "Mon, 13 Apr 2026 15:22:29 +0000"
             }
           ],
-          "route": "/hot/2026-04-14/topic/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/"
+          "route": "/hot/2026-04-14/topic/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/",
+          "headline_zh": "AI 智能体推动营收激增，Vercel CEO Guillermo Rauch 透露公司已准备好 IPO",
+          "summary_short_zh": "据 TechCrunch 报道，Vercel CEO Guillermo Rauch 透露公司已准备好 IPO。报道称，AI 智能体正推动这家开发者工具和托管服务公司的营收激增",
+          "why_it_matters_zh": "该行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "669cfc186669",
@@ -2374,7 +2434,11 @@
               "published_at": "2026-04-13T11:41:09-04:00"
             }
           ],
-          "route": "/hot/2026-04-14/topic/microsoft-is-testing-openclaw-like-ai-bots-for-copilot/"
+          "route": "/hot/2026-04-14/topic/microsoft-is-testing-openclaw-like-ai-bots-for-copilot/",
+          "headline_zh": "微软正为 Copilot 测试类似 OpenClaw 的 AI 机器人",
+          "summary_short_zh": "据 The Verge 引述的报道，微软正在为 Copilot 测试类似 OpenClaw 的 AI 机器人功能。报道将其描述为微软提升 Copilot 能力的一系列举措之一",
+          "why_it_matters_zh": "该行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "b1f4e3efac02",
@@ -2412,7 +2476,11 @@
               "published_at": "2026-04-13T09:40:03-04:00"
             }
           ],
-          "route": "/hot/2026-04-14/topic/mark-zuckerberg-is-reportedly-building-an-ai-clone-to-replace-him-in-meetings/"
+          "route": "/hot/2026-04-14/topic/mark-zuckerberg-is-reportedly-building-an-ai-clone-to-replace-him-in-meetings/",
+          "headline_zh": "据报道，马克·扎克伯格正打造 AI 分身，替自己参加会议",
+          "summary_short_zh": "据报道，Meta 正在开发 CEO 马克·扎克伯格的 AI 分身，用于内部会议。据称，该系统将代他与员工互动并提供反馈",
+          "why_it_matters_zh": "该行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "def5d82045f4",
@@ -2450,7 +2518,10 @@
               "published_at": "2026-04-14T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-14/topic/attacks-on-data-centers-qwen3-5-in-all-sizes-deepseek-s-huawei-play-apple-s-multimodal-tokenizer/"
+          "route": "/hot/2026-04-14/topic/attacks-on-data-centers-qwen3-5-in-all-sizes-deepseek-s-huawei-play-apple-s-multimodal-tokenizer/",
+          "headline_zh": "数据中心遇袭、各种规模的 Qwen3.5 模型、DeepSeek 的华为布局、苹果的多模态分词器",
+          "why_it_matters_zh": "该消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -2494,7 +2565,11 @@
               "published_at": "Mon, 13 Apr 2026 19:05:19 +0000"
             }
           ],
-          "route": "/hot/2026-04-14/topic/microsoft-is-working-on-yet-another-openclaw-like-agent/"
+          "route": "/hot/2026-04-14/topic/microsoft-is-working-on-yet-another-openclaw-like-agent/",
+          "headline_zh": "微软又在开发一款类似 OpenClaw 的智能体",
+          "summary_short_zh": "据报道，微软正在开发另一款类似 OpenClaw 的智能体，面向企业应用场景，重点是提供比开源 OpenClaw 智能体更强的安全控制。",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "52b8722d3f76",
@@ -2532,7 +2607,11 @@
               "published_at": "2026-04-13T15:04:00+00:00"
             }
           ],
-          "route": "/hot/2026-04-14/topic/exploring-the-new-servo-crate/"
+          "route": "/hot/2026-04-14/topic/exploring-the-new-servo-crate/",
+          "headline_zh": "探索新的 `servo` crate",
+          "summary_short_zh": "Simon Willison 发布了一篇技术文章，探讨新的 `servo` crate 及其相关背景。",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "525aab6a4532",
@@ -2570,7 +2649,10 @@
               "published_at": "2026-04-13T19:28:41Z"
             }
           ],
-          "route": "/hot/2026-04-14/topic/gaia-open-source-framework-for-building-ai-agents-that-run-on-local-hardware/"
+          "route": "/hot/2026-04-14/topic/gaia-open-source-framework-for-building-ai-agents-that-run-on-local-hardware/",
+          "headline_zh": "GAIA：用于构建可在本地硬件上运行的 AI 智能体的开源框架",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "3c87fa6b549d",
@@ -2608,7 +2690,11 @@
               "published_at": "2026-04-12T23:57:53+00:00"
             }
           ],
-          "route": "/hot/2026-04-14/topic/gemma-4-audio-with-mlx/"
+          "route": "/hot/2026-04-14/topic/gemma-4-audio-with-mlx/",
+          "headline_zh": "通过 MLX 使用 Gemma 4 的音频功能",
+          "summary_short_zh": "<p>感谢 <a href=\" Rahim Nathwani 的分享</a>，以下是一个 <code>uv run</code> 示例，可在 macOS 上转录音频文件，使用 10.28 GB 的 <a href=\" 4 E2B 模型</a>，搭配 MLX 和 <a href=\" <pre><code>uv run --python 3.13 --with mlx_vlm --with torchvision --with gradio \\ mlx_vlm.generate \\",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     },
@@ -2652,7 +2738,11 @@
               "published_at": "2026-04-14T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-04-14/topic/rethinking-token-level-credit-assignment-in-rlvr-a-polarity-entropy-analysis/"
+          "route": "/hot/2026-04-14/topic/rethinking-token-level-credit-assignment-in-rlvr-a-polarity-entropy-analysis/",
+          "headline_zh": "重新审视 RLVR 中的词元级信用分配：极性与熵分析",
+          "summary_short_zh": "基于可验证奖励的强化学习（RLVR）显著提升了大语言模型（LLMs）的推理能力。然而，其基于结果的稀疏奖励带来了根本性的信用分配难题。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "5d89c62b4849",
@@ -2690,7 +2780,11 @@
               "published_at": "2026-04-14T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-04-14/topic/retrieval-is-not-enough-why-organizational-ai-needs-epistemic-infrastructure/"
+          "route": "/hot/2026-04-14/topic/retrieval-is-not-enough-why-organizational-ai-needs-epistemic-infrastructure/",
+          "headline_zh": "仅靠检索还不够：为什么组织级 AI 需要认识论基础设施",
+          "summary_short_zh": "AI 智能体使用的组织知识通常缺乏认识论结构：检索系统呈现语义相关的内容，却不区分有约束力的决策与已放弃的假设、尚有争议的主张与已有定论的主张，以及已知事实与未解决的问题。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "41e8b4c4a1bc",
@@ -2728,7 +2822,11 @@
               "published_at": "2026-04-14T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-04-14/topic/s-3-structured-sparsity-specification/"
+          "route": "/hot/2026-04-14/topic/s-3-structured-sparsity-specification/",
+          "headline_zh": "S$^3$：结构化稀疏性规范",
+          "summary_short_zh": "我们提出结构化稀疏性规范（S$^3$），这是一个用于定义、组合和实现结构化稀疏模式的代数框架。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "80b42ba6f2c0",
@@ -2766,7 +2864,11 @@
               "published_at": "2026-04-14T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-04-14/topic/shang-robust-stochastic-acceleration-under-multiplicative-noise/"
+          "route": "/hot/2026-04-14/topic/shang-robust-stochastic-acceleration-under-multiplicative-noise/",
+          "headline_zh": "SHANG++：乘性噪声下的鲁棒随机加速",
+          "summary_short_zh": "在乘性噪声缩放（MNS）条件下，可以证明原始 Nesterov 加速法对噪声敏感，并可能在梯度噪声淹没信号时发散。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         }
       ]
     }
@@ -2812,7 +2914,10 @@
               "published_at": "2026-04-14T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-14/topic/gpt-5-4-makes-a-splash-ai-s-growth-on-mobile-data-centers-go-off-grid-apple-s-diffusion-research/"
+          "route": "/hot/2026-04-14/topic/gpt-5-4-makes-a-splash-ai-s-growth-on-mobile-data-centers-go-off-grid-apple-s-diffusion-research/",
+          "headline_zh": "GPT-5.4 引发轰动、移动端 AI 的增长、数据中心转向离网供电、苹果的扩散模型研究",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "7d117554e010",
@@ -2850,7 +2955,11 @@
               "published_at": "2026-04-14T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-14/topic/ais-can-now-often-do-massive-easy-to-verify-swe-tasks-and-i-ve-updated-towards-shorter-timelines-lesswrong/"
+          "route": "/hot/2026-04-14/topic/ais-can-now-often-do-massive-easy-to-verify-swe-tasks-and-i-ve-updated-towards-shorter-timelines-lesswrong/",
+          "headline_zh": "AI 如今常能完成大规模且易于验证的软件工程任务，我也因此下调了时间预期（LessWrong）",
+          "summary_short_zh": "AI 如今常能完成大规模且易于验证的软件工程任务，我也因此下调了时间预期（LessWrong",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "4f75eb51a37c",
@@ -2888,7 +2997,10 @@
               "published_at": "2026-04-14T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-14/topic/import-ai-453-breaking-ai-agents-mirrorcode-and-ten-views-on-gradual-disempowerment/"
+          "route": "/hot/2026-04-14/topic/import-ai-453-breaking-ai-agents-mirrorcode-and-ten-views-on-gradual-disempowerment/",
+          "headline_zh": "Import AI 第 453 期：攻破 AI 智能体；MirrorCode；关于逐步失权的十种观点",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "35b799b8ea49",
@@ -2926,7 +3038,11 @@
               "published_at": "Tue, 14 Apr 2026 02:48:22 +0000"
             }
           ],
-          "route": "/hot/2026-04-14/topic/ai-excel-agent/"
+          "route": "/hot/2026-04-14/topic/ai-excel-agent/",
+          "headline_zh": "AI开始直接交付Excel，千问用Agent重构做表流程",
+          "summary_short_zh": "支持从对话直接生成、编辑Excel文件",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "a4be2183010f",
@@ -2964,7 +3080,11 @@
               "published_at": "Tue, 14 Apr 2026 04:31:03 +0000"
             }
           ],
-          "route": "/hot/2026-04-14/topic/ai/"
+          "route": "/hot/2026-04-14/topic/ai/",
+          "headline_zh": "不只是卖服务器，中兴通讯想做AI时代的基础设施商",
+          "summary_short_zh": "把OpenClaw装进企业机房",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "852a3a0e2eee",
@@ -3002,7 +3122,11 @@
               "published_at": "Tue, 14 Apr 2026 05:58:59 +0000"
             }
           ],
-          "route": "/hot/2026-04-14/topic/852a3a0e2eee/"
+          "route": "/hot/2026-04-14/topic/852a3a0e2eee/",
+          "headline_zh": "斯坦福年度结论：中美大模型已没差距",
+          "summary_short_zh": "AI普及率正在历史性加速",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "36c40d0c68b7",
@@ -3040,7 +3164,11 @@
               "published_at": "2026-04-13T15:53:46-04:00"
             }
           ],
-          "route": "/hot/2026-04-14/topic/ai-influencers-are-everywhere-at-coachella/"
+          "route": "/hot/2026-04-14/topic/ai-influencers-are-everywhere-at-coachella/",
+          "headline_zh": "AI 网红在 Coachella 音乐节上“无处不在”",
+          "summary_short_zh": "Coachella 音乐节于周五开幕。和往常一样，这里是网红们晒出音乐节难忘经历的热门去处。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "0431334e929c",
@@ -3078,7 +3206,11 @@
               "published_at": "2026-04-14T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-14/topic/windfall-policy-atlas-windfall-trust-website/"
+          "route": "/hot/2026-04-14/topic/windfall-policy-atlas-windfall-trust-website/",
+          "headline_zh": "Windfall Policy Atlas（Windfall Trust 网站）",
+          "summary_short_zh": "本条目链接至 Windfall Trust 网站上的资源 Windfall Policy Atlas。该图谱似乎汇集了有关 AI 超额收益治理与分配的政策资料",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }

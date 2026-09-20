@@ -2308,7 +2308,15 @@
           "published_at": "Tue, 09 Jun 2026 18:57:25 +0000"
         }
       ],
-      "route": "/hot/2026-06-10/topic/fluid-natural-voice-translation-with-gemini-3-5-live-translate/"
+      "route": "/hot/2026-06-10/topic/fluid-natural-voice-translation-with-gemini-3-5-live-translate/",
+      "headline_zh": "Gemini 3.5 Live Translate：流畅自然的语音翻译",
+      "summary_short_zh": "Gemini 3.5 Live Translate 为 Google AI Studio、Google 翻译和 Google Meet 带来近乎实时、自然流畅的语音翻译",
+      "why_it_matters_zh": "有 2 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Gemini 3.5 Live Translate 为 Google AI Studio、Google 翻译和 Google Meet 带来近乎实时、自然流畅的语音翻译。",
+        "语音翻译保留说话者的语气、节奏和音高，并通过 SynthID 水印保障安全。"
+      ]
     },
     {
       "topic_id": "dbb202d05065",
@@ -2348,7 +2356,14 @@
           "published_at": "Wed, 10 Jun 2026 00:00:00 GMT"
         }
       ],
-      "route": "/hot/2026-06-10/topic/from-data-to-decisions-how-lseg-is-scaling-trusted-ai/"
+      "route": "/hot/2026-06-10/topic/from-data-to-decisions-how-lseg-is-scaling-trusted-ai/",
+      "headline_zh": "从数据到决策：LSEG 如何规模化应用可信 AI",
+      "summary_short_zh": "了解 LSEG 如何借助 OpenAI，在全球业务中规模化应用可信 AI，更快获得洞察、缩短发布周期，并提升 4,000 名员工的工作能力",
+      "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "了解 LSEG 如何借助 OpenAI，在全球业务中规模化应用可信 AI，更快获得洞察、缩短发布周期，并提升 4,000 名员工的工作能力。"
+      ]
     },
     {
       "topic_id": "a46ddc15d661",
@@ -2404,7 +2419,14 @@
           "published_at": "Tue, 09 Jun 2026 05:44:39 GMT"
         }
       ],
-      "route": "/hot/2026-06-10/topic/claude-fable-5-and-claude-mythos-5/"
+      "route": "/hot/2026-06-10/topic/claude-fable-5-and-claude-mythos-5/",
+      "headline_zh": "Claude Fable 5 和 Claude Mythos 5",
+      "summary_short_zh": "我们的新一代智能，应对最棘手的知识工作和编程难题",
+      "why_it_matters_zh": "这条其他类资讯见于 6 个独立来源。",
+      "category_zh": "行业动态",
+      "key_takeaways_zh": [
+        "Anthropic 刚刚宣布推出新 AI 模型 Claude Fable 5，称其为迄今广泛开放的最强模型。该公司表示，Fable 5“表现卓越的领域包括 sof..."
+      ]
     },
     {
       "topic_id": "ff2f0c9675b5",
@@ -2442,7 +2464,10 @@
           "published_at": "Tue, 09 Jun 2026 14:02:33 +0000"
         }
       ],
-      "route": "/hot/2026-06-10/topic/powering-the-future-of-robotics-in-europe/"
+      "route": "/hot/2026-06-10/topic/powering-the-future-of-robotics-in-europe/",
+      "headline_zh": "推动欧洲机器人技术迈向未来",
+      "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "470f398645af",
@@ -2480,7 +2505,10 @@
           "published_at": "Tue, 09 Jun 2026 14:10:19 +0000"
         }
       ],
-      "route": "/hot/2026-06-10/topic/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/"
+      "route": "/hot/2026-06-10/topic/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
+      "headline_zh": "推出 Gemma 4 12B：统一的无编码器多模态模型",
+      "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布"
     }
   ],
   "category_sections": [
@@ -2524,7 +2552,11 @@
               "published_at": "Tue, 09 Jun 2026 12:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-06-10/topic/how-engineers-at-nextdoor-use-codex-to-build-without-limits/"
+          "route": "/hot/2026-06-10/topic/how-engineers-at-nextdoor-use-codex-to-build-without-limits/",
+          "headline_zh": "Nextdoor 工程师如何借助 Codex 突破开发限制",
+          "summary_short_zh": "Nextdoor 工程师如何使用搭载 GPT-5.5 的 Codex，排查难以复现的问题、进行跨平台开发，并专注于产品成效",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "93f0b733e4e2",
@@ -2562,7 +2594,11 @@
               "published_at": "Tue, 09 Jun 2026 10:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-06-10/topic/what-codex-unlocks-for-notion/"
+          "route": "/hot/2026-06-10/topic/what-codex-unlocks-for-notion/",
+          "headline_zh": "Codex 为 Notion 带来哪些新可能",
+          "summary_short_zh": "Notion 如何借助 Codex，根据需求文档一次完成开发、构建网页版 AI 语音输入功能，并成倍提升小团队的工程能力",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "884188a6e87d",
@@ -2606,7 +2642,11 @@
               "published_at": "2026-06-09T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-06-10/topic/grok-build-0-1-on-api/"
+          "route": "/hot/2026-06-10/topic/grok-build-0-1-on-api/",
+          "headline_zh": "Grok Build 0.1 开放 API 调用",
+          "summary_short_zh": "Gopuff 与 SpaceXAI 推出了内置于 Gopuff 应用的 AI 购物助手 Go，由 Grok 文本、音频和图像模型驱动",
+          "why_it_matters_zh": "这则产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "4ccf32529a11",
@@ -2650,7 +2690,11 @@
               "published_at": "2026-06-09T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-06-10/topic/use-grok-in-kilo-code/"
+          "route": "/hot/2026-06-10/topic/use-grok-in-kilo-code/",
+          "headline_zh": "在 Kilo Code 中使用 Grok",
+          "summary_short_zh": "在开源智能体编程平台 Kilo Code 中使用你的 SuperGrok 或 X Premium+ 订阅",
+          "why_it_matters_zh": "这则产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "9f776a1a9acf",
@@ -2688,7 +2732,11 @@
               "published_at": "2026-06-09T17:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-10/topic/gm-thinks-evs-can-help-offset-ai-s-energy-suck-with-vehicle-to-grid-tech/"
+          "route": "/hot/2026-06-10/topic/gm-thinks-evs-can-help-offset-ai-s-energy-suck-with-vehicle-to-grid-tech/",
+          "headline_zh": "通用汽车认为，电动汽车可通过车网互动技术缓解 AI 带来的用电压力",
+          "summary_short_zh": "今天，通用汽车在旧金山的一场活动上发布了一系列涉及电动汽车电池、储能和电网韧性的消息，以应对 AI 数据中心不断增长的用电需求。",
+          "why_it_matters_zh": "这则产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2732,7 +2780,11 @@
               "published_at": "Tue, 09 Jun 2026 23:17:51 +0000"
             }
           ],
-          "route": "/hot/2026-06-10/topic/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/"
+          "route": "/hot/2026-06-10/topic/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/",
+          "headline_zh": "Justin Ernest 如何不靠传统风投基金，向热门初创企业投资近 5 亿美元",
+          "summary_short_zh": "这位 Sabertooth VC 创始人没有花一年时间募集正式的风投基金，而是借助自己的有限合伙人（LP）网络，投资了 Anthropic、Anduril 和 SpaceX 等初创企业",
+          "why_it_matters_zh": "这则融资消息见于 1 个独立来源。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "61e237a3c7a3",
@@ -2770,7 +2822,11 @@
               "published_at": "2026-06-09T12:13:14-04:00"
             }
           ],
-          "route": "/hot/2026-06-10/topic/apple-is-embracing-the-fantasy-of-ai-photo-editing/"
+          "route": "/hot/2026-06-10/topic/apple-is-embracing-the-fantasy-of-ai-photo-editing/",
+          "headline_zh": "苹果正拥抱 AI 修图带来的幻象",
+          "summary_short_zh": "苹果曾质疑，生成式 AI 修图功能是否值得冒扭曲我们对世界认知的风险。如今，苹果似乎不再认为照片应该如实记录现实。在 WWDC 2026 上，该公司公布了一系列全新的 AI 修图工具。",
+          "why_it_matters_zh": "这则融资消息见于 1 个独立来源。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -2814,7 +2870,10 @@
               "published_at": "2026-06-09T09:36:19+00:00"
             }
           ],
-          "route": "/hot/2026-06-10/topic/arcee-becomes-the-first-major-american-ai-lab-to-replace-aws-s3-with-hugging-face-private-storage-in-a-multi-million-dollar-commercial-partnership/"
+          "route": "/hot/2026-06-10/topic/arcee-becomes-the-first-major-american-ai-lab-to-replace-aws-s3-with-hugging-face-private-storage-in-a-multi-million-dollar-commercial-partnership/",
+          "headline_zh": "Arcee 达成数百万美元商业合作，成为首家用 Hugging Face Private Storage 替代 AWS S3 的美国大型 AI 实验室",
+          "why_it_matters_zh": "这一行业动向见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "024814d9313b",
@@ -2852,7 +2911,11 @@
               "published_at": "2026-06-09T16:24:25-04:00"
             }
           ],
-          "route": "/hot/2026-06-10/topic/microsoft-ai-head-calls-out-anthropic-for-acting-like-claude-is-conscious/"
+          "route": "/hot/2026-06-10/topic/microsoft-ai-head-calls-out-anthropic-for-acting-like-claude-is-conscious/",
+          "headline_zh": "微软 AI 负责人批评 Anthropic 将 Claude 当作有意识的存在",
+          "summary_short_zh": "微软 AI 首席执行官 Mustafa Suleyman 表示，Anthropic 在 Claude 的“宪法”（即指导模型行为的指令）中推测 Claude 是否具有意识，是“非常、非常危险”的。",
+          "why_it_matters_zh": "这一行业动向见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "ae68f2499455",
@@ -2890,7 +2953,11 @@
               "published_at": "Tue, 09 Jun 2026 00:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-06-10/topic/industrial-policy-for-the-intelligence-age/"
+          "route": "/hot/2026-06-10/topic/industrial-policy-for-the-intelligence-age/",
+          "headline_zh": "智能时代的产业政策",
+          "summary_short_zh": "了解我们面向 AI 时代、雄心勃勃且以人为本的产业政策构想，着眼于在先进智能不断发展的过程中扩大机会、共享繁荣，并建设有韧性的制度体系",
+          "why_it_matters_zh": "这一行业动向见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "1322bee98c0b",
@@ -2928,7 +2995,11 @@
               "published_at": "2026-06-09T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-06-10/topic/reka-and-moonvalley-join-forces-to-advance-models-and-infrastructure-for-physical-ai/"
+          "route": "/hot/2026-06-10/topic/reka-and-moonvalley-join-forces-to-advance-models-and-infrastructure-for-physical-ai/",
+          "headline_zh": "Reka 与 Moonvalley 携手推动物理 AI 模型与基础设施发展",
+          "summary_short_zh": "加利福尼亚州旧金山，6 月 4 日：致力于为物理世界构建基础智能的 AI 研究实验室 Reka 与 Moonvalley 联手，新增一支由 50 名多模态 AI 研究人员和工程师组成的团队，加速下一代视频 AI 和物理推理技术的研发",
+          "why_it_matters_zh": "这一行业动向见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "6435ca25a29d",
@@ -2966,7 +3037,10 @@
               "published_at": "2026-06-10T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-10/topic/import-ai-460-reward-hacking-society-rsi-data-from-anthropic-and-rl-based-quadcopter-racing/"
+          "route": "/hot/2026-06-10/topic/import-ai-460-reward-hacking-society-rsi-data-from-anthropic-and-rl-based-quadcopter-racing/",
+          "headline_zh": "Import AI 第 460 期：社会中的奖励投机、Anthropic 的 RSI 数据，以及基于强化学习的四旋翼无人机竞速",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -3010,7 +3084,11 @@
               "published_at": "Tue, 09 Jun 2026 16:43:28 +0000"
             }
           ],
-          "route": "/hot/2026-06-10/topic/hands-free-first-notice-of-loss-using-strands-agents-and-amazon-bedrock-agentcore-browser-tool-for-intelligent-claims-intake/"
+          "route": "/hot/2026-06-10/topic/hands-free-first-notice-of-loss-using-strands-agents-and-amazon-bedrock-agentcore-browser-tool-for-intelligent-claims-intake/",
+          "headline_zh": "免手动操作的首次报案：使用 Strands Agents 和 Amazon Bedrock AgentCore Browser Tool 实现智能理赔受理",
+          "summary_short_zh": "本文展示了一个免手动操作的首次报案（FNOL）受理系统。系统使用 Strands Agents SDK 构建的智能体进行领域推理，并通过 Amazon Bedrock AgentCore Browser Tool 与在线门户实时交互。这种方式既保留了人的专业经验，又省去了重复的界面操作",
+          "why_it_matters_zh": "该工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "30848e6c9708",
@@ -3048,7 +3126,11 @@
               "published_at": "2026-06-09T21:35:31+00:00"
             }
           ],
-          "route": "/hot/2026-06-10/topic/setting-a-custom-price-for-a-model-in-agentsview/"
+          "route": "/hot/2026-06-10/topic/setting-a-custom-price-for-a-model-in-agentsview/",
+          "headline_zh": "在 AgentsView 中为模型设置自定义价格",
+          "summary_short_zh": "<p><strong>今日所学：</strong> <a href=\" 在 AgentsView 中为模型设置自定义价格</a></p> <p>我最近很喜欢用 <a href=\" Wes McKinney 开发的工具，查看笔记本电脑上运行的不同编程智能体的 token 用量。</p> <p>Claude Fable 5 今天发布，还未被收录到",
+          "why_it_matters_zh": "该工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     },
@@ -3092,7 +3174,11 @@
               "published_at": "2026-06-09T17:56:36.000Z"
             }
           ],
-          "route": "/hot/2026-06-10/topic/lip-forcing-few-step-autoregressive-diffusion-for-real-time-lip-synchronization/"
+          "route": "/hot/2026-06-10/topic/lip-forcing-few-step-autoregressive-diffusion-for-real-time-lip-synchronization/",
+          "headline_zh": "Lip Forcing：用于实时口型同步的少步自回归扩散",
+          "summary_short_zh": "基于扩散的口型同步模型在视觉质量和音画对齐方面表现出色，但全序列双向注意力和大量去噪步骤使其难以用于实时推理。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "b0c926129e1f",
@@ -3130,7 +3216,11 @@
               "published_at": "2026-06-09T14:28:07.000Z"
             }
           ],
-          "route": "/hot/2026-06-10/topic/role-agent-bootstrapping-llm-agents-via-dual-role-evolution/"
+          "route": "/hot/2026-06-10/topic/role-agent-bootstrapping-llm-agents-via-dual-role-evolution/",
+          "headline_zh": "Role-Agent：通过双角色演化实现大语言模型智能体自举",
+          "summary_short_zh": "尽管大语言模型（LLM）智能体在复杂任务中表现出色，但其学习往往受限于低效的交互反馈和静态训练环境，难以泛化到更广泛的场景。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         }
       ]
     }
@@ -3176,7 +3266,11 @@
               "published_at": "2026-06-09T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-06-10/topic/north-mini-code-agentic-coding-model-for-developers-cohere/"
+          "route": "/hot/2026-06-10/topic/north-mini-code-agentic-coding-model-for-developers-cohere/",
+          "headline_zh": "North Mini Code：面向开发者的智能体编程模型 | Cohere",
+          "summary_short_zh": "推出 North Mini Code：Cohere 首款开源智能体编程模型。这款高效的 300 亿参数混合专家（MoE）模型面向追求自主可控的开发者，以极低的硬件需求提供出色的软件开发性能",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "8323f147ca21",
@@ -3214,7 +3308,11 @@
               "published_at": "2026-06-09T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-06-10/topic/physicalrealismbench-u-attributable-physical-realism-evaluation-for-video-world-models/"
+          "route": "/hot/2026-06-10/topic/physicalrealismbench-u-attributable-physical-realism-evaluation-for-video-world-models/",
+          "headline_zh": "PhysicalRealismBench-U：面向视频世界模型的可归因物理真实性评测",
+          "summary_short_zh": "我们发布了 PhysicalRealismBench-U，一个以物理为核心、用于评估视觉语言模型（VLM）物理理解能力的基准。它基于真值已知的合成数据，让任何人都能评估自己模型的物理推理水平",
+          "why_it_matters_zh": "这条产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "a41c4eff5f79",
@@ -3252,7 +3350,11 @@
               "published_at": "2026-06-09T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-06-10/topic/composer-2-5/"
+          "route": "/hot/2026-06-10/topic/composer-2-5/",
+          "headline_zh": "Composer 2.5",
+          "summary_short_zh": "Gopuff 与 SpaceXAI 推出 Go，这款 AI 购物助手内置于 Gopuff 应用，由 Grok 的文本、音频和图像模型驱动",
+          "why_it_matters_zh": "这条产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "5a7dd11c5e77",
@@ -3290,7 +3392,11 @@
               "published_at": "2026-06-09T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-06-10/topic/grok-becomes-the-voice-of-vapi/"
+          "route": "/hot/2026-06-10/topic/grok-becomes-the-voice-of-vapi/",
+          "headline_zh": "Grok 为 Vapi 发声",
+          "summary_short_zh": "Gopuff 与 SpaceXAI 推出 Go，这款 AI 购物助手内置于 Gopuff 应用，由 Grok 的文本、音频和图像模型驱动",
+          "why_it_matters_zh": "这条产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "9de5ad06eff2",
@@ -3328,7 +3434,11 @@
               "published_at": "2026-06-09T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-06-10/topic/grok-imagine-1-5-preview/"
+          "route": "/hot/2026-06-10/topic/grok-imagine-1-5-preview/",
+          "headline_zh": "Grok Imagine 1.5 预览版",
+          "summary_short_zh": "Gopuff 与 SpaceXAI 推出 Go，这款 AI 购物助手内置于 Gopuff 应用，由 Grok 的文本、音频和图像模型驱动",
+          "why_it_matters_zh": "这条产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "12f8a0b6daaf",
@@ -3366,7 +3476,11 @@
               "published_at": "Tue, 09 Jun 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-06-10/topic/xiaomi-just-claimed-1-000-tps-on-a-1t-model-using-a-standard-8-gpu-server/"
+          "route": "/hot/2026-06-10/topic/xiaomi-just-claimed-1-000-tps-on-a-1t-model-using-a-standard-8-gpu-server/",
+          "headline_zh": "小米刚刚宣称，标准 8 卡服务器运行万亿参数模型可达每秒 1,000 多个词元",
+          "summary_short_zh": "小米 MiMo 宣称，MiMo-V2.5-Pro-UltraSpeed 通过 TileRT 模型与系统协同设计，仅用一台“标准”8 卡服务器，就能在万亿参数混合专家（MoE）模型上实现每秒 1,000 多个词元的解码速度，而非依赖 Cerebras/Groq 式专用硬件。",
+          "why_it_matters_zh": "这条产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -3410,7 +3524,11 @@
               "published_at": "2026-06-10T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-10/topic/when-ai-builds-itself-the-anthropic-institute/"
+          "route": "/hot/2026-06-10/topic/when-ai-builds-itself-the-anthropic-institute/",
+          "headline_zh": "当 AI 构建自身时（The Anthropic Institute）",
+          "summary_short_zh": "当 AI 构建自身时（The Anthropic Institute",
+          "why_it_matters_zh": "这条其他类动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "948a73fc7d72",
@@ -3448,7 +3566,11 @@
               "published_at": "Wed, 10 Jun 2026 06:45:09 +0000"
             }
           ],
-          "route": "/hot/2026-06-10/topic/gpt-5-6-mythos/"
+          "route": "/hot/2026-06-10/topic/gpt-5-6-mythos/",
+          "headline_zh": "GPT-5.6首批实测来了！精准狙击Mythos",
+          "summary_short_zh": "本月发布！",
+          "why_it_matters_zh": "这条其他类动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }

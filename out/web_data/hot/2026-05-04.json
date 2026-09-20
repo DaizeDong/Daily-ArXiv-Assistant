@@ -2027,7 +2027,16 @@
           "published_at": "2026-05-04T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-05-04/topic/bytedance-seed-launches-seed-2-0/"
+      "route": "/hot/2026-05-04/topic/bytedance-seed-launches-seed-2-0/",
+      "headline_zh": "字节跳动 Seed 发布 Seed 2.0",
+      "summary_short_zh": "字节跳动 Seed 正式发布 Seed 2.0，标志着该公司推出了一款重要的新模型。",
+      "why_it_matters_zh": "Seed 2.0 是字节跳动正式发布的前沿模型，有助于跟踪 OpenAI、Anthropic 和 Google 之外具有竞争力的模型供给。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "字节跳动 Seed 通过官方渠道正式公布 Seed 2.0，相比基于传闻的模型消息，这条信息更为可靠。",
+        "公司还提到了 Arena 上的 Dola-Seed-2.0-Preview，表明 Seed 2.0 已进入至少一个公开评测环境。",
+        "同一批公告还包括 2027 年基础模型人才招聘，表明字节跳动在发布新模型的同时，也着眼于核心模型研发的长期人才投入。"
+      ]
     },
     {
       "topic_id": "e2526cb59ea3",
@@ -2077,7 +2086,15 @@
           "published_at": "2026-05-03T14:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-05-04/topic/julpygo-claude-code-ai-design/"
+      "route": "/hot/2026-05-04/topic/julpygo-claude-code-ai-design/",
+      "headline_zh": "Julpygo/Claude-Code-AI-Design",
+      "summary_short_zh": "GitHub 仓库 Claude-Code-AI-Design 走红，提供基于 Claude Code 的设计转代码工作流工具。仓库简介提到 Figma 集成、MCP 服务器配置，以及对 React 19 和 Tailwind v4 的支持。",
+      "why_it_matters_zh": "2 个独立来源均提到了这套工具。",
+      "category_zh": "工具",
+      "key_takeaways_zh": [
+        "Claude Design Anthropic 工具下载 2026 年 4 月 Figma 转代码 AI 智能体研究预览版 Claude Code CLI 集成 React 19 Tailwind v4 支持 模型上下文协议 MCP 服务器配置 设计系统...",
+        "🎨 Claude Code AI 设计套件 2026 🚀 面向程序员的最佳免费 AI 设计插件与钩子"
+      ]
     },
     {
       "topic_id": "4c983d53e85f",
@@ -2128,7 +2145,16 @@
           "published_at": "Sun, 03 May 2026 18:00:09 +0000"
         }
       ],
-      "route": "/hot/2026-05-04/topic/harvard-er-study-finds-openai-o1-diagnosed-67-of-cases-vs-50-55-for-doctors/"
+      "route": "/hot/2026-05-04/topic/harvard-er-study-finds-openai-o1-diagnosed-67-of-cases-vs-50-55-for-doctors/",
+      "headline_zh": "哈佛大学急诊研究发现：OpenAI o1 诊断准确率为 67%，医生为 50% 至 55%",
+      "summary_short_zh": "一项与哈佛大学有关的研究发现，在评估的病例中，AI 模型的急诊诊断比两名医生更准确。报道重点介绍了医学评测结果，其中至少一个大语言模型的诊断准确率超过了临床医生。",
+      "why_it_matters_zh": "这一基准测试结果若能复现，可能加快医院试点，带动临床决策支持领域的投资，并促使监管机构加强对医疗 AI 的审查。",
+      "category_zh": "研究",
+      "key_takeaways_zh": [
+        "报道给出的结果很具体：OpenAI o1 对急诊患者的诊断准确率为 67%，分诊医生为 50% 至 55%。",
+        "据 TechCrunch 介绍，这项哈佛大学研究覆盖多种医疗场景，并不局限于范围狭窄的合成基准测试。",
+        "这是一项基于真实病例的临床评测，而非厂商演示，因此对医疗行业采购方和模型风险管理团队更有参考价值。"
+      ]
     },
     {
       "topic_id": "78ec20d78e45",
@@ -2170,7 +2196,16 @@
           "published_at": "2026-05-04T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-05-04/topic/being-h0-7-introduces-a-latent-world-action-model-from-egocentric-videos/"
+      "route": "/hot/2026-05-04/topic/being-h0-7-introduces-a-latent-world-action-model-from-egocentric-videos/",
+      "headline_zh": "Being-H0.7 提出基于第一视角视频的潜在世界-动作模型",
+      "summary_short_zh": "论文《Being-H0.7：基于第一视角视频的潜在世界-动作模型》提出一种利用第一视角视频、面向机器人的世界-动作建模方法。研究重点是为具身系统学习连接视觉观测与动作的潜在表示。",
+      "why_it_matters_zh": "世界-动作模型是机器人和具身 AI 的关键基础，投资者和实验室正寻找可规模化的数据来源，替代成本高昂的机器人采集数据。",
+      "category_zh": "研究",
+      "key_takeaways_zh": [
+        "Being-H0.7 旨在从第一视角视频中学习，这类数据比带有完整传感记录的机器人轨迹数据更容易大规模采集。",
+        "论文将问题设定为世界与动作的联合建模，相比仅做被动视频理解，更能直接服务于下游控制。",
+        "若该方法迁移效果良好，就有望先利用大规模人类视角视频数据进行预训练，再针对机器人微调，从而降低机器人系统的预训练成本。"
+      ]
     },
     {
       "topic_id": "fac6fe2c8624",
@@ -2212,7 +2247,16 @@
           "published_at": "2026-05-04T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-05-04/topic/budget-constraints-as-riemannian-manifolds-proposes-first-order-optimization-for-hard-compute-limits/"
+      "route": "/hot/2026-05-04/topic/budget-constraints-as-riemannian-manifolds-proposes-first-order-optimization-for-hard-compute-limits/",
+      "headline_zh": "《将预算约束视为黎曼流形》提出应对硬性算力限制的一阶优化方法",
+      "summary_short_zh": "论文《将预算约束视为黎曼流形》将精确预算约束建模为黎曼流形，用于优化求解。该方法采用一阶优化，应用于量化和混合专家模型剪枝等有硬性预算约束的场景。",
+      "why_it_matters_zh": "精确预算约束下的模型优化技术，直接关系到大规模 AI 系统的推理成本、边缘部署和资金使用效率。",
+      "category_zh": "研究",
+      "key_takeaways_zh": [
+        "论文将精确预算约束视为黎曼流形，把棘手的部署问题转化为可求解的优化框架。",
+        "论文列出的应用包括量化和混合专家模型剪枝，这两项技术均属于降低模型服务成本最有效的手段。",
+        "一阶方法值得关注，因为在生产环境的模型压缩流程中，它通常比开销更高的约束优化方法更易扩展。"
+      ]
     }
   ],
   "category_sections": [
@@ -2256,7 +2300,11 @@
               "published_at": "2026-05-03T09:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-04/topic/how-the-internet-s-favorite-squirrel-dad-made-the-hottest-camera-app-of-2026/"
+          "route": "/hot/2026-05-04/topic/how-the-internet-s-favorite-squirrel-dad-made-the-hottest-camera-app-of-2026/",
+          "headline_zh": "全网最受欢迎的“松鼠奶爸”如何打造出 2026 年最火的相机应用",
+          "summary_short_zh": "据介绍，相机应用 DualShot Recorder 上线不久便登顶 App Store 付费应用榜。文章介绍了应用开发者及产品迅速走红的过程。",
+          "why_it_matters_zh": "这条产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2300,7 +2348,11 @@
               "published_at": "Sun, 03 May 2026 20:16:51 +0000"
             }
           ],
-          "route": "/hot/2026-05-04/topic/this-is-fine-creator-says-ai-startup-stole-his-art/"
+          "route": "/hot/2026-05-04/topic/this-is-fine-creator-says-ai-startup-stole-his-art/",
+          "headline_zh": "《This is fine》作者称 AI 初创公司盗用了他的作品",
+          "summary_short_zh": "漫画《This is fine》的作者称，AI 初创公司 Artisan 未经授权在广告中使用了他的作品。争议焦点是 Artisan 在反对雇用人类员工的营销活动中涉嫌擅自使用受版权保护的艺术作品。",
+          "why_it_matters_zh": "这条行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "14c9259d2bce",
@@ -2338,7 +2390,11 @@
               "published_at": "Sun, 03 May 2026 09:43:20 +0000"
             }
           ],
-          "route": "/hot/2026-05-04/topic/openai/"
+          "route": "/hot/2026-05-04/topic/openai/",
+          "headline_zh": "太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架",
+          "summary_short_zh": "这条消息报道了涉及埃隆·马斯克和 OpenAI 的诉讼程序，以及案件中公开披露的信息和相关指控。报道内容涉及法律与公司治理争议，而非技术产品或研究进展。",
+          "why_it_matters_zh": "这条行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "aeb25c0433a1",
@@ -2376,7 +2432,11 @@
               "published_at": "2026-05-04T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-04/topic/zelenskyy-s-post-on-x-twitter/"
+          "route": "/hot/2026-05-04/topic/zelenskyy-s-post-on-x-twitter/",
+          "headline_zh": "泽连斯基在 X（Twitter）上的帖子",
+          "summary_short_zh": "这条消息提及沃洛迪米尔·泽连斯基在 X（原 Twitter）上发布的一则帖子。所提供的元数据仅提到这则社交媒体帖子，细节不足，无法确定具体涉及哪起 AI 相关事件。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "9358d575e27c",
@@ -2420,7 +2480,11 @@
               "published_at": "2026-05-04T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-04/topic/automated-alignment-researchers-using-large-language-models-to-scale-scalable-oversight-anthropic-blog/"
+          "route": "/hot/2026-05-04/topic/automated-alignment-researchers-using-large-language-models-to-scale-scalable-oversight-anthropic-blog/",
+          "headline_zh": "自动化对齐研究员：利用大语言模型扩大可扩展监督的规模（Anthropic 博客）",
+          "summary_short_zh": "Import AI 介绍了 Anthropic 的一篇博文，内容是利用大语言模型扩大对齐研究中监督工作的规模。这条消息转述并概括了 Anthropic 的研究方向，并非独立公告。",
+          "why_it_matters_zh": "这篇综述见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "96a8a2c3b904",
@@ -2458,7 +2522,11 @@
               "published_at": "2026-05-04T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-04/topic/artificial-intelligence-made-simple/"
+          "route": "/hot/2026-05-04/topic/artificial-intelligence-made-simple/",
+          "headline_zh": "轻松读懂人工智能",
+          "summary_short_zh": "这是一篇题为《轻松读懂人工智能》的科普或教学文章，属于编辑类内容，而非新产品、交易或研究成果的报道。",
+          "why_it_matters_zh": "这篇教程见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -2502,7 +2570,11 @@
               "published_at": "2026-04-30T17:32:21Z"
             }
           ],
-          "route": "/hot/2026-05-04/topic/startuphakk-openmonoagent-ai/"
+          "route": "/hot/2026-05-04/topic/startuphakk-openmonoagent-ai/",
+          "headline_zh": "StartupHakk/OpenMonoAgent.ai",
+          "summary_short_zh": "GitHub 仓库“StartupHakk/OpenMonoAgent.ai”提供了一款由本地大语言模型驱动的终端原生编程智能体。项目强调本地使用不限量、开源分发，并支持从用户自己的机器进行远程访问。",
+          "why_it_matters_zh": "这款工具见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "aa8dd0caf87f",
@@ -2540,7 +2612,11 @@
               "published_at": "Sun, 03 May 2026 03:56:44 +0000"
             }
           ],
-          "route": "/hot/2026-05-04/topic/aa8dd0caf87f/"
+          "route": "/hot/2026-05-04/topic/aa8dd0caf87f/",
+          "headline_zh": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
+          "summary_short_zh": "这条消息报道了一款新型具身智能仿真框架的开源发布，重点在于高吞吐量并行处理和高保真渲染。该框架定位为支持视觉仿真任务大规模训练的基础设施。",
+          "why_it_matters_zh": "该工具见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     },
@@ -2584,7 +2660,11 @@
               "published_at": "2026-05-04T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-04/topic/bwla-breaking-the-barrier-of-w1ax-post-training-quantization-for-llms/"
+          "route": "/hot/2026-05-04/topic/bwla-breaking-the-barrier-of-w1ax-post-training-quantization-for-llms/",
+          "headline_zh": "BWLA：突破大语言模型 W1AX 训练后量化的瓶颈",
+          "summary_short_zh": "论文《BWLA：突破大语言模型 W1AX 训练后量化的瓶颈》提出了一种大语言模型训练后量化方法，面向高压缩率的 W1A-lowbit 配置，并报告了出色的性能。",
+          "why_it_matters_zh": "该研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "86bcb575fba8",
@@ -2622,7 +2702,11 @@
               "published_at": "2026-05-04T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-04/topic/model-based-reinforcement-learning-with-double-oracle-efficiency-in-policy-optimization-and-offline-estimation/"
+          "route": "/hot/2026-05-04/topic/model-based-reinforcement-learning-with-double-oracle-efficiency-in-policy-optimization-and-offline-estimation/",
+          "headline_zh": "基于模型的强化学习：策略优化与离线估计的双重预言机效率",
+          "summary_short_zh": "论文《基于模型的强化学习：策略优化与离线估计的双重预言机效率》提出了一种具有双重预言机效率的基于模型的强化学习框架。",
+          "why_it_matters_zh": "该研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "cd5a5b10b65a",
@@ -2660,7 +2744,11 @@
               "published_at": "2026-05-04T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-04/topic/saga-workflow-atomic-scheduling-for-ai-agent-inference-on-gpu-clusters/"
+          "route": "/hot/2026-05-04/topic/saga-workflow-atomic-scheduling-for-ai-agent-inference-on-gpu-clusters/",
+          "headline_zh": "SAGA：GPU 集群上 AI 智能体推理的工作流原子调度",
+          "summary_short_zh": "论文《SAGA：GPU 集群上 AI 智能体推理的工作流原子调度》介绍了一种面向 AI 智能体推理负载的调度系统，强调在 GPU 集群上以工作流为原子单位进行调度，以支持复合 AI 服务。",
+          "why_it_matters_zh": "该研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "f449d9ef5874",
@@ -2698,7 +2786,11 @@
               "published_at": "2026-05-04T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-04/topic/spiking-sequence-machines-and-transformers/"
+          "route": "/hot/2026-05-04/topic/spiking-sequence-machines-and-transformers/",
+          "headline_zh": "脉冲序列机与 Transformer",
+          "summary_short_zh": "论文《脉冲序列机与 Transformer》从统一视角研究 Transformer 计算与脉冲序列计算，将二者视为同一种计算原语的实例。",
+          "why_it_matters_zh": "该研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "dbdbcc3286fe",
@@ -2736,7 +2828,11 @@
               "published_at": "2026-05-04T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-04/topic/state-stream-transformer-sst-v2-parallel-training-of-nonlinear-recurrence-for-latent-space-reasoning/"
+          "route": "/hot/2026-05-04/topic/state-stream-transformer-sst-v2-parallel-training-of-nonlinear-recurrence-for-latent-space-reasoning/",
+          "headline_zh": "State Stream Transformer（SST）V2：面向潜在空间推理的非线性递推并行训练",
+          "summary_short_zh": "论文《State Stream Transformer（SST）V2：面向潜在空间推理的非线性递推并行训练》提出了一种架构，在解码器层内引入可并行训练的非线性递推机制。",
+          "why_it_matters_zh": "该研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         }
       ]
     }
@@ -2791,7 +2887,11 @@
               "published_at": "2026-05-03T04:05:28Z"
             }
           ],
-          "route": "/hot/2026-05-04/topic/claude-code-s-source-leaks-openai-exits-video-generation-gemini-adds-music-generation-llms-learn-at-inference/"
+          "route": "/hot/2026-05-04/topic/claude-code-s-source-leaks-openai-exits-video-generation-gemini-adds-music-generation-llms-learn-at-inference/",
+          "headline_zh": "Claude Code 源码泄露，OpenAI 退出视频生成领域，Gemini 新增音乐生成功能，大语言模型在推理时学习",
+          "summary_short_zh": "这是一篇资讯汇总，涵盖 Claude Code 源码泄露、OpenAI 在视频生成领域的动向、Gemini 音乐生成和推理时学习等主题，概述了多项进展，而非报道单一事件。",
+          "why_it_matters_zh": "该资讯汇总见于 2 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "61147f9fb7f0",
@@ -2835,7 +2935,11 @@
               "published_at": "2026-05-04T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-04/topic/anthropic-s-claude-mythos-problem-dark-dna-unveiled-pitfalls-for-assistive-models-simulating-fluid-dynamics/"
+          "route": "/hot/2026-05-04/topic/anthropic-s-claude-mythos-problem-dark-dna-unveiled-pitfalls-for-assistive-models-simulating-fluid-dynamics/",
+          "headline_zh": "Anthropic 的 Claude Mythos 难题，暗 DNA 揭秘，辅助模型的隐患，流体动力学模拟",
+          "summary_short_zh": "这是一篇资讯汇总，涵盖 Anthropic 的 Claude、辅助模型的隐患和流体动力学模拟等多个主题，概述了多项进展，而非报道某个单独的新事件。",
+          "why_it_matters_zh": "该资讯汇总见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -2879,7 +2983,11 @@
               "published_at": "2026-05-04T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-04/topic/trees-to-flows-and-back-unifying-decision-trees-and-diffusion-models/"
+          "route": "/hot/2026-05-04/topic/trees-to-flows-and-back-unifying-decision-trees-and-diffusion-models/",
+          "headline_zh": "从树到流，再回到树：统一决策树与扩散模型",
+          "summary_short_zh": "论文《从树到流，再回到树：统一决策树与扩散模型》提出了一个连接决策树与扩散模型的框架，阐述了基于树的方法与基于流或扩散的生成建模之间的双向统一关系。",
+          "why_it_matters_zh": "有 1 个独立来源提及这篇研究论文。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "77f002e81a4b",
@@ -2917,7 +3025,11 @@
               "published_at": "2026-05-04T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-04/topic/borrowed-geometry-computational-reuse-of-frozen-text-pretrained-transformer-weights-across-modalities/"
+          "route": "/hot/2026-05-04/topic/borrowed-geometry-computational-reuse-of-frozen-text-pretrained-transformer-weights-across-modalities/",
+          "headline_zh": "借用几何结构：冻结的文本预训练 Transformer 权重在跨模态计算中的复用",
+          "summary_short_zh": "论文报告称，仅用文本预训练的 Gemma 4 31B，其冻结权重可通过轻量的可训练接口复用于其他模态。该研究展示了无需修改底层预训练 Transformer 权重的跨模态迁移。",
+          "why_it_matters_zh": "有 1 个独立来源提及这篇研究论文。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "56c17ba6c825",
@@ -2955,7 +3067,11 @@
               "published_at": "2026-05-04T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-04/topic/consistent-diffusion-language-models/"
+          "route": "/hot/2026-05-04/topic/consistent-diffusion-language-models/",
+          "headline_zh": "一致性扩散语言模型",
+          "summary_short_zh": "这篇论文提出一致性扩散语言模型，以提高基于扩散的文本生成的实用性。研究重点是在保留扩散模型并行生成优势的同时，提高采样质量。",
+          "why_it_matters_zh": "有 1 个独立来源提及这篇研究论文。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "d62dd3742595",
@@ -2993,7 +3109,11 @@
               "published_at": "2026-05-04T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-04/topic/affinity-is-not-enough-recovering-the-free-energy-principle-in-mixture-of-experts/"
+          "route": "/hot/2026-05-04/topic/affinity-is-not-enough-recovering-the-free-energy-principle-in-mixture-of-experts/",
+          "headline_zh": "仅有亲和度还不够：在混合专家模型中恢复自由能原理",
+          "summary_short_zh": "这篇论文提出对混合专家模型的门控机制进行改进，包括引入时序记忆、精度加权和预判路由，目标是解决领域切换时的路由失效问题。",
+          "why_it_matters_zh": "有 1 个独立来源提及这篇研究论文。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "d54b9c3444fe",
@@ -3031,7 +3151,11 @@
               "published_at": "2026-05-04T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-04/topic/binomial-flows-denoising-and-flow-matching-for-discrete-ordinal-data/"
+          "route": "/hot/2026-05-04/topic/binomial-flows-denoising-and-flow-matching-for-discrete-ordinal-data/",
+          "headline_zh": "二项流：离散有序数据的去噪与流匹配",
+          "summary_short_zh": "这篇论文研究如何基于流对离散有序数据进行生成建模，并建立了这一场景下去噪与流匹配的联系。研究将 Tweedie 公式和基于得分的采样等相关思想拓展到连续域之外。",
+          "why_it_matters_zh": "有 1 个独立来源提及这篇研究论文。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "fc296a8f76cf",
@@ -3069,7 +3193,11 @@
               "published_at": "2026-05-04T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-04/topic/nonzero-interaction-guided-exploration-for-multi-agent-monte-carlo-tree-search/"
+          "route": "/hot/2026-05-04/topic/nonzero-interaction-guided-exploration-for-multi-agent-monte-carlo-tree-search/",
+          "headline_zh": "NonZero：面向多智能体蒙特卡洛树搜索的交互引导探索",
+          "summary_short_zh": "这篇论文提出 NonZero，用于改善协作式多智能体蒙特卡洛树搜索中的探索。该方法针对联合动作的组合爆炸问题，这一问题使标准 MCTS 难以在多智能体场景中扩展规模。",
+          "why_it_matters_zh": "有 1 个独立来源提及这篇研究论文。",
+          "category_zh": "研究"
         }
       ]
     }

@@ -1759,7 +1759,17 @@
           "published_at": "2026-04-24T06:01:04+00:00"
         }
       ],
-      "route": "/hot/2026-04-25/topic/deepseek-v4-preview-launches-as-open-weight-1m-context-model-family/"
+      "route": "/hot/2026-04-25/topic/deepseek-v4-preview-launches-as-open-weight-1m-context-model-family/",
+      "headline_zh": "DeepSeek V4 预览版模型系列发布：开放权重，支持百万 token 上下文",
+      "summary_short_zh": "DeepSeek 宣布 DeepSeek-V4 Preview 已上线并开源，主打高性价比的百万 token 上下文。公告称，DeepSeek-V4-Pro 总参数量为 1.6 万亿，激活参数量为 490 亿，性能接近业界顶尖水平。",
+      "why_it_matters_zh": "DeepSeek 正以开放形式提供顶尖模型能力，有望降低推理成本，并给闭源长上下文模型带来更大的竞争压力。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "DeepSeek 以开放权重的形式发布了首批 V4 系列预览模型，这是继 V3.2 和 V3.2 Speciale 后的首次模型系列重大更新。",
+        "V4 系列主打百万 token 上下文窗口，这一规格对企业文档分析、代码库推理和智能体记忆等应用场景具有重要意义。",
+        "NVIDIA 公布了 DeepSeek-V4-Pro 通过 vLLM 在 Blackwell Ultra 上运行的首日性能结果，表明这家主要加速器厂商在模型发布之初就提供了基础设施支持。",
+        "Simon Willison 的独立分析将 DeepSeek V4 概括为“性能几近顶尖，价格仅为一小部分”，进一步支持了它有望凭借性价比改变竞争格局的观点。"
+      ]
     },
     {
       "topic_id": "f590547d7202",
@@ -1807,7 +1817,16 @@
           "published_at": "2026-04-25T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-04-25/topic/bytedance-seed-ships-dola-seed-2-0-preview-and-seed-full-duplex-speech-llm/"
+      "route": "/hot/2026-04-25/topic/bytedance-seed-ships-dola-seed-2-0-preview-and-seed-full-duplex-speech-llm/",
+      "headline_zh": "字节跳动 Seed 发布 Dola-Seed-2.0-Preview 和 Seed Full-Duplex Speech LLM",
+      "summary_short_zh": "字节跳动 Seed 正式推出 Seed 2.0，标志着公司模型产品线的一次重大更新。",
+      "why_it_matters_zh": "字节跳动释放出持续投入通用基础模型和原生语音基础模型的信号，相关进展将影响消费级 AI 产品和多模态平台竞争。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "字节跳动 Seed 在 Arena 上发布了 Dola-Seed-2.0-Preview，为市场评估其下一代模型提供了早期公开版本。",
+        "该公司还推出了 Seed Full-Duplex Speech LLM，强调边听边说的能力，而非轮流对话的语音交互模式。",
+        "字节跳动强调，这款语音模型能够专注聆听、抑制干扰，让对话更自然，体现出其打造实时助手体验的方向。"
+      ]
     },
     {
       "topic_id": "0249c9aac4bc",
@@ -1863,7 +1882,16 @@
           "published_at": "Fri, 24 Apr 2026 05:44:39 GMT"
         }
       ],
-      "route": "/hot/2026-04-25/topic/openai-releases-gpt-5-5-and-gpt-5-5-pro-in-the-api/"
+      "route": "/hot/2026-04-25/topic/openai-releases-gpt-5-5-and-gpt-5-5-pro-in-the-api/",
+      "headline_zh": "OpenAI 在 API 中推出 GPT-5.5 和 GPT-5.5 Pro",
+      "summary_short_zh": "OpenAI 宣布 GPT-5.5 和 GPT-5.5 Pro 现已开放 API，开发者可通过 OpenAI 平台使用这两款模型。",
+      "why_it_matters_zh": "此举将 OpenAI 最新旗舰模型从 ChatGPT 扩展到开发者的生产应用，影响整个生态的模型选择、定价策略和应用规划。",
+      "category_zh": "行业动态",
+      "key_takeaways_zh": [
+        "OpenAI 正式宣布，GPT-5.5 和 GPT-5.5 Pro 均已开放 API，使企业开发者也能将这两款模型用于实际开发，而不再仅限于终端用户使用。",
+        "Cursor 表示，其产品已支持 GPT-5.5，并公布了该模型在 CursorBench 上取得的 72.8% 得分，初步显示出它被定位为编程和智能体工作流的顶尖选择。",
+        "Perplexity 也向 Max 订阅用户推出了 GPT-5.5，并表示正将其设为 Pro 和 Max 用户在 Computer 中的默认编排模型，显示第三方平台已迅速采用该模型。"
+      ]
     },
     {
       "topic_id": "09718ddbfbe6",
@@ -1901,7 +1929,11 @@
           "published_at": "2026-04-24T18:44:19.000Z"
         }
       ],
-      "route": "/hot/2026-04-25/topic/gpt-5-5-is-now-available-on-perplexity-for-max-subscribers/"
+      "route": "/hot/2026-04-25/topic/gpt-5-5-is-now-available-on-perplexity-for-max-subscribers/",
+      "headline_zh": "Perplexity 的 Max 订阅用户现已可使用 GPT-5.5",
+      "summary_short_zh": "GPT-5.5 也正逐步成为 Pro 和 Max 订阅用户在 Computer 中的默认编排模型",
+      "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "8b6e3026d61e",
@@ -1943,7 +1975,16 @@
           "published_at": "2026-04-24T19:48:33.000Z"
         }
       ],
-      "route": "/hot/2026-04-25/topic/cursor-3-adds-multitask-for-async-parallel-subagents/"
+      "route": "/hot/2026-04-25/topic/cursor-3-adds-multitask-for-async-parallel-subagents/",
+      "headline_zh": "Cursor 3 新增 /multitask，支持子智能体异步并行运行",
+      "summary_short_zh": "Cursor 在全新的 Cursor 3 界面中推出了 /multitask 功能，可让多个子智能体异步并行运行，无需将所有请求排入同一个队列。",
+      "why_it_matters_zh": "这标志着多智能体软件开发工作流在产品层面迈出了实质性一步，有望提升吞吐量，并改变团队评估 AI 编程平台的方式。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Cursor 在全新的 Cursor 3 界面中推出了 /multitask，可让多个子智能体异步并行运行，无需再将请求逐个排队处理。",
+        "用户可将已排队的消息转入多任务模式，缩短等待时间，并让智能体编排成为界面中的核心功能，而不只是隐藏在后台的行为。",
+        "此次发布与 Cursor 快速接入 GPT-5.5 相呼应，表明该公司正一边接入前沿模型，一边通过工作流设计形成产品差异化。"
+      ]
     }
   ],
   "category_sections": [
@@ -1987,7 +2028,11 @@
               "published_at": "2026-04-25T04:13:36+00:00"
             }
           ],
-          "route": "/hot/2026-04-25/topic/gpt-5-5-prompting-guide/"
+          "route": "/hot/2026-04-25/topic/gpt-5-5-prompting-guide/",
+          "headline_zh": "GPT-5.5 提示词指南",
+          "summary_short_zh": "<p><strong><a href=\" 提示词指南</a></strong></p> GPT-5.5 现已<a href=\" 在 API 中上线</a>，OpenAI 发布了许多实用建议，介绍如何更好地为新模型编写提示词。</p> <p>对于可能需要先花较长时间思考的应用，他们推荐了一个巧妙的技巧",
+          "why_it_matters_zh": "已有 1 个独立来源报道此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "3cb687c6af3d",
@@ -2025,7 +2070,11 @@
               "published_at": "2026-04-24T05:45:30-04:00"
             }
           ],
-          "route": "/hot/2026-04-25/topic/china-s-deepseek-previews-new-ai-model-a-year-after-jolting-us-rivals/"
+          "route": "/hot/2026-04-25/topic/china-s-deepseek-previews-new-ai-model-a-year-after-jolting-us-rivals/",
+          "headline_zh": "震动美国对手一年后，中国 DeepSeek 推出新 AI 模型预览版",
+          "summary_short_zh": "DeepSeek 发布了下一代 V4 AI 模型的预览版。公司表示，这款开源模型可与美国竞争对手的领先闭源系统抗衡。",
+          "why_it_matters_zh": "已有 1 个独立来源报道此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "72f603c87b86",
@@ -2063,7 +2112,11 @@
               "published_at": "Fri, 24 Apr 2026 11:49:30 +0000"
             }
           ],
-          "route": "/hot/2026-04-25/topic/thinker-cosmos/"
+          "route": "/hot/2026-04-25/topic/thinker-cosmos/",
+          "headline_zh": "优必选发布Thinker cosmos：加码开发者生态，推动人形机器人走向规模化",
+          "summary_short_zh": "量子位报道称，优必选发布了 Thinker cosmos。此次发布重点在于拓展开发者生态，推动人形机器人更大规模部署。",
+          "why_it_matters_zh": "已有 1 个独立来源报道此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "2ee0dfed6f60",
@@ -2110,7 +2163,11 @@
               "published_at": "Fri, 24 Apr 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-04-25/topic/glm-5-released-as-zhipu-ai-s-flagship-agent-foundation-model/"
+          "route": "/hot/2026-04-25/topic/glm-5-released-as-zhipu-ai-s-flagship-agent-foundation-model/",
+          "headline_zh": "智谱 AI 发布旗舰智能体基础模型 GLM-5",
+          "summary_short_zh": "智谱 AI 发布了旗舰智能体基础模型 GLM-5。公司称，这款开源模型在编程、智能体能力和工具使用场景中表现出色。",
+          "why_it_matters_zh": "已有 2 个独立来源报道此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "803d26d67077",
@@ -2148,7 +2205,11 @@
               "published_at": "2026-04-23T22:23:10.000Z"
             }
           ],
-          "route": "/hot/2026-04-25/topic/introducing-grok-voice-think-fast-1-0-a-state-of-the-art-voice-model-built-for-complex-multi-step-workflows-with-snappy-responses-and-high-accuracy/"
+          "route": "/hot/2026-04-25/topic/introducing-grok-voice-think-fast-1-0-a-state-of-the-art-voice-model-built-for-complex-multi-step-workflows-with-snappy-responses-and-high-accuracy/",
+          "headline_zh": "推出 Grok Voice Think Fast 1.0：专为复杂多步骤工作流打造的顶尖语音模型，响应迅速、准确率高",
+          "summary_short_zh": "xAI 发布了 Grok Voice Think Fast 1.0，这款低延迟语音模型专为复杂的多步骤工作流设计。公司称，该模型在 Tau Voice Bench 中表现领先，主打快速、准确的响应。",
+          "why_it_matters_zh": "已有 1 个独立来源报道此次产品发布。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2192,7 +2253,11 @@
               "published_at": "Fri, 24 Apr 2026 18:00:03 +0000"
             }
           ],
-          "route": "/hot/2026-04-25/topic/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/"
+          "route": "/hot/2026-04-25/topic/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
+          "headline_zh": "Google 拟以现金和算力向 Anthropic 投资至多 400 亿美元",
+          "summary_short_zh": "TechCrunch 报道，Google 计划以现金和算力形式向 Anthropic 投资至多 400 亿美元。报道从大规模 AI 算力竞争的角度解读了此举。",
+          "why_it_matters_zh": "已有 1 个独立来源报道此次融资。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "560b82a9946f",
@@ -2230,7 +2295,11 @@
               "published_at": "Fri, 24 Apr 2026 19:49:35 +0000"
             }
           ],
-          "route": "/hot/2026-04-25/topic/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/"
+          "route": "/hot/2026-04-25/topic/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
+          "headline_zh": "ComfyUI 估值达 5 亿美元，创作者寻求更好地掌控 AI 生成内容",
+          "summary_short_zh": "ComfyUI 融资 3000 万美元，据报道估值达 5 亿美元。该公司开发的工具可让创作者更好地控制 AI 图像、视频和音频的生成。",
+          "why_it_matters_zh": "已有 1 个独立来源报道此次融资。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -2274,7 +2343,11 @@
               "published_at": "Fri, 24 Apr 2026 16:42:19 +0000"
             }
           ],
-          "route": "/hot/2026-04-25/topic/marked-up-mac-minis-flood-ebay-amid-shortages-driven-by-ai/"
+          "route": "/hot/2026-04-25/topic/marked-up-mac-minis-flood-ebay-amid-shortages-driven-by-ai/",
+          "headline_zh": "AI 需求引发缺货，eBay 涌现大量加价出售的 Mac mini",
+          "summary_short_zh": "TechCrunch 报道，已售罄的 Mac mini 正在 eBay 上加价出售。缺货与用户在这款小型台式机上运行本地 AI 模型和工具的需求有关。",
+          "why_it_matters_zh": "这则行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "1a330f1c84d9",
@@ -2318,7 +2391,10 @@
               "published_at": "2026-04-25T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-25/topic/nvidia-s-open-salvo-openai-s-amazon-deal-grok-cuts-video-prices-recursive-language-models/"
+          "route": "/hot/2026-04-25/topic/nvidia-s-open-salvo-openai-s-amazon-deal-grok-cuts-video-prices-recursive-language-models/",
+          "headline_zh": "Nvidia 发起开源攻势，OpenAI 与亚马逊达成协议，Grok 下调视频生成价格，递归语言模型",
+          "why_it_matters_zh": "这则其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "4f75eb51a37c",
@@ -2356,7 +2432,10 @@
               "published_at": "2026-04-25T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-25/topic/import-ai-453-breaking-ai-agents-mirrorcode-and-ten-views-on-gradual-disempowerment/"
+          "route": "/hot/2026-04-25/topic/import-ai-453-breaking-ai-agents-mirrorcode-and-ten-views-on-gradual-disempowerment/",
+          "headline_zh": "Import AI 453：攻破 AI 智能体；MirrorCode；关于渐进式失权的十种观点",
+          "why_it_matters_zh": "这则其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "aa144d815b76",
@@ -2394,7 +2473,10 @@
               "published_at": "2026-04-25T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-25/topic/import-ai-454-automating-alignment-research-safety-study-of-a-chinese-model-hifloat4/"
+          "route": "/hot/2026-04-25/topic/import-ai-454-automating-alignment-research-safety-study-of-a-chinese-model-hifloat4/",
+          "headline_zh": "Import AI 454：自动化对齐研究；一款中国模型的安全性研究；HiFloat4",
+          "why_it_matters_zh": "这则其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "efbc89a279a4",
@@ -2432,7 +2514,10 @@
               "published_at": "2026-04-25T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-25/topic/meta-pivots-from-open-weights-big-pharma-bets-on-ai-regulatory-patchwork-simulating-human-cohorts/"
+          "route": "/hot/2026-04-25/topic/meta-pivots-from-open-weights-big-pharma-bets-on-ai-regulatory-patchwork-simulating-human-cohorts/",
+          "headline_zh": "Meta 放弃开放权重路线，大型药企押注 AI，监管规则碎片化，模拟人群队列",
+          "why_it_matters_zh": "这则其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -2476,7 +2561,11 @@
               "published_at": "2026-04-24T04:23:11+00:00"
             }
           ],
-          "route": "/hot/2026-04-25/topic/millisecond-converter/"
+          "route": "/hot/2026-04-25/topic/millisecond-converter/",
+          "headline_zh": "Millisecond Converter",
+          "summary_short_zh": "Simon Willison 发布了一款名为 Millisecond Converter 的小工具，帮助用户理解 LLM 项目以毫秒为单位报告的提示词处理耗时。",
+          "why_it_matters_zh": "这项工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "eb333fe7a843",
@@ -2514,7 +2603,11 @@
               "published_at": "Fri, 24 Apr 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-04-25/topic/inkberk-points-out-an-upcoming-improvement-in-decoding-speed-referencing-a-pull-request-22105-on-the-llama-cpp-repository/"
+          "route": "/hot/2026-04-25/topic/inkberk-points-out-an-upcoming-improvement-in-decoding-speed-referencing-a-pull-request-22105-on-the-llama-cpp-repository/",
+          "headline_zh": "inkberk 引用 llama.cpp 仓库中的拉取请求 #22105，指出解码速度即将提升。",
+          "summary_short_zh": "此次更新配合 z-lab 预计推出的“dflash drafter”，有望将解码速度提升至原来的 2 倍，大幅提高用户的使用效率。",
+          "why_it_matters_zh": "这项工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     },
@@ -2558,7 +2651,11 @@
               "published_at": "2026-04-25T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-25/topic/automated-alignment-researchers-using-large-language-models-to-scale-scalable-oversight-anthropic-blog/"
+          "route": "/hot/2026-04-25/topic/automated-alignment-researchers-using-large-language-models-to-scale-scalable-oversight-anthropic-blog/",
+          "headline_zh": "自动化对齐研究员：用大语言模型扩大可扩展监督的应用规模（Anthropic 博客）",
+          "summary_short_zh": "Anthropic 发布了自动化对齐研究员相关研究，利用大语言模型扩大可扩展监督的应用规模。这项工作通过研究型博客文章介绍，也在相关分析中被提及。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "6219f9d1dc56",
@@ -2596,7 +2693,11 @@
               "published_at": "Fri, 24 Apr 2026 00:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-04-25/topic/accelerate-rl-rollouts-by-up-to-50-with-distribution-aware-speculative-decoding/"
+          "route": "/hot/2026-04-25/topic/accelerate-rl-rollouts-by-up-to-50-with-distribution-aware-speculative-decoding/",
+          "headline_zh": "利用分布感知推测解码，将强化学习轨迹生成速度最高提升 50%",
+          "summary_short_zh": "Together AI 推出了面向强化学习轨迹生成的分布感知推测解码方法。该公司称，这种方法可在不降低奖励质量的前提下，将轨迹生成速度最高提升 50%。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         }
       ]
     }
@@ -2642,7 +2743,10 @@
               "published_at": "2026-04-24T18:23:32Z"
             }
           ],
-          "route": "/hot/2026-04-25/topic/openai-releases-gpt-5-5-and-gpt-5-5-pro-in-the-api/"
+          "route": "/hot/2026-04-25/topic/openai-releases-gpt-5-5-and-gpt-5-5-pro-in-the-api/",
+          "headline_zh": "OpenAI 在 API 中推出 GPT-5.5 和 GPT-5.5 Pro",
+          "why_it_matters_zh": "这则产品发布消息来自 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "090dd2f969e0",
@@ -2680,7 +2784,11 @@
               "published_at": "2026-04-24T11:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-04-25/topic/moonshot-ai-drops-agent-first-model/"
+          "route": "/hot/2026-04-25/topic/moonshot-ai-drops-agent-first-model/",
+          "headline_zh": "Moonshot AI 发布以智能体为核心的模型",
+          "summary_short_zh": "Superhuman AI 的一则新闻标题称，Moonshot AI 发布了一款以智能体为核心的模型。所提供的摘要未包含更多技术细节。",
+          "why_it_matters_zh": "这则产品发布消息来自 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "50ce69bfa01f",
@@ -2718,7 +2826,11 @@
               "published_at": "Fri, 24 Apr 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-04-25/topic/introducing-gpt-5-5/"
+          "route": "/hot/2026-04-25/topic/introducing-gpt-5-5/",
+          "headline_zh": "推出 GPT-5.5",
+          "summary_short_zh": "OpenAI 已发布 GPT-5.5，定价为每百万输入词元 5 美元、每百万输出词元 30 美元，价格是上一代 GPT-5.4 的两倍。",
+          "why_it_matters_zh": "这则产品发布消息来自 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2762,7 +2874,11 @@
               "published_at": "Sat, 25 Apr 2026 03:35:53 +0000"
             }
           ],
-          "route": "/hot/2026-04-25/topic/0-iclr-gpt-lecun/"
+          "route": "/hot/2026-04-25/topic/0-iclr-gpt-lecun/",
+          "headline_zh": "0博士组合拿下ICLR时间检验奖！两个GPT天才本科生+二本逆袭LeCun弟子，十年论文终封神",
+          "summary_short_zh": "三作者如今齐聚Mira初创",
+          "why_it_matters_zh": "这则其他类消息来自 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "43ae2a18482e",
@@ -2800,7 +2916,11 @@
               "published_at": "Sat, 25 Apr 2026 03:45:56 +0000"
             }
           ],
-          "route": "/hot/2026-04-25/topic/ai-cto-80/"
+          "route": "/hot/2026-04-25/topic/ai-cto-80/",
+          "headline_zh": "华人再破硅谷天花板！AI黑马新任CTO，中科大80后",
+          "summary_short_zh": "属于所有华人的AI新篇章",
+          "why_it_matters_zh": "这则其他类消息来自 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "2703e25592d3",
@@ -2838,7 +2958,11 @@
               "published_at": "Apr 24, 2026"
             }
           ],
-          "route": "/hot/2026-04-25/topic/anthropic-and-nec-collaborate-to-build-japan-s-largest-ai-engineering-workforce/"
+          "route": "/hot/2026-04-25/topic/anthropic-and-nec-collaborate-to-build-japan-s-largest-ai-engineering-workforce/",
+          "headline_zh": "Anthropic 与 NEC 合作打造日本规模最大的 AI 工程师队伍",
+          "summary_short_zh": "Anthropic 与 NEC 宣布合作，旨在打造双方所称的日本规模最大的 AI 工程师队伍。公告重点涉及日本的人才培养和企业 AI 能力拓展。",
+          "why_it_matters_zh": "这则行业动态来自 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "2e127ee89df2",
@@ -2876,7 +3000,11 @@
               "published_at": "Fri, 24 Apr 2026 20:52:07 +0000"
             }
           ],
-          "route": "/hot/2026-04-25/topic/meta-s-loss-is-thinking-machines-gain/"
+          "route": "/hot/2026-04-25/topic/meta-s-loss-is-thinking-machines-gain/",
+          "headline_zh": "Meta 的损失，成了 Thinking Machines 的收获",
+          "summary_short_zh": "Meta 一直在从 Thinking Machines Lab 挖人，但人才流动是双向的。",
+          "why_it_matters_zh": "这则其他类消息来自 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "39fc60084620",
@@ -2914,7 +3042,11 @@
               "published_at": "Fri, 24 Apr 2026 13:00:00 -0400"
             }
           ],
-          "route": "/hot/2026-04-25/topic/mit-scientists-build-the-world-s-largest-collection-of-olympiad-level-math-problems-and-open-it-to-everyone/"
+          "route": "/hot/2026-04-25/topic/mit-scientists-build-the-world-s-largest-collection-of-olympiad-level-math-problems-and-open-it-to-everyone/",
+          "headline_zh": "麻省理工学院科学家建成全球最大的奥赛级数学题库，并向所有人开放",
+          "summary_short_zh": "新数据集收录来自 47 个国家的 3 万多道数学竞赛题，为 AI 研究人员提供更具挑战性的测试，也为全球学生提供更好的训练资源。",
+          "why_it_matters_zh": "这则其他类消息来自 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }

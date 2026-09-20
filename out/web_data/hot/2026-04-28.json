@@ -2343,7 +2343,16 @@
           "published_at": "2026-04-28T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-04-28/topic/bytedance-ships-seed-full-duplex-speech-llm-for-real-time-voice-interaction/"
+      "route": "/hot/2026-04-28/topic/bytedance-ships-seed-full-duplex-speech-llm-for-real-time-voice-interaction/",
+      "headline_zh": "字节跳动发布 Seed Full-Duplex Speech LLM，支持实时语音交互",
+      "summary_short_zh": "字节跳动 Seed 推出 Seed Full-Duplex Speech LLM。据介绍，该模型支持专注倾听、干扰抑制和更自然的交互。",
+      "why_it_matters_zh": "这表明多模态语音智能体领域的竞争仍在持续，低延迟、能应对打断的语音系统正成为产品差异化的关键。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "字节跳动 Seed 于 2026 年 4 月 9 日正式推出 Seed Full-Duplex Speech LLM，强调同时听说，而非传统的轮流对话模式。",
+        "该公司重点介绍了专注倾听和强大的干扰抑制能力，这两项能力对在嘈杂环境中运行的通话助手、可穿戴 AI 设备和车载语音系统很重要。",
+        "同一消息来源还提到字节跳动在 Arena 发布 Dola-Seed-2.0-Preview，表明 Seed 正同步迭代语音模型和通用模型，而非只将语音作为一次性演示。"
+      ]
     },
     {
       "topic_id": "89cb3ffb4a99",
@@ -2403,7 +2412,16 @@
           "published_at": "Mon, 27 Apr 2026 16:50:41 +0000"
         }
       ],
-      "route": "/hot/2026-04-28/topic/the-next-phase-of-the-microsoft-openai-partnership/"
+      "route": "/hot/2026-04-28/topic/the-next-phase-of-the-microsoft-openai-partnership/",
+      "headline_zh": "微软与 OpenAI 合作迈入下一阶段",
+      "summary_short_zh": "OpenAI 与微软宣布修订双方合作协议。两家公司表示，此次调整简化了合作关系，让长期合作安排更加明确，并支持 AI 的持续开发和部署。",
+      "why_it_matters_zh": "这一行业动态见于 7 个独立消息来源。",
+      "category_zh": "行业动态",
+      "key_takeaways_zh": [
+        "本文演示如何通过 Strands Agents SDK，使用部署在 SageMaker AI 端点上的模型构建 AI 智能体。你将学习如何从 SageMaker JumpStart 部署基础模型……",
+        "本文探讨一种自动化方案，可检测 S3 事件并触发数据摄取任务，同时遵守服务配额限制并提供全面监控。这一无服务器方案采用……",
+        "本文介绍如何使用 Amazon Quick 构建你的首个 AI 驱动工作流，从财务分析工具入手，逐步实现更高级的员工入职自动化。"
+      ]
     },
     {
       "topic_id": "2a5c281e05bb",
@@ -2441,7 +2459,11 @@
           "published_at": "2026-04-27T21:45:28.000Z"
         }
       ],
-      "route": "/hot/2026-04-28/topic/ready-to-unlock-your-creativity-with-gemini-canvas-don-t-miss-our-next-discord-event-to-see-gemini-creative-technologist-davidmaliglowka-live-demo-his-latest-canvas-and-nano/"
+      "route": "/hot/2026-04-28/topic/ready-to-unlock-your-creativity-with-gemini-canvas-don-t-miss-our-next-discord-event-to-see-gemini-creative-technologist-davidmaliglowka-live-demo-his-latest-canvas-and-nano/",
+      "headline_zh": "准备好用 Gemini Canvas 发挥创意了吗？🪄 别错过下一场 Discord 活动，Gemini 创意技术专家 @DavidMaliglowka 将现场演示他最新的 Canvas 和 Nano……",
+      "summary_short_zh": "准备好用 Gemini Canvas 发挥创意了吗？🪄 别错过下一场 Discord 活动，Gemini 创意技术专家 @DavidMaliglowka 将现场演示他最新的 Canvas 和 Nano Banana 工作流，帮助你提升创意提示词技巧。🗓️ 4 月，星期三",
+      "why_it_matters_zh": "此次产品发布见于 1 个独立消息来源。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "9a10d40f3ae2",
@@ -2488,7 +2510,11 @@
           "published_at": "2026-04-27T21:55:48Z"
         }
       ],
-      "route": "/hot/2026-04-28/topic/introducing-talkie-a-13b-vintage-language-model-from-1930/"
+      "route": "/hot/2026-04-28/topic/introducing-talkie-a-13b-vintage-language-model-from-1930/",
+      "headline_zh": "介绍 talkie：一款来自 1930 年的 130 亿参数复古语言模型",
+      "summary_short_zh": "<p><strong><a href=\" talkie：一款来自 1930 年的 130 亿参数复古语言模型</a></strong></p> 这是 <a href=\" Levine</a>、<a href=\" Duvenaud</a> 和 <a href=\" Radford</a>（因 GPT、GPT-2 和 Whisper 而闻名）的新项目。</p> <p><a href=\"（53.1 GB）是一个“使用 2600 亿个历史语料词元训练的 130 亿参数语言模型",
+      "why_it_matters_zh": "此次产品发布见于 2 个独立消息来源。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "a6e9d9f19687",
@@ -2537,7 +2563,16 @@
           "published_at": "Mon, 27 Apr 2026 18:12:04 +0000"
         }
       ],
-      "route": "/hot/2026-04-28/topic/china-blocks-meta-s-2b-manus-acquisition/"
+      "route": "/hot/2026-04-28/topic/china-blocks-meta-s-2b-manus-acquisition/",
+      "headline_zh": "中国阻止 Meta 以 20 亿美元收购 Manus",
+      "summary_short_zh": "据 Ars Technica 报道，在中国干预后，Meta 对 Manus 的收购被撤销。文章将此次逆转与中美在 AI 和跨境科技交易领域的整体紧张关系联系起来。",
+      "why_it_matters_zh": "这发出了一个战略警示：涉及中国资产的 AI 并购可能遭监管强制撤销，影响估值、尽职调查和市场进入规划。",
+      "category_zh": "市场信号",
+      "key_takeaways_zh": [
+        "据 TechCrunch 报道，经过数月调查，中国责令 Meta 撤销其价值 20 亿美元的 Manus 交易，直接打乱了此前报道中 Meta 进军 AI 智能体领域的计划。",
+        "Ars Technica 将此次逆转置于更广泛的中美 AI 竞争背景下，强调地缘政治风险敞口已成为 AI 交易风险的核心变量。",
+        "对收购方和投资者而言，Manus 案例提高了跨境 AI 交易架构设计的要求，尤其是涉及模型知识产权、数据访问权限或战略性平台控制权的交易。"
+      ]
     }
   ],
   "category_sections": [
@@ -2581,7 +2616,11 @@
               "published_at": "Mon, 27 Apr 2026 16:13:02 +0000"
             }
           ],
-          "route": "/hot/2026-04-28/topic/investors-back-skye-s-ai-home-screen-app-for-iphone-ahead-of-launch/"
+          "route": "/hot/2026-04-28/topic/investors-back-skye-s-ai-home-screen-app-for-iphone-ahead-of-launch/",
+          "headline_zh": "Skye 的 iPhone AI 主屏幕应用上线前获投资者支持",
+          "summary_short_zh": "Skye 的新 AI 应用尚未上线便吸引了投资者，反映出市场对 AI 感知能力更强的 iPhone 的兴趣",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "e2f94d5c64d6",
@@ -2619,7 +2658,11 @@
               "published_at": "2026-04-27T19:29:11.000Z"
             }
           ],
-          "route": "/hot/2026-04-28/topic/keras-kinetic-has-a-new-alpha-release/"
+          "route": "/hot/2026-04-28/topic/keras-kinetic-has-a-new-alpha-release/",
+          "headline_zh": "Keras Kinetic 发布新版 Alpha 测试版",
+          "summary_short_zh": "v0.0.2！还上线了全新的文档网站：Kinetic 是 Keras 团队近期发布的产品中我最喜欢的一个，提供类似 Modal 的极简 API，可在 TPU 上运行训练任务",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "0c8ffed4d879",
@@ -2657,7 +2700,10 @@
               "published_at": "2026-04-28T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-28/topic/deepseek-resurfaces-with-cheap-capable-v4/"
+          "route": "/hot/2026-04-28/topic/deepseek-resurfaces-with-cheap-capable-v4/",
+          "headline_zh": "DeepSeek 携低价高性能的 V4 再度亮相",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "1fb87064f320",
@@ -2695,7 +2741,11 @@
               "published_at": "Mon, 27 Apr 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-04-28/topic/mimo-v2-5-is-one-of-the-day-s-biggest-open-releases/"
+          "route": "/hot/2026-04-28/topic/mimo-v2-5-is-one-of-the-day-s-biggest-open-releases/",
+          "headline_zh": "MiMo-V2.5 是当天最重磅的开源发布之一",
+          "summary_short_zh": "小米以 MIT 许可证开源了 MiMo-V2.5-Pro 和 MiMo-V2.5。此次发布的一大亮点是 100 万 token 的上下文窗口，其中 Pro 模型面向复杂的智能体和编程应用场景",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "1f74070b02a8",
@@ -2733,7 +2783,11 @@
               "published_at": "Mon, 27 Apr 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-04-28/topic/microsoft-presents-trellis-2-an-open-source-4b-parameter-image-to-3d-model-producing-up-to-1536-pbr-textured-assets-built-on-native-3d-vaes-with-16-spatial-compression-delivering-efficient-scalable-high-fidelity-asset-generation/"
+          "route": "/hot/2026-04-28/topic/microsoft-presents-trellis-2-an-open-source-4b-parameter-image-to-3d-model-producing-up-to-1536-pbr-textured-assets-built-on-native-3d-vaes-with-16-spatial-compression-delivering-efficient-scalable-high-fidelity-asset-generation/",
+          "headline_zh": "微软推出“TRELLIS.2”：开源的 40 亿参数图像转 3D 模型，可生成分辨率高达 1536³、带有 PBR 纹理的资产，基于支持 16 倍空间压缩的原生 3D VAE，实现高效、可扩展的高保真资产生成。",
+          "summary_short_zh": "微软推出了 TRELLIS.2，一款开源的 40 亿参数图像转 3D 模型。据介绍，该模型利用支持 16 倍空间压缩的原生 3D VAE，生成带有 PBR 纹理的高分辨率 3D 资产",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2777,7 +2831,11 @@
               "published_at": "Mon, 27 Apr 2026 17:24:21 +0000"
             }
           ],
-          "route": "/hot/2026-04-28/topic/deepmind-s-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/"
+          "route": "/hot/2026-04-28/topic/deepmind-s-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/",
+          "headline_zh": "DeepMind 的 David Silver 刚筹得 11 亿美元，将打造无需人类数据即可学习的 AI",
+          "summary_short_zh": "由前 DeepMind 研究员 David Silver 创立的英国新 AI 实验室 Ineffable Intelligence 融资 11 亿美元，估值达 51 亿美元。这笔资金计划用于研发无需人类数据即可学习的 AI 系统",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次融资。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -2821,7 +2879,11 @@
               "published_at": "Mon, 27 Apr 2026 13:00:00 +0000"
             }
           ],
-          "route": "/hot/2026-04-28/topic/join-the-new-ai-agents-vibe-coding-course-from-google-and-kaggle/"
+          "route": "/hot/2026-04-28/topic/join-the-new-ai-agents-vibe-coding-course-from-google-and-kaggle/",
+          "headline_zh": "参加 Google 和 Kaggle 推出的全新 AI 智能体 Vibe Coding 课程",
+          "summary_short_zh": "笔记本电脑旁的一张网",
+          "why_it_matters_zh": "有 1 个独立来源报道了这一行业动向。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "667b9ad5d456",
@@ -2859,7 +2921,11 @@
               "published_at": "Mon, 27 Apr 2026 14:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-04-28/topic/openai-available-at-fedramp-moderate/"
+          "route": "/hot/2026-04-28/topic/openai-available-at-fedramp-moderate/",
+          "headline_zh": "OpenAI 服务已获 FedRAMP Moderate 授权",
+          "summary_short_zh": "OpenAI 宣布，ChatGPT Enterprise 和 OpenAI API 已获得 FedRAMP Moderate 授权，美国联邦机构可按该合规标准使用这些服务",
+          "why_it_matters_zh": "有 1 个独立来源报道了这一行业动向。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "f5301cf02b63",
@@ -2897,7 +2963,11 @@
               "published_at": "2026-04-27T14:17:12-04:00"
             }
           ],
-          "route": "/hot/2026-04-28/topic/google-employees-ask-sundar-pichai-to-say-no-to-classified-military-ai-use/"
+          "route": "/hot/2026-04-28/topic/google-employees-ask-sundar-pichai-to-say-no-to-classified-military-ai-use/",
+          "headline_zh": "Google 员工呼吁 Sundar Pichai 拒绝将 AI 用于机密军事任务",
+          "summary_short_zh": "600 多名 Google 员工联署致信首席执行官 Sundar Pichai，要求阻止五角大楼将 Google 的 AI 模型用于机密用途。报道介绍了公司内部员工对军事相关 AI 部署的反对声音。",
+          "why_it_matters_zh": "这条行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "a1cb2808325f",
@@ -2942,7 +3012,11 @@
               "published_at": "Mon, 27 Apr 2026 20:45:18 +0000"
             }
           ],
-          "route": "/hot/2026-04-28/topic/musk-and-altman-face-off-in-trial-that-will-determine-openai-s-future/"
+          "route": "/hot/2026-04-28/topic/musk-and-altman-face-off-in-trial-that-will-determine-openai-s-future/",
+          "headline_zh": "马斯克与奥尔特曼对簿公堂，审判将决定 OpenAI 的未来",
+          "summary_short_zh": "Ars Technica 报道了马斯克与奥尔特曼的庭审及其对 OpenAI 未来的影响。文章称，此案将审视 OpenAI 的使命，并指出马斯克过去关于 AI 风险的言论可能与案件有关。",
+          "why_it_matters_zh": "这条其他类资讯见于 2 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "c827e99c4243",
@@ -2980,7 +3054,11 @@
               "published_at": "Tue, 28 Apr 2026 06:15:23 +0000"
             }
           ],
-          "route": "/hot/2026-04-28/topic/deepseek-v4/"
+          "route": "/hot/2026-04-28/topic/deepseek-v4/",
+          "headline_zh": "DeepSeek不惜代价保住它！V4关键特性被挖出来了",
+          "summary_short_zh": "技术报告越挖越有",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -3024,7 +3102,11 @@
               "published_at": "2026-04-28T05:23:05+00:00"
             }
           ],
-          "route": "/hot/2026-04-28/topic/what-s-new-in-pip-26-1-lockfiles-and-dependency-cooldowns/"
+          "route": "/hot/2026-04-28/topic/what-s-new-in-pip-26-1-lockfiles-and-dependency-cooldowns/",
+          "headline_zh": "pip 26.1 新特性：锁定文件与依赖冷却期！",
+          "summary_short_zh": "<p><strong><a href=\" pip 26.1 新特性：锁定文件与依赖冷却期！</a></strong></p> Richard Si 介绍了 Python 默认依赖安装工具 <code>pip</code> 的一系列出色改进。</p> <p>此版本不再支持 Python 3.9，这也合理，毕竟它已停止维护 <a",
+          "why_it_matters_zh": "这条工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "f6bb65d671f4",
@@ -3062,7 +3144,11 @@
               "published_at": "Mon, 27 Apr 2026 00:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-04-28/topic/an-open-source-spec-for-orchestration-symphony/"
+          "route": "/hot/2026-04-28/topic/an-open-source-spec-for-orchestration-symphony/",
+          "headline_zh": "Symphony：开源编排规范",
+          "summary_short_zh": "OpenAI 推出了 Symphony，一套用于编排基于 Codex 的智能体工作流的开源规范。该规范旨在连接问题跟踪系统与持续运行的智能体系统，以执行软件工程任务。",
+          "why_it_matters_zh": "这条工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "ee80710af56f",
@@ -3100,7 +3186,11 @@
               "published_at": "Mon, 27 Apr 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-04-28/topic/luce-dflash-qwen3-6-27b-at-up-to-2x-throughput-on-a-single-rtx-3090/"
+          "route": "/hot/2026-04-28/topic/luce-dflash-qwen3-6-27b-at-up-to-2x-throughput-on-a-single-rtx-3090/",
+          "headline_zh": "Luce DFlash：Qwen3.6-27B 在单张 RTX 3090 上吞吐量最高翻倍",
+          "summary_short_zh": "据介绍，Luce DFlash 是针对单张 RTX 3090 优化的 Qwen3.6-27B 推测解码实现。报道称，它可使该硬件上的本地推理吞吐量最高翻倍。",
+          "why_it_matters_zh": "这条工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "c34d8162829c",
@@ -3138,7 +3228,11 @@
               "published_at": "Mon, 27 Apr 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-04-28/topic/qwen3-6-27b-int4-clocking-100-tps-with-256k-context-length-on-1x-rtx-5090-via-vllm-0-19/"
+          "route": "/hot/2026-04-28/topic/qwen3-6-27b-int4-clocking-100-tps-with-256k-context-length-on-1x-rtx-5090-via-vllm-0-19/",
+          "headline_zh": "Qwen3.6-27B-INT4 使用 vLLM 0.19，在单张 RTX 5090、256k 上下文下达到 100 token/秒",
+          "summary_short_zh": "一篇社区帖子公布了 Qwen3.6-27B-INT4 的基准测试结果：使用 vLLM 0.19，在单张 RTX 5090、256k 上下文下，速度约为每秒 100 token。这条消息侧重推理性能，而非官方发布的新版本。",
+          "why_it_matters_zh": "这条工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     },
@@ -3182,7 +3276,11 @@
               "published_at": "2026-04-28T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-04-28/topic/a-general-representation-based-approach-to-multi-source-domain-adaptation/"
+          "route": "/hot/2026-04-28/topic/a-general-representation-based-approach-to-multi-source-domain-adaptation/",
+          "headline_zh": "一种基于表征的多源域适应通用方法",
+          "summary_short_zh": "无监督域适应的一个核心问题，是确定应从有标签的源域向无标签的目标域迁移哪些信息。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         }
       ]
     }
@@ -3228,7 +3326,11 @@
               "published_at": "Mon, 27 Apr 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-04-28/topic/broader-china-model-trend/"
+          "route": "/hot/2026-04-28/topic/broader-china-model-trend/",
+          "headline_zh": "中国模型的整体发展趋势",
+          "summary_short_zh": "多篇帖子认为，中国实验室正大力推进相对开放、面向智能体、支持长上下文的系统，相关动向包括 Qwen 3.6 Flash、DeepSeek V4/Flash、GLM-5.1 推广活动（三倍用量优惠延期），以及小米以 MIT 许可证开源的项目。",
+          "why_it_matters_zh": "这条产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -3272,7 +3374,11 @@
               "published_at": "2026-04-27T20:01:54-04:00"
             }
           ],
-          "route": "/hot/2026-04-28/topic/google-is-testing-ai-chatbot-search-for-youtube/"
+          "route": "/hot/2026-04-28/topic/google-is-testing-ai-chatbot-search-for-youtube/",
+          "headline_zh": "Google 正在测试用 AI 聊天机器人搜索 YouTube",
+          "summary_short_zh": "Google 正在为 YouTube 测试类似 AI Mode 的搜索体验。该公司正在尝试“一种更像对话的 YouTube 搜索新方式”，搜索结果会涵盖长视频、YouTube Shorts 以及与搜索内容相关的文字信息。",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "4f75eb51a37c",
@@ -3310,7 +3416,10 @@
               "published_at": "2026-04-28T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-28/topic/import-ai-453-breaking-ai-agents-mirrorcode-and-ten-views-on-gradual-disempowerment/"
+          "route": "/hot/2026-04-28/topic/import-ai-453-breaking-ai-agents-mirrorcode-and-ten-views-on-gradual-disempowerment/",
+          "headline_zh": "Import AI 453：攻破 AI 智能体；MirrorCode；关于渐进式失权的十种观点",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "aa144d815b76",
@@ -3348,7 +3457,10 @@
               "published_at": "2026-04-28T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-28/topic/import-ai-454-automating-alignment-research-safety-study-of-a-chinese-model-hifloat4/"
+          "route": "/hot/2026-04-28/topic/import-ai-454-automating-alignment-research-safety-study-of-a-chinese-model-hifloat4/",
+          "headline_zh": "Import AI 454：对齐研究自动化；一款中国模型的安全性研究；HiFloat4",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "efbc89a279a4",
@@ -3386,7 +3498,10 @@
               "published_at": "2026-04-28T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-28/topic/meta-pivots-from-open-weights-big-pharma-bets-on-ai-regulatory-patchwork-simulating-human-cohorts/"
+          "route": "/hot/2026-04-28/topic/meta-pivots-from-open-weights-big-pharma-bets-on-ai-regulatory-patchwork-simulating-human-cohorts/",
+          "headline_zh": "Meta 放弃开放权重路线，制药巨头押注 AI，监管体系碎片化，模拟人群",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "e7b81a4720af",
@@ -3424,7 +3539,10 @@
               "published_at": "2026-04-28T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-28/topic/glm-5-1-thinks-strategically-data-center-revolt-intensifies-when-helpful-llms-turn-unhelpful-humanoid-robots-get-to-work/"
+          "route": "/hot/2026-04-28/topic/glm-5-1-thinks-strategically-data-center-revolt-intensifies-when-helpful-llms-turn-unhelpful-humanoid-robots-get-to-work/",
+          "headline_zh": "GLM 5.1 展现战略思维，对数据中心的抵制加剧，当大语言模型不再有帮助，人形机器人上岗",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "910eaac59a0e",
@@ -3462,7 +3580,11 @@
               "published_at": "Tue, 28 Apr 2026 02:35:49 +0000"
             }
           ],
-          "route": "/hot/2026-04-28/topic/ai/"
+          "route": "/hot/2026-04-28/topic/ai/",
+          "headline_zh": "赋予机械臂自我成长能力，睿尔曼发布AI智能示教泛化系统",
+          "summary_short_zh": "“AI三引擎”协同发力",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "9430dc92216f",
@@ -3500,7 +3622,11 @@
               "published_at": "Mon, 27 Apr 2026 07:00:06 +0000"
             }
           ],
-          "route": "/hot/2026-04-28/topic/announcing-our-partnership-with-the-republic-of-korea/"
+          "route": "/hot/2026-04-28/topic/announcing-our-partnership-with-the-republic-of-korea/",
+          "headline_zh": "宣布与韩国建立合作伙伴关系",
+          "summary_short_zh": "Google DeepMind 宣布与韩国建立合作伙伴关系。这项合作旨在利用前沿 AI 模型，加快实现科学突破。",
+          "why_it_matters_zh": "这条行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -3548,7 +3674,10 @@
           "published_at": "2026-04-27T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-04-28/topic/introducing-runway-fund/"
+      "route": "/hot/2026-04-28/topic/introducing-runway-fund/",
+      "headline_zh": "推出 Runway Fund",
+      "why_it_matters_zh": "这条产品发布消息见于 1 个独立来源。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "1d7eff049405",
@@ -3586,7 +3715,11 @@
           "published_at": "2026-04-27T23:46:56+00:00"
         }
       ],
-      "route": "/hot/2026-04-28/topic/microsoft-vibevoice/"
+      "route": "/hot/2026-04-28/topic/microsoft-vibevoice/",
+      "headline_zh": "microsoft/VibeVoice",
+      "summary_short_zh": "微软发布了 VibeVoice，一款采用 MIT 许可证、类似 Whisper 的语音转文本模型。仓库重点展示了其转录能力，包括区分不同说话人。",
+      "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布"
     }
   ],
   "x_buzz": [

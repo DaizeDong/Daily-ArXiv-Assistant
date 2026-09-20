@@ -2036,7 +2036,15 @@
           "published_at": "2026-06-11T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-06-11/topic/initial-impressions-of-claude-fable-5/"
+      "route": "/hot/2026-06-11/topic/initial-impressions-of-claude-fable-5/",
+      "headline_zh": "Claude Fable 5 初体验",
+      "summary_short_zh": "<p>我没能提前体验今天发布的 <a href=\" Fable 5</a>，但过去约 5.5 小时一直在对它进行全面测试。初步感觉，它的实力相当<em>强悍</em>。",
+      "why_it_matters_zh": "此次产品发布有 7 个独立来源报道。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "<p>我没能提前体验今天发布的 <a href=\"https://www.anthropic.com/news/claude-fable-5-mythos-5\">Claude Fable 5</a>，但过去约 5.5 小时一直在对它进行全面测试……",
+        "<p><strong><a href=\"https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html\">如果 Claude Fable 不再帮你，你永远不会察觉</a></strong><..."
+      ]
     },
     {
       "topic_id": "b5ca12b0966c",
@@ -2076,7 +2084,14 @@
           "published_at": "Thu, 11 Jun 2026 00:54:42 +0000"
         }
       ],
-      "route": "/hot/2026-06-11/topic/how-frontier-teams-are-reinventing-ai-native-development/"
+      "route": "/hot/2026-06-11/topic/how-frontier-teams-are-reinventing-ai-native-development/",
+      "headline_zh": "前沿团队如何重塑 AI 原生开发",
+      "summary_short_zh": "前沿团队不仅用 AI 加快编码，还在重新设计软件开发方式，让工作效率达到原来的 4.5 倍，部分情况下甚至超过 10 倍",
+      "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "前沿团队不仅用 AI 加快编码，还在重新设计软件开发方式，让工作效率达到原来的 4.5 倍，部分情况下甚至超过 10 倍。"
+      ]
     },
     {
       "topic_id": "614c9fc3c43b",
@@ -2116,7 +2131,14 @@
           "published_at": "Thu, 11 Jun 2026 00:00:00 GMT"
         }
       ],
-      "route": "/hot/2026-06-11/topic/supporting-europe-s-work-in-ensuring-a-trustworthy-ai-ecosystem/"
+      "route": "/hot/2026-06-11/topic/supporting-europe-s-work-in-ensuring-a-trustworthy-ai-ecosystem/",
+      "headline_zh": "支持欧洲构建可信赖的 AI 生态系统",
+      "summary_short_zh": "OpenAI 支持欧盟《AI 内容透明度实践准则》，推动内容溯源标准和工具的发展，帮助人们了解 AI 生成内容",
+      "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "OpenAI 支持欧盟《AI 内容透明度实践准则》，推动内容溯源标准和工具的发展，帮助人们了解 AI 生成内容。"
+      ]
     },
     {
       "topic_id": "6bfeed01decd",
@@ -2156,7 +2178,14 @@
           "published_at": "Wed, 10 Jun 2026 20:00:00 GMT"
         }
       ],
-      "route": "/hot/2026-06-11/topic/access-openai-models-and-codex-through-your-oracle-cloud-commitment/"
+      "route": "/hot/2026-06-11/topic/access-openai-models-and-codex-through-your-oracle-cloud-commitment/",
+      "headline_zh": "用 Oracle 云承诺消费额度接入 OpenAI 模型和 Codex",
+      "summary_short_zh": "通过 Oracle Cloud 接入 OpenAI 模型和 Codex，利用现有承诺消费额度，在企业级安全与治理保障下构建和部署 AI",
+      "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "通过 Oracle Cloud 接入 OpenAI 模型和 Codex，利用现有承诺消费额度，在企业级安全与治理保障下构建和部署 AI。"
+      ]
     },
     {
       "topic_id": "e89eea0e7513",
@@ -2194,7 +2223,10 @@
           "published_at": "2026-06-10T14:24:43+00:00"
         }
       ],
-      "route": "/hot/2026-06-11/topic/eyes-ears-and-a-voice-building-reachy-mini-s-media-stack/"
+      "route": "/hot/2026-06-11/topic/eyes-ears-and-a-voice-building-reachy-mini-s-media-stack/",
+      "headline_zh": "眼睛、耳朵与声音：构建 Reachy Mini 的多媒体技术栈",
+      "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+      "category_zh": "产品发布"
     }
   ],
   "category_sections": [
@@ -2238,7 +2270,11 @@
               "published_at": "Wed, 10 Jun 2026 12:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-06-11/topic/prc-linked-influence-operations-are-targeting-ai-debates-in-the-us/"
+          "route": "/hot/2026-06-11/topic/prc-linked-influence-operations-are-targeting-ai-debates-in-the-us/",
+          "headline_zh": "与中国有关联的舆论影响行动正瞄准美国的 AI 讨论",
+          "summary_short_zh": "OpenAI 的一份新报告详细介绍了与中国有关联、利用 AI 开展的舆论影响行动，涉及美国科技讨论、数据中心相关舆论、关税以及有关 ChatGPT 的虚假说法",
+          "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "14cc5d356f42",
@@ -2276,7 +2312,11 @@
               "published_at": "2026-06-11T04:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-11/topic/deezer-launches-an-ai-music-detector-for-other-streaming-services/"
+          "route": "/hot/2026-06-11/topic/deezer-launches-an-ai-music-detector-for-other-streaming-services/",
+          "headline_zh": "Deezer 推出面向其他流媒体服务的 AI 音乐检测工具",
+          "summary_short_zh": "现在，Deezer 可以扫描你在其他流媒体平台上的歌单，识别 AI 生成的音乐。Deezer 是首家为 AI 生成音乐添加标识的大型流媒体服务商。它甚至曾向其他平台提供这项技术，但似乎没多少买家。",
+          "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "884188a6e87d",
@@ -2320,7 +2360,11 @@
               "published_at": "2026-06-10T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-06-11/topic/introducing-grok-build/"
+          "route": "/hot/2026-06-11/topic/introducing-grok-build/",
+          "headline_zh": "Grok Build 亮相",
+          "summary_short_zh": "Grok Build 是一款可直接在终端运行的新编程智能体，现已面向所有 SuperGrok 和 X Premium Plus 订阅用户开放早期 Beta 测试",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "db4950827f70",
@@ -2358,7 +2402,11 @@
               "published_at": "Wed, 10 Jun 2026 19:29:21 +0000"
             }
           ],
-          "route": "/hot/2026-06-11/topic/google-deepmind-releases-diffusiongemma-a-model-that-runs-local-ai-4x-faster/"
+          "route": "/hot/2026-06-11/topic/google-deepmind-releases-diffusiongemma-a-model-that-runs-local-ai-4x-faster/",
+          "headline_zh": "Google DeepMind 发布 DiffusionGemma，让本地 AI 运行速度达到原来的 4 倍",
+          "summary_short_zh": "扩散模型最常用于图像生成，也能大幅加快文本生成",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "dbb202d05065",
@@ -2396,7 +2444,11 @@
               "published_at": "Wed, 10 Jun 2026 00:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-06-11/topic/from-data-to-decisions-how-lseg-is-scaling-trusted-ai/"
+          "route": "/hot/2026-06-11/topic/from-data-to-decisions-how-lseg-is-scaling-trusted-ai/",
+          "headline_zh": "从数据到决策：LSEG 如何规模化应用可信 AI",
+          "summary_short_zh": "了解 LSEG 如何借助 OpenAI，在全球业务中规模化应用可信 AI，更快获取洞察、缩短发布周期，并助力 4,000 名员工",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2440,7 +2492,11 @@
               "published_at": "Wed, 10 Jun 2026 20:19:31 +0000"
             }
           ],
-          "route": "/hot/2026-06-11/topic/fresh-off-bond-sale-amazon-borrows-17-5b-from-banks-as-ai-spending-continues/"
+          "route": "/hot/2026-06-11/topic/fresh-off-bond-sale-amazon-borrows-17-5b-from-banks-as-ai-spending-continues/",
+          "headline_zh": "AI 投入持续，亚马逊刚发债又向银行借款 175 亿美元",
+          "summary_short_zh": "各家公司为跟上 AI 军备竞赛的步伐，正耗费巨额资金，债务也在攀升",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次融资。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "d795c5af7594",
@@ -2478,7 +2534,11 @@
               "published_at": "Wed, 10 Jun 2026 22:31:19 +0000"
             }
           ],
-          "route": "/hot/2026-06-11/topic/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/"
+          "route": "/hot/2026-06-11/topic/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
+          "headline_zh": "新诉讼称，xAI 解雇了一名曾就 Grok 安全问题发出警告的工程师",
+          "summary_short_zh": "一名前 xAI 工程师起诉 xAI 和 SpaceX，称自己因提出对 Grok AI 安全性的担忧，在 SpaceX 历史性 IPO 前几天遭到解雇",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次融资。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -2522,7 +2582,11 @@
               "published_at": "2026-06-10T13:45:11-04:00"
             }
           ],
-          "route": "/hot/2026-06-11/topic/microsoft-like-totally-gets-why-students-are-booing-ai-pilled-graduation-speakers/"
+          "route": "/hot/2026-06-11/topic/microsoft-like-totally-gets-why-students-are-booing-ai-pilled-graduation-speakers/",
+          "headline_zh": "微软可太懂学生为什么嘘那些痴迷 AI 的毕业典礼演讲者了",
+          "summary_short_zh": "全国各地的大学应届毕业生纷纷对大肆吹捧 AI 的毕业典礼演讲者喝倒彩、起哄。微软希望大家坐下来好好聊聊。",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次行业动向。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "6435ca25a29d",
@@ -2560,7 +2624,10 @@
               "published_at": "2026-06-11T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-11/topic/import-ai-460-reward-hacking-society-rsi-data-from-anthropic-and-rl-based-quadcopter-racing/"
+          "route": "/hot/2026-06-11/topic/import-ai-460-reward-hacking-society-rsi-data-from-anthropic-and-rl-based-quadcopter-racing/",
+          "headline_zh": "Import AI 第 460 期：社会中的奖励投机、Anthropic 的 RSI 数据，以及基于强化学习的四旋翼无人机竞速",
+          "why_it_matters_zh": "有 1 个独立来源报道了这条其他类资讯。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "40de53fc90c0",
@@ -2598,7 +2665,11 @@
               "published_at": "2026-06-11T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-11/topic/when-ai-builds-itself-the-anthropic-institute/"
+          "route": "/hot/2026-06-11/topic/when-ai-builds-itself-the-anthropic-institute/",
+          "headline_zh": "当 AI 构建自身时（The Anthropic Institute）",
+          "summary_short_zh": "当 AI 构建自身时（The Anthropic Institute",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "caea64c53f71",
@@ -2636,7 +2707,10 @@
               "published_at": "2026-06-11T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-11/topic/import-ai-459-ai-oversight-is-difficult-scaling-laws-for-protein-folding-models-and-pricing-the-extinction-risk-of-ai-systems/"
+          "route": "/hot/2026-06-11/topic/import-ai-459-ai-oversight-is-difficult-scaling-laws-for-protein-folding-models-and-pricing-the-extinction-risk-of-ai-systems/",
+          "headline_zh": "Import AI 第 459 期：监督 AI 很难；蛋白质折叠模型的缩放定律；为 AI 系统带来的灭绝风险定价",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "cc3a7592c256",
@@ -2674,7 +2748,11 @@
               "published_at": "2026-06-11T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-11/topic/state-media-control-influences-large-language-models-nature-pdf/"
+          "route": "/hot/2026-06-11/topic/state-media-control-influences-large-language-models-nature-pdf/",
+          "headline_zh": "国家对媒体的管控影响大语言模型（《自然》，PDF）",
+          "summary_short_zh": "国家对媒体的管控影响大语言模型（《自然》，PDF",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -2718,7 +2796,11 @@
               "published_at": "Wed, 10 Jun 2026 17:34:55 +0000"
             }
           ],
-          "route": "/hot/2026-06-11/topic/new-framework-for-auditing-machine-unlearning/"
+          "route": "/hot/2026-06-11/topic/new-framework-for-auditing-machine-unlearning/",
+          "headline_zh": "机器遗忘审计新框架",
+          "summary_short_zh": "算法与理论",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "8e7ae95ad365",
@@ -2756,7 +2838,11 @@
               "published_at": "Wed, 10 Jun 2026 15:21:35 +0000"
             }
           ],
-          "route": "/hot/2026-06-11/topic/build-an-ai-powered-equipment-repair-assistant-using-amazon-bedrock-agentcore/"
+          "route": "/hot/2026-06-11/topic/build-an-ai-powered-equipment-repair-assistant-using-amazon-bedrock-agentcore/",
+          "headline_zh": "使用 Amazon Bedrock AgentCore 构建 AI 设备维修助手",
+          "summary_short_zh": "本文介绍如何使用 Amazon Bedrock AgentCore 构建 AI 设备维修助手，帮助农民和现场技术人员通过自然语言诊断设备故障、确定所需零件，并获取制造商认可的维修流程。",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "ec3b5c9a66ab",
@@ -2794,7 +2880,11 @@
               "published_at": "Wed, 10 Jun 2026 15:26:45 +0000"
             }
           ],
-          "route": "/hot/2026-06-11/topic/stop-hand-tuning-kernels-how-neuron-agentic-development-accelerates-aws-trainium-optimizations/"
+          "route": "/hot/2026-06-11/topic/stop-hand-tuning-kernels-how-neuron-agentic-development-accelerates-aws-trainium-optimizations/",
+          "headline_zh": "告别手动内核调优：Neuron Agentic Development 如何加速 AWS Trainium 优化",
+          "summary_short_zh": "今天，我们宣布推出 Neuron Agentic Development 功能：一套 AI 智能体和技能，帮助使用 AWS Trainium 和 AWS Inferentia 的开发者实现这一目标。",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "a41c4eff5f79",
@@ -2832,7 +2922,11 @@
               "published_at": "2026-06-10T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-06-11/topic/composer-2-5/"
+          "route": "/hot/2026-06-11/topic/composer-2-5/",
+          "headline_zh": "Composer 2.5",
+          "summary_short_zh": "eToro 的 AI 智能体 Tori 使用 SpaceXAI 的模型，将实时市场情绪直接融入自身的投资工作流。",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     }
@@ -2878,7 +2972,11 @@
               "published_at": "Wed, 10 Jun 2026 00:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-06-11/topic/building-trust-in-enterprise-ai-together-ai-earns-iso-27001-2022-certification/"
+          "route": "/hot/2026-06-11/topic/building-trust-in-enterprise-ai-together-ai-earns-iso-27001-2022-certification/",
+          "headline_zh": "建立对企业 AI 的信任：Together AI 获得 ISO 27001:2022 认证",
+          "summary_short_zh": "Together AI 已获得 ISO 27001:2022 认证，印证了我们为生产环境中的 AI 工作负载提供企业级安全保障的承诺。",
+          "why_it_matters_zh": "这条产品发布资讯见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "9de5ad06eff2",
@@ -2916,7 +3014,11 @@
               "published_at": "2026-06-10T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-06-11/topic/grok-imagine-1-5-preview/"
+          "route": "/hot/2026-06-11/topic/grok-imagine-1-5-preview/",
+          "headline_zh": "Grok Imagine 1.5 预览版",
+          "summary_short_zh": "eToro 的 AI 智能体 Tori 使用 SpaceXAI 的模型，将实时市场情绪直接融入其投资流程",
+          "why_it_matters_zh": "这条产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "f3b9a7973ef7",
@@ -2954,7 +3056,11 @@
               "published_at": "2026-06-10T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-06-11/topic/use-grok-in-kilo-code/"
+          "route": "/hot/2026-06-11/topic/use-grok-in-kilo-code/",
+          "headline_zh": "在 Kilo Code 中使用 Grok",
+          "summary_short_zh": "在开源智能体编程平台 Kilo Code 中使用你的 SuperGrok 或 X Premium+ 订阅",
+          "why_it_matters_zh": "这条产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "a8acb0660347",
@@ -2992,7 +3098,10 @@
               "published_at": "2026-06-10T17:11:56Z"
             }
           ],
-          "route": "/hot/2026-06-11/topic/claude-desktop-spawns-1-8-gb-hyper-v-vm-on-every-launch-even-for-chat-only-use/"
+          "route": "/hot/2026-06-11/topic/claude-desktop-spawns-1-8-gb-hyper-v-vm-on-every-launch-even-for-chat-only-use/",
+          "headline_zh": "Claude Desktop 每次启动都会创建一个 1.8 GB 的 Hyper-V 虚拟机，即使只用于聊天也不例外",
+          "why_it_matters_zh": "这条产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -3036,7 +3145,11 @@
               "published_at": "Thu, 11 Jun 2026 04:16:20 +0000"
             }
           ],
-          "route": "/hot/2026-06-11/topic/fable-5/"
+          "route": "/hot/2026-06-11/topic/fable-5/",
+          "headline_zh": "Fable 5自带反蒸馏机制！检测到就降智，误触率高到离谱",
+          "summary_short_zh": "Claude刚刚发布的新模型Fable 5，很多人可能压根就用不上！",
+          "why_it_matters_zh": "这条消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "28fce7fe48b8",
@@ -3074,7 +3187,11 @@
               "published_at": "Thu, 11 Jun 2026 04:18:34 +0000"
             }
           ],
-          "route": "/hot/2026-06-11/topic/3d-chatgpt-meshy-3d-ai-agent/"
+          "route": "/hot/2026-06-11/topic/3d-chatgpt-meshy-3d-ai-agent/",
+          "headline_zh": "3D创作迎来ChatGPT时刻：Meshy发布全球首个3D AI Agent",
+          "summary_short_zh": "Meshy发布全球首个3D AI Agent",
+          "why_it_matters_zh": "这条消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "da11b401b66f",
@@ -3112,7 +3229,11 @@
               "published_at": "Thu, 11 Jun 2026 07:25:55 +0000"
             }
           ],
-          "route": "/hot/2026-06-11/topic/1290-agent/"
+          "route": "/hot/2026-06-11/topic/1290-agent/",
+          "headline_zh": "1290万高考生看过来！阿里出了个志愿填报Agent，免费的",
+          "summary_short_zh": "前期做了40万AI考生压测",
+          "why_it_matters_zh": "这条消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "77aaf428521b",
@@ -3150,7 +3271,11 @@
               "published_at": "2026-06-10T13:20:36-04:00"
             }
           ],
-          "route": "/hot/2026-06-11/topic/google-won-t-just-admit-it-s-feeding-youtube-creators-to-its-music-ai/"
+          "route": "/hot/2026-06-11/topic/google-won-t-just-admit-it-s-feeding-youtube-creators-to-its-music-ai/",
+          "headline_zh": "Google 不肯承认用 YouTube 创作者的作品训练其音乐 AI",
+          "summary_short_zh": "如果你在 YouTube 上传过歌曲，Google 几乎肯定认为可以用你的视频训练其 Lyria 音乐 AI，只是现在不肯承认。一群独立音乐人正在起诉 Google，指控其非法使用他们上传到 YouTube 的歌曲训练 Lyria 3 模型。",
+          "why_it_matters_zh": "这条消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -3192,7 +3317,11 @@
           "published_at": "Thu, 11 Jun 2026 00:00:00 GMT"
         }
       ],
-      "route": "/hot/2026-06-11/topic/how-an-astrophysicist-uses-codex-to-help-simulate-black-holes/"
+      "route": "/hot/2026-06-11/topic/how-an-astrophysicist-uses-codex-to-help-simulate-black-holes/",
+      "headline_zh": "一位天体物理学家如何用 Codex 辅助模拟黑洞",
+      "summary_short_zh": "了解天体物理学家 Chi-kwan Chan 如何用 Codex 开发黑洞模拟程序，帮助科学家研究极端物理现象并检验爱因斯坦的广义相对论",
+      "why_it_matters_zh": "这条产品发布消息见于 1 个独立来源。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "8b7aa28a9c7f",
@@ -3239,7 +3368,10 @@
           "published_at": "2026-06-10T16:09:37Z"
         }
       ],
-      "route": "/hot/2026-06-11/topic/diffusiongemma-4x-faster-text-generation/"
+      "route": "/hot/2026-06-11/topic/diffusiongemma-4x-faster-text-generation/",
+      "headline_zh": "DiffusionGemma：文本生成速度提升至 4 倍",
+      "why_it_matters_zh": "这条产品发布消息见于 2 个独立来源。",
+      "category_zh": "产品发布"
     }
   ],
   "x_buzz": [

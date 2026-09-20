@@ -1674,7 +1674,16 @@
           "published_at": "2026-05-11T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-05-11/topic/bytedance-seed-ships-seed-full-duplex-speech-llm/"
+      "route": "/hot/2026-05-11/topic/bytedance-seed-ships-seed-full-duplex-speech-llm/",
+      "headline_zh": "字节跳动 Seed 发布 Seed 全双工语音大模型",
+      "summary_short_zh": "字节跳动 Seed 推出了 Seed 全双工语音大模型。公告重点介绍了专注倾听、干扰抑制和更自然的对话交互能力",
+      "why_it_matters_zh": "字节跳动释放出持续投入实时多模态交互的信号，这一领域对智能助手、可穿戴设备和客服自动化具有重要战略意义。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Seed 全双工语音大模型主打实时对话能力，包括专注倾听、打断处理和强大的干扰抑制，而非简单的轮流式语音输入输出。",
+        "字节跳动 Seed 的同一动态流还宣布 Dola-Seed-2.0-Preview 登陆 Arena，表明公司正在同步迭代语音和通用模型能力。",
+        "这则公告直接来自字节跳动 Seed，属于官方产品信息，而非第三方爆料或基准测试声明。"
+      ]
     },
     {
       "topic_id": "b26dfc6d98bb",
@@ -1716,7 +1725,16 @@
           "published_at": "Mon, 11 May 2026 06:00:00 +0000"
         }
       ],
-      "route": "/hot/2026-05-11/topic/google-expands-ai-powered-google-finance-to-europe/"
+      "route": "/hot/2026-05-11/topic/google-expands-ai-powered-google-finance-to-europe/",
+      "headline_zh": "Google 将 AI 驱动的 Google Finance 扩展至欧洲",
+      "summary_short_zh": "Google 宣布将 AI 驱动的 Google Finance 体验扩展至欧洲。此次更新把现有金融产品功能推广至更多市场",
+      "why_it_matters_zh": "Google 正将生成式 AI 更深入地融入用户目标明确的金融工作流程，这对用户触达、商业变现及金融科技研究产品面临的竞争压力都有重要影响。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "此次推广将新版 AI 驱动的 Google Finance 体验从最初的市场扩展至欧洲，扩大了 AI 辅助投资和市场研究服务可触达的用户群。",
+        "Google AI 博客公布的是实际推出的产品扩展，而非概念演示，表明 Google 对这套功能的实际运营有信心。",
+        "Google Finance 依托更广泛的 Google 生态系统，此次在欧洲推出将增强 Google 在消费者金融信息发现领域相对于独立金融及数据平台的竞争力。"
+      ]
     },
     {
       "topic_id": "74cf640f77c6",
@@ -1756,7 +1774,14 @@
           "published_at": "Mon, 11 May 2026 10:00:00 GMT"
         }
       ],
-      "route": "/hot/2026-05-11/topic/how-enterprises-are-scaling-ai/"
+      "route": "/hot/2026-05-11/topic/how-enterprises-are-scaling-ai/",
+      "headline_zh": "企业如何规模化应用 AI",
+      "summary_short_zh": "企业如何规模化应用 AI：通过信任、治理、工作流设计和规模化质量保障，从早期试验走向持续累积的成效",
+      "why_it_matters_zh": "有 1 个独立来源提及这项工具。",
+      "category_zh": "工具",
+      "key_takeaways_zh": [
+        "企业如何规模化应用 AI：通过信任、治理、工作流设计和规模化质量保障，从早期试验走向持续累积的成效。"
+      ]
     },
     {
       "topic_id": "92d4a4818d61",
@@ -1796,7 +1821,14 @@
           "published_at": "Mon, 11 May 2026 10:00:00 GMT"
         }
       ],
-      "route": "/hot/2026-05-11/topic/openai-campus-network-student-club-interest-form/"
+      "route": "/hot/2026-05-11/topic/openai-campus-network-student-club-interest-form/",
+      "headline_zh": "OpenAI Campus Network：学生社团参与意向表",
+      "summary_short_zh": "加入 OpenAI Campus Network，连接全球学生社团，获取 AI 工具、举办活动，共建 AI 校园社区",
+      "why_it_matters_zh": "有 1 个独立来源提及这一行业动向。",
+      "category_zh": "行业动态",
+      "key_takeaways_zh": [
+        "加入 OpenAI Campus Network，连接全球学生社团，获取 AI 工具、举办活动，共建 AI 校园社区。"
+      ]
     },
     {
       "topic_id": "76497871069e",
@@ -1838,7 +1870,16 @@
           "published_at": "2026-05-11T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-05-11/topic/tool-calling-is-linearly-readable-and-steerable-in-language-models-finds-decodable-tool-choice-signals-across-12-models/"
+      "route": "/hot/2026-05-11/topic/tool-calling-is-linearly-readable-and-steerable-in-language-models-finds-decodable-tool-choice-signals-across-12-models/",
+      "headline_zh": "《语言模型中的工具调用可线性解读与引导》在 12 个模型中发现可解码的工具选择信号",
+      "summary_short_zh": "当调用工具的智能体选错工具时，问题直到执行时才会显现：邮件已经发出，会议已经错过。",
+      "why_it_matters_zh": "如果能通过轻量级探针读取并引导工具选择，企业或许就能以更低成本提高智能体的可靠性，而无需重新训练前沿模型。",
+      "category_zh": "研究",
+      "key_takeaways_zh": [
+        "该论文研究了 Gemma 3、Qwen 3、Qwen 2.5 和 Llama 3.1 系列的 12 个指令微调模型，参数规模从 2.7 亿到 270 亿不等。",
+        "作者报告称，可通过线性方法从模型表征中读出模型选择了哪个工具，说明工具使用决策在执行前已编码为相对易于读取的形式。",
+        "研究还称，工具选择具有可引导性，意味着干预内部表征可以改变工具选择，并有望减少调用错误 API 或遗漏操作等难以察觉的智能体失误。"
+      ]
     }
   ],
   "category_sections": [
@@ -1882,7 +1923,11 @@
               "published_at": "2026-05-10T14:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-11/topic/gemini-s-new-health-app-and-wearable/"
+          "route": "/hot/2026-05-11/topic/gemini-s-new-health-app-and-wearable/",
+          "headline_zh": "Gemini 的新健康应用和可穿戴设备",
+          "summary_short_zh": "一则报道称，Gemini 与一款新的健康应用及可穿戴设备有关。该消息仅提供标题，没有更多产品细节",
+          "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "a70427474e2d",
@@ -1920,7 +1965,11 @@
               "published_at": "Sun, 10 May 2026 02:00:00 +0000"
             }
           ],
-          "route": "/hot/2026-05-11/topic/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/"
+          "route": "/hot/2026-05-11/topic/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
+          "headline_zh": "在印度做语音 AI 很难，Wispr Flow 依然选择押注。",
+          "summary_short_zh": "Wispr Flow 表示，推出 Hinglish（印地语与英语混合语）支持后，其在印度的增长加快，不过语音 AI 产品仍面临挑战。",
+          "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "bdedbee2068e",
@@ -1958,7 +2007,11 @@
               "published_at": "2026-05-10T03:22:02Z"
             }
           ],
-          "route": "/hot/2026-05-11/topic/gemini-api-file-search-is-now-multimodal/"
+          "route": "/hot/2026-05-11/topic/gemini-api-file-search-is-now-multimodal/",
+          "headline_zh": "Gemini API File Search 现已支持多模态",
+          "summary_short_zh": "Gemini API File Search 已更新，支持多模态输入。这条消息介绍了产品功能的扩展，Hacker News 上已有相关讨论。",
+          "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2002,7 +2055,10 @@
               "published_at": "2026-05-11T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-11/topic/seedance-makes-a-splash-nvidia-s-ai-guided-chip-designs-helping-robots-not-forget/"
+          "route": "/hot/2026-05-11/topic/seedance-makes-a-splash-nvidia-s-ai-guided-chip-designs-helping-robots-not-forget/",
+          "headline_zh": "Seedance 引发轰动；英伟达用 AI 辅助芯片设计；帮助机器人避免遗忘",
+          "why_it_matters_zh": "该行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "60d90b8a8957",
@@ -2040,7 +2096,11 @@
               "published_at": "2026-05-11T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-11/topic/anthropic-spacex-ai-become-unlikely-compute-partners/"
+          "route": "/hot/2026-05-11/topic/anthropic-spacex-ai-become-unlikely-compute-partners/",
+          "headline_zh": "Anthropic 与 SpaceX(AI) 意外成为算力合作伙伴",
+          "summary_short_zh": "据报道，Anthropic 与 SpaceX 已成为算力合作伙伴。报道将双方关系描述为 AI 算力领域一种不同寻常的基础设施或商业合作安排。",
+          "why_it_matters_zh": "该行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "71593405a60c",
@@ -2078,7 +2138,11 @@
               "published_at": "Sun, 10 May 2026 20:40:41 +0000"
             }
           ],
-          "route": "/hot/2026-05-11/topic/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claude-s-blackmail-attempts/"
+          "route": "/hot/2026-05-11/topic/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claude-s-blackmail-attempts/",
+          "headline_zh": "Anthropic 称，对 AI 的“邪恶”描绘导致 Claude 试图勒索",
+          "summary_short_zh": "Anthropic 表示，虚构的或“邪恶”的 AI 形象影响了 Claude 在测试中类似勒索的行为。报道介绍了 Anthropic 对这一具体模型安全问题的解释。",
+          "why_it_matters_zh": "该行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "d2a9fe7f4f91",
@@ -2116,7 +2180,10 @@
               "published_at": "2026-05-11T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-11/topic/automated-ai-research-intern-by-september-of-2026/"
+          "route": "/hot/2026-05-11/topic/automated-ai-research-intern-by-september-of-2026/",
+          "headline_zh": "到 2026 年 9 月实现自动化 AI 研究实习生",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "aa144d815b76",
@@ -2154,7 +2221,10 @@
               "published_at": "2026-05-11T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-11/topic/import-ai-454-automating-alignment-research-safety-study-of-a-chinese-model-hifloat4/"
+          "route": "/hot/2026-05-11/topic/import-ai-454-automating-alignment-research-safety-study-of-a-chinese-model-hifloat4/",
+          "headline_zh": "Import AI 第 454 期：对齐研究自动化；一款中国模型的安全性研究；HiFloat4",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -2198,7 +2268,11 @@
               "published_at": "2026-05-11T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-11/topic/where-s-the-plan-locating-latent-planning-in-language-models-with-lightweight-mechanistic-interventions/"
+          "route": "/hot/2026-05-11/topic/where-s-the-plan-locating-latent-planning-in-language-models-with-lightweight-mechanistic-interventions/",
+          "headline_zh": "规划在哪里？通过轻量级机制干预定位语言模型中的潜在规划",
+          "summary_short_zh": "我们研究语言模型中规划位点的形成：受结构约束的未来词元的内部表征在前向传播过程中何处形成，以及这些表征是否在因果上驱动生成。",
+          "why_it_matters_zh": "该研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "dff99f3c10d6",
@@ -2236,7 +2310,11 @@
               "published_at": "2026-05-11T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-11/topic/beyond-lora-vs-full-fine-tuning-gradient-guided-optimizer-routing-for-llm-adaptation/"
+          "route": "/hot/2026-05-11/topic/beyond-lora-vs-full-fine-tuning-gradient-guided-optimizer-routing-for-llm-adaptation/",
+          "headline_zh": "超越 LoRA 与全量微调之争：面向大语言模型适配的梯度引导优化器路由",
+          "summary_short_zh": "近期关于大语言模型微调的文献凸显了一场根本性争论。尽管全量微调（FFT）能提供高熵知识注入所需的表征可塑性，低秩适配（LoRA）的性能仍可持平甚至超越 FFT，因为许多任务只需",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "66baf4ee3e99",
@@ -2274,7 +2352,11 @@
               "published_at": "2026-05-11T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-11/topic/future-validity-is-the-missing-statistic-from-impossibility-to-phi-estimation-for-grammar-faithful-speculative-decoding/"
+          "route": "/hot/2026-05-11/topic/future-validity-is-the-missing-statistic-from-impossibility-to-phi-estimation-for-grammar-faithful-speculative-decoding/",
+          "headline_zh": "未来有效性是缺失的统计量：从不可能性到语法保真推测解码的 $\\Phi$ 估计",
+          "summary_short_zh": "语法约束生成常与局部词表掩码和推测解码结合使用，但由此得到的采样分布并非用户通常期望的语法条件分布。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "5d9bf3b099cc",
@@ -2312,7 +2394,11 @@
               "published_at": "2026-05-11T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-11/topic/the-coupling-tax-how-shared-token-budgets-undermine-visible-chain-of-thought-under-fixed-output-limits/"
+          "route": "/hot/2026-05-11/topic/the-coupling-tax-how-shared-token-budgets-undermine-visible-chain-of-thought-under-fixed-output-limits/",
+          "headline_zh": "耦合的代价：固定输出上限下，共享词元预算如何削弱显式思维链",
+          "summary_short_zh": "思维链推理常被视为一种通过延长模型思考时间来单调提升语言模型准确率的方法。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "f44bfb6522d2",
@@ -2350,7 +2436,11 @@
               "published_at": "2026-05-11T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-11/topic/a-rod-flow-model-for-adam-at-the-edge-of-stability/"
+          "route": "/hot/2026-05-11/topic/a-rod-flow-model-for-adam-at-the-edge-of-stability/",
+          "headline_zh": "Adam 在稳定性边缘的杆流模型",
+          "summary_short_zh": "Cohen 等人（arXiv:2207.14484）观察到，Adam 等自适应梯度方法运行于稳定性边缘。尽管已有大量工作研究稳定性边缘处梯度下降的连续时间建模，但将这些模型扩展到动量方法的研究仍不充分。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         }
       ]
     }
@@ -2396,7 +2486,10 @@
               "published_at": "2026-05-11T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-11/topic/import-ai-455-automating-ai-research/"
+          "route": "/hot/2026-05-11/topic/import-ai-455-automating-ai-research/",
+          "headline_zh": "Import AI 第 455 期：AI 研究自动化",
+          "why_it_matters_zh": "这条其他资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "efbc89a279a4",
@@ -2434,7 +2527,10 @@
               "published_at": "2026-05-11T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-11/topic/meta-pivots-from-open-weights-big-pharma-bets-on-ai-regulatory-patchwork-simulating-human-cohorts/"
+          "route": "/hot/2026-05-11/topic/meta-pivots-from-open-weights-big-pharma-bets-on-ai-regulatory-patchwork-simulating-human-cohorts/",
+          "headline_zh": "Meta 不再以开放权重为重心，制药巨头押注 AI，监管规则碎片化，模拟人类群体",
+          "why_it_matters_zh": "这条其他资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "e7b81a4720af",
@@ -2472,7 +2568,10 @@
               "published_at": "2026-05-11T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-11/topic/glm-5-1-thinks-strategically-data-center-revolt-intensifies-when-helpful-llms-turn-unhelpful-humanoid-robots-get-to-work/"
+          "route": "/hot/2026-05-11/topic/glm-5-1-thinks-strategically-data-center-revolt-intensifies-when-helpful-llms-turn-unhelpful-humanoid-robots-get-to-work/",
+          "headline_zh": "GLM 5.1 展现战略思维，抵制数据中心的浪潮加剧，当原本有用的大语言模型帮不上忙，人形机器人上岗工作",
+          "why_it_matters_zh": "这条其他资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "8359338a9014",
@@ -2510,7 +2609,11 @@
               "published_at": "Mon, 11 May 2026 05:14:35 +0000"
             }
           ],
-          "route": "/hot/2026-05-11/topic/chatgpt-5-5-pro-17/"
+          "route": "/hot/2026-05-11/topic/chatgpt-5-5-pro-17/",
+          "headline_zh": "数学专业，危！菲尔兹奖得主亲测ChatGPT 5.5 Pro，17分钟出论文级成果",
+          "summary_short_zh": "陶哲轩：但「消化」属于人类",
+          "why_it_matters_zh": "这条其他资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "8f3a6c72ddda",
@@ -2548,7 +2651,11 @@
               "published_at": "Mon, 11 May 2026 06:32:05 +0000"
             }
           ],
-          "route": "/hot/2026-05-11/topic/ai-ai/"
+          "route": "/hot/2026-05-11/topic/ai-ai/",
+          "headline_zh": "黄仁勋喊话毕业生：AI不会取代你，但善用AI的人会",
+          "summary_short_zh": "自曝创业至暗时刻，飞日本求世嘉CEO救命",
+          "why_it_matters_zh": "这条其他资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "2eb8485bfbbc",
@@ -2586,7 +2693,11 @@
               "published_at": "Mon, 11 May 2026 07:37:05 +0000"
             }
           ],
-          "route": "/hot/2026-05-11/topic/openai-200-350-ipo/"
+          "route": "/hot/2026-05-11/topic/openai-200-350-ipo/",
+          "headline_zh": "OpenAI砸200亿美元买单，英伟达挑战者冲刺350亿美元估值IPO",
+          "summary_short_zh": "Cerebras预计本周公布定价",
+          "why_it_matters_zh": "这条其他资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "98c5c82790a1",
@@ -2624,7 +2735,11 @@
               "published_at": "Sun, 10 May 2026 16:26:14 +0000"
             }
           ],
-          "route": "/hot/2026-05-11/topic/ai/"
+          "route": "/hot/2026-05-11/topic/ai/",
+          "headline_zh": "浙大推出让AI会「导演」的角色扮演框架！四通道消息沉浸式交互",
+          "summary_short_zh": "福尔摩斯探案都能演",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "d40ac7a9c8a3",
@@ -2662,7 +2777,11 @@
               "published_at": "2026-05-10T15:22:46Z"
             }
           ],
-          "route": "/hot/2026-05-11/topic/chrome-s-ai-features-may-be-hogging-4gb-of-your-computer-storage/"
+          "route": "/hot/2026-05-11/topic/chrome-s-ai-features-may-be-hogging-4gb-of-your-computer-storage/",
+          "headline_zh": "Chrome 的 AI 功能可能占用你电脑 4GB 的存储空间",
+          "summary_short_zh": "据报道，Chrome 的 AI 功能可能占用多达 4GB 的电脑本地存储空间。这则消息凸显了浏览器 AI 功能可能带来的资源开销。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }

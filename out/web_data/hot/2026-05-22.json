@@ -2303,7 +2303,14 @@
           "published_at": "Thu, 21 May 2026 17:00:10 GMT"
         }
       ],
-      "route": "/hot/2026-05-22/topic/smarter-memory-for-smarter-chats/"
+      "route": "/hot/2026-05-22/topic/smarter-memory-for-smarter-chats/",
+      "headline_zh": "更智能的记忆，更智能的对话",
+      "summary_short_zh": "<p>长时间的聊天、庞大的剧情，还有数小时的背景故事，现在你的角色都能跟得上。&#xa0;</p><p><strong>故事记忆</strong>、<strong>事实</strong>和<strong>记忆用量 </strong>正陆续在 Character.ai 上线，让你能以新的方式设定角色掌握的信息，并锁定",
+      "why_it_matters_zh": "有 1 个独立来源提及了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "<p>长时间的聊天、庞大的剧情，还有数小时的背景故事，现在你的角色都能跟得上。&#xa0;</p><p><strong>故事记忆</strong>、<strong>事实</strong>和<strong>记忆用量 </strong>正..."
+      ]
     },
     {
       "topic_id": "9673592207ff",
@@ -2341,7 +2348,10 @@
           "published_at": "Thu, 21 May 2026 19:46:42 +0000"
         }
       ],
-      "route": "/hot/2026-05-22/topic/we-re-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/"
+      "route": "/hot/2026-05-22/topic/we-re-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+      "headline_zh": "我们正在亚太地区推出 Google DeepMind Accelerator 计划，以应对环境风险",
+      "why_it_matters_zh": "有 1 个独立来源提及了此次产品发布。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "a3de2823f91c",
@@ -2389,7 +2399,16 @@
           "published_at": "Thu, 21 May 2026 15:55:29 +0000"
         }
       ],
-      "route": "/hot/2026-05-22/topic/build-ai-agents-for-business-intelligence-with-amazon-bedrock-agentcore/"
+      "route": "/hot/2026-05-22/topic/build-ai-agents-for-business-intelligence-with-amazon-bedrock-agentcore/",
+      "headline_zh": "使用 Amazon Bedrock AgentCore 构建用于商业智能的 AI 智能体",
+      "summary_short_zh": "本文介绍 OPLOG 如何使用 Strands Agents SDK 开发三个 AI 智能体，将其部署到 Amazon Bedrock AgentCore，并将 Amazon Bedrock 与 Anthropic 的 Claude Sonnet 和 Amazon Bedrock Knowledge Bases 集成，以实现检索增强生成（RAG",
+      "why_it_matters_zh": "有 1 个独立来源提及了这项工具。",
+      "category_zh": "工具",
+      "key_takeaways_zh": [
+        "本文介绍 OPLOG 如何使用 Strands Agents SDK 开发三个 AI 智能体，将其部署到 Amazon Bedrock AgentCore，并将 Amazon Bedrock 与 Anthropic 的 Claude Sonnet 及...",
+        "该解决方案结合 Amazon Bedrock AgentCore、Strands Agents 和 Amazon Quick transforms 的能力，提供安全、可扩展的智能系统，用于构建和运行 AI 智能体...",
+        "本文探讨&nbsp;多租户智能体应用的架构设计要点，以及借助 Amazon Bedrock AgentCore 应对 SaaS 架构挑战所需的框架。"
+      ]
     },
     {
       "topic_id": "a07d6eece2d5",
@@ -2429,7 +2448,14 @@
           "published_at": "Thu, 21 May 2026 12:00:00 GMT"
         }
       ],
-      "route": "/hot/2026-05-22/topic/adventhealth-advances-whole-person-care-with-openai/"
+      "route": "/hot/2026-05-22/topic/adventhealth-advances-whole-person-care-with-openai/",
+      "headline_zh": "AdventHealth 借助 OpenAI 推进全人照护",
+      "summary_short_zh": "AdventHealth 正在使用 ChatGPT for Healthcare 简化工作流程、减轻行政负担，让医护人员有更多时间照护患者",
+      "why_it_matters_zh": "有 1 个独立来源提及了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "AdventHealth 正在使用 ChatGPT for Healthcare 简化工作流程、减轻行政负担，让医护人员有更多时间照护患者。"
+      ]
     },
     {
       "topic_id": "faf37118f723",
@@ -2467,7 +2493,10 @@
           "published_at": "2026-05-21T11:48:50+00:00"
         }
       ],
-      "route": "/hot/2026-05-22/topic/lerobot-humanoid-an-open-low-cost-3d-printed-humanoid-for-robot-learning/"
+      "route": "/hot/2026-05-22/topic/lerobot-humanoid-an-open-low-cost-3d-printed-humanoid-for-robot-learning/",
+      "headline_zh": "LeRobot Humanoid：一款面向机器人学习、开放且低成本的 3D 打印人形机器人",
+      "why_it_matters_zh": "有 1 个独立来源提及了此次产品发布。",
+      "category_zh": "产品发布"
     }
   ],
   "category_sections": [
@@ -2511,7 +2540,11 @@
               "published_at": "2026-05-21T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-22/topic/connect-grok-to-hermes-agent/"
+          "route": "/hot/2026-05-22/topic/connect-grok-to-hermes-agent/",
+          "headline_zh": "将 Grok 连接到 Hermes Agent",
+          "summary_short_zh": "了解我们最新的产品和研究公告",
+          "why_it_matters_zh": "有 1 个独立来源提及了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "80cb0e503022",
@@ -2549,7 +2582,11 @@
               "published_at": "Thu, 21 May 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-05-22/topic/re-what-ever-happened-to-cohere-s-command-a-series-of-models/"
+          "route": "/hot/2026-05-22/topic/re-what-ever-happened-to-cohere-s-command-a-series-of-models/",
+          "headline_zh": "回复：Cohere 的 Command-A 系列模型后来怎么样了？",
+          "summary_short_zh": "Cohere 发布了 Command A+，这是其首款采用混合专家（MoE）架构的开放权重模型，定位为 Command 系列的高效后续版本，侧重低延迟和快速响应，而不只是追求基准测试成绩领先；详情见 Cohere 的发布文章。",
+          "why_it_matters_zh": "有 1 个独立来源提及了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "898db46c21df",
@@ -2587,7 +2624,11 @@
               "published_at": "Thu, 21 May 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-05-22/topic/video-editing-and-generation-are-getting-more-compositional/"
+          "route": "/hot/2026-05-22/topic/video-editing-and-generation-are-getting-more-compositional/",
+          "headline_zh": "视频编辑与生成的可组合性正在增强",
+          "summary_short_zh": "Runway 推出了 Aleph 2.0 和全新的 Edit Studio，用户只需编辑一帧，就能将修改应用到视频的其余部分（Runway、产品负责人）。这为多模态开发者关注的“参考引导式编辑传播”问题提供了实用的产品方案。",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2631,7 +2672,11 @@
               "published_at": "2026-05-22T04:48:32+00:00"
             }
           ],
-          "route": "/hot/2026-05-22/topic/ftc-to-require-cox-media-group-two-other-firms-to-pay-nearly-1-million-to-settle-charges-they-deceived-customers-about-active-listening-ai-powered-marketing-service/"
+          "route": "/hot/2026-05-22/topic/ftc-to-require-cox-media-group-two-other-firms-to-pay-nearly-1-million-to-settle-charges-they-deceived-customers-about-active-listening-ai-powered-marketing-service/",
+          "headline_zh": "FTC 将要求 Cox Media Group 及另外两家公司支付近 100 万美元，就其在“Active Listening”AI 营销服务上涉嫌欺骗客户的指控达成和解",
+          "summary_short_zh": "<p><strong><a href=\" 将要求 Cox Media Group 及另外两家公司支付近 100 万美元，就其在“Active Listening”AI 营销服务上涉嫌欺骗客户的指控达成和解</a></strong></p> 早在 2024 年，Cox Media Group 就被发现试图向广告商出售基于\"主动",
+          "why_it_matters_zh": "此次融资见于 1 个独立来源。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -2675,7 +2720,10 @@
               "published_at": "2026-05-22T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-22/topic/seedance-makes-a-splash-nvidia-s-ai-guided-chip-designs-helping-robots-not-forget/"
+          "route": "/hot/2026-05-22/topic/seedance-makes-a-splash-nvidia-s-ai-guided-chip-designs-helping-robots-not-forget/",
+          "headline_zh": "Seedance 引发轰动，英伟达用 AI 辅助芯片设计，帮助机器人避免遗忘",
+          "why_it_matters_zh": "这一行业动向见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "5b9be9479289",
@@ -2713,7 +2761,11 @@
               "published_at": "2026-05-21T16:00:06-04:00"
             }
           ],
-          "route": "/hot/2026-05-22/topic/in-desperate-times-graduates-find-hope-in-humiliating-tech-ceos/"
+          "route": "/hot/2026-05-22/topic/in-desperate-times-graduates-find-hope-in-humiliating-tech-ceos/",
+          "headline_zh": "困境之中，毕业生从羞辱科技公司 CEO 中找到希望",
+          "summary_short_zh": "大学毕业生在毕业典礼上向赞美 AI 的企业高管喝倒彩、起哄，而真正对此感到意外的，似乎只有高管自己。",
+          "why_it_matters_zh": "这一行业动向见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "7cb343337f52",
@@ -2751,7 +2803,11 @@
               "published_at": "2026-05-21T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-22/topic/new-compute-partnership-with-anthropic/"
+          "route": "/hot/2026-05-22/topic/new-compute-partnership-with-anthropic/",
+          "headline_zh": "与 Anthropic 达成新的算力合作",
+          "summary_short_zh": "查看我们最新的产品与研究公告",
+          "why_it_matters_zh": "这一行业动向见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "779b568bff66",
@@ -2789,7 +2845,11 @@
               "published_at": "Fri, 22 May 2026 07:16:39 +0000"
             }
           ],
-          "route": "/hot/2026-05-22/topic/700-deepseek-code-acm/"
+          "route": "/hot/2026-05-22/topic/700-deepseek-code-acm/",
+          "headline_zh": "融资700亿！DeepSeek Code真要来了，ACM金牌大神崔添翼挂帅",
+          "summary_short_zh": "DeepSeek Code 即将推出",
+          "why_it_matters_zh": "这则其他类别的消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "0b126de7610f",
@@ -2827,7 +2887,11 @@
               "published_at": "2026-05-22T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-22/topic/autonomous-ai-research-for-nanogpt-speedrun-prime-intellect/"
+          "route": "/hot/2026-05-22/topic/autonomous-ai-research-for-nanogpt-speedrun-prime-intellect/",
+          "headline_zh": "面向 nanogpt speedrun 的 AI 自主研究（Prime Intellect）",
+          "summary_short_zh": "面向 nanogpt speedrun 的 AI 自主研究（Prime Intellect",
+          "why_it_matters_zh": "这则其他类别的消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -2871,7 +2935,11 @@
               "published_at": "Thu, 21 May 2026 19:11:09 +0000"
             }
           ],
-          "route": "/hot/2026-05-22/topic/intelligent-radiology-workflow-optimization-with-ai-agents/"
+          "route": "/hot/2026-05-22/topic/intelligent-radiology-workflow-optimization-with-ai-agents/",
+          "headline_zh": "借助 AI 智能体实现放射科工作流程的智能优化",
+          "summary_short_zh": "许多医疗机构反映，传统工作列表系统依赖僵化的规则，忽视了关键背景信息、放射科医生的专长、当前工作量、疲劳程度和病例复杂性。",
+          "why_it_matters_zh": "该工具见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "d5bbf66a35cb",
@@ -2909,7 +2977,11 @@
               "published_at": "Thu, 21 May 2026 16:08:54 +0000"
             }
           ],
-          "route": "/hot/2026-05-22/topic/break-the-context-window-barrier-with-amazon-bedrock-agentcore/"
+          "route": "/hot/2026-05-22/topic/break-the-context-window-barrier-with-amazon-bedrock-agentcore/",
+          "headline_zh": "借助 Amazon Bedrock AgentCore 突破上下文窗口限制",
+          "summary_short_zh": "本文介绍如何使用 Amazon Bedrock AgentCore Code Interpreter 和 Strands Agents SDK 实现递归语言模型（RLM）。",
+          "why_it_matters_zh": "该工具见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "8c6ec7bf8389",
@@ -2947,7 +3019,11 @@
               "published_at": "Thu, 21 May 2026 16:32:09 +0000"
             }
           ],
-          "route": "/hot/2026-05-22/topic/integrating-aws-api-mcp-server-with-amazon-quick-using-amazon-bedrock-agentcore-runtime/"
+          "route": "/hot/2026-05-22/topic/integrating-aws-api-mcp-server-with-amazon-quick-using-amazon-bedrock-agentcore-runtime/",
+          "headline_zh": "使用 Amazon Bedrock AgentCore Runtime 将 AWS API MCP Server 集成到 Amazon Quick",
+          "summary_short_zh": "本文介绍如何利用支持模型上下文协议（MCP）的 Amazon Bedrock AgentCore Runtime，通过 AWS API MCP Server 将 Amazon Quick 与 AWS 服务连接起来，构建一个将自然语言转换为 AWS 命令行界面（AWS CLI）命令的对话式 AI 助手",
+          "why_it_matters_zh": "该工具见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "e44de3955a4c",
@@ -2985,7 +3061,11 @@
               "published_at": "2026-05-22T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-22/topic/aurora-tilde-research-github/"
+          "route": "/hot/2026-05-22/topic/aurora-tilde-research-github/",
+          "headline_zh": "Aurora（Tilde Research，GitHub）",
+          "summary_short_zh": "Aurora（Tilde Research，GitHub",
+          "why_it_matters_zh": "该工具见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "cded5e7dddab",
@@ -3023,7 +3103,11 @@
               "published_at": "2026-05-22T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-22/topic/from-the-agents-as-they-carried-out-the-challenges-here-autonomous-speedrunning-experiment-prime-intellect-github/"
+          "route": "/hot/2026-05-22/topic/from-the-agents-as-they-carried-out-the-challenges-here-autonomous-speedrunning-experiment-prime-intellect-github/",
+          "headline_zh": "来自在这里执行挑战的智能体（Autonomous Speedrunning Experiment，Prime Intellect，GitHub）",
+          "summary_short_zh": "来自在这里执行挑战的智能体（Autonomous Speedrunning Experiment，Prime Intellect，GitHub",
+          "why_it_matters_zh": "该工具见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     },
@@ -3067,7 +3151,10 @@
               "published_at": "2026-05-22T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-22/topic/gpt-5-5-outperforms-and-hallucinates-kimi-k2-6-leads-open-llms-ai-strains-climate-pledges-strategic-thinking-in-llms-vs-humans/"
+          "route": "/hot/2026-05-22/topic/gpt-5-5-outperforms-and-hallucinates-kimi-k2-6-leads-open-llms-ai-strains-climate-pledges-strategic-thinking-in-llms-vs-humans/",
+          "headline_zh": "GPT-5.5 表现领先（也会产生幻觉），Kimi K2.6 领跑开放大语言模型，AI 加大兑现气候承诺的难度，大语言模型与人类的战略思维对比",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "cbb5e737392f",
@@ -3105,7 +3192,11 @@
               "published_at": "2026-05-21T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-05-22/topic/perception-or-prejudice-can-mllms-go-beyond-first-impressions-of-personality/"
+          "route": "/hot/2026-05-22/topic/perception-or-prejudice-can-mllms-go-beyond-first-impressions-of-personality/",
+          "headline_zh": "感知还是偏见：多模态大语言模型能否超越对人格的第一印象？",
+          "summary_short_zh": "多模态大语言模型（MLLM）正越来越多地用于人格感知至关重要的人机交互场景，但现有基准仅通过预测大五人格的数值评分来评估这一能力，尚不清楚模型是否真正感知人格……",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         }
       ]
     }
@@ -3151,7 +3242,10 @@
               "published_at": "2026-05-22T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-22/topic/import-ai-457-ai-stuxnet-cursed-muon-optimizer-and-positive-alignment/"
+          "route": "/hot/2026-05-22/topic/import-ai-457-ai-stuxnet-cursed-muon-optimizer-and-positive-alignment/",
+          "headline_zh": "Import AI 第 457 期：AI 版 Stuxnet；邪门的 Muon 优化器；正向对齐",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "e7918ee7ebd0",
@@ -3189,7 +3283,10 @@
               "published_at": "2026-05-22T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-22/topic/china-thwarts-meta-s-agentic-ambition-u-s-evaluates-upcoming-models-ai-diagnoses-mammograms/"
+          "route": "/hot/2026-05-22/topic/china-thwarts-meta-s-agentic-ambition-u-s-evaluates-upcoming-models-ai-diagnoses-mammograms/",
+          "headline_zh": "中国挫败 Meta 的智能体雄心，美国评估即将发布的模型，AI 根据乳腺 X 线片进行诊断",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "efbc89a279a4",
@@ -3227,7 +3324,10 @@
               "published_at": "2026-05-22T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-22/topic/meta-pivots-from-open-weights-big-pharma-bets-on-ai-regulatory-patchwork-simulating-human-cohorts/"
+          "route": "/hot/2026-05-22/topic/meta-pivots-from-open-weights-big-pharma-bets-on-ai-regulatory-patchwork-simulating-human-cohorts/",
+          "headline_zh": "Meta 转向不开放权重，大型药企押注 AI，监管规则碎片化，模拟人群队列",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "e7b81a4720af",
@@ -3265,7 +3365,10 @@
               "published_at": "2026-05-22T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-22/topic/glm-5-1-thinks-strategically-data-center-revolt-intensifies-when-helpful-llms-turn-unhelpful-humanoid-robots-get-to-work/"
+          "route": "/hot/2026-05-22/topic/glm-5-1-thinks-strategically-data-center-revolt-intensifies-when-helpful-llms-turn-unhelpful-humanoid-robots-get-to-work/",
+          "headline_zh": "GLM 5.1 展现战略思维，抵制数据中心的浪潮加剧，当大语言模型不再帮得上忙，人形机器人上岗",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "141bb2ee4542",
@@ -3303,7 +3406,11 @@
               "published_at": "Fri, 22 May 2026 02:57:25 +0000"
             }
           ],
-          "route": "/hot/2026-05-22/topic/80-3-agent/"
+          "route": "/hot/2026-05-22/topic/80-3-agent/",
+          "headline_zh": "80集短剧，3天拍完：当电影人下场做Agent，影视生产迎来了“最懂行”的解法",
+          "summary_short_zh": "提效数十倍，Token消耗直降70%",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "cc33a8539242",
@@ -3341,7 +3448,11 @@
               "published_at": "Fri, 22 May 2026 06:38:04 +0000"
             }
           ],
-          "route": "/hot/2026-05-22/topic/f-4100-ai/"
+          "route": "/hot/2026-05-22/topic/f-4100-ai/",
+          "headline_zh": "狂揽F轮融资+拿下4100万用户！深圳玩家出手，把企业旧系统变成AI能力库",
+          "summary_short_zh": "一个AI统一入口，搞定所有",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "0f2b6d7aebde",
@@ -3379,7 +3490,11 @@
               "published_at": "Thu, 21 May 2026 22:22:28 +0000"
             }
           ],
-          "route": "/hot/2026-05-22/topic/amazon-nova-act-is-now-hipaa-eligible/"
+          "route": "/hot/2026-05-22/topic/amazon-nova-act-is-now-hipaa-eligible/",
+          "headline_zh": "Amazon Nova Act 现已具备 HIPAA 合规资格",
+          "summary_short_zh": "本文介绍 Nova Act 的功能、HIPAA 合规资格如何适用于智能体 AI，以及如何上手使用",
+          "why_it_matters_zh": "这篇教程见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "e9d8485b1760",
@@ -3417,7 +3532,11 @@
               "published_at": "2026-05-21T16:15:18-04:00"
             }
           ],
-          "route": "/hot/2026-05-22/topic/all-of-the-updates-from-elon-musk-and-sam-altman-s-battle-over-openai/"
+          "route": "/hot/2026-05-22/topic/all-of-the-updates-from-elon-musk-and-sam-altman-s-battle-over-openai/",
+          "headline_zh": "Elon Musk 与 Sam Altman 的 OpenAI 之争：最新进展汇总",
+          "summary_short_zh": "Sam Altman 与 Elon Musk 正在一场重大庭审中交锋，其结果可能改变 OpenAI 及其最知名产品 ChatGPT 的未来。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -3465,7 +3584,11 @@
           "published_at": "2026-05-21T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-05-22/topic/connectors-in-web-ios-and-android/"
+      "route": "/hot/2026-05-22/topic/connectors-in-web-ios-and-android/",
+      "headline_zh": "网页版、iOS 和 Android 版中的连接器",
+      "summary_short_zh": "了解我们最新的产品和研究公告",
+      "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "9d6981a9c7b5",
@@ -3509,7 +3632,11 @@
           "published_at": "2026-05-21T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-05-22/topic/use-grok-in-openclaw/"
+      "route": "/hot/2026-05-22/topic/use-grok-in-openclaw/",
+      "headline_zh": "在 OpenClaw 中使用 Grok",
+      "summary_short_zh": "了解我们最新的产品和研究公告",
+      "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+      "category_zh": "产品发布"
     }
   ],
   "x_buzz": [

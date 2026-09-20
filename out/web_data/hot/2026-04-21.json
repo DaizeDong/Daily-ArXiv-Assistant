@@ -2226,7 +2226,16 @@
           "published_at": "2026-04-21T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-04-21/topic/bytedance-seed-previews-dola-seed-2-0-and-unveils-seed-full-duplex-speech-llm/"
+      "route": "/hot/2026-04-21/topic/bytedance-seed-previews-dola-seed-2-0-and-unveils-seed-full-duplex-speech-llm/",
+      "headline_zh": "字节跳动 Seed 展示 Dola-Seed-2.0 预览版，推出 Seed 全双工语音大语言模型",
+      "summary_short_zh": "字节跳动 Seed 正式推出 Seed 2.0，标志着 Seed 系列又一款基础模型正式发布。",
+      "why_it_matters_zh": "字节跳动释放出持续投入自研基础模型和原生语音交互的信号，这一领域直接关系到消费级 AI 产品和全球模型竞争。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "字节跳动 Seed 在 Arena 上发布 Dola-Seed-2.0-Preview，向公众提供 Seed 2.0 模型系列的早期预览。",
+        "该公司还推出了 Seed 全双工语音大语言模型，主打专注聆听、干扰抑制，以及语音交互中更自然的话轮切换。",
+        "这组消息还包括字节跳动 Seed 的 2027 年基础模型校园招聘动向，显示其可能正持续投入内部资源推进模型研发规划，而非仅做一次演示。"
+      ]
     },
     {
       "topic_id": "9181d4a4538a",
@@ -2277,7 +2286,16 @@
           "published_at": "Mon, 20 Apr 2026 23:10:27 +0000"
         }
       ],
-      "route": "/hot/2026-04-21/topic/amazon-commits-5b-more-to-anthropic-in-aws-compute-and-cloud-spend-deal/"
+      "route": "/hot/2026-04-21/topic/amazon-commits-5b-more-to-anthropic-in-aws-compute-and-cloud-spend-deal/",
+      "headline_zh": "亚马逊再向 Anthropic 投资 50 亿美元，双方达成 AWS 算力与云服务采购协议",
+      "summary_short_zh": "亚马逊向 Anthropic 追加投资 50 亿美元。作为回报，Anthropic 同意在 AWS 云服务上支出 1000 亿美元。",
+      "why_it_matters_zh": "这是前沿 AI 基础设施领域的重要信号：投资者和运营方应将其视为领先模型公司提前数年锁定资金、电力供应和云计算资源的证据。",
+      "category_zh": "市场信号",
+      "key_takeaways_zh": [
+        "据 TechCrunch 报道，亚马逊正向 Anthropic 追加投资 50 亿美元，进一步深化双方合作。这是 AI 领域云服务商与模型公司之间规模最大的战略合作之一。",
+        "据报道，协议包含 Anthropic 承诺在 AWS 上支出约 1000 亿美元，使模型开发与云基础设施之间形成紧密相连的资本与营收循环。",
+        "另有报道称，Anthropic 通过亚马逊锁定了最高 5 GW 的算力容量，这一规模更接近公用事业级基础设施规划，而非常规的企业云服务采购。"
+      ]
     },
     {
       "topic_id": "2e03443c3a58",
@@ -2319,7 +2337,16 @@
           "published_at": "Mon, 20 Apr 2026 19:38:10 +0000"
         }
       ],
-      "route": "/hot/2026-04-21/topic/aws-launches-sagemaker-g7e-instances-with-nvidia-rtx-pro-6000-blackwell-gpus/"
+      "route": "/hot/2026-04-21/topic/aws-launches-sagemaker-g7e-instances-with-nvidia-rtx-pro-6000-blackwell-gpus/",
+      "headline_zh": "AWS 推出搭载 NVIDIA RTX PRO 6000 Blackwell GPU 的 SageMaker G7e 实例",
+      "summary_short_zh": "AWS 宣布 Amazon SageMaker AI 上的 G7e 实例正式可用，搭载 NVIDIA RTX PRO 6000 Blackwell 服务器版 GPU，支持 1、2、4 或 8 张 GPU 配置，适用于生成式 AI 推理工作负载。",
+      "why_it_matters_zh": "这扩充了 AWS 上可部署的推理硬件选择，为企业的生成式 AI 工作负载提供了新的性价比选项，无需等待最高端的训练集群。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Amazon SageMaker AI 现已提供搭载 NVIDIA RTX PRO 6000 Blackwell 服务器版 GPU 的 G7e 实例。",
+        "客户可为每个节点配置 1、2、4 或 8 张 GPU，便于根据延迟敏感型和批处理工作负载的需求，选择合适的推理部署规模。",
+        "每张 GPU 配备 96 GB GDDR7 显存，使更大模型的服务部署、更高吞吐量的批处理和多模态推理更易实现。"
+      ]
     },
     {
       "topic_id": "a585ef4b2396",
@@ -2359,7 +2386,14 @@
           "published_at": "2026-04-21T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-04-21/topic/global-attention-with-linear-complexity-for-exascale-generative-data-assimilation-in-earth-system-prediction/"
+      "route": "/hot/2026-04-21/topic/global-attention-with-linear-complexity-for-exascale-generative-data-assimilation-in-earth-system-prediction/",
+      "headline_zh": "用于地球系统预测中百亿亿次级生成式数据同化的线性复杂度全局注意力",
+      "summary_short_zh": "准确的天气和气候预测依赖数据同化（DA），即融合观测数据与模型来估计地球系统状态。",
+      "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+      "category_zh": "研究",
+      "key_takeaways_zh": [
+        "准确的天气和气候预测依赖数据同化（DA），即融合观测数据与模型来估计地球系统状态。尽管百亿亿次级计算已显著……"
+      ]
     },
     {
       "topic_id": "a927dc37625e",
@@ -2399,7 +2433,14 @@
           "published_at": "2026-04-21T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-04-21/topic/gradient-free-continual-learning-in-spiking-neural-networks-via-inter-spike-interval-regularization/"
+      "route": "/hot/2026-04-21/topic/gradient-free-continual-learning-in-spiking-neural-networks-via-inter-spike-interval-regularization/",
+      "headline_zh": "通过脉冲间隔正则化实现脉冲神经网络的无梯度持续学习",
+      "summary_short_zh": "持续学习指依次学习新任务而不遗忘已有知识的能力，对于将神经网络部署于核能数字孪生监测、电网边缘故障检测等动态现实环境至关重要。",
+      "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+      "category_zh": "研究",
+      "key_takeaways_zh": [
+        "持续学习指依次学习新任务而不遗忘已有知识的能力，对于在动态现实环境中部署神经网络至关重要，应用范围从核能数字……"
+      ]
     }
   ],
   "category_sections": [
@@ -2443,7 +2484,11 @@
               "published_at": "Mon, 20 Apr 2026 22:00:00 +0000"
             }
           ],
-          "route": "/hot/2026-04-21/topic/google-rolls-out-gemini-in-chrome-in-7-new-countries/"
+          "route": "/hot/2026-04-21/topic/google-rolls-out-gemini-in-chrome-in-7-new-countries/",
+          "headline_zh": "Google 在另外 7 个国家推出 Chrome 内置 Gemini 功能",
+          "summary_short_zh": "Google 正在澳大利亚、印度尼西亚、日本、菲律宾、新加坡、韩国和越南推出 Chrome 中的 Gemini 功能。除日本外，该功能在这些国家同时向桌面端和 iOS 端推出。",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "6896f95e91a9",
@@ -2488,7 +2533,11 @@
               "published_at": "Mon, 20 Apr 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-04-21/topic/kimi-k2-6-released-huggingface/"
+          "route": "/hot/2026-04-21/topic/kimi-k2-6-released-huggingface/",
+          "headline_zh": "Kimi K2.6 已发布（huggingface）",
+          "summary_short_zh": "Hugging Face 发布了开源多模态 AI 模型 Kimi K2.6。摘要称，该模型采用混合专家（MoE）架构，拥有 1 万亿参数。",
+          "why_it_matters_zh": "此次产品发布见于 2 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "11cc024e3ce4",
@@ -2533,7 +2582,11 @@
               "published_at": "Mon, 20 Apr 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-04-21/topic/qwen-3-6-max-preview-just-went-live-on-the-qwen-chat-website-it-currently-has-the-highest-aa-intelligence-index-score-among-chinese-models-52-will-it-be-open-source/"
+          "route": "/hot/2026-04-21/topic/qwen-3-6-max-preview-just-went-live-on-the-qwen-chat-website-it-currently-has-the-highest-aa-intelligence-index-score-among-chinese-models-52-will-it-be-open-source/",
+          "headline_zh": "Qwen 3.6 Max Preview 刚刚在 Qwen Chat 网站上线。其 AA-Intelligence Index 得分为 52 分，目前位居中国模型之首（会开源吗？）",
+          "summary_short_zh": "Qwen 3.6 Max Preview 已在 Qwen Chat 网站上线。消息称，其 AA-Intelligence Index 得分为 52 分，目前位居中国模型之首。",
+          "why_it_matters_zh": "此次产品发布见于 2 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "ee87d3a1fff6",
@@ -2571,7 +2624,11 @@
               "published_at": "Mon, 20 Apr 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-04-21/topic/kimi-2-6-has-been-released/"
+          "route": "/hot/2026-04-21/topic/kimi-2-6-has-been-released/",
+          "headline_zh": "Kimi 2.6 已发布",
+          "summary_short_zh": "一则社区消息称 Kimi 2.6 已发布，并提及与其他前沿模型的基准测试类对比。帖子将此次发布描述为 Kimi 系列的一次模型更新。",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2615,7 +2672,11 @@
               "published_at": "Mon, 20 Apr 2026 17:15:51 +0000"
             }
           ],
-          "route": "/hot/2026-04-21/topic/deezer-says-44-of-new-music-uploads-are-ai-generated-most-streams-are-fraudulent/"
+          "route": "/hot/2026-04-21/topic/deezer-says-44-of-new-music-uploads-are-ai-generated-most-streams-are-fraudulent/",
+          "headline_zh": "Deezer 称 44% 的新上传音乐由 AI 生成，多数相关播放量造假",
+          "summary_short_zh": "Deezer 表示，44% 的新上传音乐由 AI 生成。该公司还称，AI 歌曲在总播放量中占比很小，且大多数此类播放因涉及欺诈而不予计酬。",
+          "why_it_matters_zh": "这则行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "4b78469acdaf",
@@ -2653,7 +2714,11 @@
               "published_at": "Mon, 20 Apr 2026 15:30:19 +0000"
             }
           ],
-          "route": "/hot/2026-04-21/topic/ceo-and-cfo-suddenly-depart-ai-nuclear-power-upstart-fermi/"
+          "route": "/hot/2026-04-21/topic/ceo-and-cfo-suddenly-depart-ai-nuclear-power-upstart-fermi/",
+          "headline_zh": "AI 核电初创公司 Fermi 的 CEO 和 CFO 突然离职",
+          "summary_short_zh": "这家初创公司由美国前能源部长 Rick Perry 联合创立，其位于得克萨斯州的 AI 园区项目遭遇阻力。",
+          "why_it_matters_zh": "这则行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "def5d82045f4",
@@ -2691,7 +2756,10 @@
               "published_at": "2026-04-21T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-21/topic/attacks-on-data-centers-qwen3-5-in-all-sizes-deepseek-s-huawei-play-apple-s-multimodal-tokenizer/"
+          "route": "/hot/2026-04-21/topic/attacks-on-data-centers-qwen3-5-in-all-sizes-deepseek-s-huawei-play-apple-s-multimodal-tokenizer/",
+          "headline_zh": "数据中心遭袭、各规模版本的 Qwen3.5、DeepSeek 的华为布局、苹果的多模态分词器",
+          "why_it_matters_zh": "这则其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "03b7bb2b899b",
@@ -2729,7 +2797,11 @@
               "published_at": "Tue, 21 Apr 2026 04:33:09 +0000"
             }
           ],
-          "route": "/hot/2026-04-21/topic/ai-2025/"
+          "route": "/hot/2026-04-21/topic/ai-2025/",
+          "headline_zh": "天立启鸣AI研究院院长刘志毅，入选2025福布斯中国科创人物",
+          "summary_short_zh": "教育+AI引领智能时代新范式",
+          "why_it_matters_zh": "这则其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "279f95ec117e",
@@ -2767,7 +2839,11 @@
               "published_at": "Tue, 21 Apr 2026 04:54:43 +0000"
             }
           ],
-          "route": "/hot/2026-04-21/topic/agent-60-ai-2026/"
+          "route": "/hot/2026-04-21/topic/agent-60-ai-2026/",
+          "headline_zh": "Agent正杀入软件研发一线！全球超60位技术专家拆解AI落地困局，2026奇点智能技术大会收官",
+          "summary_short_zh": "当代码可以被生成，程序员还能做些什么？",
+          "why_it_matters_zh": "这则其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -2811,7 +2887,11 @@
               "published_at": "Mon, 20 Apr 2026 17:06:26 +0000"
             }
           ],
-          "route": "/hot/2026-04-21/topic/toolsimulator-scalable-tool-testing-for-ai-agents/"
+          "route": "/hot/2026-04-21/topic/toolsimulator-scalable-tool-testing-for-ai-agents/",
+          "headline_zh": "ToolSimulator：面向 AI 智能体的可扩展工具测试",
+          "summary_short_zh": "AWS 在 Strands Evals 中推出了 ToolSimulator，这是一个由大语言模型驱动的工具模拟框架，用于在不调用真实 API 的情况下测试依赖外部工具的 AI 智能体。",
+          "why_it_matters_zh": "这条工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "0e1c98fcbc27",
@@ -2849,7 +2929,11 @@
               "published_at": "2026-04-20T12:58:39-04:00"
             }
           ],
-          "route": "/hot/2026-04-21/topic/fortnite-developers-can-make-ai-characters-now-just-don-8217-t-try-to-date-them/"
+          "route": "/hot/2026-04-21/topic/fortnite-developers-can-make-ai-characters-now-just-don-8217-t-try-to-date-them/",
+          "headline_zh": "《堡垒之夜》开发者现在可以创建 AI 角色了，但别试着和它们谈恋爱",
+          "summary_short_zh": "去年，《堡垒之夜》中的 AI 达斯·维达曾用复刻的 James Earl Jones 嗓音说脏话。如今，Epic Games 开始让《堡垒之夜》创作者试用新的“conversations”对话工具，创建可与玩家交谈互动的 AI 角色。",
+          "why_it_matters_zh": "这条工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "e2f00b389a1c",
@@ -2893,7 +2977,11 @@
               "published_at": "Mon, 20 Apr 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-04-21/topic/llama-cpp-speculative-checkpointing-was-merged/"
+          "route": "/hot/2026-04-21/topic/llama-cpp-speculative-checkpointing-was-merged/",
+          "headline_zh": "llama.cpp 已合并推测性检查点功能",
+          "summary_short_zh": "llama.cpp 项目已合并推测性检查点功能，旨在提升推理性能，具体加速幅度取决于工作负载和重复模式。这条消息介绍了 llama.cpp 推理栈的一项开源实现更新。",
+          "why_it_matters_zh": "这条工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "109a649bc487",
@@ -2931,7 +3019,11 @@
               "published_at": "2026-04-20T00:50:45+00:00"
             }
           ],
-          "route": "/hot/2026-04-21/topic/claude-token-counter-now-with-model-comparisons/"
+          "route": "/hot/2026-04-21/topic/claude-token-counter-now-with-model-comparisons/",
+          "headline_zh": "Claude Token Counter 新增模型对比功能",
+          "summary_short_zh": "Simon Willison 宣布更新 Claude Token Counter 工具，新增模型对比功能。该帖介绍了这项工具改进，可用于估算和比较不同 Claude 模型的 token 用量。",
+          "why_it_matters_zh": "这条工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "693c0407e449",
@@ -2969,7 +3061,10 @@
               "published_at": "2026-04-20T08:26:52Z"
             }
           ],
-          "route": "/hot/2026-04-21/topic/github-s-fake-star-economy/"
+          "route": "/hot/2026-04-21/topic/github-s-fake-star-economy/",
+          "headline_zh": "GitHub 的刷星经济",
+          "why_it_matters_zh": "这条工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     },
@@ -3013,7 +3108,11 @@
               "published_at": "2026-04-21T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-04-21/topic/grokking-of-diffusion-models-case-study-on-modular-addition/"
+          "route": "/hot/2026-04-21/topic/grokking-of-diffusion-models-case-study-on-modular-addition/",
+          "headline_zh": "扩散模型的顿悟现象：模加法案例研究",
+          "summary_short_zh": "尽管扩散模型在实践中表现出色，但人们对其泛化机制仍了解不足。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "7ec807916e61",
@@ -3051,7 +3150,11 @@
               "published_at": "2026-04-21T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-04-21/topic/gsq-highly-accurate-low-precision-scalar-quantization-for-llms-via-gumbel-softmax-sampling/"
+          "route": "/hot/2026-04-21/topic/gsq-highly-accurate-low-precision-scalar-quantization-for-llms-via-gumbel-softmax-sampling/",
+          "headline_zh": "GSQ：基于 Gumbel-Softmax 采样的大语言模型高准确度低精度标量量化",
+          "summary_short_zh": "权重量化已成为高效部署大语言模型的常用手段，尤其是在本地推理场景中，如今以每个参数 2 至 3 比特的精度运行模型已很常见。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         }
       ]
     }
@@ -3097,7 +3200,11 @@
               "published_at": "Mon, 20 Apr 2026 00:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-04-21/topic/openai-helps-hyatt-advance-ai-among-colleagues/"
+          "route": "/hot/2026-04-21/topic/openai-helps-hyatt-advance-ai-among-colleagues/",
+          "headline_zh": "OpenAI 帮助凯悦在员工中推广 AI",
+          "summary_short_zh": "凯悦已面向全球员工部署 ChatGPT Enterprise。OpenAI 表示，凯悦正使用 GPT-5.4 和 Codex 提升工作效率、优化运营并改善宾客体验。",
+          "why_it_matters_zh": "这条行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "af4dd4c542ea",
@@ -3135,7 +3242,11 @@
               "published_at": "Mon, 20 Apr 2026 22:00:34 GMT"
             }
           ],
-          "route": "/hot/2026-04-21/topic/characters-character-the-women-powering-character-ai/"
+          "route": "/hot/2026-04-21/topic/characters-character-the-women-powering-character-ai/",
+          "headline_zh": "Character 人物志：推动 Character.AI 发展的女性",
+          "summary_short_zh": "Character.AI 发布了一篇介绍公司女性员工的专题文章。文章聚焦企业文化与人物，而非产品或研究公告。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "96a8a2c3b904",
@@ -3173,7 +3284,11 @@
               "published_at": "2026-04-21T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-21/topic/artificial-intelligence-made-simple/"
+          "route": "/hot/2026-04-21/topic/artificial-intelligence-made-simple/",
+          "headline_zh": "轻松读懂人工智能",
+          "summary_short_zh": "Last Week in AI 的这则内容题为《轻松读懂人工智能》，看起来是一篇科普或教学文章。条目未提及具体的产品发布、融资事件或研究成果发布。",
+          "why_it_matters_zh": "这篇教程见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "65af5f29e20b",
@@ -3211,7 +3326,11 @@
               "published_at": "Mon, 20 Apr 2026 15:03:28 +0000"
             }
           ],
-          "route": "/hot/2026-04-21/topic/omnichannel-ordering-with-amazon-bedrock-agentcore-and-amazon-nova-2-sonic/"
+          "route": "/hot/2026-04-21/topic/omnichannel-ordering-with-amazon-bedrock-agentcore-and-amazon-nova-2-sonic/",
+          "headline_zh": "基于 Amazon Bedrock AgentCore 和 Amazon Nova 2 Sonic 的全渠道订购",
+          "summary_short_zh": "AWS 发布了一篇教程，介绍如何使用 Amazon Bedrock AgentCore 和 Amazon Nova 2 Sonic 构建全渠道订购系统。文章重点讲解如何大规模、安全地构建、部署和运行 AI 智能体。",
+          "why_it_matters_zh": "这篇教程见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "8d41f384f9fd",
@@ -3249,7 +3368,10 @@
               "published_at": "2026-04-20T19:51:07Z"
             }
           ],
-          "route": "/hot/2026-04-21/topic/soul-player-c64-a-real-transformer-running-on-a-1-mhz-commodore-64/"
+          "route": "/hot/2026-04-21/topic/soul-player-c64-a-real-transformer-running-on-a-1-mhz-commodore-64/",
+          "headline_zh": "Soul Player C64：在主频 1 MHz 的 Commodore 64 上运行的真正 Transformer",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "a92cc41dde56",
@@ -3287,7 +3409,11 @@
               "published_at": "2026-04-20T15:22:01Z"
             }
           ],
-          "route": "/hot/2026-04-21/topic/i-prompted-chatgpt-claude-perplexity-and-gemini-and-watched-my-nginx-logs/"
+          "route": "/hot/2026-04-21/topic/i-prompted-chatgpt-claude-perplexity-and-gemini-and-watched-my-nginx-logs/",
+          "headline_zh": "我向 ChatGPT、Claude、Perplexity 和 Gemini 输入提示词，并观察自己的 Nginx 日志",
+          "summary_short_zh": "一篇帖子比较了 ChatGPT、Claude、Perplexity 和 Gemini 与网站的交互方式：先向这些系统输入提示词，再观察服务器端的 Nginx 日志。文中介绍的是一项在 Hacker News 上讨论的实测。",
+          "why_it_matters_zh": "这篇教程见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "49b0074e0f2e",
@@ -3325,7 +3451,10 @@
               "published_at": "2026-04-20T15:07:04Z"
             }
           ],
-          "route": "/hot/2026-04-21/topic/show-hn-mediator-ai-using-nash-bargaining-and-llms-to-systematize-fairness/"
+          "route": "/hot/2026-04-21/topic/show-hn-mediator-ai-using-nash-bargaining-and-llms-to-systematize-fairness/",
+          "headline_zh": "Show HN：Mediator.ai，利用纳什谈判和大语言模型系统化处理公平问题",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "a664e225559e",
@@ -3363,7 +3492,11 @@
               "published_at": "2026-04-21T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-21/topic/anthropic-s-claude-mythos-problem-dark-dna-unveiled-pitfalls-for-assistive-models-simulating-fluid-dynamics/"
+          "route": "/hot/2026-04-21/topic/anthropic-s-claude-mythos-problem-dark-dna-unveiled-pitfalls-for-assistive-models-simulating-fluid-dynamics/",
+          "headline_zh": "Anthropic 的 Claude Mythos 难题、暗 DNA 揭秘、辅助模型的陷阱、流体动力学模拟",
+          "summary_short_zh": "这篇评论讨论了 Anthropic 的 Claude Mythos 难题、暗 DNA、辅助模型的陷阱和流体动力学模拟。内容以分析为主，而非报道某一则新公告。",
+          "why_it_matters_zh": "这篇评论见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -3405,7 +3538,11 @@
           "published_at": "2026-04-21T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-04-21/topic/how-much-cache-does-reasoning-need-depth-cache-tradeoffs-in-kv-compressed-transformers/"
+      "route": "/hot/2026-04-21/topic/how-much-cache-does-reasoning-need-depth-cache-tradeoffs-in-kv-compressed-transformers/",
+      "headline_zh": "推理需要多少缓存？KV 压缩 Transformer 中深度与缓存的权衡",
+      "summary_short_zh": "键值（KV）缓存是 Transformer 推理中的主要内存瓶颈，但在多步推理性能下降之前，缓存究竟能压缩到什么程度，理论上仍知之甚少。",
+      "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+      "category_zh": "研究"
     }
   ],
   "x_buzz": [

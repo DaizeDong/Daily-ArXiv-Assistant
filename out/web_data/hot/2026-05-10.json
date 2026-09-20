@@ -1043,7 +1043,17 @@
           "published_at": "2026-05-10T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-05-10/topic/bytedance-ships-seed-2-0-and-dola-seed-2-0-preview-adds-seed-full-duplex-speech-llm/"
+      "route": "/hot/2026-05-10/topic/bytedance-ships-seed-2-0-and-dola-seed-2-0-preview-adds-seed-full-duplex-speech-llm/",
+      "headline_zh": "字节跳动发布 Seed 2.0 和 Dola-Seed-2.0-Preview，并推出 Seed 全双工语音大语言模型",
+      "summary_short_zh": "字节跳动 Seed 正式发布新模型 Seed 2.0，标志着该公司最新版 Seed 模型正式开放使用。",
+      "why_it_matters_zh": "字节跳动正将模型体系从文本扩展至实时语音交互，为面向消费者的助手、多模态产品及中国模型市场竞争进行战略布局。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "字节跳动 Seed 通过官方渠道正式宣布推出 Seed 2.0，确认这是一次产品发布，而非传闻或评测结果泄露。",
+        "该公司还在 Arena 上单独发布了 Dola-Seed-2.0-Preview，表明其希望让模型接受公开对比评测，并吸引开发者关注。",
+        "字节跳动还推出了 Seed 全双工语音大语言模型，旨在支持同时听说与话轮切换，并强调专注倾听和强大的干扰抑制能力。",
+        "Seed 2.0 与全双工语音模型的组合表明，字节跳动可能瞄准原生语音智能体和多模态助手体验，而不只是聊天机器人式的文本推理。"
+      ]
     },
     {
       "topic_id": "e742afa19614",
@@ -1081,7 +1091,11 @@
           "published_at": "2026-05-06T00:23:37Z"
         }
       ],
-      "route": "/hot/2026-05-10/topic/anthropics-cwc-long-running-agents/"
+      "route": "/hot/2026-05-10/topic/anthropics-cwc-long-running-agents/",
+      "headline_zh": "anthropics/cwc-long-running-agents",
+      "summary_short_zh": "Anthropic 的 cwc-long-running-agents 仓库登上 GitHub Trending 榜单。榜单信息显示，该开源项目涉及长时间运行的 AI 智能体的构建或运维。",
+      "why_it_matters_zh": "1 个独立来源提到了这项工具。",
+      "category_zh": "工具"
     },
     {
       "topic_id": "3858bb84879a",
@@ -1121,7 +1135,14 @@
           "published_at": "2026-05-06T14:52:16Z"
         }
       ],
-      "route": "/hot/2026-05-10/topic/tq-trade-agent-tq-trading-agent/"
+      "route": "/hot/2026-05-10/topic/tq-trade-agent-tq-trading-agent/",
+      "headline_zh": "TQ-trade-agent/tq-trading-agent",
+      "summary_short_zh": "GitHub Trending 上的 tq-trading-agent 是一个由 AI 驱动的多智能体系统，用于股票研究和交易策略编排。该项目基于 TypeScript 和 LangGraph 构建，支持兼容 OpenAI 的 API。",
+      "why_it_matters_zh": "1 个独立来源提到了这项工具。",
+      "category_zh": "工具",
+      "key_takeaways_zh": [
+        "🌮 交易智能体，AI 驱动的多智能体股票研究与交易策略编排，交易智能体 - TypeScript、LangGraph、兼容 OpenAI 的 API"
+      ]
     },
     {
       "topic_id": "e469877e6ff4",
@@ -1159,7 +1180,11 @@
           "published_at": "Sat, 09 May 2026 10:29:31 +0000"
         }
       ],
-      "route": "/hot/2026-05-10/topic/artificial-analysis/"
+      "route": "/hot/2026-05-10/topic/artificial-analysis/",
+      "headline_zh": "阶跃最新语音模型位列 Artificial Analysis 评测榜中国第一",
+      "summary_short_zh": "量子位报道称，阶跃星辰最新的语音模型在 Artificial Analysis 基准评测中位列中国模型第一。该消息聚焦这款近期受到关注的语音模型的基准评测表现。",
+      "why_it_matters_zh": "1 个独立来源提到了此次产品发布。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "60d90b8a8957",
@@ -1201,7 +1226,16 @@
           "published_at": "2026-05-10T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-05-10/topic/anthropic-spacex-compute-partnership-report-signals-new-frontier-ai-infrastructure-channel/"
+      "route": "/hot/2026-05-10/topic/anthropic-spacex-compute-partnership-report-signals-new-frontier-ai-infrastructure-channel/",
+      "headline_zh": "Anthropic 与 SpaceX 据报达成算力合作，或为前沿 AI 基础设施开辟新渠道",
+      "summary_short_zh": "据报道，Anthropic 与 SpaceX 已成为算力合作伙伴，建立了出人意料的基础设施合作关系。报道将其视为 AI 算力供应与部署方面一项值得关注的进展。",
+      "why_it_matters_zh": "若消息属实，Anthropic 与 SpaceX 的算力合作将表明，领先的模型实验室正拓展超大规模云服务商之外的算力来源，这将影响供应安全和议价能力。",
+      "category_zh": "行业动态",
+      "key_takeaways_zh": [
+        "据报道，这项合作围绕算力获取展开。在 GPU 供应和受电力限制的数据中心容量仍是主要瓶颈的市场环境下，这项合作具有重要战略意义。",
+        "Anthropic 是最受瞩目的前沿模型开发商之一，其基础设施采购方式的任何变化，都可能影响其他实验室如何安排云服务与训练合作。",
+        "SpaceX 若进入 AI 算力领域，将是一项值得关注的变化，意味着更多非传统基础设施企业参与模型训练与部署的商业运作。"
+      ]
     }
   ],
   "category_sections": [
@@ -1245,7 +1279,11 @@
               "published_at": "2026-05-09T14:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-10/topic/gemini-s-new-health-app-and-wearable/"
+          "route": "/hot/2026-05-10/topic/gemini-s-new-health-app-and-wearable/",
+          "headline_zh": "Gemini 的新健康应用与可穿戴设备",
+          "summary_short_zh": "据报道，Gemini 正推出新的健康应用及可穿戴设备相关产品。报道将其视为 Gemini 品牌在消费健康产品领域的一项新举措。",
+          "why_it_matters_zh": "1 个独立来源提到了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "9018fb643340",
@@ -1283,7 +1321,11 @@
               "published_at": "Sat, 09 May 2026 12:21:08 +0000"
             }
           ],
-          "route": "/hot/2026-05-10/topic/9018fb643340/"
+          "route": "/hot/2026-05-10/topic/9018fb643340/",
+          "headline_zh": "太初元碁携龙虾一体机亮相北京科博会",
+          "summary_short_zh": "量子位报道称，太初元碁在北京科博会上展示了其“龙虾”一体机。这则消息主要介绍产品参展情况，并非详细的技术公告。",
+          "why_it_matters_zh": "1 个独立来源提到了此次产品发布。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -1327,7 +1369,11 @@
               "published_at": "Sun, 10 May 2026 02:00:00 +0000"
             }
           ],
-          "route": "/hot/2026-05-10/topic/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/"
+          "route": "/hot/2026-05-10/topic/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
+          "headline_zh": "在印度做语音 AI 很难，Wispr Flow 仍选择押注。",
+          "summary_short_zh": "据 TechCrunch 报道，Wispr Flow 正扩大在印度的语音 AI 业务，推出 Hinglish 支持后增长加速。文章还指出，语音 AI 产品在该市场的部署仍面临挑战。",
+          "why_it_matters_zh": "这一行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "7ba8be442699",
@@ -1365,7 +1411,11 @@
               "published_at": "2026-05-10T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-10/topic/openai-closes-reasoning-gap-in-voice-agents/"
+          "route": "/hot/2026-05-10/topic/openai-closes-reasoning-gap-in-voice-agents/",
+          "headline_zh": "OpenAI 弥合语音智能体的推理能力差距",
+          "summary_short_zh": "据 The Rundown AI 报道，OpenAI 缩小了语音智能体在推理能力上的差距。标题表明语音智能体的能力有所提升，但这则消息未提供具体产品名称。",
+          "why_it_matters_zh": "这一行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "1e72c746e5b9",
@@ -1403,7 +1453,11 @@
               "published_at": "Sun, 10 May 2026 04:01:40 +0000"
             }
           ],
-          "route": "/hot/2026-05-10/topic/ai-32/"
+          "route": "/hot/2026-05-10/topic/ai-32/",
+          "headline_zh": "浙大校友用AI突破32年拉姆齐数下界",
+          "summary_short_zh": "拉姆齐数R(3,17) 下界从92提升至93",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "598c1f3bdf9f",
@@ -1441,7 +1495,11 @@
               "published_at": "Sat, 09 May 2026 09:37:02 +0000"
             }
           ],
-          "route": "/hot/2026-05-10/topic/abot-agibot/"
+          "route": "/hot/2026-05-10/topic/abot-agibot/",
+          "headline_zh": "空间智能的“具身化”跃迁，高德ABot体系模型夺冠AGIBot全球挑战赛",
+          "summary_short_zh": "据量子位报道，高德的 ABot 系统模型以 0.829 的最高综合得分夺得 AGIBot 全球挑战赛冠军。文章将这一成绩视为空间智能在具身智能领域取得的里程碑式进展。",
+          "why_it_matters_zh": "这一行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "1f48f1be7582",
@@ -1479,7 +1537,11 @@
               "published_at": "Sat, 09 May 2026 09:53:25 +0000"
             }
           ],
-          "route": "/hot/2026-05-10/topic/ai/"
+          "route": "/hot/2026-05-10/topic/ai/",
+          "headline_zh": "两项AI政策发布，范式智能战略布局与产业方向高度契合",
+          "summary_short_zh": "量子位报道了两份 AI 政策文件的发布，并称 Paradigm Intelligence 的战略布局与政策及行业方向高度契合。文章重点介绍了 AI 在电力交易、能源调度、智能预测和决策中的应用。",
+          "why_it_matters_zh": "这一行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -1523,7 +1585,11 @@
               "published_at": "2026-05-09T14:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-10/topic/this-breakthrough-model-uses-1-000x-less-compute/"
+          "route": "/hot/2026-05-10/topic/this-breakthrough-model-uses-1-000x-less-compute/",
+          "headline_zh": "这款突破性模型仅需千分之一的算力",
+          "summary_short_zh": "Superhuman AI 重点介绍了一款模型，据称其所需算力仅为以往方法的千分之一。消息称这是一项技术突破，但标题并未注明模型或机构名称。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         }
       ]
     }
@@ -1569,7 +1635,11 @@
               "published_at": "Fri, 08 May 2026 22:59:05 +0000"
             }
           ],
-          "route": "/hot/2026-05-10/topic/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/"
+          "route": "/hot/2026-05-10/topic/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/",
+          "headline_zh": "甲骨文被裁员工试图争取更优厚的离职补偿，遭公司拒绝。",
+          "summary_short_zh": "据 TechCrunch 报道，甲骨文被裁员工要求改善离职补偿条款，但遭公司拒绝。据称，部分员工被归类为远程员工，影响了他们享受 WARN 法案保障的资格，例如提前两个月收到通知。",
+          "why_it_matters_zh": "这一行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "96a8a2c3b904",
@@ -1607,7 +1677,11 @@
               "published_at": "2026-05-10T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-10/topic/artificial-intelligence-made-simple/"
+          "route": "/hot/2026-05-10/topic/artificial-intelligence-made-simple/",
+          "headline_zh": "轻松读懂人工智能",
+          "summary_short_zh": "Last Week in AI 发布了一篇题为《轻松读懂人工智能》的科普文章。该内容似乎旨在用通俗的方式向读者讲解 AI 概念。",
+          "why_it_matters_zh": "这篇教程见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "abae254db8b1",
@@ -1651,7 +1725,11 @@
               "published_at": "2026-05-10T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-10/topic/automated-ai-research-intern-by-september-of-2026/"
+          "route": "/hot/2026-05-10/topic/automated-ai-research-intern-by-september-of-2026/",
+          "headline_zh": "自动化 AI 研究实习生将于 2026 年 9 月前问世",
+          "summary_short_zh": "Import AI 的一篇评论文章探讨了自动化 AI 研究实习生在 2026 年 9 月前问世的前景。该文似乎是在就 AI 研究自动化作出预测或提出观点，而非报道某次具体发布或某项研究。",
+          "why_it_matters_zh": "这一观点见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "fe881a6a0c0b",
@@ -1695,7 +1773,11 @@
               "published_at": "2026-05-10T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-10/topic/automated-alignment-researchers/"
+          "route": "/hot/2026-05-10/topic/automated-alignment-researchers/",
+          "headline_zh": "自动化对齐研究员",
+          "summary_short_zh": "Import AI 的一篇社论探讨了自动化对齐研究员的构想。文章讨论的是 AI 系统执行对齐相关研究任务，并非具体产品的发布消息。",
+          "why_it_matters_zh": "该观点见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "3bf24d4c85cf",
@@ -1733,7 +1815,11 @@
               "published_at": "Sat, 09 May 2026 21:45:00 +0000"
             }
           ],
-          "route": "/hot/2026-05-10/topic/so-you-ve-heard-these-ai-terms-and-nodded-along-let-s-fix-that/"
+          "route": "/hot/2026-05-10/topic/so-you-ve-heard-these-ai-terms-and-nodded-along-let-s-fix-that/",
+          "headline_zh": "听到这些 AI 术语就跟着点头？这次来弄明白",
+          "summary_short_zh": "TechCrunch 发布了一份词汇表，解释常见的 AI 术语和行话，旨在帮助读者理解 AI 领域的常用概念。",
+          "why_it_matters_zh": "该教程见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "b059065a90bc",
@@ -1771,7 +1857,11 @@
               "published_at": "Sat, 09 May 2026 11:00:51 +0000"
             }
           ],
-          "route": "/hot/2026-05-10/topic/the-new-wild-west-of-ai-kids-toys/"
+          "route": "/hot/2026-05-10/topic/the-new-wild-west-of-ai-kids-toys/",
+          "headline_zh": "AI 儿童玩具成了新的“狂野西部”",
+          "summary_short_zh": "Ars Technica 发表了一篇社论，讨论联网 AI 儿童玩具及其在玩耍和睡前使用时可能带来的风险。文章还提到，一些立法者正寻求对这类产品实施限制或禁令。",
+          "why_it_matters_zh": "该观点见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "efbc89a279a4",
@@ -1809,7 +1899,11 @@
               "published_at": "2026-05-10T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-10/topic/meta-pivots-from-open-weights-big-pharma-bets-on-ai-regulatory-patchwork-simulating-human-cohorts/"
+          "route": "/hot/2026-05-10/topic/meta-pivots-from-open-weights-big-pharma-bets-on-ai-regulatory-patchwork-simulating-human-cohorts/",
+          "headline_zh": "Meta 不再侧重开放权重，制药巨头押注 AI，监管碎片化，人群模拟",
+          "summary_short_zh": "本期 The Batch 涵盖 Meta 不再侧重开放权重、制药行业采用 AI、监管碎片化及人群模拟等话题。这是一份汇总多个话题的新闻简报，并非单一事件公告。",
+          "why_it_matters_zh": "该综述见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "00ca47022e54",
@@ -1847,7 +1941,11 @@
               "published_at": "2026-05-10T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-10/topic/seedance-makes-a-splash-nvidia-s-ai-guided-chip-designs-helping-robots-not-forget/"
+          "route": "/hot/2026-05-10/topic/seedance-makes-a-splash-nvidia-s-ai-guided-chip-designs-helping-robots-not-forget/",
+          "headline_zh": "Seedance 引发轰动，英伟达用 AI 指导芯片设计，帮助机器人避免遗忘",
+          "summary_short_zh": "本期 The Batch 总结了 Seedance、英伟达用 AI 指导芯片设计，以及减少机器人遗忘的方法等方面的进展。内容以新闻简报形式汇集了多条资讯。",
+          "why_it_matters_zh": "该综述见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -1889,7 +1987,11 @@
           "published_at": "2026-05-06T13:31:16Z"
         }
       ],
-      "route": "/hot/2026-05-10/topic/deepseek-tui-deepseek-tui/"
+      "route": "/hot/2026-05-10/topic/deepseek-tui-deepseek-tui/",
+      "headline_zh": "DeepSeek-TUI/DeepSeek-TUI",
+      "summary_short_zh": "DeepSeek-TUI 作为一款面向 DeepSeek 模型的终端编程智能体登上 GitHub Trending。该项目提供文本用户界面，可在命令行中运行编程工作流。",
+      "why_it_matters_zh": "该工具见于 1 个独立来源。",
+      "category_zh": "工具"
     },
     {
       "topic_id": "1cf431c7484c",
@@ -1927,7 +2029,11 @@
           "published_at": "2026-05-06T13:13:21Z"
         }
       ],
-      "route": "/hot/2026-05-10/topic/lightseekorg-tokenspeed/"
+      "route": "/hot/2026-05-10/topic/lightseekorg-tokenspeed/",
+      "headline_zh": "lightseekorg/tokenspeed",
+      "summary_short_zh": "tokenspeed 作为一款大语言模型推理引擎登上 GitHub Trending。仓库介绍称，该项目专注于实现超高速推理。",
+      "why_it_matters_zh": "该工具见于 1 个独立来源。",
+      "category_zh": "工具"
     },
     {
       "topic_id": "5d9879ec96ce",
@@ -1965,7 +2071,11 @@
           "published_at": "2026-05-06T17:00:48Z"
         }
       ],
-      "route": "/hot/2026-05-10/topic/strukto-ai-mirage/"
+      "route": "/hot/2026-05-10/topic/strukto-ai-mirage/",
+      "headline_zh": "strukto-ai/mirage",
+      "summary_short_zh": "strukto-ai 的 mirage 登上 GitHub 热门榜，是一款面向 AI 智能体的统一虚拟文件系统。该工具定位为支持智能体文件访问和工作区抽象的基础设施。",
+      "why_it_matters_zh": "有 1 个独立来源提及该工具。",
+      "category_zh": "工具"
     }
   ],
   "x_buzz": [

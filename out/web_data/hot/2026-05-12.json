@@ -993,7 +993,16 @@
           "published_at": "2026-05-12T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-05-12/topic/bytedance-seed-launches-seed-2-0-and-previews-dola-seed-2-0-preview/"
+      "route": "/hot/2026-05-12/topic/bytedance-seed-launches-seed-2-0-and-previews-dola-seed-2-0-preview/",
+      "headline_zh": "字节跳动 Seed 发布 Seed 2.0，并展示 Dola-Seed-2.0-Preview 预览版",
+      "summary_short_zh": "字节跳动 Seed 正式发布 Seed 2.0。相关消息将其描述为该公司新推出的模型。",
+      "why_it_matters_zh": "字节跳动通过发布明确命名的模型，传递出持续投入基础模型的信号，也为跟踪模型竞争态势及企业级平台的潜在扩展提供了具体依据。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "字节跳动 Seed 通过自有渠道正式宣布推出新模型 Seed 2.0，这是数据集中确认依据最充分的产品发布成果。",
+        "该公司还在 Arena 发布了 Dola-Seed-2.0-Preview，表明其可能在更广泛部署前，先开展外部评测或提供抢先体验。",
+        "字节跳动 Seed 还同期发布了 2027 年基础模型校园招聘公告，表明其正同步投入模型研发人才和长期研究能力建设。"
+      ]
     },
     {
       "topic_id": "e359ab9c0dcc",
@@ -1033,7 +1042,14 @@
           "published_at": "2026-05-12T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-05-12/topic/controlling-transient-amplification-improves-long-horizon-rollouts/"
+      "route": "/hot/2026-05-12/topic/controlling-transient-amplification-improves-long-horizon-rollouts/",
+      "headline_zh": "控制瞬态放大可改善长时程滚动预测",
+      "summary_short_zh": "自回归神经模拟器在物理系统短时程预测上的精度已媲美经典求解器，但在长时程滚动预测中，精度会迅速下降。",
+      "why_it_matters_zh": "该研究论文出现在 1 个独立来源中。",
+      "category_zh": "研究",
+      "key_takeaways_zh": [
+        "自回归神经模拟器在物理系统短时程预测上的精度已媲美经典求解器，但在长时程滚动预测中，精度会迅速下降。在本研究中，我们……"
+      ]
     },
     {
       "topic_id": "319608846bbf",
@@ -1073,7 +1089,14 @@
           "published_at": "2026-05-12T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-05-12/topic/convergence-analysis-of-newton-s-method-for-neural-networks-in-the-overparameterized-limit/"
+      "route": "/hot/2026-05-12/topic/convergence-analysis-of-newton-s-method-for-neural-networks-in-the-overparameterized-limit/",
+      "headline_zh": "过参数化极限下神经网络训练中牛顿法的收敛性分析",
+      "summary_short_zh": "本文对过参数化极限下用于训练神经网络（NN）的正则化牛顿法进行了收敛性分析。",
+      "why_it_matters_zh": "该研究论文出现在 1 个独立来源中。",
+      "category_zh": "研究",
+      "key_takeaways_zh": [
+        "本文对过参数化极限下用于训练神经网络（NN）的正则化牛顿法进行了收敛性分析。随着隐藏单元数量趋于无穷，神经网络的训练……"
+      ]
     },
     {
       "topic_id": "975ea223644f",
@@ -1115,7 +1138,16 @@
           "published_at": "2026-05-12T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-05-12/topic/powerstep-introduces-memory-efficient-adaptive-optimization-without-second-moment-state/"
+      "route": "/hot/2026-05-12/topic/powerstep-introduces-memory-efficient-adaptive-optimization-without-second-moment-state/",
+      "headline_zh": "PowerStep 提出无需二阶矩状态、节省内存的自适应优化方法",
+      "summary_short_zh": "本文介绍了一种节省内存的自适应优化器 PowerStep。它通过变换后的动量实现逐坐标自适应，无需维护二阶矩状态。",
+      "why_it_matters_zh": "优化器的内存占用是大模型训练的主要瓶颈。一种可靠且无需二阶矩状态的自适应方法，有望增大批量大小、提高硬件利用率并改善训练的成本效益。",
+      "category_zh": "研究",
+      "key_takeaways_zh": [
+        "PowerStep 提出通过变换后的动量实现逐坐标自适应，无需维护 Adam 等优化器所用的二阶矩统计量。",
+        "该方法通过消除二阶矩状态来降低优化器的内存开销，对数十亿参数规模的训练尤为重要。",
+        "论文以 ℓ_p 范数最速下降为理论框架，将该方法定位为有理论依据的替代方案，而非仅对优化器作启发式调整。"
+      ]
     },
     {
       "topic_id": "67530c23cf49",
@@ -1157,7 +1189,16 @@
           "published_at": "2026-05-12T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-05-12/topic/paper-pretraining-large-language-models-with-mxfp4-targets-fp4-llm-training-stability/"
+      "route": "/hot/2026-05-12/topic/paper-pretraining-large-language-models-with-mxfp4-targets-fp4-llm-training-stability/",
+      "headline_zh": "论文《使用 MXFP4 预训练大语言模型》聚焦 FP4 大语言模型训练稳定性",
+      "summary_short_zh": "本文研究使用 MXFP4 预训练大语言模型，重点关注大规模 LLM 的 FP4 预训练稳定性。",
+      "why_it_matters_zh": "若得到验证，稳定的 MXFP4 预训练有望显著降低前沿级大语言模型的训练成本和内存需求，直接影响基础设施和模型的成本效益。",
+      "category_zh": "研究",
+      "key_takeaways_zh": [
+        "论文聚焦采用 MXFP4 预训练大语言模型。这是一种 4 位浮点方案，旨在采用比 FP8 时代标准训练流程更低的数值精度。",
+        "论文的核心主张是 FP4 预训练能够保持稳定。这具有战略意义，因为训练不稳定一直是在完整训练过程中采用超低精度的主要障碍。",
+        "一套可行的 MXFP4 训练方案，对希望优化大规模基础模型训练中的 GPU 显存占用、吞吐量和训练总成本的超大规模云服务商及模型实验室最有价值。"
+      ]
     }
   ],
   "category_sections": [
@@ -1201,7 +1242,11 @@
               "published_at": "2026-05-11T10:13:08+00:00"
             }
           ],
-          "route": "/hot/2026-05-12/topic/two-years-of-local-ai-on-a-laptop-when-open-models-outpaced-moore-s-law/"
+          "route": "/hot/2026-05-12/topic/two-years-of-local-ai-on-a-laptop-when-open-models-outpaced-moore-s-law/",
+          "headline_zh": "笔记本电脑上的本地 AI 两年回顾：当开放模型超越摩尔定律",
+          "summary_short_zh": "Hugging Face 博客发布了回顾文章《笔记本电脑上的本地 AI 两年回顾：当开放模型超越摩尔定律》。文章似乎回顾了过去两年在本地运行开放模型的进展。",
+          "why_it_matters_zh": "这则摘要见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -1245,7 +1290,11 @@
               "published_at": "2026-05-12T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-12/topic/core-halo-decomposition-decentralizing-large-scale-fixed-point-problems/"
+          "route": "/hot/2026-05-12/topic/core-halo-decomposition-decentralizing-large-scale-fixed-point-problems/",
+          "headline_zh": "Core-Halo 分解：大规模不动点问题的去中心化求解",
+          "summary_short_zh": "我们研究如何通过分解求解大规模不动点方程 \\(x^\\star=\\bar F(x^\\star)\\)。标准的严格分解为每个智能体分配互不重叠的变量块，并仅使用各自负责的坐标计算更新。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "659274ae73f1",
@@ -1283,7 +1332,11 @@
               "published_at": "2026-05-12T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-12/topic/cross-family-universality-of-behavioral-axes-via-anchor-projected-representations/"
+          "route": "/hot/2026-05-12/topic/cross-family-universality-of-behavioral-axes-via-anchor-projected-representations/",
+          "headline_zh": "基于锚点投影表征的行为轴跨模型家族普适性",
+          "summary_short_zh": "不同家族的大语言模型采用不同的隐藏层维度、分词器和训练流程，因此难以在模型之间比较或迁移行为方向。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "d8c9b3cbb125",
@@ -1321,7 +1374,11 @@
               "published_at": "2026-05-12T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-12/topic/deco-sparse-mixture-of-experts-with-dense-comparable-performance-on-end-side-devices/"
+          "route": "/hot/2026-05-12/topic/deco-sparse-mixture-of-experts-with-dense-comparable-performance-on-end-side-devices/",
+          "headline_zh": "DECO：端侧设备上性能媲美稠密模型的稀疏混合专家模型",
+          "summary_short_zh": "虽然混合专家（MoE）能扩大模型容量而无需按比例增加计算量，但其庞大的总参数量会造成严重的存储和内存访问瓶颈，妨碍高效的端侧部署，而这类部署同时要求高性能、低……",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "5dc3259c5548",
@@ -1359,7 +1416,11 @@
               "published_at": "2026-05-12T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-12/topic/deterministic-decomposition-of-stochastic-generative-dynamics/"
+          "route": "/hot/2026-05-12/topic/deterministic-decomposition-of-stochastic-generative-dynamics/",
+          "headline_zh": "随机生成动力学的确定性分解",
+          "summary_short_zh": "现代生成模型可理解为从简单的基础分布到目标数据分布的概率输运过程。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "5e36621c41e4",
@@ -1397,7 +1458,11 @@
               "published_at": "2026-05-12T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-12/topic/diagnosing-spectral-ceilings-in-equivariant-neural-force-fields/"
+          "route": "/hot/2026-05-12/topic/diagnosing-spectral-ceilings-in-equivariant-neural-force-fields/",
+          "headline_zh": "诊断等变神经力场的频谱上限",
+          "summary_short_zh": "我们提出一种频谱注入诊断方法，用于测量训练后的等变力场骨干网络能保留哪些角向频率：向分子力场中注入可控的角向频率扰动，并在冻结的骨干网络上接入轻量级频谱预测网络（SPN）",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         }
       ]
     }
@@ -1443,7 +1508,11 @@
               "published_at": "2026-05-12T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-12/topic/dimension-free-saddle-point-escape-in-muon/"
+          "route": "/hot/2026-05-12/topic/dimension-free-saddle-point-escape-in-muon/",
+          "headline_zh": "Muon 中与维度无关的鞍点逃逸",
+          "summary_short_zh": "超高维优化景观中病态平坦的鞍点，是现代大语言模型（LLM）训练的根本瓶颈。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "384f0d5d5d83",
@@ -1481,7 +1550,11 @@
               "published_at": "2026-05-12T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-12/topic/don-t-fix-the-basis-learn-it-spectral-representation-with-adaptive-basis-learning-for-pdes/"
+          "route": "/hot/2026-05-12/topic/don-t-fix-the-basis-learn-it-spectral-representation-with-adaptive-basis-learning-for-pdes/",
+          "headline_zh": "别固定基函数，让模型学习它：面向偏微分方程的自适应基学习谱表示",
+          "summary_short_zh": "谱神经算子在偏微分方程学习中表现出色，但依赖固定的全局基函数，限制了其表征具有空间异质性和多尺度特征的动力学的能力。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "090393f0171a",
@@ -1519,7 +1592,11 @@
               "published_at": "2026-05-12T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-12/topic/elf-embedded-language-flows/"
+          "route": "/hot/2026-05-12/topic/elf-embedded-language-flows/",
+          "headline_zh": "ELF：嵌入式语言流",
+          "summary_short_zh": "扩散模型和基于流的模型已成为生成连续数据的主流方法，例如图像和视频生成。随着这些模型取得成功，将其用于语言建模也受到越来越多的关注。",
+          "why_it_matters_zh": "有 1 个独立来源提及这篇研究论文。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "82080f0e088c",
@@ -1557,7 +1634,11 @@
               "published_at": "2026-05-12T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-12/topic/elucidating-representation-degradation-problem-in-diffusion-model-training/"
+          "route": "/hot/2026-05-12/topic/elucidating-representation-degradation-problem-in-diffusion-model-training/",
+          "headline_zh": "解析扩散模型训练中的表征退化问题",
+          "summary_short_zh": "扩散模型已取得显著成功，但训练效率仍然低下，原因是存在一个严重的优化瓶颈，我们称之为“表征退化”。",
+          "why_it_matters_zh": "有 1 个独立来源提及这篇研究论文。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "216e09dc2bbf",
@@ -1595,7 +1676,11 @@
               "published_at": "2026-05-12T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-12/topic/embedding-dimension-lower-bounds-for-universality-of-deep-sets-and-janossy-pooling/"
+          "route": "/hot/2026-05-12/topic/embedding-dimension-lower-bounds-for-universality-of-deep-sets-and-janossy-pooling/",
+          "headline_zh": "Deep Sets 和 Janossy 池化通用性的嵌入维度下界",
+          "summary_short_zh": "在许多实际应用中，将对称性融入神经网络架构十分重要。以一个重要情形为例：由 $n$ 个点组成的 $d$ 维点云中的置换对称性。",
+          "why_it_matters_zh": "有 1 个独立来源提及这篇研究论文。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "8ff905996243",
@@ -1633,7 +1718,11 @@
               "published_at": "2026-05-12T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-12/topic/embeddings-for-preferences-not-semantics/"
+          "route": "/hot/2026-05-12/topic/embeddings-for-preferences-not-semantics/",
+          "headline_zh": "面向偏好而非语义的嵌入",
+          "summary_short_zh": "现代 AI 正为集体决策开辟新方式：参与者可以用自由文本表达观点，而不必对一组固定的候选项投票。",
+          "why_it_matters_zh": "有 1 个独立来源提及这篇研究论文。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "bb486d61a9f2",
@@ -1671,7 +1760,11 @@
               "published_at": "2026-05-12T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-12/topic/equimem-calibrating-shared-memory-in-multi-agent-debate-via-game-theoretic-equilibrium/"
+          "route": "/hot/2026-05-12/topic/equimem-calibrating-shared-memory-in-multi-agent-debate-via-game-theoretic-equilibrium/",
+          "headline_zh": "EquiMem：通过博弈论均衡校准多智能体辩论中的共享记忆",
+          "summary_short_zh": "多智能体辩论（MAD）系统越来越依赖共享记忆来支持长程推理，但这种便利也带来了一个严重漏洞：单条受损记录就可能污染后续的记忆增强推理，而仅靠辩论无法滤除这类错误。",
+          "why_it_matters_zh": "有 1 个独立来源提及这篇研究论文。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "a52de9f9399a",
@@ -1709,7 +1802,11 @@
               "published_at": "2026-05-12T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-12/topic/exact-fixed-point-constraints-in-neural-odes-with-provable-universality/"
+          "route": "/hot/2026-05-12/topic/exact-fixed-point-constraints-in-neural-odes-with-provable-universality/",
+          "headline_zh": "神经常微分方程中的精确不动点约束与可证明的通用性",
+          "summary_short_zh": "我们提出一种方法，使神经常微分方程能够逼近具有预设不动点的任意速度场。",
+          "why_it_matters_zh": "有 1 个独立来源提及这篇研究论文。",
+          "category_zh": "研究"
         }
       ]
     }

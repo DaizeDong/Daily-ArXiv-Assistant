@@ -1259,7 +1259,16 @@
           "published_at": "2026-04-26T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-04-26/topic/bytedance-launches-dola-seed-2-0-preview-and-seed-full-duplex-speech-llm/"
+      "route": "/hot/2026-04-26/topic/bytedance-launches-dola-seed-2-0-preview-and-seed-full-duplex-speech-llm/",
+      "headline_zh": "字节跳动发布 Dola-Seed-2.0-Preview 和 Seed Full-Duplex Speech LLM",
+      "summary_short_zh": "字节跳动 Seed 正式发布 Seed 2.0，标志着该公司基础模型产品线迎来一次重大更新。",
+      "why_it_matters_zh": "字节跳动在前沿模型评测和实时语音交互两方面展现出产品发展势头，这两个领域都直接影响面向消费者的 AI 助手和多模态平台竞争。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "字节跳动 Seed 发布 Dola-Seed-2.0-Preview 并上线 Arena，让市场得以初步观察其模型质量和竞争定位。",
+        "该公司还推出了 Seed Full-Duplex Speech LLM，强调专注倾听、干扰抑制和更自然的话轮交替，有别于传统的按键说话式语音交互。",
+        "这组消息还包括一则单独发布的 2027 年基础模型校园招聘公告，显示字节跳动在推出产品的同时，也在持续投入核心模型人才建设。"
+      ]
     },
     {
       "topic_id": "f3c7b4a18eb5",
@@ -1301,7 +1310,16 @@
           "published_at": "2026-04-26T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-04-26/topic/zhipu-ai-and-intel-expand-partnership-for-on-device-zhipu-qingyan-and-codegeex/"
+      "route": "/hot/2026-04-26/topic/zhipu-ai-and-intel-expand-partnership-for-on-device-zhipu-qingyan-and-codegeex/",
+      "headline_zh": "智谱 AI 与英特尔扩大合作，推出端侧智谱清言和 CodeGeeX",
+      "summary_short_zh": "智谱 AI 在英特尔 AI PC 生态活动上宣布扩大与英特尔的合作，推出端侧版智谱清言和 CodeGeeX AI 编程助手。双方依托智谱的云边混合模型产品矩阵，推动 AI PC 创新。",
+      "why_it_matters_zh": "此次合作清楚表明，中国模型提供商和芯片厂商正在推广 AI PC，这对边缘部署策略和企业终端的 AI 应用具有重要意义。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "智谱 AI 在英特尔 AI PC 生态活动上表示，双方扩大的合作将带来端侧版智谱清言和 CodeGeeX 编程助手。",
+        "此次合作以云边混合产品矩阵为核心，表明智谱并不只依赖云端推理，也在瞄准本地部署场景。",
+        "CodeGeeX 让此次发布覆盖开发者工具领域，清言则将应用范围拓展至 AI PC 上的通用助手场景。"
+      ]
     },
     {
       "topic_id": "29f96a134a44",
@@ -1343,7 +1361,16 @@
           "published_at": "2026-04-25T16:00:00.000Z"
         }
       ],
-      "route": "/hot/2026-04-26/topic/nvidia-introduces-dynamo-for-agentic-coding-inference-workloads/"
+      "route": "/hot/2026-04-26/topic/nvidia-introduces-dynamo-for-agentic-coding-inference-workloads/",
+      "headline_zh": "英伟达推出面向智能体编程推理工作负载的 Dynamo",
+      "summary_short_zh": "传统推理架构并非为智能体编程而设计。智能体工具在每次编程会话中会发起数百次 API 调用，往往还要重新计算上下文，由此产生的瓶颈推高了每个 token 的成本。英伟达 Dynamo 为智能体重构技术栈，提供：→ KV 感知路由 →",
+      "why_it_matters_zh": "如果智能体编程成为主要推理工作负载之一，针对 KV 缓存复用和会话内大量调用进行优化的基础设施，可能显著改变推理服务的成本效益和平台选择。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "英伟达将智能体编程视为一种独立的工作负载：单次会话可能触发数百次 API 调用，使传统推理技术栈效率低下。",
+        "Dynamo 主打 KV 感知路由，直接针对推高每个 token 成本的重复计算浪费和上下文处理瓶颈。",
+        "与推出模型相比，这次发布更值得关注的是针对编程智能体的技术栈优化，基础设施优势在这一领域可能转化为产品护城河。"
+      ]
     },
     {
       "topic_id": "07458526da02",
@@ -1383,7 +1410,14 @@
           "published_at": "2026-04-21T14:22:21Z"
         }
       ],
-      "route": "/hot/2026-04-26/topic/tencent-hunyuan-hy3-preview/"
+      "route": "/hot/2026-04-26/topic/tencent-hunyuan-hy3-preview/",
+      "headline_zh": "Tencent-Hunyuan/Hy3-preview",
+      "summary_short_zh": "Hy3 预览版（295B A21B）是一款推理与智能体模型，在同等规模中表现领先，性价比出色。",
+      "why_it_matters_zh": "有 1 个独立来源提及此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Hy3 预览版（295B A21B）是一款推理与智能体模型，在同等规模中表现领先，性价比出色。"
+      ]
     },
     {
       "topic_id": "7ce8c674ba14",
@@ -1421,7 +1455,11 @@
           "published_at": "2026-04-25T14:04:30.000Z"
         }
       ],
-      "route": "/hot/2026-04-26/topic/inference-that-never-sleeps-for-agents-that-never-stop/"
+      "route": "/hot/2026-04-26/topic/inference-that-never-sleeps-for-agents-that-never-stop/",
+      "headline_zh": "为永不停歇的智能体提供不间断推理",
+      "summary_short_zh": "“能委托代办，何必协同工作？”这是 @DhruvBatra_ 对 @yutori_ai 新推出的 Delegate 的介绍。这款全天候运行的智能体在网络上监测、调研并执行操作，全程在后台运行。由 @togethercompute 提供支持，",
+      "why_it_matters_zh": "有 1 个独立来源提及此次产品发布。",
+      "category_zh": "产品发布"
     }
   ],
   "category_sections": [
@@ -1465,7 +1503,11 @@
               "published_at": "2026-04-25T04:13:36+00:00"
             }
           ],
-          "route": "/hot/2026-04-26/topic/gpt-5-5-prompting-guide/"
+          "route": "/hot/2026-04-26/topic/gpt-5-5-prompting-guide/",
+          "headline_zh": "GPT-5.5 提示词指南",
+          "summary_short_zh": "<p><strong><a href=\" 提示词指南</a></strong></p> GPT-5.5 现已<a href=\" 通过 API 开放</a>，OpenAI 发布了大量实用建议，帮助用户更好地为新模型编写提示词。</p> <p>对于可能需要先花较长时间思考的应用，他们推荐了一个巧妙的方法",
+          "why_it_matters_zh": "有 1 个独立来源提及此次产品发布。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -1509,7 +1551,11 @@
               "published_at": "Sat, 25 Apr 2026 15:03:00 +0000"
             }
           ],
-          "route": "/hot/2026-04-26/topic/why-tokyo-is-the-most-important-tech-destination-of-2026/"
+          "route": "/hot/2026-04-26/topic/why-tokyo-is-the-most-important-tech-destination-of-2026/",
+          "headline_zh": "为何东京是 2026 年最重要的科技目的地",
+          "summary_short_zh": "SusHi Tech Tokyo 2026 聚焦四个定位明确的技术领域，每个领域均设有现场演示、专属展区和专题活动，邀请全球实际参与相关技术研发与投资的人士出席",
+          "why_it_matters_zh": "这条融资消息见于 1 个独立来源。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -1559,7 +1605,11 @@
               "published_at": "Sat, 25 Apr 2026 07:22:22 +0000"
             }
           ],
-          "route": "/hot/2026-04-26/topic/deepseek-ai/"
+          "route": "/hot/2026-04-26/topic/deepseek-ai/",
+          "headline_zh": "自动驾驶赛道DeepSeek，轻舟智航率先进军物理AI",
+          "summary_short_zh": "500TOPS上车世界模型",
+          "why_it_matters_zh": "这条行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "df5b18e7049b",
@@ -1597,7 +1647,11 @@
               "published_at": "Sat, 25 Apr 2026 17:17:56 +0000"
             }
           ],
-          "route": "/hot/2026-04-26/topic/openai-ceo-apologizes-to-tumbler-ridge-community/"
+          "route": "/hot/2026-04-26/topic/openai-ceo-apologizes-to-tumbler-ridge-community/",
+          "headline_zh": "OpenAI 首席执行官向 Tumbler Ridge 社区道歉",
+          "summary_short_zh": "OpenAI 首席执行官 Sam Altman 在致加拿大 Tumbler Ridge 居民的信中表示，公司未就近期一起大规模枪击案的嫌疑人向执法部门发出警报，他对此“深感抱歉”",
+          "why_it_matters_zh": "这条行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "1a330f1c84d9",
@@ -1641,7 +1695,10 @@
               "published_at": "2026-04-26T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-26/topic/nvidia-s-open-salvo-openai-s-amazon-deal-grok-cuts-video-prices-recursive-language-models/"
+          "route": "/hot/2026-04-26/topic/nvidia-s-open-salvo-openai-s-amazon-deal-grok-cuts-video-prices-recursive-language-models/",
+          "headline_zh": "英伟达的开源攻势、OpenAI 与亚马逊的交易、Grok 视频降价、递归语言模型",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "7dacef684582",
@@ -1679,7 +1736,11 @@
               "published_at": "2026-04-25T15:33:11.000Z"
             }
           ],
-          "route": "/hot/2026-04-26/topic/deepseek-v4-pro-api-is-75-off-until-may-5th-2026-15-59-utc-time-don-t-miss-out-on-this-massive-discount/"
+          "route": "/hot/2026-04-26/topic/deepseek-v4-pro-api-is-75-off-until-may-5th-2026-15-59-utc-time-don-t-miss-out-on-this-massive-discount/",
+          "headline_zh": "DeepSeek-V4-Pro API 限时 2.5 折，优惠截至 2026 年 5 月 5 日 15:59（UTC）！别错过这次超值优惠",
+          "summary_short_zh": "DeepSeek 宣布 DeepSeek-V4-Pro API 限时 2.5 折，优惠持续至 2026 年 5 月 5 日。帖子还提到集成更新，包括在 Claude Code 中使用该模型，以及支持 100 万 token 的上下文配置",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "4f75eb51a37c",
@@ -1717,7 +1778,10 @@
               "published_at": "2026-04-26T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-26/topic/import-ai-453-breaking-ai-agents-mirrorcode-and-ten-views-on-gradual-disempowerment/"
+          "route": "/hot/2026-04-26/topic/import-ai-453-breaking-ai-agents-mirrorcode-and-ten-views-on-gradual-disempowerment/",
+          "headline_zh": "Import AI 第 453 期：攻破 AI 智能体、MirrorCode，以及关于渐进式失权的十种看法",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -1761,7 +1825,11 @@
               "published_at": "2026-04-24T23:40:46.000Z"
             }
           ],
-          "route": "/hot/2026-04-26/topic/day-0-performance-is-here-deepseek-v4-pro-running-on-nvidia-blackwell-ultra/"
+          "route": "/hot/2026-04-26/topic/day-0-performance-is-here-deepseek-v4-pro-running-on-nvidia-blackwell-ultra/",
+          "headline_zh": "首发日性能数据出炉：DeepSeek-V4-Pro 在 NVIDIA Blackwell Ultra 上运行",
+          "summary_short_zh": "NVIDIA 公布了 DeepSeek-V4-Pro 采用 vLLM 首发部署方案在 NVIDIA Blackwell Ultra 上运行的首发日性能数据。帖子展示了该模型在长上下文推理服务配置下的初步性能帕累托前沿",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     },
@@ -1805,7 +1873,11 @@
               "published_at": "2026-04-26T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-26/topic/automated-alignment-researchers-using-large-language-models-to-scale-scalable-oversight-anthropic-blog/"
+          "route": "/hot/2026-04-26/topic/automated-alignment-researchers-using-large-language-models-to-scale-scalable-oversight-anthropic-blog/",
+          "headline_zh": "自动化对齐研究员：利用大语言模型扩大可扩展监督的规模（Anthropic 博客）",
+          "summary_short_zh": "Anthropic 发布博文，介绍如何利用大语言模型，通过自动化对齐研究员扩大可扩展监督的规模。该研究聚焦于提升对齐研究流程中监督能力的方法",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "b9dca6f079fd",
@@ -1843,7 +1915,11 @@
               "published_at": "Sat, 25 Apr 2026 21:43:37 +0000"
             }
           ],
-          "route": "/hot/2026-04-26/topic/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/"
+          "route": "/hot/2026-04-26/topic/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
+          "headline_zh": "Anthropic 搭建了一个供智能体相互交易的测试市场",
+          "summary_short_zh": "Anthropic 搭建了一个实验性分类信息市场，由 AI 智能体充当买卖双方。在这个智能体间交易的测试环境中，它们就涉及实物和真实资金的交易展开谈判。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         }
       ]
     }
@@ -1889,7 +1965,10 @@
               "published_at": "2026-04-26T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-26/topic/import-ai-454-automating-alignment-research-safety-study-of-a-chinese-model-hifloat4/"
+          "route": "/hot/2026-04-26/topic/import-ai-454-automating-alignment-research-safety-study-of-a-chinese-model-hifloat4/",
+          "headline_zh": "Import AI 第 454 期：对齐研究自动化；一款中国模型的安全性研究；HiFloat4",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "efbc89a279a4",
@@ -1927,7 +2006,10 @@
               "published_at": "2026-04-26T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-26/topic/meta-pivots-from-open-weights-big-pharma-bets-on-ai-regulatory-patchwork-simulating-human-cohorts/"
+          "route": "/hot/2026-04-26/topic/meta-pivots-from-open-weights-big-pharma-bets-on-ai-regulatory-patchwork-simulating-human-cohorts/",
+          "headline_zh": "Meta 不再走开放权重路线，制药巨头押注 AI，监管规则碎片化，模拟人类群体",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "e7b81a4720af",
@@ -1965,7 +2047,10 @@
               "published_at": "2026-04-26T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-26/topic/glm-5-1-thinks-strategically-data-center-revolt-intensifies-when-helpful-llms-turn-unhelpful-humanoid-robots-get-to-work/"
+          "route": "/hot/2026-04-26/topic/glm-5-1-thinks-strategically-data-center-revolt-intensifies-when-helpful-llms-turn-unhelpful-humanoid-robots-get-to-work/",
+          "headline_zh": "GLM 5.1 展现战略思维，抵制数据中心的行动升级，当大语言模型不再帮得上忙，人形机器人上岗",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "fe07c842880d",
@@ -2003,7 +2088,11 @@
               "published_at": "2026-04-25T16:44:01+00:00"
             }
           ],
-          "route": "/hot/2026-04-26/topic/why-are-you-like-this/"
+          "route": "/hot/2026-04-26/topic/why-are-you-like-this/",
+          "headline_zh": "你怎么这样？",
+          "summary_short_zh": "<p>@scottjla 在 <a href=\" Twitter</a> 上回复了我的 <a href=\" 骑自行车</a>基准测试：</p> <blockquote> <p>我觉得现在得把这些测试叠加起来了</p> <p><img alt=\"AI 生成的图片。一只鹈鹕沿着土路骑自行车，后面有一辆警车在追赶。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "448fe7652c7e",
@@ -2041,7 +2130,11 @@
               "published_at": "Sat, 25 Apr 2026 16:00:00 +0000"
             }
           ],
-          "route": "/hot/2026-04-26/topic/why-cohere-is-merging-with-aleph-alpha/"
+          "route": "/hot/2026-04-26/topic/why-cohere-is-merging-with-aleph-alpha/",
+          "headline_zh": "Cohere 为何与 Aleph Alpha 合并",
+          "summary_short_zh": "加拿大 AI 初创公司 Cohere 正在 Lidl 母公司 Schwarz Group 的支持下收购总部位于德国的 Aleph Alpha。在两国政府的支持下，两家公司打算在美国企业主导的 AI 市场中，为企业客户提供自主可控的替代方案。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "b73f68acd45f",
@@ -2079,7 +2172,11 @@
               "published_at": "Sat, 25 Apr 2026 20:57:08 +0000"
             }
           ],
-          "route": "/hot/2026-04-26/topic/maine-s-governor-vetoes-data-center-moratorium/"
+          "route": "/hot/2026-04-26/topic/maine-s-governor-vetoes-data-center-moratorium/",
+          "headline_zh": "缅因州州长否决暂停建设数据中心的法案",
+          "summary_short_zh": "L.D. 307 法案原拟在全州暂停新建数据中心，直至 2027 年 11 月 1 日，这将是美国首个此类全州性暂停令。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "d101a3cf3c38",
@@ -2117,7 +2214,10 @@
               "published_at": "2026-04-25T23:53:40Z"
             }
           ],
-          "route": "/hot/2026-04-26/topic/agents-aren-t-coworkers-embed-them-in-your-software/"
+          "route": "/hot/2026-04-26/topic/agents-aren-t-coworkers-embed-them-in-your-software/",
+          "headline_zh": "智能体不是同事，把它们嵌入你的软件",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "de6d97acdc83",
@@ -2155,7 +2255,11 @@
               "published_at": "Sat, 25 Apr 2026 06:58:48 +0000"
             }
           ],
-          "route": "/hot/2026-04-26/topic/gpt-image-2-ai/"
+          "route": "/hot/2026-04-26/topic/gpt-image-2-ai/",
+          "headline_zh": "硬刚GPT-Image-2！国产AI生图“天花板”又被捅破了？",
+          "summary_short_zh": "一家低调的视觉大模型公司，浮出水面",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }

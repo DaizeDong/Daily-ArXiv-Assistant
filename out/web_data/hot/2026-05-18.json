@@ -1540,7 +1540,16 @@
           "published_at": "2026-05-18T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-05-18/topic/seed-2-0-launch-puts-bytedance-seed-into-real-time-multimodal-competition/"
+      "route": "/hot/2026-05-18/topic/seed-2-0-launch-puts-bytedance-seed-into-real-time-multimodal-competition/",
+      "headline_zh": "Seed 2.0 发布，字节跳动 Seed 加入实时多模态竞争",
+      "summary_short_zh": "字节跳动 Seed 推出语音模型 Seed Full-Duplex Speech LLM，主打专注倾听、可靠的干扰抑制和更自然的交互。公告将其定位为公司语音 AI 产品线的一款新模型。",
+      "why_it_matters_zh": "字节跳动正从基础模型拓展至实时语音交互。对于关注全天候 AI 助手和语音原生智能体竞争的投资者及企业经营者而言，这是一个战略信号。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "字节跳动 Seed 同时公布三项相关成果：核心模型 Seed 2.0、Seed Full-Duplex Speech LLM，以及在 Arena 上发布、供早期评测的 Dola-Seed-2.0-Preview。",
+        "Seed Full-Duplex Speech LLM 主打专注倾听、抑制干扰和更自然的交互，表明其重点是低延迟、可应对打断的语音体验，而非纯文本聊天。",
+        "在 Arena 上发布 Dola-Seed-2.0-Preview，表明字节跳动希望尽早接受外部对比评测并吸引开发者关注。这是厂商建立基准评测公信力、增强生态吸引力的常见做法。"
+      ]
     },
     {
       "topic_id": "423aca7bc2f5",
@@ -1582,7 +1591,16 @@
           "published_at": "2026-05-18T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-05-18/topic/glm-5-becomes-zhipu-ai-s-flagship-model-for-agent-engineering/"
+      "route": "/hot/2026-05-18/topic/glm-5-becomes-zhipu-ai-s-flagship-model-for-agent-engineering/",
+      "headline_zh": "GLM-5 成为智谱 AI 面向智能体工程的旗舰模型",
+      "summary_short_zh": "智谱 AI 发布面向智能体工程的旗舰基础模型 GLM-5，强调其编程和智能体能力达到开源模型的最先进水平。该页面还称，它在 SWE-bench Verified 和 Terminal Bench 2.0 上表现出色，与 Claude Opus 4.5 相当。",
+      "why_it_matters_zh": "GLM-5 壮大了中国的开放模型生态，也为企业的编程和智能体工作流提供了美国前沿模型技术栈之外的又一个有竞争力的选择。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "智谱 AI 将 GLM-5 定位为新一代旗舰基础模型，专为智能体工程优化，而不局限于通用聊天机器人场景。",
+        "公告称，该模型在编程和智能体任务上达到开源模型的最先进水平，并引用了 SWE-bench Verified 和 Terminal Bench 2.0 等基准评测。",
+        "智谱明确表示，GLM-5 在上述评测中与 Claude Opus 4.5 相当，显示其意图在软件开发和自主任务执行领域，直接挑战占据领先地位的高端闭源模型厂商。"
+      ]
     },
     {
       "topic_id": "d013decd9ef8",
@@ -1631,7 +1649,16 @@
           "published_at": "2026-05-18T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-05-18/topic/gemini-intelligence-rollout-extends-google-s-ai-stack-across-android-devices/"
+      "route": "/hot/2026-05-18/topic/gemini-intelligence-rollout-extends-google-s-ai-stack-across-android-devices/",
+      "headline_zh": "Gemini Intelligence 推出，将谷歌 AI 技术栈扩展至各类 Android 设备",
+      "summary_short_zh": "这则消息称，Android 正进入 Gemini Intelligence 时代，意味着 Gemini 与 Android 平台的融合迈入新阶段。消息涉及一项产品更新，重点是让谷歌的 AI 功能更深入地融入 Android 使用体验。",
+      "why_it_matters_zh": "谷歌将 Gemini 融入 Android，表明模型优势正越来越多地通过操作系统和消费级硬件转化为分发优势。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "The Rundown AI 和 Superhuman AI 的报道显示，谷歌正在将 Gemini 品牌的智能功能更深入地融入 Android，扩大其在独立聊天机器人产品之外的覆盖范围。",
+        "其中一则被引用的报道提到“搭载 Gemini 的笔记本电脑”，暗示谷歌的 AI 布局如今已覆盖移动设备及相关品类，而不再局限于手机。",
+        "对企业采购方和投资者而言，关键在于谷歌可以依托平台规模，将 Gemini 内置于默认用户体验中。相比独立 AI 应用，这可能降低获客成本。"
+      ]
     },
     {
       "topic_id": "a9d6ce3e3f9e",
@@ -1671,7 +1698,14 @@
           "published_at": "2026-05-14T21:32:21Z"
         }
       ],
-      "route": "/hot/2026-05-18/topic/2508965-ship-it-harmonist-orchestral/"
+      "route": "/hot/2026-05-18/topic/2508965-ship-it-harmonist-orchestral/",
+      "headline_zh": "2508965-ship-it/harmonist-orchestral",
+      "summary_short_zh": "🚀 多智能体编排引擎 2026：使用 Claude Code 构建和部署 AI 智能体集群",
+      "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "🚀 多智能体编排引擎 2026：使用 Claude Code 构建和部署 AI 智能体集群"
+      ]
     },
     {
       "topic_id": "60c577603e6d",
@@ -1713,7 +1747,16 @@
           "published_at": "2026-05-18T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-05-18/topic/judge-circuits-paper-exposes-format-instability-in-llm-as-a-judge-systems/"
+      "route": "/hot/2026-05-18/topic/judge-circuits-paper-exposes-format-instability-in-llm-as-a-judge-systems/",
+      "headline_zh": "《Judge Circuits》论文揭示大模型评审系统因格式变化而评分不稳",
+      "summary_short_zh": "用大语言模型担任评审已成为大规模评估模型输出的主流范式，但同一模型的输出格式改变时（如采用 1-5 分评分或 True/False 标签），评分会出现系统性差异。",
+      "why_it_matters_zh": "如果自动评估器的评分随输出格式而非内容本身变化，基于这些评估的产品、研究和采购决策就可能出现显著偏差。",
+      "category_zh": "研究",
+      "key_takeaways_zh": [
+        "《Judge Circuits》研究了日益重要的大模型评审机制，发现即使内容相同，同一模型也可能因响应格式变化而给出不同评分，例如采用 1-5 分评分或二元标签时。",
+        "论文不只停留于基准评测结果不一致的表面现象，还分析了这些格式效应背后的机制，为模型评估团队提供了更具操作性的参考。",
+        "这一结果对在强化学习、内部评估套件和排行榜报告中使用评审模型的实验室及企业很重要，因为表面上的性能提升可能是提示词或格式造成的假象，而非能力的真实进步。"
+      ]
     }
   ],
   "category_sections": [
@@ -1757,7 +1800,11 @@
               "published_at": "2026-05-17T14:40:28-04:00"
             }
           ],
-          "route": "/hot/2026-05-18/topic/revamped-siri-will-reportedly-offer-auto-deleting-chats/"
+          "route": "/hot/2026-05-18/topic/revamped-siri-will-reportedly-offer-auto-deleting-chats/",
+          "headline_zh": "据报道，新版 Siri 将支持自动删除聊天记录",
+          "summary_short_zh": "苹果希望凭借其在隐私保护方面的一贯表现，在 AI 竞争中脱颖而出，或许还能让人们对其持续落后于竞争对手多一些宽容。",
+          "why_it_matters_zh": "此次收购消息见于 1 个独立来源。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -1801,7 +1848,10 @@
               "published_at": "2026-05-18T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-18/topic/seedance-makes-a-splash-nvidia-s-ai-guided-chip-designs-helping-robots-not-forget/"
+          "route": "/hot/2026-05-18/topic/seedance-makes-a-splash-nvidia-s-ai-guided-chip-designs-helping-robots-not-forget/",
+          "headline_zh": "Seedance 引发轰动，英伟达用 AI 指导芯片设计，帮助机器人避免遗忘",
+          "why_it_matters_zh": "这一行业动向见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "82fb04e94229",
@@ -1839,7 +1889,11 @@
               "published_at": "Sun, 17 May 2026 19:46:34 +0000"
             }
           ],
-          "route": "/hot/2026-05-18/topic/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/"
+          "route": "/hot/2026-05-18/topic/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
+          "headline_zh": "为何信任问题成为埃隆·马斯克与 OpenAI 诉讼案的庭审焦点",
+          "summary_short_zh": "庭审最后几天的一大焦点是 OpenAI 首席执行官 Sam Altman 是否值得信任",
+          "why_it_matters_zh": "这一行业动向见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "c12ddf7a04e1",
@@ -1877,7 +1931,11 @@
               "published_at": "2026-05-17T13:22:23-04:00"
             }
           ],
-          "route": "/hot/2026-05-18/topic/university-of-arizona-students-boo-eric-schmidt-s-ai-cheerleading-during-commencement/"
+          "route": "/hot/2026-05-18/topic/university-of-arizona-students-boo-eric-schmidt-s-ai-cheerleading-during-commencement/",
+          "headline_zh": "埃里克·施密特在毕业典礼上力挺 AI，遭亚利桑那大学学生喝倒彩",
+          "summary_short_zh": "谷歌前首席执行官埃里克·施密特在亚利桑那大学毕业典礼演讲中谈到 AI 时，遭到现场观众喝倒彩。这则报道关注的是公开演讲中 AI 相关言论引发的观众反感，而非产品或政策发布。",
+          "why_it_matters_zh": "这一行业动向见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "282629d171d5",
@@ -1915,7 +1973,11 @@
               "published_at": "2026-05-18T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-18/topic/when-does-automating-ai-research-produce-explosive-growth-feedback-loops-in-innovation-networks-nber/"
+          "route": "/hot/2026-05-18/topic/when-does-automating-ai-research-produce-explosive-growth-feedback-loops-in-innovation-networks-nber/",
+          "headline_zh": "AI 研究自动化何时会带来爆炸式增长？创新网络中的反馈回路（NBER）",
+          "summary_short_zh": "AI 研究自动化何时会带来爆炸式增长？创新网络中的反馈回路（NBER",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "e7918ee7ebd0",
@@ -1953,7 +2015,10 @@
               "published_at": "2026-05-18T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-18/topic/china-thwarts-meta-s-agentic-ambition-u-s-evaluates-upcoming-models-ai-diagnoses-mammograms/"
+          "route": "/hot/2026-05-18/topic/china-thwarts-meta-s-agentic-ambition-u-s-evaluates-upcoming-models-ai-diagnoses-mammograms/",
+          "headline_zh": "中国挫败 Meta 的智能体雄心，美国评估即将推出的模型，AI 用于乳腺 X 光影像诊断",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -1997,7 +2062,11 @@
               "published_at": "2026-05-17T15:37:07Z"
             }
           ],
-          "route": "/hot/2026-05-18/topic/show-hn-semble-code-search-for-agents-that-uses-98-fewer-tokens-than-grep/"
+          "route": "/hot/2026-05-18/topic/show-hn-semble-code-search-for-agents-that-uses-98-fewer-tokens-than-grep/",
+          "headline_zh": "Show HN：Semble，面向智能体的代码搜索工具，token 用量比 grep 少 98%",
+          "summary_short_zh": "Semble 在 Hacker News 上亮相，是一款面向智能体的代码搜索工具，宣称 token 用量比 grep 少 98%。这则介绍强调，其主要优势在于面向智能体的代码检索效率。",
+          "why_it_matters_zh": "这条工具消息见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     },
@@ -2041,7 +2110,11 @@
               "published_at": "2026-05-18T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-18/topic/syntax-without-semantics-teaching-large-language-models-to-code-in-an-unseen-language/"
+          "route": "/hot/2026-05-18/topic/syntax-without-semantics-teaching-large-language-models-to-code-in-an-unseen-language/",
+          "headline_zh": "有语法，无语义：教大语言模型用未见过的语言编程",
+          "summary_short_zh": "大语言模型（LLM）在代码生成基准测试中的通过率很高，但能否将这一能力迁移到预训练中未出现过的语言，目前仍不甚清楚。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "69198d13bced",
@@ -2079,7 +2152,11 @@
               "published_at": "2026-05-18T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-18/topic/phi-balancing-for-mixture-of-experts-training/"
+          "route": "/hot/2026-05-18/topic/phi-balancing-for-mixture-of-experts-training/",
+          "headline_zh": "混合专家模型训练中的 $\\phi$ 平衡",
+          "summary_short_zh": "混合专家（MoE）模型需要均衡利用各个专家，才能充分发挥其可扩展性。然而，现有负载均衡方法大多采用启发式策略，依赖含噪的小批量分配统计数据，因而相对于总体层面的目标引入了偏差。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "5e9f60d8bee9",
@@ -2117,7 +2194,11 @@
               "published_at": "2026-05-18T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-18/topic/a-few-gpus-a-whole-lotta-scale-faithful-llm-training-emulation-with-prismllm/"
+          "route": "/hot/2026-05-18/topic/a-few-gpus-a-whole-lotta-scale-faithful-llm-training-emulation-with-prismllm/",
+          "headline_zh": "少量 GPU，超大规模：用 PrismLLM 高保真模拟大语言模型训练",
+          "summary_short_zh": "如今，大语言模型（LLM）训练在由数千块 GPU 组成的集群上进行。这一规模推动了模型的快速发展，但也不可避免地使训练框架的开发、调试和性能调优变得复杂且成本高昂。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "47f727656316",
@@ -2155,7 +2236,11 @@
               "published_at": "2026-05-18T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-18/topic/agentic-discovery-of-neural-architectures-aira-compose-and-aira-design/"
+          "route": "/hot/2026-05-18/topic/agentic-discovery-of-neural-architectures-aira-compose-and-aira-design/",
+          "headline_zh": "智能体驱动的神经网络架构发现：AIRA-Compose 与 AIRA-Design",
+          "summary_short_zh": "为实现递归式自我改进，我们研究如何让大语言模型智能体自主设计超越标准 Transformer 架构的基础模型。我们提出双框架方案：AIRA-Compose 负责高层架构搜索，AIRA-Design 负责底层机制实现。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "aee64870c81a",
@@ -2193,7 +2278,11 @@
               "published_at": "2026-05-18T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-18/topic/bapr-bayesian-amnesic-piecewise-robust-reinforcement-learning-for-non-stationary-continuous-control/"
+          "route": "/hot/2026-05-18/topic/bapr-bayesian-amnesic-piecewise-robust-reinforcement-learning-for-non-stationary-continuous-control/",
+          "headline_zh": "BAPR：面向非平稳连续控制的贝叶斯遗忘式分段鲁棒强化学习",
+          "summary_short_zh": "现实中的控制系统常在\\emph{分段平稳}条件下运行，即系统动力学特性在较长时间内保持稳定，随后发生突变。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         }
       ]
     }
@@ -2239,7 +2328,10 @@
               "published_at": "2026-05-18T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-18/topic/meta-pivots-from-open-weights-big-pharma-bets-on-ai-regulatory-patchwork-simulating-human-cohorts/"
+          "route": "/hot/2026-05-18/topic/meta-pivots-from-open-weights-big-pharma-bets-on-ai-regulatory-patchwork-simulating-human-cohorts/",
+          "headline_zh": "Meta 放弃开放权重路线，制药巨头押注 AI，监管碎片化，模拟人群队列",
+          "why_it_matters_zh": "这则其他资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "e7b81a4720af",
@@ -2277,7 +2369,10 @@
               "published_at": "2026-05-18T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-18/topic/glm-5-1-thinks-strategically-data-center-revolt-intensifies-when-helpful-llms-turn-unhelpful-humanoid-robots-get-to-work/"
+          "route": "/hot/2026-05-18/topic/glm-5-1-thinks-strategically-data-center-revolt-intensifies-when-helpful-llms-turn-unhelpful-humanoid-robots-get-to-work/",
+          "headline_zh": "GLM 5.1 展现战略思维，反对数据中心的抗议升级，当大语言模型从有用变得无用，人形机器人上岗",
+          "why_it_matters_zh": "这则其他资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "d3b4c8ead07f",
@@ -2315,7 +2410,11 @@
               "published_at": "Mon, 18 May 2026 05:59:37 +0000"
             }
           ],
-          "route": "/hot/2026-05-18/topic/lecun-hinton-llm/"
+          "route": "/hot/2026-05-18/topic/lecun-hinton-llm/",
+          "headline_zh": "LeCun炮轰Hinton：他认可LLM就是想摆烂退休了！",
+          "summary_short_zh": "Lecun这次是真跟Hinton爆了….",
+          "why_it_matters_zh": "这则其他资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "6eb4311ad9a4",
@@ -2353,7 +2452,11 @@
               "published_at": "Mon, 18 May 2026 06:52:11 +0000"
             }
           ],
-          "route": "/hot/2026-05-18/topic/8b-iclr-2026/"
+          "route": "/hot/2026-05-18/topic/8b-iclr-2026/",
+          "headline_zh": "8B模型做生物实验：实验步骤顺序不乱、剂量无幻觉｜ICLR 2026",
+          "summary_short_zh": "超越GPT-4o",
+          "why_it_matters_zh": "这则其他资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "5a4c68a99d93",
@@ -2391,7 +2494,11 @@
               "published_at": "2026-05-17T15:59:41+00:00"
             }
           ],
-          "route": "/hot/2026-05-18/topic/gds-weighs-in-on-the-nhs-s-decision-to-retreat-from-open-source/"
+          "route": "/hot/2026-05-18/topic/gds-weighs-in-on-the-nhs-s-decision-to-retreat-from-open-source/",
+          "headline_zh": "GDS 就 NHS 放弃开源的决定发表评论",
+          "summary_short_zh": "<p><strong><a href=\" 就 NHS 放弃开源的决定发表评论</a></strong></p> Terence Eden 继续报道 NHS 的<a href=\" 深思熟虑的决定</a>：为回应收到的漏洞报告，关闭对其开源仓库的访问。这些报告是……的一部分",
+          "why_it_matters_zh": "这一行业举措见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "c8fb74f553b4",
@@ -2429,7 +2536,11 @@
               "published_at": "Sun, 17 May 2026 16:05:00 +0000"
             }
           ],
-          "route": "/hot/2026-05-18/topic/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/"
+          "route": "/hot/2026-05-18/topic/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/",
+          "headline_zh": "TechCrunch Mobility：AI 技能军备竞赛即将席卷汽车行业",
+          "summary_short_zh": "欢迎回到 TechCrunch Mobility，这里汇集有关未来交通出行的新闻与洞察",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "bf4ac5e16a89",
@@ -2467,7 +2578,11 @@
               "published_at": "Sun, 17 May 2026 16:32:04 +0000"
             }
           ],
-          "route": "/hot/2026-05-18/topic/if-you-re-giving-a-commencement-speech-in-2026-maybe-don-t-mention-ai/"
+          "route": "/hot/2026-05-18/topic/if-you-re-giving-a-commencement-speech-in-2026-maybe-don-t-mention-ai/",
+          "headline_zh": "如果你要在 2026 年的毕业典礼上致辞，或许还是别提 AI",
+          "summary_short_zh": "让毕业生对人工智能塑造的未来满怀期待，并不容易",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "585bee8b57c0",
@@ -2505,7 +2620,10 @@
               "published_at": "2026-05-18T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-18/topic/4-min-read-claude-automates-legal-and-small-biz-work/"
+          "route": "/hot/2026-05-18/topic/4-min-read-claude-automates-legal-and-small-biz-work/",
+          "headline_zh": "阅读需 4 分钟｜Claude 自动处理法律及小企业事务",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }

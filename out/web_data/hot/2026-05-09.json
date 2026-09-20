@@ -1424,7 +1424,16 @@
           "published_at": "2026-05-09T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-05-09/topic/bytedance-ships-seed-full-duplex-speech-llm-for-real-time-voice-interaction/"
+      "route": "/hot/2026-05-09/topic/bytedance-ships-seed-full-duplex-speech-llm-for-real-time-voice-interaction/",
+      "headline_zh": "字节跳动发布 Seed Full-Duplex Speech LLM，支持实时语音交互",
+      "summary_short_zh": "字节跳动 Seed 推出了 Seed Full-Duplex Speech LLM。该公司表示，该模型注重专注倾听、干扰抑制和更自然的交互。",
+      "why_it_matters_zh": "这向企业高管释放了明确信号：前沿 AI 竞争正从文本聊天转向低延迟、能应对打断的语音智能体。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "字节跳动 Seed 于 2026 年 4 月 9 日正式推出 Seed Full-Duplex Speech LLM，主打边听边说，而非常规的轮流对话式语音交互。",
+        "该产品宣称具备三项交互优势：专注倾听、强大的干扰抑制能力，以及在话语重叠和打断时更自然的对话节奏。",
+        "消息由字节跳动 Seed 直接发布，因此这份产品发布信息比二手评论或基准测试讨论帖更可信。"
+      ]
     },
     {
       "topic_id": "007696f3f449",
@@ -1464,7 +1473,14 @@
           "published_at": "Sat, 09 May 2026 02:08:59 +0000"
         }
       ],
-      "route": "/hot/2026-05-09/topic/200-deepseek-500-v4-1-6/"
+      "route": "/hot/2026-05-09/topic/200-deepseek-500-v4-1-6/",
+      "headline_zh": "梁文锋出资200亿！DeepSeek首轮创纪录融资500亿，V4.1定档6月",
+      "summary_short_zh": "量子位报道称，DeepSeek 正寻求创纪录的 500 亿元首轮融资，梁文锋将出资 200 亿元。报道还称，DeepSeek V4.1 计划于 6 月发布。",
+      "why_it_matters_zh": "有 1 个独立来源报道了这笔融资。",
+      "category_zh": "市场信号",
+      "key_takeaways_zh": [
+        "如果最终落地，这会是中国大模型公司有史以来最大的一轮融资"
+      ]
     },
     {
       "topic_id": "3b82556f0280",
@@ -1515,7 +1531,16 @@
           "published_at": "Fri, 08 May 2026 05:44:39 GMT"
         }
       ],
-      "route": "/hot/2026-05-09/topic/openai-publishes-running-codex-safely-at-openai-for-enterprise-coding-agent-deployment/"
+      "route": "/hot/2026-05-09/topic/openai-publishes-running-codex-safely-at-openai-for-enterprise-coding-agent-deployment/",
+      "headline_zh": "OpenAI 发布《在 OpenAI 安全运行 Codex》，介绍企业编程智能体部署",
+      "summary_short_zh": "OpenAI 介绍了如何通过沙箱、审批、网络策略和智能体原生遥测安全运行 Codex。文章阐述了支持更安全部署编程智能体的运行管控措施。",
+      "why_it_matters_zh": "此次发布的重要性在于，企业采用编程智能体时，治理和运行时管控将与模型质量同样重要。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "OpenAI 介绍了一套具体的 Codex 安全体系，包括沙箱、审批流程、网络策略和智能体原生遥测。",
+        "文章将 Codex 定位为执行实际任务的智能体系统，而非简单的自动补全工具，意味着它将在更严格的管控下执行长时间任务。",
+        "对于评估编程智能体的采购方，这份材料并非新的模型检查点，而是在受监管或安全敏感环境中合规部署的实施蓝图。"
+      ]
     },
     {
       "topic_id": "d83864b21047",
@@ -1555,7 +1580,14 @@
           "published_at": "2026-05-08T14:45:08-04:00"
         }
       ],
-      "route": "/hot/2026-05-09/topic/all-the-latest-updates-on-ai-data-centers/"
+      "route": "/hot/2026-05-09/topic/all-the-latest-updates-on-ai-data-centers/",
+      "headline_zh": "AI 数据中心最新动态汇总",
+      "summary_short_zh": "新建的大型数据中心为科技公司的 AI 愿景提供了物理基础。",
+      "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "新建的大型数据中心为科技公司的 AI 愿景提供了物理基础。但竞相扩建塞满高耗能服务器的机房，也在各地引发了争议……"
+      ]
     },
     {
       "topic_id": "c887c8f7198a",
@@ -1606,7 +1638,16 @@
           "published_at": "Fri, 08 May 2026 00:00:00 GMT"
         }
       ],
-      "route": "/hot/2026-05-09/topic/together-ai-details-deepseek-v4-serving-for-1m-token-context-on-nvidia-hgx-b200/"
+      "route": "/hot/2026-05-09/topic/together-ai-details-deepseek-v4-serving-for-1m-token-context-on-nvidia-hgx-b200/",
+      "headline_zh": "Together AI 详解 DeepSeek-V4 在 NVIDIA HGX B200 上的百万 token 上下文推理部署",
+      "summary_short_zh": "Together AI 发布博文，探讨为具有百万 token 上下文窗口的 DeepSeek-V4 提供推理服务的挑战。文章讨论了 NVIDIA HGX B200 系统上的推理技术，包括压缩 KV 布局、前缀缓存和计算内核成熟度。",
+      "why_it_matters_zh": "这在战略上具有参考价值，因为长上下文模型越来越受限于推理系统设计，而不仅是模型架构。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Together AI 的工程技术文章聚焦于为具备百万 token 上下文窗口的 DeepSeek-V4 提供推理服务，强调了超长上下文推理给基础设施带来的负担。",
+        "文章提到的具体推理服务技术包括压缩 KV 布局、前缀缓存、计算内核的完善，以及针对长上下文工作负载调优的端点配置。",
+        "文中提到的部署平台是 NVIDIA HGX B200，为基础设施团队评估类似长上下文模型的成本效益和性能提供了明确的硬件参考。"
+      ]
     }
   ],
   "category_sections": [
@@ -1650,7 +1691,11 @@
               "published_at": "2026-05-09T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-09/topic/openai-closes-reasoning-gap-in-voice-agents/"
+          "route": "/hot/2026-05-09/topic/openai-closes-reasoning-gap-in-voice-agents/",
+          "headline_zh": "OpenAI 缩小语音智能体的推理能力差距",
+          "summary_short_zh": "The Rundown AI 报道称，OpenAI 缩小了语音智能体的推理能力差距。标题表明语音智能体模型的能力有所提升，但该条目未提供更多细节。",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "0d13dd38de60",
@@ -1688,7 +1733,11 @@
               "published_at": "2026-05-08T08:15:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-09/topic/nanoleaf-bets-its-future-on-robots-red-light-therapy-and-ai/"
+          "route": "/hot/2026-05-09/topic/nanoleaf-bets-its-future-on-robots-red-light-therapy-and-ai/",
+          "headline_zh": "Nanoleaf 将未来押在机器人、红光疗法和 AI 上",
+          "summary_short_zh": "智能照明公司 Nanoleaf 最近鲜有动静。Govee 和 Philips Hue 等竞争对手正以惊人的速度推出新产品和创新功能，而 Nanoleaf 在过去两年仅推出了寥寥几款智能照明产品。",
+          "why_it_matters_zh": "此次产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "a3a3bc679e37",
@@ -1726,7 +1775,11 @@
               "published_at": "Fri, 08 May 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-05-09/topic/qwen3-6-27b-uncensored-heretic-v2-native-mtp-preserved-is-out-now-with-kld-0-0021-6-100-refusals-and-the-full-15-mtps-preserved-and-retained-available-in-safetensors-ggufs-and-nvfp4s-formats/"
+          "route": "/hot/2026-05-09/topic/qwen3-6-27b-uncensored-heretic-v2-native-mtp-preserved-is-out-now-with-kld-0-0021-6-100-refusals-and-the-full-15-mtps-preserved-and-retained-available-in-safetensors-ggufs-and-nvfp4s-formats/",
+          "headline_zh": "Qwen3.6 27B 无审查版 heretic v2 现已发布，完整保留全部 15 个原生 MTP，KLD 为 0.0021，拒答率为 6/100，提供 Safetensors、GGUF 和 NVFP4 格式。",
+          "summary_short_zh": "一篇社区帖子宣布，Qwen3.6 27B 无审查版 heretic v2 已发布，保留原生 MTP，提供 Safetensors、GGUF 和 NVFP4 格式。帖子还声称，模型在测试中的 KLD 较低，拒答率也有所下降。",
+          "why_it_matters_zh": "此次产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -1770,7 +1823,11 @@
               "published_at": "2026-05-08T11:25:02-04:00"
             }
           ],
-          "route": "/hot/2026-05-09/topic/microsoft-was-worried-openai-would-run-off-to-amazon-and-shit-talk-azure/"
+          "route": "/hot/2026-05-09/topic/microsoft-was-worried-openai-would-run-off-to-amazon-and-shit-talk-azure/",
+          "headline_zh": "微软曾担心 OpenAI 转投亚马逊并“说 Azure 的坏话”",
+          "summary_short_zh": "The Verge 援引法院文件报道称，微软早期曾担心 OpenAI 会与亚马逊合作并批评 Azure。报道揭示了微软与 OpenAI 建立合作关系期间的战略分歧。",
+          "why_it_matters_zh": "这一行业动向见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "60d90b8a8957",
@@ -1808,7 +1865,11 @@
               "published_at": "2026-05-09T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-09/topic/anthropic-spacex-ai-become-unlikely-compute-partners/"
+          "route": "/hot/2026-05-09/topic/anthropic-spacex-ai-become-unlikely-compute-partners/",
+          "headline_zh": "Anthropic 与 SpaceX(AI) 出人意料地成为算力合作伙伴",
+          "summary_short_zh": "标题称 Anthropic 与 SpaceX 已成为算力合作伙伴，摘要未提供更多运营或财务细节。",
+          "why_it_matters_zh": "这一行业动向见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "92293e6a8893",
@@ -1846,7 +1907,11 @@
               "published_at": "Fri, 08 May 2026 18:33:21 +0000"
             }
           ],
-          "route": "/hot/2026-05-09/topic/cloudflare-says-ai-made-1-100-jobs-obsolete-even-as-revenue-hit-a-record-high/"
+          "route": "/hot/2026-05-09/topic/cloudflare-says-ai-made-1-100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
+          "headline_zh": "Cloudflare 营收创下历史新高，却称 AI 已让 1,100 个岗位变得多余",
+          "summary_short_zh": "Cloudflare 宣布首次大规模裁员。首席执行官 Matthew Prince 表示，AI 提升了效率，公司不再需要那么多支持岗位。",
+          "why_it_matters_zh": "这一行业动向见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "e02e4541edb8",
@@ -1884,7 +1949,11 @@
               "published_at": "Fri, 08 May 2026 15:00:00 +0000"
             }
           ],
-          "route": "/hot/2026-05-09/topic/see-what-happens-when-creative-legends-use-ai-to-make-ads-for-small-businesses/"
+          "route": "/hot/2026-05-09/topic/see-what-happens-when-creative-legends-use-ai-to-make-ads-for-small-businesses/",
+          "headline_zh": "看看创意界大师用 AI 为小企业做广告的效果。",
+          "summary_short_zh": "Google AI 博客发表文章，展示创意行业领军人物如何用 AI 为小企业制作广告。文中人物包括 Susan Credle、Jayanta Jenkins 和 Tiffany Rolfe。",
+          "why_it_matters_zh": "这一行业动向见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "e7b81a4720af",
@@ -1922,7 +1991,10 @@
               "published_at": "2026-05-09T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-09/topic/glm-5-1-thinks-strategically-data-center-revolt-intensifies-when-helpful-llms-turn-unhelpful-humanoid-robots-get-to-work/"
+          "route": "/hot/2026-05-09/topic/glm-5-1-thinks-strategically-data-center-revolt-intensifies-when-helpful-llms-turn-unhelpful-humanoid-robots-get-to-work/",
+          "headline_zh": "GLM 5.1 展现战略思维，反对数据中心的浪潮加剧，当大语言模型不再帮得上忙，人形机器人上岗",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -1966,7 +2038,11 @@
               "published_at": "2026-05-08T12:30:56-04:00"
             }
           ],
-          "route": "/hot/2026-05-09/topic/playstation-sees-ai-as-a-powerful-tool-to-help-make-games/"
+          "route": "/hot/2026-05-09/topic/playstation-sees-ai-as-a-powerful-tool-to-help-make-games/",
+          "headline_zh": "PlayStation 将 AI 视为辅助游戏开发的“强大工具”",
+          "summary_short_zh": "索尼在周五的财报说明中分享了公司对 AI 的看法，并详细介绍了如何评估 AI 在 PlayStation 游戏开发中的应用。",
+          "why_it_matters_zh": "有 1 个独立来源提到了该工具。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "8c63fe337208",
@@ -2004,7 +2080,11 @@
               "published_at": "Fri, 08 May 2026 13:20:30 +0000"
             }
           ],
-          "route": "/hot/2026-05-09/topic/halliburton-enhances-seismic-workflow-creation-with-amazon-bedrock-and-generative-ai/"
+          "route": "/hot/2026-05-09/topic/halliburton-enhances-seismic-workflow-creation-with-amazon-bedrock-and-generative-ai/",
+          "headline_zh": "Halliburton 借助 Amazon Bedrock 和生成式 AI 改进地震勘探工作流的创建",
+          "summary_short_zh": "AWS 介绍了为 Halliburton 构建的一个概念验证系统，可将自然语言查询转换为可执行的地震勘探工作流。该系统还包含基于 Amazon Bedrock 和生成式 AI 组件构建的问答功能。",
+          "why_it_matters_zh": "有 1 个独立来源提到了该工具。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "db40750902f8",
@@ -2042,7 +2122,11 @@
               "published_at": "Fri, 08 May 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-05-09/topic/multi-token-prediction-mtp-for-llama-cpp-gemma-4-speedup-by-40/"
+          "route": "/hot/2026-05-09/topic/multi-token-prediction-mtp-for-llama-cpp-gemma-4-speedup-by-40/",
+          "headline_zh": "LLaMA.cpp 多词元预测（MTP）：Gemma 4 提速 40%",
+          "summary_short_zh": "llama.cpp 的一个修改版分支新增了多词元预测支持，并报告 Gemma 4 提速 40%。此次发布还提供了量化版 Gemma 4 辅助模型的 GGUF 文件，可用于本地推理。",
+          "why_it_matters_zh": "有 1 个独立来源提到了该工具。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "08a64510f460",
@@ -2086,7 +2170,11 @@
               "published_at": "Fri, 08 May 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-05-09/topic/vllm-rocm-has-been-added-to-lemonade-as-an-experimental-backend/"
+          "route": "/hot/2026-05-09/topic/vllm-rocm-has-been-added-to-lemonade-as-an-experimental-backend/",
+          "headline_zh": "Lemonade 新增 vLLM ROCm 实验性后端",
+          "summary_short_zh": "Lemonade 为 Linux 系统新增了基于 AMD ROCm 的 vLLM 实验性后端。此次更新为在 AMD GPU 基础设施上提供模型服务增加了后端选择。",
+          "why_it_matters_zh": "有 1 个独立来源提到了该工具。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "aa96420b2562",
@@ -2124,7 +2212,11 @@
               "published_at": "Fri, 08 May 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-05-09/topic/a-commenter-recommended-storybloq-described-as-a-claude-code-tool-that-adds-a-git-tracked-project-memory-and-governance-layer/"
+          "route": "/hot/2026-05-09/topic/a-commenter-recommended-storybloq-described-as-a-claude-code-tool-that-adds-a-git-tracked-project-memory-and-governance-layer/",
+          "headline_zh": "一位评论者推荐了 Storybloq，称这款 Claude Code 工具可添加由 Git 跟踪的项目记忆和治理层",
+          "summary_short_zh": "一位社区评论者推荐了 Storybloq，称这款 Claude Code 工具可添加由 Git 跟踪的项目记忆和治理层。帖子称，该工具支持对智能体的历次决策进行审计。",
+          "why_it_matters_zh": "有 1 个独立来源提到了该工具。",
+          "category_zh": "工具"
         }
       ]
     },
@@ -2168,7 +2260,11 @@
               "published_at": "Fri, 08 May 2026 02:00:00 -0700"
             }
           ],
-          "route": "/hot/2026-05-09/topic/adaptive-parallel-reasoning-the-next-paradigm-in-efficient-inference-scaling/"
+          "route": "/hot/2026-05-09/topic/adaptive-parallel-reasoning-the-next-paradigm-in-efficient-inference-scaling/",
+          "headline_zh": "自适应并行推理：高效推理扩展的新范式",
+          "summary_short_zh": "BAIR 发布了题为《自适应并行推理：高效推理扩展的新范式》的研究文章，介绍了一种通过自适应并行推理策略提升推理效率的方法。",
+          "why_it_matters_zh": "有 1 个独立来源提到了这篇研究论文。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "ee0d3c58af59",
@@ -2206,7 +2302,11 @@
               "published_at": "2026-05-08T11:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-09/topic/this-breakthrough-model-uses-1-000x-less-compute/"
+          "route": "/hot/2026-05-09/topic/this-breakthrough-model-uses-1-000x-less-compute/",
+          "headline_zh": "这款突破性模型的计算量仅为原来的千分之一",
+          "summary_short_zh": "Superhuman AI 介绍了一项模型相关突破，称其所需计算量仅为原来的千分之一。这则消息似乎在概述一项研究进展，但所提供的文本未指明具体模型或机构。",
+          "why_it_matters_zh": "有 1 个独立来源提到了这篇研究论文。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "d0e8c8222c5f",
@@ -2244,7 +2344,11 @@
               "published_at": "Fri, 08 May 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-05-09/topic/anthropic-published-one-of-the-day-s-most-important-alignment-threads/"
+          "route": "/hot/2026-05-09/topic/anthropic-published-one-of-the-day-s-most-important-alignment-threads/",
+          "headline_zh": "Anthropic 发布了当天最重要的对齐主题帖之一",
+          "summary_short_zh": "Anthropic 发布了题为《教 Claude 理解为什么》的系列帖和文章，讨论 Claude 4 的对齐行为。该公司表示，在某些条件下消除了此前观察到的勒索行为。",
+          "why_it_matters_zh": "有 1 个独立来源提到了这篇研究论文。",
+          "category_zh": "研究"
         }
       ]
     }
@@ -2290,7 +2394,11 @@
               "published_at": "Sat, 09 May 2026 03:01:52 +0000"
             }
           ],
-          "route": "/hot/2026-05-09/topic/ai/"
+          "route": "/hot/2026-05-09/topic/ai/",
+          "headline_zh": "打破科技数据壁垒！智会心研官宣：高级检索+AI深度分析，面向个人免费开放！",
+          "summary_short_zh": "智会心研面向个人用户免费开放高级检索与 AI 深度分析核心功能，涵盖专利 AI 检索、AI 伴读、图表分析及多智能体协作，助力研发与情报分析高效完成，降低技术创新门槛。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "1107ba64f0c7",
@@ -2328,7 +2436,11 @@
               "published_at": "Sat, 09 May 2026 03:11:20 +0000"
             }
           ],
-          "route": "/hot/2026-05-09/topic/5-1-6/"
+          "route": "/hot/2026-05-09/topic/5-1-6/",
+          "headline_zh": "百度发布文心 5.1：搜索能力登顶国内，预训练成本仅为业界 6%",
+          "summary_short_zh": "搜索、知识、Agent 能力全面提升",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "457f3785e6c8",
@@ -2366,7 +2478,11 @@
               "published_at": "Sat, 09 May 2026 04:50:55 +0000"
             }
           ],
-          "route": "/hot/2026-05-09/topic/3d-ai/"
+          "route": "/hot/2026-05-09/topic/3d-ai/",
+          "headline_zh": "行业首创空间3D显示，还能主动提醒和帮忙叫车，千问AI眼镜这操作真把我看愣了",
+          "summary_short_zh": "眼镜里的信息第一次「立」起来了",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "2dda66614744",
@@ -2404,7 +2520,11 @@
               "published_at": "Fri, 08 May 2026 22:59:05 +0000"
             }
           ],
-          "route": "/hot/2026-05-09/topic/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/"
+          "route": "/hot/2026-05-09/topic/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/",
+          "headline_zh": "Oracle 被裁员工试图协商更优厚的离职补偿，遭公司拒绝。",
+          "summary_short_zh": "一些员工发现，由于公司将他们归为远程员工，他们无法享受 WARN 法案规定的提前两个月通知等保障。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "8954570d14f0",
@@ -2442,7 +2562,11 @@
               "published_at": "Fri, 08 May 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-05-09/topic/enterprise-data-agents-are-emerging-as-a-distinct-category-from-coding-agents/"
+          "route": "/hot/2026-05-09/topic/enterprise-data-agents-are-emerging-as-a-distinct-category-from-coding-agents/",
+          "headline_zh": "企业数据智能体正逐渐成为有别于编程智能体的独立类别",
+          "summary_short_zh": "一则社交媒体综述将企业数据智能体描述为有别于编程智能体的新兴类别。文中引用了 Databricks 高管的讨论，介绍 Genie 如何从设计上应对数据工作的非确定性。",
+          "why_it_matters_zh": "这条行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "9b989ee145ee",
@@ -2480,7 +2604,11 @@
               "published_at": "Fri, 08 May 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-05-09/topic/cybersecurity-models-are-now-an-explicit-product-line/"
+          "route": "/hot/2026-05-09/topic/cybersecurity-models-are-now-an-explicit-product-line/",
+          "headline_zh": "网络安全模型现已成为明确的产品线",
+          "summary_short_zh": "一则综述指出，网络安全模型正成为独立的产品类别。文中引用了 OpenAI 关于帮助企业迅速加强自身安全防护的表述，将其解读为侧重企业和政府市场的信号。",
+          "why_it_matters_zh": "这条行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "96a8a2c3b904",
@@ -2518,7 +2646,11 @@
               "published_at": "2026-05-09T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-09/topic/artificial-intelligence-made-simple/"
+          "route": "/hot/2026-05-09/topic/artificial-intelligence-made-simple/",
+          "headline_zh": "轻松读懂人工智能",
+          "summary_short_zh": "Last Week in AI 发表了一篇题为《轻松读懂人工智能》的文章。内容看起来更像讲解或科普综述，而非新闻报道。",
+          "why_it_matters_zh": "这篇教程见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "563717c6b6ca",
@@ -2556,7 +2688,11 @@
               "published_at": "2026-05-08T21:00:11+00:00"
             }
           ],
-          "route": "/hot/2026-05-09/topic/using-claude-code-the-unreasonable-effectiveness-of-html/"
+          "route": "/hot/2026-05-09/topic/using-claude-code-the-unreasonable-effectiveness-of-html/",
+          "headline_zh": "使用 Claude Code：HTML 的惊人效用",
+          "summary_short_zh": "Simon Willison 重点介绍了 Thariq Shihipar 的文章《使用 Claude Code：HTML 的惊人效用》。文章围绕基于 HTML 的工作流，探讨了 Claude Code 的实际使用方式。",
+          "why_it_matters_zh": "这篇教程见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -2598,7 +2734,11 @@
           "published_at": "2026-05-04T02:20:05Z"
         }
       ],
-      "route": "/hot/2026-05-09/topic/joshawome-chainreason/"
+      "route": "/hot/2026-05-09/topic/joshawome-chainreason/",
+      "headline_zh": "joshawome/chainreason",
+      "summary_short_zh": "GitHub 仓库 chainreason 被介绍为一项基准，用于评估大语言模型在以太坊和 DeFi 任务中的推理能力。它定位为区块链相关推理性能的评测工具。",
+      "why_it_matters_zh": "这项工具见于 1 个独立来源。",
+      "category_zh": "工具"
     },
     {
       "topic_id": "5bc6561285ea",
@@ -2636,7 +2776,11 @@
           "published_at": "2026-05-04T02:37:55Z"
         }
       ],
-      "route": "/hot/2026-05-09/topic/butthtio-solidity-cot-auditor/"
+      "route": "/hot/2026-05-09/topic/butthtio-solidity-cot-auditor/",
+      "headline_zh": "butthtio/solidity-cot-auditor",
+      "summary_short_zh": "solidity-cot-auditor 仓库在 GitHub Trending 上受到关注。它基于 Slither 的输出，提供一套采用多角色思维链的大语言模型流水线，用于 Solidity 安全审计。",
+      "why_it_matters_zh": "这项工具见于 1 个独立来源。",
+      "category_zh": "工具"
     }
   ],
   "x_buzz": [

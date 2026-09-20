@@ -1270,7 +1270,11 @@
           "published_at": "Fri, 05 Jun 2026 11:26:00 +0000"
         }
       ],
-      "route": "/hot/2026-06-06/topic/unlocking-dependable-responses-with-gemini-enterprise-agent-platform-s-agentic-rag/"
+      "route": "/hot/2026-06-06/topic/unlocking-dependable-responses-with-gemini-enterprise-agent-platform-s-agentic-rag/",
+      "headline_zh": "借助 Gemini Enterprise Agent Platform 的 Agentic RAG，让回答更可靠",
+      "summary_short_zh": "数据管理",
+      "why_it_matters_zh": "此次产品发布信息来自 1 个独立来源。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "b02c97e78d6e",
@@ -1308,7 +1312,11 @@
           "published_at": "Fri, 05 Jun 2026 14:45:00 +0000"
         }
       ],
-      "route": "/hot/2026-06-06/topic/the-latest-ai-news-we-announced-in-may-2026/"
+      "route": "/hot/2026-06-06/topic/the-latest-ai-news-we-announced-in-may-2026/",
+      "headline_zh": "我们在 2026 年 5 月发布的最新 AI 动态",
+      "summary_short_zh": "5 月 AI 动态回顾",
+      "why_it_matters_zh": "此次产品发布信息来自 1 个独立来源。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "fe32d103860a",
@@ -1348,7 +1356,14 @@
           "published_at": "2026-06-03T18:55:02Z"
         }
       ],
-      "route": "/hot/2026-06-06/topic/tastyeffectco-sandboxes/"
+      "route": "/hot/2026-06-06/topic/tastyeffectco-sandboxes/",
+      "headline_zh": "tastyeffectco/sandboxes",
+      "summary_short_zh": "自托管开发沙箱，提供预览 URL。一条命令即可启动，无需 Kubernetes，非常适合编程智能体和 SaaS 工厂",
+      "why_it_matters_zh": "此次产品发布信息来自 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "自托管开发沙箱，提供预览 URL。一条命令即可启动，无需 Kubernetes，非常适合编程智能体和 SaaS 工厂"
+      ]
     },
     {
       "topic_id": "aac9af16970e",
@@ -1386,7 +1401,11 @@
           "published_at": "2026-06-05T23:56:40+00:00"
         }
       ],
-      "route": "/hot/2026-06-06/topic/openai-help-lockdown-mode/"
+      "route": "/hot/2026-06-06/topic/openai-help-lockdown-mode/",
+      "headline_zh": "OpenAI 帮助：锁定模式",
+      "summary_short_zh": "<p><strong><a href=\" 帮助：锁定模式</a></strong></p> OpenAI 早在 <a href=\" 2 月</a>就预告过这一功能，如今已上线，并“正逐步向符合条件的个人账户（包括 Free、Go、Plus 和 Pro）以及自助开通的 ChatGPT Business 账户开放”：</p> <blockquote> <p>锁定模式旨在",
+      "why_it_matters_zh": "此次产品发布信息来自 1 个独立来源。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "91f0b5809259",
@@ -1424,7 +1443,11 @@
           "published_at": "2026-06-06T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-06-06/topic/biohub-releases-a-world-model-of-protein-biology-biohub/"
+      "route": "/hot/2026-06-06/topic/biohub-releases-a-world-model-of-protein-biology-biohub/",
+      "headline_zh": "Biohub 发布蛋白质生物学世界模型（biohub）",
+      "summary_short_zh": "Biohub 发布蛋白质生物学世界模型（biohub",
+      "why_it_matters_zh": "此次产品发布信息来自 1 个独立来源。",
+      "category_zh": "产品发布"
     }
   ],
   "category_sections": [
@@ -1468,7 +1491,10 @@
               "published_at": "2026-06-05T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-06-06/topic/cerebras-brings-trillion-parameter-inference-to-enterprises-with-kimi-k2-6/"
+          "route": "/hot/2026-06-06/topic/cerebras-brings-trillion-parameter-inference-to-enterprises-with-kimi-k2-6/",
+          "headline_zh": "Cerebras 借助 Kimi K2.6 为企业提供万亿参数模型推理能力 >>",
+          "why_it_matters_zh": "此次产品发布信息来自 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "739a0dde7e4e",
@@ -1506,7 +1532,11 @@
               "published_at": "2026-06-05T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-06-06/topic/which-is-faster-gemini-3-5-flash-or-kimi-k2-6-on-cerebras/"
+          "route": "/hot/2026-06-06/topic/which-is-faster-gemini-3-5-flash-or-kimi-k2-6-on-cerebras/",
+          "headline_zh": "Gemini 3.5 Flash 和运行在 Cerebras 上的 Kimi K2.6，哪个更快？",
+          "summary_short_zh": "2026 年 6 月 5 日",
+          "why_it_matters_zh": "此次产品发布信息来自 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "a7d970deeb59",
@@ -1544,7 +1574,11 @@
               "published_at": "Fri, 05 Jun 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-06-06/topic/cursor-design-mode/"
+          "route": "/hot/2026-06-06/topic/cursor-design-mode/",
+          "headline_zh": "Cursor 设计模式",
+          "summary_short_zh": "@cursor_ai 推出了多模态 UI 编辑功能，支持点选、绘图或语音操作",
+          "why_it_matters_zh": "此次产品发布信息来自 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "8290605e2ed0",
@@ -1582,7 +1616,11 @@
               "published_at": "Fri, 05 Jun 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-06-06/topic/hermes-agent-had-a-full-stack-product-week/"
+          "route": "/hot/2026-06-06/topic/hermes-agent-had-a-full-stack-product-week/",
+          "headline_zh": "Hermes Agent 本周产品建设全面推进",
+          "summary_short_zh": "Teknium 展示了如何用 Hermes Agent 开发 Hermes Agent，并在本周持续推进插件支持、文档完善和内容整理（插件指南、开发者体验讨论串）。",
+          "why_it_matters_zh": "此次产品发布获 1 个独立来源报道。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "44aa8717c41a",
@@ -1620,7 +1658,11 @@
               "published_at": "Fri, 05 Jun 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-06-06/topic/ideogram-4-stood-out-in-image-generation-because-it-is-both-strong-and-open-weight/"
+          "route": "/hot/2026-06-06/topic/ideogram-4-stood-out-in-image-generation-because-it-is-both-strong-and-open-weight/",
+          "headline_zh": "Ideogram 4 凭借出色性能和开放权重，在图像生成领域脱颖而出",
+          "summary_short_zh": "ideogram_ai 发布技术博客，介绍了 Ideogram 4.0：一个从零训练的 93 亿参数扩散 Transformer，采用冻结的 80 亿参数 VLM 文本编码器。此次还发布了 fp8 和 nf4 检查点，其中 nf4 版本可在单张 24GB 显存的 GPU 上运行（后续说明）。",
+          "why_it_matters_zh": "此次产品发布获 1 个独立来源报道。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -1664,7 +1706,11 @@
               "published_at": "Fri, 05 Jun 2026 18:57:20 +0000"
             }
           ],
-          "route": "/hot/2026-06-06/topic/google-will-pay-spacex-920m-per-month-for-compute/"
+          "route": "/hot/2026-06-06/topic/google-will-pay-spacex-920m-per-month-for-compute/",
+          "headline_zh": "Google 将每月向 SpaceX 支付 9.2 亿美元购买算力",
+          "summary_short_zh": "Google 代表在声明中表示，公司近期推出的 AI 产品需求超出预期，促成了这项交易。",
+          "why_it_matters_zh": "这笔融资获 1 个独立来源报道。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "3818b72a91db",
@@ -1702,7 +1748,11 @@
               "published_at": "Fri, 05 Jun 2026 17:17:06 +0000"
             }
           ],
-          "route": "/hot/2026-06-06/topic/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/"
+          "route": "/hot/2026-06-06/topic/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/",
+          "headline_zh": "当下最有意思的初创公司想让你放下手机",
+          "summary_short_zh": "AI 融资额屡创新高，但一些创始人正在探索另一条路。Mirror 创始人 Brynn Putnam 刚为 Board 筹得资金，这家初创公司专注于通过线下游戏和社交体验让人们相聚。Cyberdeck",
+          "why_it_matters_zh": "这笔融资获 1 个独立来源报道。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "b156332a3e6c",
@@ -1740,7 +1790,11 @@
               "published_at": "Fri, 05 Jun 2026 14:00:00 +0000"
             }
           ],
-          "route": "/hot/2026-06-06/topic/the-together-tech-wave-might-be-the-most-intriguing-startup-bet-of-2026/"
+          "route": "/hot/2026-06-06/topic/the-together-tech-wave-might-be-the-most-intriguing-startup-bet-of-2026/",
+          "headline_zh": "“相聚科技”浪潮或许是 2026 年最有意思的创业方向",
+          "summary_short_zh": "AI 融资额屡创新高，但一些创始人正在探索另一条路。Mirror 创始人 Brynn Putnam 刚为 Board 筹得资金，这家初创公司专注于通过线下游戏和社交体验让人们相聚。Cyberdeck",
+          "why_it_matters_zh": "这笔融资获 1 个独立来源报道。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -1784,7 +1838,10 @@
               "published_at": "2026-06-06T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-06/topic/import-ai-459-ai-oversight-is-difficult-scaling-laws-for-protein-folding-models-and-pricing-the-extinction-risk-of-ai-systems/"
+          "route": "/hot/2026-06-06/topic/import-ai-459-ai-oversight-is-difficult-scaling-laws-for-protein-folding-models-and-pricing-the-extinction-risk-of-ai-systems/",
+          "headline_zh": "Import AI 第 459 期：AI 监管困难重重；蛋白质折叠模型的缩放定律；为 AI 系统带来的灭绝风险定价",
+          "why_it_matters_zh": "这则其他类资讯获 1 个独立来源报道。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "1916d3d731bc",
@@ -1822,7 +1879,11 @@
               "published_at": "2026-06-06T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-06/topic/where-is-ai-in-gdp-statistics-piie/"
+          "route": "/hot/2026-06-06/topic/where-is-ai-in-gdp-statistics-piie/",
+          "headline_zh": "AI 在 GDP 统计中体现在哪里？（PIIE）",
+          "summary_short_zh": "AI 在 GDP 统计中体现在哪里？（PIIE",
+          "why_it_matters_zh": "这则其他类资讯获 1 个独立来源报道。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "1f7d8532866a",
@@ -1860,7 +1921,11 @@
               "published_at": "Sat, 06 Jun 2026 03:35:47 +0000"
             }
           ],
-          "route": "/hot/2026-06-06/topic/ai/"
+          "route": "/hot/2026-06-06/topic/ai/",
+          "headline_zh": "港股鞋王千百度，一夜完成AI数据公司转型",
+          "summary_short_zh": "形成「鞋履+人工智能数据」双主业",
+          "why_it_matters_zh": "这则其他类资讯获 1 个独立来源报道。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "4510dbbc585f",
@@ -1898,7 +1963,11 @@
               "published_at": "Fri, 05 Jun 2026 16:10:00 -0400"
             }
           ],
-          "route": "/hot/2026-06-06/topic/the-crucial-human-component-in-computing-and-ai/"
+          "route": "/hot/2026-06-06/topic/the-crucial-human-component-in-computing-and-ai/",
+          "headline_zh": "计算与 AI 中至关重要的人类因素",
+          "summary_short_zh": "麻省理工学院计算伦理研究研讨会汇聚了专注于科技伦理与社会影响的专家和研究人员",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "eaf22b1de586",
@@ -1936,7 +2005,11 @@
               "published_at": "2026-06-05T12:39:07-04:00"
             }
           ],
-          "route": "/hot/2026-06-06/topic/this-is-your-laptop-on-ai/"
+          "route": "/hot/2026-06-06/topic/this-is-your-laptop-on-ai/",
+          "headline_zh": "这就是你的笔记本电脑……用上 AI 之后的样子",
+          "summary_short_zh": "开发者大会季已经进行了一段时间，其中反复出现的一个主题是：科技巨头始终坚信，AI 将彻底改变我们做一切事情的方式。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -1980,7 +2053,11 @@
               "published_at": "2026-06-06T03:53:34+00:00"
             }
           ],
-          "route": "/hot/2026-06-06/topic/running-python-code-in-a-sandbox-with-micropython-and-wasm/"
+          "route": "/hot/2026-06-06/topic/running-python-code-in-a-sandbox-with-micropython-and-wasm/",
+          "headline_zh": "使用 MicroPython 和 WASM 在沙箱中运行 Python 代码",
+          "summary_short_zh": "<p>这几年，我一直在尝试用不同的方法在沙箱中运行代码，而最近这次尝试似乎终于具备了我一直想要的所有特性。",
+          "why_it_matters_zh": "这条工具类资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "e427b01d3d99",
@@ -2018,7 +2095,11 @@
               "published_at": "2026-06-05T09:57:31-04:00"
             }
           ],
-          "route": "/hot/2026-06-06/topic/this-ai-startup-says-it-can-tell-if-a-script-will-make-a-hit-film/"
+          "route": "/hot/2026-06-06/topic/this-ai-startup-says-it-can-tell-if-a-script-will-make-a-hit-film/",
+          "headline_zh": "这家 AI 初创公司称，能判断剧本能否拍成卖座电影",
+          "summary_short_zh": "今年早些时候，Quilty 登上行业媒体时，这家 AI 初创公司承诺，其工具只需阅读剧本，就能准确预测一部电影能否成功。然而，人们真正试用 Quilty 的产品后，却心存疑虑。",
+          "why_it_matters_zh": "这条工具类资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "5919d609134f",
@@ -2056,7 +2137,10 @@
               "published_at": "2026-06-05T09:10:42Z"
             }
           ],
-          "route": "/hot/2026-06-06/topic/show-hn-lowfat-pluggable-cli-filter-that-saved-91-8-of-my-llm-tokens/"
+          "route": "/hot/2026-06-06/topic/show-hn-lowfat-pluggable-cli-filter-that-saved-91-8-of-my-llm-tokens/",
+          "headline_zh": "Show HN：Lowfat，可插拔命令行过滤器，让我的 LLM 词元用量减少了 91.8%",
+          "why_it_matters_zh": "这条工具类资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     }
@@ -2102,7 +2186,11 @@
               "published_at": "Fri, 05 Jun 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-06-06/topic/recursive-self-improvement-moved-from-vague-theory-to-explicit-org-strategy/"
+          "route": "/hot/2026-06-06/topic/recursive-self-improvement-moved-from-vague-theory-to-explicit-org-strategy/",
+          "headline_zh": "递归自我改进已从模糊理论变成明确的组织战略",
+          "summary_short_zh": "Sakana AI 在东京成立了专门的 RSI Lab，将 The AI Scientist、Darwin Gödel Machine 和 ShinkaEvolve 等既有项目整合起来，并明确表示，即使算力受限，也能构建自我改进系统，不必依赖超大规模算力。",
+          "why_it_matters_zh": "这条产品发布资讯见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "f6ac683cce84",
@@ -2140,7 +2228,11 @@
               "published_at": "Fri, 05 Jun 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-06-06/topic/platform-security-incidents-still-matter-because-they-reveal-failure-modes/"
+          "route": "/hot/2026-06-06/topic/platform-security-incidents-still-matter-because-they-reveal-failure-modes/",
+          "headline_zh": "平台与安全事件依然重要，因为它们揭示了失效模式",
+          "summary_short_zh": "OpenAI 发生过账户停用事件，并公开承认了此事。客服人员随后表示，大多数账户及订阅已恢复（reach_vb）。",
+          "why_it_matters_zh": "这条产品发布资讯见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2184,7 +2276,11 @@
               "published_at": "Fri, 05 Jun 2026 20:00:00 +0000"
             }
           ],
-          "route": "/hot/2026-06-06/topic/startup-battlefield-200-applications-officially-close-in-3-days/"
+          "route": "/hot/2026-06-06/topic/startup-battlefield-200-applications-officially-close-in-3-days/",
+          "headline_zh": "Startup Battlefield 200 报名将在 3 天后正式截止",
+          "summary_short_zh": "Startup Battlefield 200 报名将于太平洋时间 6 月 8 日 23:59 正式截止。别再等了，抓住登上 Disrupt 舞台参赛的机会。今年 10 月，TechCrunch Disrupt 2026 将在旧金山 Moscone West 举行。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "4a01ab1c9175",
@@ -2222,7 +2318,11 @@
               "published_at": "Fri, 05 Jun 2026 15:40:48 +0000"
             }
           ],
-          "route": "/hot/2026-06-06/topic/the-fitbit-air-is-a-good-wearable-weighed-down-by-a-chatty-ai-coach/"
+          "route": "/hot/2026-06-06/topic/the-fitbit-air-is-a-good-wearable-weighed-down-by-a-chatty-ai-coach/",
+          "headline_zh": "Fitbit Air 是款不错的可穿戴设备，却被唠叨的 AI“教练”拖了后腿",
+          "summary_short_zh": "Air 是款简约可靠的出色健身追踪器，但 Google 的 AI 健康教练显得多余",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "2fd398272ccf",
@@ -2260,7 +2360,11 @@
               "published_at": "Fri, 05 Jun 2026 14:49:12 +0000"
             }
           ],
-          "route": "/hot/2026-06-06/topic/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ai-s-runaway-costs/"
+          "route": "/hot/2026-06-06/topic/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ai-s-runaway-costs/",
+          "headline_zh": "Token 账单来了：业界如何紧急应对失控的 AI 成本",
+          "summary_short_zh": "“大家的讨论从‘尽可能多用 Token’和‘全速推进’，转向了‘我们需要约束机制，该怎么控制？’”",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "ea44587749d1",
@@ -2298,7 +2402,10 @@
               "published_at": "Fri, 05 Jun 2026 09:40:44 +0000"
             }
           ],
-          "route": "/hot/2026-06-06/topic/ai/"
+          "route": "/hot/2026-06-06/topic/ai/",
+          "headline_zh": "国星宇航与腾讯云签署“星算”计划战略合作协议，携手领航AI云服务新生态",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "ebadd9e810eb",
@@ -2336,7 +2443,10 @@
               "published_at": "Fri, 05 Jun 2026 10:46:59 +0000"
             }
           ],
-          "route": "/hot/2026-06-06/topic/agentic-ai/"
+          "route": "/hot/2026-06-06/topic/agentic-ai/",
+          "headline_zh": "华为云发布Agentic AI系列新品 打造智能时代“硅基黑土地”",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "265cb19edf0a",
@@ -2374,7 +2484,11 @@
               "published_at": "Fri, 05 Jun 2026 10:53:01 +0000"
             }
           ],
-          "route": "/hot/2026-06-06/topic/science-brain/"
+          "route": "/hot/2026-06-06/topic/science-brain/",
+          "headline_zh": "智源&清华合作成果登上Science：脑科学多模态基础模型Brainμ支撑揭示“记忆-睡眠”调控的神经机制",
+          "summary_short_zh": "研究表明，睡眠中的记忆重激活参与调控睡眠动态，为理解“记忆-睡眠”双向作用机制提供了新的实验证据。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -2416,7 +2530,11 @@
           "published_at": "2026-06-02T23:15:18Z"
         }
       ],
-      "route": "/hot/2026-06-06/topic/zaydmulani09-mnemo/"
+      "route": "/hot/2026-06-06/topic/zaydmulani09-mnemo/",
+      "headline_zh": "zaydmulani09/mnemo",
+      "summary_short_zh": "面向任意 LLM 的本地优先 AI 记忆层。支持持久化知识图谱、实体提取和语义检索。可搭配 Ollama、OpenAI、Anthropic 或任何兼容 OpenAI 的后端使用",
+      "why_it_matters_zh": "这款工具见于 1 个独立来源。",
+      "category_zh": "工具"
     }
   ],
   "x_buzz": [

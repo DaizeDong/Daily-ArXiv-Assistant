@@ -2190,7 +2190,16 @@
           "source_name": "ByteDance Seed"
         }
       ],
-      "route": "/hot/2026-04-06/topic/bytedance-ships-seed-2-0-and-opens-dola-seed-2-0-preview-on-arena/"
+      "route": "/hot/2026-04-06/topic/bytedance-ships-seed-2-0-and-opens-dola-seed-2-0-preview-on-arena/",
+      "headline_zh": "字节跳动发布 Seed 2.0，并在 Arena 上开放 Dola-Seed-2.0-Preview",
+      "summary_short_zh": "字节跳动 Seed 正式推出 Seed 2.0。这一公告标志着公司新一代基础模型正式发布。",
+      "why_it_matters_zh": "字节跳动正式发布模型，清楚表明这家资金雄厚、分发能力强大的超大规模消费互联网平台，仍在持续投入前沿模型研发。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "字节跳动 Seed 通过公司官方公告，正式发布新一代基础模型 Seed 2.0。",
+        "公司还将 Dola-Seed-2.0-Preview 上线 Arena，为外界提供早期公开评测渠道，而非仅作封闭发布。",
+        "同一系列公告还包括字节跳动 Seed 的 2027 年基础模型校园招聘计划，表明此次发布伴随着持续的人才扩张，并非一次性演示。"
+      ]
     },
     {
       "topic_id": "4389d945103d",
@@ -2236,7 +2245,16 @@
           "source_name": "Hugging Face Trending Papers"
         }
       ],
-      "route": "/hot/2026-04-06/topic/agentscope-1-0-releases-as-a-developer-framework-for-agentic-applications/"
+      "route": "/hot/2026-04-06/topic/agentscope-1-0-releases-as-a-developer-framework-for-agentic-applications/",
+      "headline_zh": "AgentScope 1.0 发布：面向开发者的智能体应用框架",
+      "summary_short_zh": "AgentScope 1.0 是面向开发者的智能体应用构建框架，为在实际工作流中结合大语言模型推理与工具调用提供基础设施。",
+      "why_it_matters_zh": "智能体基础设施的战略地位日益凸显。AgentScope 1.0 面向多智能体系统开发团队，满足其超越原型编排阶段的规模化扩展需求。",
+      "category_zh": "研究",
+      "key_takeaways_zh": [
+        "AgentScope 1.0 定位为以开发者为中心的智能体应用构建框架，而不只是用于孤立基准测试的研究演示。",
+        "相关研究《AgentScope 中的超大规模多智能体仿真》将可扩展性和效率列为核心设计目标，着力解决现有多智能体平台的瓶颈。",
+        "该框架明确面向结合大语言模型推理与动态工具调用的智能体，契合当前企业从聊天界面转向工作流执行系统的趋势。"
+      ]
     },
     {
       "topic_id": "5c3f17089a70",
@@ -2277,7 +2295,16 @@
           "source_name": "Simon Willison's Blog"
         }
       ],
-      "route": "/hot/2026-04-06/topic/google-launches-ai-edge-gallery-for-on-device-gemma-4-and-gemma-3-models/"
+      "route": "/hot/2026-04-06/topic/google-launches-ai-edge-gallery-for-on-device-gemma-4-and-gemma-3-models/",
+      "headline_zh": "Google 推出 AI Edge Gallery，支持在设备端运行 Gemma 4 和 Gemma 3 模型",
+      "summary_short_zh": "Google AI Edge Gallery 是 Google 官方推出的应用，主打在设备端运行 AI 模型。该帖称，这款移动应用可通过苹果 App Store 下载。",
+      "why_it_matters_zh": "Google 正将消费设备上的本地推理产品化，这有助于满足隐私敏感场景的部署需求、降低推理服务成本，并推动 Gemma 作为边缘 AI 技术栈获得更广泛应用。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "根据所引用的 App Store 页面及分析，AI Edge Gallery 是 Google 官方应用，可让 Gemma 模型直接在手机上运行。",
+        "该应用支持 Gemma 4 的 E2B、E4B 版本及部分 Gemma 3 系列模型，为 Google 的开放模型系列提供了实际分发渠道。",
+        "此次发布将原本需要开发者手动下载的 Gemma 模型系列，封装成面向终端用户的应用体验，有望加快离线和低延迟 AI 场景的探索。"
+      ]
     },
     {
       "topic_id": "9e04282362f7",
@@ -2316,7 +2343,14 @@
           "source_name": "Hugging Face Trending Papers"
         }
       ],
-      "route": "/hot/2026-04-06/topic/efficient-memory-management-for-large-language-model-serving-with-pagedattention/"
+      "route": "/hot/2026-04-06/topic/efficient-memory-management-for-large-language-model-serving-with-pagedattention/",
+      "headline_zh": "利用 PagedAttention 实现大语言模型推理服务的高效内存管理",
+      "summary_short_zh": "本文提出 PagedAttention，一种提升大语言模型推理服务效率的内存管理方法，重点通过优化批量推理中的 KV 缓存内存管理来提高吞吐量。",
+      "why_it_matters_zh": "有 1 个独立来源提及这篇研究论文。",
+      "category_zh": "研究",
+      "key_takeaways_zh": [
+        "大语言模型（LLM）要实现高吞吐量推理服务，需要每次批量处理足够多的请求。然而，现有系统仍面临困难，因为键值缓存（KV 缓存）的内存……"
+      ]
     },
     {
       "topic_id": "41cb1f01cba2",
@@ -2355,7 +2389,14 @@
           "source_name": "Selected arXiv Papers"
         }
       ],
-      "route": "/hot/2026-04-06/topic/aligning-progress-and-feasibility-a-neuro-symbolic-dual-memory-framework-for-long-horizon-llm-agents/"
+      "route": "/hot/2026-04-06/topic/aligning-progress-and-feasibility-a-neuro-symbolic-dual-memory-framework-for-long-horizon-llm-agents/",
+      "headline_zh": "对齐进展与可行性：面向长程 LLM 智能体的神经符号双记忆框架",
+      "summary_short_zh": "大语言模型（LLM）在具身操作、网页交互等长程决策任务中展现出巨大潜力。然而，在复杂环境中，智能体常常陷入无休止的试错循环，或偏离主要目标。",
+      "why_it_matters_zh": "有 1 个独立来源提及这篇研究论文。",
+      "category_zh": "研究",
+      "key_takeaways_zh": [
+        "大语言模型（LLM）在具身操作、网页交互等长程决策任务中展现出巨大潜力。然而，智能体常常受困于……"
+      ]
     }
   ],
   "category_sections": [
@@ -2398,7 +2439,10 @@
               "source_name": "The Rundown AI"
             }
           ],
-          "route": "/hot/2026-04-06/topic/openai-s-new-122b-funding-superapp/"
+          "route": "/hot/2026-04-06/topic/openai-s-new-122b-funding-superapp/",
+          "headline_zh": "OpenAI 新获 1220 亿美元融资，“超级应用”",
+          "why_it_matters_zh": "这条融资消息见于 1 个独立来源。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -2441,7 +2485,11 @@
               "source_name": "The Verge AI"
             }
           ],
-          "route": "/hot/2026-04-06/topic/suno-is-a-music-copyright-nightmare/"
+          "route": "/hot/2026-04-06/topic/suno-is-a-music-copyright-nightmare/",
+          "headline_zh": "Suno 是音乐版权的噩梦",
+          "summary_short_zh": "AI 音乐平台 Suno 规定，不允许使用受版权保护的内容。你可以上传自己的曲目进行混音，或为原创歌词配上 AI 生成的音乐。不过，平台理应识别并阻止你使用他人的歌曲和歌词。",
+          "why_it_matters_zh": "这一行业动向见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "1ed2141f2eee",
@@ -2478,7 +2526,11 @@
               "source_name": "Import AI"
             }
           ],
-          "route": "/hot/2026-04-06/topic/hyperagents-here-facebook-research-hyperagents/"
+          "route": "/hot/2026-04-06/topic/hyperagents-here-facebook-research-hyperagents/",
+          "headline_zh": "HyperAgents 见此处（Facebook Research，HyperAgents）",
+          "summary_short_zh": "HyperAgents 见此处（Facebook Research，HyperAgents",
+          "why_it_matters_zh": "这条消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "c9ab1758027f",
@@ -2515,7 +2567,10 @@
               "source_name": "Import AI"
             }
           ],
-          "route": "/hot/2026-04-06/topic/import-ai-450-china-s-electronic-warfare-model-traumatized-llms-and-a-scaling-law-for-cyberattacks/"
+          "route": "/hot/2026-04-06/topic/import-ai-450-china-s-electronic-warfare-model-traumatized-llms-and-a-scaling-law-for-cyberattacks/",
+          "headline_zh": "Import AI 第 450 期：中国的电子战模型、遭受心理创伤的大语言模型与网络攻击的缩放定律",
+          "why_it_matters_zh": "这条消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "fb51848ab2e0",
@@ -2552,7 +2607,11 @@
               "source_name": "量子位 (QbitAI)"
             }
           ],
-          "route": "/hot/2026-04-06/topic/ai/"
+          "route": "/hot/2026-04-06/topic/ai/",
+          "headline_zh": "AI创业，已经没有“出海”这个词了丨量子位沙龙",
+          "summary_short_zh": "你的AI产品，从Day0起就应具备“全球原生基因”",
+          "why_it_matters_zh": "这条消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "6b545eea356e",
@@ -2589,7 +2648,11 @@
               "source_name": "量子位 (QbitAI)"
             }
           ],
-          "route": "/hot/2026-04-06/topic/openai-ipo/"
+          "route": "/hot/2026-04-06/topic/openai-ipo/",
+          "headline_zh": "OpenAI又曝出内讧了！IPO前夜高层大换血",
+          "summary_short_zh": "网友：感觉他们今年不可能上市了",
+          "why_it_matters_zh": "这条消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -2646,7 +2709,11 @@
               "source_name": "GitHub Trending Repos"
             }
           ],
-          "route": "/hot/2026-04-06/topic/engineering-the-subconscious-why-claude-code-isn-t-enough-to-build-ai-systems/"
+          "route": "/hot/2026-04-06/topic/engineering-the-subconscious-why-claude-code-isn-t-enough-to-build-ai-systems/",
+          "headline_zh": "潜意识工程：为什么仅靠 Claude Code 不足以构建 AI 系统",
+          "summary_short_zh": "AI21 Labs 发布博文，认为仅靠 Claude Code 不足以构建 AI 系统。这是一篇关于 AI 工程方法的评论文章。",
+          "why_it_matters_zh": "这条工具资讯见于 5 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "669e05c4de86",
@@ -2683,7 +2750,11 @@
               "source_name": "Simon Willison's Blog"
             }
           ],
-          "route": "/hot/2026-04-06/topic/syntaqlite-playground/"
+          "route": "/hot/2026-04-06/topic/syntaqlite-playground/",
+          "headline_zh": "Syntaqlite Playground",
+          "summary_short_zh": "<p><strong>工具：</strong> <a href=\" Playground</a></p> <p>Lalit Maganti 的 <a href=\" 最近在 <a href=\" Hacker News</a> 上引发讨论，起因是 <a href=\" 多年的心愿，三个月用 AI 实现</a> 一文深入介绍了它的开发过程。</p> <p>这让我想重新看看 <a href=\"",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "c2be6a1b5835",
@@ -2720,7 +2791,11 @@
               "source_name": "Simon Willison's Blog"
             }
           ],
-          "route": "/hot/2026-04-06/topic/eight-years-of-wanting-three-months-of-building-with-ai/"
+          "route": "/hot/2026-04-06/topic/eight-years-of-wanting-three-months-of-building-with-ai/",
+          "headline_zh": "八年的心愿，三个月用 AI 实现",
+          "summary_short_zh": "<p><strong><a href=\" 多年的心愿，三个月用 AI 实现</a></strong></p> Lalit Maganti 写的这篇智能体工程长文，是我很久以来读到的最喜欢的同类文章之一。</p> <p>作者花了八年构思，又用三个月开发了 <a href=\"，作者",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "0e62a5d718c3",
@@ -2757,7 +2832,11 @@
               "source_name": "Hacker News"
             }
           ],
-          "route": "/hot/2026-04-06/topic/show-hn-gemma-gem-ai-model-embedded-in-a-browser-no-api-keys-no-cloud/"
+          "route": "/hot/2026-04-06/topic/show-hn-gemma-gem-ai-model-embedded-in-a-browser-no-api-keys-no-cloud/",
+          "headline_zh": "Show HN：Gemma Gem，嵌入浏览器的 AI 模型，无需 API 密钥或云服务",
+          "summary_short_zh": "Gemma Gem 是一款 Chrome 扩展，利用 WebGPU 在浏览器本地运行 Google 的 Gemma 4 2B 模型。它可以读取网页内容、截图并点击页面元素，无需 API 密钥或云端推理。",
+          "why_it_matters_zh": "这款工具见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "13c7948ae5ea",
@@ -2794,7 +2873,11 @@
               "source_name": "Hacker News"
             }
           ],
-          "route": "/hot/2026-04-06/topic/show-hn-contrapunk-real-time-counterpoint-harmony-from-guitar-input/"
+          "route": "/hot/2026-04-06/topic/show-hn-contrapunk-real-time-counterpoint-harmony-from-guitar-input/",
+          "headline_zh": "Show HN：Contrapunk，根据吉他输入实时生成对位和声",
+          "summary_short_zh": "Contrapunk 是一款实时音乐工具，可根据吉他、MIDI 或键盘输入生成对位和声。该项目以演示版或早期版本的形式在 Hacker News 上分享。",
+          "why_it_matters_zh": "这款工具见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     },
@@ -2837,7 +2920,11 @@
               "source_name": "Hugging Face Trending Papers"
             }
           ],
-          "route": "/hot/2026-04-06/topic/the-ai-scientist-v2-workshop-level-automated-scientific-discovery-via-agentic-tree-search/"
+          "route": "/hot/2026-04-06/topic/the-ai-scientist-v2-workshop-level-automated-scientific-discovery-via-agentic-tree-search/",
+          "headline_zh": "The AI Scientist-v2：通过智能体树搜索实现学术研讨会水平的自动化科学发现",
+          "summary_short_zh": "The AI Scientist-v2 是一个利用树搜索实现自动化科学发现的智能体系统。论文称，该系统能够端到端地产出达到学术研讨会水平的科研成果。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "56a45484d9d6",
@@ -2874,7 +2961,11 @@
               "source_name": "Selected arXiv Papers"
             }
           ],
-          "route": "/hot/2026-04-06/topic/finding-belief-geometries-with-sparse-autoencoders/"
+          "route": "/hot/2026-04-06/topic/finding-belief-geometries-with-sparse-autoencoders/",
+          "headline_zh": "利用稀疏自编码器发现信念的几何结构",
+          "summary_short_zh": "理解内部表征的几何结构是机制可解释性的核心目标之一。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "72b4e636cf9d",
@@ -2911,7 +3002,11 @@
               "source_name": "Selected arXiv Papers"
             }
           ],
-          "route": "/hot/2026-04-06/topic/learning-the-signature-of-memorization-in-autoregressive-language-models/"
+          "route": "/hot/2026-04-06/topic/learning-the-signature-of-memorization-in-autoregressive-language-models/",
+          "headline_zh": "学习自回归语言模型的记忆特征",
+          "summary_short_zh": "以往所有针对微调语言模型的成员推断攻击都使用人工设计的启发式方法（如损失阈值法、Min-K\\%、参考校准），均受限于设计者的直觉。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "25a575b0c0b5",
@@ -2948,7 +3043,11 @@
               "source_name": "Selected arXiv Papers"
             }
           ],
-          "route": "/hot/2026-04-06/topic/opal-private-memory-for-personal-ai/"
+          "route": "/hot/2026-04-06/topic/opal-private-memory-for-personal-ai/",
+          "headline_zh": "Opal：个人 AI 的私密记忆",
+          "summary_short_zh": "个人 AI 系统越来越多地保留用户活动的长期记忆，包括文档、邮件、消息、会议和环境录音。可信硬件可以保护这些数据的隐私，但难以随数据存储规模的增长而扩展。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "0e4e4173181b",
@@ -2985,7 +3084,11 @@
               "source_name": "Selected arXiv Papers"
             }
           ],
-          "route": "/hot/2026-04-06/topic/prism-policy-reuse-via-interpretable-strategy-mapping-in-reinforcement-learning/"
+          "route": "/hot/2026-04-06/topic/prism-policy-reuse-via-interpretable-strategy-mapping-in-reinforcement-learning/",
+          "headline_zh": "Prism：通过可解释策略映射实现强化学习中的策略复用",
+          "summary_short_zh": "我们提出 PRISM（通过可解释策略映射实现策略复用）框架，让强化学习智能体依据离散且经过因果验证的概念作出决策，并以这些概念为接口，在使用不同算法训练的智能体之间实现零样本迁移。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         }
       ]
     }
@@ -3030,7 +3133,11 @@
               "source_name": "TechCrunch AI"
             }
           ],
-          "route": "/hot/2026-04-06/topic/in-japan-the-robot-isn-t-coming-for-your-job-it-s-filling-the-one-nobody-wants/"
+          "route": "/hot/2026-04-06/topic/in-japan-the-robot-isn-t-coming-for-your-job-it-s-filling-the-one-nobody-wants/",
+          "headline_zh": "在日本，机器人不是来抢你的工作，而是接手没人愿意干的活",
+          "summary_short_zh": "在劳动力短缺的推动下，日本正将物理 AI 从试点项目推向实际部署。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "5231d2c452ac",
@@ -3067,7 +3174,11 @@
               "source_name": "量子位 (QbitAI)"
             }
           ],
-          "route": "/hot/2026-04-06/topic/openai-gptx-sora/"
+          "route": "/hot/2026-04-06/topic/openai-gptx-sora/",
+          "headline_zh": "OpenAI新模型不是GPTX！全新预训练“土豆”曝光，Sora成弃子的原因找到了",
+          "summary_short_zh": "正面回应了和Anthropic的竞争",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "42eb23e0b2f8",
@@ -3104,7 +3215,10 @@
               "source_name": "Hacker News"
             }
           ],
-          "route": "/hot/2026-04-06/topic/iran-s-irgc-publishes-satellite-imagery-of-openai-s-30b-stargate-datacenter/"
+          "route": "/hot/2026-04-06/topic/iran-s-irgc-publishes-satellite-imagery-of-openai-s-30b-stargate-datacenter/",
+          "headline_zh": "伊朗伊斯兰革命卫队公布 OpenAI 造价 300 亿美元的 Stargate 数据中心卫星图像",
+          "why_it_matters_zh": "这一行业动向见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "7f2ea29ad6d4",
@@ -3141,7 +3255,10 @@
               "source_name": "Hacker News"
             }
           ],
-          "route": "/hot/2026-04-06/topic/qwen-3-6-plus-is-the-first-model-to-break-1t-tokens-processed-in-a-day/"
+          "route": "/hot/2026-04-06/topic/qwen-3-6-plus-is-the-first-model-to-break-1t-tokens-processed-in-a-day/",
+          "headline_zh": "Qwen-3.6-Plus 成为首个单日词元处理量突破 1 万亿的模型",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "b642716397f5",
@@ -3178,7 +3295,11 @@
               "source_name": "The Verge AI"
             }
           ],
-          "route": "/hot/2026-04-06/topic/a-folk-musician-became-a-target-for-ai-fakes-and-a-copyright-troll/"
+          "route": "/hot/2026-04-06/topic/a-folk-musician-became-a-target-for-ai-fakes-and-a-copyright-troll/",
+          "headline_zh": "一位民谣音乐人成了 AI 造假和版权流氓的目标",
+          "summary_short_zh": "1 月，民谣音乐人 Murphy Campbell 发现自己的 Spotify 主页上出现了几首不该出现的歌。这些歌她确实录制过，但从未上传到 Spotify，而且其中的人声听起来有些不对劲。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "32a2ccc733f2",
@@ -3215,7 +3336,10 @@
               "source_name": "Superhuman AI"
             }
           ],
-          "route": "/hot/2026-04-06/topic/customize-your-own-ai-model-in-hours-with-oumi/"
+          "route": "/hot/2026-04-06/topic/customize-your-own-ai-model-in-hours-with-oumi/",
+          "headline_zh": "用 Oumi，几小时即可定制自己的 AI 模型",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "6e7af6b1f587",
@@ -3252,7 +3376,11 @@
               "source_name": "Import AI"
             }
           ],
-          "route": "/hot/2026-04-06/topic/building-political-superintelligence-free-systems-substack/"
+          "route": "/hot/2026-04-06/topic/building-political-superintelligence-free-systems-substack/",
+          "headline_zh": "构建政治超级智能（Free Systems，Substack）",
+          "summary_short_zh": "这是一篇发表于 Free Systems 的文章，题为《构建政治超级智能》。它似乎是关于 AI 与政治制度的评论，而非对具体事件的报道。",
+          "why_it_matters_zh": "这篇评论见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "3f6a7c2a98b5",
@@ -3294,7 +3422,11 @@
               "source_name": "The Batch"
             }
           ],
-          "route": "/hot/2026-04-06/topic/attacks-on-data-centers-qwen3-5-in-all-sizes-deepseek-s-huawei-play-apple-s-multimodal-tokenizer/"
+          "route": "/hot/2026-04-06/topic/attacks-on-data-centers-qwen3-5-in-all-sizes-deepseek-s-huawei-play-apple-s-multimodal-tokenizer/",
+          "headline_zh": "数据中心遭袭、Qwen3.5 各规模版本、DeepSeek 的华为布局、苹果的多模态分词器",
+          "summary_short_zh": "Batch 的这篇综述涵盖数据中心遭袭、Qwen3.5 各规模版本发布、DeepSeek 与华为相关的战略，以及苹果的多模态分词器研究。文中汇总了多项独立进展，而非单一事件。",
+          "why_it_matters_zh": "这篇综述见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }

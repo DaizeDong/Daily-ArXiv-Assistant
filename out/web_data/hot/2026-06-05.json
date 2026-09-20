@@ -2173,7 +2173,16 @@
           "published_at": "2026-06-05T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-06-05/topic/introducing-seed-full-duplex-speech-llm/"
+      "route": "/hot/2026-06-05/topic/introducing-seed-full-duplex-speech-llm/",
+      "headline_zh": "介绍 Seed 全双工语音大语言模型",
+      "summary_short_zh": "字节跳动 Seed 推出了全双工语音大语言模型。该公司表示，该模型注重专注聆听、干扰抑制和更自然的语音交互",
+      "why_it_matters_zh": "共有 1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "字节跳动 Seed 在 Arena 上发布 Dola-Seed-2.0-Preview，宣布该预览版模型现已可用。",
+        "字节跳动 Seed 推出了全双工语音大语言模型，强调专注聆听、强大的干扰抑制能力和更自然的交互。",
+        "字节跳动 Seed 正式发布新模型 Seed 2.0。"
+      ]
     },
     {
       "topic_id": "c7b0a767b402",
@@ -2211,7 +2220,11 @@
           "published_at": "Thu, 04 Jun 2026 19:47:12 +0000"
         }
       ],
-      "route": "/hot/2026-06-05/topic/towards-passive-heart-health-monitoring-via-smartphone-camera/"
+      "route": "/hot/2026-06-05/topic/towards-passive-heart-health-monitoring-via-smartphone-camera/",
+      "headline_zh": "探索通过智能手机摄像头实现心脏健康被动监测",
+      "summary_short_zh": "健康与生物科学",
+      "why_it_matters_zh": "共有 1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "6bca6fed93e1",
@@ -2251,7 +2264,14 @@
           "published_at": "2026-06-05T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-06-05/topic/glm-5-released-as-zhipu-s-flagship-base-model-for-agent-engineering/"
+      "route": "/hot/2026-06-05/topic/glm-5-released-as-zhipu-s-flagship-base-model-for-agent-engineering/",
+      "headline_zh": "智谱发布面向智能体工程的旗舰基础模型 GLM-5",
+      "summary_short_zh": "智谱 AI 推出了面向智能体工程的全新旗舰基础模型 GLM-5。该公司表示，该模型已开源，在编程及智能体相关任务中表现出色",
+      "why_it_matters_zh": "共有 1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "智谱 AI 推出面向智能体工程的全新旗舰基础模型 GLM-5，称其编程和智能体能力达到开源模型的最先进水平。页面还提到，该模型的表现……"
+      ]
     },
     {
       "topic_id": "878e7408fb72",
@@ -2301,7 +2321,14 @@
           "published_at": "Thu, 04 Jun 2026 16:59:08 +0000"
         }
       ],
-      "route": "/hot/2026-06-05/topic/nvidia-nemotron-3-ultra-now-available-on-amazon-sagemaker-jumpstart/"
+      "route": "/hot/2026-06-05/topic/nvidia-nemotron-3-ultra-now-available-on-amazon-sagemaker-jumpstart/",
+      "headline_zh": "NVIDIA Nemotron 3 Ultra 现已上线 Amazon SageMaker JumpStart",
+      "summary_short_zh": "在 Amazon SageMaker JumpStart 上部署 NVIDIA Nemotron 3 Ultra。这款前沿推理模型可将智能体 AI 工作负载的推理速度提升至 5 倍，成本降低 30%",
+      "why_it_matters_zh": "共有 3 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "在 Amazon SageMaker JumpStart 上部署 NVIDIA Nemotron 3 Ultra。这款前沿推理模型可将智能体 AI 工作负载的推理速度提升至 5 倍，成本降低 30%。"
+      ]
     },
     {
       "topic_id": "6bce2268b0c1",
@@ -2339,7 +2366,10 @@
           "published_at": "2026-06-04T11:24:53+00:00"
         }
       ],
-      "route": "/hot/2026-06-05/topic/task-seeded-synthetic-q-a-generation-for-nemotron-pretraining/"
+      "route": "/hot/2026-06-05/topic/task-seeded-synthetic-q-a-generation-for-nemotron-pretraining/",
+      "headline_zh": "以任务为种子，为 Nemotron 预训练生成合成问答",
+      "why_it_matters_zh": "共有 1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布"
     }
   ],
   "category_sections": [
@@ -2383,7 +2413,11 @@
               "published_at": "2026-06-05T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-05/topic/biohub-releases-a-world-model-of-protein-biology-biohub/"
+          "route": "/hot/2026-06-05/topic/biohub-releases-a-world-model-of-protein-biology-biohub/",
+          "headline_zh": "Biohub 发布蛋白质生物学领域的世界模型（biohub）",
+          "summary_short_zh": "Biohub 发布蛋白质生物学领域的世界模型（biohub",
+          "why_it_matters_zh": "共有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "f0e7072fdedb",
@@ -2430,7 +2464,11 @@
               "published_at": "Thu, 04 Jun 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-06-05/topic/dreaming-better-memory-for-a-more-helpful-chatgpt/"
+          "route": "/hot/2026-06-05/topic/dreaming-better-memory-for-a-more-helpful-chatgpt/",
+          "headline_zh": "Dreaming：增强记忆，让 ChatGPT 更能帮上忙",
+          "summary_short_zh": "OpenAI 公布了新的 ChatGPT 记忆系统，旨在跨对话记住用户偏好。此次更新旨在提高上下文信息的相关性和持久性",
+          "why_it_matters_zh": "共有 2 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "1862916106a3",
@@ -2468,7 +2506,11 @@
               "published_at": "Thu, 04 Jun 2026 00:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-06-05/topic/biodefense-in-the-intelligence-age/"
+          "route": "/hot/2026-06-05/topic/biodefense-in-the-intelligence-age/",
+          "headline_zh": "智能时代的生物防御",
+          "summary_short_zh": "一份以 AI 驱动生物韧性的行动计划",
+          "why_it_matters_zh": "该产品发布出现在 1 个独立信源中。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "c3ccfd18fe81",
@@ -2506,7 +2548,11 @@
               "published_at": "2026-06-04T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-06-05/topic/introducing-command-a-cohere/"
+          "route": "/hot/2026-06-05/topic/introducing-command-a-cohere/",
+          "headline_zh": "Command A+ 发布 | Cohere",
+          "summary_short_zh": "Cohere 发布 Command A+，作为其最新的旗舰语言模型。公司将其定位为面向高性能企业级智能体的开源模型，重点强调效率",
+          "why_it_matters_zh": "该产品发布出现在 1 个独立信源中。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "8226c5830ac9",
@@ -2544,7 +2590,11 @@
               "published_at": "Thu, 04 Jun 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-06-05/topic/cursor-canvases-context-explorer/"
+          "route": "/hot/2026-06-05/topic/cursor-canvases-context-explorer/",
+          "headline_zh": "Cursor canvases + context explorer",
+          "summary_short_zh": "Cursor 发布了 canvases 和 context explorer 两项新功能。此次更新新增了可分享的 canvases，用于应用、报告和内部工具，并提供一个交互式视图来查看智能体上下文的使用情况",
+          "why_it_matters_zh": "该产品发布出现在 1 个独立信源中。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2588,7 +2638,11 @@
               "published_at": "Thu, 04 Jun 2026 15:50:00 -0400"
             }
           ],
-          "route": "/hot/2026-06-05/topic/path-to-boost-ai-training-and-career-opportunities-for-industry-aligned-jobs/"
+          "route": "/hot/2026-06-05/topic/path-to-boost-ai-training-and-career-opportunities-for-industry-aligned-jobs/",
+          "headline_zh": "PATH 计划助力 AI 培训与产业对口的职业机会",
+          "summary_short_zh": "MIT RAISE 与佐治亚州立大学宣布一项合作计划，连接高校、社区学院、产业界与政府，拓展与产业对口的 AI 培训和职业路径",
+          "why_it_matters_zh": "该融资出现在 1 个独立信源中。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "877475f0ffd0",
@@ -2626,7 +2680,11 @@
               "published_at": "Thu, 04 Jun 2026 12:00:00 -0400"
             }
           ],
-          "route": "/hot/2026-06-05/topic/nsf-renews-support-for-mit-led-ai-and-physics-institute-expanding-a-new-model-for-discovery/"
+          "route": "/hot/2026-06-05/topic/nsf-renews-support-for-mit-led-ai-and-physics-institute-expanding-a-new-model-for-discovery/",
+          "headline_zh": "NSF 续拨经费支持 MIT 牵头的 AI 与物理研究所，拓展一种新的科学发现模式",
+          "summary_short_zh": "IAIFI 进入第二阶段，经费增加、目标更广，在 AI 与基础物理前沿聚集起不断壮大的研究社群",
+          "why_it_matters_zh": "该融资出现在 1 个独立信源中。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -2679,7 +2737,11 @@
               "published_at": "Thu, 04 Jun 2026 22:43:26 +0000"
             }
           ],
-          "route": "/hot/2026-06-05/topic/ahead-of-its-ipo-anthropic-s-daniela-amodei-shrugs-off-doubts-about-ai-s-returns/"
+          "route": "/hot/2026-06-05/topic/ahead-of-its-ipo-anthropic-s-daniela-amodei-shrugs-off-doubts-about-ai-s-returns/",
+          "headline_zh": "IPO 前夕，Anthropic 的 Daniela Amodei 对 AI 回报质疑不以为意",
+          "summary_short_zh": "TechCrunch 报道了 Anthropic 的增长情况以及 Daniela Amodei 在公司 IPO 前的表态。文章称 Anthropic 的年化收入在 5 月达到 470 亿美元，而 2025 年底约为 90 亿美元",
+          "why_it_matters_zh": "该行业动向出现在 2 个独立信源中。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "26afa3419b07",
@@ -2717,7 +2779,11 @@
               "published_at": "Thu, 04 Jun 2026 12:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-06-05/topic/how-endava-is-redesigning-software-delivery-around-ai-agents/"
+          "route": "/hot/2026-06-05/topic/how-endava-is-redesigning-software-delivery-around-ai-agents/",
+          "headline_zh": "Endava 如何围绕 AI 智能体重塑软件交付",
+          "summary_short_zh": "Endava 介绍了它如何在整个企业范围内围绕 AI 智能体重塑软件交付。公司表示正在使用 ChatGPT Enterprise 和 Codex 来自动化工作流并加速开发工作",
+          "why_it_matters_zh": "该行业动向出现在 1 个独立信源中。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "7521f7eaa8cd",
@@ -2755,7 +2821,11 @@
               "published_at": "Thu, 04 Jun 2026 22:29:50 +0000"
             }
           ],
-          "route": "/hot/2026-06-05/topic/airbnb-s-brian-chesky-plans-to-launch-a-new-ai-lab/"
+          "route": "/hot/2026-06-05/topic/airbnb-s-brian-chesky-plans-to-launch-a-new-ai-lab/",
+          "headline_zh": "Airbnb 的 Brian Chesky 计划成立新的 AI 实验室",
+          "summary_short_zh": "Airbnb 首席执行官去年表示，公司尚未达成大语言模型（LLM）合作，因为现有产品还不够成熟",
+          "why_it_matters_zh": "这条行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "caea64c53f71",
@@ -2793,7 +2863,10 @@
               "published_at": "2026-06-05T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-05/topic/import-ai-459-ai-oversight-is-difficult-scaling-laws-for-protein-folding-models-and-pricing-the-extinction-risk-of-ai-systems/"
+          "route": "/hot/2026-06-05/topic/import-ai-459-ai-oversight-is-difficult-scaling-laws-for-protein-folding-models-and-pricing-the-extinction-risk-of-ai-systems/",
+          "headline_zh": "Import AI 第 459 期：AI 监督面临难题；蛋白质折叠模型的缩放定律；为 AI 系统引发的灭绝风险定价",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "1916d3d731bc",
@@ -2831,7 +2904,11 @@
               "published_at": "2026-06-05T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-05/topic/where-is-ai-in-gdp-statistics-piie/"
+          "route": "/hot/2026-06-05/topic/where-is-ai-in-gdp-statistics-piie/",
+          "headline_zh": "AI 在 GDP 统计中体现在哪里？（PIIE）",
+          "summary_short_zh": "AI 在 GDP 统计中体现在哪里？（PIIE",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -2875,7 +2952,11 @@
               "published_at": "2026-06-04T20:11:20Z"
             }
           ],
-          "route": "/hot/2026-06-05/topic/anthropic-s-open-source-framework-for-ai-powered-vulnerability-discovery/"
+          "route": "/hot/2026-06-05/topic/anthropic-s-open-source-framework-for-ai-powered-vulnerability-discovery/",
+          "headline_zh": "Anthropic 用于 AI 辅助漏洞发现的开源框架",
+          "summary_short_zh": "Hacker News 上的一则讨论关注了 Anthropic 用于 AI 辅助漏洞发现的开源框架。消息显示，Anthropic 发布了该框架，旨在用 AI 辅助软件安全研究",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "7d01086dbc3f",
@@ -2922,7 +3003,11 @@
               "published_at": "2026-06-04T15:18:00Z"
             }
           ],
-          "route": "/hot/2026-06-05/topic/kvarn-new-kv-cache-quant-from-huawei/"
+          "route": "/hot/2026-06-05/topic/kvarn-new-kv-cache-quant-from-huawei/",
+          "headline_zh": "KVarN：华为推出的 KV 缓存量化新方法",
+          "summary_short_zh": "华为推出了 KVarN，一种旨在降低 LLM 推理内存占用的 KV 缓存量化方法。摘要称，该方法可将 KV 缓存压缩至原来的 1/3 至 1/5，并带来实际提速，只需设置一个 vLLM 参数即可使用，采用 Apache 2.0 许可证",
+          "why_it_matters_zh": "这条工具资讯见于 2 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "ea2e16cf430e",
@@ -2960,7 +3045,11 @@
               "published_at": "Thu, 04 Jun 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-06-05/topic/i-live-by-sfo-and-built-a-projection-mapping-of-the-planes-flying-over-my-house-using-ads-b-radio-with-claude-code/"
+          "route": "/hot/2026-06-05/topic/i-live-by-sfo-and-built-a-projection-mapping-of-the-planes-flying-over-my-house-using-ads-b-radio-with-claude-code/",
+          "headline_zh": "我住在 SFO 附近，用 ADS-B 无线电和 Claude Code 做了个投影映射，展示飞过我家上空的飞机",
+          "summary_short_zh": "一个社区项目用投影映射展示了飞过 SFO 附近一处住宅上空的飞机。该系统使用 ADS-B 无线电数据和 Claude Code 生成画面",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "b4581a0a7bb2",
@@ -2998,7 +3087,11 @@
               "published_at": "Thu, 04 Jun 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-06-05/topic/i-wired-claude-code-into-a-database-of-every-polymarket-wallet-and-trades-via-mcp-what-do-you-want-me-to-ask-it-next-this-is-what-i-found-so-far/"
+          "route": "/hot/2026-06-05/topic/i-wired-claude-code-into-a-database-of-every-polymarket-wallet-and-trades-via-mcp-what-do-you-want-me-to-ask-it-next-this-is-what-i-found-so-far/",
+          "headline_zh": "我通过 MCP 将 Claude Code 接入了一个收录所有 Polymarket 钱包及交易的数据库。你们想让我接下来问它什么？以下是我目前的发现",
+          "summary_short_zh": "一篇社区帖子介绍了通过 MCP 将 Claude Code 接入 Polymarket 钱包和交易数据库的做法。作者表示，接入后可查询和分析交易活动",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     }
@@ -3044,7 +3137,11 @@
               "published_at": "Thu, 04 Jun 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-06-05/topic/claude-opus-4/"
+          "route": "/hot/2026-06-05/topic/claude-opus-4/",
+          "headline_zh": "Claude Opus 4",
+          "summary_short_zh": "这条回顾内容引用了 Claude Opus 4 在小型模型训练脚本优化任务中类似基准测试的结果。文中称，Claude Opus 4 平均实现约 3 倍加速，并将其与 Mythos Preview 约 52 倍的加速结果作了比较",
+          "why_it_matters_zh": "这条产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -3088,7 +3185,11 @@
               "published_at": "Fri, 05 Jun 2026 05:06:37 +0000"
             }
           ],
-          "route": "/hot/2026-06-05/topic/mira-murati-steps-back-into-the-spotlight-carefully/"
+          "route": "/hot/2026-06-05/topic/mira-murati-steps-back-into-the-spotlight-carefully/",
+          "headline_zh": "Mira Murati 谨慎地重回聚光灯下",
+          "summary_short_zh": "在当前环境下，一味埋头做事的回报越来越小；到了一定时候，你得发出点声音，只为让市场记得你的存在。",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "8439e22b5dc7",
@@ -3126,7 +3227,10 @@
               "published_at": "Fri, 05 Jun 2026 07:38:08 +0000"
             }
           ],
-          "route": "/hot/2026-06-05/topic/b-ai-build-in-public/"
+          "route": "/hot/2026-06-05/topic/b-ai-build-in-public/",
+          "headline_zh": "B站宣布启动AI创造公开赛 打造中国版Build in Public",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "a87a35563b7b",
@@ -3164,7 +3268,11 @@
               "published_at": "2026-06-04T10:15:44-04:00"
             }
           ],
-          "route": "/hot/2026-06-05/topic/tsmc-struggles-to-keep-up-with-ai-demand-8216-we-can-only-support-so-much-8217/"
+          "route": "/hot/2026-06-05/topic/tsmc-struggles-to-keep-up-with-ai-demand-8216-we-can-only-support-so-much-8217/",
+          "headline_zh": "台积电难以满足 AI 需求：“我们能提供的支持有限”",
+          "summary_short_zh": "据路透社和彭博社报道，全球最大的半导体制造商台积电尽管正在美国扩建工厂，仍难以满足美国客户的需求。",
+          "why_it_matters_zh": "这条行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "4f2c526ab0d1",
@@ -3202,7 +3310,11 @@
               "published_at": "Thu, 04 Jun 2026 20:44:31 +0000"
             }
           ],
-          "route": "/hot/2026-06-05/topic/these-llms-are-the-best-at-resisting-russian-propaganda/"
+          "route": "/hot/2026-06-05/topic/these-llms-are-the-best-at-resisting-russian-propaganda/",
+          "headline_zh": "这些大语言模型最能抵御俄罗斯宣传",
+          "summary_short_zh": "Ars Technica 报道了爱沙尼亚政府的一项基准测试，评估语言模型抵御俄罗斯宣传叙事的能力。文章比较了数十种模型在处理战略传播和虚假信息相关提示词时的表现。",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "a0635860f557",
@@ -3240,7 +3352,11 @@
               "published_at": "2026-06-04T23:55:27+00:00"
             }
           ],
-          "route": "/hot/2026-06-05/topic/ai-enthusiasts-are-in-a-race-against-time-ai-skeptics-are-in-a-race-against-entropy/"
+          "route": "/hot/2026-06-05/topic/ai-enthusiasts-are-in-a-race-against-time-ai-skeptics-are-in-a-race-against-entropy/",
+          "headline_zh": "AI 爱好者在与时间赛跑，AI 怀疑者在与熵赛跑",
+          "summary_short_zh": "<p><strong><a href=\" 爱好者在与时间赛跑，AI 怀疑者在与熵赛跑</a></strong></p> Charity Majors 精辟地概括了 AI 爱好者与 AI 怀疑者之间的互动关系，双方都在努力开发优秀的软件，而且往往就在同一个团队中：</p> <blockquote>",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "1eafd35b026a",
@@ -3278,7 +3394,11 @@
               "published_at": "Thu, 04 Jun 2026 19:20:58 +0000"
             }
           ],
-          "route": "/hot/2026-06-05/topic/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/"
+          "route": "/hot/2026-06-05/topic/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
+          "headline_zh": "苹果批准 Poke 成为其 Messages for Business 平台上的首个 AI 智能体",
+          "summary_short_zh": "Poke 是一家让用户通过简单短信使用 AI 智能体的初创公司，其产品已成为首个获准接入苹果 Messages for Business 平台的 AI 智能体。",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "e17b91501f45",
@@ -3316,7 +3436,10 @@
               "published_at": "2026-06-04T12:59:35+00:00"
             }
           ],
-          "route": "/hot/2026-06-05/topic/how-to-fine-tune-nemotron-3-5-asr-for-your-language-domain-or-accent/"
+          "route": "/hot/2026-06-05/topic/how-to-fine-tune-nemotron-3-5-asr-for-your-language-domain-or-accent/",
+          "headline_zh": "如何针对你的语言、领域或口音微调 Nemotron 3.5 ASR",
+          "why_it_matters_zh": "这篇教程见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -3358,7 +3481,11 @@
           "published_at": "2026-06-03T18:55:02Z"
         }
       ],
-      "route": "/hot/2026-06-05/topic/tastyeffectco-sandboxes/"
+      "route": "/hot/2026-06-05/topic/tastyeffectco-sandboxes/",
+      "headline_zh": "tastyeffectco/sandboxes",
+      "summary_short_zh": "自托管开发沙箱，自带预览链接。一条命令即可启动，无需 Kubernetes，非常适合编程智能体和 SaaS 工厂。",
+      "why_it_matters_zh": "这条产品发布消息见于 1 个独立来源。",
+      "category_zh": "产品发布"
     }
   ],
   "x_buzz": [

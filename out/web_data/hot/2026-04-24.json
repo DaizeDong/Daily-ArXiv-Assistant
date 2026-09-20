@@ -2257,7 +2257,17 @@
           "published_at": "2026-04-23T19:22:58.000Z"
         }
       ],
-      "route": "/hot/2026-04-24/topic/openai-ships-gpt-5-5-for-chatgpt-and-codex/"
+      "route": "/hot/2026-04-24/topic/openai-ships-gpt-5-5-for-chatgpt-and-codex/",
+      "headline_zh": "OpenAI 为 ChatGPT 和 Codex 推出 GPT-5.5",
+      "summary_short_zh": "OpenAI 推出最新旗舰模型 GPT-5.5。该公司表示，新模型速度更快、能力更强，旨在借助多种工具完成编程、研究和数据分析等复杂任务。",
+      "why_it_matters_zh": "GPT-5.5 体现了 OpenAI 从聊天转向智能体执行任务的方向，这一转变对企业软件采购方、模型平台合作伙伴和竞争实验室都很重要。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "OpenAI 称 GPT-5.5 专为“实际工作和驱动智能体”打造，明确强调理解复杂目标、使用工具、检查自身工作，并持续推进任务直至完成的能力。",
+        "此次发布同时附有 GPT-5.5 系统卡，表明模型已正式投入使用，而非仅限于研究预览。",
+        "GPT-5.5 已在 ChatGPT 和 Codex 上线，将模型直接融入 OpenAI 面向终端用户的产品，以及编程和智能体工作流程技术栈。",
+        "第三方的认可表明企业迅速产生了兴趣：NVIDIA 公开介绍了内部使用“Codex + GPT-5.5”的情况，并表示已为员工设立“Codex Lab”。"
+      ]
     },
     {
       "topic_id": "f590547d7202",
@@ -2305,7 +2315,16 @@
           "published_at": "2026-04-24T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-04-24/topic/seed-2-0-official-launch/"
+      "route": "/hot/2026-04-24/topic/seed-2-0-official-launch/",
+      "headline_zh": "Seed 2.0 正式发布",
+      "summary_short_zh": "字节跳动 Seed 正式推出 Seed 2.0，相关公告发布于 2026 年 2 月 14 日。",
+      "why_it_matters_zh": "共有 1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "字节跳动 Seed 宣布启动 2027 年基础模型校园招聘，包含实习岗位。该招聘消息发布于 2026 年 4 月 1 日。",
+        "字节跳动 Seed 在 Arena 发布 Dola-Seed-2.0-Preview 模型。该预览版模型的公告发布于 2026 年 2 月 16 日。",
+        "字节跳动 Seed 推出 Seed Full-Duplex Speech LLM，强调专注聆听、强大的抗干扰能力和更自然的交互。模型公告发布于 4 月……"
+      ]
     },
     {
       "topic_id": "4c05daafb14e",
@@ -2360,7 +2379,17 @@
           "published_at": "2026-04-24T03:24:09.000Z"
         }
       ],
-      "route": "/hot/2026-04-24/topic/deepseek-open-sources-deepseek-v4-preview-with-1m-token-context/"
+      "route": "/hot/2026-04-24/topic/deepseek-open-sources-deepseek-v4-preview-with-1m-token-context/",
+      "headline_zh": "DeepSeek 开源 DeepSeek-V4 预览版，支持 100 万 token 上下文",
+      "summary_short_zh": "🚀 DeepSeek-V4 预览版正式上线并开源！欢迎来到高性价比的百万 token 上下文时代。🔹 DeepSeek-V4-Pro：总参数 1.6 万亿 / 激活参数 490 亿，性能媲美全球顶尖闭源模型。🔹 DeepSeek-V4-Flash：总参数 2840 亿 / 激活参数 130 亿",
+      "why_it_matters_zh": "DeepSeek 通过推出能力接近前沿水平、上下文窗口超长的超大规模开放模型，继续在性价比上向闭源模型厂商施压。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "DeepSeek 公布了两款预览模型：DeepSeek-V4-Pro 总参数为 1.6 万亿，激活参数为 490 亿；DeepSeek-V4-Flash 总参数为 2840 亿，激活参数为 130 亿。",
+        "该公司以“高性价比的 100 万 token 上下文”为发布重点，将长上下文推理作为核心竞争卖点，而非附加功能。",
+        "这些模型已正式开源。对于寻求可自行部署的闭源 API 替代方案的企业和主权 AI 项目而言，这进一步提升了模型的战略价值。",
+        "独立专家 Simon Willison 将 DeepSeek V4 评价为“能力接近前沿，价格仅为其几分之一”，进一步强化了市场的看法：DeepSeek 仍是以低成本冲击市场的最强开放模型竞争者。"
+      ]
     },
     {
       "topic_id": "37ec4ffe46f1",
@@ -2408,7 +2437,14 @@
           "published_at": "Thu, 23 Apr 2026 10:00:00 GMT"
         }
       ],
-      "route": "/hot/2026-04-24/topic/introducing-gpt-5-5-a-new-class-of-intelligence-for-real-work-and-powering-agents-built-to-understand-complex-goals-use-tools-check-its-work-and-carry-more-tasks-through-to/"
+      "route": "/hot/2026-04-24/topic/introducing-gpt-5-5-a-new-class-of-intelligence-for-real-work-and-powering-agents-built-to-understand-complex-goals-use-tools-check-its-work-and-carry-more-tasks-through-to/",
+      "headline_zh": "GPT-5.5 登场：为实际工作和驱动智能体打造的全新智能，旨在理解复杂目标、使用工具、检查自身工作，并持续推进更多任务，直至……",
+      "summary_short_zh": "OpenAI 推出 GPT-5.5，面向工作任务和智能体应用场景。公告称，该模型旨在理解复杂目标、使用工具、检查自身工作，并持续推进任务直至完成。",
+      "why_it_matters_zh": "共有 2 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "探索 Codex 的 10 个实用场景，用它自动执行任务、制作交付成果，并跨工具、文件和工作流程，将实际输入转化为输出。"
+      ]
     },
     {
       "topic_id": "803d26d67077",
@@ -2451,7 +2487,17 @@
           "published_at": "2026-04-23T22:23:10.000Z"
         }
       ],
-      "route": "/hot/2026-04-24/topic/xai-launches-grok-voice-think-fast-1-0/"
+      "route": "/hot/2026-04-24/topic/xai-launches-grok-voice-think-fast-1-0/",
+      "headline_zh": "xAI 推出 Grok Voice Think Fast 1.0",
+      "summary_short_zh": "Grok Voice Think Fast 1.0 登场。这款顶尖语音模型专为复杂的多步骤工作流程打造，响应迅速、准确率高。它在 Tau Voice Bench 中位列第一，在应对真实场景中的噪声、口音和打断等复杂情况时，表现优于……",
+      "why_it_matters_zh": "语音正成为 AI 智能体的主要交互方式，在基准测试中领先的语音模型可能重塑智能助手、客户支持和多模态工作流程的产品设计。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "xAI 推出了 Grok Voice Think Fast 1.0，这款语音模型专为复杂、多步骤工作流优化，而非简单的转录或聊天。",
+        "该公司称，这款模型在 Tau Voice Bench 上位居榜首，为此次发布提供了营销宣传之外的具体性能依据。",
+        "xAI 表示，该模型主打“响应迅速、准确率高”，着力应对生产环境中语音智能体常面临的低延迟与高准确率难以兼顾的问题。",
+        "此次发布特别强调模型在噪声、口音和打断等真实场景下的鲁棒性，这些因素是企业部署语音系统时的主要故障诱因。"
+      ]
     }
   ],
   "category_sections": [
@@ -2495,7 +2541,11 @@
               "published_at": "2026-04-23T18:27:11-04:00"
             }
           ],
-          "route": "/hot/2026-04-24/topic/claude-is-connecting-directly-to-your-personal-apps-like-spotify-uber-eats-and-turbotax/"
+          "route": "/hot/2026-04-24/topic/claude-is-connecting-directly-to-your-personal-apps-like-spotify-uber-eats-and-turbotax/",
+          "headline_zh": "Claude 正直接接入你的 Spotify、Uber Eats 和 TurboTax 等个人应用",
+          "summary_short_zh": "Anthropic 扩展了 Claude 的应用连接器，让用户可以接入 Spotify、Uber Eats 和 TurboTax 等个人服务。此次更新将 Claude 的集成范围拓展至工作应用之外",
+          "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "879a45fbdf9c",
@@ -2533,7 +2583,11 @@
               "published_at": "2026-04-22T23:01:33.000Z"
             }
           ],
-          "route": "/hot/2026-04-24/topic/introducing-kimi-k2-6-from-kimi-moonshot-a-multimodal-agentic-model-with-agent-swarm-scaling-to-300-sub-agents-and-long-horizon-coding-stability/"
+          "route": "/hot/2026-04-24/topic/introducing-kimi-k2-6-from-kimi-moonshot-a-multimodal-agentic-model-with-agent-swarm-scaling-to-300-sub-agents-and-long-horizon-coding-stability/",
+          "headline_zh": "推出来自 @Kimi_Moonshot 的 Kimi K2.6：一款多模态智能体模型，其 Agent Swarm 可扩展至 300 个子智能体，并能稳定执行长周期编程任务",
+          "summary_short_zh": "AI 原生用户现在可在 Together AI 上使用 Kimi K2.6，获得可靠的推理服务，支持生产环境中的大规模自主智能体工作流",
+          "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "6f92fdaa3a3a",
@@ -2571,7 +2625,11 @@
               "published_at": "2026-04-23T02:46:57.000Z"
             }
           ],
-          "route": "/hot/2026-04-24/topic/kimi-k2-6-the-new-state-of-the-art-open-weight-model-from-moonshot-is-now-available-for-pro-and-max-subscribers-https-t-co-cn2mrh8525/"
+          "route": "/hot/2026-04-24/topic/kimi-k2-6-the-new-state-of-the-art-open-weight-model-from-moonshot-is-now-available-for-pro-and-max-subscribers-https-t-co-cn2mrh8525/",
+          "headline_zh": "Moonshot 推出的全新顶尖开放权重模型 Kimi K2.6，现已向 Pro 和 Max 订阅用户开放。https://t.co/Cn2mRh8525",
+          "summary_short_zh": "Perplexity 宣布，Moonshot 的开放权重模型 Kimi K2.6 现已向 Pro 和 Max 订阅用户开放。该帖子称 Kimi K2.6 是一款全新的顶尖开放权重模型",
+          "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "279c2c88bf31",
@@ -2609,7 +2667,11 @@
               "published_at": "Thu, 23 Apr 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-04-24/topic/deepseek-has-released-deepep-v2-and-tilekernels/"
+          "route": "/hot/2026-04-24/topic/deepseek-has-released-deepep-v2-and-tilekernels/",
+          "headline_zh": "Deepseek 发布了 DeepEP V2 和 TileKernels。",
+          "summary_short_zh": "Deepseek 发布了 DeepEP V2 和 TileKernels，为深度学习并行化技术带来了重大进展。",
+          "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "236200797e2e",
@@ -2647,7 +2709,11 @@
               "published_at": "Thu, 23 Apr 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-04-24/topic/qwen3-6-27b-released/"
+          "route": "/hot/2026-04-24/topic/qwen3-6-27b-released/",
+          "headline_zh": "Qwen3.6-27B 发布！",
+          "summary_short_zh": "图片通过柱状图，对比了新发布的 Qwen3.6-27B 与 Qwen3.5-27B、Gemma4-31B 等模型在多项基准测试中的性能。",
+          "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2691,7 +2757,11 @@
               "published_at": "Thu, 23 Apr 2026 16:00:00 +0000"
             }
           ],
-          "route": "/hot/2026-04-24/topic/era-raises-11m-to-build-a-software-platform-for-ai-gadgets/"
+          "route": "/hot/2026-04-24/topic/era-raises-11m-to-build-a-software-platform-for-ai-gadgets/",
+          "headline_zh": "Era 融资 1100 万美元，打造 AI 设备软件平台",
+          "summary_short_zh": "Era 认为，AI 硬件将呈现多种形态，包括眼镜、戒指和吊坠",
+          "why_it_matters_zh": "此次融资有 1 个独立来源报道。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "b06128ea9145",
@@ -2729,7 +2799,11 @@
               "published_at": "Thu, 23 Apr 2026 21:00:00 +0000"
             }
           ],
-          "route": "/hot/2026-04-24/topic/bret-taylor-s-sierra-buys-yc-backed-ai-startup-fragment/"
+          "route": "/hot/2026-04-24/topic/bret-taylor-s-sierra-buys-yc-backed-ai-startup-fragment/",
+          "headline_zh": "Bret Taylor 创办的 Sierra 收购 YC 支持的 AI 初创公司 Fragment",
+          "summary_short_zh": "技术专家 Bret Taylor 创办的 AI 客服智能体初创公司 Sierra 今日宣布，已收购 YC 支持的法国初创公司 Fragment",
+          "why_it_matters_zh": "此次收购有 1 个独立来源报道。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -2773,7 +2847,11 @@
               "published_at": "Apr 24, 2026"
             }
           ],
-          "route": "/hot/2026-04-24/topic/anthropic-and-nec-collaborate-to-build-japan-s-largest-ai-engineering-workforce/"
+          "route": "/hot/2026-04-24/topic/anthropic-and-nec-collaborate-to-build-japan-s-largest-ai-engineering-workforce/",
+          "headline_zh": "Anthropic 与 NEC 合作打造日本规模最大的 AI 工程师队伍",
+          "summary_short_zh": "Anthropic 与 NEC 宣布合作，旨在打造日本规模最大的 AI 工程师队伍。该计划重点推进日本的人才培养，扩大 AI 人才队伍。",
+          "why_it_matters_zh": "这条行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "1e74fcdacf0a",
@@ -2821,7 +2899,11 @@
               "published_at": "2026-04-23T14:24:56-04:00"
             }
           ],
-          "route": "/hot/2026-04-24/topic/anthropic-8217-s-mythos-breach-was-humiliating/"
+          "route": "/hot/2026-04-24/topic/anthropic-8217-s-mythos-breach-was-humiliating/",
+          "headline_zh": "Mythos 泄露事件让 Anthropic 颜面尽失",
+          "summary_short_zh": "The Verge 报道称，泄露事件削弱了 Anthropic 对 Claude Mythos 发布范围的管控。文章称，Anthropic 此前曾表示，这款专注网络安全的模型过于危险，不宜公开发布。",
+          "why_it_matters_zh": "这条其他类资讯见于 3 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "1596af7aa64d",
@@ -2859,7 +2941,11 @@
               "published_at": "2026-04-24T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-24/topic/openai-reclaims-the-image-crown/"
+          "route": "/hot/2026-04-24/topic/openai-reclaims-the-image-crown/",
+          "headline_zh": "OpenAI 重夺图像生成桂冠",
+          "summary_short_zh": "这一标题表明，OpenAI 已重新在图像生成领域取得领先地位。所提供的元数据未说明这一说法依据的具体产品更新或基准测试。",
+          "why_it_matters_zh": "这条行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "c3d5e032286c",
@@ -2897,7 +2983,11 @@
               "published_at": "Thu, 23 Apr 2026 14:51:16 +0000"
             }
           ],
-          "route": "/hot/2026-04-24/topic/greenhouse-gases-from-data-center-boom-could-outpace-entire-nations/"
+          "route": "/hot/2026-04-24/topic/greenhouse-gases-from-data-center-boom-could-outpace-entire-nations/",
+          "headline_zh": "数据中心扩张潮带来的温室气体排放或超一些国家的排放总量",
+          "summary_short_zh": "Ars Technica 报道称，OpenAI、Meta、xAI 和微软规划中的数据中心扩建每年可能产生超过 1.29 亿吨温室气体排放。文章将 AI 数据中心的大规模建设视为一大环境隐忧。",
+          "why_it_matters_zh": "这条行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "def5d82045f4",
@@ -2935,7 +3025,10 @@
               "published_at": "2026-04-24T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-24/topic/attacks-on-data-centers-qwen3-5-in-all-sizes-deepseek-s-huawei-play-apple-s-multimodal-tokenizer/"
+          "route": "/hot/2026-04-24/topic/attacks-on-data-centers-qwen3-5-in-all-sizes-deepseek-s-huawei-play-apple-s-multimodal-tokenizer/",
+          "headline_zh": "数据中心遭袭、各种规模的 Qwen3.5、DeepSeek 押注华为、苹果的多模态分词器",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -2979,7 +3072,11 @@
               "published_at": "2026-04-24T04:23:11+00:00"
             }
           ],
-          "route": "/hot/2026-04-24/topic/millisecond-converter/"
+          "route": "/hot/2026-04-24/topic/millisecond-converter/",
+          "headline_zh": "毫秒转换器",
+          "summary_short_zh": "<p><strong>工具：</strong> <a href=\" 转换器</a></p> <p><a href=\" 以毫秒为单位显示提示词处理耗时，我受够了每次都要琢磨怎么把它们换算成秒和分钟。</p> <p>标签： <a href=\"",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "aedd7e949e34",
@@ -3017,7 +3114,11 @@
               "published_at": "Thu, 23 Apr 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-04-24/topic/qwen3-tts-is-seriously-underrated-i-got-it-running-locally-in-real-time-and-it-s-one-of-the-most-expressive-open-tts-models-i-ve-tried/"
+          "route": "/hot/2026-04-24/topic/qwen3-tts-is-seriously-underrated-i-got-it-running-locally-in-real-time-and-it-s-one-of-the-most-expressive-open-tts-models-i-ve-tried/",
+          "headline_zh": "Qwen3 TTS 被严重低估了：我已让它在本地实时运行，它是我试过的语音表现力最强的开源 TTS 模型之一",
+          "summary_short_zh": "一则社区帖子介绍了 Qwen3 TTS 在本地实时运行的情况，并强调其语音输出富有表现力。该帖聚焦开源文本转语音模型的本地部署实践。",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "bd6038986551",
@@ -3055,7 +3156,11 @@
               "published_at": "2026-04-22T22:25:28Z"
             }
           ],
-          "route": "/hot/2026-04-24/topic/bring-your-agent-to-teams/"
+          "route": "/hot/2026-04-24/topic/bring-your-agent-to-teams/",
+          "headline_zh": "将你的智能体接入 Teams",
+          "summary_short_zh": "这是一则 Hacker News 讨论，标题为《把你的智能体带到 Teams》。现有元数据只提到智能体与 Teams 的集成，不足以确认具体的新产品发布信息。",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     },
@@ -3099,7 +3204,11 @@
               "published_at": "2026-04-24T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-04-24/topic/absorber-llm-harnessing-causal-synchronization-for-test-time-training/"
+          "route": "/hot/2026-04-24/topic/absorber-llm-harnessing-causal-synchronization-for-test-time-training/",
+          "headline_zh": "Absorber LLM：利用因果同步实现测试时训练",
+          "summary_short_zh": "Transformer 的自注意力计算成本高，且随序列长度增长，导致长数据流推理因内存消耗过大而难以进行。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         }
       ]
     }
@@ -3145,7 +3254,11 @@
               "published_at": "Fri, 24 Apr 2026 04:17:45 +0000"
             }
           ],
-          "route": "/hot/2026-04-24/topic/deepseek-v4/"
+          "route": "/hot/2026-04-24/topic/deepseek-v4/",
+          "headline_zh": "DeepSeek V4终于发布！打破最强闭源垄断，明确携手华为芯片",
+          "summary_short_zh": "在Agent能力、世界知识和推理性能上均实现国内与开源领域的领先。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "d252ad1dd838",
@@ -3183,7 +3296,11 @@
               "published_at": "2026-04-24T01:08:17+00:00"
             }
           ],
-          "route": "/hot/2026-04-24/topic/serving-the-for-you-feed/"
+          "route": "/hot/2026-04-24/topic/serving-the-for-you-feed/",
+          "headline_zh": "为 For You 信息流提供服务",
+          "summary_short_zh": "<p><strong><a href=\" For You 信息流</a></strong></p> Bluesky 最有趣的功能之一是，任何人都可以运行自己的 <a href=\"bluesky custom feed\">自定义“信息流”实现</a>，并向其他用户开放，从而支持采用任意机制的自定义算法",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "843b0891da80",
@@ -3221,7 +3338,11 @@
               "published_at": "Thu, 23 Apr 2026 19:38:25 +0000"
             }
           ],
-          "route": "/hot/2026-04-24/topic/meet-noscroll-an-ai-bot-that-does-your-doomscrolling-for-you/"
+          "route": "/hot/2026-04-24/topic/meet-noscroll-an-ai-bot-that-does-your-doomscrolling-for-you/",
+          "headline_zh": "认识一下 Noscroll：替你刷负面信息的 AI 机器人",
+          "summary_short_zh": "Noscroll 希望用一个替你浏览网络的 AI 机器人，帮你戒掉不停刷负面信息的习惯",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "5b8f01d88993",
@@ -3259,7 +3380,11 @@
               "published_at": "Thu, 23 Apr 2026 12:00:00 +0000"
             }
           ],
-          "route": "/hot/2026-04-24/topic/here-s-how-our-tpus-power-increasingly-demanding-ai-workloads/"
+          "route": "/hot/2026-04-24/topic/here-s-how-our-tpus-power-increasingly-demanding-ai-workloads/",
+          "headline_zh": "我们的 TPU 如何支撑日益繁重的 AI 工作负载。",
+          "summary_short_zh": "Google 发文介绍了其 TPU 如何支撑日益繁重的 AI 工作负载，重点说明 TPU 硬件在现代 AI 系统训练和推理服务中的作用",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "d1fa7396188f",
@@ -3297,7 +3422,11 @@
               "published_at": "2026-04-23T10:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-24/topic/the-people-do-not-yearn-for-automation/"
+          "route": "/hot/2026-04-24/topic/the-people-do-not-yearn-for-automation/",
+          "headline_zh": "人们并不渴望自动化",
+          "summary_short_zh": "今天在 Decoder 节目中，我想谈谈一个想法。过去几周，我们一直在报道 AI，也在节目中展开讨论，而这个想法始终在我脑海中盘旋。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "05f983a48b5b",
@@ -3335,7 +3464,11 @@
               "published_at": "Thu, 23 Apr 2026 11:37:24 +0000"
             }
           ],
-          "route": "/hot/2026-04-24/topic/ai-7/"
+          "route": "/hot/2026-04-24/topic/ai-7/",
+          "headline_zh": "印奇站上AI+车浪潮之巅：7个月，千里科技和华为「五五开」",
+          "summary_short_zh": "L2+上车46万辆",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "dafa03ceb6fc",
@@ -3373,7 +3506,11 @@
               "published_at": "Thu, 23 Apr 2026 16:17:29 +0000"
             }
           ],
-          "route": "/hot/2026-04-24/topic/applying-multimodal-biological-foundation-models-across-therapeutics-and-patient-care/"
+          "route": "/hot/2026-04-24/topic/applying-multimodal-biological-foundation-models-across-therapeutics-and-patient-care/",
+          "headline_zh": "将多模态生物基础模型应用于治疗与患者照护",
+          "summary_short_zh": "一篇 AWS 博客文章介绍了多模态生物基础模型及其在治疗和患者照护中的应用，还说明了如何利用 AWS 基础设施构建和部署这些系统",
+          "why_it_matters_zh": "这篇教程见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "0b34f0cb1892",
@@ -3417,7 +3554,11 @@
               "published_at": "Thu, 23 Apr 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-04-24/topic/anthropic-has-appeared-to-begin-testing-removing-claude-code-from-their-20-plan-for-new-users-signing-up-openai-employees-have-already-begun-to-make-fun-of-them-for-this/"
+          "route": "/hot/2026-04-24/topic/anthropic-has-appeared-to-begin-testing-removing-claude-code-from-their-20-plan-for-new-users-signing-up-openai-employees-have-already-begun-to-make-fun-of-them-for-this/",
+          "headline_zh": "Anthropic 似乎已开始测试从新注册用户的 20 美元套餐中移除 Claude Code。OpenAI 员工已经开始为此嘲讽他们。",
+          "summary_short_zh": "一则社区消息称，Anthropic 已开始测试从部分新用户的 20 美元套餐中移除 Claude Code。帖子还提到了 OpenAI 员工对该消息的公开反应。",
+          "why_it_matters_zh": "有 1 个独立来源提及这一行业动态。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -3459,7 +3600,11 @@
           "published_at": "2026-04-21T14:22:21Z"
         }
       ],
-      "route": "/hot/2026-04-24/topic/tencent-hunyuan-hy3-preview/"
+      "route": "/hot/2026-04-24/topic/tencent-hunyuan-hy3-preview/",
+      "headline_zh": "Tencent-Hunyuan/Hy3-preview",
+      "summary_short_zh": "Hy3 预览版（295B A21B），在同规模模型中具备领先的推理和智能体能力，性价比出色",
+      "why_it_matters_zh": "有 1 个独立来源提及此次产品发布。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "1f3f463d2b45",
@@ -3506,7 +3651,11 @@
           "published_at": "2026-04-19T14:42:06Z"
         }
       ],
-      "route": "/hot/2026-04-24/topic/alchaincyf-huashu-design/"
+      "route": "/hot/2026-04-24/topic/alchaincyf-huashu-design/",
+      "headline_zh": "alchaincyf/huashu-design",
+      "summary_short_zh": "GitHub 仓库 huashu-design 提供适用于 Claude Code 的 HTML 原生设计技能，支持高保真原型、幻灯片、动画制作及 MP4 导出。",
+      "why_it_matters_zh": "有 2 个独立来源提及这一工具。",
+      "category_zh": "工具"
     }
   ],
   "x_buzz": [

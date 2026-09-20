@@ -2457,7 +2457,16 @@
           "published_at": "2026-04-16T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-04-16/topic/bytedance-seed-unveils-seed-full-duplex-speech-llm-for-real-time-voice-interaction/"
+      "route": "/hot/2026-04-16/topic/bytedance-seed-unveils-seed-full-duplex-speech-llm-for-real-time-voice-interaction/",
+      "headline_zh": "字节跳动 Seed 发布面向实时语音交互的 Seed Full-Duplex Speech LLM",
+      "summary_short_zh": "字节跳动 Seed 宣布推出 Seed Full-Duplex Speech LLM。该模型面向实时语音交互，具备专注倾听和干扰抑制能力。",
+      "why_it_matters_zh": "全双工语音是下一代 AI 助手、自动化通话和具身智能体的关键能力，可让对话轮次切换和打断处理更加自然。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "字节跳动 Seed 表示，Seed Full-Duplex Speech LLM 注重专注倾听、稳健的干扰抑制和更自然的实时交互。",
+        "此次公告还同时提及 Arena 上的 Dola-Seed-2.0-Preview，显示字节跳动可能正展示相关模型能力，同时拓展其基础模型品牌。",
+        "字节跳动还将此次发布与其 2027 年基础模型校园招聘宣传相结合，表明公司持续投入前沿模型的自主研发和产品化。"
+      ]
     },
     {
       "topic_id": "a54c1400344b",
@@ -2512,7 +2521,16 @@
           "published_at": "Wed, 15 Apr 2026 16:03:19 +0000"
         }
       ],
-      "route": "/hot/2026-04-16/topic/google-launches-gemini-3-1-flash-tts-for-controllable-expressive-speech/"
+      "route": "/hot/2026-04-16/topic/google-launches-gemini-3-1-flash-tts-for-controllable-expressive-speech/",
+      "headline_zh": "谷歌推出 Gemini 3.1 Flash TTS，支持可控且富有表现力的语音生成",
+      "summary_short_zh": "Google DeepMind 发布了 Gemini 3.1 Flash TTS，这是一款旨在生成富有表现力的 AI 语音的新音频模型。该模型新增细粒度音频标签，可更精准地控制生成的语音。",
+      "why_it_matters_zh": "谷歌正将更可控的语音生成能力融入 Gemini 产品。这对客服、媒体和智能体交互界面很重要，因为语音质量与可控性会影响用户采用意愿。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Gemini 3.1 Flash TTS 通过 Google AI Blog 和 DeepMind Blog 发布，消息有充分的官方来源支持。",
+        "该模型引入细粒度音频标签，让开发者能够比使用常规文本转语音提示词更精准地控制说话风格和表达方式。",
+        "此次发布将 Gemini 的商业多模态技术栈从文本和视觉拓展至更适合生产环境的音频生成，增强了谷歌在语音 AI API 领域的竞争力。"
+      ]
     },
     {
       "topic_id": "f3c7b4a18eb5",
@@ -2554,7 +2572,16 @@
           "published_at": "2026-04-16T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-04-16/topic/zhipu-ai-and-intel-expand-partnership-to-bring-qingyan-and-codegeex-on-device-to-ai-pcs/"
+      "route": "/hot/2026-04-16/topic/zhipu-ai-and-intel-expand-partnership-to-bring-qingyan-and-codegeex-on-device-to-ai-pcs/",
+      "headline_zh": "智谱 AI 与英特尔深化合作，将清言和 CodeGeeX 部署到 AI PC 本地",
+      "summary_short_zh": "智谱 AI 宣布与英特尔深化合作，聚焦 AI PC 应用。合作内容包括智谱清言和 CodeGeeX 编程助手的端侧版本，旨在通过云边一体化模型产品推动 AI PC 创新。",
+      "why_it_matters_zh": "这项合作是拓展边缘 AI 部署渠道的具体举措，可能影响企业的设备策略，尤其是在重视本地推理和生态掌控力的中国 AI PC 市场。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "智谱 AI 表示，与英特尔深化合作的重点是 AI PC 应用，从纯云端部署拓展到云边一体化产品。",
+        "合作涵盖智谱清言和 CodeGeeX 编程助手的端侧版本，为搭载英特尔处理器的 PC 提供原生 AI 助手和开发工具接入能力。",
+        "此次公告将智谱定位为终端 AI 分发的战略模型供应商，而不仅是 API 厂商，也强化了英特尔的 AI PC 软件生态。"
+      ]
     },
     {
       "topic_id": "24a4865aef2c",
@@ -2605,7 +2632,16 @@
           "published_at": "Wed, 15 Apr 2026 19:46:43 +0000"
         }
       ],
-      "route": "/hot/2026-04-16/topic/google-releases-gemini-desktop-apps-for-windows-and-macos/"
+      "route": "/hot/2026-04-16/topic/google-releases-gemini-desktop-apps-for-windows-and-macos/",
+      "headline_zh": "谷歌发布适用于 Windows 和 macOS 的 Gemini 桌面应用",
+      "summary_short_zh": "谷歌宣布推出适用于 Windows 和 macOS 的新桌面应用。报道指出，这家通常优先推出网页产品的公司正拓展原生桌面软件，其中包括 Mac 版 Gemini 应用。",
+      "why_it_matters_zh": "原生桌面应用比仅通过浏览器访问更便捷，有望显著提升 Gemini 在企业和个人工作流程中的使用率。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Ars Technica 和 Hacker News 的报道显示，谷歌已将 Gemini 带到 Windows 和 macOS，并推出了专用的 Mac 应用。",
+        "此次发布标志着谷歌的一项显著转变：该公司过去一直优先发展网页产品，而非原生桌面软件。",
+        "桌面应用让谷歌在日常办公流程中占据更有利的位置。应用入口、通知和操作系统级集成有助于提升用户留存，使其更好地与 ChatGPT 和 Copilot 竞争。"
+      ]
     },
     {
       "topic_id": "428b9d91b905",
@@ -2653,7 +2689,14 @@
           "published_at": "2026-04-16T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-04-16/topic/anthropic-s-claude-mythos-problem-dark-dna-unveiled-pitfalls-for-assistive-models-simulating-fluid-dynamics/"
+      "route": "/hot/2026-04-16/topic/anthropic-s-claude-mythos-problem-dark-dna-unveiled-pitfalls-for-assistive-models-simulating-fluid-dynamics/",
+      "headline_zh": "Anthropic 的 Claude Mythos 难题、暗 DNA 揭秘、辅助模型的潜在问题与流体动力学模拟",
+      "summary_short_zh": "这篇评论综述讨论了 Anthropic 的 Claude Mythos、暗 DNA、辅助模型的潜在问题和流体动力学模拟。它似乎是在汇总多个 AI 话题，而非宣布单一新事件。",
+      "why_it_matters_zh": "有 2 个独立来源提及此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Anthropic 宣布推出全新 Claude Mythos 模型"
+      ]
     }
   ],
   "category_sections": [
@@ -2697,7 +2740,11 @@
               "published_at": "Wed, 15 Apr 2026 10:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-04-16/topic/the-next-evolution-of-the-agents-sdk/"
+          "route": "/hot/2026-04-16/topic/the-next-evolution-of-the-agents-sdk/",
+          "headline_zh": "Agents SDK 的新一轮升级",
+          "summary_short_zh": "OpenAI 宣布对 Agents SDK 进行新一轮升级，加入原生沙箱执行能力和模型原生运行框架。此次更新旨在帮助开发者构建安全、可长时间运行的智能体，使其能够跨文件和工具执行任务",
+          "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "0d5c38dd6c1b",
@@ -2735,7 +2782,11 @@
               "published_at": "2026-04-16T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-16/topic/openai-s-gpt-5-4-cyber-rejects-mythos-playbook/"
+          "route": "/hot/2026-04-16/topic/openai-s-gpt-5-4-cyber-rejects-mythos-playbook/",
+          "headline_zh": "OpenAI 的 GPT-5.4-Cyber 拒绝采用 Mythos 的策略",
+          "summary_short_zh": "一则新闻标题称，OpenAI 的 GPT-5.4-Cyber 拒绝采用 Mythos 的策略。该消息涉及 GPT-5.4 的网络安全专用版本，以及与 Mythos 有关的一项具体评估或政策结果",
+          "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "f302d3ece9bd",
@@ -2773,7 +2824,11 @@
               "published_at": "Wed, 15 Apr 2026 00:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-04-16/topic/parcae-doing-more-with-fewer-parameters-using-stable-looped-models/"
+          "route": "/hot/2026-04-16/topic/parcae-doing-more-with-fewer-parameters-using-stable-looped-models/",
+          "headline_zh": "Parcae：借助稳定的循环模型，用更少参数实现更强性能",
+          "summary_short_zh": "Parcae 是一种稳定的循环语言模型，效果可媲美参数规模为其两倍的 Transformer，7.7 亿参数模型可达到 13 亿参数模型的性能水平。我们首次提出了循环模型的缩放定律，并表明，增加循环次数，而不只是增加数据量，是一条更高效利用算力的途径……",
+          "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "ffcd5ea410af",
@@ -2820,7 +2875,11 @@
               "published_at": "2026-04-15T14:10:15-04:00"
             }
           ],
-          "route": "/hot/2026-04-16/topic/google-launches-a-gemini-ai-app-on-mac/"
+          "route": "/hot/2026-04-16/topic/google-launches-a-gemini-ai-app-on-mac/",
+          "headline_zh": "Google 推出 Mac 版 Gemini AI 应用",
+          "summary_short_zh": "Google 推出了 Mac 版 Gemini 应用，用户无需切换窗口即可使用该助手。该应用支持通过 Option + Space 快捷键从桌面打开 Gemini",
+          "why_it_matters_zh": "2 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2864,7 +2923,11 @@
               "published_at": "Wed, 15 Apr 2026 18:38:10 +0000"
             }
           ],
-          "route": "/hot/2026-04-16/topic/ai-learning-app-gizmo-levels-up-with-13m-users-and-a-22m-investment/"
+          "route": "/hot/2026-04-16/topic/ai-learning-app-gizmo-levels-up-with-13m-users-and-a-22m-investment/",
+          "headline_zh": "AI 学习应用 Gizmo 用户达 1300 万，获 2200 万美元投资",
+          "summary_short_zh": "AI 学习平台 Gizmo 已吸引超过 1300 万用户，并刚刚获得 2200 万美元 A 轮融资",
+          "why_it_matters_zh": "1 个独立来源报道了这笔融资。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "cce08526ae91",
@@ -2902,7 +2965,11 @@
               "published_at": "Wed, 15 Apr 2026 18:55:12 +0000"
             }
           ],
-          "route": "/hot/2026-04-16/topic/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/"
+          "route": "/hot/2026-04-16/topic/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/",
+          "headline_zh": "AI 营销工具推动 Hightouch 年度经常性收入达到 1 亿美元",
+          "summary_short_zh": "这家初创公司表示，推出面向营销人员的 AI 智能体平台后，仅用 20 个月就让年度经常性收入增加了 7000 万美元",
+          "why_it_matters_zh": "1 个独立来源报道了这笔融资。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "ac35342dd8cd",
@@ -2940,7 +3007,11 @@
               "published_at": "2026-04-15T12:13:30-04:00"
             }
           ],
-          "route": "/hot/2026-04-16/topic/allbirds-announced-a-switch-from-shoes-to-ai-and-its-stock-jumped-600-percent/"
+          "route": "/hot/2026-04-16/topic/allbirds-announced-a-switch-from-shoes-to-ai-and-its-stock-jumped-600-percent/",
+          "headline_zh": "Allbirds 宣布从鞋业转向 AI，股价暴涨 600%",
+          "summary_short_zh": "Allbirds 十年前凭 Wool Runner 鞋款走红，但在 2021 年以 40 亿美元估值上市后，公司始终未能盈利，2022 至 2025 年间销售额下滑了近 50%。",
+          "why_it_matters_zh": "1 个独立来源报道了这笔融资。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -2984,7 +3055,11 @@
               "published_at": "Wed, 15 Apr 2026 19:34:33 +0000"
             }
           ],
-          "route": "/hot/2026-04-16/topic/boston-dynamics-robot-dog-now-reads-gauges-and-thermometers-with-google-s-ai/"
+          "route": "/hot/2026-04-16/topic/boston-dynamics-robot-dog-now-reads-gauges-and-thermometers-with-google-s-ai/",
+          "headline_zh": "波士顿动力机器狗现可借助谷歌 AI 读取仪表和温度计",
+          "summary_short_zh": "波士顿动力正为机器狗配备谷歌 AI，使其能在工业巡检中读取仪表和温度计。这一部署展示了具备视觉能力的 AI 在日常设施监测中的应用。",
+          "why_it_matters_zh": "这则行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "daa2f446d687",
@@ -3022,7 +3097,11 @@
               "published_at": "Thu, 16 Apr 2026 04:28:09 +0000"
             }
           ],
-          "route": "/hot/2026-04-16/topic/claude/"
+          "route": "/hot/2026-04-16/topic/claude/",
+          "headline_zh": "Claude实名认证引众怒！强制验证是为了更精准封号",
+          "summary_short_zh": "Opus自己都看不下去了",
+          "why_it_matters_zh": "这则其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "3de3c50b12c2",
@@ -3060,7 +3139,11 @@
               "published_at": "Wed, 15 Apr 2026 18:33:20 +0000"
             }
           ],
-          "route": "/hot/2026-04-16/topic/can-ai-judge-journalism-a-thiel-backed-startup-says-yes-even-if-it-risks-chilling-whistleblowers/"
+          "route": "/hot/2026-04-16/topic/can-ai-judge-journalism-a-thiel-backed-startup-says-yes-even-if-it-risks-chilling-whistleblowers/",
+          "headline_zh": "AI 能评判新闻报道吗？获蒂尔支持的初创公司称能，尽管可能让举报者不敢发声",
+          "summary_short_zh": "获蒂尔支持的初创公司 Objection 计划用 AI 评判新闻报道，让用户付费质疑报道。批评者警告，此举可能让举报者不敢发声，并改变媒体问责方式。",
+          "why_it_matters_zh": "这则其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "ec8ba92d0c62",
@@ -3098,7 +3181,11 @@
               "published_at": "Wed, 15 Apr 2026 18:51:54 +0000"
             }
           ],
-          "route": "/hot/2026-04-16/topic/linkedin-data-shows-ai-isn-t-to-blame-for-hiring-decline-yet/"
+          "route": "/hot/2026-04-16/topic/linkedin-data-shows-ai-isn-t-to-blame-for-hiring-decline-yet/",
+          "headline_zh": "领英数据显示，招聘下滑并非 AI 所致……至少目前如此",
+          "summary_short_zh": "领英表示，自 2022 年以来招聘量已下降 20%，但将这一放缓归因于利率上升，而非 AI。",
+          "why_it_matters_zh": "这则其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "dd090b4dc68f",
@@ -3142,7 +3229,11 @@
               "published_at": "Wed, 15 Apr 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-04-16/topic/anthropic-is-set-to-release-claude-opus-4-7-and-a-new-ai-design-tool-as-early-as-this-week/"
+          "route": "/hot/2026-04-16/topic/anthropic-is-set-to-release-claude-opus-4-7-and-a-new-ai-design-tool-as-early-as-this-week/",
+          "headline_zh": "Anthropic 最早将于本周发布 Claude Opus 4.7 和一款新 AI 设计工具",
+          "summary_short_zh": "据报道，Anthropic 正准备发布 Claude Opus 4.7 和一款新 AI 设计工具，最早可能于本周推出。",
+          "why_it_matters_zh": "这则行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -3186,7 +3277,11 @@
               "published_at": "2026-04-16T00:18:03+00:00"
             }
           ],
-          "route": "/hot/2026-04-16/topic/datasette-io-news-preview/"
+          "route": "/hot/2026-04-16/topic/datasette-io-news-preview/",
+          "headline_zh": "datasette.io 新闻预览",
+          "summary_short_zh": "<p><strong>工具：</strong> <a href=\" 新闻预览</a></p> <p>该 <a href=\" 网站的新闻栏目基于其 GitHub 仓库中的这个 <a href=\" 文件构建。",
+          "why_it_matters_zh": "这则工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "659c789c231e",
@@ -3224,7 +3319,11 @@
               "published_at": "Wed, 15 Apr 2026 19:28:36 +0000"
             }
           ],
-          "route": "/hot/2026-04-16/topic/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/"
+          "route": "/hot/2026-04-16/topic/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
+          "headline_zh": "OpenAI 更新 Agents SDK，帮助企业构建更安全、能力更强的智能体",
+          "summary_short_zh": "随着智能体 AI 日益普及，OpenAI 扩展了其智能体开发工具包的功能。",
+          "why_it_matters_zh": "这则工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "5e27e12cf7af",
@@ -3262,7 +3361,11 @@
               "published_at": "2026-04-16T00:19:40Z"
             }
           ],
-          "route": "/hot/2026-04-16/topic/agent-native-mac-os-x-coding-ide-harness/"
+          "route": "/hot/2026-04-16/topic/agent-native-mac-os-x-coding-ide-harness/",
+          "headline_zh": "Agent：Mac OS X 原生编程 IDE / harness",
+          "summary_short_zh": "Hacker News 上的一篇帖子介绍了 Agent，一款 Mac OS X 原生编程 IDE 和 harness。帖子仅提供产品名称和定位，没有更多技术细节。",
+          "why_it_matters_zh": "这则工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "048d59287236",
@@ -3300,7 +3403,11 @@
               "published_at": "2026-04-15T13:22:10Z"
             }
           ],
-          "route": "/hot/2026-04-16/topic/mcp-as-observability-interface-connecting-ai-agents-to-kernel-tracepoints/"
+          "route": "/hot/2026-04-16/topic/mcp-as-observability-interface-connecting-ai-agents-to-kernel-tracepoints/",
+          "headline_zh": "将 MCP 用作可观测性接口：连接 AI 智能体与内核跟踪点",
+          "summary_short_zh": "Hacker News 上的一则讨论聚焦于将 MCP 用作可观测性接口，让 AI 智能体连接到内核跟踪点。其中介绍了一种将智能体系统与底层系统遥测数据对接的方法。",
+          "why_it_matters_zh": "这则工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     }
@@ -3346,7 +3453,11 @@
               "published_at": "Wed, 15 Apr 2026 15:20:58 +0000"
             }
           ],
-          "route": "/hot/2026-04-16/topic/accelerating-decode-heavy-llm-inference-with-speculative-decoding-on-aws-trainium-and-vllm/"
+          "route": "/hot/2026-04-16/topic/accelerating-decode-heavy-llm-inference-with-speculative-decoding-on-aws-trainium-and-vllm/",
+          "headline_zh": "在 AWS Trainium 和 vLLM 上利用推测解码加速解码密集型 LLM 推理",
+          "summary_short_zh": "AWS 发布了一篇技术文章，讨论如何将推测解码用于解码密集型 LLM 推理。文章介绍了如何在 AWS Trainium2 和 vLLM 上使用该方法，降低单个 token 的生成成本。",
+          "why_it_matters_zh": "这篇教程见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "c755ce19e20c",
@@ -3384,7 +3495,11 @@
               "published_at": "2026-04-15T06:55:22-04:00"
             }
           ],
-          "route": "/hot/2026-04-16/topic/grok-s-sexual-deepfakes-almost-got-it-banned-from-apple-s-app-store-almost/"
+          "route": "/hot/2026-04-16/topic/grok-s-sexual-deepfakes-almost-got-it-banned-from-apple-s-app-store-almost/",
+          "headline_zh": "Grok 因色情深度伪造内容差点被苹果 App Store 下架。只是差点。",
+          "summary_short_zh": "据 NBC News 报道，由于埃隆·马斯克的 AI 应用 Grok 未能遏制 X 上激增的未经当事人同意的色情深度伪造内容，苹果曾于 1 月私下威胁将其从 App Store 下架。",
+          "why_it_matters_zh": "这则其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "fb1d828486ea",
@@ -3422,7 +3537,11 @@
               "published_at": "2026-04-15T09:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-16/topic/adobe-embraces-conversational-ai-editing-marking-a-fundamental-shift-in-creative-work/"
+          "route": "/hot/2026-04-16/topic/adobe-embraces-conversational-ai-editing-marking-a-fundamental-shift-in-creative-work/",
+          "headline_zh": "Adobe 拥抱对话式 AI 编辑，标志着创作工作的“根本性转变”",
+          "summary_short_zh": "Adobe 正全面采用 AI 工具，让创作者通过描述性提示词编辑作品，无需手动操作特定的 Creative Cloud 应用。",
+          "why_it_matters_zh": "这则其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "107716f38bef",
@@ -3460,7 +3579,11 @@
               "published_at": "Wed, 15 Apr 2026 15:15:23 +0000"
             }
           ],
-          "route": "/hot/2026-04-16/topic/rede-mater-dei-de-sa-de-monitoring-ai-agents-in-the-revenue-cycle-with-amazon-bedrock-agentcore/"
+          "route": "/hot/2026-04-16/topic/rede-mater-dei-de-sa-de-monitoring-ai-agents-in-the-revenue-cycle-with-amazon-bedrock-agentcore/",
+          "headline_zh": "Rede Mater Dei de Saúde：使用 Amazon Bedrock AgentCore 监控收入周期中的 AI 智能体",
+          "summary_short_zh": "AWS 发布了一篇案例介绍，讨论如何监控医疗机构收入周期业务中的 AI 智能体。Rede Mater Dei de Saúde 的实施方案采用了 Amazon Bedrock AgentCore。",
+          "why_it_matters_zh": "这篇教程见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "9da83888a0dd",
@@ -3504,7 +3627,11 @@
               "published_at": "2026-04-16T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-16/topic/ais-can-now-often-do-massive-easy-to-verify-swe-tasks-and-i-ve-updated-towards-shorter-timelines-lesswrong/"
+          "route": "/hot/2026-04-16/topic/ais-can-now-often-do-massive-easy-to-verify-swe-tasks-and-i-ve-updated-towards-shorter-timelines-lesswrong/",
+          "headline_zh": "AI 如今往往能完成规模庞大且易于验证的软件工程任务，我也因此下调了对 AI 发展所需时间的预估（LessWrong）",
+          "summary_short_zh": "该条目链接到 LessWrong 上的一篇文章，文中认为 AI 系统如今已能完成许多规模庞大且易于验证的软件工程任务。作者还表示，自己已下调了对 AI 发展所需时间的预估。",
+          "why_it_matters_zh": "这篇观点文章见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "96a8a2c3b904",
@@ -3542,7 +3669,11 @@
               "published_at": "2026-04-16T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-16/topic/artificial-intelligence-made-simple/"
+          "route": "/hot/2026-04-16/topic/artificial-intelligence-made-simple/",
+          "headline_zh": "轻松理解人工智能",
+          "summary_short_zh": "Last Week in AI 发布了题为《轻松理解人工智能》的内容。从标题和来源看，这似乎属于讲解或教学类内容，而非突发新闻。",
+          "why_it_matters_zh": "这篇教程见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "e91f83ed10a8",
@@ -3586,7 +3717,11 @@
               "published_at": "2026-04-16T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-04-16/topic/ten-different-ways-of-thinking-about-gradual-disempowerment-david-krueger-the-real-ai-substack/"
+          "route": "/hot/2026-04-16/topic/ten-different-ways-of-thinking-about-gradual-disempowerment-david-krueger-the-real-ai-substack/",
+          "headline_zh": "思考渐进式失权的十种不同视角（David Krueger，The Real AI，Substack）",
+          "summary_short_zh": "该条目链接到 David Krueger 的一篇文章，概述了思考渐进式失权的十种方式。这是一篇通过 Import AI 传播的分析评论文章。",
+          "why_it_matters_zh": "这篇观点文章见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "822246a5759c",
@@ -3624,7 +3759,10 @@
               "published_at": "2026-04-15T11:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-04-16/topic/openai-s-plan-for-the-intelligence-age/"
+          "route": "/hot/2026-04-16/topic/openai-s-plan-for-the-intelligence-age/",
+          "headline_zh": "OpenAI 的智能时代计划",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -3666,7 +3804,11 @@
           "published_at": "2026-04-16T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-04-16/topic/latent-planning-emerges-with-scale/"
+      "route": "/hot/2026-04-16/topic/latent-planning-emerges-with-scale/",
+      "headline_zh": "隐式规划随规模扩大而涌现",
+      "summary_short_zh": "大语言模型无需明确表述计划，就能完成看似需要大量规划的任务，如写出连贯的故事或可运行的代码；但其隐式规划的程度尚不清楚。",
+      "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+      "category_zh": "研究"
     },
     {
       "topic_id": "4b7cc17737ff",
@@ -3704,7 +3846,11 @@
           "published_at": "2026-04-16T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-04-16/topic/how-learning-rates-regulate-catastrophic-overtraining/"
+      "route": "/hot/2026-04-16/topic/how-learning-rates-regulate-catastrophic-overtraining/",
+      "headline_zh": "学习率（如何）调控灾难性过度训练",
+      "summary_short_zh": "监督微调（SFT）是大语言模型后训练中常见的第一阶段，用于教会模型遵循指令，并塑造其行为，使其成为有用的助手。",
+      "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+      "category_zh": "研究"
     },
     {
       "topic_id": "bbe538c98777",
@@ -3742,7 +3888,11 @@
           "published_at": "2026-04-16T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-04-16/topic/a-complete-symmetry-classification-of-shallow-relu-networks/"
+      "route": "/hot/2026-04-16/topic/a-complete-symmetry-classification-of-shallow-relu-networks/",
+      "headline_zh": "浅层 ReLU 网络的完整对称性分类",
+      "summary_short_zh": "对神经网络架构而言，参数空间并不等同于函数空间。早在 20 世纪 90 年代，研究者就以“逆向工程”或“参数可辨识性”等术语探讨过这一事实，由此自然引出了参数空间对称性问题，即研究不同的……",
+      "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+      "category_zh": "研究"
     }
   ],
   "x_buzz": [

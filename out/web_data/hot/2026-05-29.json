@@ -2624,7 +2624,16 @@
           "published_at": "2026-05-28T23:59:50+00:00"
         }
       ],
-      "route": "/hot/2026-05-29/topic/claude-opus-4-8-is-now-available-on-aws/"
+      "route": "/hot/2026-05-29/topic/claude-opus-4-8-is-now-available-on-aws/",
+      "headline_zh": "Claude Opus 4.8 现已在 AWS 上线",
+      "summary_short_zh": "本文介绍 Opus 4.8 的改进，并为 AI 工程师提供实用指导，帮助他们将该模型集成到 Amazon Bedrock 上的智能体系统和生产环境推理工作负载中",
+      "why_it_matters_zh": "有 4 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "<p>Anthropic 今天发布了 <a href=\"https://www.anthropic.com/news/claude-opus-4-8\">Claude Opus 4.8</a>。发布公告中，我最喜欢的是这段话：</p> <blockquote> <p>Us...",
+        "这是我们 Opus 系列模型的一次升级，在编程、智能体任务和专业工作中表现更强，并能稳定处理长时间运行的任务。",
+        "本文介绍 Opus 4.8 的改进，并为 AI 工程师提供实用指导，帮助他们将该模型集成到 Amazon Bedrock 上的智能体系统和生产环境推理工作负载中。"
+      ]
     },
     {
       "topic_id": "686c924de5bc",
@@ -2676,7 +2685,13 @@
           "published_at": "Thu, 28 May 2026 05:44:39 GMT"
         }
       ],
-      "route": "/hot/2026-05-29/topic/anthropic-raises-65b-in-series-h-funding-at-965b-post-money-valuation/"
+      "route": "/hot/2026-05-29/topic/anthropic-raises-65b-in-series-h-funding-at-965b-post-money-valuation/",
+      "headline_zh": "Anthropic 完成 650 亿美元 H 轮融资，投后估值达 9650 亿美元",
+      "why_it_matters_zh": "有 3 个独立来源报道了此次融资。",
+      "category_zh": "市场信号",
+      "key_takeaways_zh": [
+        "Anthropic 已完成 650 亿美元 H 轮融资，投后估值达 9650 亿美元。这可能是这家 AI 初创公司在备受期待的 IPO 前的最后一轮私募融资。"
+      ]
     },
     {
       "topic_id": "d99644088ff6",
@@ -2716,7 +2731,14 @@
           "published_at": "Thu, 28 May 2026 18:10:47 +0000"
         }
       ],
-      "route": "/hot/2026-05-29/topic/build-a-test-suite-that-grows-with-your-agent-with-dataset-management-in-amazon-bedrock-agentcore/"
+      "route": "/hot/2026-05-29/topic/build-a-test-suite-that-grows-with-your-agent-with-dataset-management-in-amazon-bedrock-agentcore/",
+      "headline_zh": "利用 Amazon Bedrock AgentCore 的数据集管理功能，构建随智能体一同成长的测试套件",
+      "summary_short_zh": "将快速变化的线上信号与稳定的离线基线结合，智能体评估效果最佳。要判断智能体是否在持续改进，除了不断变化的真实流量，还需要固定的基准测试。",
+      "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "将快速变化的线上信号与稳定的离线基线结合，智能体评估效果最佳。要判断智能体是否在持续改进，需要固定的基准..."
+      ]
     },
     {
       "topic_id": "f01b79e2fb5a",
@@ -2756,7 +2778,14 @@
           "published_at": "Thu, 28 May 2026 20:39:22 +0000"
         }
       ],
-      "route": "/hot/2026-05-29/topic/build-a-custom-portal-with-embedded-amazon-sagemaker-ai-mlflow-apps/"
+      "route": "/hot/2026-05-29/topic/build-a-custom-portal-with-embedded-amazon-sagemaker-ai-mlflow-apps/",
+      "headline_zh": "构建嵌入 Amazon SageMaker AI MLflow Apps 的自定义门户",
+      "summary_short_zh": "本文介绍如何构建嵌入 SageMaker AI MLflow Apps 界面的自定义门户。",
+      "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "本文介绍如何构建嵌入 SageMaker AI MLflow Apps 界面的自定义门户。你将了解 React 前端搭配 Flask 反向代理的架构模式..."
+      ]
     },
     {
       "topic_id": "f3131f8f4c07",
@@ -2794,7 +2823,11 @@
           "published_at": "Thu, 28 May 2026 20:58:00 +0000"
         }
       ],
-      "route": "/hot/2026-05-29/topic/a-new-era-of-innovation-google-research-at-i-o-2026/"
+      "route": "/hot/2026-05-29/topic/a-new-era-of-innovation-google-research-at-i-o-2026/",
+      "headline_zh": "创新新时代：Google Research 亮相 I/O 2026",
+      "summary_short_zh": "综合科学",
+      "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布"
     }
   ],
   "category_sections": [
@@ -2844,7 +2877,11 @@
               "published_at": "2026-05-28T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-29/topic/use-grok-in-kilo-code/"
+          "route": "/hot/2026-05-29/topic/use-grok-in-kilo-code/",
+          "headline_zh": "在 Kilo Code 中使用 Grok",
+          "summary_short_zh": "我们速度最快的编程模型 Grok Build 0.1 现已通过 xAI API 开放公测",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "2c6e9a165354",
@@ -2882,7 +2919,11 @@
               "published_at": "Thu, 28 May 2026 15:00:00 +0000"
             }
           ],
-          "route": "/hot/2026-05-29/topic/catch-up-on-12-major-i-o-2026-moments/"
+          "route": "/hot/2026-05-29/topic/catch-up-on-12-major-i-o-2026-moments/",
+          "headline_zh": "回顾 I/O 2026 的 12 个重要时刻",
+          "summary_short_zh": "黑色背景上的彩色 I/O 标志，周围环绕着 I/O 主题演讲的截图",
+          "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "fecf72527956",
@@ -2920,7 +2961,11 @@
               "published_at": "Thu, 28 May 2026 12:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-05-29/topic/how-endava-builds-an-agentic-organization-with-codex/"
+          "route": "/hot/2026-05-29/topic/how-endava-builds-an-agentic-organization-with-codex/",
+          "headline_zh": "Endava 如何利用 Codex 打造智能体驱动的组织",
+          "summary_short_zh": "了解 Endava 如何利用 Codex 打造智能体驱动的组织，加快软件交付，将需求分析时间从数周缩短至数小时",
+          "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "4ca0a91a15cd",
@@ -2958,7 +3003,11 @@
               "published_at": "2026-05-28T13:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-29/topic/claude-s-new-model-is-more-honest-when-it-messes-up/"
+          "route": "/hot/2026-05-29/topic/claude-s-new-model-is-more-honest-when-it-messes-up/",
+          "headline_zh": "Claude 的新模型犯错时更“诚实”",
+          "summary_short_zh": "Anthropic 将于周四发布 Claude Opus 4.8，并大力宣传该模型的“诚实”。Anthropic 表示，它会训练“旗下所有模型保持诚实，例如避免作出缺乏依据的断言”。但该公司也指出，“AI 模型普遍存在的一个问题是，它们",
+          "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "41835ebf65c1",
@@ -2996,7 +3045,11 @@
               "published_at": "Thu, 28 May 2026 00:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-05-29/topic/mufg-aims-to-become-ai-native-with-openai/"
+          "route": "/hot/2026-05-29/topic/mufg-aims-to-become-ai-native-with-openai/",
+          "headline_zh": "MUFG 希望借助 OpenAI 转型为 AI 原生企业",
+          "summary_short_zh": "MUFG 利用 ChatGPT Enterprise 打造 AI 原生组织，改进工作流程，并大规模提供由 AI 驱动的新型金融服务",
+          "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -3040,7 +3093,11 @@
               "published_at": "Fri, 29 May 2026 00:44:37 +0000"
             }
           ],
-          "route": "/hot/2026-05-29/topic/glean-s-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/"
+          "route": "/hot/2026-05-29/topic/glean-s-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
+          "headline_zh": "Glean 营收突破 3 亿美元，削减 AI 开支成为其主要卖点",
+          "summary_short_zh": "尽管科技巨头纷纷进入这一领域，这家企业 AI 搜索初创公司的年营收仍增至原来的三倍",
+          "why_it_matters_zh": "1 个独立来源报道了这笔融资。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "234e4d969e8f",
@@ -3078,7 +3135,11 @@
               "published_at": "2026-05-28T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-29/topic/cohere-acquires-reliant-ai-to-expand-sovereign-enterprise-ai/"
+          "route": "/hot/2026-05-29/topic/cohere-acquires-reliant-ai-to-expand-sovereign-enterprise-ai/",
+          "headline_zh": "Cohere 收购 Reliant AI，拓展企业主权 AI 业务",
+          "summary_short_zh": "此次收购有助于 Cohere 在监管严格的全球医疗保健和生命科学行业推进其全球主权 AI 战略",
+          "why_it_matters_zh": "1 个独立来源报道了此次收购。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "dcfb4212dbe9",
@@ -3125,7 +3186,11 @@
               "published_at": "2026-05-29T01:23:08+00:00"
             }
           ],
-          "route": "/hot/2026-05-29/topic/anthropic-s-run-rate-revenue-hits-47-billion/"
+          "route": "/hot/2026-05-29/topic/anthropic-s-run-rate-revenue-hits-47-billion/",
+          "headline_zh": "Anthropic 年化营收达 470 亿美元",
+          "summary_short_zh": "<p><a href=\" 650 亿美元 H 轮融资公告</a>中最有意思的是这句话（加粗为我所加）：</p> <blockquote> <p>自我们 2 月完成 G 轮融资以来，全球企业客户对我们产品的采用持续增长，我们的年化营收此前已突破<strong>470 亿美元</strong>",
+          "why_it_matters_zh": "2 个独立来源报道了这笔融资。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -3169,7 +3234,10 @@
               "published_at": "2026-05-29T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-29/topic/seedance-makes-a-splash-nvidia-s-ai-guided-chip-designs-helping-robots-not-forget/"
+          "route": "/hot/2026-05-29/topic/seedance-makes-a-splash-nvidia-s-ai-guided-chip-designs-helping-robots-not-forget/",
+          "headline_zh": "Seedance 引发轰动、英伟达用 AI 辅助芯片设计、帮助机器人避免遗忘",
+          "why_it_matters_zh": "1 个独立来源报道了这一行业动向。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "048d377c0bed",
@@ -3207,7 +3275,11 @@
               "published_at": "Thu, 28 May 2026 21:24:01 +0000"
             }
           ],
-          "route": "/hot/2026-05-29/topic/the-internet-is-being-rebuilt-for-machines/"
+          "route": "/hot/2026-05-29/topic/the-internet-is-being-rebuilt-for-machines/",
+          "headline_zh": "互联网正在为机器而重构",
+          "summary_short_zh": "随着 AI 智能体从实验阶段走向生产环境，AWS、Cloudflare 等公司正在重新设计云基础设施，迎接机器生成的流量取代人类用户流量、主导互联网的未来",
+          "why_it_matters_zh": "这条行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "7cb343337f52",
@@ -3245,7 +3317,11 @@
               "published_at": "2026-05-28T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-29/topic/new-compute-partnership-with-anthropic/"
+          "route": "/hot/2026-05-29/topic/new-compute-partnership-with-anthropic/",
+          "headline_zh": "与 Anthropic 达成新的算力合作",
+          "summary_short_zh": "SpaceXAI 已与 Anthropic 签署协议，向其提供 Colossus 1 的使用权限",
+          "why_it_matters_zh": "这条行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "ffbecade1976",
@@ -3283,7 +3359,11 @@
               "published_at": "2026-05-28T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-29/topic/cohere-aleph-alpha-join-forces/"
+          "route": "/hot/2026-05-29/topic/cohere-aleph-alpha-join-forces/",
+          "headline_zh": "Cohere 与 Aleph Alpha 联手",
+          "summary_short_zh": "在各国和企业寻求技术自主权之际，Cohere 与 Aleph Alpha 联手打造全球 AI 巨头",
+          "why_it_matters_zh": "这条行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "335d38283523",
@@ -3321,7 +3401,10 @@
               "published_at": "2026-05-29T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-29/topic/import-ai-457-ai-stuxnet-cursed-muon-optimizer-and-positive-alignment/"
+          "route": "/hot/2026-05-29/topic/import-ai-457-ai-stuxnet-cursed-muon-optimizer-and-positive-alignment/",
+          "headline_zh": "Import AI 457：AI 版震网、邪门的 Muon 优化器与正向对齐",
+          "why_it_matters_zh": "这条其他资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -3365,7 +3448,11 @@
               "published_at": "Thu, 28 May 2026 20:35:44 +0000"
             }
           ],
-          "route": "/hot/2026-05-29/topic/streamline-external-access-to-amazon-sagemaker-mlflow-using-a-rest-api-proxy/"
+          "route": "/hot/2026-05-29/topic/streamline-external-access-to-amazon-sagemaker-mlflow-using-a-rest-api-proxy/",
+          "headline_zh": "通过 REST API 代理简化对 Amazon SageMaker MLflow 的外部访问",
+          "summary_short_zh": "本文演示如何构建基于 Flask 的安全 MLflow 代理服务，无需 MLflow SDK 即可通过 HTTPS 访问 Amazon SageMaker MLflow。",
+          "why_it_matters_zh": "这条工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "d43614d981cc",
@@ -3403,7 +3490,11 @@
               "published_at": "Thu, 28 May 2026 21:54:06 +0000"
             }
           ],
-          "route": "/hot/2026-05-29/topic/training-azerbaijani-language-models-on-amazon-sagemaker-ai/"
+          "route": "/hot/2026-05-29/topic/training-azerbaijani-language-models-on-amazon-sagemaker-ai/",
+          "headline_zh": "在 Amazon SageMaker AI 上训练阿塞拜疆语语言模型",
+          "summary_short_zh": "阿塞拜疆领先的电信服务商 Azercell Telecom LLC 希望在 Amazon SageMaker AI 上构建阿塞拜疆语大语言模型（LLM），用于电信业务场景和面向客户的聊天机器人。",
+          "why_it_matters_zh": "这条工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "dcb4cbc672c6",
@@ -3441,7 +3532,11 @@
               "published_at": "Thu, 28 May 2026 16:41:07 +0000"
             }
           ],
-          "route": "/hot/2026-05-29/topic/automate-aml-alert-triage-with-amazon-quick-and-snowflake-cortex-ai/"
+          "route": "/hot/2026-05-29/topic/automate-aml-alert-triage-with-amazon-quick-and-snowflake-cortex-ai/",
+          "headline_zh": "用 Amazon Quick 和 Snowflake Cortex AI 实现反洗钱警报自动分级",
+          "summary_short_zh": "本文展示了这一集成方案如何自动完成金融服务业最耗费人力的工作流程之一：反洗钱（AML）警报分级。",
+          "why_it_matters_zh": "这条工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     }
@@ -3487,7 +3582,11 @@
               "published_at": "2026-05-28T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-29/topic/cohere-and-mila-partner-to-advance-quebec-french-language-in-ai/"
+          "route": "/hot/2026-05-29/topic/cohere-and-mila-partner-to-advance-quebec-french-language-in-ai/",
+          "headline_zh": "Cohere 与 Mila 合作提升 AI 对魁北克法语的支持",
+          "summary_short_zh": "Cohere 与 Mila 宣布了一项新的学术研究合作计划，旨在改进跨语言、跨文化的 AI 评估，首先聚焦魁北克的法语文化语境",
+          "why_it_matters_zh": "这条产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "b8acb438f7a5",
@@ -3525,7 +3624,11 @@
               "published_at": "2026-05-28T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-29/topic/cohere-releases-command-a-for-agentic-ai-sovereignty/"
+          "route": "/hot/2026-05-29/topic/cohere-releases-command-a-for-agentic-ai-sovereignty/",
+          "headline_zh": "Cohere 发布 Command A+，助力智能体 AI 自主可控",
+          "summary_short_zh": "以极低的算力需求提供高级推理能力。Command A+ 为全球政府和受监管行业提供完整的数据主权。",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "5ffcf9d3673e",
@@ -3563,7 +3666,11 @@
               "published_at": "2026-05-28T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-29/topic/what-is-model-context-protocol-mcp-cohere/"
+          "route": "/hot/2026-05-29/topic/what-is-model-context-protocol-mcp-cohere/",
+          "headline_zh": "什么是模型上下文协议（MCP）| Cohere",
+          "summary_short_zh": "了解模型上下文协议的工作原理，以及企业如何利用 MCP 将 AI 应用连接到数据、工具和业务系统。",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "773fa5ae66ef",
@@ -3601,7 +3708,11 @@
               "published_at": "2026-05-28T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-29/topic/ai-now-summit-2026/"
+          "route": "/hot/2026-05-29/topic/ai-now-summit-2026/",
+          "headline_zh": "AI Now 2026 峰会",
+          "summary_short_zh": "公司",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "a774413443a8",
@@ -3639,7 +3750,11 @@
               "published_at": "2026-05-28T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-29/topic/connect-grok-to-hermes-agent/"
+          "route": "/hot/2026-05-29/topic/connect-grok-to-hermes-agent/",
+          "headline_zh": "将 Grok 接入 Hermes Agent",
+          "summary_short_zh": "在 Nous Research 开源、可自我改进的 Hermes 智能体中使用你的 Grok 账号和订阅。",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "e9f25af46c78",
@@ -3677,7 +3792,11 @@
               "published_at": "2026-05-28T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-29/topic/introducing-grok-build/"
+          "route": "/hot/2026-05-29/topic/introducing-grok-build/",
+          "headline_zh": "推出 Grok Build",
+          "summary_short_zh": "我们速度最快的编程模型 Grok Build 0.1 现已通过 xAI API 开放公测。",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "b77a92c944e4",
@@ -3715,7 +3834,11 @@
               "published_at": "2026-05-28T10:33:31-04:00"
             }
           ],
-          "route": "/hot/2026-05-29/topic/these-new-ios-27-renders-hint-at-siri-s-big-redesign/"
+          "route": "/hot/2026-05-29/topic/these-new-ios-27-renders-hint-at-siri-s-big-redesign/",
+          "headline_zh": "iOS 27 新渲染图暗示 Siri 将迎来大幅改版",
+          "summary_short_zh": "人们期待已久的苹果 Siri 大改版预计将随 iOS 27 推出，外观可能很像融入了些许 Liquid Glass 元素的 ChatGPT。彭博社的渲染图展示了 iOS 27 的初步样貌，包括 Siri 的新应用和聊天界面。",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "2daa0e09d8c4",
@@ -3753,7 +3876,11 @@
               "published_at": "Thu, 28 May 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-05-29/topic/researchers-let-ai-models-run-a-simulated-society-claude-was-the-safest-and-grok-committed-180-crimes-and-went-extinct-within-4-days/"
+          "route": "/hot/2026-05-29/topic/researchers-let-ai-models-run-a-simulated-society-claude-was-the-safest-and-grok-committed-180-crimes-and-went-extinct-within-4-days/",
+          "headline_zh": "研究人员让 AI 模型管理模拟社会：Claude 最安全，Grok 却犯下 180 起罪行，并在 4 天内灭绝",
+          "summary_short_zh": "Emergence AI 推出 Emergence World 实验室，用于对持续运行的多智能体 AI 社会进行压力测试，并运行了 5 个模拟世界，每个持续 15 天，分别由 Claude、ChatGPT/GPT-5-mini、Grok、Gemini 和混合模型配置治理（《财富》）。",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     }
@@ -3795,7 +3922,10 @@
           "published_at": "2026-05-28T12:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-05-29/topic/introducing-dubbing-v2/"
+      "route": "/hot/2026-05-29/topic/introducing-dubbing-v2/",
+      "headline_zh": "推出 Dubbing v2",
+      "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+      "category_zh": "产品发布"
     }
   ],
   "x_buzz": [

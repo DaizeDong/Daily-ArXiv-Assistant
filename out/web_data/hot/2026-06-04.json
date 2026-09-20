@@ -2122,7 +2122,16 @@
           "published_at": "Wed, 03 Jun 2026 17:55:37 +0000"
         }
       ],
-      "route": "/hot/2026-06-04/topic/fundamental-s-large-tabular-model-nexus-is-now-available-on-amazon-sagemaker-jumpstart/"
+      "route": "/hot/2026-06-04/topic/fundamental-s-large-tabular-model-nexus-is-now-available-on-amazon-sagemaker-jumpstart/",
+      "headline_zh": "Fundamental 的大型表格模型 NEXUS 现已登陆 Amazon SageMaker JumpStart",
+      "summary_short_zh": "Fundamental 的大型表格模型 NEXUS 现已在 Amazon SageMaker JumpStart 上推出。AWS 的文章介绍了部署步骤，并演示了如何使用企业数据集进行预测",
+      "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "本文介绍如何结合使用监督微调（SFT）和直接偏好优化（DPO），提升小语言模型（SLM）的工具调用准确率。示例中...",
+        "本文介绍如何在 Amazon SageMaker JumpStart 上开始使用 NEXUS，详细讲解部署过程，并演示如何使用企业数据集进行预测。",
+        "本文介绍 Amazon Bedrock Ops Alert，这是一套三层自动化监控方案，可主动检测运维问题、动态调整告警阈值、对告警进行分类..."
+      ]
     },
     {
       "topic_id": "41401524f5e6",
@@ -2162,7 +2171,14 @@
           "published_at": "Wed, 03 Jun 2026 18:37:32 +0000"
         }
       ],
-      "route": "/hot/2026-06-04/topic/the-next-chapter-in-flood-resilience-open-sourcing-google-s-hydrology-framework/"
+      "route": "/hot/2026-06-04/topic/the-next-chapter-in-flood-resilience-open-sourcing-google-s-hydrology-framework/",
+      "headline_zh": "提升洪灾应对能力的新篇章：Google 开源水文框架",
+      "summary_short_zh": "气候与可持续发展",
+      "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "气候与可持续发展"
+      ]
     },
     {
       "topic_id": "3004a479c745",
@@ -2210,7 +2226,16 @@
           "published_at": "2026-06-03T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-06-04/topic/use-grok-in-openclaw/"
+      "route": "/hot/2026-06-04/topic/use-grok-in-openclaw/",
+      "headline_zh": "在 OpenClaw 中使用 Grok",
+      "summary_short_zh": "在开源、本地优先的智能体和个人助手 OpenClaw 中使用你的 SuperGrok 或 X Premium 订阅",
+      "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "为数百万个 Vapi 智能体带来顶尖语音品质。",
+        "在开源、本地优先的智能体和个人助手 OpenClaw 中使用你的 SuperGrok 或 X Premium 订阅。",
+        "在 OpenCode 中使用你的 SuperGrok 或 X Premium 订阅。"
+      ]
     },
     {
       "topic_id": "c3da0df44966",
@@ -2250,7 +2275,14 @@
           "published_at": "Wed, 03 Jun 2026 12:00:00 GMT"
         }
       ],
-      "route": "/hot/2026-06-04/topic/how-wasmer-used-codex-to-build-a-node-js-runtime-for-the-edge/"
+      "route": "/hot/2026-06-04/topic/how-wasmer-used-codex-to-build-a-node-js-runtime-for-the-edge/",
+      "headline_zh": "Wasmer 如何使用 Codex 构建面向边缘计算的 Node.js 运行时",
+      "summary_short_zh": "了解 Wasmer 如何借助 Codex 和 GPT-5.5 构建面向边缘计算的 Node.js 运行时，将开发速度提升至原来的 10 至 20 倍，把交付周期从数月缩短至数周",
+      "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "了解 Wasmer 如何借助 Codex 和 GPT-5.5 构建面向边缘计算的 Node.js 运行时，将开发速度提升至原来的 10 至 20 倍，把交付周期从数月缩短至数周。"
+      ]
     },
     {
       "topic_id": "abd81fc0a95d",
@@ -2290,7 +2322,14 @@
           "published_at": "Wed, 03 Jun 2026 13:15:00 GMT"
         }
       ],
-      "route": "/hot/2026-06-04/topic/introducing-new-capabilities-to-gpt-rosalind/"
+      "route": "/hot/2026-06-04/topic/introducing-new-capabilities-to-gpt-rosalind/",
+      "headline_zh": "GPT-Rosalind 新增多项能力",
+      "summary_short_zh": "GPT-Rosalind 增强了生物学推理、药物化学、基因组学分析及实验工作流能力，推动生命科学研究",
+      "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "GPT-Rosalind 增强了生物学推理、药物化学、基因组学分析及实验工作流能力，推动生命科学研究。"
+      ]
     }
   ],
   "category_sections": [
@@ -2334,7 +2373,11 @@
               "published_at": "2026-06-04T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-04/topic/biohub-releases-a-world-model-of-protein-biology-biohub/"
+          "route": "/hot/2026-06-04/topic/biohub-releases-a-world-model-of-protein-biology-biohub/",
+          "headline_zh": "Biohub 发布蛋白质生物学世界模型（biohub）",
+          "summary_short_zh": "Biohub 发布蛋白质生物学世界模型（biohub",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "884188a6e87d",
@@ -2378,7 +2421,11 @@
               "published_at": "2026-06-03T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-06-04/topic/introducing-grok-build/"
+          "route": "/hot/2026-06-04/topic/introducing-grok-build/",
+          "headline_zh": "推出 Grok Build",
+          "summary_short_zh": "Grok Build 是一款可直接在终端运行的全新编程智能体，现已向所有 SuperGrok 和 X Premium Plus 订阅用户开放早期测试。",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "a41c4eff5f79",
@@ -2416,7 +2463,11 @@
               "published_at": "2026-06-03T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-06-04/topic/composer-2-5/"
+          "route": "/hot/2026-06-04/topic/composer-2-5/",
+          "headline_zh": "Composer 2.5",
+          "summary_short_zh": "为数百万 Vapi 智能体带来顶级语音品质",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "9de5ad06eff2",
@@ -2454,7 +2505,11 @@
               "published_at": "2026-06-03T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-06-04/topic/grok-imagine-1-5-preview/"
+          "route": "/hot/2026-06-04/topic/grok-imagine-1-5-preview/",
+          "headline_zh": "Grok Imagine 1.5 预览版",
+          "summary_short_zh": "为数百万 Vapi 智能体带来顶级语音品质",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "c3ccfd18fe81",
@@ -2492,7 +2547,11 @@
               "published_at": "2026-06-03T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-06-04/topic/introducing-command-a-cohere/"
+          "route": "/hot/2026-06-04/topic/introducing-command-a-cohere/",
+          "headline_zh": "推出 Command A+ | Cohere",
+          "summary_short_zh": "Cohere 推出 Command A+，这是其迄今速度最快、能力最强的语言模型。该模型面向高性能企业智能体，注重效率，并以开源形式提供。",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2536,7 +2595,11 @@
               "published_at": "Wed, 03 Jun 2026 19:38:32 +0000"
             }
           ],
-          "route": "/hot/2026-06-04/topic/alphabet-s-record-breaking-85b-raise-for-google-s-ai-business-is-a-helluva-good-signal/"
+          "route": "/hot/2026-06-04/topic/alphabet-s-record-breaking-85b-raise-for-google-s-ai-business-is-a-helluva-good-signal/",
+          "headline_zh": "Alphabet 为 Google AI 业务创纪录融资 850 亿美元，释放强烈利好信号",
+          "summary_short_zh": "如果 Alphabet 创纪录的 850 亿美元股票发售反映了投资者对 AI 相关股票发行的兴趣，那他们显然已准备好大举买入。",
+          "why_it_matters_zh": "此次融资见于 1 个独立来源。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "b7630849f9d0",
@@ -2574,7 +2637,11 @@
               "published_at": "2026-06-03T12:07:31-04:00"
             }
           ],
-          "route": "/hot/2026-06-04/topic/amazon-8217-s-search-bar-will-invent-ai-generated-products-you-can-8217-t-buy/"
+          "route": "/hot/2026-06-04/topic/amazon-8217-s-search-bar-will-invent-ai-generated-products-you-can-8217-t-buy/",
+          "headline_zh": "Amazon 搜索栏将用 AI 生成你买不到的商品",
+          "summary_short_zh": "Amazon 更新后的搜索栏会根据你的描述，展示 AI 生成的商品图片。目前，应用内的这项功能仅展示服装和家居用品的 AI 生成图片，你可以点击最符合需求的图片，搜索外观相似的商品。",
+          "why_it_matters_zh": "此次收购见于 1 个独立来源。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -2628,7 +2695,11 @@
               "published_at": "2026-06-03T04:45:48-04:00"
             }
           ],
-          "route": "/hot/2026-06-04/topic/5-ways-google-search-can-level-up-your-thrift-and-vintage-shopping/"
+          "route": "/hot/2026-06-04/topic/5-ways-google-search-can-level-up-your-thrift-and-vintage-shopping/",
+          "headline_zh": "用 Google 搜索提升二手和复古商品购物体验的 5 种方法",
+          "summary_short_zh": "一幅色彩丰富、带颗粒质感的拼贴画，各种物品散落在浅蓝色背景上，包括绿色渔夫帽、木衣架、蓝红条纹衣领、蓝色太阳镜、牛仔短裤、黄色价签、红色高跟鞋……",
+          "why_it_matters_zh": "这条其他类消息见于 3 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "a998cfc6a9f3",
@@ -2673,7 +2744,11 @@
               "published_at": "2026-06-03T12:01:27+00:00"
             }
           ],
-          "route": "/hot/2026-06-04/topic/lovable-signs-multiyear-deal-with-google-cloud-to-up-usage-5x-source-says/"
+          "route": "/hot/2026-06-04/topic/lovable-signs-multiyear-deal-with-google-cloud-to-up-usage-5x-source-says/",
+          "headline_zh": "消息人士称，Lovable 与 Google Cloud 签署多年协议，将使用量增至原来的 5 倍",
+          "summary_short_zh": "TechCrunch 报道，Lovable 与 Google Cloud 签署了一项扩大合作的多年协议。据称，该协议将使 Lovable 的 Google Cloud 使用量增至原来的 5 倍，并扩大其对 Anthropic Claude 模型的访问权限。",
+          "why_it_matters_zh": "这则行业动态见于 2 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "637da51cde99",
@@ -2711,7 +2786,11 @@
               "published_at": "Wed, 03 Jun 2026 10:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-06-04/topic/openai-public-policy-agenda/"
+          "route": "/hot/2026-06-04/topic/openai-public-policy-agenda/",
+          "headline_zh": "OpenAI 公共政策议程",
+          "summary_short_zh": "OpenAI 阐述了其 AI 公共政策议程，涵盖安全、青少年保护、劳动力转型和全球标准，旨在确保 AI 造福社会。",
+          "why_it_matters_zh": "这则行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "91da794ce47c",
@@ -2749,7 +2828,11 @@
               "published_at": "2026-06-04T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-04/topic/5-min-read-anthropic-beats-openai-to-the-ipo-filing/"
+          "route": "/hot/2026-06-04/topic/5-min-read-anthropic-beats-openai-to-the-ipo-filing/",
+          "headline_zh": "阅读需 5 分钟｜Anthropic 先于 OpenAI 提交 IPO 申请",
+          "summary_short_zh": "报道称，Anthropic 先于 OpenAI 提交首次公开募股（IPO）申请，并将这一进展视为两家领先 AI 公司竞争中的一个里程碑。",
+          "why_it_matters_zh": "这则行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "caea64c53f71",
@@ -2787,7 +2870,10 @@
               "published_at": "2026-06-04T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-04/topic/import-ai-459-ai-oversight-is-difficult-scaling-laws-for-protein-folding-models-and-pricing-the-extinction-risk-of-ai-systems/"
+          "route": "/hot/2026-06-04/topic/import-ai-459-ai-oversight-is-difficult-scaling-laws-for-protein-folding-models-and-pricing-the-extinction-risk-of-ai-systems/",
+          "headline_zh": "Import AI 第 459 期：AI 监管困难重重；蛋白质折叠模型的缩放定律；为 AI 系统带来的灭绝风险定价",
+          "why_it_matters_zh": "这则其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -2831,7 +2917,11 @@
               "published_at": "Wed, 03 Jun 2026 10:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-06-04/topic/a-blueprint-for-democratic-governance-of-frontier-ai/"
+          "route": "/hot/2026-06-04/topic/a-blueprint-for-democratic-governance-of-frontier-ai/",
+          "headline_zh": "前沿 AI 民主治理蓝图",
+          "summary_short_zh": "OpenAI 概述了美国前沿 AI 治理蓝图，提议建立涵盖安全、韧性和国家安全的联邦框架。",
+          "why_it_matters_zh": "这则工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "036dd706f90c",
@@ -2869,7 +2959,11 @@
               "published_at": "Wed, 03 Jun 2026 19:07:42 +0000"
             }
           ],
-          "route": "/hot/2026-06-04/topic/google-s-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/"
+          "route": "/hot/2026-06-04/topic/google-s-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
+          "headline_zh": "Google 迄今名字最古怪的 AI 工具 Dreambeans，将把你的生活变成卡通",
+          "summary_short_zh": "Dreambeans 是一组精选“故事”，取材于你 Google 账号中的个人数据，并配有 AI 生成的插图。",
+          "why_it_matters_zh": "这则工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "916d51c7ddb8",
@@ -2907,7 +3001,11 @@
               "published_at": "2026-06-03T10:04:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-04/topic/microsoft-and-openai-broke-up-now-they-re-ready-to-fight/"
+          "route": "/hot/2026-06-04/topic/microsoft-and-openai-broke-up-now-they-re-ready-to-fight/",
+          "headline_zh": "Microsoft 与 OpenAI 分道扬镳，如今准备正面交锋",
+          "summary_short_zh": "Microsoft 在周二的年度 Build 大会上宣布了一系列新推出或扩展的 AI 项目，包括一款超级应用、自研推理模型、一款网络安全工具，以及类似 OpenClaw 的 AI 智能体。",
+          "why_it_matters_zh": "这则工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "8d17d75a615f",
@@ -2945,7 +3043,11 @@
               "published_at": "2026-06-02T22:21:52+00:00"
             }
           ],
-          "route": "/hot/2026-06-04/topic/microsoft-s-new-mai-models/"
+          "route": "/hot/2026-06-04/topic/microsoft-s-new-mai-models/",
+          "headline_zh": "Microsoft 的新 MAI 模型",
+          "summary_short_zh": "<p>Microsoft 今早发布了<a href=\" 两款新的文本大语言模型</a>：<strong><a href=\"（推理模型，总参数 1 万亿，激活参数 350 亿，向“部分早期合作伙伴”开放）和 <strong><a href=\"（总参数 1370 亿，激活参数 50 亿，“专为 GitHub Copilot 和 VS Code 打造，旨在提供高性能并降低成本",
+          "why_it_matters_zh": "这则工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     }
@@ -2991,7 +3093,11 @@
               "published_at": "2026-06-04T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-04/topic/where-is-ai-in-gdp-statistics-piie/"
+          "route": "/hot/2026-06-04/topic/where-is-ai-in-gdp-statistics-piie/",
+          "headline_zh": "AI 在 GDP 统计中体现在哪里？（PIIE）",
+          "summary_short_zh": "AI 在 GDP 统计中体现在哪里？（PIIE",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "7c144c3c9db1",
@@ -3029,7 +3135,11 @@
               "published_at": "Thu, 04 Jun 2026 03:10:23 +0000"
             }
           ],
-          "route": "/hot/2026-06-04/topic/gpt-plus/"
+          "route": "/hot/2026-06-04/topic/gpt-plus/",
+          "headline_zh": "一个GPT Plus会员的钱，够机器人跑一个月世界模型了",
+          "summary_short_zh": "不多不少，只要150",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "ffbecade1976",
@@ -3067,7 +3177,11 @@
               "published_at": "2026-06-03T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-06-04/topic/cohere-aleph-alpha-join-forces/"
+          "route": "/hot/2026-06-04/topic/cohere-aleph-alpha-join-forces/",
+          "headline_zh": "Cohere 与 Aleph Alpha 联手",
+          "summary_short_zh": "Cohere 与 Aleph Alpha 宣布合作，共同打造规模更大、专注企业市场的 AI 厂商。公告强调，政府和企业希望更好地掌控自己的 AI 技术栈。",
+          "why_it_matters_zh": "这条行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "aac9209e73ef",
@@ -3105,7 +3219,11 @@
               "published_at": "2026-06-03T13:45:35-04:00"
             }
           ],
-          "route": "/hot/2026-06-04/topic/as-ai-gets-better-it-reveals-an-empty-promise/"
+          "route": "/hot/2026-06-04/topic/as-ai-gets-better-it-reveals-an-empty-promise/",
+          "headline_zh": "AI 越强大，越暴露出承诺的空洞",
+          "summary_short_zh": "本周，我的同事 David Pierce 和 Jay Peters 分别上手体验了 Google 的新 Gemini AI 智能体 Spark。两人的感受很相似：它的效果好得让人害怕。",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "2940e0caed26",
@@ -3143,7 +3261,11 @@
               "published_at": "Wed, 03 Jun 2026 19:10:03 +0000"
             }
           ],
-          "route": "/hot/2026-06-04/topic/google-s-new-gemma-4-12b-model-is-designed-to-run-on-any-laptop-with-16gb-of-ram/"
+          "route": "/hot/2026-06-04/topic/google-s-new-gemma-4-12b-model-is-designed-to-run-on-any-laptop-with-16gb-of-ram/",
+          "headline_zh": "Google 新款 Gemma 4 12B 模型可在任何配备 16GB 内存的笔记本电脑上运行",
+          "summary_short_zh": "Gemma 4 12B 采用新的编码方案和词元预测技术，展现出超越自身规模的性能",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "a3bd88ffb681",
@@ -3181,7 +3303,11 @@
               "published_at": "Jun 3, 2026"
             }
           ],
-          "route": "/hot/2026-06-04/topic/introducing-the-services-track-and-partner-hub-of-the-claude-partner-network/"
+          "route": "/hot/2026-06-04/topic/introducing-the-services-track-and-partner-hub-of-the-claude-partner-network/",
+          "headline_zh": "Claude 合作伙伴网络推出服务合作计划与合作伙伴中心",
+          "summary_short_zh": "Anthropic 宣布在 Claude 合作伙伴网络中推出服务合作计划与合作伙伴中心。此次更新扩大了公司的合作伙伴生态，并为服务商和合作伙伴建立了正式的新合作渠道。",
+          "why_it_matters_zh": "这条行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "5b76d06b0de5",
@@ -3219,7 +3345,11 @@
               "published_at": "2026-06-03T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-06-04/topic/ensemble-brings-agentic-ai-to-rcm-platform-with-cohere/"
+          "route": "/hot/2026-06-04/topic/ensemble-brings-agentic-ai-to-rcm-platform-with-cohere/",
+          "headline_zh": "Ensemble 携手 Cohere，为 RCM 平台引入 AI 智能体",
+          "summary_short_zh": "Ensemble 正利用 Cohere 的技术，为其收入周期管理（RCM）平台添加 AI 智能体自动化功能。此次合作的核心是一款面向 RCM 工作流程定制的医疗领域语言模型。",
+          "why_it_matters_zh": "这条行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "f997b4e838e9",
@@ -3257,7 +3387,11 @@
               "published_at": "Wed, 03 Jun 2026 15:00:00 +0000"
             }
           ],
-          "route": "/hot/2026-06-04/topic/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/"
+          "route": "/hot/2026-06-04/topic/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/",
+          "headline_zh": "这两位创始人从高盛和 Meta 离职，为被他人忽视的市场打造语音 AI",
+          "summary_short_zh": "这家初创公司面向非洲和中东市场的自有技术栈，如今每天处理超过 17,000 通电话",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -3299,7 +3433,11 @@
           "published_at": "2026-06-03T18:55:02Z"
         }
       ],
-      "route": "/hot/2026-06-04/topic/tastyeffectco-sandboxes/"
+      "route": "/hot/2026-06-04/topic/tastyeffectco-sandboxes/",
+      "headline_zh": "tastyeffectco/sandboxes",
+      "summary_short_zh": "自托管开发沙箱，支持预览 URL。一条命令即可启动，无需 Kubernetes，适合编程智能体和 SaaS 工厂。",
+      "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+      "category_zh": "产品发布"
     }
   ],
   "x_buzz": [

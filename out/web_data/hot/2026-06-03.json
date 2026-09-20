@@ -1967,7 +1967,16 @@
           "published_at": "2026-06-03T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-06-03/topic/introducing-seed-full-duplex-speech-llm/"
+      "route": "/hot/2026-06-03/topic/introducing-seed-full-duplex-speech-llm/",
+      "headline_zh": "Seed Full-Duplex Speech LLM 亮相",
+      "summary_short_zh": "字节跳动 Seed 推出了 Seed Full-Duplex Speech LLM。公告强调专注倾听、干扰抑制和更自然的语音交互。",
+      "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "字节跳动 Seed 宣布启动 2027 年基础模型校园招聘计划，包括实习岗位。这是一则发布在公司博客上的招聘新闻。",
+        "字节跳动 Seed 宣布在 Arena 上发布 Dola-Seed-2.0-Preview 模型。文章表明，该模型的早期预览版已开放，可用于评测或公开对比。",
+        "字节跳动 Seed 推出了 Seed Full-Duplex Speech LLM，强调专注倾听、强大的抗干扰能力和更自然的交互。此次发布聚焦语音模型……"
+      ]
     },
     {
       "topic_id": "c3ccfd18fe81",
@@ -2007,7 +2016,14 @@
           "published_at": "2026-06-03T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-06-03/topic/introducing-command-a-cohere/"
+      "route": "/hot/2026-06-03/topic/introducing-command-a-cohere/",
+      "headline_zh": "Command A+ 亮相 | Cohere",
+      "summary_short_zh": "Cohere 宣布推出 Command A+，称其为公司迄今速度最快、性能最强的语言模型。公司表示，该模型开源，专为高效处理企业级智能体工作负载而设计。",
+      "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Cohere 迄今速度最快、性能最强的语言模型：一款以最高效率运行高性能企业级智能体的开源模型。"
+      ]
     },
     {
       "topic_id": "095b6a0d4914",
@@ -2047,7 +2063,14 @@
           "published_at": "2026-06-03T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-06-03/topic/cohere-transcribe-state-of-the-art-speech-recognition/"
+      "route": "/hot/2026-06-03/topic/cohere-transcribe-state-of-the-art-speech-recognition/",
+      "headline_zh": "Cohere Transcribe：业界领先的语音识别",
+      "summary_short_zh": "Cohere 推出了语音识别产品 Cohere Transcribe，用于将企业音频转换为文本。公司称，该产品适用于搜索、分析和自动化工作流。",
+      "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "无与伦比的准确度与速度。Transcribe 将企业音频数据转写为精确文本，用于搜索、分析和自动化。"
+      ]
     },
     {
       "topic_id": "5ae3e9e44d4a",
@@ -2096,7 +2119,14 @@
           "published_at": "2026-06-02T18:19:27Z"
         }
       ],
-      "route": "/hot/2026-06-03/topic/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/"
+      "route": "/hot/2026-06-03/topic/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/",
+      "headline_zh": "微软推出受 OpenClaw 启发的个人助手 Scout",
+      "summary_short_zh": "Microsoft Scout 是在 Build 大会上推出的全新 AI 助手，旨在将 OpenClaw 的强大功能和灵活性引入 Microsoft 365。",
+      "why_it_matters_zh": "有 2 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Microsoft Scout 是在 Build 大会上推出的全新 AI 助手，旨在将 OpenClaw 的强大功能和灵活性引入 Microsoft 365。"
+      ]
     },
     {
       "topic_id": "8d17d75a615f",
@@ -2136,7 +2166,14 @@
           "published_at": "2026-06-02T22:21:52+00:00"
         }
       ],
-      "route": "/hot/2026-06-03/topic/microsoft-s-new-mai-models/"
+      "route": "/hot/2026-06-03/topic/microsoft-s-new-mai-models/",
+      "headline_zh": "微软的新 MAI 模型",
+      "summary_short_zh": "微软发布了新的 MAI 文本语言模型，Simon Willison 就此撰文。文章介绍了这些新模型，并附上微软公告资料的链接。",
+      "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "<p>微软今早<a href=\"https://microsoft.ai/news/building-a-hillclimbing-machine-launching-seven-new-mai-models/\">发布了两款新的文本大语言模型</a>，<strong><a href=\"https://microsoft.ai..."
+      ]
     }
   ],
   "category_sections": [
@@ -2180,7 +2217,11 @@
               "published_at": "2026-06-03T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-03/topic/biohub-releases-a-world-model-of-protein-biology-biohub/"
+          "route": "/hot/2026-06-03/topic/biohub-releases-a-world-model-of-protein-biology-biohub/",
+          "headline_zh": "Biohub 发布蛋白质生物学领域的世界模型（biohub）",
+          "summary_short_zh": "Biohub 发布蛋白质生物学领域的世界模型（biohub",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "fb81e22dc1ce",
@@ -2218,7 +2259,11 @@
               "published_at": "2026-06-02T14:12:44-04:00"
             }
           ],
-          "route": "/hot/2026-06-03/topic/microsoft-s-first-advanced-reasoning-ai-is-here/"
+          "route": "/hot/2026-06-03/topic/microsoft-s-first-advanced-reasoning-ai-is-here/",
+          "headline_zh": "微软首款高级推理 AI 正式亮相",
+          "summary_short_zh": "微软在 Build 2026 上发布了多款自研 AI 模型，其中包括全新“旗舰”模型 MAI-Thinking-1。这是微软进军模型开发领域的一次雄心勃勃的尝试。微软去年才推出首批自研模型，此前一直依赖 OpenAI 的模型。",
+          "why_it_matters_zh": "此次产品发布获 1 个独立来源报道。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "b199c1928832",
@@ -2256,7 +2301,11 @@
               "published_at": "Tue, 02 Jun 2026 07:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-06-03/topic/advancing-youth-safety-and-opportunity-through-global-leadership/"
+          "route": "/hot/2026-06-03/topic/advancing-youth-safety-and-opportunity-through-global-leadership/",
+          "headline_zh": "发挥全球领导力，保障青少年安全、拓展发展机遇",
+          "summary_short_zh": "OpenAI 呼吁全球采取行动，保障青少年使用 AI 的安全，并提议成立国际机构，以加强安全防护、完善标准，为青少年创造更多机会。",
+          "why_it_matters_zh": "此次产品发布获 1 个独立来源报道。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "eb8b0efe5ee9",
@@ -2294,7 +2343,11 @@
               "published_at": "Tue, 02 Jun 2026 00:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-06-03/topic/serving-minimax-m3-for-efficient-inference-unlocking-1m-token-context-and-multimodality-without-regrets/"
+          "route": "/hot/2026-06-03/topic/serving-minimax-m3-for-efficient-inference-unlocking-1m-token-context-and-multimodality-without-regrets/",
+          "headline_zh": "MiniMax-M3 高效推理部署：百万 Token 上下文与多模态能力兼得",
+          "summary_short_zh": "Together 如何利用 KV-block-major 稀疏注意力、分页 MSA 解码、优化的索引评分和基于 Rust 的多模态网关，高效提供 MiniMax-M3 推理服务",
+          "why_it_matters_zh": "此次产品发布获 1 个独立来源报道。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "e8039158f285",
@@ -2338,7 +2391,11 @@
               "published_at": "Tue, 02 Jun 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-06-03/topic/voice-dictation-should-be-free-open-source-local-first/"
+          "route": "/hot/2026-06-03/topic/voice-dictation-should-be-free-open-source-local-first/",
+          "headline_zh": "语音输入应免费、开源、本地优先",
+          "summary_short_zh": "Freestyle 发布了一款免费、开源且优先在本地运行的语音输入应用早期预览版，面向 macOS、Windows 和 Linux 用户。",
+          "why_it_matters_zh": "此次产品发布获 1 个独立来源报道。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2382,7 +2439,11 @@
               "published_at": "2026-06-03T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-06-03/topic/cohere-aleph-alpha-join-forces/"
+          "route": "/hot/2026-06-03/topic/cohere-aleph-alpha-join-forces/",
+          "headline_zh": "Cohere 与 Aleph Alpha 联手",
+          "summary_short_zh": "Cohere 与 Aleph Alpha 宣布合作，打造面向全球的 AI 解决方案。公告强调，客户和各国都希望增强对 AI 技术的掌控。",
+          "why_it_matters_zh": "这一行业动向获 1 个独立来源报道。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "eb13042047c6",
@@ -2429,7 +2490,11 @@
               "published_at": "2026-06-02T15:23:52-04:00"
             }
           ],
-          "route": "/hot/2026-06-03/topic/microsoft-build-2026-the-7-biggest-announcements/"
+          "route": "/hot/2026-06-03/topic/microsoft-build-2026-the-7-biggest-announcements/",
+          "headline_zh": "微软 Build 2026：7 项重磅发布",
+          "summary_short_zh": "微软刚刚拉开 Build 2026 的帷幕，由首席执行官萨提亚·纳德拉及其他公司高管发表主题演讲。不出所料，演讲公布了众多新品与更新，涵盖新款 Surface 硬件、全天候在线的个人助理，以及微软自研 AI 模型的多项更新。",
+          "why_it_matters_zh": "这一行业动向获 2 个独立来源报道。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "2b2a73e43039",
@@ -2473,7 +2538,11 @@
               "published_at": "2026-06-03T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-03/topic/5-min-read-anthropic-beats-openai-to-the-ipo-filing/"
+          "route": "/hot/2026-06-03/topic/5-min-read-anthropic-beats-openai-to-the-ipo-filing/",
+          "headline_zh": "阅读需 5 分钟：Anthropic 抢先 OpenAI 提交 IPO 申请",
+          "summary_short_zh": "该标题称，Anthropic 先于 OpenAI 提交了 IPO 申请，并将此视为 AI 行业的一项重要企业里程碑。",
+          "why_it_matters_zh": "这一行业动向获 1 个独立来源报道。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "5b76d06b0de5",
@@ -2511,7 +2580,11 @@
               "published_at": "2026-06-03T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-06-03/topic/ensemble-brings-agentic-ai-to-rcm-platform-with-cohere/"
+          "route": "/hot/2026-06-03/topic/ensemble-brings-agentic-ai-to-rcm-platform-with-cohere/",
+          "headline_zh": "Ensemble 携手 Cohere，为收入周期管理（RCM）平台引入智能体 AI",
+          "summary_short_zh": "Ensemble 宣布与 Cohere 合作，为其收入周期管理平台引入智能体 AI 自动化功能。此次部署采用专为医疗收入周期管理（RCM）定制的 Cohere 大语言模型",
+          "why_it_matters_zh": "该行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "00ca47022e54",
@@ -2549,7 +2622,10 @@
               "published_at": "2026-06-03T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-03/topic/seedance-makes-a-splash-nvidia-s-ai-guided-chip-designs-helping-robots-not-forget/"
+          "route": "/hot/2026-06-03/topic/seedance-makes-a-splash-nvidia-s-ai-guided-chip-designs-helping-robots-not-forget/",
+          "headline_zh": "Seedance 引发轰动；英伟达的 AI 辅助芯片设计；帮助机器人避免遗忘",
+          "why_it_matters_zh": "该行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -2593,7 +2669,11 @@
               "published_at": "2026-05-29T09:13:26Z"
             }
           ],
-          "route": "/hot/2026-06-03/topic/jdevalk-specification-website/"
+          "route": "/hot/2026-06-03/topic/jdevalk-specification-website/",
+          "headline_zh": "jdevalk/specification.website",
+          "summary_short_zh": "GitHub 仓库 specification.website 是一个不依赖特定平台的网站规范项目，近期受到广泛关注。项目采用 MIT 许可证，涵盖 HTML、无障碍、安全、SEO 和智能体适配指南",
+          "why_it_matters_zh": "该工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "fa9dedb2cf9e",
@@ -2631,7 +2711,11 @@
               "published_at": "Tue, 02 Jun 2026 19:02:21 +0000"
             }
           ],
-          "route": "/hot/2026-06-03/topic/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/"
+          "route": "/hot/2026-06-03/topic/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
+          "headline_zh": "微软新工具让开发者通过文本描述快速创建 AI 行为测试",
+          "summary_short_zh": "微软周二发布了 Adaptive Spec-driven Scoring for Evaluation and Regression Testing，这是一个用于快速创建 AI 评测的开源框架",
+          "why_it_matters_zh": "该工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "afc21219b69a",
@@ -2669,7 +2753,11 @@
               "published_at": "2026-06-02T14:33:42-04:00"
             }
           ],
-          "route": "/hot/2026-06-03/topic/trump-signs-executive-order-to-review-ai-models-before-they-re-released/"
+          "route": "/hot/2026-06-03/topic/trump-signs-executive-order-to-review-ai-models-before-they-re-released/",
+          "headline_zh": "特朗普签署行政令，推动 AI 模型发布前审查",
+          "summary_short_zh": "美国总统唐纳德·特朗普周二签署行政令，建立一套“自愿框架”，供 AI 企业在模型发布前向联邦政府共享其前沿模型，以“促进安全创新并加强关键基础设施的网络安全”。该命令称",
+          "why_it_matters_zh": "该工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "8d0be0a496dd",
@@ -2707,7 +2795,11 @@
               "published_at": "Tue, 02 Jun 2026 02:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-06-03/topic/codex-is-becoming-a-productivity-tool-for-everyone/"
+          "route": "/hot/2026-06-03/topic/codex-is-becoming-a-productivity-tool-for-everyone/",
+          "headline_zh": "Codex 正成为面向所有人的生产力工具",
+          "summary_short_zh": "《The Next Era of Knowledge Work》报告探讨了 Codex 如何通过 AI 驱动的研究、数据分析、工作流自动化和内容创作提升生产力",
+          "why_it_matters_zh": "该工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "71c1106549be",
@@ -2745,7 +2837,11 @@
               "published_at": "Tue, 02 Jun 2026 09:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-06-03/topic/codex-for-every-role-tool-and-workflow/"
+          "route": "/hot/2026-06-03/topic/codex-for-every-role-tool-and-workflow/",
+          "headline_zh": "Codex 适用于各种角色、工具和工作流",
+          "summary_short_zh": "了解 Codex 新推出的插件、网站和批注功能，帮助分析师、营销人员、设计师、投资者及其他团队借助 AI 完成更多工作",
+          "why_it_matters_zh": "该工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     },
@@ -2789,7 +2885,10 @@
               "published_at": "2026-06-03T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-03/topic/gpt-5-5-outperforms-and-hallucinates-kimi-k2-6-leads-open-llms-ai-strains-climate-pledges-strategic-thinking-in-llms-vs-humans/"
+          "route": "/hot/2026-06-03/topic/gpt-5-5-outperforms-and-hallucinates-kimi-k2-6-leads-open-llms-ai-strains-climate-pledges-strategic-thinking-in-llms-vs-humans/",
+          "headline_zh": "GPT-5.5 表现领先（也会产生幻觉），Kimi K2.6 领跑开放大语言模型，AI 让气候承诺更难兑现，大语言模型与人类的战略思维对比",
+          "why_it_matters_zh": "该研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         }
       ]
     }
@@ -2841,7 +2940,11 @@
               "published_at": "2026-06-03T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-06-03/topic/cohere-acquires-reliant-ai-to-expand-sovereign-enterprise-ai/"
+          "route": "/hot/2026-06-03/topic/cohere-acquires-reliant-ai-to-expand-sovereign-enterprise-ai/",
+          "headline_zh": "Cohere 收购 Reliant AI，拓展企业级主权 AI 业务",
+          "summary_short_zh": "Cohere 宣布收购 Reliant AI。该公司表示，此举有助于推进其面向医疗保健和生命科学领域受监管客户的主权 AI 战略。",
+          "why_it_matters_zh": "本教程见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "bc0fcb5c79f9",
@@ -2885,7 +2988,11 @@
               "published_at": "Tue, 02 Jun 2026 03:23:35 +0000"
             }
           ],
-          "route": "/hot/2026-06-03/topic/reference-your-own-aws-secrets-manager-secrets-in-amazon-bedrock-agentcore-identity/"
+          "route": "/hot/2026-06-03/topic/reference-your-own-aws-secrets-manager-secrets-in-amazon-bedrock-agentcore-identity/",
+          "headline_zh": "在 Amazon Bedrock AgentCore Identity 中引用自己的 AWS Secrets Manager 密钥",
+          "summary_short_zh": "AWS 新增支持在 Amazon Bedrock AgentCore Identity 中引用用户自行管理的 AWS Secrets Manager 密钥。客户可使用预先配置的密钥，同时保留对密钥管理的控制权。",
+          "why_it_matters_zh": "本教程见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "6a182e6402a9",
@@ -2923,7 +3030,11 @@
               "published_at": "2026-06-03T04:45:48-04:00"
             }
           ],
-          "route": "/hot/2026-06-03/topic/google-must-let-publishers-opt-out-of-ai-search-features-rules-uk/"
+          "route": "/hot/2026-06-03/topic/google-must-let-publishers-opt-out-of-ai-search-features-rules-uk/",
+          "headline_zh": "英国裁定：Google 必须允许内容发布商选择退出 AI 搜索功能",
+          "summary_short_zh": "根据英国监管机构的裁定，网络内容发布商对其网站是否出现在 Google 的 AI 搜索功能中有了更多决定权。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "07575da7bc8b",
@@ -2961,7 +3072,11 @@
               "published_at": "2026-06-03T05:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-03/topic/ai-has-a-water-problem-google-thinks-it-has-a-fix/"
+          "route": "/hot/2026-06-03/topic/ai-has-a-water-problem-google-thinks-it-has-a-fix/",
+          "headline_zh": "AI 面临用水难题，Google 认为已有解决办法",
+          "summary_short_zh": "面对美国各地对 AI 数据中心建设的广泛反对，Google 正大力宣传其减少环境影响的举措：切实增加当地社区的可用水量。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "caea64c53f71",
@@ -2999,7 +3114,10 @@
               "published_at": "2026-06-03T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-03/topic/import-ai-459-ai-oversight-is-difficult-scaling-laws-for-protein-folding-models-and-pricing-the-extinction-risk-of-ai-systems/"
+          "route": "/hot/2026-06-03/topic/import-ai-459-ai-oversight-is-difficult-scaling-laws-for-protein-folding-models-and-pricing-the-extinction-risk-of-ai-systems/",
+          "headline_zh": "Import AI 第 459 期：AI 监管困难重重；蛋白质折叠模型的缩放定律；为 AI 系统引发的灭绝风险定价",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "1916d3d731bc",
@@ -3037,7 +3155,11 @@
               "published_at": "2026-06-03T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-03/topic/where-is-ai-in-gdp-statistics-piie/"
+          "route": "/hot/2026-06-03/topic/where-is-ai-in-gdp-statistics-piie/",
+          "headline_zh": "AI 在 GDP 统计中体现在哪里？（PIIE）",
+          "summary_short_zh": "AI 在 GDP 统计中体现在哪里？（PIIE",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "e7918ee7ebd0",
@@ -3075,7 +3197,10 @@
               "published_at": "2026-06-03T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-06-03/topic/china-thwarts-meta-s-agentic-ambition-u-s-evaluates-upcoming-models-ai-diagnoses-mammograms/"
+          "route": "/hot/2026-06-03/topic/china-thwarts-meta-s-agentic-ambition-u-s-evaluates-upcoming-models-ai-diagnoses-mammograms/",
+          "headline_zh": "中国挫败 Meta 的智能体雄心，美国评估即将推出的模型，AI 利用乳腺 X 光片进行诊断",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "c4fc7783b23a",
@@ -3113,7 +3238,11 @@
               "published_at": "Wed, 03 Jun 2026 00:00:00 -0400"
             }
           ],
-          "route": "/hot/2026-06-03/topic/mit-researchers-teach-ai-models-to-interpret-charts/"
+          "route": "/hot/2026-06-03/topic/mit-researchers-teach-ai-models-to-interpret-charts/",
+          "headline_zh": "MIT 研究人员教 AI 模型读懂图表",
+          "summary_short_zh": "新的 ChartNet 训练数据集有望提高视觉语言模型分析商业趋势或解读科学图表的准确性。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -3155,7 +3284,11 @@
           "published_at": "Tue, 02 Jun 2026 22:50:56 +0000"
         }
       ],
-      "route": "/hot/2026-06-03/topic/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/"
+      "route": "/hot/2026-06-03/topic/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/",
+      "headline_zh": "尽管经营亏损，Cyera 仍寻求 120 亿美元估值，相当于年度经常性收入（ARR）的 80 倍",
+      "summary_short_zh": "这家网络安全公司即将完成由 Evolution Equity Partners 领投的 3 亿美元融资",
+      "why_it_matters_zh": "这笔融资有 1 个独立来源报道。",
+      "category_zh": "市场信号"
     }
   ],
   "x_buzz": [

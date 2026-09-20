@@ -2460,7 +2460,14 @@
           "published_at": "Tue, 12 May 2026 16:41:33 +0000"
         }
       ],
-      "route": "/hot/2026-05-13/topic/how-amazon-finance-streamlines-regulatory-inquiries-by-using-generative-ai-on-aws/"
+      "route": "/hot/2026-05-13/topic/how-amazon-finance-streamlines-regulatory-inquiries-by-using-generative-ai-on-aws/",
+      "headline_zh": "Amazon Finance 如何利用 AWS 上的生成式 AI 简化监管问询处理",
+      "summary_short_zh": "本文介绍 Amazon FinTech 团队如何利用 Amazon Bedrock 和其他 AWS 服务构建可扩展的 AI 应用，改变监管问询的处理方式。",
+      "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "本文介绍 Amazon FinTech 团队如何利用 Amazon Bedrock 和其他 AWS 服务构建可扩展的 AI 应用，改变监管问询的处理方式。每个团队……"
+      ]
     },
     {
       "topic_id": "d91a07896092",
@@ -2508,7 +2515,15 @@
           "published_at": "2026-05-12T13:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-05-13/topic/the-9-biggest-new-features-in-android-17/"
+      "route": "/hot/2026-05-13/topic/the-9-biggest-new-features-in-android-17/",
+      "headline_zh": "Android 17 的 9 大新功能",
+      "summary_short_zh": "Android 17 加入了大量 AI 新功能，比如改进的语音输入和通过 vibe coding 生成的小组件，你会惊讶吗？好在不止这些。系统还带来了与 AI 无关的更新，包括全面改版的表情符号，以及帮助你远离分心应用的全新屏幕使用时间管理工具。",
+      "why_it_matters_zh": "有 2 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Google 在 I/O 大会前公布了以 AI 为核心的全新 Googlebooks 笔记本电脑、智能体能力更强的 Gemini 功能、通过 vibe coding 生成的 Android 小组件、Chrome 中的 Gemini、改版后的 Android Auto 等。",
+        "Android 17 加入了大量 AI 新功能，比如改进的语音输入和通过 vibe coding 生成的小组件，你会惊讶吗？好在不止这些。系统还带来了与 AI 无关的更新……"
+      ]
     },
     {
       "topic_id": "0643e3ab133b",
@@ -2548,7 +2563,14 @@
           "published_at": "Tue, 12 May 2026 15:54:08 +0000"
         }
       ],
-      "route": "/hot/2026-05-13/topic/automate-schema-generation-for-intelligent-document-processing/"
+      "route": "/hot/2026-05-13/topic/automate-schema-generation-for-intelligent-document-processing/",
+      "headline_zh": "自动生成智能文档处理所需的数据模式",
+      "summary_short_zh": "本文将介绍我们的多文档发现功能如何解决这一问题。它作为自动化预处理步骤，分析未知文档，按类型聚类，并生成可直接用于 IDP Accelerator 的数据模式。",
+      "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "本文将介绍我们的多文档发现功能如何解决这一问题。它作为自动化预处理步骤，分析未知文档，按类型聚类，并生成……"
+      ]
     },
     {
       "topic_id": "6bcb6383c407",
@@ -2588,7 +2610,14 @@
           "published_at": "Tue, 12 May 2026 15:00:00 GMT"
         }
       ],
-      "route": "/hot/2026-05-13/topic/how-finance-teams-use-codex/"
+      "route": "/hot/2026-05-13/topic/how-finance-teams-use-codex/",
+      "headline_zh": "财务团队如何使用 Codex",
+      "summary_short_zh": "了解财务团队如何利用 Codex，基于实际工作资料编制月度业务回顾（MBR）、报告包和差异桥接图，开展模型检查及情景规划",
+      "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "了解财务团队如何利用 Codex，基于实际工作资料编制月度业务回顾（MBR）、报告包和差异桥接图，开展模型检查及情景规划。"
+      ]
     },
     {
       "topic_id": "a664e225559e",
@@ -2626,7 +2655,10 @@
           "published_at": "2026-05-13T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-05-13/topic/anthropic-s-claude-mythos-problem-dark-dna-unveiled-pitfalls-for-assistive-models-simulating-fluid-dynamics/"
+      "route": "/hot/2026-05-13/topic/anthropic-s-claude-mythos-problem-dark-dna-unveiled-pitfalls-for-assistive-models-simulating-fluid-dynamics/",
+      "headline_zh": "Anthropic 的 Claude Mythos 难题、揭秘暗 DNA、辅助型模型的陷阱、流体动力学模拟",
+      "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布"
     }
   ],
   "category_sections": [
@@ -2670,7 +2702,11 @@
               "published_at": "2026-05-12T16:35:23-04:00"
             }
           ],
-          "route": "/hot/2026-05-13/topic/meta-won-t-let-you-block-its-ai-account-on-threads/"
+          "route": "/hot/2026-05-13/topic/meta-won-t-let-you-block-its-ai-account-on-threads/",
+          "headline_zh": "Meta 不允许你在 Threads 上屏蔽其 AI 账号",
+          "summary_short_zh": "Meta 周二宣布，正在测试 Threads 的一项功能，让用户可以提及 Meta AI 账号，请它回答问题或补充平台上某段对话的背景信息。如果你最近留意过 X 上的回复，就会觉得这项新功能很像 Meta 在效仿用户……",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "741a4992ed9c",
@@ -2708,7 +2744,11 @@
               "published_at": "Tue, 12 May 2026 00:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-05-13/topic/autoscout24-scales-engineering-with-ai-powered-workflows/"
+          "route": "/hot/2026-05-13/topic/autoscout24-scales-engineering-with-ai-powered-workflows/",
+          "headline_zh": "AutoScout24 借助 AI 驱动的工作流程扩大研发规模",
+          "summary_short_zh": "了解 AutoScout24 Group 如何使用 Codex 和 ChatGPT 缩短开发周期、提升代码质量，并扩大 AI 应用范围",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "49d64dac8818",
@@ -2746,7 +2786,11 @@
               "published_at": "Tue, 12 May 2026 00:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-05-13/topic/how-nvidia-engineers-and-researchers-build-with-codex/"
+          "route": "/hot/2026-05-13/topic/how-nvidia-engineers-and-researchers-build-with-codex/",
+          "headline_zh": "NVIDIA 工程师和研究人员如何用 Codex 进行开发",
+          "summary_short_zh": "团队使用搭载 GPT-5.5 的 Codex 交付生产级系统，将研究想法转化为可运行的实验",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "d2cef81f3e64",
@@ -2784,7 +2828,11 @@
               "published_at": "Tue, 12 May 2026 00:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-05-13/topic/what-parameter-golf-taught-us-about-ai-assisted-research/"
+          "route": "/hot/2026-05-13/topic/what-parameter-golf-taught-us-about-ai-assisted-research/",
+          "headline_zh": "Parameter Golf 对 AI 辅助研究的启示",
+          "summary_short_zh": "Parameter Golf 吸引了 1,000 多名参与者，收到 2,000 多份参赛方案，在严格约束下探索 AI 辅助机器学习研究、编程智能体、量化及新型模型设计",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "0ef2d42fe490",
@@ -2822,7 +2870,11 @@
               "published_at": "Tue, 12 May 2026 00:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-05-13/topic/introducing-voice-finder-a-new-tool-to-quickly-find-the-right-voice-for-your-app-from-over-600-voices/"
+          "route": "/hot/2026-05-13/topic/introducing-voice-finder-a-new-tool-to-quickly-find-the-right-voice-for-your-app-from-over-600-voices/",
+          "headline_zh": "推出音色查找工具 voice finder，助你从 600 多种音色中快速选出适合应用的一款",
+          "summary_short_zh": "Voice finder 帮助开发者通过自然语言提示词或上传的音频样本，搜索、匹配、筛选和试听 Together AI 各 TTS 模型提供的 600 多种音色",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2873,7 +2925,11 @@
               "published_at": "Tue, 12 May 2026 18:05:15 +0000"
             }
           ],
-          "route": "/hot/2026-05-13/topic/sam-altman-says-elon-musk-s-mind-games-were-damaging-openai/"
+          "route": "/hot/2026-05-13/topic/sam-altman-says-elon-musk-s-mind-games-were-damaging-openai/",
+          "headline_zh": "Sam Altman 称 Elon Musk 的心理操控损害了 OpenAI",
+          "summary_short_zh": "OpenAI 首席执行官 Sam Altman 表示，Elon Musk 对这家 AI 初创公司的文化造成了“巨大伤害”。在 Musk 起诉 OpenAI 的诉讼中作证时，Altman 称，Musk 要求 OpenAI 总裁 Greg Brockman 和前首席科学家 Ilya Sutskever 按研究成果给研究人员排名，并",
+          "why_it_matters_zh": "有 2 个独立来源报道了这一行业动态。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "4b39c9fdfecb",
@@ -2911,7 +2967,10 @@
               "published_at": "2026-05-13T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-13/topic/import-ai-456-rsi-and-economic-growth-radical-optionality-for-ai-regulation-and-a-neural-computer/"
+          "route": "/hot/2026-05-13/topic/import-ai-456-rsi-and-economic-growth-radical-optionality-for-ai-regulation-and-a-neural-computer/",
+          "headline_zh": "Import AI 第 456 期：RSI 与经济增长；最大限度保留 AI 监管的选择空间；神经计算机",
+          "why_it_matters_zh": "有 1 个独立来源报道了这一行业动态。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "00ca47022e54",
@@ -2949,7 +3008,10 @@
               "published_at": "2026-05-13T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-13/topic/seedance-makes-a-splash-nvidia-s-ai-guided-chip-designs-helping-robots-not-forget/"
+          "route": "/hot/2026-05-13/topic/seedance-makes-a-splash-nvidia-s-ai-guided-chip-designs-helping-robots-not-forget/",
+          "headline_zh": "Seedance 引起轰动，Nvidia 的 AI 辅助芯片设计，帮助机器人避免遗忘",
+          "why_it_matters_zh": "有 1 个独立来源报道了这一行业动态。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "282629d171d5",
@@ -2987,7 +3049,11 @@
               "published_at": "2026-05-13T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-13/topic/when-does-automating-ai-research-produce-explosive-growth-feedback-loops-in-innovation-networks-nber/"
+          "route": "/hot/2026-05-13/topic/when-does-automating-ai-research-produce-explosive-growth-feedback-loops-in-innovation-networks-nber/",
+          "headline_zh": "AI 研究自动化何时会带来爆炸式增长？创新网络中的反馈循环（NBER）",
+          "summary_short_zh": "AI 研究自动化何时会带来爆炸式增长？创新网络中的反馈循环（NBER",
+          "why_it_matters_zh": "有 1 个独立来源报道了这条其他类资讯。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "efbc89a279a4",
@@ -3025,7 +3091,10 @@
               "published_at": "2026-05-13T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-13/topic/meta-pivots-from-open-weights-big-pharma-bets-on-ai-regulatory-patchwork-simulating-human-cohorts/"
+          "route": "/hot/2026-05-13/topic/meta-pivots-from-open-weights-big-pharma-bets-on-ai-regulatory-patchwork-simulating-human-cohorts/",
+          "headline_zh": "Meta 转向非开放权重模式，大型药企押注 AI，监管规则碎片化，模拟人群队列",
+          "why_it_matters_zh": "有 1 个独立来源报道了这条其他类资讯。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -3069,7 +3138,11 @@
               "published_at": "2026-05-13T04:50:45+00:00"
             }
           ],
-          "route": "/hot/2026-05-13/topic/csp-allow-list-experiment/"
+          "route": "/hot/2026-05-13/topic/csp-allow-list-experiment/",
+          "headline_zh": "CSP Allow-list Experiment",
+          "summary_short_zh": "<p><strong>Tool:</strong> <a href=\" Allow-list Experiment</a></p> <p>An experiment that shows that you can load an app in a CSP-protected sandboxed iframe (see <a href=\" note</a>) and have a custom <code>fetch()</code> that intercepts CSP errors and passes them up to the parent window...",
+          "why_it_matters_zh": "This tooling surfaced across 1 independent source(s).",
+          "category_zh": "Tooling"
         },
         {
           "topic_id": "385c1e8f728e",
@@ -3116,7 +3189,11 @@
               "published_at": "2026-05-12T18:03:11Z"
             }
           ],
-          "route": "/hot/2026-05-13/topic/needle-we-distilled-gemini-tool-calling-into-a-26m-model/"
+          "route": "/hot/2026-05-13/topic/needle-we-distilled-gemini-tool-calling-into-a-26m-model/",
+          "headline_zh": "Needle: We Distilled Gemini Tool Calling Into a 26M Model",
+          "summary_short_zh": "Cactus Compute released Needle , an MIT-licensed 26M parameter single-shot tool-calling model distilled from Gemini -synthesized data, claiming 6000 tok/s prefill and 1200 tok/s decode on consumer devices; weights are on Hugging Face and code/docs are on GitHub .",
+          "why_it_matters_zh": "This tooling surfaced across 2 independent source(s).",
+          "category_zh": "Tooling"
         },
         {
           "topic_id": "b94e17529f85",
@@ -3154,7 +3231,11 @@
               "published_at": "Tue, 12 May 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-05-13/topic/clawdmeter-a-small-esp32-usage-limit-monitor-source-code-in-description/"
+          "route": "/hot/2026-05-13/topic/clawdmeter-a-small-esp32-usage-limit-monitor-source-code-in-description/",
+          "headline_zh": "Clawdmeter - a small ESP32 usage limit monitor (source code in description)",
+          "summary_short_zh": "The image shows Clawdmeter , a small ESP32-based desk monitor displaying Claude/Anthropic usage limits with reset timers and progress bars, matching the post’s description of a $32 Waveshare ESP32 dev board with a 480×480 AMOLED display.",
+          "why_it_matters_zh": "This tooling surfaced across 1 independent source(s).",
+          "category_zh": "Tooling"
         }
       ]
     },
@@ -3198,7 +3279,10 @@
               "published_at": "2026-05-13T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-13/topic/gpt-5-5-outperforms-and-hallucinates-kimi-k2-6-leads-open-llms-ai-strains-climate-pledges-strategic-thinking-in-llms-vs-humans/"
+          "route": "/hot/2026-05-13/topic/gpt-5-5-outperforms-and-hallucinates-kimi-k2-6-leads-open-llms-ai-strains-climate-pledges-strategic-thinking-in-llms-vs-humans/",
+          "headline_zh": "GPT-5.5 Outperforms (and Hallucinates), Kimi K2.6 Leads Open LLMs, AI Strains Climate Pledges, Strategic Thinking in LLMs vs. Humans",
+          "why_it_matters_zh": "This research paper surfaced across 1 independent source(s).",
+          "category_zh": "Research"
         },
         {
           "topic_id": "5780af8cf6c8",
@@ -3236,7 +3320,11 @@
               "published_at": "2026-05-13T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-13/topic/radical-optionality-official-paper-website/"
+          "route": "/hot/2026-05-13/topic/radical-optionality-official-paper-website/",
+          "headline_zh": "Radical Optionality (official paper website)",
+          "summary_short_zh": "Radical Optionality (official paper website",
+          "why_it_matters_zh": "This research paper surfaced across 1 independent source(s).",
+          "category_zh": "Research"
         },
         {
           "topic_id": "618dbd6ffdba",
@@ -3274,7 +3362,11 @@
               "published_at": "2026-05-12T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-05-13/topic/sensenova-u1-unifying-multimodal-understanding-and-generation-with-neo-unify-architecture/"
+          "route": "/hot/2026-05-13/topic/sensenova-u1-unifying-multimodal-understanding-and-generation-with-neo-unify-architecture/",
+          "headline_zh": "SenseNova-U1: Unifying Multimodal Understanding and Generation with NEO-unify Architecture",
+          "summary_short_zh": "Recent large vision-language models (VLMs) remain fundamentally constrained by a persistent dichotomy: understanding and generation are treated as distinct problems, leading to fragmented architectures, cascaded pipelines, and misaligned representation spaces.",
+          "why_it_matters_zh": "This research paper surfaced across 1 independent source(s).",
+          "category_zh": "Research"
         }
       ]
     }
@@ -3320,7 +3412,10 @@
               "published_at": "2026-05-12T15:45:20Z"
             }
           ],
-          "route": "/hot/2026-05-13/topic/launch-hn-voker-yc-s24-analytics-for-ai-agents/"
+          "route": "/hot/2026-05-13/topic/launch-hn-voker-yc-s24-analytics-for-ai-agents/",
+          "headline_zh": "Launch HN: Voker (YC S24) – Analytics for AI Agents",
+          "why_it_matters_zh": "This product release surfaced across 1 independent source(s).",
+          "category_zh": "Product Release"
         },
         {
           "topic_id": "57767a25935d",
@@ -3358,7 +3453,11 @@
               "published_at": "Tue, 12 May 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-05-13/topic/google-and-meta-both-pushed-multimodal-interaction-layers-rather-than-standalone-model-specs/"
+          "route": "/hot/2026-05-13/topic/google-and-meta-both-pushed-multimodal-interaction-layers-rather-than-standalone-model-specs/",
+          "headline_zh": "Google and Meta both pushed multimodal interaction layers rather than standalone model specs",
+          "summary_short_zh": "Google DeepMind’s AI-enabled mouse pointer demos reimagine the cursor as a contextual pointing interface tied to Gemini, allowing users to point at on-screen content and speak shorthand instructions.",
+          "why_it_matters_zh": "This product release surfaced across 1 independent source(s).",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -3402,7 +3501,11 @@
               "published_at": "Wed, 13 May 2026 00:26:48 +0000"
             }
           ],
-          "route": "/hot/2026-05-13/topic/medicare-s-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/"
+          "route": "/hot/2026-05-13/topic/medicare-s-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
+          "headline_zh": "Medicare 的新支付模式为 AI 而设，科技圈大多数人却毫不知情",
+          "summary_short_zh": "政府目前没有机制，为在患者两次就诊之间监测其状况、打电话随访、协调住房服务转介或确保患者取药的 AI 智能体付费。ACCESS 首次建立了这一机制",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "e7b81a4720af",
@@ -3440,7 +3543,10 @@
               "published_at": "2026-05-13T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-13/topic/glm-5-1-thinks-strategically-data-center-revolt-intensifies-when-helpful-llms-turn-unhelpful-humanoid-robots-get-to-work/"
+          "route": "/hot/2026-05-13/topic/glm-5-1-thinks-strategically-data-center-revolt-intensifies-when-helpful-llms-turn-unhelpful-humanoid-robots-get-to-work/",
+          "headline_zh": "GLM 5.1 展现战略思维，抵制数据中心的浪潮加剧，当大语言模型不再帮得上忙，人形机器人上岗",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "df61f01e5d05",
@@ -3478,7 +3584,11 @@
               "published_at": "Wed, 13 May 2026 03:38:46 +0000"
             }
           ],
-          "route": "/hot/2026-05-13/topic/openai/"
+          "route": "/hot/2026-05-13/topic/openai/",
+          "headline_zh": "奥特曼趁马斯克出差爆猛料：他曾想让子女继承OpenAI",
+          "summary_short_zh": "奥特曼曝这老些瓜",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "1aa5e4c9fd40",
@@ -3516,7 +3626,11 @@
               "published_at": "Wed, 13 May 2026 04:08:58 +0000"
             }
           ],
-          "route": "/hot/2026-05-13/topic/auto-research-47-agent/"
+          "route": "/hot/2026-05-13/topic/auto-research-47-agent/",
+          "headline_zh": "Auto Research时代，47个没有标准答案的任务成了Agent能力必测榜",
+          "summary_short_zh": "正式进入“迭代优化”时代",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "e332012572ff",
@@ -3554,7 +3668,11 @@
               "published_at": "Wed, 13 May 2026 04:43:31 +0000"
             }
           ],
-          "route": "/hot/2026-05-13/topic/ai-ai-daa-create2026-ai/"
+          "route": "/hot/2026-05-13/topic/ai-ai-daa-create2026-ai/",
+          "headline_zh": "AI步入“自我进化”时代，李彦宏首提AI时代度量衡“DAA”｜Create2026百度AI开发者⼤会速览",
+          "summary_short_zh": "李彦宏提出“AI时代进化论”",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "c951acb957e0",
@@ -3592,7 +3710,11 @@
               "published_at": "Wed, 13 May 2026 05:40:53 +0000"
             }
           ],
-          "route": "/hot/2026-05-13/topic/ai/"
+          "route": "/hot/2026-05-13/topic/ai/",
+          "headline_zh": "AI拿婚外情写勒索邮件，查一年告诉我科幻小说教坏的",
+          "summary_short_zh": "Anthropic新研究实锤了",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }

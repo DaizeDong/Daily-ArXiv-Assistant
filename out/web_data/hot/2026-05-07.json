@@ -2195,7 +2195,16 @@
           "published_at": "2026-05-07T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-05-07/topic/dola-seed-2-0-preview-and-seed-full-duplex-speech-llm-debut-from-bytedance-seed/"
+      "route": "/hot/2026-05-07/topic/dola-seed-2-0-preview-and-seed-full-duplex-speech-llm-debut-from-bytedance-seed/",
+      "headline_zh": "字节跳动 Seed 推出 Dola-Seed-2.0-Preview 和 Seed Full-Duplex Speech LLM",
+      "summary_short_zh": "字节跳动 Seed 正式发布 Seed 2.0。帖子将其定位为公司的一次重磅新模型发布。",
+      "why_it_matters_zh": "字节跳动正将模型体系从文本拓展至实时语音交互，释放出布局多模态助手和设备的战略信号。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "字节跳动 Seed 在 Arena 公开发布 Dola-Seed-2.0-Preview，为市场带来了一款有明确名称的新模型，而不只是研究预告。",
+        "公司还推出了 Seed Full-Duplex Speech LLM，强调语音交互中的专注倾听、干扰抑制和更自然的话轮切换。",
+        "两项公告均来自字节跳动 Seed 官方渠道，因此更有理由将其视为正在推进的产品化举措，而非尚属猜测的未来规划。"
+      ]
     },
     {
       "topic_id": "729616fbdbd8",
@@ -2235,7 +2244,14 @@
           "published_at": "Wed, 06 May 2026 16:00:00 +0000"
         }
       ],
-      "route": "/hot/2026-05-07/topic/5-gardening-tips-you-can-try-right-in-search/"
+      "route": "/hot/2026-05-07/topic/5-gardening-tips-you-can-try-right-in-search/",
+      "headline_zh": "5 个可直接在搜索中尝试的园艺技巧",
+      "summary_short_zh": "抽象背景上绘有柔和的点描风格花朵和蝴蝶，采用明亮的蓝、绿、红配色。画面中央是一个白色圆圈，内有放大镜",
+      "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "抽象背景上绘有柔和的点描风格花朵和蝴蝶，采用明亮的蓝、绿、红配色。画面中央是一个白色圆圈，内有放大镜..."
+      ]
     },
     {
       "topic_id": "a6c1470727c5",
@@ -2277,7 +2293,16 @@
           "published_at": "2026-05-06T13:54:50+00:00"
         }
       ],
-      "route": "/hot/2026-05-07/topic/hugging-face-launches-agentic-robotics-app-store-for-10-000-reachy-minis/"
+      "route": "/hot/2026-05-07/topic/hugging-face-launches-agentic-robotics-app-store-for-10-000-reachy-minis/",
+      "headline_zh": "Hugging Face 为 10,000 台 Reachy Mini 推出智能体机器人应用商店",
+      "summary_short_zh": "面向 10,000 台 Reachy Mini 的智能体机器人应用商店正式亮相",
+      "why_it_matters_zh": "面向 10,000 台机器人的软件市场，可能成为具身 AI 应用的重要分发渠道和开发者平台。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Hugging Face 将此次发布定位为“智能体机器人应用商店”，将软件分发与 10,000 台 Reachy Mini 机器人相结合。",
+        "该产品值得关注，因为它意味着 Hugging Face 正从模型托管拓展至为机器人开发者和商业伙伴提供部署基础设施。",
+        "若能获得实际应用，Reachy Mini 可能为 Hugging Face 提供自有渠道，用于收集使用模式数据、测试智能体行为和培育机器人生态。"
+      ]
     },
     {
       "topic_id": "ae7f82294ab4",
@@ -2319,7 +2344,16 @@
           "published_at": "2026-05-07T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-05-07/topic/single-position-intervention-fails-paper-challenges-simple-in-context-learning-localization/"
+      "route": "/hot/2026-05-07/topic/single-position-intervention-fails-paper-challenges-simple-in-context-learning-localization/",
+      "headline_zh": "论文《单位置干预失效》质疑上下文学习的简单定位假设",
+      "summary_short_zh": "理解大语言模型如何从少样本示例中编码任务身份，是机制可解释性领域尚未解决的核心问题。既有研究使用线性探针定位任务表征，并报告在特定层获得了较高的分类准确率。",
+      "why_it_matters_zh": "论文认为，大语言模型中的任务表征比此前探针研究所暗示的更为分散，这对可解释性、控制和安全工具有重要意义。",
+      "category_zh": "研究",
+      "key_takeaways_zh": [
+        "这篇题为《单位置干预失效：分布式输出模板驱动上下文学习》的论文指出，特定层的探针准确率高，并不意味着任务身份在因果层面就定位于这些层。",
+        "其核心观点是，上下文学习依赖分布式输出模板，而非某个可还原任务信息的单一位置，这挑战了机制可解释性领域的一种常见简化假设。",
+        "对于开发模型引导或编辑方法的实验室，这一结果意味着，仅干预单一位置可能不足以可靠地改变大语言模型的任务行为。"
+      ]
     },
     {
       "topic_id": "78cd9d29914a",
@@ -2359,7 +2393,14 @@
           "published_at": "2026-05-07T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-05-07/topic/demystifying-manifold-constraints-in-llm-pre-training/"
+      "route": "/hot/2026-05-07/topic/demystifying-manifold-constraints-in-llm-pre-training/",
+      "headline_zh": "解析大语言模型预训练中的流形约束",
+      "summary_short_zh": "大语言模型（LLM）预训练在实践中的成功，很大程度上依赖显式归一化层、权重衰减等启发式稳定化技术。",
+      "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+      "category_zh": "研究",
+      "key_takeaways_zh": [
+        "大语言模型（LLM）预训练在实践中的成功，很大程度上依赖显式归一化层、权重衰减等启发式稳定化技术。尽管近期的约束..."
+      ]
     }
   ],
   "category_sections": [
@@ -2409,7 +2450,11 @@
               "published_at": "2026-05-06T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-07/topic/introducing-multi-lora-on-cerebras-inference/"
+          "route": "/hot/2026-05-07/topic/introducing-multi-lora-on-cerebras-inference/",
+          "headline_zh": "Cerebras Inference 推出 Multi-LoRA",
+          "summary_short_zh": "Cerebras 于 2026 年 5 月 6 日宣布 Cerebras Inference 支持 Multi-LoRA。此次更新新增了为多个 LoRA 适配器提供推理服务的功能。",
+          "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "a5c777fa908c",
@@ -2447,7 +2492,11 @@
               "published_at": "Wed, 06 May 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-05-07/topic/gemma-4-mtp-released/"
+          "route": "/hot/2026-05-07/topic/gemma-4-mtp-released/",
+          "headline_zh": "Gemma 4 MTP 发布",
+          "summary_short_zh": "Google 发布了 Gemma 4 的多词元预测（MTP）草稿模型检查点，包括 31B-it-assistant、26B-A4B-it-assistant、E4B-it-assistant 和 E2B-it-assistant，详情见 Google 的公告。",
+          "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2491,7 +2540,11 @@
               "published_at": "Wed, 06 May 2026 16:56:49 +0000"
             }
           ],
-          "route": "/hot/2026-05-07/topic/google-deepmind-partners-with-eve-online-for-ai-model-testing/"
+          "route": "/hot/2026-05-07/topic/google-deepmind-partners-with-eve-online-for-ai-model-testing/",
+          "headline_zh": "Google DeepMind 与 EVE Online 合作测试 AI 模型",
+          "summary_short_zh": "此举正值 CCP Games 斥资 1.2 亿美元实现独立，并更名为 Fenris Creations 之际",
+          "why_it_matters_zh": "此次融资有 1 个独立来源报道。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "5083d11cb51f",
@@ -2529,7 +2582,11 @@
               "published_at": "Wed, 06 May 2026 21:43:24 +0000"
             }
           ],
-          "route": "/hot/2026-05-07/topic/snap-says-its-400m-deal-with-perplexity-amicably-ended/"
+          "route": "/hot/2026-05-07/topic/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
+          "headline_zh": "Snap 称其与 Perplexity 的 4 亿美元合作协议已“友好终止”",
+          "summary_short_zh": "这项去年 11 月公布的协议原计划将 Perplexity 的 AI 搜索引擎直接整合到 Snapchat 中",
+          "why_it_matters_zh": "此次融资有 1 个独立来源报道。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "31a3a3113010",
@@ -2567,7 +2624,10 @@
               "published_at": "2026-05-07T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-07/topic/robotics-meta-buys-a-humanoid-brain/"
+          "route": "/hot/2026-05-07/topic/robotics-meta-buys-a-humanoid-brain/",
+          "headline_zh": "机器人领域：Meta 收购人形机器人“大脑”",
+          "why_it_matters_zh": "此次收购有 1 个独立来源报道。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -2624,7 +2684,11 @@
               "published_at": "Wed, 06 May 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-05-07/topic/new-compute-partnership-with-anthropic/"
+          "route": "/hot/2026-05-07/topic/new-compute-partnership-with-anthropic/",
+          "headline_zh": "与 Anthropic 达成新的算力合作",
+          "summary_short_zh": "xAI 于 2026 年 5 月 6 日发布了题为《与 Anthropic 达成新的算力合作》的官方公告。公告显示，xAI 与 Anthropic 建立了算力基础设施合作关系。",
+          "why_it_matters_zh": "这一行业动态有 4 个独立来源报道。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "23148c2e7363",
@@ -2662,7 +2726,11 @@
               "published_at": "Thu, 07 May 2026 05:25:10 +0000"
             }
           ],
-          "route": "/hot/2026-05-07/topic/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/"
+          "route": "/hot/2026-05-07/topic/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/",
+          "headline_zh": "五位 AI 经济缔造者剖析行业的问题所在",
+          "summary_short_zh": "本周早些时候，五位业务覆盖 AI 供应链各个环节的人士在比佛利山庄的米尔肯全球会议上与 TechCrunch 交流，话题涵盖芯片短缺、轨道数据中心，以及整个底层架构是否可能……",
+          "why_it_matters_zh": "这一行业动态有 1 个独立来源报道。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "2698e4841668",
@@ -2700,7 +2768,11 @@
               "published_at": "Wed, 06 May 2026 21:47:27 +0000"
             }
           ],
-          "route": "/hot/2026-05-07/topic/tsmc-taps-wind-power-as-ai-chip-demand-soars-taiwan-feels-energy-crunch/"
+          "route": "/hot/2026-05-07/topic/tsmc-taps-wind-power-as-ai-chip-demand-soars-taiwan-feels-energy-crunch/",
+          "headline_zh": "AI 芯片需求激增，台湾能源吃紧，台积电加大风电利用",
+          "summary_short_zh": "据 Ars Technica 报道，AI 芯片需求推高用电量，台积电正增加风电使用。文章将此置于台湾整体能源紧张的背景下，而这一局面与半导体制造业增长有关。",
+          "why_it_matters_zh": "这一行业动态有 1 个独立来源报道。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "92914262a016",
@@ -2738,7 +2810,11 @@
               "published_at": "2026-05-06T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-07/topic/xai-joins-spacex/"
+          "route": "/hot/2026-05-07/topic/xai-joins-spacex/",
+          "headline_zh": "xAI 加入 SpaceX",
+          "summary_short_zh": "查看我们的最新产品与研究公告",
+          "why_it_matters_zh": "这条行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "d2a9fe7f4f91",
@@ -2776,7 +2852,10 @@
               "published_at": "2026-05-07T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-07/topic/automated-ai-research-intern-by-september-of-2026/"
+          "route": "/hot/2026-05-07/topic/automated-ai-research-intern-by-september-of-2026/",
+          "headline_zh": "到 2026 年 9 月开发出自动化 AI 研究实习生",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -2820,7 +2899,11 @@
               "published_at": "2026-05-06T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-07/topic/custom-voices-and-voice-library/"
+          "route": "/hot/2026-05-07/topic/custom-voices-and-voice-library/",
+          "headline_zh": "自定义音色与音色库",
+          "summary_short_zh": "查看我们的最新产品与研究公告",
+          "why_it_matters_zh": "这条工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "48b6f4675ab8",
@@ -2867,7 +2950,11 @@
               "published_at": "Wed, 06 May 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-05-07/topic/uber-uses-openai-to-help-people-earn-smarter-and-book-faster/"
+          "route": "/hot/2026-05-07/topic/uber-uses-openai-to-help-people-earn-smarter-and-book-faster/",
+          "headline_zh": "Uber 借助 OpenAI，让赚钱更有方、叫车更快捷",
+          "summary_short_zh": "Uber 表示，正在使用 OpenAI 技术支持其平台上的 AI 助手和语音功能。该公司称，这些工具能帮助司机优化收益，并让乘客更快完成叫车。",
+          "why_it_matters_zh": "这条工具动态见于 2 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "f446db365f61",
@@ -2905,7 +2992,11 @@
               "published_at": "Wed, 06 May 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-05-07/topic/claude-code-opus-4-7-vs-opencode-qwen3-6-27b-both-shipped-a-playable-cozy-roguelite/"
+          "route": "/hot/2026-05-07/topic/claude-code-opus-4-7-vs-opencode-qwen3-6-27b-both-shipped-a-playable-cozy-roguelite/",
+          "headline_zh": "搭配 Opus 4.7 的 Claude Code 对阵搭配 qwen3.6:27b 的 OpenCode，两者都做出了一款可玩的治愈系 Roguelite 游戏。",
+          "summary_short_zh": "一项社区基准测试对比了使用 Opus 4.7 的 Claude Code 和运行本地 Qwen3.6:27B 模型的 OpenCode。帖子称，两套系统都在单次提示测试中做出了一款可玩的治愈系 Roguelite 游戏。",
+          "why_it_matters_zh": "这条工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "0aec841ead91",
@@ -2943,7 +3034,11 @@
               "published_at": "Wed, 06 May 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-05-07/topic/turned-a-desk-lamp-into-a-claude-code-status-indicator/"
+          "route": "/hot/2026-05-07/topic/turned-a-desk-lamp-into-a-claude-code-status-indicator/",
+          "headline_zh": "把台灯改造成 Claude Code 状态指示灯",
+          "summary_short_zh": "一篇社区帖子介绍了如何改造开源 claude-lamp 项目，将一盏低功耗蓝牙（BLE）台灯变成 Claude Code 状态指示灯。这套装置通过灯光直观反映 Claude Code 的活动状态。",
+          "why_it_matters_zh": "这条工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     },
@@ -2987,7 +3082,11 @@
               "published_at": "2026-05-07T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-07/topic/discovering-reinforcement-learning-interfaces-with-large-language-models/"
+          "route": "/hot/2026-05-07/topic/discovering-reinforcement-learning-interfaces-with-large-language-models/",
+          "headline_zh": "利用大语言模型发现强化学习接口",
+          "summary_short_zh": "强化学习系统依赖定义观测和奖励函数的环境接口，但为新任务构建这些接口通常需要大量人工投入。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "93d008e18a32",
@@ -3025,7 +3124,11 @@
               "published_at": "2026-05-07T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-07/topic/elvis-ensemble-calibrated-latent-imagination-for-long-horizon-visual-mpc/"
+          "route": "/hot/2026-05-07/topic/elvis-ensemble-calibrated-latent-imagination-for-long-horizon-visual-mpc/",
+          "headline_zh": "ELVIS：面向长时域视觉模型预测控制（MPC）的集成校准潜空间想象",
+          "summary_short_zh": "基于模型的强化学习（RL）在视觉控制中面临的核心挑战之一，是可靠的长时域规划：利用学得的潜空间动力学进行长序列推演时，未来轨迹会出现分支，动作价值分布也会呈现多峰特征。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         }
       ]
     }
@@ -3071,7 +3174,10 @@
               "published_at": "2026-05-07T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-07/topic/import-ai-454-automating-alignment-research-safety-study-of-a-chinese-model-hifloat4/"
+          "route": "/hot/2026-05-07/topic/import-ai-454-automating-alignment-research-safety-study-of-a-chinese-model-hifloat4/",
+          "headline_zh": "Import AI 454：对齐研究自动化；一款中国模型的安全性研究；HiFloat4",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "ead2392caf08",
@@ -3109,7 +3215,10 @@
               "published_at": "2026-05-07T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-07/topic/import-ai-455-automating-ai-research/"
+          "route": "/hot/2026-05-07/topic/import-ai-455-automating-ai-research/",
+          "headline_zh": "Import AI 455：AI 研究自动化",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "efbc89a279a4",
@@ -3147,7 +3256,10 @@
               "published_at": "2026-05-07T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-07/topic/meta-pivots-from-open-weights-big-pharma-bets-on-ai-regulatory-patchwork-simulating-human-cohorts/"
+          "route": "/hot/2026-05-07/topic/meta-pivots-from-open-weights-big-pharma-bets-on-ai-regulatory-patchwork-simulating-human-cohorts/",
+          "headline_zh": "Meta 放弃开放权重路线，制药巨头押注 AI，监管碎片化，模拟人群",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "e7b81a4720af",
@@ -3185,7 +3297,10 @@
               "published_at": "2026-05-07T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-07/topic/glm-5-1-thinks-strategically-data-center-revolt-intensifies-when-helpful-llms-turn-unhelpful-humanoid-robots-get-to-work/"
+          "route": "/hot/2026-05-07/topic/glm-5-1-thinks-strategically-data-center-revolt-intensifies-when-helpful-llms-turn-unhelpful-humanoid-robots-get-to-work/",
+          "headline_zh": "GLM 5.1 展现战略思维，反对数据中心的声浪高涨，当大语言模型不再帮得上忙，人形机器人上岗",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "25b73696521a",
@@ -3223,7 +3338,11 @@
               "published_at": "Thu, 07 May 2026 04:36:41 +0000"
             }
           ],
-          "route": "/hot/2026-05-07/topic/ai-tco-token/"
+          "route": "/hot/2026-05-07/topic/ai-tco-token/",
+          "headline_zh": "英伟达重新思考AI TCO：为何每Token成本才是唯一重要的指标",
+          "summary_short_zh": "随着 AI 推理成为其核心工作负载，它们的主要产出已转变为以 Token 形式制造的智能",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "e6b5df7dfc44",
@@ -3261,7 +3380,11 @@
               "published_at": "2026-05-06T17:21:45-04:00"
             }
           ],
-          "route": "/hot/2026-05-07/topic/google-shuts-down-project-mariner/"
+          "route": "/hot/2026-05-07/topic/google-shuts-down-project-mariner/",
+          "headline_zh": "Google 关闭 Project Mariner",
+          "summary_short_zh": "据《连线》记者 Maxwell Zeff 此前报道，Google 已关闭 Project Mariner。这项实验性功能旨在代用户完成网上的各种任务。Project Mariner 的主页现在显示一条消息：“感谢您使用 Project Mariner。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "1388393e9c40",
@@ -3299,7 +3422,11 @@
               "published_at": "Wed, 06 May 2026 21:32:55 +0000"
             }
           ],
-          "route": "/hot/2026-05-07/topic/is-xai-a-neocloud-now/"
+          "route": "/hot/2026-05-07/topic/is-xai-a-neocloud-now/",
+          "headline_zh": "xAI 现在成了新型云服务商吗？",
+          "summary_short_zh": "xAI 的真正业务可能更侧重建设数据中心，而非训练 AI 模型",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "fe94f036d397",
@@ -3337,7 +3464,11 @@
               "published_at": "2026-05-06T19:37:02-04:00"
             }
           ],
-          "route": "/hot/2026-05-07/topic/musk-s-biggest-loyalist-became-his-biggest-liability/"
+          "route": "/hot/2026-05-07/topic/musk-s-biggest-loyalist-became-his-biggest-liability/",
+          "headline_zh": "马斯克最忠实的支持者成了他最大的负担",
+          "summary_short_zh": "今天，我坐在马斯克诉奥尔特曼案的法庭里，心里很不是滋味，因为我知道，没人会问 Shivon Zilis 大家心里都在想的那个问题：姑娘，你他妈到底在干什么？Zilis 宣誓作证说，她是马斯克四个孩子的母亲。她当时……该怎么说才好",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -3379,7 +3510,11 @@
           "published_at": "2026-05-07T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-05-07/topic/endogenous-regime-switching-driven-by-scalar-irreducible-learning-dynamics/"
+      "route": "/hot/2026-05-07/topic/endogenous-regime-switching-driven-by-scalar-irreducible-learning-dynamics/",
+      "headline_zh": "由不可约化为标量的学习动力学驱动的内生模式切换",
+      "summary_short_zh": "实现内生模式切换对自主智能的涌现至关重要，但仍是现有机器学习框架面临的一项核心挑战；这些框架中的此类切换通常依赖外部干预。",
+      "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+      "category_zh": "研究"
     }
   ],
   "x_buzz": [

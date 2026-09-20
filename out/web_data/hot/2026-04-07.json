@@ -2822,7 +2822,17 @@
           "source_name": "AINews"
         }
       ],
-      "route": "/hot/2026-04-07/topic/anthropic-launches-project-glasswing-cybersecurity-model-with-nvidia-google-aws-apple-and-microsoft/"
+      "route": "/hot/2026-04-07/topic/anthropic-launches-project-glasswing-cybersecurity-model-with-nvidia-google-aws-apple-and-microsoft/",
+      "headline_zh": "Anthropic 携手英伟达、谷歌、AWS、苹果和微软推出 Project Glasswing 网络安全模型",
+      "summary_short_zh": "据 The Verge 报道，Anthropic 在 Project Glasswing 网络安全计划中推出了新 AI 模型 Claude Mythos。该模型定位于安全研究和网络防御，并与多家大型科技公司合作。",
+      "why_it_matters_zh": "Anthropic 正从通用助手拓展到企业和政府的安全工作流程，这一市场价值更高，战略需求强劲。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Project Glasswing 定位为 Anthropic 的网络安全专用模型，而非 Claude 的通用版本，合作伙伴包括英伟达、谷歌、Amazon Web Services、苹果和微软。",
+        "据发布报道，该模型在所有主流操作系统和网页浏览器中都发现了安全问题。如果这一说法在实际部署中得到验证，它将成为一款值得关注的 AI 原生安全工具。",
+        "Anthropic 为相关模型发布了系统卡，表明其采用了比一般功能发布更正式的安全与评估流程。",
+        "从合作伙伴阵容看，Glasswing 面向大型企业，也可能用于政府安全场景，并不局限于开发者试验。"
+      ]
     },
     {
       "topic_id": "ef2f77db6d5b",
@@ -2870,7 +2880,17 @@
           "source_name": "TechCrunch AI"
         }
       ],
-      "route": "/hot/2026-04-07/topic/google-ships-ai-edge-gallery-with-offline-gemma-dictation-on-mobile/"
+      "route": "/hot/2026-04-07/topic/google-ships-ai-edge-gallery-with-offline-gemma-dictation-on-mobile/",
+      "headline_zh": "谷歌发布 AI Edge Gallery，支持在手机上用 Gemma 离线语音输入",
+      "summary_short_zh": "谷歌推出了一款主打离线使用的 AI 语音输入应用，通过 Gemma 模型在本地运行，为 Wispr Flow 等依赖云端的语音输入工具提供端侧替代方案。",
+      "why_it_matters_zh": "谷歌展示了端侧 AI 的可行分发方式，能降低对云端的依赖，也可能给移动生产力工具和语音技术领域的初创公司带来压力。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "AI Edge Gallery 是谷歌官方移动应用，可在本地运行 Gemma 模型，包括 E2B、E4B 等 Gemma 4 版本，无需持续联网。",
+        "该应用提供离线优先的语音输入功能，直接瞄准 Wispr Flow 等产品的使用场景，同时展示了谷歌的边缘推理技术栈。",
+        "Simon Willison 强调，这款应用能直接在手机上运行模型，是可用于评估消费级本地推理的实际产品，而非研究演示。",
+        "此次发布的战略意义在于，让 Gemma 从一个模型系列发展为移动端直接面向用户的分发渠道。"
+      ]
     },
     {
       "topic_id": "07751a59bfd1",
@@ -2917,7 +2937,17 @@
           "source_name": "ByteDance Seed"
         }
       ],
-      "route": "/hot/2026-04-07/topic/bytedance-officially-launches-seed-2-0-and-releases-dola-seed-2-0-preview-on-arena/"
+      "route": "/hot/2026-04-07/topic/bytedance-officially-launches-seed-2-0-and-releases-dola-seed-2-0-preview-on-arena/",
+      "headline_zh": "字节跳动正式推出 Seed 2.0，并在 Arena 发布 Dola-Seed-2.0-Preview",
+      "summary_short_zh": "字节跳动 Seed 正式推出 Seed 2.0，标志着该公司 Seed 模型系列迎来一次重大更新。",
+      "why_it_matters_zh": "字节跳动持续投入自研基础模型，表明大型消费互联网平台仍看重掌握核心模型知识产权的战略价值。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "字节跳动 Seed 通过自有渠道宣布正式推出 Seed 2.0，这是公司官方发布的模型，并非泄露消息或基准测试传闻。",
+        "公司还在 Arena 发布了 Dola-Seed-2.0-Preview，让外部用户在 Seed 2.0 正式发布之际，也能试用预览版。",
+        "伴随此次发布，字节跳动 Seed 还启动了 2027 年基础模型校园招聘，表明其正围绕该模型系列持续扩充团队。",
+        "尽管现有资料未提供公开的基准测试数据，Seed 2.0 和 Dola-Seed-2.0-Preview 的发布仍表明，字节跳动正在加快模型产品化与评测迭代。"
+      ]
     },
     {
       "topic_id": "30b7cae4dbc9",
@@ -2965,7 +2995,17 @@
           "source_name": "The Verge AI"
         }
       ],
-      "route": "/hot/2026-04-07/topic/intel-joins-elon-musk-s-terafab-ai-chip-factory-project-in-texas/"
+      "route": "/hot/2026-04-07/topic/intel-joins-elon-musk-s-terafab-ai-chip-factory-project-in-texas/",
+      "headline_zh": "英特尔加入埃隆·马斯克在得克萨斯州的 Terafab AI 芯片工厂项目",
+      "summary_short_zh": "埃隆·马斯克位于得克萨斯州奥斯汀的 Terafab AI 芯片项目迎来了一位关键新合作伙伴：英特尔。",
+      "why_it_matters_zh": "此举显示 AI 基础设施的垂直整合正在加深，模型开发商和平台公司正寻求加强对芯片供应和制造产能的掌控。",
+      "category_zh": "市场信号",
+      "key_takeaways_zh": [
+        "英特尔已同意协助设计和建设位于得克萨斯州奥斯汀的 Terafab 半导体工厂。该工厂计划为与马斯克有关联的公司供应 AI 芯片，包括特斯拉和新近合并的 SpaceX-xAI。",
+        "这一此前已与 SpaceX 和特斯拉有关联的项目，如今又迎来英特尔，进一步壮大了推动美国本土 AI 芯片制造的产业联盟。",
+        "报道指出，英特尔的具体职责范围仍不明确，但在当前先进 AI 算力供应链承压的背景下，其加入本身就具有战略意义。",
+        "如果 Terafab 项目持续推进，它可能成为 AI 公司从模型开发向上游延伸、建设专用半导体产能的一个重要案例。"
+      ]
     },
     {
       "topic_id": "db4e5c89f40d",
@@ -3004,7 +3044,14 @@
           "source_name": "The Verge AI"
         }
       ],
-      "route": "/hot/2026-04-07/topic/spotify-8217-s-prompted-playlists-can-help-you-find-new-podcasts-to-listen-to/"
+      "route": "/hot/2026-04-07/topic/spotify-8217-s-prompted-playlists-can-help-you-find-new-podcasts-to-listen-to/",
+      "headline_zh": "Spotify 的 Prompted Playlists 可帮你发现新播客",
+      "summary_short_zh": "周二，Spotify 为 Prompted Playlists 功能加入播客支持，这次更新有望让 Premium 用户更轻松地找到新的播客节目。Prompted Playlists 最初于 12 月以测试版形式推出，此前仅支持音乐。",
+      "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "周二，Spotify 为 Prompted Playlists 功能加入播客支持，这次更新有望让 Premium 用户更轻松地找到新的播客节目。Prompted Playlists 最初..."
+      ]
     }
   ],
   "category_sections": [
@@ -3047,7 +3094,10 @@
               "source_name": "Together AI Blog"
             }
           ],
-          "route": "/hot/2026-04-07/topic/what-is-an-ai-native-cloud/"
+          "route": "/hot/2026-04-07/topic/what-is-an-ai-native-cloud/",
+          "headline_zh": "什么是 AI 原生云？",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "f3c7b4a18eb5",
@@ -3084,7 +3134,11 @@
               "source_name": "Zhipu AI"
             }
           ],
-          "route": "/hot/2026-04-07/topic/zhipu-ai-and-intel-deepen-ai-ecosystem-partnership/"
+          "route": "/hot/2026-04-07/topic/zhipu-ai-and-intel-deepen-ai-ecosystem-partnership/",
+          "headline_zh": "智谱 AI 与英特尔深化 AI 生态合作",
+          "summary_short_zh": "智谱 AI 宣布扩大与英特尔的合作，为 AI PC 推出智谱清言和 CodeGeeX AI 编程助手的端侧版本，推进双方的端云 AI 生态建设",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "1f08af93c30c",
@@ -3121,7 +3175,11 @@
               "source_name": "OpenAI News"
             }
           ],
-          "route": "/hot/2026-04-07/topic/announcing-the-openai-safety-fellowship/"
+          "route": "/hot/2026-04-07/topic/announcing-the-openai-safety-fellowship/",
+          "headline_zh": "OpenAI Safety Fellowship 计划正式推出",
+          "summary_short_zh": "一项支持独立安全与对齐研究、培养新一代人才的试点计划",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "b4305ff8ac56",
@@ -3158,7 +3216,11 @@
               "source_name": "AINews"
             }
           ],
-          "route": "/hot/2026-04-07/topic/gemini-projects-are-here/"
+          "route": "/hot/2026-04-07/topic/gemini-projects-are-here/",
+          "headline_zh": "Gemini Projects 来了！！！",
+          "summary_short_zh": "Google 推出新功能“Gemini Projects”，让用户按项目整理对话，以解决聊天记录杂乱的问题。",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "ddb252b1b624",
@@ -3195,7 +3257,11 @@
               "source_name": "Hacker News"
             }
           ],
-          "route": "/hot/2026-04-07/topic/launch-hn-freestyle-sandboxes-for-coding-agents/"
+          "route": "/hot/2026-04-07/topic/launch-hn-freestyle-sandboxes-for-coding-agents/",
+          "headline_zh": "HN 新品发布：Freestyle，面向编程智能体的沙箱",
+          "summary_short_zh": "Freestyle 在 Hacker News 上发布，是一个为编程智能体提供沙箱的云平台。创始人称，这是专为基于智能体的软件开发工作流设计的基础设施",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -3238,7 +3304,11 @@
               "source_name": "TechCrunch AI"
             }
           ],
-          "route": "/hot/2026-04-07/topic/firmus-the-southgate-ai-data-center-builder-backed-by-nvidia-hits-5-5b-valuation/"
+          "route": "/hot/2026-04-07/topic/firmus-the-southgate-ai-data-center-builder-backed-by-nvidia-hits-5-5b-valuation/",
+          "headline_zh": "英伟达支持的“Southgate”AI 数据中心建设商 Firmus 估值达 55 亿美元",
+          "summary_short_zh": "英伟达支持的亚洲 AI 数据中心服务商 Firmus 在六个月内累计融资 13.5 亿美元",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次融资。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -3286,7 +3356,11 @@
               "source_name": "AWS AI Blog"
             }
           ],
-          "route": "/hot/2026-04-07/topic/connecting-mcp-servers-to-amazon-bedrock-agentcore-gateway-using-authorization-code-flow/"
+          "route": "/hot/2026-04-07/topic/connecting-mcp-servers-to-amazon-bedrock-agentcore-gateway-using-authorization-code-flow/",
+          "headline_zh": "使用授权码流程将 MCP 服务器连接到 Amazon Bedrock AgentCore Gateway",
+          "summary_short_zh": "AWS 发布了一篇教程，介绍如何使用授权码流程将 MCP 服务器连接到 Amazon Bedrock AgentCore Gateway。文章讲解了如何配置集中式管理层，管理 AI 智能体与工具及 MCP 服务器的连接方式",
+          "why_it_matters_zh": "这篇教程见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "eb2e8fce9cd4",
@@ -3323,7 +3397,11 @@
               "source_name": "量子位 (QbitAI)"
             }
           ],
-          "route": "/hot/2026-04-07/topic/deepseek-v4/"
+          "route": "/hot/2026-04-07/topic/deepseek-v4/",
+          "headline_zh": "DeepSeek深夜更新后自曝：我是V4（？！）",
+          "summary_short_zh": "DeepSeek V4真的要来了？",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "ddf4fa691ca4",
@@ -3360,7 +3438,11 @@
               "source_name": "TechCrunch AI"
             }
           ],
-          "route": "/hot/2026-04-07/topic/i-can-t-help-rooting-for-tiny-open-source-ai-model-maker-arcee/"
+          "route": "/hot/2026-04-07/topic/i-can-t-help-rooting-for-tiny-open-source-ai-model-maker-arcee/",
+          "headline_zh": "我忍不住为小型开源 AI 模型开发商 Arcee 加油",
+          "summary_short_zh": "Arcee 是一家仅有 26 人的美国初创公司，开发了一款性能出色、规模庞大的开源大语言模型。该模型正受到越来越多 OpenClaw 用户的欢迎。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "b7c235032b2d",
@@ -3405,7 +3487,11 @@
               "source_name": "AINews AI Twitter Recap"
             }
           ],
-          "route": "/hot/2026-04-07/topic/anthropic-expands-partnership-with-google-and-broadcom-for-multiple-gigawatts-of-next-generation-compute/"
+          "route": "/hot/2026-04-07/topic/anthropic-expands-partnership-with-google-and-broadcom-for-multiple-gigawatts-of-next-generation-compute/",
+          "headline_zh": "Anthropic 扩大与 Google 和 Broadcom 的合作，获取数吉瓦级下一代算力",
+          "summary_short_zh": "Anthropic 宣布扩大与 Google 和 Broadcom 的合作，以确保获得数吉瓦级的下一代算力。该协议旨在未来为 Anthropic 启用大规模 TPU 基础设施。",
+          "why_it_matters_zh": "这条行业动态见于 2 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "f2cb8bfc79f4",
@@ -3442,7 +3528,11 @@
               "source_name": "Hacker News"
             }
           ],
-          "route": "/hot/2026-04-07/topic/llm-scraper-bots-are-overloading-acme-com-s-https-server/"
+          "route": "/hot/2026-04-07/topic/llm-scraper-bots-are-overloading-acme-com-s-https-server/",
+          "headline_zh": "LLM 爬虫正导致 acme.com 的 HTTPS 服务器过载",
+          "summary_short_zh": "这条消息称，LLM 爬虫正导致某网站的 HTTPS 服务器过载。它反映了 AI 相关网页抓取带来的运维压力，而非新产品发布。",
+          "why_it_matters_zh": "这条行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -3485,7 +3575,11 @@
               "source_name": "Simon Willison's Blog"
             }
           ],
-          "route": "/hot/2026-04-07/topic/glm-5-1-towards-long-horizon-tasks/"
+          "route": "/hot/2026-04-07/topic/glm-5-1-towards-long-horizon-tasks/",
+          "headline_zh": "GLM-5.1：迈向长程任务",
+          "summary_short_zh": "<p><strong><a href=\" 迈向长程任务</a></strong></p> 中国 AI 实验室 Z.ai 的最新模型是个拥有 7540 亿参数、体积达 1.51TB（见 <a href=\" Face</a>）、采用 MIT 许可证的庞然大物，规模与此前发布的 GLM-5 相同，并共用同一篇<a href=\" 论文</a>。</p> <p>目前可获取 <a href=\"",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "f3e90a61065d",
@@ -3527,7 +3621,11 @@
               "source_name": "Import AI"
             }
           ],
-          "route": "/hot/2026-04-07/topic/offensive-cyber-task-horizons-data-and-analysis-lyptus-research-github/"
+          "route": "/hot/2026-04-07/topic/offensive-cyber-task-horizons-data-and-analysis-lyptus-research-github/",
+          "headline_zh": "网络攻击任务的时间跨度：数据与分析（Lyptus Research，GitHub）",
+          "summary_short_zh": "网络攻击任务的时间跨度：数据与分析（Lyptus Research，GitHub",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "d5348aa05f0c",
@@ -3564,7 +3662,11 @@
               "source_name": "Simon Willison's Blog"
             }
           ],
-          "route": "/hot/2026-04-07/topic/sqlite-wal-mode-across-docker-containers-sharing-a-volume/"
+          "route": "/hot/2026-04-07/topic/sqlite-wal-mode-across-docker-containers-sharing-a-volume/",
+          "headline_zh": "在共享卷的 Docker 容器间使用 SQLite WAL 模式",
+          "summary_short_zh": "<p><strong>研究：</strong> <a href=\" 在共享卷的 Docker 容器间使用 SQLite WAL 模式</a></p> <p>灵感来自 Hacker News 上的一场<a href=\" 讨论</a>：两个 SQLite 进程分别运行在共享同一卷的不同 Docker 容器中，是否会因 WAL 共享内存而出现问题。",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "ded315c2a9ee",
@@ -3601,7 +3703,11 @@
               "source_name": "Hacker News"
             }
           ],
-          "route": "/hot/2026-04-07/topic/google-open-sources-experimental-agent-orchestration-testbed-scion/"
+          "route": "/hot/2026-04-07/topic/google-open-sources-experimental-agent-orchestration-testbed-scion/",
+          "headline_zh": "Google 开源实验性智能体编排测试平台 Scion",
+          "summary_short_zh": "Google 开源了用于智能体编排的实验性测试平台 Scion。该项目定位为评估或协调 AI 智能体的基础设施。",
+          "why_it_matters_zh": "这条工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "a42e07501b98",
@@ -3638,7 +3744,11 @@
               "source_name": "AWS AI Blog"
             }
           ],
-          "route": "/hot/2026-04-07/topic/accelerate-agentic-tool-calling-with-serverless-model-customization-in-amazon-sagemaker-ai/"
+          "route": "/hot/2026-04-07/topic/accelerate-agentic-tool-calling-with-serverless-model-customization-in-amazon-sagemaker-ai/",
+          "headline_zh": "通过 Amazon SageMaker AI 的无服务器模型定制加速智能体工具调用",
+          "summary_short_zh": "本文介绍我们如何使用 RLVR 微调 Qwen 2.5 7B Instruct，以提升其工具调用能力。",
+          "why_it_matters_zh": "这条工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     }
@@ -3683,7 +3793,11 @@
               "source_name": "AINews"
             }
           ],
-          "route": "/hot/2026-04-07/topic/anyone-else-find-it-weird-how-all-chinese-labs-started-delaying-os-model-releases-at-the-same-time/"
+          "route": "/hot/2026-04-07/topic/anyone-else-find-it-weird-how-all-chinese-labs-started-delaying-os-model-releases-at-the-same-time/",
+          "headline_zh": "有没有人也觉得奇怪：中国各家实验室怎么都同时开始推迟发布开源模型了？",
+          "summary_short_zh": "Minimax、GLM、Qwen 和 Mimo 等多家中国 AI 实验室同时推迟了 Minimax-m2.7、GLM-5.1、Qwen3.6 等最新模型的开源。",
+          "why_it_matters_zh": "这条产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -3726,7 +3840,11 @@
               "source_name": "The Verge AI"
             }
           ],
-          "route": "/hot/2026-04-07/topic/gemini-is-making-it-faster-for-distressed-users-to-reach-mental-health-resources/"
+          "route": "/hot/2026-04-07/topic/gemini-is-making-it-faster-for-distressed-users-to-reach-mental-health-resources/",
+          "headline_zh": "Gemini 帮助陷入心理困境的用户更快获取心理健康资源",
+          "summary_short_zh": "Google 表示，已更新 Gemini，以便在用户陷入危机时，更好地引导他们获取心理健康资源。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "1de180615fc8",
@@ -3763,7 +3881,11 @@
               "source_name": "The Verge AI"
             }
           ],
-          "route": "/hot/2026-04-07/topic/suno-and-major-music-labels-reportedly-clash-over-ai-music-sharing/"
+          "route": "/hot/2026-04-07/topic/suno-and-major-music-labels-reportedly-clash-over-ai-music-sharing/",
+          "headline_zh": "据报道，Suno 与各大唱片公司就 AI 音乐分享问题产生分歧",
+          "summary_short_zh": "AI 音乐创作工具 Suno 难以与环球音乐集团和索尼音乐娱乐达成授权协议。据《金融时报》报道，双方无法就用户能否分享自己用 AI 创作的歌曲达成一致。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "2caf312b343e",
@@ -3800,7 +3922,11 @@
               "source_name": "量子位 (QbitAI)"
             }
           ],
-          "route": "/hot/2026-04-07/topic/meta-ai-token-2/"
+          "route": "/hot/2026-04-07/topic/meta-ai-token-2/",
+          "headline_zh": "Meta员工空转AI只为浪费token！烧的多挣的多，日均消耗2万亿",
+          "summary_short_zh": "榜一大哥平均每天用掉93.6亿Token",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "b3f9b72eb620",
@@ -3845,7 +3971,11 @@
               "source_name": "OpenAI News"
             }
           ],
-          "route": "/hot/2026-04-07/topic/industrial-policy-for-the-intelligence-age/"
+          "route": "/hot/2026-04-07/topic/industrial-policy-for-the-intelligence-age/",
+          "headline_zh": "智能时代的产业政策",
+          "summary_short_zh": "了解我们面向 AI 时代的产业政策构想：目标远大、以人为本，着眼于在先进智能发展的过程中拓展机会、共享繁荣，并构建有韧性的制度体系。",
+          "why_it_matters_zh": "这条行业动态见于 2 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "6c4924800a8b",
@@ -3882,7 +4012,11 @@
               "source_name": "The Rundown AI"
             }
           ],
-          "route": "/hot/2026-04-07/topic/google-s-texas-sized-data-center-problem/"
+          "route": "/hot/2026-04-07/topic/google-s-texas-sized-data-center-problem/",
+          "headline_zh": "Google 在得州的数据中心大难题",
+          "summary_short_zh": "这条消息报道了 Google 在得州的数据中心问题或扩建挑战，涉及基础设施以及电力或容量限制，而非新 AI 产品发布。",
+          "why_it_matters_zh": "这条行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "def5d82045f4",
@@ -3919,7 +4053,10 @@
               "source_name": "The Batch"
             }
           ],
-          "route": "/hot/2026-04-07/topic/attacks-on-data-centers-qwen3-5-in-all-sizes-deepseek-s-huawei-play-apple-s-multimodal-tokenizer/"
+          "route": "/hot/2026-04-07/topic/attacks-on-data-centers-qwen3-5-in-all-sizes-deepseek-s-huawei-play-apple-s-multimodal-tokenizer/",
+          "headline_zh": "数据中心遭袭、Qwen3.5 全系列模型、DeepSeek 的华为布局、苹果的多模态分词器",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "275bbe9f3fa4",
@@ -3956,7 +4093,11 @@
               "source_name": "Import AI"
             }
           ],
-          "route": "/hot/2026-04-07/topic/forecasting-the-economic-effects-of-ai-predictions-from-economists-ai-experts-and-the-public-pdf/"
+          "route": "/hot/2026-04-07/topic/forecasting-the-economic-effects-of-ai-predictions-from-economists-ai-experts-and-the-public-pdf/",
+          "headline_zh": "预测 AI 的经济影响：经济学家、AI 专家与公众的预测（PDF）",
+          "summary_short_zh": "预测 AI 的经济影响：经济学家、AI 专家与公众的预测（PDF",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }

@@ -2135,7 +2135,13 @@
           "published_at": "Mon, 18 May 2026 05:44:39 GMT"
         }
       ],
-      "route": "/hot/2026-05-19/topic/anthropic-acquires-stainless/"
+      "route": "/hot/2026-05-19/topic/anthropic-acquires-stainless/",
+      "headline_zh": "Anthropic 收购 Stainless",
+      "why_it_matters_zh": "3 个独立来源报道了此次收购。",
+      "category_zh": "市场信号",
+      "key_takeaways_zh": [
+        "Stainless 是一家成立于 2022 年、总部位于纽约的初创公司，凭借自动创建和维护软件开发工具包（SDK）的能力，在新兴 AI 行业崭露头角。这些代码库..."
+      ]
     },
     {
       "topic_id": "5a651b69fc6a",
@@ -2175,7 +2181,14 @@
           "published_at": "Mon, 18 May 2026 17:26:40 +0000"
         }
       ],
-      "route": "/hot/2026-05-19/topic/aderant-transforms-cloud-operations-with-amazon-quick/"
+      "route": "/hot/2026-05-19/topic/aderant-transforms-cloud-operations-with-amazon-quick/",
+      "headline_zh": "Aderant 借助 Amazon Quick 实现云运维转型",
+      "summary_short_zh": "本文介绍了 Aderant 如何利用 Amazon Quick 的 AI 功能，实现跨六个供应商系统的统一搜索，并将文档工作流程自动化，使搜索速度提升 90%、文档处理速度提升 75%，以及其他人如何将这些方法应用到自己的...",
+      "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "本文介绍了 Aderant 如何利用 Amazon Quick 的 AI 功能，实现跨六个供应商系统的统一搜索，并将文档工作流程自动化，使搜索速度提升 90%..."
+      ]
     },
     {
       "topic_id": "543116cd91d3",
@@ -2213,7 +2226,11 @@
           "published_at": "Mon, 18 May 2026 10:00:00 GMT"
         }
       ],
-      "route": "/hot/2026-05-19/topic/openai-and-dell-partner-to-bring-codex-to-hybrid-and-on-premise-enterprise-environments/"
+      "route": "/hot/2026-05-19/topic/openai-and-dell-partner-to-bring-codex-to-hybrid-and-on-premise-enterprise-environments/",
+      "headline_zh": "OpenAI 与戴尔合作，将 Codex 引入企业混合部署和本地部署环境",
+      "summary_short_zh": "OpenAI 与戴尔合作，将 Codex 引入混合部署和本地部署环境，帮助企业在各类数据和工作流程中安全部署 AI 编程智能体",
+      "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "a9d6ce3e3f9e",
@@ -2253,7 +2270,14 @@
           "published_at": "2026-05-14T21:32:21Z"
         }
       ],
-      "route": "/hot/2026-05-19/topic/2508965-ship-it-harmonist-orchestral/"
+      "route": "/hot/2026-05-19/topic/2508965-ship-it-harmonist-orchestral/",
+      "headline_zh": "2508965-ship-it/harmonist-orchestral",
+      "summary_short_zh": "🚀 多智能体编排引擎 2026：使用 Claude Code 构建和部署 AI 智能体集群",
+      "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "🚀 多智能体编排引擎 2026：使用 Claude Code 构建和部署 AI 智能体集群"
+      ]
     },
     {
       "topic_id": "28572a067086",
@@ -2293,7 +2317,14 @@
           "published_at": "2026-05-14T19:28:43Z"
         }
       ],
-      "route": "/hot/2026-05-19/topic/yetone-native-feel-skill/"
+      "route": "/hot/2026-05-19/topic/yetone-native-feel-skill/",
+      "headline_zh": "yetone/native-feel-skill",
+      "summary_short_zh": "一项用于设计具有原生体验的跨平台桌面应用的 Agent Skill，提炼自 Raycast 2.0 深度解析及对 Raycast Beta.app 的逆向工程。涵盖八项架构原则、四层架构、WebKit/WebView2 生存指南和 75 项发布前检查",
+      "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "一项用于设计具有原生体验的跨平台桌面应用的 Agent Skill，提炼自 Raycast 2.0 深度解析及对 Raycast Beta.app 的逆向工程。涵盖八项架构原则、四层..."
+      ]
     }
   ],
   "category_sections": [
@@ -2337,7 +2368,11 @@
               "published_at": "2026-05-18T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-19/topic/connect-grok-to-hermes-agent/"
+          "route": "/hot/2026-05-19/topic/connect-grok-to-hermes-agent/",
+          "headline_zh": "将 Grok 接入 Hermes Agent",
+          "summary_short_zh": "查看我们最新的产品和研究公告",
+          "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "7518edad7ce8",
@@ -2375,7 +2410,11 @@
               "published_at": "Mon, 18 May 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-05-19/topic/i-built-a-coding-agent-that-gets-87-on-benchmarks-with-a-4b-parameter-model-here-s-how/"
+          "route": "/hot/2026-05-19/topic/i-built-a-coding-agent-that-gets-87-on-benchmarks-with-a-4b-parameter-model-here-s-how/",
+          "headline_zh": "我用 40 亿参数模型开发了一个编程智能体，基准测试得分 87%，实现方法如下",
+          "summary_short_zh": "图中是 SmallCode v0.1.0 基本处于空闲状态的 Windows 终端界面（TUI）。这款本地优先的编程智能体在 graph 目录下运行 huihui-gemma-4-e4b-it-abliterated，界面显示 /help、消息计数器和绿色就绪状态（图片）。",
+          "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "119b7b4f5979",
@@ -2413,7 +2452,11 @@
               "published_at": "Mon, 18 May 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-05-19/topic/cursor-s-composer-2-5-is-the-standout-model-launch-in-this-batch/"
+          "route": "/hot/2026-05-19/topic/cursor-s-composer-2-5-is-the-standout-model-launch-in-this-batch/",
+          "headline_zh": "Cursor 的 Composer 2.5 是这批发布中最亮眼的新模型",
+          "summary_short_zh": "Cursor 发布了迄今最强模型 Composer 2.5，强调其执行长时间任务的持续性更好、指令遵循更可靠，随后披露了更深层的战略举措：与“SpaceXAI”从零训练一个规模大得多的模型，投入 10 倍的总计算量，并可访问……",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "c6baf2632be3",
@@ -2451,7 +2494,11 @@
               "published_at": "Mon, 18 May 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-05-19/topic/enterprise-on-prem-deployment-momentum-remains-strong/"
+          "route": "/hot/2026-05-19/topic/enterprise-on-prem-deployment-momentum-remains-strong/",
+          "headline_zh": "企业级／本地部署势头依然强劲",
+          "summary_short_zh": "Hugging Face 和戴尔推广 Dell Enterprise Hub 的一键模型访问功能，涵盖 Kimi K2.6、DeepSeek V4 Pro/Flash、GLM 5.1 和 MiniMax M2.7 等模型。该平台针对搭载 NVIDIA B300 的 PowerEdge XE9780 进行了优化。@jeffboudier",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "6b2fb1581e7a",
@@ -2489,7 +2536,11 @@
               "published_at": "Mon, 18 May 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-05-19/topic/alibaba-s-qwen-line-continues-to-climb/"
+          "route": "/hot/2026-05-19/topic/alibaba-s-qwen-line-continues-to-climb/",
+          "headline_zh": "阿里巴巴的 Qwen 系列排名持续攀升",
+          "summary_short_zh": "Qwen3.7 Preview 登陆 Arena，其中 Qwen3.7 Max Preview 位列文本总榜第 13，数学类第 7、专家类第 9、软件与 IT 类第 9、编程类第 10；Qwen3.7 Plus Preview 位列视觉总榜第 16。根据 Arena 的统计，阿里巴巴在实验室排名中位列文本第 6、视觉第 5。@arena、@Alibaba_Qwen",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2533,7 +2584,11 @@
               "published_at": "Mon, 18 May 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-05-19/topic/testing-llama-cpp-mtp-support-on-qwen3-6-rtx-5090/"
+          "route": "/hot/2026-05-19/topic/testing-llama-cpp-mtp-support-on-qwen3-6-rtx-5090/",
+          "headline_zh": "在 RTX 5090 上测试 llama.cpp 对 Qwen3.6 的 MTP 支持",
+          "summary_short_zh": "基准测试图展示了 llama.cpp 新合入的 MTP／草稿 token 推测功能在 Qwen3.6 MTP GGUF 模型上的受控测试，配置为 RTX 5090 32GB、基于提交 4f13cb7 构建的 CUDA 版本、128k 上下文、FlashAttention、q8_0 KV 缓存和 --parallel 1。",
+          "why_it_matters_zh": "此次收购见于 1 个独立来源。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -2577,7 +2632,11 @@
               "published_at": "Mon, 18 May 2026 18:56:36 +0000"
             }
           ],
-          "route": "/hot/2026-05-19/topic/prompting-amazon-nova-2-for-content-moderation/"
+          "route": "/hot/2026-05-19/topic/prompting-amazon-nova-2-for-content-moderation/",
+          "headline_zh": "用提示词引导 Amazon Nova 2 进行内容审核",
+          "summary_short_zh": "本文介绍如何依据 MLCommons AILuminate 评估标准，使用结构化和自由形式的提示词，引导 Amazon Nova 2 Lite 进行内容审核。",
+          "why_it_matters_zh": "这一行业动向见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "000c6dc85ec9",
@@ -2625,7 +2684,11 @@
               "published_at": "Mon, 18 May 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-05-19/topic/all-of-the-updates-from-elon-musk-and-sam-altman-s-battle-over-openai/"
+          "route": "/hot/2026-05-19/topic/all-of-the-updates-from-elon-musk-and-sam-altman-s-battle-over-openai/",
+          "headline_zh": "埃隆·马斯克与山姆·奥特曼围绕 OpenAI 之争的全部动态",
+          "summary_short_zh": "山姆·奥特曼与埃隆·马斯克正在一场事关重大的庭审中交锋，结果可能改变 OpenAI 及其最知名产品 ChatGPT 的未来。",
+          "why_it_matters_zh": "这则其他类消息见于 3 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "00ca47022e54",
@@ -2663,7 +2726,10 @@
               "published_at": "2026-05-19T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-19/topic/seedance-makes-a-splash-nvidia-s-ai-guided-chip-designs-helping-robots-not-forget/"
+          "route": "/hot/2026-05-19/topic/seedance-makes-a-splash-nvidia-s-ai-guided-chip-designs-helping-robots-not-forget/",
+          "headline_zh": "Seedance 引发轰动，英伟达用 AI 指导芯片设计，帮助机器人避免遗忘",
+          "why_it_matters_zh": "这一行业动向见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "7cb343337f52",
@@ -2701,7 +2767,11 @@
               "published_at": "2026-05-18T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-19/topic/new-compute-partnership-with-anthropic/"
+          "route": "/hot/2026-05-19/topic/new-compute-partnership-with-anthropic/",
+          "headline_zh": "与 Anthropic 达成新的算力合作",
+          "summary_short_zh": "查看我们最新的产品和研究公告",
+          "why_it_matters_zh": "这一行业动向见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "0b126de7610f",
@@ -2739,7 +2809,11 @@
               "published_at": "2026-05-19T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-19/topic/autonomous-ai-research-for-nanogpt-speedrun-prime-intellect/"
+          "route": "/hot/2026-05-19/topic/autonomous-ai-research-for-nanogpt-speedrun-prime-intellect/",
+          "headline_zh": "面向 nanogpt 速通的自主 AI 研究 (Prime Intellect)",
+          "summary_short_zh": "面向 nanogpt 速通的自主 AI 研究 (Prime Intellect",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -2792,7 +2866,11 @@
               "published_at": "2026-05-19T01:09:44+00:00"
             }
           ],
-          "route": "/hot/2026-05-19/topic/the-last-six-months-in-llms-in-five-minutes/"
+          "route": "/hot/2026-05-19/topic/the-last-six-months-in-llms-in-five-minutes/",
+          "headline_zh": "五分钟回顾大语言模型近半年的进展",
+          "summary_short_zh": "<p>这套带注释的幻灯片整理自我在 PyCon US 2026 上的五分钟闪电演讲，使用了我的<a href=\" 演示工具</a>的<a href=\" 迭代版本</a>。</p> <div class=\"slide\" id=\"5-minutes-llms.001.jpeg\"> <img alt=\"五分钟回顾大语言模型近半年的进展 Simon Willison -",
+          "why_it_matters_zh": "这条工具资讯见于 2 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "e44de3955a4c",
@@ -2830,7 +2908,11 @@
               "published_at": "2026-05-19T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-19/topic/aurora-tilde-research-github/"
+          "route": "/hot/2026-05-19/topic/aurora-tilde-research-github/",
+          "headline_zh": "Aurora (Tilde Research, GitHub)",
+          "summary_short_zh": "Aurora (Tilde Research, GitHub",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "cded5e7dddab",
@@ -2868,7 +2950,11 @@
               "published_at": "2026-05-19T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-19/topic/from-the-agents-as-they-carried-out-the-challenges-here-autonomous-speedrunning-experiment-prime-intellect-github/"
+          "route": "/hot/2026-05-19/topic/from-the-agents-as-they-carried-out-the-challenges-here-autonomous-speedrunning-experiment-prime-intellect-github/",
+          "headline_zh": "来自在此执行挑战的智能体 (Autonomous Speedrunning Experiment, Prime Intellect, GitHub)",
+          "summary_short_zh": "来自在此执行挑战的智能体 (Autonomous Speedrunning Experiment, Prime Intellect, GitHub",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "3e25ad619b7a",
@@ -2906,7 +2992,11 @@
               "published_at": "2026-05-18T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-05-19/topic/custom-voices-and-voice-library/"
+          "route": "/hot/2026-05-19/topic/custom-voices-and-voice-library/",
+          "headline_zh": "自定义音色与音色库",
+          "summary_short_zh": "了解我们最新的产品和研究动态",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     },
@@ -2950,7 +3040,10 @@
               "published_at": "2026-05-19T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-19/topic/gpt-5-5-outperforms-and-hallucinates-kimi-k2-6-leads-open-llms-ai-strains-climate-pledges-strategic-thinking-in-llms-vs-humans/"
+          "route": "/hot/2026-05-19/topic/gpt-5-5-outperforms-and-hallucinates-kimi-k2-6-leads-open-llms-ai-strains-climate-pledges-strategic-thinking-in-llms-vs-humans/",
+          "headline_zh": "GPT-5.5 表现领先（也会产生幻觉），Kimi K2.6 领跑开放大语言模型，AI 让气候承诺更难兑现，大语言模型与人类的战略思维对比",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         }
       ]
     }
@@ -2996,7 +3089,10 @@
               "published_at": "2026-05-19T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-19/topic/import-ai-457-ai-stuxnet-cursed-muon-optimizer-and-positive-alignment/"
+          "route": "/hot/2026-05-19/topic/import-ai-457-ai-stuxnet-cursed-muon-optimizer-and-positive-alignment/",
+          "headline_zh": "Import AI 457：AI 版 Stuxnet；诡异的 Muon 优化器；正向对齐",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "e7918ee7ebd0",
@@ -3034,7 +3130,10 @@
               "published_at": "2026-05-19T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-19/topic/china-thwarts-meta-s-agentic-ambition-u-s-evaluates-upcoming-models-ai-diagnoses-mammograms/"
+          "route": "/hot/2026-05-19/topic/china-thwarts-meta-s-agentic-ambition-u-s-evaluates-upcoming-models-ai-diagnoses-mammograms/",
+          "headline_zh": "中国挫败 Meta 的智能体雄心，美国评估即将推出的模型，AI 通过乳腺 X 光片进行诊断",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "efbc89a279a4",
@@ -3072,7 +3171,10 @@
               "published_at": "2026-05-19T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-19/topic/meta-pivots-from-open-weights-big-pharma-bets-on-ai-regulatory-patchwork-simulating-human-cohorts/"
+          "route": "/hot/2026-05-19/topic/meta-pivots-from-open-weights-big-pharma-bets-on-ai-regulatory-patchwork-simulating-human-cohorts/",
+          "headline_zh": "Meta 告别开放权重路线，大型药企押注 AI，监管规则碎片化，人群队列模拟",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "e7b81a4720af",
@@ -3110,7 +3212,10 @@
               "published_at": "2026-05-19T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-05-19/topic/glm-5-1-thinks-strategically-data-center-revolt-intensifies-when-helpful-llms-turn-unhelpful-humanoid-robots-get-to-work/"
+          "route": "/hot/2026-05-19/topic/glm-5-1-thinks-strategically-data-center-revolt-intensifies-when-helpful-llms-turn-unhelpful-humanoid-robots-get-to-work/",
+          "headline_zh": "GLM 5.1 展现战略思维，反对数据中心的浪潮加剧，当有用的大语言模型不再有用，人形机器人上岗",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "8ca7c3b2c585",
@@ -3148,7 +3253,11 @@
               "published_at": "Tue, 19 May 2026 03:25:02 +0000"
             }
           ],
-          "route": "/hot/2026-05-19/topic/5-20-aigc2026/"
+          "route": "/hot/2026-05-19/topic/5-20-aigc2026/",
+          "headline_zh": "5.20 明天见！拿好这份参会指南｜AIGC2026峰会",
+          "summary_short_zh": "提前查好路况，定好闹钟，明天线下见！",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "daa1368f56e5",
@@ -3186,7 +3295,11 @@
               "published_at": "Tue, 19 May 2026 06:07:48 +0000"
             }
           ],
-          "route": "/hot/2026-05-19/topic/cursor-kimi/"
+          "route": "/hot/2026-05-19/topic/cursor-kimi/",
+          "headline_zh": "Cursor新模型，你怎么还在套Kimi？马斯克你怎么还吆喝上了？？",
+          "summary_short_zh": "1/10成本、Opus 4.7级表现",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "6ef35676bf1e",
@@ -3224,7 +3337,11 @@
               "published_at": "Mon, 18 May 2026 21:29:31 +0000"
             }
           ],
-          "route": "/hot/2026-05-19/topic/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/"
+          "route": "/hot/2026-05-19/topic/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
+          "headline_zh": "SandboxAQ 将药物发现模型接入 Claude，无需计算机博士学位也能使用",
+          "summary_short_zh": "Chai Discovery、Isomorphic Labs 等其他获风投支持的公司正竞相打造更强的模型。SandboxAQ 则认为，使用门槛才是更大的障碍，并押注 Claude 能解决这一问题。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "98f01742813c",
@@ -3262,7 +3379,11 @@
               "published_at": "Mon, 18 May 2026 15:07:15 +0000"
             }
           ],
-          "route": "/hot/2026-05-19/topic/build-custom-code-based-evaluators-in-amazon-bedrock-agentcore/"
+          "route": "/hot/2026-05-19/topic/build-custom-code-based-evaluators-in-amazon-bedrock-agentcore/",
+          "headline_zh": "在 Amazon Bedrock AgentCore 中构建基于代码的自定义评估器",
+          "summary_short_zh": "本文将带你为金融市场情报智能体实现四个基于 Lambda 的自定义代码评估器，将其逐一注册到 AgentCore，并以按需和在线模式运行。",
+          "why_it_matters_zh": "这篇教程见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -3310,7 +3431,11 @@
           "published_at": "2026-05-18T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-05-19/topic/connectors-in-web-ios-and-android/"
+      "route": "/hot/2026-05-19/topic/connectors-in-web-ios-and-android/",
+      "headline_zh": "网页版、iOS 和 Android 版的连接器功能",
+      "summary_short_zh": "了解我们最新的产品与研究公告",
+      "why_it_matters_zh": "这条产品发布消息见于 1 个独立来源。",
+      "category_zh": "产品发布"
     }
   ],
   "x_buzz": [
