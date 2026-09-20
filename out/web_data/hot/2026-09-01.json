@@ -2462,7 +2462,14 @@
           "published_at": "Mon, 31 Aug 2026 19:08:45 +0000"
         }
       ],
-      "route": "/hot/2026-09-01/topic/build-observable-enterprise-agentic-retrieval-using-managed-amazon-bedrock-knowledge-base-with-aws-cloudformation/"
+      "route": "/hot/2026-09-01/topic/build-observable-enterprise-agentic-retrieval-using-managed-amazon-bedrock-knowledge-base-with-aws-cloudformation/",
+      "headline_zh": "使用 AWS CloudFormation 和 Amazon Bedrock 托管知识库构建可观测的企业级智能体检索方案",
+      "summary_short_zh": "本文基于 Amazon Bedrock 托管知识库和 Amazon Bedrock AgentCore 构建企业级智能体检索方案。",
+      "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "本文基于 Amazon Bedrock 托管知识库和 Amazon Bedrock AgentCore 构建企业级智能体检索方案。智能体进行推理，在多个知识库间路由，并……"
+      ]
     },
     {
       "topic_id": "254fcb97f2d4",
@@ -2502,7 +2509,14 @@
           "published_at": "Mon, 31 Aug 2026 19:18:09 +0000"
         }
       ],
-      "route": "/hot/2026-09-01/topic/manage-agents-tools-and-skills-at-scale-with-aws-agent-registry/"
+      "route": "/hot/2026-09-01/topic/manage-agents-tools-and-skills-at-scale-with-aws-agent-registry/",
+      "headline_zh": "使用 AWS Agent Registry 大规模管理智能体、工具和技能",
+      "summary_short_zh": "AWS Agent Registry 现已正式可用，为组织内的智能体、工具、技能和自定义资源提供统一目录，支持搜索与治理。",
+      "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "AWS Agent Registry 现已正式可用，为组织内的智能体、工具、技能和自定义资源提供统一目录，支持搜索与治理。本文将介绍 Registry……"
+      ]
     },
     {
       "topic_id": "dd01088a6d4c",
@@ -2540,7 +2554,11 @@
           "published_at": "Mon, 31 Aug 2026 17:19:40 +0000"
         }
       ],
-      "route": "/hot/2026-09-01/topic/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting/"
+      "route": "/hot/2026-09-01/topic/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting/",
+      "headline_zh": "TimesFM-3：用于多变量预测的零样本基础模型",
+      "summary_short_zh": "数据管理",
+      "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "2b9311afa2aa",
@@ -2578,7 +2596,10 @@
           "published_at": "2026-08-31T12:45:23+00:00"
         }
       ],
-      "route": "/hot/2026-09-01/topic/technical-writing-in-the-agentic-era/"
+      "route": "/hot/2026-09-01/topic/technical-writing-in-the-agentic-era/",
+      "headline_zh": "智能体时代的技术写作",
+      "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "1c55c528c3f0",
@@ -2618,7 +2639,14 @@
           "published_at": "2026-08-29T23:16:12Z"
         }
       ],
-      "route": "/hot/2026-09-01/topic/vuk97-forward-implementation-first/"
+      "route": "/hot/2026-09-01/topic/vuk97-forward-implementation-first/",
+      "headline_zh": "Vuk97/forward-implementation-first",
+      "summary_short_zh": "别让编程智能体自创的繁文缛节耽误正事：凭证、哈希、锁、认证仪式。先交付，再验证。适用于 Claude Code、Codex 等智能体的技能",
+      "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "别让编程智能体自创的繁文缛节耽误正事：凭证、哈希、锁、认证仪式。先交付，再验证。适用于 Claude Code、Codex 等智能体的技能。"
+      ]
     }
   ],
   "category_sections": [
@@ -2662,7 +2690,11 @@
               "published_at": "Mon, 31 Aug 2026 07:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-09-01/topic/openai-supports-california-s-bill-to-advance-youth-ai-safety/"
+          "route": "/hot/2026-09-01/topic/openai-supports-california-s-bill-to-advance-youth-ai-safety/",
+          "headline_zh": "OpenAI 支持加州推进青少年 AI 安全的法案",
+          "summary_short_zh": "OpenAI 支持加州 SB 1119 法案，推动为青少年提供有力、适龄的 AI 安全保障，同时保留学习、创作和探索的机会",
+          "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "f6588edde713",
@@ -2700,7 +2732,11 @@
               "published_at": "2026-08-30T23:59:47+00:00"
             }
           ],
-          "route": "/hot/2026-09-01/topic/understanding-chatgpt-work/"
+          "route": "/hot/2026-09-01/topic/understanding-chatgpt-work/",
+          "headline_zh": "了解 ChatGPT Work",
+          "summary_short_zh": "<p>OpenAI 于 7 月 9 日推出了 <a href=\" ChatGPT Work</a>，此后一直在密集迭代。这款产品非常强大，却也让人十分困惑。",
+          "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "59eb4371337a",
@@ -2738,7 +2774,11 @@
               "published_at": "Mon, 31 Aug 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-09-01/topic/hermes-agent-shipped-a-large-feature-release-aimed-at-persistent-multi-agent-workflows/"
+          "route": "/hot/2026-09-01/topic/hermes-agent-shipped-a-large-feature-release-aimed-at-persistent-multi-agent-workflows/",
+          "headline_zh": "Hermes Agent 发布重大功能更新，面向持久运行的多智能体工作流",
+          "summary_short_zh": "@Teknium 宣布推出 Hermes Agent v0.21.0，支持 Bots Mode、智能体间通信、多网关持久连接、子智能体引导，并扩大了连接器接入范围。",
+          "why_it_matters_zh": "此次产品发布获 1 个独立来源报道。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "49e597f9c5fb",
@@ -2776,7 +2816,11 @@
               "published_at": "Mon, 31 Aug 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-09-01/topic/anthropic-published-a-major-follow-up-on-recent-cyber-incidents-and-reward-hacking/"
+          "route": "/hot/2026-09-01/topic/anthropic-published-a-major-follow-up-on-recent-cyber-incidents-and-reward-hacking/",
+          "headline_zh": "Anthropic 就近期网络安全事件和奖励黑客问题发布重要后续说明",
+          "summary_short_zh": "@AnthropicAI 在一篇帖子中表示，7 月的未授权访问事件促使其加强环境安全、为合作伙伴提供指导、更新对齐评估，并为“Mythos 级”模型做准备。",
+          "why_it_matters_zh": "此次产品发布获 1 个独立来源报道。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "62b88fbed871",
@@ -2814,7 +2858,11 @@
               "published_at": "Mon, 31 Aug 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-09-01/topic/meta-s-muse-code-exits-beta-with-an-sdk-and-subscriptions/"
+          "route": "/hot/2026-09-01/topic/meta-s-muse-code-exits-beta-with-an-sdk-and-subscriptions/",
+          "headline_zh": "Meta 的 Muse Code 结束 Beta 测试，推出 SDK 和订阅服务",
+          "summary_short_zh": "Meta 正式发布 Muse Code，将其定位为处理更大规模任务的编程智能体，并提供开发者预览版 SDK，支持嵌入自定义智能体、连接工具、实时推送进度和恢复会话。",
+          "why_it_matters_zh": "此次产品发布获 1 个独立来源报道。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2858,7 +2906,11 @@
               "published_at": "Mon, 31 Aug 2026 18:35:11 +0000"
             }
           ],
-          "route": "/hot/2026-09-01/topic/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/"
+          "route": "/hot/2026-09-01/topic/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
+          "headline_zh": "哈佛法学院辍学生为 Blue Voice 融资 600 万美元，打造“警察版 Harvey”",
+          "summary_short_zh": "Blue Voice 的训练资料包括各警局适用的法律、地方条例、规程和指南，通用 AI 工具无法从公开互联网获取这些资料",
+          "why_it_matters_zh": "此次融资获 1 个独立来源报道。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "7cc497d9feb2",
@@ -2896,7 +2948,11 @@
               "published_at": "Mon, 31 Aug 2026 04:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-09-01/topic/a-milestone-in-expanding-access-to-ai/"
+          "route": "/hot/2026-09-01/topic/a-milestone-in-expanding-access-to-ai/",
+          "headline_zh": "AI 普及的里程碑",
+          "summary_short_zh": "ChatGPT Ads 年化营收规模达 10 亿美元，并向全球扩展，通过免费和平价服务让更多人用上 AI",
+          "why_it_matters_zh": "此次融资获 1 个独立来源报道。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "186367ec1635",
@@ -2934,7 +2990,11 @@
               "published_at": "Mon, 31 Aug 2026 16:00:00 +0000"
             }
           ],
-          "route": "/hot/2026-09-01/topic/clipto-uses-ai-to-search-terabytes-of-video-and-is-now-valued-at-250m/"
+          "route": "/hot/2026-09-01/topic/clipto-uses-ai-to-search-terabytes-of-video-and-is-now-valued-at-250m/",
+          "headline_zh": "Clipto 利用 AI 检索 TB 级视频数据，目前估值达 2.5 亿美元",
+          "summary_short_zh": "这家成立三年的初创公司表示，在最新一轮 1500 万美元融资前，其年度经常性收入（ARR）已达 1500 万美元，并已实现盈利",
+          "why_it_matters_zh": "此次融资获 1 个独立来源报道。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "2e30bdb0ac16",
@@ -2972,7 +3032,11 @@
               "published_at": "Mon, 31 Aug 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-09-01/topic/transluce-raised-the-bar-for-multi-turn-behavioral-evals/"
+          "route": "/hot/2026-09-01/topic/transluce-raised-the-bar-for-multi-turn-behavioral-evals/",
+          "headline_zh": "Transluce 提高了多轮行为评测的标准",
+          "summary_short_zh": "@TransluceAI 发布了一项独立评测，考察各大实验室的 77 个模型变体在心理健康危机场景中的回应。",
+          "why_it_matters_zh": "此次融资获 1 个独立来源报道。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -3016,7 +3080,11 @@
               "published_at": "Mon, 31 Aug 2026 19:50:12 +0000"
             }
           ],
-          "route": "/hot/2026-09-01/topic/aws-recognized-as-a-leader-in-the-forrester-wave-ai-infrastructure-solutions-q4-2025/"
+          "route": "/hot/2026-09-01/topic/aws-recognized-as-a-leader-in-the-forrester-wave-ai-infrastructure-solutions-q4-2025/",
+          "headline_zh": "AWS 获评《The Forrester Wave：2025 年第四季度 AI 基础设施解决方案》领导者",
+          "summary_short_zh": "我们很高兴地宣布，AWS 在《The Forrester Wave：2025 年第四季度 AI 基础设施解决方案》报告中获评领导者。在这项涵盖 13 家供应商的评估中，AWS 在战略维度得分最高",
+          "why_it_matters_zh": "这一行业动向获 1 个独立来源报道。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "8da9ff437393",
@@ -3054,7 +3122,11 @@
               "published_at": "Mon, 31 Aug 2026 20:13:45 +0000"
             }
           ],
-          "route": "/hot/2026-09-01/topic/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/"
+          "route": "/hot/2026-09-01/topic/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+          "headline_zh": "五角大楼现已拥有专用版 ChatGPT 和 Grok",
+          "summary_short_zh": "OpenAI 的 ChatGPT 和 SpaceXAI 的 Grok 将与 Google 的 Gemini 一同入驻五角大楼的 AI 工具统一门户",
+          "why_it_matters_zh": "这一行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "5d0019b57a10",
@@ -3104,7 +3176,11 @@
               "published_at": "Tue, 01 Sep 2026 00:13:00 +0000"
             }
           ],
-          "route": "/hot/2026-09-01/topic/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/"
+          "route": "/hot/2026-09-01/topic/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+          "headline_zh": "苹果公布针对前员工的“惊人证据”，后者被控为 OpenAI 窃取公司数据",
+          "summary_short_zh": "苹果称有证据表明，一名前员工在得知自己受到调查后，销毁了其窃取数据的证据",
+          "why_it_matters_zh": "这条其他类资讯见于 3 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "34115d220008",
@@ -3142,7 +3218,11 @@
               "published_at": "Mon, 31 Aug 2026 07:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-09-01/topic/polimill-builds-japan-s-next-generation-public-ai-infrastructure/"
+          "route": "/hot/2026-09-01/topic/polimill-builds-japan-s-next-generation-public-ai-infrastructure/",
+          "headline_zh": "Polimill 正在构建日本下一代公共 AI 基础设施",
+          "summary_short_zh": "Polimill 利用 OpenAI 的 GPT 模型和 Codex，帮助地方政府检索和利用政务知识，同时加快开发进度",
+          "why_it_matters_zh": "这一行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "c3dff70b8132",
@@ -3180,7 +3260,11 @@
               "published_at": "2026-09-01T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-01/topic/five-country-ministerial-2026-australian-government-department-of-home-affairs/"
+          "route": "/hot/2026-09-01/topic/five-country-ministerial-2026-australian-government-department-of-home-affairs/",
+          "headline_zh": "2026 年五国部长级会议（澳大利亚政府内政部）",
+          "summary_short_zh": "2026 年五国部长级会议（澳大利亚政府内政部",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -3224,7 +3308,11 @@
               "published_at": "Mon, 31 Aug 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-09-01/topic/free-open-source-topaz-alternative-seedvr2-tensorrt-faster-vae-processing/"
+          "route": "/hot/2026-09-01/topic/free-open-source-topaz-alternative-seedvr2-tensorrt-faster-vae-processing/",
+          "headline_zh": "免费开源的 Topaz 替代方案：SeedVR2+TensorRT，加速 VAE 处理。",
+          "summary_short_zh": "VRGDG SeedVR2 TensorRT Studio 是基于 SeedVR2 的 Windows/浏览器界面封装，目前处于测试阶段，可利用本地 GPU 修复视频和提升分辨率，支持 TensorRT 加速的 VAE 解码、预览与对比模式、分块检查点与断点续跑、输出设置及非破坏性后期处理；代码和指南已发布在 GitHub。",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "cb1f04961b91",
@@ -3262,7 +3350,11 @@
               "published_at": "Mon, 31 Aug 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-09-01/topic/sloptv-an-infinite-livestream-of-ai-slop-generated-from-youtube-chat-comments-minimax-h3-on-2x5090/"
+          "route": "/hot/2026-09-01/topic/sloptv-an-infinite-livestream-of-ai-slop-generated-from-youtube-chat-comments-minimax-h3-on-2x5090/",
+          "headline_zh": "SlopTV：根据 YouTube 聊天评论生成 AI 垃圾内容的无限直播，双 5090 运行 MiniMax H3",
+          "summary_short_zh": "SlopTV 是一套完全在本地运行的 YouTube 直播流水线：先由大语言模型将直播聊天中的提示词扩写为约 400 词的结构化视频提示词，再通过双 RTX 5090 上的 MiniMax H3 生成 15 秒视频片段，最后回传到同一直播流；源码已发布在 GitHub，灵感来自 infiniteslop。",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     }
@@ -3308,7 +3400,10 @@
               "published_at": "2026-09-01T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-01/topic/import-ai-471-why-hugging-face-worries-me-space-mining-five-eyes-on-ai/"
+          "route": "/hot/2026-09-01/topic/import-ai-471-why-hugging-face-worries-me-space-mining-five-eyes-on-ai/",
+          "headline_zh": "Import AI 第 471 期：Hugging Face 为何让我担忧；太空采矿；五眼联盟谈 AI",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "8192e4491b66",
@@ -3346,7 +3441,11 @@
               "published_at": "2026-09-01T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-01/topic/the-rise-and-fall-of-agent-civilizations-dwarkesh-podcast/"
+          "route": "/hot/2026-09-01/topic/the-rise-and-fall-of-agent-civilizations-dwarkesh-podcast/",
+          "headline_zh": "智能体文明的兴衰（Dwarkesh Podcast）",
+          "summary_short_zh": "智能体文明的兴衰（Dwarkesh Podcast",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "6fa0f5ecd2e5",
@@ -3384,7 +3483,11 @@
               "published_at": "Tue, 01 Sep 2026 04:12:49 +0000"
             }
           ],
-          "route": "/hot/2026-09-01/topic/aivc/"
+          "route": "/hot/2026-09-01/topic/aivc/",
+          "headline_zh": "AIVC只是前菜！复旦提出生命算子，统一生命建模",
+          "summary_short_zh": "连发六篇Nature期刊，复旦Neolab打通全尺度生命推演",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "5bfef9e19ba1",
@@ -3422,7 +3525,11 @@
               "published_at": "Tue, 01 Sep 2026 05:12:30 +0000"
             }
           ],
-          "route": "/hot/2026-09-01/topic/wam-air-in-context-causal-learning/"
+          "route": "/hot/2026-09-01/topic/wam-air-in-context-causal-learning/",
+          "headline_zh": "自进化WAM来了！清华AIR联手域变换提出具身In-Context Causal Learning",
+          "summary_short_zh": "参数冻结，能力暴涨",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "63556a2d7277",
@@ -3460,7 +3567,11 @@
               "published_at": "Tue, 01 Sep 2026 08:15:40 +0000"
             }
           ],
-          "route": "/hot/2026-09-01/topic/a-a-claude-25-17/"
+          "route": "/hot/2026-09-01/topic/a-a-claude-25-17/",
+          "headline_zh": "A社化身A割！Claude官宣永久提额25%，结果到手反而少17%",
+          "summary_short_zh": "主打一个明升暗降，理直气壮",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "4438923b2cea",
@@ -3498,7 +3609,11 @@
               "published_at": "Tue, 01 Sep 2026 08:26:54 +0000"
             }
           ],
-          "route": "/hot/2026-09-01/topic/github-agent/"
+          "route": "/hot/2026-09-01/topic/github-agent/",
+          "headline_zh": "GitHub最热架构图Agent，开发者故事看哭了",
+          "summary_short_zh": "美观且支持实时更新的架构图，也能用AI一键生成了！",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "5ef4eee8f63a",
@@ -3536,7 +3651,11 @@
               "published_at": "2026-08-31T09:27:36-04:00"
             }
           ],
-          "route": "/hot/2026-09-01/topic/chatgpt-to-face-tougher-regulation-in-the-eu/"
+          "route": "/hot/2026-09-01/topic/chatgpt-to-face-tougher-regulation-in-the-eu/",
+          "headline_zh": "ChatGPT 将在欧盟面临更严格的监管",
+          "summary_short_zh": "OpenAI 即将被要求承担降低 ChatGPT 在欧盟相关风险的责任，涉及其对未成年人和用户心理健康的影响，以及非法内容的传播。",
+          "why_it_matters_zh": "这项行业动向见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "2bf60806c044",
@@ -3574,7 +3693,11 @@
               "published_at": "2026-08-31T10:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-01/topic/new-york-governor-kathy-hochul-thinks-ai-should-be-less-evil/"
+          "route": "/hot/2026-09-01/topic/new-york-governor-kathy-hochul-thinks-ai-should-be-less-evil/",
+          "headline_zh": "纽约州州长 Kathy Hochul 认为 AI 应该“少作恶”",
+          "summary_short_zh": "今天，我的对谈嘉宾是纽约州州长 Kathy Hochul。先提醒大家，这期节奏很快。毕竟今年是选举年，受影响的科技政策多得惊人，而 Hochul 州长几乎在每个重大科技议题上都表明了鲜明立场。",
+          "why_it_matters_zh": "这项行业动向见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -3616,7 +3739,11 @@
           "published_at": "Mon, 31 Aug 2026 15:30:00 -0400"
         }
       ],
-      "route": "/hot/2026-09-01/topic/mit-quantum-initiative-launches-postdoctoral-fellowship-program/"
+      "route": "/hot/2026-09-01/topic/mit-quantum-initiative-launches-postdoctoral-fellowship-program/",
+      "headline_zh": "麻省理工学院量子计划启动博士后研究资助项目",
+      "summary_short_zh": "该校将于今年秋季迎来首批 QMIT 研究员，推动跨学科量子研究",
+      "why_it_matters_zh": "这次产品发布见于 1 个独立来源。",
+      "category_zh": "产品发布"
     }
   ],
   "x_buzz": [

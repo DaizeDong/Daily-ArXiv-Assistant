@@ -971,7 +971,15 @@
           "published_at": "2026-07-23T06:07:23Z"
         }
       ],
-      "route": "/hot/2026-07-27/topic/xyz-ai-lab-axrl/"
+      "route": "/hot/2026-07-27/topic/xyz-ai-lab-axrl/",
+      "headline_zh": "XYZ-AI-Lab/axrl",
+      "summary_short_zh": "AxisRL 是一个智能体强化学习后训练框架，基于 SGLang rollout、Megatron 训练和真实场景中的智能体工作流构建",
+      "why_it_matters_zh": "有 1 个独立来源提及该工具。",
+      "category_zh": "工具",
+      "key_takeaways_zh": [
+        "AxisAgentic：面向长程智能体的可扩展运行时与轨迹采集框架。",
+        "AxisRL 是一个智能体强化学习后训练框架，基于 SGLang rollout、Megatron 训练和真实场景中的智能体工作流构建。"
+      ]
     },
     {
       "topic_id": "f8711db85b8d",
@@ -1011,7 +1019,14 @@
           "published_at": "2026-07-23T14:10:49Z"
         }
       ],
-      "route": "/hot/2026-07-27/topic/codejunkie99-graph-engineering/"
+      "route": "/hot/2026-07-27/topic/codejunkie99-graph-engineering/",
+      "headline_zh": "codejunkie99/graph-engineering",
+      "summary_short_zh": "面向 AI 智能体的图工程：9 阶段知识图谱流程（译自东南大学研究生课程）与任务图编排模式，以 Claude 技能形式提供，支持教学模式和可直接粘贴使用的工作流",
+      "why_it_matters_zh": "有 1 个独立来源提及该工具。",
+      "category_zh": "工具",
+      "key_takeaways_zh": [
+        "面向 AI 智能体的图工程：9 阶段知识图谱流程（译自东南大学研究生课程）与任务图编排模式，以 Claude 技能形式提供，支持教学模式和可直接粘贴使用的……"
+      ]
     },
     {
       "topic_id": "4da6670a7c12",
@@ -1051,7 +1066,14 @@
           "published_at": "Sun, 26 Jul 2026 00:00:00 GMT"
         }
       ],
-      "route": "/hot/2026-07-27/topic/kimi-k3-vs-gpt-5-6-sol-on-deepswe-cost-coding-and-routing/"
+      "route": "/hot/2026-07-27/topic/kimi-k3-vs-gpt-5-6-sol-on-deepswe-cost-coding-and-routing/",
+      "headline_zh": "Kimi K3 与 GPT-5.6 Sol 在 DeepSWE 上的对比：成本、编程与路由",
+      "summary_short_zh": "我们用 Kimi K3 和 GPT-5.6 Sol 进行了 904 次 DeepSWE rollout。Sol 在 pass@1 上领先；Kimi K3 在 pass@4 上胜出，每美元解题数是 Sol 的 2.8 倍，在两者之间进行路由选择后，解题率达到约 85.6%",
+      "why_it_matters_zh": "有 1 个独立来源提及此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "我们用 Kimi K3 和 GPT-5.6 Sol 进行了 904 次 DeepSWE rollout。Sol 在 pass@1 上领先；Kimi K3 在 pass@4 上胜出，每美元解题数是 Sol 的 2.8 倍，在两者之间进行路由选择后，解题率达到约 85.6%。"
+      ]
     },
     {
       "topic_id": "da7a3b4b6860",
@@ -1089,7 +1111,11 @@
           "published_at": "2026-07-27T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-07-27/topic/a-framework-for-frontier-ai-and-the-dawning-of-a-new-age-demis-hassabis-x/"
+      "route": "/hot/2026-07-27/topic/a-framework-for-frontier-ai-and-the-dawning-of-a-new-age-demis-hassabis-x/",
+      "headline_zh": "前沿 AI 框架与新时代的曙光（Demis Hassabis，X）",
+      "summary_short_zh": "前沿 AI 框架与新时代的曙光（Demis Hassabis，X",
+      "why_it_matters_zh": "有 1 个独立来源提及该工具。",
+      "category_zh": "工具"
     },
     {
       "topic_id": "b7fb5ba8dc0d",
@@ -1127,7 +1153,10 @@
           "published_at": "2026-07-27T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-07-27/topic/import-ai-465-open-vs-closed-gaps-kimi-k3-demis-big-policy-plan/"
+      "route": "/hot/2026-07-27/topic/import-ai-465-open-vs-closed-gaps-kimi-k3-demis-big-policy-plan/",
+      "headline_zh": "Import AI 第 465 期：开源与闭源模型的差距；Kimi K3；Demis 的重大政策计划",
+      "why_it_matters_zh": "有 1 个独立来源提及该行业动态。",
+      "category_zh": "行业动态"
     }
   ],
   "category_sections": [
@@ -1171,7 +1200,11 @@
               "published_at": "Sun, 26 Jul 2026 01:30:00 +0000"
             }
           ],
-          "route": "/hot/2026-07-27/topic/monday-com-is-the-latest-tech-company-to-blame-ai-for-layoffs-here-are-20-others/"
+          "route": "/hot/2026-07-27/topic/monday-com-is-the-latest-tech-company-to-blame-ai-for-layoffs-here-are-20-others/",
+          "headline_zh": "Monday.com 成为最新一家将裁员归咎于 AI 的科技公司，另外还有这 20 家",
+          "summary_short_zh": "持续汇总今年宣布大规模裁员、并将 AI 列为原因之一的大型科技公司，按时间倒序排列",
+          "why_it_matters_zh": "有 1 个独立来源提及此次产品发布。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -1215,7 +1248,11 @@
               "published_at": "Mon, 27 Jul 2026 04:29:38 +0000"
             }
           ],
-          "route": "/hot/2026-07-27/topic/deepseek/"
+          "route": "/hot/2026-07-27/topic/deepseek/",
+          "headline_zh": "DeepSeek被曝主动叫停了第二轮融资签约",
+          "summary_short_zh": "这轮融资计划至少募资100亿元",
+          "why_it_matters_zh": "有 1 个独立来源提及这条其他资讯。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "6edb7a6ff1dc",
@@ -1253,7 +1290,11 @@
               "published_at": "2026-07-27T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-27/topic/how-far-behind-the-frontier-are-leading-open-weight-models-on-cyber-uk-ai-security-institute-blog/"
+          "route": "/hot/2026-07-27/topic/how-far-behind-the-frontier-are-leading-open-weight-models-on-cyber-uk-ai-security-institute-blog/",
+          "headline_zh": "领先的开放权重模型在网络安全能力上落后前沿模型多少？（英国 AI 安全研究所博客）",
+          "summary_short_zh": "领先的开放权重模型在网络安全能力上落后前沿模型多少？（英国 AI 安全研究所博客",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "57530074ab1d",
@@ -1291,7 +1332,10 @@
               "published_at": "2026-07-27T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-27/topic/import-ai-464-fables-writes-gpu-kernels-ai-automation-and-analog-computation/"
+          "route": "/hot/2026-07-27/topic/import-ai-464-fables-writes-gpu-kernels-ai-automation-and-analog-computation/",
+          "headline_zh": "Import AI 464：Fables 编写 GPU 内核；AI 自动化；模拟计算",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "9aea6da15671",
@@ -1329,7 +1373,11 @@
               "published_at": "Mon, 27 Jul 2026 03:55:47 +0000"
             }
           ],
-          "route": "/hot/2026-07-27/topic/9aea6da15671/"
+          "route": "/hot/2026-07-27/topic/9aea6da15671/",
+          "headline_zh": "企业出海，被中国信通院和腾讯重新定义了一次",
+          "summary_short_zh": "22位AI专家率先上岗WorkBuddy",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "0a6f36f41d0b",
@@ -1367,7 +1415,11 @@
               "published_at": "Mon, 27 Jul 2026 04:33:09 +0000"
             }
           ],
-          "route": "/hot/2026-07-27/topic/ai/"
+          "route": "/hot/2026-07-27/topic/ai/",
+          "headline_zh": "出海企业苦等的可信任AI营销产品，飞书深诺做出来了",
+          "summary_short_zh": "让中国品牌赢在全球",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -1411,7 +1463,11 @@
               "published_at": "2026-07-22T02:11:12Z"
             }
           ],
-          "route": "/hot/2026-07-27/topic/tanishq-dubey-macos-laguna-s2-1/"
+          "route": "/hot/2026-07-27/topic/tanishq-dubey-macos-laguna-s2-1/",
+          "headline_zh": "tanishq-dubey/macos-laguna-s2.1",
+          "summary_short_zh": "用于运行 Poolside Laguna S 2.1 的社区基准测试与脚本",
+          "why_it_matters_zh": "这项工具见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "042b4dc6be46",
@@ -1449,7 +1505,11 @@
               "published_at": "2026-07-26T19:30:54+00:00"
             }
           ],
-          "route": "/hot/2026-07-27/topic/an-inside-look-at-the-relay-market-powering-token-resellers-and-fraud/"
+          "route": "/hot/2026-07-27/topic/an-inside-look-at-the-relay-market-powering-token-resellers-and-fraud/",
+          "headline_zh": "揭秘 Token 转售与欺诈背后的中转市场",
+          "summary_short_zh": "<p><strong><a href=\" 揭秘 Token 转售与欺诈背后的中转市场</a></strong></p> Matt Lenhard 的这篇调查引人入胜，揭示了一个通过汇集各种来源的 API 密钥、低价转售大语言模型 Token 而形成的市场。</p> <p>这似乎主要是一个",
+          "why_it_matters_zh": "这项工具见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     }
@@ -1495,7 +1555,11 @@
               "published_at": "Mon, 27 Jul 2026 05:00:12 +0000"
             }
           ],
-          "route": "/hot/2026-07-27/topic/ai/"
+          "route": "/hot/2026-07-27/topic/ai/",
+          "headline_zh": "AI最尴尬的短板，中国科学院出手了",
+          "summary_short_zh": "把“情商”做成了一套可测可训的工程",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "5fd63f819141",
@@ -1533,7 +1597,11 @@
               "published_at": "Sun, 26 Jul 2026 16:33:13 +0000"
             }
           ],
-          "route": "/hot/2026-07-27/topic/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/"
+          "route": "/hot/2026-07-27/topic/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+          "headline_zh": "OpenAI 遭遇“前所未有”的黑客攻击后，Hugging Face 首席执行官呼吁“彻底透明”",
+          "summary_short_zh": "“首次由自主智能体发起的网络攻击是前所未有的事件。理应采取前所未有的应对措施！”",
+          "why_it_matters_zh": "这条行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "def0697a0393",
@@ -1571,7 +1639,11 @@
               "published_at": "Mon, 27 Jul 2026 00:19:14 +0000"
             }
           ],
-          "route": "/hot/2026-07-27/topic/are-brain-waves-the-next-unlock-for-physical-ai/"
+          "route": "/hot/2026-07-27/topic/are-brain-waves-the-next-unlock-for-physical-ai/",
+          "headline_zh": "脑电波会成为物理 AI 的下一个突破口吗？",
+          "summary_short_zh": "别再指望 YouTube 视频了，前沿物理 AI 模型需要多角度影像、密集标注，而且很快还会需要脑电波数据",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "c9d079471f81",
@@ -1609,7 +1681,11 @@
               "published_at": "Sun, 26 Jul 2026 19:40:57 +0000"
             }
           ],
-          "route": "/hot/2026-07-27/topic/making-sense-of-the-panic-over-chinese-ai/"
+          "route": "/hot/2026-07-27/topic/making-sense-of-the-panic-over-chinese-ai/",
+          "headline_zh": "解读中国 AI 引发的恐慌",
+          "summary_short_zh": "在最新一期 Equity 节目中，我们讨论了为什么 Moonshot AI 的 Kimi 似乎让硅谷和华尔街陷入恐慌",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "875e94c99435",
@@ -1647,7 +1723,10 @@
               "published_at": "2026-07-27T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-27/topic/5-min-read-claude-cowork-gets-screen-memorization-skills/"
+          "route": "/hot/2026-07-27/topic/5-min-read-claude-cowork-gets-screen-memorization-skills/",
+          "headline_zh": "阅读需 5 分钟：Claude Cowork 新增屏幕记忆功能",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "4efe0c6af1a5",
@@ -1685,7 +1764,10 @@
               "published_at": "2026-07-27T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-27/topic/google-s-gemini-lineup-has-a-pro-sized-hole/"
+          "route": "/hot/2026-07-27/topic/google-s-gemini-lineup-has-a-pro-sized-hole/",
+          "headline_zh": "Google 的 Gemini 产品线缺了 Pro 这一档",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "012856f18386",
@@ -1723,7 +1805,10 @@
               "published_at": "2026-07-27T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-27/topic/openai-s-cyber-test-escapes-the-lab/"
+          "route": "/hot/2026-07-27/topic/openai-s-cyber-test-escapes-the-lab/",
+          "headline_zh": "OpenAI 的网络安全测试走出实验室",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -1765,7 +1850,11 @@
           "published_at": "2026-07-22T06:22:34Z"
         }
       ],
-      "route": "/hot/2026-07-27/topic/ddcat-ai-open-ai-canvas/"
+      "route": "/hot/2026-07-27/topic/ddcat-ai-open-ai-canvas/",
+      "headline_zh": "ddcat-ai/open-ai-canvas",
+      "summary_short_zh": "面向 AI 影视创作的开源无限画布工作台，集成多模态生成、分镜编排、素材管理与 Agent 工作流。",
+      "why_it_matters_zh": "这条工具类资讯见于 1 个独立来源。",
+      "category_zh": "工具"
     },
     {
       "topic_id": "8e91c7904164",
@@ -1803,7 +1892,11 @@
           "published_at": "2026-07-22T07:31:23Z"
         }
       ],
-      "route": "/hot/2026-07-27/topic/invaro-opentax-engine/"
+      "route": "/hot/2026-07-27/topic/invaro-opentax-engine/",
+      "headline_zh": "Invaro/opentax-engine",
+      "summary_short_zh": "面向 AI 智能体的确定性税务引擎。在 TaxCalcBench 上创下最高分纪录（96% 的税表结果完全正确",
+      "why_it_matters_zh": "这条工具类资讯见于 1 个独立来源。",
+      "category_zh": "工具"
     }
   ],
   "x_buzz": [

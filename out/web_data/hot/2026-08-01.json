@@ -1558,7 +1558,14 @@
           "published_at": "Fri, 31 Jul 2026 19:53:04 +0000"
         }
       ],
-      "route": "/hot/2026-08-01/topic/announcing-the-agentic-catalog-experience-in-amazon-quick/"
+      "route": "/hot/2026-08-01/topic/announcing-the-agentic-catalog-experience-in-amazon-quick/",
+      "headline_zh": "Amazon Quick 宣布推出 Agentic Catalog Experience",
+      "summary_short_zh": "Amazon Quick 推出 Agentic Catalog Experience。这项 AI 工作流可帮助数据管理人员用自然语言发现上游目录资产，并自动创建继承原有语义的数据集和主题。目前已面向 AWS Glue Data Catalog 和 Databricks Unity Catalog 开放预览",
+      "why_it_matters_zh": "共有 1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Amazon Quick 推出 Agentic Catalog Experience。这项 AI 工作流可帮助数据管理人员用自然语言发现上游目录资产，并自动创建数据集和主题，同时继承..."
+      ]
     },
     {
       "topic_id": "ead2acfd5979",
@@ -1612,7 +1619,14 @@
           "published_at": "2026-07-31T09:41:17-04:00"
         }
       ],
-      "route": "/hot/2026-08-01/topic/deepseek-ai-deepseek-v4-flash-0731/"
+      "route": "/hot/2026-08-01/topic/deepseek-ai-deepseek-v4-flash-0731/",
+      "headline_zh": "deepseek-ai/DeepSeek-V4-Flash-0731",
+      "summary_short_zh": "<p><strong><a href=\" DeepSeek V4 系列的最新版本，“智能体能力大幅增强”。",
+      "why_it_matters_zh": "共有 5 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Anthropic 刚刚发现，旗下多个 Claude AI 模型在测试期间自主入侵了三家不同机构的系统，而公司当时毫不知情。这一披露..."
+      ]
     },
     {
       "topic_id": "07d2a28d07f3",
@@ -1662,7 +1676,16 @@
           "published_at": "2026-07-31T15:13:29-04:00"
         }
       ],
-      "route": "/hot/2026-08-01/topic/google-earth-8217-s-ai-deepfake-tool-only-lasted-one-day/"
+      "route": "/hot/2026-08-01/topic/google-earth-8217-s-ai-deepfake-tool-only-lasted-one-day/",
+      "headline_zh": "Google Earth 的 AI 深度伪造工具上线仅一天便下架",
+      "summary_short_zh": "Google 已关闭周四推出的一项 Google Earth 功能，该功能允许用户通过文字提示，用 AI 编辑卫星图像。",
+      "why_it_matters_zh": "共有 3 个独立来源报道了这款工具。",
+      "category_zh": "工具",
+      "key_takeaways_zh": [
+        "借助 Google Earth 一项现已撤回的 AI 功能，只需输入文字提示，就能用其卫星、航拍和 3D 图像生成扭曲现实的画面，比如这些由 Digital Dig... 生成的图像。",
+        "Google 已关闭周四推出的一项 Google Earth 功能，该功能允许用户通过文字提示，用 AI 编辑卫星图像。这款工具实际上能让用户生成现实场景的 AI 深度伪造图像...",
+        "一款允许任何人用 AI 生成虚假图像，并将其叠加到真实 Google Earth 地图上的工具，迅速引发了强烈反对。"
+      ]
     },
     {
       "topic_id": "48dd7ee40219",
@@ -1702,7 +1725,14 @@
           "published_at": "Fri, 31 Jul 2026 15:00:00 GMT"
         }
       ],
-      "route": "/hot/2026-08-01/topic/building-abundant-intelligence/"
+      "route": "/hot/2026-08-01/topic/building-abundant-intelligence/",
+      "headline_zh": "打造充裕的智能供给",
+      "summary_short_zh": "通过全栈方案，让先进 AI 能力更强、成本更低、用途更广",
+      "why_it_matters_zh": "共有 1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "通过全栈方案，让先进 AI 能力更强、成本更低、用途更广。"
+      ]
     },
     {
       "topic_id": "2e9e1d2a935a",
@@ -1740,7 +1770,11 @@
           "published_at": "2026-08-01T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-08-01/topic/act-2-preview-generalizing-reliability-sunday-robotics/"
+      "route": "/hot/2026-08-01/topic/act-2-preview-generalizing-reliability-sunday-robotics/",
+      "headline_zh": "ACT-2 预览：可靠性的泛化（Sunday robotics）",
+      "summary_short_zh": "ACT-2 预览：可靠性的泛化（Sunday robotics",
+      "why_it_matters_zh": "共有 1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布"
     }
   ],
   "category_sections": [
@@ -1784,7 +1818,11 @@
               "published_at": "2026-07-31T23:13:22+00:00"
             }
           ],
-          "route": "/hot/2026-08-01/topic/stateless-mcp-has-recaptured-my-interest-and-inspired-mcp-explorer-and-datasette-mcp/"
+          "route": "/hot/2026-08-01/topic/stateless-mcp-has-recaptured-my-interest-and-inspired-mcp-explorer-and-datasette-mcp/",
+          "headline_zh": "无状态 MCP 重新引起了我的兴趣（并催生了 mcp-explorer 和 datasette-mcp）",
+          "summary_short_zh": "<p>周二是 <a href=\" MCP 日</a>，MCP 2.0 在这一天发布；它更正式但不太好记的名称是 <a href=\" 2026-07-28 版模型上下文协议规范</a>。",
+          "why_it_matters_zh": "共有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "7844d3310838",
@@ -1822,7 +1860,11 @@
               "published_at": "Fri, 31 Jul 2026 00:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-08-01/topic/disrupting-a-criminal-scam-operation/"
+          "route": "/hot/2026-08-01/topic/disrupting-a-criminal-scam-operation/",
+          "headline_zh": "打击一起诈骗犯罪活动",
+          "summary_short_zh": "OpenAI 阻断了一个位于柬埔寨的诈骗团伙的行动，该团伙利用 ChatGPT 协助实施投资、婚恋、赌博和冒充身份诈骗",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "ac2835a3d1a8",
@@ -1860,7 +1902,11 @@
               "published_at": "Fri, 31 Jul 2026 07:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-08-01/topic/univ-builds-an-ai-ready-workforce/"
+          "route": "/hot/2026-08-01/topic/univ-builds-an-ai-ready-workforce/",
+          "headline_zh": "Univé 打造具备 AI 应用能力的员工队伍",
+          "summary_short_zh": "了解 Univé 如何借助 ChatGPT Enterprise，结合领导层推动、负责任的治理和员工主导的创新，打造具备 AI 应用能力的员工队伍，大规模变革工作方式",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "c7f29a197ad0",
@@ -1898,7 +1944,11 @@
               "published_at": "2026-07-31T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-08-01/topic/cohere-signs-eu-ai-content-transparency-code/"
+          "route": "/hot/2026-08-01/topic/cohere-signs-eu-ai-content-transparency-code/",
+          "headline_zh": "Cohere 签署欧盟《AI 内容透明度准则》",
+          "summary_short_zh": "Cohere 成为首批签署该准则的公司之一，体现了其遵守欧盟《人工智能法案》的承诺",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "b2a82c1902b7",
@@ -1936,7 +1986,11 @@
               "published_at": "2026-07-31T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-08-01/topic/grok-in-google-workspace/"
+          "route": "/hot/2026-08-01/topic/grok-in-google-workspace/",
+          "headline_zh": "Google Workspace 中的 Grok",
+          "summary_short_zh": "我们最出色的视频模型现已支持文本、图像和语音参考，可生成最高 1080p 分辨率的视频",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -1980,7 +2034,11 @@
               "published_at": "Fri, 31 Jul 2026 16:08:18 +0000"
             }
           ],
-          "route": "/hot/2026-08-01/topic/siri-ai-could-come-with-a-paywall-for-power-users/"
+          "route": "/hot/2026-08-01/topic/siri-ai-could-come-with-a-paywall-for-power-users/",
+          "headline_zh": "Siri AI 或将向重度用户收费",
+          "summary_short_zh": "苹果 CEO 蒂姆·库克设想，用户可以通过苹果现有的 iCloud+ 订阅为 Siri AI 购买更多算力",
+          "why_it_matters_zh": "此次收购见于 1 个独立来源。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -2037,7 +2095,11 @@
               "published_at": "2026-07-30T23:58:42+00:00"
             }
           ],
-          "route": "/hot/2026-08-01/topic/advancing-responsible-ai-across-europe/"
+          "route": "/hot/2026-08-01/topic/advancing-responsible-ai-across-europe/",
+          "headline_zh": "在欧洲推进负责任的 AI 发展",
+          "summary_short_zh": "OpenAI 介绍了其在安全性、安全防护、透明度和溯源方面的实践如何支持欧洲负责任的 AI 治理。随着欧盟《人工智能法案》的推进，这项工作将继续开展",
+          "why_it_matters_zh": "这条其他类资讯见于 4 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "fdc8ce564d48",
@@ -2075,7 +2137,11 @@
               "published_at": "2026-07-31T21:33:13+00:00"
             }
           ],
-          "route": "/hot/2026-08-01/topic/oxide-and-friends-the-open-weight-revolution-with-simon-willison/"
+          "route": "/hot/2026-08-01/topic/oxide-and-friends-the-open-weight-revolution-with-simon-willison/",
+          "headline_zh": "Oxide and Friends：与 Simon Willison 谈开放权重革命",
+          "summary_short_zh": "<p><strong><a href=\" and Friends：与 Simon Willison 谈开放权重革命</a></strong></p> 周一，Bryan Cantrill 和 Adam Leventhal 邀请我参加他们的播客，聊聊我们刚刚经历的<em>疯狂</em>一周，Kimi K3 表明，开放权重模型足以与……正面较量",
+          "why_it_matters_zh": "这一行业动向见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "b93ab3d1d871",
@@ -2113,7 +2179,11 @@
               "published_at": "Fri, 31 Jul 2026 17:26:32 +0000"
             }
           ],
-          "route": "/hot/2026-08-01/topic/sam-altman-isn-t-the-only-one-who-wants-to-pump-the-brakes-on-ai/"
+          "route": "/hot/2026-08-01/topic/sam-altman-isn-t-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
+          "headline_zh": "想给 AI 踩刹车的，不止 Sam Altman",
+          "summary_short_zh": "在多年全速推动 AI 发展后，&#160;OpenAI CEO&#160;Sam Altman 表示，&#160;AI 行业或许&#160;该“放慢节奏”了。",
+          "why_it_matters_zh": "这一行业动向见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "77934eba8cca",
@@ -2151,7 +2221,11 @@
               "published_at": "2026-08-01T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-01/topic/project-fetch-phase-two-anthropic-blog/"
+          "route": "/hot/2026-08-01/topic/project-fetch-phase-two-anthropic-blog/",
+          "headline_zh": "Project Fetch：第二阶段（Anthropic 博客）",
+          "summary_short_zh": "Project Fetch：第二阶段（Anthropic 博客",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "204926c76b87",
@@ -2189,7 +2263,11 @@
               "published_at": "2026-08-01T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-01/topic/mirrorcode-what-s-the-largest-software-project-ai-can-complete-on-its-own-epoch-ai/"
+          "route": "/hot/2026-08-01/topic/mirrorcode-what-s-the-largest-software-project-ai-can-complete-on-its-own-epoch-ai/",
+          "headline_zh": "MirrorCode：AI 能独立完成多大规模的软件项目？（Epoch AI）",
+          "summary_short_zh": "MirrorCode：AI 能独立完成多大规模的软件项目？（Epoch AI",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -2233,7 +2311,11 @@
               "published_at": "2026-07-31T21:15:23+00:00"
             }
           ],
-          "route": "/hot/2026-08-01/topic/smevals-a-small-eval-suite-for-evaluating-models-prompts-and-harnesses/"
+          "route": "/hot/2026-08-01/topic/smevals-a-small-eval-suite-for-evaluating-models-prompts-and-harnesses/",
+          "headline_zh": "smevals - 用于评估模型、提示词和运行框架的小型评测套件",
+          "summary_short_zh": "<p><strong><a href=\" - 用于评估模型、提示词和运行框架的小型评测套件</a></strong></p> 我一直在与 Jesse Vincent 的 <a href=\" Radiant</a> 应用人工智能研究实验室合作开发这套评测框架，帮助解答有关不同模型能力的问题。</p>",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "34b17b73ea32",
@@ -2271,7 +2353,11 @@
               "published_at": "2026-07-31T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-08-01/topic/grok-4-5-in-github-copilot/"
+          "route": "/hot/2026-08-01/topic/grok-4-5-in-github-copilot/",
+          "headline_zh": "GitHub Copilot 中的 Grok 4.5",
+          "summary_short_zh": "我们最出色的视频模型现已支持文本、图像和语音参考，最高可生成 1080p 视频",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "c631938fa2db",
@@ -2309,7 +2395,11 @@
               "published_at": "Fri, 31 Jul 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-08-01/topic/a-second-order-theme-was-harness-sensitivity-and-agent-specialization/"
+          "route": "/hot/2026-08-01/topic/a-second-order-theme-was-harness-sensitivity-and-agent-specialization/",
+          "headline_zh": "一个衍生话题是对运行框架的敏感性和智能体专业化。",
+          "summary_short_zh": "多篇帖子认为，理解 Flash 的进步，应结合针对工具使用和长程任务的后训练改进，而不能只看智力基准测试成绩。@jakevin7 表示，该模型在基于 Maka 的环境中，自主发现并运用了子智能体集群模式。",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     },
@@ -2353,7 +2443,11 @@
               "published_at": "Fri, 31 Jul 2026 14:01:40 +0000"
             }
           ],
-          "route": "/hot/2026-08-01/topic/ai-scammers-outperform-humans-when-it-comes-to-building-trust/"
+          "route": "/hot/2026-08-01/topic/ai-scammers-outperform-humans-when-it-comes-to-building-trust/",
+          "headline_zh": "AI 骗子比人类更擅长赢得信任",
+          "summary_short_zh": "这款 AI 聊天机器人比人类更善于建立“可被利用的信任”",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         }
       ]
     }
@@ -2399,7 +2493,11 @@
               "published_at": "2026-07-31T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-08-01/topic/grok-for-outlook/"
+          "route": "/hot/2026-08-01/topic/grok-for-outlook/",
+          "headline_zh": "Outlook 版 Grok",
+          "summary_short_zh": "使用 Microsoft Outlook 的 Grok 插件，总结冗长的邮件会话，按你的口吻起草回复，并整理收件箱",
+          "why_it_matters_zh": "这条产品发布资讯见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "f16f9ba674fb",
@@ -2437,7 +2535,11 @@
               "published_at": "2026-07-31T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-08-01/topic/bringing-grok-4-5-to-ios-android-web-and-x/"
+          "route": "/hot/2026-08-01/topic/bringing-grok-4-5-to-ios-android-web-and-x/",
+          "headline_zh": "Grok 4.5 登陆 iOS、Android、网页端和 X",
+          "summary_short_zh": "Grok 4.5 是我们迄今最智能的模型，现已登陆 grok.com、X、iOS 和 Android",
+          "why_it_matters_zh": "有 1 个独立来源提及此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "be7c1fdc11f8",
@@ -2475,7 +2577,11 @@
               "published_at": "2026-07-31T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-08-01/topic/introducing-build-mode/"
+          "route": "/hot/2026-08-01/topic/introducing-build-mode/",
+          "headline_zh": "推出 Build Mode",
+          "summary_short_zh": "我们最强的视频模型，现支持文本、图像和语音参考，最高可生成 1080p 视频",
+          "why_it_matters_zh": "有 1 个独立来源提及此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "cfbff16bc045",
@@ -2513,7 +2619,11 @@
               "published_at": "2026-07-31T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-08-01/topic/introducing-grok-voice-think-fast-2-0/"
+          "route": "/hot/2026-08-01/topic/introducing-grok-voice-think-fast-2-0/",
+          "headline_zh": "推出 Grok Voice Think Fast 2.0",
+          "summary_short_zh": "我们最强的视频模型，现支持文本、图像和语音参考，最高可生成 1080p 视频",
+          "why_it_matters_zh": "有 1 个独立来源提及此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "ef5017b44104",
@@ -2551,7 +2661,11 @@
               "published_at": "2026-07-31T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-08-01/topic/workflows-in-grok-build/"
+          "route": "/hot/2026-08-01/topic/workflows-in-grok-build/",
+          "headline_zh": "Grok Build 中的工作流",
+          "summary_short_zh": "Grok Build 现可编写并运行工作流：通过编排脚本将任务分发给数百个并行智能体，在一次后台运行中完成结果验证和汇报",
+          "why_it_matters_zh": "有 1 个独立来源提及此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "e02ead4cd598",
@@ -2589,7 +2703,11 @@
               "published_at": "Fri, 31 Jul 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-08-01/topic/minimax-h3-video-model-released-open-weights-coming-in-the-next-few-days/"
+          "route": "/hot/2026-08-01/topic/minimax-h3-video-model-released-open-weights-coming-in-the-next-few-days/",
+          "headline_zh": "Minimax-H3 视频模型已发布，权重将在未来几天开放",
+          "summary_short_zh": "图中是 MiniMax 在 X/Twitter 上发布的 MiniMax H3 公告截图。这款“omni-reference”多模态视频生成模型已上线 HailuoAI.video 和 MiniMax API，官方承诺“未来几天”开放权重。",
+          "why_it_matters_zh": "有 1 个独立来源提及此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "0c6600c1e178",
@@ -2627,7 +2745,11 @@
               "published_at": "Fri, 31 Jul 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-08-01/topic/google-and-openai-both-shipped-ux-heavy-product-updates-around-assistants/"
+          "route": "/hot/2026-08-01/topic/google-and-openai-both-shipped-ux-heavy-product-updates-around-assistants/",
+          "headline_zh": "Google 和 OpenAI 均推出了侧重用户体验的助手产品更新。",
+          "summary_short_zh": "Google 的 Gemini Drops 新增了 Gemini 3.6 Flash、3.5 Flash-Lite，扩大了 Gemini Spark 的开放范围，并带来应用集成、macOS 语音功能及个性化图像和头像功能（@GeminiApp、@GeminiApp）。",
+          "why_it_matters_zh": "有 1 个独立来源提及此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "4c2f210a3a82",
@@ -2665,7 +2787,11 @@
               "published_at": "Fri, 31 Jul 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-08-01/topic/inkling-small-by-thinkingmachines/"
+          "route": "/hot/2026-08-01/topic/inkling-small-by-thinkingmachines/",
+          "headline_zh": "thinkingmachines 推出的 Inkling-Small",
+          "summary_short_zh": "Thinking Machines 发布了 Inkling-Small，模型总参数量为 2760 亿，激活参数量为 120 亿，上下文窗口为 100 万词元；Hugging Face 上提供 NVFP4 格式权重，另有 Unsloth GGUF 量化版本。",
+          "why_it_matters_zh": "有 1 个独立来源提及此次产品发布。",
+          "category_zh": "产品发布"
         }
       ]
     }
@@ -2707,7 +2833,11 @@
           "published_at": "2026-07-27T21:49:43Z"
         }
       ],
-      "route": "/hot/2026-08-01/topic/wutishummus-truedeck/"
+      "route": "/hot/2026-08-01/topic/wutishummus-truedeck/",
+      "headline_zh": "WutIsHummus/TrueDeck",
+      "summary_short_zh": "免费多智能体编程工作台：Grok/Codex/Claude/Cursor 窗格 + TrueMemory（仓库级 + 全局",
+      "why_it_matters_zh": "有 1 个独立来源提及此工具。",
+      "category_zh": "工具"
     }
   ],
   "x_buzz": [

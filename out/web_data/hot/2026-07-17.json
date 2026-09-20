@@ -2046,7 +2046,15 @@
           "published_at": "2026-07-16T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-07-17/topic/grok-build-is-now-open-source/"
+      "route": "/hot/2026-07-17/topic/grok-build-is-now-open-source/",
+      "headline_zh": "Grok Build 现已开源",
+      "summary_short_zh": "Grok 4.5 是 SpaceXAI 最智能的模型，专为编程、智能体任务和知识工作打造",
+      "why_it_matters_zh": "此次产品发布有 2 个独立来源报道。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "SpaceXAI 的编程智能体运行框架和终端用户界面（TUI）。支持全屏、鼠标交互和扩展。",
+        "Grok 4.5 是 SpaceXAI 最智能的模型，专为编程、智能体任务和知识工作打造。"
+      ]
     },
     {
       "topic_id": "b302171eccb4",
@@ -2086,7 +2094,14 @@
           "published_at": "Thu, 16 Jul 2026 19:29:26 +0000"
         }
       ],
-      "route": "/hot/2026-07-17/topic/introducing-grok-on-amazon-bedrock/"
+      "route": "/hot/2026-07-17/topic/introducing-grok-on-amazon-bedrock/",
+      "headline_zh": "Grok 登陆 Amazon Bedrock",
+      "summary_short_zh": "本文介绍 Grok 4.3 为何非常适合智能体和企业工作负载、如何通过 Amazon Bedrock 访问它，以及如何使用大多数团队首先需要的功能：基本聊天请求、可配置的推理强度、工具调用、结构化输出、图像输入，以及",
+      "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "本文介绍 Grok 4.3 为何非常适合智能体和企业工作负载、如何通过 Amazon Bedrock 访问它，以及如何使用大多数团队首先需要的功能：基本……"
+      ]
     },
     {
       "topic_id": "a53e1ef17ac6",
@@ -2126,7 +2141,14 @@
           "published_at": "Thu, 16 Jul 2026 21:29:14 +0000"
         }
       ],
-      "route": "/hot/2026-07-17/topic/build-enterprise-search-for-agents-with-amazon-bedrock-managed-knowledge-base/"
+      "route": "/hot/2026-07-17/topic/build-enterprise-search-for-agents-with-amazon-bedrock-managed-knowledge-base/",
+      "headline_zh": "使用 Amazon Bedrock Managed Knowledge Base 为智能体构建企业搜索",
+      "summary_short_zh": "本文介绍实现这一目标的三个关键方面：简化设置、更智能的检索，以及满足生产环境要求。我们还提供了设置知识库并从中检索的代码示例",
+      "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "本文介绍实现这一目标的三个关键方面：简化设置、更智能的检索，以及满足生产环境要求。我们还提供了设置知识库的代码示例……"
+      ]
     },
     {
       "topic_id": "3b4379cfa4c9",
@@ -2166,7 +2188,14 @@
           "published_at": "Thu, 16 Jul 2026 16:00:00 GMT"
         }
       ],
-      "route": "/hot/2026-07-17/topic/why-teens-deserve-access-to-safe-ai/"
+      "route": "/hot/2026-07-17/topic/why-teens-deserve-access-to-safe-ai/",
+      "headline_zh": "为什么青少年应有机会使用安全的 AI",
+      "summary_short_zh": "了解 OpenAI 如何通过适龄保护措施、学习工具、家长控制和专家合作，让 ChatGPT 对青少年更安全",
+      "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "了解 OpenAI 如何通过适龄保护措施、学习工具、家长控制和专家合作，让 ChatGPT 对青少年更安全。"
+      ]
     },
     {
       "topic_id": "5d9f371181b6",
@@ -2206,7 +2235,14 @@
           "published_at": "Thu, 16 Jul 2026 16:00:00 +0000"
         }
       ],
-      "route": "/hot/2026-07-17/topic/connect-more-of-your-apps-to-search/"
+      "route": "/hot/2026-07-17/topic/connect-more-of-your-apps-to-search/",
+      "headline_zh": "将更多应用接入搜索",
+      "summary_short_zh": "已连接应用的渲染效果",
+      "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "已连接应用的渲染效果"
+      ]
     }
   ],
   "category_sections": [
@@ -2257,7 +2293,11 @@
               "published_at": "Fri, 17 Jul 2026 05:11:53 +0000"
             }
           ],
-          "route": "/hot/2026-07-17/topic/why-is-openai-selling-a-chatgpt-basketball/"
+          "route": "/hot/2026-07-17/topic/why-is-openai-selling-a-chatgpt-basketball/",
+          "headline_zh": "OpenAI 为什么要卖 ChatGPT 篮球？",
+          "summary_short_zh": "你可能听说 OpenAI 本周发布了首款硬件产品，但未必听说过 ChatGPT 篮球",
+          "why_it_matters_zh": "此次产品发布有 2 个独立来源报道。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "3f7caf527071",
@@ -2295,7 +2335,11 @@
               "published_at": "Thu, 16 Jul 2026 09:30:42 +0000"
             }
           ],
-          "route": "/hot/2026-07-17/topic/our-approach-to-bioresilience/"
+          "route": "/hot/2026-07-17/topic/our-approach-to-bioresilience/",
+          "headline_zh": "我们的生物韧性策略",
+          "summary_short_zh": "Google DeepMind 和 Isomorphic Labs 分享双方在生物韧性和 AI 模型方面的共同策略",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "933e533ab8e9",
@@ -2333,7 +2377,10 @@
               "published_at": "2026-07-16T13:22:33+00:00"
             }
           ],
-          "route": "/hot/2026-07-17/topic/one-adapter-both-modalities-field-notes-from-building-and-serving-a-multimodal-reranker/"
+          "route": "/hot/2026-07-17/topic/one-adapter-both-modalities-field-notes-from-building-and-serving-a-multimodal-reranker/",
+          "headline_zh": "一个适配器，两种模态：构建与部署多模态重排模型的实践笔记",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "9eae62485211",
@@ -2380,7 +2427,11 @@
               "published_at": "2026-07-16T16:08:13Z"
             }
           ],
-          "route": "/hot/2026-07-17/topic/google-is-renaming-notebooklm-to-gemini-notebook/"
+          "route": "/hot/2026-07-17/topic/google-is-renaming-notebooklm-to-gemini-notebook/",
+          "headline_zh": "Google 将 NotebookLM 更名为 Gemini Notebook",
+          "summary_short_zh": "Google 正为旗下的 AI 笔记应用更名。该公司周四宣布，NotebookLM 将更名为 Gemini Notebook。尽管会与 Gemini 和 Google 搜索进一步整合，它仍将作为独立应用存在。",
+          "why_it_matters_zh": "此次产品发布见于 2 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "17177fc9728b",
@@ -2418,7 +2469,11 @@
               "published_at": "2026-07-16T15:35:25+00:00"
             }
           ],
-          "route": "/hot/2026-07-17/topic/inkling-our-open-weights-model/"
+          "route": "/hot/2026-07-17/topic/inkling-our-open-weights-model/",
+          "headline_zh": "Inkling：我们的开放权重模型",
+          "summary_short_zh": "<p><strong><a href=\" 我们的开放权重模型</a></strong></p> Mira Murati 的 Thinking Machines Lab 刚刚发布了首个开放权重模型。",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2462,7 +2517,11 @@
               "published_at": "2026-07-16T23:34:16+00:00"
             }
           ],
-          "route": "/hot/2026-07-17/topic/firefox-in-webassembly/"
+          "route": "/hot/2026-07-17/topic/firefox-in-webassembly/",
+          "headline_zh": "在 WebAssembly 中运行 Firefox",
+          "summary_short_zh": "<p><strong><a href=\" 在 WebAssembly 中</a></strong></p> 这简直酷得离谱：Puter 将 Firefox 编译为 WebAssembly，让整个浏览器在另一个浏览器中运行。</p> <p>下面是我的博客，运行在 Firefox 中；Firefox 运行在 WebAssembly 中，WebAssembly 又运行在 Chrome 中：</p> <p><img alt=\"一个 Chrome 窗口。",
+          "why_it_matters_zh": "此次融资见于 1 个独立来源。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "bf56fa80a0bc",
@@ -2500,7 +2559,11 @@
               "published_at": "2026-07-17T02:58:07+00:00"
             }
           ],
-          "route": "/hot/2026-07-17/topic/spot-birds-not-golf/"
+          "route": "/hot/2026-07-17/topic/spot-birds-not-golf/",
+          "headline_zh": "去观鸟，别打高尔夫",
+          "summary_short_zh": "<p>给因数据中心用水问题而承压的超大规模云服务商一个建议：</p> <p>买下几家高端私人乡村俱乐部，把高尔夫球场改成公共公园，再出钱请向导、买望远镜，带原来的会员去观鸟，帮他们培养更可持续的爱好！</p>",
+          "why_it_matters_zh": "此次收购见于 1 个独立来源。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "d0750698e5ac",
@@ -2538,7 +2601,11 @@
               "published_at": "Thu, 16 Jul 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-07-17/topic/soofi-s-is-described-as-a-newly-pretrained-model-rather-than-a-finetune-commenters-note-it-is-based-on-nemotron-3-nano-underwent-full-pretraining-plus-additional-phases-and-has-public-artifacts-including-the-paper-training-logs-and-training-scripts/"
+          "route": "/hot/2026-07-17/topic/soofi-s-is-described-as-a-newly-pretrained-model-rather-than-a-finetune-commenters-note-it-is-based-on-nemotron-3-nano-underwent-full-pretraining-plus-additional-phases-and-has-public-artifacts-including-the-paper-training-logs-and-training-scripts/",
+          "headline_zh": "Soofi S 被描述为经过重新预训练的模型，而非微调版本：评论者指出，它基于 Nemotron 3 Nano，经历了完整预训练及额外训练阶段，并公开了论文、训练日志和训练脚本等资料。",
+          "summary_short_zh": "有人提出一项技术担忧：该架构的长上下文表现可能较弱；此次发布包含 RULER 测试，但似乎缺少较新的长上下文评测。",
+          "why_it_matters_zh": "此次融资见于 1 个独立来源。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -2591,7 +2658,11 @@
               "published_at": "Thu, 16 Jul 2026 18:32:54 +0000"
             }
           ],
-          "route": "/hot/2026-07-17/topic/create-edit-and-star-in-videos-with-two-google-vids-updates/"
+          "route": "/hot/2026-07-17/topic/create-edit-and-star-in-videos-with-two-google-vids-updates/",
+          "headline_zh": "借助 Google Vids 的两项更新，创作、编辑视频并担任主角",
+          "summary_short_zh": "“Google Vids 中的 Gemini Omni 和个人虚拟形象”字样周围环绕着多张图片",
+          "why_it_matters_zh": "这条其他类资讯见于 2 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "bad18e4d8074",
@@ -2629,7 +2700,11 @@
               "published_at": "2026-07-16T13:58:37-04:00"
             }
           ],
-          "route": "/hot/2026-07-17/topic/new-york-governor-says-she-8217-s-using-ai-to-analyze-8216-every-single-rule-8217-in-the-state/"
+          "route": "/hot/2026-07-17/topic/new-york-governor-says-she-8217-s-using-ai-to-analyze-8216-every-single-rule-8217-in-the-state/",
+          "headline_zh": "纽约州州长称，她正用 AI 分析州内的“每一条规定”",
+          "summary_short_zh": "纽约州州长 Kathy Hochul 可能刚签署了暂停在州内新建 AI 数据中心的禁令，但她并不反对自己使用这项技术。",
+          "why_it_matters_zh": "这条行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "6fcde83a90d7",
@@ -2667,7 +2742,11 @@
               "published_at": "Thu, 16 Jul 2026 19:16:48 GMT"
             }
           ],
-          "route": "/hot/2026-07-17/topic/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs/"
+          "route": "/hot/2026-07-17/topic/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs/",
+          "headline_zh": "AI 算力鸿沟：企业采购基础设施的速度超过了核算成本的速度",
+          "summary_short_zh": "<p>在 107 家企业中，AI 基础设施支出正加速增长，但企业掌握和管理其成本效益的能力远远跟不上。",
+          "why_it_matters_zh": "这条行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "a9aa9d27ad1d",
@@ -2705,7 +2784,11 @@
               "published_at": "2026-07-17T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-17/topic/a-significant-increase-in-digital-labor-automation-center-for-ai-safety/"
+          "route": "/hot/2026-07-17/topic/a-significant-increase-in-digital-labor-automation-center-for-ai-safety/",
+          "headline_zh": "数字劳动自动化程度显著提升（人工智能安全中心）",
+          "summary_short_zh": "数字劳动自动化程度显著提升（人工智能安全中心",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "e2d94551c096",
@@ -2743,7 +2826,11 @@
               "published_at": "2026-07-17T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-17/topic/benchmark-maintainers-here-elliot-arledge-x/"
+          "route": "/hot/2026-07-17/topic/benchmark-maintainers-here-elliot-arledge-x/",
+          "headline_zh": "基准测试维护者在此（Elliot Arledge，X）",
+          "summary_short_zh": "基准测试维护者在此（Elliot Arledge，X",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -2787,7 +2874,11 @@
               "published_at": "Thu, 16 Jul 2026 15:38:55 +0000"
             }
           ],
-          "route": "/hot/2026-07-17/topic/yes-you-can-now-order-doordash-from-the-command-line/"
+          "route": "/hot/2026-07-17/topic/yes-you-can-now-order-doordash-from-the-command-line/",
+          "headline_zh": "没错，现在可以在命令行里用 DoorDash 下单了",
+          "summary_short_zh": "DoorDash 正开放 dd-cli 的小范围测试。这款命令行工具让开发者和 AI 智能体能在终端搜索商家、将商品加入购物车并下单，标志着软件在面向 AI 智能体、而非仅面向人类的设计上又迈出了一步",
+          "why_it_matters_zh": "这条工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "44b4b4d53cc3",
@@ -2825,7 +2916,11 @@
               "published_at": "Thu, 16 Jul 2026 00:00:00 -0400"
             }
           ],
-          "route": "/hot/2026-07-17/topic/a-better-way-to-turn-2d-designs-into-3d-models-for-rapid-prototyping/"
+          "route": "/hot/2026-07-17/topic/a-better-way-to-turn-2d-designs-into-3d-models-for-rapid-prototyping/",
+          "headline_zh": "快速原型制作：将二维设计转为三维模型的更好方法",
+          "summary_short_zh": "研究人员开发了一套自动化框架，帮助 AI 模型更准确、高效地生成 CAD 程序",
+          "why_it_matters_zh": "这条工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "8ca4216cc9fb",
@@ -2863,7 +2958,11 @@
               "published_at": "Thu, 16 Jul 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-07-17/topic/google-is-updating-gemma-4-s-chat-templates-bringing-major-fixes-to-tool-calling-and-reducing-laziness-and-enabling-flash-attention-4-on-hopper-gpus-plus-an-interactive-guide-on-how-to-work-with-and-improve-its-vision/"
+          "route": "/hot/2026-07-17/topic/google-is-updating-gemma-4-s-chat-templates-bringing-major-fixes-to-tool-calling-and-reducing-laziness-and-enabling-flash-attention-4-on-hopper-gpus-plus-an-interactive-guide-on-how-to-work-with-and-improve-its-vision/",
+          "headline_zh": "Google 正在更新 Gemma 4 的聊天模板，修复工具调用中的重大问题、减少“偷懒”行为，并在 Hopper GPU 上启用 Flash Attention 4，还提供了介绍如何使用和优化其视觉能力的交互式指南！",
+          "summary_short_zh": "（活跃度：956）：Google Gemma 宣布推出更新后的 Gemma 4 模型文件和模板供测试，称其速度有所提升，支持在 Hopper GPU 上使用 Flash Attention 4，改进了工具调用表现、减少了“偷懒”行为，并在 Hugging Face Spaces 上提供视觉 token 预算与优化演示：google/gemma4_vision_token",
+          "why_it_matters_zh": "这条工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     }
@@ -2909,7 +3008,11 @@
               "published_at": "Thu, 16 Jul 2026 18:22:06 +0000"
             }
           ],
-          "route": "/hot/2026-07-17/topic/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/"
+          "route": "/hot/2026-07-17/topic/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
+          "headline_zh": "Roblox 在移动应用中推出 AI 游戏创作功能",
+          "summary_short_zh": "Roblox 新推出的“Build”功能让用户只需一条文本提示就能生成简单游戏",
+          "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "b3f3a16fec35",
@@ -2953,7 +3056,11 @@
               "published_at": "Thu, 16 Jul 2026 16:40:48 GMT"
             }
           ],
-          "route": "/hot/2026-07-17/topic/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway/"
+          "route": "/hot/2026-07-17/topic/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway/",
+          "headline_zh": "智能体评估鸿沟：企业 AI 团队的问题是评估脱离实际，而非覆盖不足，但多数仍在将智能体投入生产环境",
+          "summary_short_zh": "<p>在 157 家企业中，各组织正赋予 AI 智能体更多自主权，却越来越不信任本应用于把关授权的评估。",
+          "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "1a4dd3828460",
@@ -2991,7 +3098,11 @@
               "published_at": "2026-07-16T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-07-17/topic/cohere-and-the-university-of-toronto-partner-to-advance-responsible-ai-adoption-at-scale/"
+          "route": "/hot/2026-07-17/topic/cohere-and-the-university-of-toronto-partner-to-advance-responsible-ai-adoption-at-scale/",
+          "headline_zh": "Cohere 与多伦多大学合作，推动负责任地大规模应用 AI",
+          "summary_short_zh": "Cohere 与多伦多大学宣布开展多年合作，支持这所加拿大领先的科研教育机构以负责任的方式推广 AI 应用",
+          "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "f9797fb3c509",
@@ -3029,7 +3140,11 @@
               "published_at": "Thu, 16 Jul 2026 00:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-07-17/topic/how-cars24-scales-conversations-and-builds-faster-with-openai/"
+          "route": "/hot/2026-07-17/topic/how-cars24-scales-conversations-and-builds-faster-with-openai/",
+          "headline_zh": "Cars24 如何借助 OpenAI 扩大对话服务规模并加快开发",
+          "summary_short_zh": "Cars24 使用由 OpenAI 驱动的语音和聊天智能体，每月处理超过 100 万分钟的对话，挽回 12% 的流失销售线索，并将智能体工作流推广至公司各团队",
+          "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "44f62d14a9d5",
@@ -3067,7 +3182,11 @@
               "published_at": "Thu, 16 Jul 2026 00:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-07-17/topic/what-does-99-9-uptime-mean-for-inference/"
+          "route": "/hot/2026-07-17/topic/what-does-99-9-uptime-mean-for-inference/",
+          "headline_zh": "99.9% 的可用率对推理服务意味着什么？",
+          "summary_short_zh": "公布可靠性数字很容易。我们解析 99%、99.9% 和 99.99% 的可用率实际需要哪些保障、各档服务必须能承受哪些故障域的失效，以及在选定推理服务商前应提出哪些问题",
+          "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "7f9415901385",
@@ -3105,7 +3224,11 @@
               "published_at": "2026-07-16T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-07-17/topic/21-new-flagship-grok-voices/"
+          "route": "/hot/2026-07-17/topic/21-new-flagship-grok-voices/",
+          "headline_zh": "Grok 新增 21 种旗舰音色",
+          "summary_short_zh": "Grok 4.5 是 SpaceXAI 最智能的模型，专为编程、智能体任务和知识工作打造",
+          "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "9b1f6b753bfb",
@@ -3143,7 +3266,11 @@
               "published_at": "2026-07-16T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-07-17/topic/automations-in-grok/"
+          "route": "/hot/2026-07-17/topic/automations-in-grok/",
+          "headline_zh": "Grok 自动化功能",
+          "summary_short_zh": "Grok 4.5 是 SpaceXAI 最智能的模型，专为编程、智能体任务和知识工作打造",
+          "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "b1dddf5e639e",
@@ -3181,7 +3308,11 @@
               "published_at": "2026-07-16T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-07-17/topic/grok-on-databricks/"
+          "route": "/hot/2026-07-17/topic/grok-on-databricks/",
+          "headline_zh": "Grok 登陆 Databricks",
+          "summary_short_zh": "Grok 模型现已上线 Databricks Agent Bricks",
+          "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+          "category_zh": "产品发布"
         }
       ]
     }

@@ -2324,7 +2324,11 @@
           "published_at": "Thu, 03 Sep 2026 18:20:31 +0000"
         }
       ],
-      "route": "/hot/2026-09-04/topic/transfer-learning-for-genomic-prediction-in-underrepresented-populations/"
+      "route": "/hot/2026-09-04/topic/transfer-learning-for-genomic-prediction-in-underrepresented-populations/",
+      "headline_zh": "用于代表性不足人群基因组预测的迁移学习",
+      "summary_short_zh": "综合科学",
+      "why_it_matters_zh": "该产品发布信息见于 1 个独立来源。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "0781ee34d3ff",
@@ -2374,7 +2378,15 @@
           "published_at": "2026-08-30T08:16:17Z"
         }
       ],
-      "route": "/hot/2026-09-04/topic/set-up-openai-chatgpt-codex-with-litellm-on-amazon-ecs-and-amazon-bedrock/"
+      "route": "/hot/2026-09-04/topic/set-up-openai-chatgpt-codex-with-litellm-on-amazon-ecs-and-amazon-bedrock/",
+      "headline_zh": "在 Amazon ECS 和 Amazon Bedrock 上使用 LiteLLM 配置 OpenAI ChatGPT Codex",
+      "summary_short_zh": "借助 AWS Fargate 在 Amazon ECS 上部署由客户自行运维的 LiteLLM 网关，将其连接到 Amazon Bedrock 上的 OpenAI 模型，并配置 Codex 通过网关的 Responses API 路由请求，同时设置身份权限范围、预算、速率限制和遥测。",
+      "why_it_matters_zh": "该产品发布信息见于 2 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "借助 AWS Fargate 在 Amazon ECS 上部署由客户自行运维的 LiteLLM 网关，将其连接到 Amazon Bedrock 上的 OpenAI 模型，并配置 Codex 通过网关的 Responses API 路由请求……",
+        "经验证的 Codex 到 ChatGPT 网页版推理任务交接，附本地修改、测试和执行凭证。"
+      ]
     },
     {
       "topic_id": "0a5d10de2299",
@@ -2422,7 +2434,16 @@
           "published_at": "2026-09-02T06:38:25Z"
         }
       ],
-      "route": "/hot/2026-09-04/topic/dreamers-laboratory-ai-evaluation-framework/"
+      "route": "/hot/2026-09-04/topic/dreamers-laboratory-ai-evaluation-framework/",
+      "headline_zh": "dreamers-laboratory/ai-evaluation-framework",
+      "summary_short_zh": "对基于模型的解决方案进行准确率、p95 延迟和成本基准测试，并按字段对照真值评分",
+      "why_it_matters_zh": "该工具信息见于 1 个独立来源。",
+      "category_zh": "工具",
+      "key_takeaways_zh": [
+        "通过多个工作单元反复开展大规模信息采集的通用引擎。",
+        "对基于模型的解决方案进行准确率、p95 延迟和成本基准测试，并按字段对照真值评分。",
+        "使用多个开源模型从图像重建 3D 网格，并通过评分选出效果最佳的模型。"
+      ]
     },
     {
       "topic_id": "853ece1f0c58",
@@ -2476,7 +2497,16 @@
           "published_at": "Thu, 03 Sep 2026 12:00:00 GMT"
         }
       ],
-      "route": "/hot/2026-09-04/topic/legora-reviewed-41-documents-in-minutes-with-gpt-6-astra/"
+      "route": "/hot/2026-09-04/topic/legora-reviewed-41-documents-in-minutes-with-gpt-6-astra/",
+      "headline_zh": "Legora 使用 GPT-6 Astra 在几分钟内审阅了 41 份文档",
+      "summary_short_zh": "Legora 使用 GPT-6 Astra 在几分钟内审阅了 41 份文档，找出了全部 4 处预设错误，并在这一财务审查流程中实现了近 40% 的性能提升",
+      "why_it_matters_zh": "这条其他类动态见于 3 个独立来源。",
+      "category_zh": "行业动态",
+      "key_takeaways_zh": [
+        "GPT-6 Astra 是我们广泛部署的模型中能力最强的一款，也是首个在我们的 Preparedness Framework 下网络安全能力达到 Critical 级别的模型。",
+        "Legora 使用 GPT-6 Astra 在几分钟内审阅了 41 份文档，找出了全部 4 处预设错误，并在这一财务审查流程中实现了近 40% 的性能提升。",
+        "借助 GPT-6 Astra，Playco 在同一灰盒基础上构建了三个主题游戏原型，并报告称，相比上一代模型，手动修正减少了 50%。"
+      ]
     },
     {
       "topic_id": "324e1ea05ad2",
@@ -2516,7 +2546,14 @@
           "published_at": "Thu, 03 Sep 2026 16:08:28 +0000"
         }
       ],
-      "route": "/hot/2026-09-04/topic/best-practices-for-building-agentic-automations-with-amazon-quick-automate/"
+      "route": "/hot/2026-09-04/topic/best-practices-for-building-agentic-automations-with-amazon-quick-automate/",
+      "headline_zh": "使用 Amazon Quick Automate 构建智能体自动化流程的最佳实践",
+      "summary_short_zh": "了解使用 Amazon Quick Automate 构建基于智能体的生产级业务流程自动化的最佳实践：选择合适的流程，设计职责明确的智能体，将其与确定性步骤结合，引入人工参与的审核，并内置评估与可观测性",
+      "why_it_matters_zh": "该产品发布信息见于 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "了解使用 Amazon Quick Automate 构建基于智能体的生产级业务流程自动化的最佳实践：选择合适的流程，设计职责明确的智能体，将其与确定性步骤结合……"
+      ]
     }
   ],
   "category_sections": [
@@ -2560,7 +2597,11 @@
               "published_at": "Thu, 03 Sep 2026 16:14:12 +0000"
             }
           ],
-          "route": "/hot/2026-09-04/topic/migrate-agentic-workloads-to-amazon-bedrock-agentcore/"
+          "route": "/hot/2026-09-04/topic/migrate-agentic-workloads-to-amazon-bedrock-agentcore/",
+          "headline_zh": "将智能体工作负载迁移至 Amazon Bedrock AgentCore",
+          "summary_short_zh": "能在 Notebook 中运行的智能体，不等于能投入生产。本文分两个阶段介绍如何将一个 LangGraph 客服智能体迁移至 Amazon Bedrock AgentCore：先迁移至 Runtime、Gateway 和 Memory，再转向 Strands Agents 上由模型驱动的规划，并在过程中逐步消除运维负担……",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "b379b0d340b5",
@@ -2598,7 +2639,11 @@
               "published_at": "Thu, 03 Sep 2026 16:00:32 GMT"
             }
           ],
-          "route": "/hot/2026-09-04/topic/continuing-to-build-upon-our-safety-priorities/"
+          "route": "/hot/2026-09-04/topic/continuing-to-build-upon-our-safety-priorities/",
+          "headline_zh": "持续推进我们的安全重点工作",
+          "summary_short_zh": "<figure class=\"kg-card kg-image-card\"><img alt=\"alt\" class=\"kg-image\" height=\"816\" src=\" width=\"1456\" /></figure><p><em>安全工作进展更新。</em></p><p>去年，我们取消了 18 岁以下用户与 Characters 的开放式聊天功能，这一决定至今仍是我们最重要的安全举措之一",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "326cf3181a41",
@@ -2636,7 +2681,11 @@
               "published_at": "Thu, 03 Sep 2026 16:16:28 +0000"
             }
           ],
-          "route": "/hot/2026-09-04/topic/ai-driven-development-lifecycle-using-amazon-bedrock-agentcore/"
+          "route": "/hot/2026-09-04/topic/ai-driven-development-lifecycle-using-amazon-bedrock-agentcore/",
+          "headline_zh": "基于 Amazon Bedrock AgentCore 的 AI 驱动开发生命周期",
+          "summary_short_zh": "采用 AI 驱动开发生命周期（AI-DLC）的工程团队，往往难以将概念转化为可运行的代码。",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "2ffbba85529e",
@@ -2674,7 +2723,10 @@
               "published_at": "Thu, 03 Sep 2026 15:02:08 +0000"
             }
           ],
-          "route": "/hot/2026-09-04/topic/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/"
+          "route": "/hot/2026-09-04/topic/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+          "headline_zh": "推出 WeatherNext 3：我们最先进、最准确的全球气象 AI 模型",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "36133a2215a6",
@@ -2712,7 +2764,11 @@
               "published_at": "Thu, 03 Sep 2026 16:00:03 +0000"
             }
           ],
-          "route": "/hot/2026-09-04/topic/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain/"
+          "route": "/hot/2026-09-04/topic/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain/",
+          "headline_zh": "连接组学里程碑：绘制雄性果蝇的完整脑图谱",
+          "summary_short_zh": "综合科学",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2756,7 +2812,11 @@
               "published_at": "Thu, 03 Sep 2026 13:15:00 GMT"
             }
           ],
-          "route": "/hot/2026-09-04/topic/daybreak-for-frontline-defenders-1b-to-protect-essential-services/"
+          "route": "/hot/2026-09-04/topic/daybreak-for-frontline-defenders-1b-to-protect-essential-services/",
+          "headline_zh": "Daybreak for Frontline Defenders：投入 10 亿美元保障关键服务",
+          "summary_short_zh": "OpenAI 推出 Daybreak for Frontline Defenders，承诺投入 10 亿美元，帮助更多关键服务机构获得前沿网络安全 AI、培训和支持",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次融资。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "b2bf93754585",
@@ -2794,7 +2854,11 @@
               "published_at": "Fri, 04 Sep 2026 00:48:42 +0000"
             }
           ],
-          "route": "/hot/2026-09-04/topic/crusoe-reportedly-raises-3b-at-a-30b-valuation/"
+          "route": "/hot/2026-09-04/topic/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+          "headline_zh": "据报道，Crusoe 以 300 亿美元估值融资 30 亿美元",
+          "summary_short_zh": "这家数据中心开发商据称拿下了 Jane Street 的一份 130 亿美元合同，随后敲定了本轮融资",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次融资。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "80cabadee0b8",
@@ -2832,7 +2896,11 @@
               "published_at": "Thu, 03 Sep 2026 13:34:13 +0000"
             }
           ],
-          "route": "/hot/2026-09-04/topic/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/"
+          "route": "/hot/2026-09-04/topic/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/",
+          "headline_zh": "英伟达以 130 亿美元收购被称为“AI 领域 GitHub”的 Hugging Face",
+          "summary_short_zh": "英伟达表示，尽管这家芯片制造商接管了这一重要 AI 枢纽，Hugging Face 仍将保持开放",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次收购。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -2876,7 +2944,11 @@
               "published_at": "2026-09-04T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-04/topic/five-country-ministerial-2026-australian-government-department-of-home-affairs/"
+          "route": "/hot/2026-09-04/topic/five-country-ministerial-2026-australian-government-department-of-home-affairs/",
+          "headline_zh": "2026 年五国部长级会议（澳大利亚政府内政部）",
+          "summary_short_zh": "2026 年五国部长级会议（澳大利亚政府内政部",
+          "why_it_matters_zh": "这则其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "37e8f1d2eec4",
@@ -2914,7 +2986,10 @@
               "published_at": "2026-09-04T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-04/topic/import-ai-471-why-hugging-face-worries-me-space-mining-five-eyes-on-ai/"
+          "route": "/hot/2026-09-04/topic/import-ai-471-why-hugging-face-worries-me-space-mining-five-eyes-on-ai/",
+          "headline_zh": "Import AI 471：Hugging Face 为何让我担忧；太空采矿；五眼联盟谈 AI",
+          "why_it_matters_zh": "这则其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "8192e4491b66",
@@ -2952,7 +3027,11 @@
               "published_at": "2026-09-04T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-04/topic/the-rise-and-fall-of-agent-civilizations-dwarkesh-podcast/"
+          "route": "/hot/2026-09-04/topic/the-rise-and-fall-of-agent-civilizations-dwarkesh-podcast/",
+          "headline_zh": "智能体文明的兴衰（Dwarkesh Podcast）",
+          "summary_short_zh": "智能体文明的兴衰（Dwarkesh Podcast",
+          "why_it_matters_zh": "这则其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "19754cbdb3d0",
@@ -2990,7 +3069,11 @@
               "published_at": "Fri, 04 Sep 2026 04:21:03 +0000"
             }
           ],
-          "route": "/hot/2026-09-04/topic/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/"
+          "route": "/hot/2026-09-04/topic/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+          "headline_zh": "让人提不起食欲的 AI 生成菜单背后的同质化问题",
+          "summary_short_zh": "餐厅老板或许想借助生成式 AI 走捷径，让菜单更吸引人，但顾客会本能地察觉到食物有些不对劲",
+          "why_it_matters_zh": "这则其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "672d660a1052",
@@ -3028,7 +3111,11 @@
               "published_at": "Fri, 04 Sep 2026 07:09:43 +0000"
             }
           ],
-          "route": "/hot/2026-09-04/topic/ai-2-30/"
+          "route": "/hot/2026-09-04/topic/ai-2-30/",
+          "headline_zh": "金融AI的年度大考交卷了：2万名选手、30+家机构、百亿级数据开源",
+          "summary_short_zh": "5000支队伍同台做题，写尽行业四年变化",
+          "why_it_matters_zh": "这则其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -3072,7 +3159,11 @@
               "published_at": "Thu, 03 Sep 2026 16:11:57 +0000"
             }
           ],
-          "route": "/hot/2026-09-04/topic/integrating-outlook-with-amazon-quick-for-ai-powered-email-automation/"
+          "route": "/hot/2026-09-04/topic/integrating-outlook-with-amazon-quick-for-ai-powered-email-automation/",
+          "headline_zh": "将 Outlook 与 Amazon Quick 集成，用 AI 自动处理邮件",
+          "summary_short_zh": "将 Microsoft Outlook 与 Amazon Quick 集成，自动完成邮件管理、日程安排和工作流协调。本文介绍完整的设置流程，并展示使用 Amazon Quick 聊天智能体、Amazon Quick Flows 和 Amazon Quick Automate 的自动化场景",
+          "why_it_matters_zh": "这则工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "e4a32af4b176",
@@ -3110,7 +3201,11 @@
               "published_at": "2026-09-03T12:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-04/topic/nvidia-launches-free-tool-that-links-idle-computers-into-a-personal-ai-data-center/"
+          "route": "/hot/2026-09-04/topic/nvidia-launches-free-tool-that-links-idle-computers-into-a-personal-ai-data-center/",
+          "headline_zh": "英伟达推出免费工具，将闲置电脑连接成个人 AI 数据中心",
+          "summary_short_zh": "英伟达宣布推出全新 Personal AI Router（PAIR）。这款免费工具可让家中多台电脑协同工作，借助 Ollama 和 LM Studio 等工具处理本地 AI 推理任务。先说明一点：尽管名字可能让人误会，PAIR 并不是硬件路由器。",
+          "why_it_matters_zh": "这则工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     },
@@ -3154,7 +3249,11 @@
               "published_at": "2026-09-03T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-09-04/topic/llada-image-building-strong-image-generators-with-fully-open-training-recipes/"
+          "route": "/hot/2026-09-04/topic/llada-image-building-strong-image-generators-with-fully-open-training-recipes/",
+          "headline_zh": "LLaDA-Image：用完全公开的训练方案构建强大的图像生成模型",
+          "summary_short_zh": "我们提出 LLaDA-Image 统一框架，将从零训练的 60 亿参数扩散 Transformer（DiT）与参数冻结的视觉语言理解模块相结合，后者以 LLaDA2.0-Mini 扩散语言模型为骨干。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         }
       ]
     }
@@ -3200,7 +3299,11 @@
               "published_at": "2026-09-04T05:54:40+00:00"
             }
           ],
-          "route": "/hot/2026-09-04/topic/august-newsletter-is-out/"
+          "route": "/hot/2026-09-04/topic/august-newsletter-is-out/",
+          "headline_zh": "八月通讯已发布",
+          "summary_short_zh": "<p>我的<a href=\" 每月通讯</a>八月刊已发布。如果你是赞助者（或现在开始赞助），可以<a href=\" 在这里阅读</a>。</p> <p>本月内容：</p> <ul> <li>我们了解到了更多关于 OpenAl 无意中发起网络攻击的细节</li> <li>用 Fable 5 一次性生成 Raccoon Heist 游戏",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "935396434d25",
@@ -3238,7 +3341,11 @@
               "published_at": "2026-09-03T14:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-04/topic/openai-s-next-big-ai-model-has-entered-the-agi-era/"
+          "route": "/hot/2026-09-04/topic/openai-s-next-big-ai-model-has-entered-the-agi-era/",
+          "headline_zh": "OpenAI 的下一代重磅 AI 模型已“进入 AGI 时代”",
+          "summary_short_zh": "OpenAI 的下一代重磅模型 GPT-6 Astra 已发布。该公司称，它在网络安全、专业工作、软件工程、科学研究和计算机操作等领域实现了“能力的代际飞跃”。",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "45847d803628",
@@ -3276,7 +3383,11 @@
               "published_at": "2026-09-03T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-09-04/topic/automation-s-early-footprint-the-ate-dataset/"
+          "route": "/hot/2026-09-04/topic/automation-s-early-footprint-the-ate-dataset/",
+          "headline_zh": "自动化的早期足迹：ATE 数据集",
+          "summary_short_zh": "对 69.6 万款 AI 工具的研究发现：仅 2.6% 真正实现了工作自动化。了解自动化如何重塑工作岗位，探索我们的 Agentic Task Ecosystem 数据集。",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "b0ba7a731dce",
@@ -3314,7 +3425,11 @@
               "published_at": "2026-09-03T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-09-04/topic/grok-4-6-on-gemini-enterprise-agent-platform/"
+          "route": "/hot/2026-09-04/topic/grok-4-6-on-gemini-enterprise-agent-platform/",
+          "headline_zh": "Grok 4.6 上线 Gemini Enterprise Agent Platform",
+          "summary_short_zh": "现可通过 Gemini Enterprise Agent Platform 使用 Grok 4.6",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "1457e276d362",
@@ -3352,7 +3467,11 @@
               "published_at": "2026-09-03T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-09-04/topic/grok-4-6-on-microsoft-foundry/"
+          "route": "/hot/2026-09-04/topic/grok-4-6-on-microsoft-foundry/",
+          "headline_zh": "Grok 4.6 上线 Microsoft Foundry",
+          "summary_short_zh": "Grok Bot 现已面向企业开放。Grok 和 Cursor Enterprise 客户未来两周可免费使用，并可邀请组织内所有成员，包括尚无席位的人员。",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "c3903197f7e9",
@@ -3390,7 +3509,11 @@
               "published_at": "2026-09-03T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-09-04/topic/biosecurity-at-the-frontier/"
+          "route": "/hot/2026-09-04/topic/biosecurity-at-the-frontier/",
+          "headline_zh": "前沿领域的生物安全",
+          "summary_short_zh": "Grok Bot 现已面向企业开放。Grok 和 Cursor Enterprise 客户未来两周可免费使用，并可邀请组织内所有成员，包括尚无席位的人员。",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "6de1edc87d66",
@@ -3428,7 +3551,11 @@
               "published_at": "2026-09-03T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-09-04/topic/designing-grok-bot-for-a-world-of-persistent-agents/"
+          "route": "/hot/2026-09-04/topic/designing-grok-bot-for-a-world-of-persistent-agents/",
+          "headline_zh": "为智能体持续运行的世界设计 Grok Bot",
+          "summary_short_zh": "Grok Bot 现已面向企业开放。Grok 和 Cursor Enterprise 客户未来两周可免费使用，并可邀请组织内所有成员，包括尚无席位的人员。",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "d052054576f4",
@@ -3466,7 +3593,11 @@
               "published_at": "2026-09-03T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-09-04/topic/grok-4-6-on-amazon-bedrock/"
+          "route": "/hot/2026-09-04/topic/grok-4-6-on-amazon-bedrock/",
+          "headline_zh": "Grok 4.6 上线 Amazon Bedrock",
+          "summary_short_zh": "现可通过 Amazon Bedrock 使用 Grok 4.6",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     }

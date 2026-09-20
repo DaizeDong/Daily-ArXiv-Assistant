@@ -1898,7 +1898,14 @@
           "published_at": "Wed, 05 Aug 2026 18:09:03 +0000"
         }
       ],
-      "route": "/hot/2026-08-06/topic/how-mobileye-transformed-support-operations-using-amazon-bedrock-agentcore/"
+      "route": "/hot/2026-08-06/topic/how-mobileye-transformed-support-operations-using-amazon-bedrock-agentcore/",
+      "headline_zh": "Mobileye 如何利用 Amazon Bedrock AgentCore 改造支持业务",
+      "summary_short_zh": "本文将介绍 Mobileye 如何在 Amazon Bedrock AgentCore 上部署 AI 支持智能体解决方案：从催生这一想法的支持瓶颈，到确认方案可行的概念验证，再到连接本地系统与 AWS 云服务的混合架构。",
+      "why_it_matters_zh": "该产品发布消息来自 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "本文将介绍 Mobileye 如何在 Amazon Bedrock AgentCore 上部署 AI 支持智能体解决方案：从催生这一想法的支持瓶颈，到用于验证方案的概念验证..."
+      ]
     },
     {
       "topic_id": "ea376d4f80a8",
@@ -1938,7 +1945,14 @@
           "published_at": "Wed, 05 Aug 2026 18:50:02 +0000"
         }
       ],
-      "route": "/hot/2026-08-06/topic/how-lendingtree-built-a-multi-agent-mortgage-assistant-on-amazon-bedrock/"
+      "route": "/hot/2026-08-06/topic/how-lendingtree-built-a-multi-agent-mortgage-assistant-on-amazon-bedrock/",
+      "headline_zh": "LendingTree 如何在 Amazon Bedrock 上构建多智能体房贷助手",
+      "summary_short_zh": "了解 LendingTree 如何在 Amazon Bedrock 上构建用于生产环境的多智能体房贷助手。",
+      "why_it_matters_zh": "该产品发布消息来自 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "了解 LendingTree 如何在 Amazon Bedrock 上构建用于生产环境的多智能体房贷助手。三个协同工作的智能体使用 LangGraph、模型上下文协议和 Amazon Nova 模型，后者内置了 g..."
+      ]
     },
     {
       "topic_id": "3b44013cc931",
@@ -1985,7 +1999,14 @@
           "published_at": "Wed, 05 Aug 2026 21:21:28 +0000"
         }
       ],
-      "route": "/hot/2026-08-06/topic/introducing-muse-code-and-muse-spark-1-2/"
+      "route": "/hot/2026-08-06/topic/introducing-muse-code-and-muse-spark-1-2/",
+      "headline_zh": "推出 Muse Code 和 Muse Spark 1.2",
+      "summary_short_zh": "<p><strong><a href=\" Muse Code 和 Muse Spark 1.2</a></strong></p> 这再次表明，如今模型最重要的能力是在智能体任务中执行长序列工具调用。",
+      "why_it_matters_zh": "该产品发布消息来自 2 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Meta 推出一款新智能体，扩充其 AI 编程产品线，并承诺它能处理复杂软件中的复杂任务。"
+      ]
     },
     {
       "topic_id": "c477a974cfe4",
@@ -2023,7 +2044,10 @@
           "published_at": "2026-08-05T14:54:42+00:00"
         }
       ],
-      "route": "/hot/2026-08-06/topic/training-a-coding-agent-using-the-opencode-harness-in-remote-hf-sandboxes-with-trl-and-openenv/"
+      "route": "/hot/2026-08-06/topic/training-a-coding-agent-using-the-opencode-harness-in-remote-hf-sandboxes-with-trl-and-openenv/",
+      "headline_zh": "利用 TRL 和 OpenEnv，通过 OpenCode 运行框架在远程 HF 沙箱中训练编程智能体",
+      "why_it_matters_zh": "该产品发布消息来自 1 个独立来源。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "8798ed90ed31",
@@ -2074,7 +2098,15 @@
           "published_at": "Wed, 05 Aug 2026 19:30:19 +0000"
         }
       ],
-      "route": "/hot/2026-08-06/topic/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/"
+      "route": "/hot/2026-08-06/topic/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+      "headline_zh": "Jeff Dean 等顶尖 AI 研究人员离开 Google，创办新公司",
+      "summary_short_zh": "这位 Google 传奇高管与其他离任的 Google 高管联手，致力于利用 AI 推动科学发现",
+      "why_it_matters_zh": "该行业动态来自 3 个独立来源。",
+      "category_zh": "行业动态",
+      "key_takeaways_zh": [
+        "这位 Google 传奇高管与其他离任的 Google 高管联手，致力于利用 AI 推动科学发现。",
+        "与此同时，哈萨比斯卸任谷歌DeepMind CEO"
+      ]
     }
   ],
   "category_sections": [
@@ -2118,7 +2150,11 @@
               "published_at": "2026-08-05T20:25:10-04:00"
             }
           ],
-          "route": "/hot/2026-08-06/topic/elon-musk-8217-s-attempt-at-an-ai-wikipedia-hasn-8217-t-been-updated-in-months/"
+          "route": "/hot/2026-08-06/topic/elon-musk-8217-s-attempt-at-an-ai-wikipedia-hasn-8217-t-been-updated-in-months/",
+          "headline_zh": "Elon Musk 尝试打造的 AI 版维基百科已数月未更新",
+          "summary_short_zh": "据 Lawfare 报道，xAI 的 Grokipedia 似乎自 4 月 24 日以来就未再更新。这部在线百科全书的词条由 AI 生成，Elon Musk 曾承诺，相比维基百科，它将带来“巨大提升”。",
+          "why_it_matters_zh": "该产品发布消息来自 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "1276f7125ec3",
@@ -2156,7 +2192,11 @@
               "published_at": "2026-08-05T12:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-06/topic/reddit-is-introducing-a-new-moderator-ai/"
+          "route": "/hot/2026-08-06/topic/reddit-is-introducing-a-new-moderator-ai/",
+          "headline_zh": "Reddit 引入一位新版主：AI",
+          "summary_short_zh": "Reddit 正引入 AI，协助管理新建的子版块，并计划最终推广至全站。该公司推出了基于大语言模型的自动审核工具，帮助版主管理社区，今天起向更多用户开放，计划今年晚些时候全面上线。",
+          "why_it_matters_zh": "该产品发布消息来自 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "9845a20dab61",
@@ -2194,7 +2234,11 @@
               "published_at": "2026-08-05T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-08-06/topic/cohere-releases-command-a-for-sovereign-ai-cohere/"
+          "route": "/hot/2026-08-06/topic/cohere-releases-command-a-for-sovereign-ai-cohere/",
+          "headline_zh": "Cohere 发布面向主权 AI 的 Command A+ | Cohere",
+          "summary_short_zh": "以极低的算力开销提供强大的推理能力。Command A+ 为全球政府和受监管行业提供完整的数据主权保障。",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "e116f0c5d71f",
@@ -2232,7 +2276,10 @@
               "published_at": "2026-08-05T16:47:15Z"
             }
           ],
-          "route": "/hot/2026-08-06/topic/launch-hn-hyperprobe-yc-s26-agents-that-do-read-only-debugging-in-prod/"
+          "route": "/hot/2026-08-06/topic/launch-hn-hyperprobe-yc-s26-agents-that-do-read-only-debugging-in-prod/",
+          "headline_zh": "HN 新品发布：HyperProbe（YC S26），在生产环境中进行只读调试的智能体",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "c589b78b32dc",
@@ -2276,7 +2323,11 @@
               "published_at": "Wed, 05 Aug 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-08-06/topic/benchmarks-suggest-meta-is-now-in-the-serious-conversation-for-coding-agents/"
+          "route": "/hot/2026-08-06/topic/benchmarks-suggest-meta-is-now-in-the-serious-conversation-for-coding-agents/",
+          "headline_zh": "基准测试结果显示，Meta 已成为编程智能体领域的有力竞争者",
+          "summary_short_zh": "外部摘要重点提到，其在 Terminal-Bench 2.1 和 DeepSWE 1.1 上分别取得 82.9% 和 59.3% 的成绩；Muse Spark 1.2 在 Artificial Analysis 的智能指数中获评 54 分，与一些仅次于最顶尖梯队的美国领先模型基本持平。",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2320,7 +2371,11 @@
               "published_at": "Wed, 05 Aug 2026 20:05:00 +0000"
             }
           ],
-          "route": "/hot/2026-08-06/topic/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/"
+          "route": "/hot/2026-08-06/topic/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
+          "headline_zh": "Klaviyo 收购 Elias Torres 创办的 Agency，科技创始人再度聚首",
+          "summary_short_zh": "这位连续创业者加入这家电商公司，出任首席产品官，负责其 AI 智能体业务",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次收购。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "715676f67379",
@@ -2358,7 +2413,11 @@
               "published_at": "2026-08-05T12:35:56-04:00"
             }
           ],
-          "route": "/hot/2026-08-06/topic/spacex-is-barely-space-and-mostly-x/"
+          "route": "/hot/2026-08-06/topic/spacex-is-barely-space-and-mostly-x/",
+          "headline_zh": "SpaceX 里没多少“太空”，大部分是“X”",
+          "summary_short_zh": "我曾想问：埃隆·马斯克旗下经营状况最好的公司 SpaceX，为何收购了状况最差的 xAI？现在我想问：为什么还要把合并后的公司称为 SpaceX？",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次收购。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "358355a535de",
@@ -2396,7 +2455,11 @@
               "published_at": "Wed, 05 Aug 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-08-06/topic/qwen3-tts-voice-cloning-is-now-in-mainline-llama-cpp-the-old-demo-finally-became-real-support/"
+          "route": "/hot/2026-08-06/topic/qwen3-tts-voice-cloning-is-now-in-mainline-llama-cpp-the-old-demo-finally-became-real-support/",
+          "headline_zh": "Qwen3-TTS 声音克隆现已并入 llama.cpp 主线，昔日演示终于变成正式支持的功能",
+          "summary_short_zh": "这是一张 Qwen3-TTS 技术信息图，并非表情包：它展示了“Clone Design”工作流程，将简短的参考音频与文本提示转换为克隆语音或风格可控的语音；图中的架构包含 Qwen3 LM、编解码器嵌入、MTP 模块以及流式……",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次收购。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -2440,7 +2503,11 @@
               "published_at": "Wed, 05 Aug 2026 18:00:57 +0000"
             }
           ],
-          "route": "/hot/2026-08-06/topic/run-production-ai-agents-in-n8n-with-amazon-bedrock-agentcore-harness/"
+          "route": "/hot/2026-08-06/topic/run-production-ai-agents-in-n8n-with-amazon-bedrock-agentcore-harness/",
+          "headline_zh": "借助 Amazon Bedrock AgentCore 运行框架，在 n8n 中运行生产级 AI 智能体",
+          "summary_short_zh": "Amazon Bedrock AgentCore 运行框架现已正式可用。了解如何通过全新的开源社区节点，将其作为智能体步骤添加到 n8n 工作流中，并构建支持持久记忆、真实工具、代码执行和 VPC 隔离的智能体。所有操作均可在 n8n 编辑器中完成，无需基础设施或智能体……",
+          "why_it_matters_zh": "有 1 个独立来源报道了这一行业动向。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "c842e95c2ba4",
@@ -2478,7 +2545,10 @@
               "published_at": "2026-08-06T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-06/topic/import-ai-455-ai-systems-are-about-to-start-building-themselves-what-does-that-mean/"
+          "route": "/hot/2026-08-06/topic/import-ai-455-ai-systems-are-about-to-start-building-themselves-what-does-that-mean/",
+          "headline_zh": "Import AI 第 455 期：“AI 系统即将开始自我构建，这意味着什么？”",
+          "why_it_matters_zh": "有 1 个独立来源报道了这条其他类消息。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "1b41340b9045",
@@ -2516,7 +2586,10 @@
               "published_at": "2026-08-06T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-06/topic/import-ai-467-self-sustaining-ai-viruses-pacing-ai-progress-confusion-about-ai-and-creativity/"
+          "route": "/hot/2026-08-06/topic/import-ai-467-self-sustaining-ai-viruses-pacing-ai-progress-confusion-about-ai-and-creativity/",
+          "headline_zh": "Import AI 467：可自我维持的 AI 病毒；调节 AI 发展的节奏；关于 AI 与创造力的困惑",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "fa8d22762b4a",
@@ -2554,7 +2627,11 @@
               "published_at": "2026-08-06T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-06/topic/ten-advances-in-mathematics-and-theoretical-computer-science-openai-blog/"
+          "route": "/hot/2026-08-06/topic/ten-advances-in-mathematics-and-theoretical-computer-science-openai-blog/",
+          "headline_zh": "数学与理论计算机科学的十项进展（OpenAI 博客）",
+          "summary_short_zh": "数学与理论计算机科学的十项进展（OpenAI 博客",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "17f83119afaf",
@@ -2592,7 +2669,10 @@
               "published_at": "Thu, 06 Aug 2026 05:29:40 +0000"
             }
           ],
-          "route": "/hot/2026-08-06/topic/ai/"
+          "route": "/hot/2026-08-06/topic/ai/",
+          "headline_zh": "超级算力枢纽远景乌兰察布星河基地投产，全球最大AI算力超级单体落地",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -2636,7 +2716,11 @@
               "published_at": "2026-08-05T19:42:38+00:00"
             }
           ],
-          "route": "/hot/2026-08-06/topic/one-shotting-a-raccoon-heist-game-using-claude-fable-5/"
+          "route": "/hot/2026-08-06/topic/one-shotting-a-raccoon-heist-game-using-claude-fable-5/",
+          "headline_zh": "用 Claude Fable 5 一次生成《Raccoon Heist》游戏",
+          "summary_short_zh": "<p>早在 2024 年，就有人<a href=\" 发推分享了</a> GPT-3 生成的游戏概念截图，以及用 DALL-E 创作的一些概念“艺术”。",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "75f2e7a1b930",
@@ -2674,7 +2758,11 @@
               "published_at": "2026-08-05T12:57:25-04:00"
             }
           ],
-          "route": "/hot/2026-08-06/topic/sure-seems-like-fenix-flexin-used-ai-music-generator-treblo/"
+          "route": "/hot/2026-08-06/topic/sure-seems-like-fenix-flexin-used-ai-music-generator-treblo/",
+          "headline_zh": "看来 Fenix Flexin 确实使用了 AI 音乐生成器 Treblo",
+          "summary_short_zh": "我们此前就相当确定，Fenix Flexin 的《Rubberz》是用 AI 制作的，而音乐人 Medasin 则确信，用的就是 Treblo。如今，该公司和一款新的检测工具似乎证实了这一点。",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "ac74c7e3e28a",
@@ -2712,7 +2800,11 @@
               "published_at": "Wed, 05 Aug 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-08-06/topic/a-2-6b-model-with-tool-calling-and-128k-context-now-runs-at-30-tok-s-on-a-phone/"
+          "route": "/hot/2026-08-06/topic/a-2-6b-model-with-tool-calling-and-128k-context-now-runs-at-30-tok-s-on-a-phone/",
+          "headline_zh": "一款支持工具调用和 128K 上下文的 26 亿参数模型，现可在手机上以每秒 30 个词元的速度运行",
+          "summary_short_zh": "图中的技术基准测试结果支持了帖子中的说法：Liquid AI LFM2.5-2.6B 可以在手机上本地运行，在骁龙/Galaxy 手机上的解码速度约为每秒 30 个词元，在 Ryzen AI Max+ 395 上为每秒 113 个词元，在 Apple M5 Max 上为每秒 220 个词元，内存占用约 2.4 GB。",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     }
@@ -2758,7 +2850,11 @@
               "published_at": "Wed, 05 Aug 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-08-06/topic/goodfire-shipped-interpretable-biology-tooling-rather-than-another-generic-platform-claim/"
+          "route": "/hot/2026-08-06/topic/goodfire-shipped-interpretable-biology-tooling-rather-than-another-generic-platform-claim/",
+          "headline_zh": "Goodfire 推出了可解释生物学工具，而非又一次空泛的平台宣传",
+          "summary_short_zh": "Goodfire 推出了 MAPS（蛋白质序列机制图谱），可解释 210 万种遗传变异，不仅判断突变是否有害，还能解释原因。他们还将其接入研究平台 Silico，便于复现和扩展研究。",
+          "why_it_matters_zh": "这条产品发布资讯见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2802,7 +2898,11 @@
               "published_at": "Wed, 05 Aug 2026 18:02:23 +0000"
             }
           ],
-          "route": "/hot/2026-08-06/topic/how-we-built-an-mcp-bridge-to-give-our-agentcore-hosted-ai-agent-access-to-local-mcp-tools/"
+          "route": "/hot/2026-08-06/topic/how-we-built-an-mcp-bridge-to-give-our-agentcore-hosted-ai-agent-access-to-local-mcp-tools/",
+          "headline_zh": "我们如何搭建 MCP 桥接服务，让托管在 AgentCore 上的 AI 智能体访问本地 MCP 工具",
+          "summary_short_zh": "Amazon Bedrock AgentCore 上的 AI 智能体运行在云端，而用户的工具和文件都在他们的笔记本电脑上。",
+          "why_it_matters_zh": "这篇教程见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "45692a98d432",
@@ -2840,7 +2940,11 @@
               "published_at": "Wed, 05 Aug 2026 15:56:14 +0000"
             }
           ],
-          "route": "/hot/2026-08-06/topic/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/"
+          "route": "/hot/2026-08-06/topic/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
+          "headline_zh": "Shopify 表示，AI 搜索带来了更多流量和销量，并未取代 Google",
+          "summary_short_zh": "Shopify 表示，AI 并未像对出版商那样蚕食其搜索流量。相反，第二季度 AI 为 Shopify 商店带来的流量和订单量均增至去年同期的三倍",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "e96a04d8508c",
@@ -2887,7 +2991,11 @@
               "published_at": "2026-08-05T12:47:23-04:00"
             }
           ],
-          "route": "/hot/2026-08-06/topic/google-just-announced-a-major-shakeup-of-its-top-ai-leadership/"
+          "route": "/hot/2026-08-06/topic/google-just-announced-a-major-shakeup-of-its-top-ai-leadership/",
+          "headline_zh": "Google 刚刚宣布对 AI 高层领导团队进行重大调整",
+          "summary_short_zh": "Google 正对 AI 领导团队进行重大调整，其中包括 Google DeepMind 负责人 Demis Hassabis 的重要职务变动。首席执行官 Sundar Pichai 周三宣布，Hassabis 将出任 Google DeepMind 董事长兼 Alphabet 首席科学家。",
+          "why_it_matters_zh": "这一行业动态见于 2 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "ff6837aff6b6",
@@ -2925,7 +3033,11 @@
               "published_at": "Wed, 05 Aug 2026 15:30:02 +0000"
             }
           ],
-          "route": "/hot/2026-08-06/topic/google-plans-to-kill-assistant-on-your-phone-on-september-4/"
+          "route": "/hot/2026-08-06/topic/google-plans-to-kill-assistant-on-your-phone-on-september-4/",
+          "headline_zh": "Google 计划于 9 月 4 日停用手机上的 Assistant",
+          "summary_short_zh": "Assistant 将在未来几周内下线，语音控制功能将仅由 Gemini 提供",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "f4e3aa218ad9",
@@ -2963,7 +3075,11 @@
               "published_at": "Wed, 05 Aug 2026 15:05:00 +0000"
             }
           ],
-          "route": "/hot/2026-08-06/topic/techcrunch-disrupt-2026-s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/"
+          "route": "/hot/2026-08-06/topic/techcrunch-disrupt-2026-s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/",
+          "headline_zh": "TechCrunch Disrupt 2026 的 Real World AI 舞台聚焦机器人、自动化工厂和已灭绝动物",
+          "summary_short_zh": "在全新的 Real World AI 舞台上，我们将聚焦数字世界与物理世界的交汇，探讨两者持续融合的各种方式",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "f471559dec59",
@@ -3001,7 +3117,11 @@
               "published_at": "Wed, 05 Aug 2026 14:09:18 +0000"
             }
           ],
-          "route": "/hot/2026-08-06/topic/ai-ai/"
+          "route": "/hot/2026-08-06/topic/ai-ai/",
+          "headline_zh": "别再吹AI生图了，不能图层编辑的AI都是“画饼”",
+          "summary_short_zh": "兔展智能发布RabbitVis，让AI真正走完设计全流程",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "5c44a8fb8c1a",
@@ -3048,7 +3168,11 @@
               "published_at": "2026-08-06T00:25:27+00:00"
             }
           ],
-          "route": "/hot/2026-08-06/topic/third-party-cyber-evaluations-involving-openai-models/"
+          "route": "/hot/2026-08-06/topic/third-party-cyber-evaluations-involving-openai-models/",
+          "headline_zh": "涉及 OpenAI 模型的第三方网络安全评估",
+          "summary_short_zh": "<p><strong><a href=\" 涉及 OpenAI 模型的网络安全评估</a></strong></p> <em>又来一例</em>。",
+          "why_it_matters_zh": "这条其他类资讯见于 2 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }

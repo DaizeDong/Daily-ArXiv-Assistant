@@ -1044,7 +1044,14 @@
           "published_at": "2026-07-19T03:54:09+00:00"
         }
       ],
-      "route": "/hot/2026-07-19/topic/claude-code-uses-bun-written-in-rust-now/"
+      "route": "/hot/2026-07-19/topic/claude-code-uses-bun-written-in-rust-now/",
+      "headline_zh": "Claude Code 现已采用 Rust 编写的 Bun",
+      "summary_short_zh": "<p>Jarred Sumner 在 <a href=\" Rust 版 Bun</a> 中表示：</p> <blockquote> <p>Claude Code v2.1.181（6 月 17 日发布）及后续版本使用 Bun 的 Rust 移植版。Linux 上的启动速度提升了 10%，但除此之外，几乎没人察觉到变化。",
+      "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "<p>Jarred Sumner 在 <a href=\"https://bun.com/blog/bun-in-rust\">用 Rust 重写 Bun</a> 中表示：</p> <blockquote> <p>Claude Code v2.1.181（6 月 17 日发布）及后续版本使用 Ru..."
+      ]
     },
     {
       "topic_id": "0bb639108cfb",
@@ -1084,7 +1091,14 @@
           "published_at": "Sat, 18 Jul 2026 18:51:07 +0000"
         }
       ],
-      "route": "/hot/2026-07-19/topic/kimi-threat-or-menace/"
+      "route": "/hot/2026-07-19/topic/kimi-threat-or-menace/",
+      "headline_zh": "Kimi：威胁还是祸患？",
+      "summary_short_zh": "中国公司月之暗面本周发布了新版 Kimi 模型，引发了对“全面 AI 共产主义”的担忧。",
+      "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "中国公司月之暗面本周发布了新版 Kimi 模型，引发了对“全面 AI 共产主义”的担忧。"
+      ]
     },
     {
       "topic_id": "1d62076f3929",
@@ -1124,7 +1138,14 @@
           "published_at": "2026-07-15T12:45:47Z"
         }
       ],
-      "route": "/hot/2026-07-19/topic/pyang5166-gbro-collage-broll/"
+      "route": "/hot/2026-07-19/topic/pyang5166-gbro-collage-broll/",
+      "headline_zh": "pyang5166/gbro-collage-broll",
+      "summary_short_zh": "半调纸拼贴 B-roll 生成 skill：三闸门审批，Gemini Omni Flash 首尾帧组装动画 | Editorial halftone paper-collage B-roll agent skill",
+      "why_it_matters_zh": "该研究论文见于 1 个独立来源。",
+      "category_zh": "研究",
+      "key_takeaways_zh": [
+        "半调纸拼贴 B-roll 生成 skill：三闸门审批，Gemini Omni Flash 首尾帧组装动画 | Editorial halftone paper-collage B-roll agent skill"
+      ]
     },
     {
       "topic_id": "a9287abfb5d9",
@@ -1164,7 +1185,14 @@
           "published_at": "2026-07-14T07:25:10Z"
         }
       ],
-      "route": "/hot/2026-07-19/topic/encod3d-sec-claudebrain/"
+      "route": "/hot/2026-07-19/topic/encod3d-sec-claudebrain/",
+      "headline_zh": "Encod3d-Sec/ClaudeBrain",
+      "summary_short_zh": "用于渗透测试和漏洞赏金任务的 Claude 运行框架，基于 Karpathy LLM 并使用 Obsidian",
+      "why_it_matters_zh": "该工具消息见于 1 个独立来源。",
+      "category_zh": "工具",
+      "key_takeaways_zh": [
+        "用于渗透测试和漏洞赏金任务的 Claude 运行框架，基于 Karpathy LLM 并使用 Obsidian"
+      ]
     },
     {
       "topic_id": "1938da137145",
@@ -1210,7 +1238,14 @@
           "published_at": "Sun, 19 Jul 2026 02:08:41 +0000"
         }
       ],
-      "route": "/hot/2026-07-19/topic/waic/"
+      "route": "/hot/2026-07-19/topic/waic/",
+      "headline_zh": "全球市占第一后，普渡在WAIC开始回答机器人下一场战争",
+      "summary_short_zh": "PuduFM+PuduAgent，一并在不同本体上持续落地，共同构成了普渡机器人的顶层战略「一脑多形」。",
+      "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+      "category_zh": "行业动态",
+      "key_takeaways_zh": [
+        "PuduFM+PuduAgent，一并在不同本体上持续落地，共同构成了普渡机器人的顶层战略「一脑多形」。"
+      ]
     }
   ],
   "category_sections": [
@@ -1254,7 +1289,11 @@
               "published_at": "Fri, 17 Jul 2026 22:12:56 +0000"
             }
           ],
-          "route": "/hot/2026-07-19/topic/databricks-hits-188b-valuation-extending-its-run-as-ai-s-favorite-second-act/"
+          "route": "/hot/2026-07-19/topic/databricks-hits-188b-valuation-extending-its-run-as-ai-s-favorite-second-act/",
+          "headline_zh": "Databricks 估值达 1880 亿美元，凭借 AI 转型持续受热捧",
+          "summary_short_zh": "Databricks 已塑造出 AI 公司的新形象，并发布了关于开放权重 AI 模型降低编程成本的研究。",
+          "why_it_matters_zh": "该融资消息见于 1 个独立来源。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -1298,7 +1337,11 @@
               "published_at": "2026-07-19T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-19/topic/a-significant-increase-in-digital-labor-automation-center-for-ai-safety/"
+          "route": "/hot/2026-07-19/topic/a-significant-increase-in-digital-labor-automation-center-for-ai-safety/",
+          "headline_zh": "数字劳动自动化程度显著提升（AI 安全中心）",
+          "summary_short_zh": "数字劳动自动化程度显著提升（AI 安全中心",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "e2d94551c096",
@@ -1336,7 +1379,11 @@
               "published_at": "2026-07-19T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-19/topic/benchmark-maintainers-here-elliot-arledge-x/"
+          "route": "/hot/2026-07-19/topic/benchmark-maintainers-here-elliot-arledge-x/",
+          "headline_zh": "基准测试维护者在此（Elliot Arledge，X）",
+          "summary_short_zh": "基准测试维护者在此（Elliot Arledge，X",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "a5d6121555a2",
@@ -1374,7 +1421,10 @@
               "published_at": "2026-07-19T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-19/topic/import-ai-463-self-improving-robots-a-10k-chinese-gpu-cluster-and-an-elegiac-essay-for-the-human-era/"
+          "route": "/hot/2026-07-19/topic/import-ai-463-self-improving-robots-a-10k-chinese-gpu-cluster-and-an-elegiac-essay-for-the-human-era/",
+          "headline_zh": "Import AI 463：自我改进的机器人；中国的万卡 GPU 集群；一篇献给人类时代的挽歌",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "57530074ab1d",
@@ -1412,7 +1462,10 @@
               "published_at": "2026-07-19T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-19/topic/import-ai-464-fables-writes-gpu-kernels-ai-automation-and-analog-computation/"
+          "route": "/hot/2026-07-19/topic/import-ai-464-fables-writes-gpu-kernels-ai-automation-and-analog-computation/",
+          "headline_zh": "Import AI 464：Fables 编写 GPU 内核；AI 自动化；模拟计算",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "94f0634a86d4",
@@ -1450,7 +1503,11 @@
               "published_at": "Sun, 19 Jul 2026 02:36:39 +0000"
             }
           ],
-          "route": "/hot/2026-07-19/topic/magic-vla-k02-90/"
+          "route": "/hot/2026-07-19/topic/magic-vla-k02-90/",
+          "headline_zh": "魔法原子Magic-VLA K02攻克叠盒封胶长程任务，成功率超90%",
+          "summary_short_zh": "WAIC现场叠箱封胶，解锁物理AI新技能",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -1494,7 +1551,11 @@
               "published_at": "2026-07-19T05:06:21+00:00"
             }
           ],
-          "route": "/hot/2026-07-19/topic/ai-mania-is-eviscerating-global-decision-making/"
+          "route": "/hot/2026-07-19/topic/ai-mania-is-eviscerating-global-decision-making/",
+          "headline_zh": "AI 狂热正在摧毁全球决策能力",
+          "summary_short_zh": "<p><strong><a href=\" 狂热正在摧毁全球决策能力</a></strong></p> Nik Suresh 对 AI 狂热提出了一个有趣的看法，这股狂热正席卷他提供咨询服务的那些大公司。",
+          "why_it_matters_zh": "这条工具类资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "41f837568f3a",
@@ -1532,7 +1593,11 @@
               "published_at": "2026-07-18T17:19:10+00:00"
             }
           ],
-          "route": "/hot/2026-07-19/topic/sqlite-query-explainer/"
+          "route": "/hot/2026-07-19/topic/sqlite-query-explainer/",
+          "headline_zh": "SQLite 查询解释器",
+          "summary_short_zh": "<p><strong>工具：</strong> <a href=\" 查询解释器</a></p> <p>Julia Evan's 在 <a href=\" 关于运行 SQLite 的几点心得</a> 中写道：</p> <blockquote> <p>也许有一天我会学会看懂查询计划。</p> </blockquote> <p>太有同感了……",
+          "why_it_matters_zh": "这条工具类资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     }
@@ -1578,7 +1643,10 @@
               "published_at": "Sun, 19 Jul 2026 05:38:26 +0000"
             }
           ],
-          "route": "/hot/2026-07-19/topic/waic-2026-stepx-neo/"
+          "route": "/hot/2026-07-19/topic/waic-2026-stepx-neo/",
+          "headline_zh": "WAIC 2026“镇馆之宝”STEPX Neo亮相，引领人机交互新范式",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "2df991056f9f",
@@ -1616,7 +1684,11 @@
               "published_at": "2026-07-18T16:54:42-04:00"
             }
           ],
-          "route": "/hot/2026-07-19/topic/dave-eggers-told-openai-staff-that-chatgpt-was-silencing-an-entire-generation/"
+          "route": "/hot/2026-07-19/topic/dave-eggers-told-openai-staff-that-chatgpt-was-silencing-an-entire-generation/",
+          "headline_zh": "Dave Eggers 对 OpenAI 员工表示，ChatGPT 正在“让整整一代人失声”",
+          "summary_short_zh": "去年，Sam Altman 邀请作家 Dave Eggers 为约 200 名 OpenAI 员工演讲。他写过大量小说、剧本和新闻报道，创办了 McSweeney's，还成立了多所学校和多家非营利机构，支持作家及各类艺术事业。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "596e95ebc20d",
@@ -1654,7 +1726,11 @@
               "published_at": "Sat, 18 Jul 2026 11:18:25 +0000"
             }
           ],
-          "route": "/hot/2026-07-19/topic/will-ai-fix-prior-authorization-or-make-it-worse/"
+          "route": "/hot/2026-07-19/topic/will-ai-fix-prior-authorization-or-make-it-worse/",
+          "headline_zh": "AI 能改善医保事前审批，还是会让问题更糟？",
+          "summary_short_zh": "政府正在试点一项利用 AI 决定医保支付范围的计划",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "ece6c19a6f98",
@@ -1692,7 +1768,11 @@
               "published_at": "2026-07-18T06:00:13+00:00"
             }
           ],
-          "route": "/hot/2026-07-19/topic/claude-make-fable-5-permanent/"
+          "route": "/hot/2026-07-19/topic/claude-make-fable-5-permanent/",
+          "headline_zh": "Claude 将永久保留 Fable 5",
+          "summary_short_zh": "<p><strong><a href=\" 永久保留 Fable 5</a></strong></p> Twitter 上的 <code>@claudeai</code> 账号发布了更新：</p> <blockquote> <p>从 7 月 20 日起，所有 Max 和 Team Premium 套餐都将包含 Claude Fable 5，可用额度为套餐上限的 50%。</p> <p>Pro 和 Team Standard 用户将继续",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "b9bffb09c691",
@@ -1730,7 +1810,11 @@
               "published_at": "Fri, 17 Jul 2026 22:55:09 +0000"
             }
           ],
-          "route": "/hot/2026-07-19/topic/vertu-wants-executives-to-pay-6-880-for-an-ai-agent-here-s-how-it-actually-performs/"
+          "route": "/hot/2026-07-19/topic/vertu-wants-executives-to-pay-6-880-for-an-ai-agent-here-s-how-it-actually-performs/",
+          "headline_zh": "Vertu 想让高管花 6,880 美元购买 AI 智能体，实际表现如何？",
+          "summary_short_zh": "从 AI 工作流到续航和安全性，带你了解 Vertu 豪华折叠屏手机的真实日常使用体验",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "6e772164f00f",
@@ -1768,7 +1852,11 @@
               "published_at": "Sat, 18 Jul 2026 04:47:25 +0000"
             }
           ],
-          "route": "/hot/2026-07-19/topic/neil-rimer-thinks-the-ai-money-is-coming-back-out/"
+          "route": "/hot/2026-07-19/topic/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+          "headline_zh": "Neil Rimer 认为 AI 创造的财富终将重新分配",
+          "summary_short_zh": "Index Ventures 联合创始人、风险投资人 Neil Rimer 预测，AI 在硅谷创造的空前财富将不得不重新分配，无论是自愿还是被迫",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "292a95db8185",
@@ -1806,7 +1894,10 @@
               "published_at": "2026-07-19T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-19/topic/find-your-winning-ad-angles-with-claude-and-meta-data/"
+          "route": "/hot/2026-07-19/topic/find-your-winning-ad-angles-with-claude-and-meta-data/",
+          "headline_zh": "借助 Claude 和 Meta 数据找到制胜的广告切入点",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "5d6a078ff917",
@@ -1844,7 +1935,10 @@
               "published_at": "2026-07-19T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-19/topic/openai-s-new-230-ai-agent-control-pad/"
+          "route": "/hot/2026-07-19/topic/openai-s-new-230-ai-agent-control-pad/",
+          "headline_zh": "OpenAI 新款 AI 智能体控制面板，售价 230 美元",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -1886,7 +1980,11 @@
           "published_at": "2026-07-14T07:45:44Z"
         }
       ],
-      "route": "/hot/2026-07-19/topic/vshulcz-deja-vu/"
+      "route": "/hot/2026-07-19/topic/vshulcz-deja-vu/",
+      "headline_zh": "vshulcz/deja-vu",
+      "summary_short_zh": "编程智能体的记忆层：利用 Claude Code、Codex、opencode、Cursor、Gemini CLI、aider、Antigravity、Grok Build 和 Qwen Code 已有的会话日志，提供搜索、MCP 记忆检索、自动补充上下文、敏感信息脱敏、统计、共享和同步功能。仅需一个零依赖可执行文件",
+      "why_it_matters_zh": "该工具见于 1 个独立来源。",
+      "category_zh": "工具"
     },
     {
       "topic_id": "b9def996cc2e",
@@ -1924,7 +2022,11 @@
           "published_at": "2026-07-16T11:37:15Z"
         }
       ],
-      "route": "/hot/2026-07-19/topic/promptpartner-agentsmith/"
+      "route": "/hot/2026-07-19/topic/promptpartner-agentsmith/",
+      "headline_zh": "PromptPartner/agentsmith",
+      "summary_short_zh": "通用且不依赖特定模型的 AI 智能体运行框架（Claude、Codex、Gemini 等）：精简核心搭配按工作类型划分的配置，由一个安装脚本完成组装",
+      "why_it_matters_zh": "该工具见于 1 个独立来源。",
+      "category_zh": "工具"
     },
     {
       "topic_id": "eea874a65b33",
@@ -1962,7 +2064,11 @@
           "published_at": "2026-07-17T11:38:10Z"
         }
       ],
-      "route": "/hot/2026-07-19/topic/klaatai-klaatcode/"
+      "route": "/hot/2026-07-19/topic/klaatai-klaatcode/",
+      "headline_zh": "KlaatAI/klaatcode",
+      "summary_short_zh": "开源终端 AI 编程智能体。具备 Claude Code 级别的准确性，通过智能模型路由为每项任务选用合适的 AI 模型，将成本降至十分之一。支持 Claude、GPT、Gemini、DeepSeek 等模型",
+      "why_it_matters_zh": "该工具见于 1 个独立来源。",
+      "category_zh": "工具"
     }
   ],
   "x_buzz": [

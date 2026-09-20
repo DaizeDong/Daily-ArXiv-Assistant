@@ -1901,7 +1901,14 @@
           "published_at": "Wed, 15 Jul 2026 05:44:39 GMT"
         }
       ],
-      "route": "/hot/2026-07-16/topic/openai-finally-launches-hardware-for-codex/"
+      "route": "/hot/2026-07-16/topic/openai-finally-launches-hardware-for-codex/",
+      "headline_zh": "OpenAI 终于推出硬件……专为 Codex 打造",
+      "summary_short_zh": "OpenAI 终于要推出硬件了。不过，这并非该公司与前苹果设计师 Jony Ive 合作开发的神秘 AI 设备，那个项目已卷入一场棘手的诉讼。此次推出的是一款配合其编程平台 Codex 使用的产品。",
+      "why_it_matters_zh": "有 4 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "OpenAI 终于要推出硬件了。不过，这并非该公司与前苹果设计师 Jony Ive 合作开发的神秘 AI 设备，那个项目已卷入一场棘手的诉讼……"
+      ]
     },
     {
       "topic_id": "01091540cac1",
@@ -1941,7 +1948,14 @@
           "published_at": "Wed, 15 Jul 2026 18:11:57 +0000"
         }
       ],
-      "route": "/hot/2026-07-16/topic/agentic-vision-building-visual-intelligence-with-amazon-bedrock-and-mcp-servers/"
+      "route": "/hot/2026-07-16/topic/agentic-vision-building-visual-intelligence-with-amazon-bedrock-and-mcp-servers/",
+      "headline_zh": "智能体视觉：借助 Amazon Bedrock 和 MCP 服务器构建视觉智能",
+      "summary_short_zh": "本文将通过 Computer Vision MCP Server 介绍这一方法，展示 AI 系统如何通过统一的标准化接口处理视觉信息并作出智能决策。",
+      "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "本文将通过 Computer Vision MCP Server 介绍这一方法，展示 AI 系统如何处理视觉信息并作出智能决策……"
+      ]
     },
     {
       "topic_id": "3377f56a2290",
@@ -1981,7 +1995,14 @@
           "published_at": "Wed, 15 Jul 2026 18:14:31 +0000"
         }
       ],
-      "route": "/hot/2026-07-16/topic/built-technologies-builds-an-ai-powered-document-intelligence-solution-on-aws-to-power-agents-across-real-estate-finance/"
+      "route": "/hot/2026-07-16/topic/built-technologies-builds-an-ai-powered-document-intelligence-solution-on-aws-to-power-agents-across-real-estate-finance/",
+      "headline_zh": "Built Technologies 在 AWS 上构建 AI 驱动的文档智能解决方案，为房地产金融领域的智能体提供支持",
+      "summary_short_zh": "Built 与 AWS 生成式 AI 创新中心（GenAIIC）、AWS 合作伙伴 AND Digital 及 AWS 客户团队合作，打造可扩展的 AI 文档处理引擎，对复杂的房地产金融文档进行分类、拆分、信息提取、评估和推理。",
+      "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Built 与 AWS 生成式 AI 创新中心（GenAIIC）、AWS 合作伙伴 AND Digital 及 AWS 客户团队合作，打造可扩展的 AI 文档处理引擎，可对文档进行分类……"
+      ]
     },
     {
       "topic_id": "c3c2687b11da",
@@ -2019,7 +2040,11 @@
           "published_at": "Wed, 15 Jul 2026 18:06:27 +0000"
         }
       ],
-      "route": "/hot/2026-07-16/topic/towards-demystifying-the-creativity-of-diffusion-models/"
+      "route": "/hot/2026-07-16/topic/towards-demystifying-the-creativity-of-diffusion-models/",
+      "headline_zh": "探索扩散模型创造力的奥秘",
+      "summary_short_zh": "算法与理论",
+      "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "acdd2b71cf81",
@@ -2059,7 +2084,14 @@
           "published_at": "Wed, 15 Jul 2026 10:00:00 GMT"
         }
       ],
-      "route": "/hot/2026-07-16/topic/gpt-red-unlocking-self-improvement-for-robustness/"
+      "route": "/hot/2026-07-16/topic/gpt-red-unlocking-self-improvement-for-robustness/",
+      "headline_zh": "GPT-Red：通过自我改进提升鲁棒性",
+      "summary_short_zh": "了解 OpenAI 的自动化红队测试系统 GPT-Red，它利用自我博弈提升 AI 的安全性、对齐水平和抵御提示注入的能力",
+      "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "了解 OpenAI 的自动化红队测试系统 GPT-Red，它利用自我博弈提升 AI 的安全性、对齐水平和抵御提示注入的能力。"
+      ]
     }
   ],
   "category_sections": [
@@ -2103,7 +2135,11 @@
               "published_at": "Wed, 15 Jul 2026 00:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-07-16/topic/new-in-together-gpu-clusters-reliability-and-control-for-production-gpu-clusters/"
+          "route": "/hot/2026-07-16/topic/new-in-together-gpu-clusters-reliability-and-control-for-production-gpu-clusters/",
+          "headline_zh": "Together GPU Clusters 新功能：提升生产环境 GPU 集群的可靠性与可控性",
+          "summary_short_zh": "了解 Together AI 如何通过被动健康检查、节点修复、Slurm 可靠性增强、OIDC 和启动脚本，改进生产环境 GPU 集群",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "e7663a610779",
@@ -2141,7 +2177,10 @@
               "published_at": "Wed, 15 Jul 2026 00:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-07-16/topic/together-ai-brings-thinking-machines-lab-s-new-model-inkling-on-day-0/"
+          "route": "/hot/2026-07-16/topic/together-ai-brings-thinking-machines-lab-s-new-model-inkling-on-day-0/",
+          "headline_zh": "Together AI 同步上线 Thinking Machines Lab 的新模型 Inkling",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "a89971e7a447",
@@ -2179,7 +2218,11 @@
               "published_at": "Wed, 15 Jul 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-07-16/topic/kat-coder-air-v2-5-open-model-soon/"
+          "route": "/hot/2026-07-16/topic/kat-coder-air-v2-5-open-model-soon/",
+          "headline_zh": "KAT-Coder-Air V2.5 即将开源",
+          "summary_short_zh": "这张图是 KwaiAI/KAT-Coder 社交媒体帖子的截图，帖子宣布发布 KAT-Coder-Pro V2.5。对 r/LocalLLaMA 社区来说，更重要的是一条回复称 KAT-Coder-Air V2.5 将“很快”开源。帖子还附上了 OpenRouter 上的模型访问链接，以及 arXiv 技术报告链接（摘要、PDF",
+          "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "3481ae750ba4",
@@ -2217,7 +2260,11 @@
               "published_at": "Wed, 15 Jul 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-07-16/topic/source-the-trump-administration-and-industry-groups-discussed-streamlining-us-open-model-releases-of-equal-or-lesser-capability-to-leading-chinese-open-models/"
+          "route": "/hot/2026-07-16/topic/source-the-trump-administration-and-industry-groups-discussed-streamlining-us-open-model-releases-of-equal-or-lesser-capability-to-leading-chinese-open-models/",
+          "headline_zh": "消息称：特朗普政府与行业团体讨论简化美国开放模型的发布流程，前提是模型能力不超过中国领先开放模型",
+          "summary_short_zh": "据报道，特朗普政府与业界讨论简化美国开放模型的发布流程，条件是模型能力与中国领先开放模型相当或更低。此举源于对美国开发者采用中国本地部署模型或开放权重模型的担忧。",
+          "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "14b966055ec1",
@@ -2255,7 +2302,11 @@
               "published_at": "Wed, 15 Jul 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-07-16/topic/thinking-machines-releases-first-open-weight-model-inkling/"
+          "route": "/hot/2026-07-16/topic/thinking-machines-releases-first-open-weight-model-inkling/",
+          "headline_zh": "Thinking Machines 发布首款开放权重模型“Inkling”",
+          "summary_short_zh": "图中是一份 AI 模型排行榜，重点展示了 Thinking Machines 的首款开放权重模型 Inkling。该模型得分 1257，排名大致居中，与 Claude Opus 4.6 并列，低于 GPT-5.6 Sol，也远低于 Claude Sonnet 5（1333 分）等排名靠前的模型。",
+          "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2299,7 +2350,11 @@
               "published_at": "Thu, 16 Jul 2026 04:00:00 +0000"
             }
           ],
-          "route": "/hot/2026-07-16/topic/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/"
+          "route": "/hot/2026-07-16/topic/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
+          "headline_zh": "Applied Computing 希望为油气运营商提供覆盖全厂的 AI 模型",
+          "summary_short_zh": "Applied Computing 完成 2000 万美元 A 轮融资，将为石油、天然气和石化行业打造 AI 基础模型",
+          "why_it_matters_zh": "1 个独立来源报道了此次融资。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "0ff3e6d70ee0",
@@ -2337,7 +2392,11 @@
               "published_at": "2026-07-15T13:48:01-04:00"
             }
           ],
-          "route": "/hot/2026-07-16/topic/suno-snatched-millions-of-songs-from-youtube-genius-and-deezer/"
+          "route": "/hot/2026-07-16/topic/suno-snatched-millions-of-songs-from-youtube-genius-and-deezer/",
+          "headline_zh": "Suno 从 YouTube、Genius 和 Deezer 窃取了数百万首歌曲",
+          "summary_short_zh": "据 404 Media 报道，一次黑客入侵中获取的 Suno 数据揭示，这款 AI 音乐生成工具使用了从 YouTube Music、Deezer 和 Genius 等在线音频平台抓取的数百万首歌曲及歌词进行训练。",
+          "why_it_matters_zh": "1 个独立来源报道了此次收购。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -2381,7 +2440,11 @@
               "published_at": "Wed, 15 Jul 2026 18:04:06 +0000"
             }
           ],
-          "route": "/hot/2026-07-16/topic/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/"
+          "route": "/hot/2026-07-16/topic/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
+          "headline_zh": "Thinking Machines 推出首款开放模型 Inkling，加码挑战“一套 AI 满足所有需求”的模式",
+          "summary_short_zh": "该公司过去一年半大多在幕后建设 AI 基础设施，这是其首次公开展示的成果",
+          "why_it_matters_zh": "1 个独立来源报道了这一行业动向。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "02842dbdc962",
@@ -2419,7 +2482,11 @@
               "published_at": "Wed, 15 Jul 2026 23:59:44 +0000"
             }
           ],
-          "route": "/hot/2026-07-16/topic/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/"
+          "route": "/hot/2026-07-16/topic/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+          "headline_zh": "据报道，微软正培训销售人员贬低 OpenAI 和 Anthropic",
+          "summary_short_zh": "微软希望以比竞品更高效、更具性价比为卖点，推销自研 AI 模型",
+          "why_it_matters_zh": "这则其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "a9aa9d27ad1d",
@@ -2457,7 +2524,11 @@
               "published_at": "2026-07-16T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-16/topic/a-significant-increase-in-digital-labor-automation-center-for-ai-safety/"
+          "route": "/hot/2026-07-16/topic/a-significant-increase-in-digital-labor-automation-center-for-ai-safety/",
+          "headline_zh": "数字劳动自动化程度显著提升（人工智能安全中心）",
+          "summary_short_zh": "数字劳动自动化程度显著提升（人工智能安全中心",
+          "why_it_matters_zh": "这则其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "e2d94551c096",
@@ -2495,7 +2566,11 @@
               "published_at": "2026-07-16T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-16/topic/benchmark-maintainers-here-elliot-arledge-x/"
+          "route": "/hot/2026-07-16/topic/benchmark-maintainers-here-elliot-arledge-x/",
+          "headline_zh": "基准测试维护者在此（Elliot Arledge，X）",
+          "summary_short_zh": "基准测试维护者在此（Elliot Arledge，X",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "a5d6121555a2",
@@ -2533,7 +2608,10 @@
               "published_at": "2026-07-16T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-16/topic/import-ai-463-self-improving-robots-a-10k-chinese-gpu-cluster-and-an-elegiac-essay-for-the-human-era/"
+          "route": "/hot/2026-07-16/topic/import-ai-463-self-improving-robots-a-10k-chinese-gpu-cluster-and-an-elegiac-essay-for-the-human-era/",
+          "headline_zh": "Import AI 463：自我改进的机器人、中国的万卡 GPU 集群，以及一篇悼念人类时代的随笔",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -2577,7 +2655,11 @@
               "published_at": "Wed, 15 Jul 2026 18:08:50 +0000"
             }
           ],
-          "route": "/hot/2026-07-16/topic/monitor-amazon-sagemaker-pipelines-cross-account-with-custom-amazon-cloudwatch-dashboards/"
+          "route": "/hot/2026-07-16/topic/monitor-amazon-sagemaker-pipelines-cross-account-with-custom-amazon-cloudwatch-dashboards/",
+          "headline_zh": "使用自定义 Amazon CloudWatch 仪表板跨账户监控 Amazon SageMaker Pipelines",
+          "summary_short_zh": "本文介绍一种利用 Amazon CloudWatch 自定义仪表板，集中监控不同 AWS 账户和区域中 SageMaker Pipelines 的方案。",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "d53ee6152f77",
@@ -2615,7 +2697,11 @@
               "published_at": "Wed, 15 Jul 2026 12:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-07-16/topic/the-us-is-advancing-ai-safety-through-state-and-federal-action/"
+          "route": "/hot/2026-07-16/topic/the-us-is-advancing-ai-safety-through-state-and-federal-action/",
+          "headline_zh": "美国正通过州和联邦层面的行动推进 AI 安全",
+          "summary_short_zh": "OpenAI 阐述了 AI 治理的“反向联邦主义”思路，通过州法律推动建立全国性框架，保障 AI 安全并符合民主原则。",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "6484e05b5a38",
@@ -2653,7 +2739,11 @@
               "published_at": "2026-07-16T00:33:18+00:00"
             }
           ],
-          "route": "/hot/2026-07-16/topic/mermaid-to-unicode-box-art-grok-mermaid/"
+          "route": "/hot/2026-07-16/topic/mermaid-to-unicode-box-art-grok-mermaid/",
+          "headline_zh": "将 Mermaid 转为 Unicode 线框图（grok-mermaid）",
+          "summary_short_zh": "<p><strong>工具：</strong> <a href=\" 转为 Unicode 线框图（grok-mermaid）</a></p> <p>在查看新近开源的 Grok CLI 编程智能体的<a href=\" 代码库</a>时，我发现了<a href=\" 一个用 Rust 编写的“独立 Mermaid 图表终端渲染器”。</p> <p>我觉得尝试一下会很有趣",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "44b4b4d53cc3",
@@ -2691,7 +2781,11 @@
               "published_at": "Thu, 16 Jul 2026 00:00:00 -0400"
             }
           ],
-          "route": "/hot/2026-07-16/topic/a-better-way-to-turn-2d-designs-into-3d-models-for-rapid-prototyping/"
+          "route": "/hot/2026-07-16/topic/a-better-way-to-turn-2d-designs-into-3d-models-for-rapid-prototyping/",
+          "headline_zh": "更优的 2D 设计转 3D 模型方法，助力快速原型制作",
+          "summary_short_zh": "研究人员开发了一套自动化框架，帮助 AI 模型更准确、高效地生成 CAD 程序。",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     }
@@ -2737,7 +2831,11 @@
               "published_at": "Wed, 15 Jul 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-07-16/topic/bonsai-27b-1-bit-dense-llm-running-locally-in-your-browser-using-custom-webgpu-kernels/"
+          "route": "/hot/2026-07-16/topic/bonsai-27b-1-bit-dense-llm-running-locally-in-your-browser-using-custom-webgpu-kernels/",
+          "headline_zh": "Bonsai 27B：使用定制 WebGPU 内核在浏览器本地运行的 1 比特稠密大语言模型",
+          "summary_short_zh": "PrismML 发布了 1 比特稠密大语言模型 Bonsai 27B，设计目标是借助定制 WebGPU 内核在浏览器本地运行。Hugging Face 上提供了模型文件和 WebGPU 演示 Space。",
+          "why_it_matters_zh": "这条产品发布资讯见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "c7c7bde1c761",
@@ -2775,7 +2873,11 @@
               "published_at": "Wed, 15 Jul 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-07-16/topic/exllamav3-v1-0-0-major-performance-upgrades/"
+          "route": "/hot/2026-07-16/topic/exllamav3-v1-0-0-major-performance-upgrades/",
+          "headline_zh": "ExLlamaV3 v1.0.0：性能大幅提升",
+          "summary_short_zh": "图中是 ExLlamaV3 v1.0.0 的技术基准测试表（PNG），展示了在多种量化大语言模型和量化位宽下，RTX 3090 的解码吞吐量相较 v0.0.43 的提升。",
+          "why_it_matters_zh": "该产品发布出现在 1 个独立信源中。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2819,7 +2921,10 @@
               "published_at": "2026-07-16T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-16/topic/import-ai-464-fables-writes-gpu-kernels-ai-automation-and-analog-computation/"
+          "route": "/hot/2026-07-16/topic/import-ai-464-fables-writes-gpu-kernels-ai-automation-and-analog-computation/",
+          "headline_zh": "Import AI 464：Fables 编写 GPU 内核；AI 自动化；以及模拟计算",
+          "why_it_matters_zh": "该内容出现在 1 个独立信源中。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "c3c08de8b7dd",
@@ -2857,7 +2962,10 @@
               "published_at": "Thu, 16 Jul 2026 04:02:31 +0000"
             }
           ],
-          "route": "/hot/2026-07-16/topic/waica-ai/"
+          "route": "/hot/2026-07-16/topic/waica-ai/",
+          "headline_zh": "从上海到世界：WAICA正以“AI原生”范式重写顶会规则",
+          "why_it_matters_zh": "该内容出现在 1 个独立信源中。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "9c8ee472aeb9",
@@ -2895,7 +3003,11 @@
               "published_at": "Thu, 16 Jul 2026 04:47:55 +0000"
             }
           ],
-          "route": "/hot/2026-07-16/topic/openai/"
+          "route": "/hot/2026-07-16/topic/openai/",
+          "headline_zh": "一句「哈哈」引发的苹果OpenAI窃密大战",
+          "summary_short_zh": "苹果怒斥：烂到骨子里",
+          "why_it_matters_zh": "该内容出现在 1 个独立信源中。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "f9f7016748b1",
@@ -2933,7 +3045,11 @@
               "published_at": "Wed, 15 Jul 2026 22:24:17 GMT"
             }
           ],
-          "route": "/hot/2026-07-16/topic/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents/"
+          "route": "/hot/2026-07-16/topic/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents/",
+          "headline_zh": "Agent 编排：企业 AI 组织面临的是部署问题，而非平台问题——而且多数人把聊天机器人叫作 agent",
+          "summary_short_zh": "<p>在 101 家企业中，agent 编排正在向模型厂商的平台集中——Anthropic 的 Claude 大幅领先——选择的依据是底层模型的引力，评判的标准则是多步执行的可靠性。",
+          "why_it_matters_zh": "该内容出现在 1 个独立信源中。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "992c2290cdc9",
@@ -2971,7 +3087,11 @@
               "published_at": "Wed, 15 Jul 2026 16:25:00 -0400"
             }
           ],
-          "route": "/hot/2026-07-16/topic/3-questions-neural-transparency-and-the-future-of-ai-design/"
+          "route": "/hot/2026-07-16/topic/3-questions-neural-transparency-and-the-future-of-ai-design/",
+          "headline_zh": "三问：神经透明度与 AI 设计的未来",
+          "summary_short_zh": "助理教授 Pat Pataranutaporn 介绍了一种新界面，让普通用户在聊天机器人开口之前，就能窥见 AI 神经网络的内部",
+          "why_it_matters_zh": "该内容出现在 1 个独立信源中。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "8aff3df6cdb4",
@@ -3009,7 +3129,11 @@
               "published_at": "2026-07-15T17:33:20-04:00"
             }
           ],
-          "route": "/hot/2026-07-16/topic/xai-sues-a-man-for-using-grok-to-generate-csam-8216-deepfakes-8217/"
+          "route": "/hot/2026-07-16/topic/xai-sues-a-man-for-using-grok-to-generate-csam-8216-deepfakes-8217/",
+          "headline_zh": "xAI 起诉一名男子，指其利用 Grok 生成 CSAM &#8216;深度伪造&#8217; 内容",
+          "summary_short_zh": "埃隆·马斯克旗下的 xAI 正在起诉一名南卡罗来纳州男子，指控其使用该公司的 Grok AI 聊天机器人生成儿童性虐待材料（CSAM）。",
+          "why_it_matters_zh": "该内容出现在 1 个独立信源中。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -3060,7 +3184,11 @@
           "published_at": "2026-07-15T23:59:30+00:00"
         }
       ],
-      "route": "/hot/2026-07-16/topic/xai-org-grok-build/"
+      "route": "/hot/2026-07-16/topic/xai-org-grok-build/",
+      "headline_zh": "xai-org/grok-build",
+      "summary_short_zh": "SpaceXAI 的编程 agent 框架与 TUI。全屏、支持鼠标交互、可扩展",
+      "why_it_matters_zh": "该工具出现在 2 个独立信源中。",
+      "category_zh": "工具"
     }
   ],
   "x_buzz": [

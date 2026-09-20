@@ -2708,7 +2708,14 @@
           "published_at": "Mon, 27 Jul 2026 16:05:00 +0000"
         }
       ],
-      "route": "/hot/2026-07-28/topic/how-guardoc-transforms-medical-document-processing-with-amazon-nova-models/"
+      "route": "/hot/2026-07-28/topic/how-guardoc-transforms-medical-document-processing-with-amazon-nova-models/",
+      "headline_zh": "Guardoc 如何利用 Amazon Nova 模型革新医疗文档处理",
+      "summary_short_zh": "本文探讨 Guardoc Health 如何利用 Amazon Bedrock 提供的 Amazon Nova 系列模型，革新长期护理中的临床文书处理",
+      "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "本文探讨 Guardoc Health 如何利用 Amazon Bedrock 提供的 Amazon Nova 系列模型，革新长期护理中的临床文书处理。"
+      ]
     },
     {
       "topic_id": "d12db78a395a",
@@ -2748,7 +2755,14 @@
           "published_at": "Mon, 27 Jul 2026 16:07:44 +0000"
         }
       ],
-      "route": "/hot/2026-07-28/topic/deepgram-enhances-amazon-sagemaker-ai-support-with-aws-iam-temporary-delegation/"
+      "route": "/hot/2026-07-28/topic/deepgram-enhances-amazon-sagemaker-ai-support-with-aws-iam-temporary-delegation/",
+      "headline_zh": "Deepgram 借助 AWS IAM 临时委派增强对 Amazon SageMaker AI 的支持",
+      "summary_short_zh": "本文介绍 Deepgram 采用 IAM 临时委派的原因、端到端集成流程，以及它为在 SageMaker AI 上运行 Deepgram 语音模型的客户带来的新能力。",
+      "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "本文介绍 Deepgram 采用 IAM 临时委派的原因、端到端集成流程，以及它为在 SageMaker AI 上运行 Deepgram 语音模型的客户带来的新能力。借助……"
+      ]
     },
     {
       "topic_id": "2e9e1d2a935a",
@@ -2786,7 +2800,11 @@
           "published_at": "2026-07-28T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-07-28/topic/act-2-preview-generalizing-reliability-sunday-robotics/"
+      "route": "/hot/2026-07-28/topic/act-2-preview-generalizing-reliability-sunday-robotics/",
+      "headline_zh": "ACT-2 预览：可靠性泛化（Sunday robotics）",
+      "summary_short_zh": "ACT-2 预览：可靠性泛化（Sunday robotics",
+      "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "5405a311a0e3",
@@ -2833,7 +2851,15 @@
           "published_at": "2026-07-23T06:07:23Z"
         }
       ],
-      "route": "/hot/2026-07-28/topic/xyz-ai-lab-axrl/"
+      "route": "/hot/2026-07-28/topic/xyz-ai-lab-axrl/",
+      "headline_zh": "XYZ-AI-Lab/axrl",
+      "summary_short_zh": "AxisRL 是一个智能体强化学习后训练框架，基于 SGLang 轨迹采样、Megatron 训练和实际场景中的智能体工作流构建",
+      "why_it_matters_zh": "1 个独立来源提及了该工具。",
+      "category_zh": "工具",
+      "key_takeaways_zh": [
+        "AxisAgentic：面向长程智能体的可扩展运行时与轨迹采集框架。",
+        "AxisRL 是一个智能体强化学习后训练框架，基于 SGLang 轨迹采样、Megatron 训练和实际场景中的智能体工作流构建。"
+      ]
     },
     {
       "topic_id": "31bf81307837",
@@ -2873,7 +2899,14 @@
           "published_at": "Tue, 28 Jul 2026 04:30:00 +0000"
         }
       ],
-      "route": "/hot/2026-07-28/topic/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/"
+      "route": "/hot/2026-07-28/topic/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
+      "headline_zh": "Cursor 推出本地化定价，在被 SpaceX 收购前展开迄今最大规模的印度市场扩张",
+      "summary_short_zh": "Cursor 表示，印度现已成为其全球第三大市场，公司计划扩大当地招聘规模和企业销售业务",
+      "why_it_matters_zh": "1 个独立来源报道了此次收购。",
+      "category_zh": "市场信号",
+      "key_takeaways_zh": [
+        "Cursor 表示，印度现已成为其全球第三大市场，公司计划扩大当地招聘规模和企业销售业务。"
+      ]
     }
   ],
   "category_sections": [
@@ -2917,7 +2950,11 @@
               "published_at": "Mon, 27 Jul 2026 18:32:11 +0000"
             }
           ],
-          "route": "/hot/2026-07-28/topic/microsoft-launches-its-first-cybersecurity-model-plus-a-new-agentic-cybersecurity-system/"
+          "route": "/hot/2026-07-28/topic/microsoft-launches-its-first-cybersecurity-model-plus-a-new-agentic-cybersecurity-system/",
+          "headline_zh": "微软推出首款网络安全模型及全新智能体网络安全系统",
+          "summary_short_zh": "微软本周推出首款 AI 安全模型及全新安全平台，进一步扩充了其 AI 网络安全产品",
+          "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "1bd5114aea15",
@@ -2955,7 +2992,10 @@
               "published_at": "Jul 27, 2026"
             }
           ],
-          "route": "/hot/2026-07-28/topic/our-position-on-open-weights-models/"
+          "route": "/hot/2026-07-28/topic/our-position-on-open-weights-models/",
+          "headline_zh": "我们对开放权重模型的立场",
+          "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "5d2bc87f9840",
@@ -2993,7 +3033,11 @@
               "published_at": "2026-07-27T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-07-28/topic/cerebras-and-upstage-bring-ultra-fast-ai-to-south-korea/"
+          "route": "/hot/2026-07-28/topic/cerebras-and-upstage-bring-ultra-fast-ai-to-south-korea/",
+          "headline_zh": "Cerebras 与 Upstage 将超高速 AI 引入韩国",
+          "summary_short_zh": "2026年7月10日",
+          "why_it_matters_zh": "这则产品发布消息来自 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "5e0bffdc5d7f",
@@ -3031,7 +3075,11 @@
               "published_at": "2026-07-27T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-07-28/topic/hiring-engineers-for-an-ai-native-world/"
+          "route": "/hot/2026-07-28/topic/hiring-engineers-for-an-ai-native-world/",
+          "headline_zh": "为 AI 原生时代招聘工程师",
+          "summary_short_zh": "2026年7月9日",
+          "why_it_matters_zh": "这则产品发布消息来自 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "f05ac5a9a6bd",
@@ -3069,7 +3117,11 @@
               "published_at": "2026-07-27T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-07-28/topic/how-faster-inference-gives-cybersecurity-companies-an-edge/"
+          "route": "/hot/2026-07-28/topic/how-faster-inference-gives-cybersecurity-companies-an-edge/",
+          "headline_zh": "更快的推理如何为网络安全公司带来竞争优势",
+          "summary_short_zh": "2026年7月22日",
+          "why_it_matters_zh": "这则产品发布消息来自 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -3113,7 +3165,11 @@
               "published_at": "Tue, 28 Jul 2026 00:13:33 +0000"
             }
           ],
-          "route": "/hot/2026-07-28/topic/anthropic-s-dario-amodei-responds-doesn-t-oppose-open-weight-models-but-fears-chinese-ai/"
+          "route": "/hot/2026-07-28/topic/anthropic-s-dario-amodei-responds-doesn-t-oppose-open-weight-models-but-fears-chinese-ai/",
+          "headline_zh": "Anthropic 的 Dario Amodei 回应：不反对开放权重模型，但担忧中国 AI",
+          "summary_short_zh": "Anthropic 创始人兼首席执行官 Dario Amodei 明确表达了对开放权重模型及中国日益增强的 AI 实力的看法",
+          "why_it_matters_zh": "这则行业动态来自 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "748d12f35b53",
@@ -3151,7 +3207,11 @@
               "published_at": "Mon, 27 Jul 2026 21:17:11 +0000"
             }
           ],
-          "route": "/hot/2026-07-28/topic/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/"
+          "route": "/hot/2026-07-28/topic/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+          "headline_zh": "Satya Nadella 表示，凡事都依赖同一个 AI 的公司可能无法生存",
+          "summary_short_zh": "Nadella 表示，企业若没有自己的模型，或缺少 AI 网关这层基础设施来将自身提示词与模型本身分离，就会陷入困境",
+          "why_it_matters_zh": "这则行业动态来自 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "39f97da81c1b",
@@ -3189,7 +3249,10 @@
               "published_at": "Jul 27, 2026"
             }
           ],
-          "route": "/hot/2026-07-28/topic/cognizant-and-anthropic-expand-their-partnership-to-bring-claude-to-enterprise-clients/"
+          "route": "/hot/2026-07-28/topic/cognizant-and-anthropic-expand-their-partnership-to-bring-claude-to-enterprise-clients/",
+          "headline_zh": "Cognizant 与 Anthropic 扩大合作，向企业客户提供 Claude",
+          "why_it_matters_zh": "这则行业动态来自 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "77934eba8cca",
@@ -3227,7 +3290,11 @@
               "published_at": "2026-07-28T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-28/topic/project-fetch-phase-two-anthropic-blog/"
+          "route": "/hot/2026-07-28/topic/project-fetch-phase-two-anthropic-blog/",
+          "headline_zh": "Project Fetch：第二阶段（Anthropic 博客）",
+          "summary_short_zh": "Project Fetch：第二阶段（Anthropic 博客",
+          "why_it_matters_zh": "这则其他类消息来自 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "204926c76b87",
@@ -3265,7 +3332,11 @@
               "published_at": "2026-07-28T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-28/topic/mirrorcode-what-s-the-largest-software-project-ai-can-complete-on-its-own-epoch-ai/"
+          "route": "/hot/2026-07-28/topic/mirrorcode-what-s-the-largest-software-project-ai-can-complete-on-its-own-epoch-ai/",
+          "headline_zh": "MirrorCode：AI 能独立完成的软件项目最大有多大？（Epoch AI）",
+          "summary_short_zh": "MirrorCode：AI 能独立完成的软件项目最大有多大？（Epoch AI",
+          "why_it_matters_zh": "这则其他类消息来自 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -3309,7 +3380,10 @@
               "published_at": "2026-07-27T16:59:08Z"
             }
           ],
-          "route": "/hot/2026-07-28/topic/show-hn-feynobg-automatic-background-removal-model-and-training-library/"
+          "route": "/hot/2026-07-28/topic/show-hn-feynobg-automatic-background-removal-model-and-training-library/",
+          "headline_zh": "Show HN：FeyNoBg 自动背景移除模型与训练库",
+          "why_it_matters_zh": "该工具信息见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "8751bdd2b117",
@@ -3347,7 +3421,11 @@
               "published_at": "Mon, 27 Jul 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-07-28/topic/cohere-and-developer-tooling-vendors-continue-shifting-toward-own-the-harness/"
+          "route": "/hot/2026-07-28/topic/cohere-and-developer-tooling-vendors-continue-shifting-toward-own-the-harness/",
+          "headline_zh": "Cohere 与开发工具厂商继续转向“自主掌控智能体运行框架”",
+          "summary_short_zh": "Cohere 宣布推出 North Automations，在其安全智能体平台上增加了一个可用自然语言操作的工作流层（@cohere）。LangChain 生态继续强调，企业应掌控工具、提示词、上下文和记忆，而不只是租用模型访问权限（@sydneyrunkle）。",
+          "why_it_matters_zh": "该工具信息见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "e5ee162ff64a",
@@ -3385,7 +3463,11 @@
               "published_at": "Mon, 27 Jul 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-07-28/topic/kimi-k3-is-the-day-s-dominant-release/"
+          "route": "/hot/2026-07-28/topic/kimi-k3-is-the-day-s-dominant-release/",
+          "headline_zh": "Kimi K3 成为当日最受瞩目的发布",
+          "summary_short_zh": "据 @Kimi_Moonshot，Moonshot 以开放权重套件的形式发布了 Kimi K3 的权重、报告和配套基础设施：采用 2.8 万亿参数的 MoE 架构，激活参数为 1040 亿，共有 896 个专家，每个 token 激活 16 个，支持 100 万 token 上下文和原生视觉理解。",
+          "why_it_matters_zh": "该工具信息见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "4a1ba2f0989a",
@@ -3423,7 +3505,11 @@
               "published_at": "Mon, 27 Jul 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-07-28/topic/differences-between-fable-5-and-opus-5-on-minebench-ai/"
+          "route": "/hot/2026-07-28/topic/differences-between-fable-5-and-opus-5-on-minebench-ai/",
+          "headline_zh": "Fable 5 与 Opus 5 在 MineBench.ai 上的差异",
+          "summary_short_zh": "MineBench.ai 的结果对比了 Anthropic Opus 5.0 与 Fable 5 在用 JSON 坐标生成类似 Minecraft 的三维结构方面的表现（基准测试、代码仓库、发布说明）。",
+          "why_it_matters_zh": "该工具信息见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "c01323cece36",
@@ -3461,7 +3547,11 @@
               "published_at": "Mon, 27 Jul 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-07-28/topic/openai-economics-workflow-productization/"
+          "route": "/hot/2026-07-28/topic/openai-economics-workflow-productization/",
+          "headline_zh": "OpenAI 的经济研究与工作流产品化",
+          "summary_short_zh": "OpenAI 的职场应用研究，以及对云端智能体和 Work 模式的广泛推进，持续表明其正从聊天机器人体验转向融入个人与企业工作流程的自动化。@OpenAI、@gdb",
+          "why_it_matters_zh": "该工具信息见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     },
@@ -3505,7 +3595,11 @@
               "published_at": "2026-07-27T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-07-28/topic/data-pyramid-for-embodied-manipulation/"
+          "route": "/hot/2026-07-28/topic/data-pyramid-for-embodied-manipulation/",
+          "headline_zh": "面向具身操作的数据金字塔",
+          "summary_short_zh": "多模态基础模型通过学习整个互联网的内容，学会了看和说。具身智能体无法走这样的捷径，因为它们需要将观测与物理状态和动作关联起来的数据。多种数据来源可以在不同程度上提供这些信号。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         }
       ]
     }
@@ -3551,7 +3645,11 @@
               "published_at": "Mon, 27 Jul 2026 03:30:00 GMT"
             }
           ],
-          "route": "/hot/2026-07-28/topic/how-ai-is-expanding-what-people-do-at-work/"
+          "route": "/hot/2026-07-28/topic/how-ai-is-expanding-what-people-do-at-work/",
+          "headline_zh": "AI 如何拓展人们的工作范围",
+          "summary_short_zh": "OpenAI 的新研究展示了 AI 如何拓展员工的工作范围：ChatGPT 用户正在承担跨岗位任务，并重塑岗位边界。",
+          "why_it_matters_zh": "这条产品发布信息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "7f27b5cee563",
@@ -3589,7 +3687,11 @@
               "published_at": "2026-07-27T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-07-28/topic/a-day-in-the-life-of-a-wealth-manager-with-and-without-ai-cohere/"
+          "route": "/hot/2026-07-28/topic/a-day-in-the-life-of-a-wealth-manager-with-and-without-ai-cohere/",
+          "headline_zh": "财富管理师的一天：有 AI 和没有 AI | Cohere",
+          "summary_short_zh": "了解 North AI 智能体如何帮助财富管理师发挥最佳水平，消除工作阻力，在忙碌的一天中省时省力。",
+          "why_it_matters_zh": "有 1 个独立来源提及此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "e7344913d90d",
@@ -3627,7 +3729,11 @@
               "published_at": "2026-07-27T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-07-28/topic/orchestrate-agentic-workflows-with-north-automations-cohere/"
+          "route": "/hot/2026-07-28/topic/orchestrate-agentic-workflows-with-north-automations-cohere/",
+          "headline_zh": "使用 North Automations 编排智能体工作流 | Cohere",
+          "summary_short_zh": "借助 North Automations 协调企业内的智能体工作流，让每一步都简便、可控、清晰可见",
+          "why_it_matters_zh": "有 1 个独立来源提及此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "5a132615e087",
@@ -3665,7 +3771,11 @@
               "published_at": "2026-07-27T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-07-28/topic/getting-the-most-out-of-gpt-5-6-sol-terra-and-luna/"
+          "route": "/hot/2026-07-28/topic/getting-the-most-out-of-gpt-5-6-sol-terra-and-luna/",
+          "headline_zh": "充分发挥 GPT-5.6 的潜力：Sol、Terra 和 Luna",
+          "summary_short_zh": "2026年7月27日",
+          "why_it_matters_zh": "有 1 个独立来源提及此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "8d3f6579cc93",
@@ -3712,7 +3822,11 @@
               "published_at": "Mon, 27 Jul 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-07-28/topic/nvidia-microsoft-launch-open-ai-security-alliance-without-openai-google-or-anthropic/"
+          "route": "/hot/2026-07-28/topic/nvidia-microsoft-launch-open-ai-security-alliance-without-openai-google-or-anthropic/",
+          "headline_zh": "英伟达与微软成立开放 AI 安全联盟，OpenAI、谷歌和 Anthropic 缺席",
+          "summary_short_zh": "英伟达周一表示，正与微软、SpaceX、IBM 等科技公司联手，开发并共享开源 AI 安全工具。新成立的 Open Secure AI Alliance 表示，要有效防御来自前沿模型的攻击，就必须使用开放工具。",
+          "why_it_matters_zh": "有 2 个独立来源提及此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "0c353303536e",
@@ -3750,7 +3864,11 @@
               "published_at": "Mon, 27 Jul 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-07-28/topic/kimi-k3-weights-now-released/"
+          "route": "/hot/2026-07-28/topic/kimi-k3-weights-now-released/",
+          "headline_zh": "Kimi K3 权重现已发布。",
+          "summary_short_zh": "图片是 Hugging Face 上 moonshotai/Kimi-K3 页面的手机截图，佐证了帖子标题中“Kimi K3 权重已发布”的说法。",
+          "why_it_matters_zh": "有 1 个独立来源提及此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "511cb9134a16",
@@ -3788,7 +3906,11 @@
               "published_at": "Mon, 27 Jul 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-07-28/topic/sources-openai-and-anthropic-quietly-lobby-washington-regulators-to-restrict-open-source-ai-models-even-as-sam-altman-publicly-says-he-supports-open-source-ai/"
+          "route": "/hot/2026-07-28/topic/sources-openai-and-anthropic-quietly-lobby-washington-regulators-to-restrict-open-source-ai-models-even-as-sam-altman-publicly-says-he-supports-open-source-ai/",
+          "headline_zh": "消息人士称：OpenAI 和 Anthropic 私下游说华盛顿监管机构限制开源 AI 模型，尽管 Sam Altman 公开表示支持开源 AI",
+          "summary_short_zh": "《纽约时报》报道称，OpenAI 和 Anthropic 一直以知识产权盗用、模型蒸馏、安全及国家安全风险为由，游说美国监管机构限制开放或开放权重的 AI 模型，尤其是中国厂商 Z.ai 和 Moonshot AI 发布的模型。这些模型的能力正接近美国前沿模型。",
+          "why_it_matters_zh": "有 1 个独立来源提及此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "e76e839f8995",
@@ -3826,7 +3948,11 @@
               "published_at": "Mon, 27 Jul 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-07-28/topic/harness-showdown-claude-code-vs-opencode-vs-pi-with-deepseek-v4-flash/"
+          "route": "/hot/2026-07-28/topic/harness-showdown-claude-code-vs-opencode-vs-pi-with-deepseek-v4-flash/",
+          "headline_zh": "智能体运行框架对决：Claude Code、OpenCode 与 Pi，均使用 DeepSeek V4 Flash",
+          "summary_short_zh": "图片是帖子《智能体运行框架对决：Claude Code、OpenCode 与 Pi，均使用 DeepSeek V4 Flash》的技术基准测试图表，比较了各编程智能体运行框架的实际耗时。测试统一使用在 vLLM 上以约 180 token/秒运行的 DeepSeek V4 Flash。",
+          "why_it_matters_zh": "有 1 个独立来源提及此次产品发布。",
+          "category_zh": "产品发布"
         }
       ]
     }
@@ -3868,7 +3994,11 @@
           "published_at": "2026-07-27T23:39:04+00:00"
         }
       ],
-      "route": "/hot/2026-07-28/topic/moonshotai-kimi-k3/"
+      "route": "/hot/2026-07-28/topic/moonshotai-kimi-k3/",
+      "headline_zh": "moonshotai/Kimi-K3",
+      "summary_short_zh": "<p><strong><a href=\" 正如<a href=\" 本月</a>承诺的那样，Moonshot 已发布其出色的 2.8 万亿参数模型 Kimi K3 的权重。Hugging Face 上的权重文件体积高达 1.56TB。</p> <p>Kimi 早在 2025 年 7 月发布 K2 时，就推出了自己那套蹩脚的<a href=\" MIT 许可证变体</a>。",
+      "why_it_matters_zh": "有 1 个独立来源提及此次产品发布。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "f8711db85b8d",
@@ -3906,7 +4036,11 @@
           "published_at": "2026-07-23T14:10:49Z"
         }
       ],
-      "route": "/hot/2026-07-28/topic/codejunkie99-graph-engineering/"
+      "route": "/hot/2026-07-28/topic/codejunkie99-graph-engineering/",
+      "headline_zh": "codejunkie99/graph-engineering",
+      "summary_short_zh": "面向 AI 智能体的图工程：知识图谱九阶段流程（译自 SEU 研究生课程）与任务图编排模式，封装为 Claude 技能，支持教学模式和可直接粘贴使用的工作流",
+      "why_it_matters_zh": "有 1 个独立来源提及该工具。",
+      "category_zh": "工具"
     }
   ],
   "x_buzz": [

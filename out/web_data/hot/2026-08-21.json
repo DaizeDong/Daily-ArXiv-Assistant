@@ -1879,7 +1879,14 @@
           "published_at": "Thu, 20 Aug 2026 21:46:03 +0000"
         }
       ],
-      "route": "/hot/2026-08-21/topic/introducing-cross-region-inference-for-openai-gpt-5-6-models-on-amazon-bedrock/"
+      "route": "/hot/2026-08-21/topic/introducing-cross-region-inference-for-openai-gpt-5-6-models-on-amazon-bedrock/",
+      "headline_zh": "Amazon Bedrock 推出 OpenAI GPT-5.6 模型跨区域推理",
+      "summary_short_zh": "Amazon Bedrock 现已通过跨区域推理，在超过 25 个 AWS 区域提供 OpenAI GPT-5.6 模型（Sol、Terra 和 Luna）。",
+      "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Amazon Bedrock 现已通过跨区域推理，在超过 25 个 AWS 区域提供 OpenAI GPT-5.6 模型（Sol、Terra 和 Luna）。了解面向美国及全球的推理配置文件如何路由请求……"
+      ]
     },
     {
       "topic_id": "fa3504142ed1",
@@ -1927,7 +1934,16 @@
           "published_at": "Thu, 20 Aug 2026 21:23:29 +0000"
         }
       ],
-      "route": "/hot/2026-08-21/topic/build-a-no-code-ml-workflow-with-snowflake-amazon-sagemaker-canvas-and-amazon-quick-part-1-setting-up-your-snowflake-environment/"
+      "route": "/hot/2026-08-21/topic/build-a-no-code-ml-workflow-with-snowflake-amazon-sagemaker-canvas-and-amazon-quick-part-1-setting-up-your-snowflake-environment/",
+      "headline_zh": "使用 Snowflake、Amazon SageMaker Canvas 和 Amazon Quick 构建无代码机器学习工作流，第 1 部分：设置 Snowflake 环境",
+      "summary_short_zh": "医疗、零售和生命科学团队在 Snowflake 中存储了大量运营数据，但要将这些数据用于预测并不容易。",
+      "why_it_matters_zh": "有 1 个独立来源报道了此工具。",
+      "category_zh": "工具",
+      "key_takeaways_zh": [
+        "在这个无代码机器学习系列的第 3 部分，你将直观呈现欺诈检测预测结果。将 Amazon SageMaker Canvas 的预测结果导入 Amazon Quick Sight，构建交互式仪表板，使用生成式……",
+        "在这个无代码机器学习系列的第 2 部分，你将把 Amazon SageMaker Canvas 连接到 Snowflake，使用 Data Wrangler 的可视化转换功能准备并联接交易数据，然后训练用于欺诈检测的 XGBoost 模型……",
+        "医疗、零售和生命科学团队在 Snowflake 中存储了大量运营数据，但要将这些数据用于预测并不容易。在本系列的第 1 部分，你将设置 AWS 账户并……"
+      ]
     },
     {
       "topic_id": "67689e82606a",
@@ -1965,7 +1981,11 @@
           "published_at": "Thu, 20 Aug 2026 07:00:00 GMT"
         }
       ],
-      "route": "/hot/2026-08-21/topic/introducing-ai-futures/"
+      "route": "/hot/2026-08-21/topic/introducing-ai-futures/",
+      "headline_zh": "推出 AI Futures",
+      "summary_short_zh": "OpenAI 推出的新博客，探讨变革性 AI 可能如何重塑权力、治理、经济和个人自由",
+      "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "a28abca34c8f",
@@ -2005,7 +2025,14 @@
           "published_at": "Thu, 20 Aug 2026 22:36:37 +0000"
         }
       ],
-      "route": "/hot/2026-08-21/topic/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/"
+      "route": "/hot/2026-08-21/topic/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+      "headline_zh": "新数据显示，OpenAI 正在企业用户市场缩小与 Anthropic 的差距",
+      "summary_short_zh": "随着各家实验室推出新模型，企业愿意在不同供应商之间来回切换。这种波动应让两家公司的投资者重新审视企业 AI 支出究竟有多强的“黏性”",
+      "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "随着各家实验室推出新模型，企业愿意在不同供应商之间来回切换。这种波动应让两家公司的投资者重新审视企业 AI 支出究竟有多强的“黏性”。"
+      ]
     },
     {
       "topic_id": "1d96bab309ed",
@@ -2045,7 +2072,14 @@
           "published_at": "2026-08-20T17:50:22-04:00"
         }
       ],
-      "route": "/hot/2026-08-21/topic/google-discover-is-getting-an-ai-chatbot-tuned-feed/"
+      "route": "/hot/2026-08-21/topic/google-discover-is-getting-an-ai-chatbot-tuned-feed/",
+      "headline_zh": "Google Discover 将支持通过 AI 聊天机器人定制信息流",
+      "summary_short_zh": "Google 即将支持你通过描述想看的内容来定制 Discover 信息流。这项新功能将在“未来几天”内上线 Google 应用，使用 AI 自动调整信息流，并“记住”你的偏好，在今后的访问中沿用。",
+      "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Google 即将支持你通过描述想看的内容来定制 Discover 信息流。这项新功能将在“未来几天”内上线 Google 应用，使用 AI 自动调整……"
+      ]
     }
   ],
   "category_sections": [
@@ -2089,7 +2123,11 @@
               "published_at": "Thu, 20 Aug 2026 16:24:12 +0000"
             }
           ],
-          "route": "/hot/2026-08-21/topic/scaling-agentic-ai-enterprise-patterns-without-vendor-lock-in/"
+          "route": "/hot/2026-08-21/topic/scaling-agentic-ai-enterprise-patterns-without-vendor-lock-in/",
+          "headline_zh": "规模化部署智能体 AI：避免供应商锁定的企业架构模式",
+          "summary_short_zh": "要在企业范围内规模化部署智能体 AI，需要采用既能保持灵活性、又能避免供应商锁定的架构模式。",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "fde1c4231c64",
@@ -2127,7 +2165,11 @@
               "published_at": "Thu, 20 Aug 2026 00:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-08-21/topic/stampli-cuts-launch-hours-by-68-using-chatgpt-work/"
+          "route": "/hot/2026-08-21/topic/stampli-cuts-launch-hours-by-68-using-chatgpt-work/",
+          "headline_zh": "Stampli 借助 ChatGPT Work 将发布工作耗时缩短 68%",
+          "summary_short_zh": "在截止日期已定、设计资源已投入其他项目的情况下，Stampli 借助 Codex 和 ChatGPT Work，将原本需要数周的发布准备工作压缩到几天内完成",
+          "why_it_matters_zh": "本次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "3ddf32efe6fe",
@@ -2165,7 +2207,11 @@
               "published_at": "2026-08-20T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-08-21/topic/agentic-search-more-accurate-and-efficient-results-from-your-ai-systems/"
+          "route": "/hot/2026-08-21/topic/agentic-search-more-accurate-and-efficient-results-from-your-ai-systems/",
+          "headline_zh": "智能体搜索。让你的 AI 系统更高效地提供更准确的结果。",
+          "summary_short_zh": "产品",
+          "why_it_matters_zh": "本次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "c31c423906c9",
@@ -2203,7 +2249,11 @@
               "published_at": "2026-08-20T08:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-21/topic/slack-is-launching-collaborative-vibe-coding-channels/"
+          "route": "/hot/2026-08-21/topic/slack-is-launching-collaborative-vibe-coding-channels/",
+          "headline_zh": "Slack 正在推出协作式氛围编程频道",
+          "summary_short_zh": "Slack 正在推出专用频道，让团队能与 AI 智能体一起进行氛围编程，无需在不同工具和对话之间来回切换。",
+          "why_it_matters_zh": "本次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "8eddf821e055",
@@ -2241,7 +2291,11 @@
               "published_at": "Thu, 20 Aug 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-08-21/topic/zhipu-s-glm-5-3-keeps-showing-up-in-agentic-code-evals/"
+          "route": "/hot/2026-08-21/topic/zhipu-s-glm-5-3-keeps-showing-up-in-agentic-code-evals/",
+          "headline_zh": "智谱 GLM-5.3 频繁出现在智能体与代码评测中",
+          "summary_short_zh": "@AutoClawAIer 宣布，Z.ai 的工作智能体 AutoClaw 已接入 GLM-5.3。更重要的是，@arena 表示，GLM-5.3 Max 拓展了 Code Arena: WebDev 的帕累托前沿，得分为 1597，价格为 $3.65/M，预计位列开放模型第 2、总榜第 8。",
+          "why_it_matters_zh": "本次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2285,7 +2339,11 @@
               "published_at": "Fri, 21 Aug 2026 00:13:44 +0000"
             }
           ],
-          "route": "/hot/2026-08-21/topic/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/"
+          "route": "/hot/2026-08-21/topic/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+          "headline_zh": "AI 训练热潮下，AI 数据初创公司 Micro1 年化毛收入达 5 亿美元",
+          "summary_short_zh": "AI 训练数据需求激增，正推动这家初创公司及其竞争对手快速增长。",
+          "why_it_matters_zh": "这笔融资见于 1 个独立来源。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "b4b312337302",
@@ -2323,7 +2381,11 @@
               "published_at": "Thu, 20 Aug 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-08-21/topic/why-does-claude-code-say-things-like-that-s-about-3-days-of-work-then-proceeds-to-do-it-all-in-a-20-minutes/"
+          "route": "/hot/2026-08-21/topic/why-does-claude-code-say-things-like-that-s-about-3-days-of-work-then-proceeds-to-do-it-all-in-a-20-minutes/",
+          "headline_zh": "为什么 Claude Code 会说“这大概需要 3 天”，却只用 20 分钟就全部做完了？",
+          "summary_short_zh": "有用户反馈，Claude Code 在规划时经常按人类的工作速度估算项目耗时（如“几天”或“几周”），随后却用 20 至 30 分钟就完成了代码实现。",
+          "why_it_matters_zh": "这笔融资见于 1 个独立来源。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -2367,7 +2429,11 @@
               "published_at": "Thu, 20 Aug 2026 16:31:28 +0000"
             }
           ],
-          "route": "/hot/2026-08-21/topic/authoring-dogwood-policies-from-natural-language-in-amazon-bedrock-agentcore/"
+          "route": "/hot/2026-08-21/topic/authoring-dogwood-policies-from-natural-language-in-amazon-bedrock-agentcore/",
+          "headline_zh": "在 Amazon Bedrock AgentCore 中用自然语言编写 Dogwood 策略",
+          "summary_short_zh": "AI 智能体可能执行不符合组织策略的操作。Amazon Bedrock AgentCore 的 Policy 功能让团队能对各个智能体实施管控，如今还支持基于时间的约束。",
+          "why_it_matters_zh": "这一行业动向见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "6a45eec11842",
@@ -2405,7 +2471,11 @@
               "published_at": "2026-08-20T23:57:32+00:00"
             }
           ],
-          "route": "/hot/2026-08-21/topic/chatgpt-search-now-uses-the-site-operator-at-scale/"
+          "route": "/hot/2026-08-21/topic/chatgpt-search-now-uses-the-site-operator-at-scale/",
+          "headline_zh": "ChatGPT 搜索现已大规模使用 site: 运算符",
+          "summary_short_zh": "<p><strong><a href=\" 搜索现已大规模使用 site: 运算符</a></strong></p> Promptwatch 属于新兴的“GEO”（生成式引擎优化）领域，相当于聊天机器人版的 SEO。该领域的公司提供工具和咨询服务，帮助你的网站在聊天机器人对提示词的回答中获得更多曝光。",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "b65c0a3f7d28",
@@ -2443,7 +2513,11 @@
               "published_at": "Thu, 20 Aug 2026 22:09:51 +0000"
             }
           ],
-          "route": "/hot/2026-08-21/topic/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plug-in/"
+          "route": "/hot/2026-08-21/topic/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plug-in/",
+          "headline_zh": "ChatGPT 现在可以通过全新 Apple Messages 插件帮你发短信",
+          "summary_short_zh": "想过让别人帮你发短信吗？借助全新的 Apple Messages 集成，ChatGPT 可以自动代写短信。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "278221d7b17b",
@@ -2481,7 +2555,10 @@
               "published_at": "2026-08-21T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-21/topic/import-ai-468-23-rsi-ideas-posttrainbench-and-how-trust-and-transparency-interplay-with-ai-racing/"
+          "route": "/hot/2026-08-21/topic/import-ai-468-23-rsi-ideas-posttrainbench-and-how-trust-and-transparency-interplay-with-ai-racing/",
+          "headline_zh": "Import AI 第 468 期：23 个 RSI 构想；PostTrainBench+；信任、透明度与 AI 竞赛如何相互影响",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "98d640c2c00c",
@@ -2519,7 +2596,10 @@
               "published_at": "2026-08-21T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-21/topic/import-ai-469-science-ai-rsi-simulator-and-zuck-s-technological-pessimism/"
+          "route": "/hot/2026-08-21/topic/import-ai-469-science-ai-rsi-simulator-and-zuck-s-technological-pessimism/",
+          "headline_zh": "Import AI 第 469 期：科研 AI；RSI 模拟器；扎克伯格的技术悲观主义",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -2563,7 +2643,11 @@
               "published_at": "Thu, 20 Aug 2026 16:06:06 +0000"
             }
           ],
-          "route": "/hot/2026-08-21/topic/aws-vector-solutions-build-agentic-ai-where-your-data-lives/"
+          "route": "/hot/2026-08-21/topic/aws-vector-solutions-build-agentic-ai-where-your-data-lives/",
+          "headline_zh": "AWS 向量解决方案：在数据所在环境中构建智能体 AI",
+          "summary_short_zh": "AWS 在你现有的数据库和存储服务中内置了多种向量搜索方案，无需独立的向量数据库，也无需迁移数据。",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "1e89b21315ee",
@@ -2601,7 +2685,11 @@
               "published_at": "Thu, 20 Aug 2026 16:11:18 +0000"
             }
           ],
-          "route": "/hot/2026-08-21/topic/scaling-cloud-migrations-with-agentic-ai-on-amazon-bedrock-agentcore/"
+          "route": "/hot/2026-08-21/topic/scaling-cloud-migrations-with-agentic-ai-on-amazon-bedrock-agentcore/",
+          "headline_zh": "借助 Amazon Bedrock AgentCore 上的智能体 AI 实现规模化云迁移",
+          "summary_short_zh": "了解 AWS Professional Services 如何利用基于 Amazon Bedrock AgentCore 构建的多智能体框架，实现企业云迁移的端到端自动化。",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "beef47ea46c9",
@@ -2639,7 +2727,11 @@
               "published_at": "2026-08-17T18:23:44Z"
             }
           ],
-          "route": "/hot/2026-08-21/topic/elie222-botdirectory-ai/"
+          "route": "/hot/2026-08-21/topic/elie222-botdirectory-ai/",
+          "headline_zh": "elie222/botdirectory.ai",
+          "summary_short_zh": "开源智能体机器人提示词目录，适用于 Grok Bot、Rakazo 及任何智能体：botdirectory.ai",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "7daff0ed13a0",
@@ -2677,7 +2769,11 @@
               "published_at": "2026-08-21T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-21/topic/dig-bench-discovery-in-games-github-pdf/"
+          "route": "/hot/2026-08-21/topic/dig-bench-discovery-in-games-github-pdf/",
+          "headline_zh": "DiG-bench：游戏中的发现（GitHub、PDF）",
+          "summary_short_zh": "DiG-bench：游戏中的发现（GitHub、PDF",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     }
@@ -2723,7 +2819,11 @@
               "published_at": "Thu, 20 Aug 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-08-21/topic/meta-s-muse-spark-1-2-had-a-strong-benchmark-day-across-multimodal-agentic-evals/"
+          "route": "/hot/2026-08-21/topic/meta-s-muse-spark-1-2-had-a-strong-benchmark-day-across-multimodal-agentic-evals/",
+          "headline_zh": "Meta 的 Muse Spark 1.2 在当天的多模态和智能体基准评测中表现出色",
+          "summary_short_zh": "@AIatMeta 演示了视觉编程、机器人规划和视听理解，并提前介绍了内部评测 WildArtifactBench。这项评测面向实际多模态任务，采用基于人类或智能体评审结果的胜率和 Elo 评分。",
+          "why_it_matters_zh": "这条产品发布资讯见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "681a0045d7c5",
@@ -2761,7 +2861,11 @@
               "published_at": "Thu, 20 Aug 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-08-21/topic/introducing-qwen3-8-27b-dynamic-v3-unsloth-ggufs/"
+          "route": "/hot/2026-08-21/topic/introducing-qwen3-8-27b-dynamic-v3-unsloth-ggufs/",
+          "headline_zh": "推出 Qwen3.8-27B Dynamic v3 Unsloth GGUF 量化版",
+          "summary_short_zh": "这张技术公告图介绍了 Qwen3.8-27B 的 Unsloth Dynamic v3.0 GGUF 量化版本，声称在模型大小相同的情况下，其 top-1 准确率较其他量化提供商的版本提升超过 10%。",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2805,7 +2909,11 @@
               "published_at": "Thu, 20 Aug 2026 19:18:21 +0000"
             }
           ],
-          "route": "/hot/2026-08-21/topic/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/"
+          "route": "/hot/2026-08-21/topic/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
+          "headline_zh": "Google 为出版商提供新办法，应对 AI 带来的流量流失",
+          "summary_short_zh": "Google 正向出版商提供一个新按钮，让读者将其设为 Google 搜索、Discover 和 Google 新闻中的首选来源。在 AI 搜索导致网站点击量减少之际，这项功能可能有助于提升出版商的流量。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "6f5d03cf9b0f",
@@ -2843,7 +2951,11 @@
               "published_at": "2026-08-20T10:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-21/topic/welcome-to-the-ai-crisis-in-math/"
+          "route": "/hot/2026-08-21/topic/welcome-to-the-ai-crisis-in-math/",
+          "headline_zh": "数学界迎来 AI 危机",
+          "summary_short_zh": "今天的 Decoder 节目中，我将与 The Verge 驻伦敦的 AI 记者 Robert Hart 聊聊 AI 正给数学领域带来哪些影响，以及许多顶尖数学家因此陷入的存在意义危机。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "c375992581e3",
@@ -2881,7 +2993,11 @@
               "published_at": "2026-08-20T11:45:55-04:00"
             }
           ],
-          "route": "/hot/2026-08-21/topic/it-s-greg-brockman-s-openai-now/"
+          "route": "/hot/2026-08-21/topic/it-s-greg-brockman-s-openai-now/",
+          "headline_zh": "如今，OpenAI 由 Greg Brockman 主导",
+          "summary_short_zh": "OpenAI 这一年可谓风波不断。公司与前联合创始人 Elon Musk 在一场轰动的陪审团审判中交锋数月，遭遇 Apple 提起的一起备受关注的商业秘密诉讼，还因一款尚未发布的模型入侵另一家 AI 公司的系统而受到广泛审视。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "44d220822f7c",
@@ -2919,7 +3035,11 @@
               "published_at": "Thu, 20 Aug 2026 13:00:35 +0000"
             }
           ],
-          "route": "/hot/2026-08-21/topic/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/"
+          "route": "/hot/2026-08-21/topic/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
+          "headline_zh": "Grok 遇到加密的恶意指令时会外传用户数据",
+          "summary_short_zh": "加密上下文注入只是突破大语言模型安全护栏的最新手段",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "f8f0a5709865",
@@ -2957,7 +3077,11 @@
               "published_at": "Thu, 20 Aug 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-08-21/topic/openai-s-next-pretraining-stack-is-moving-onto-rubin/"
+          "route": "/hot/2026-08-21/topic/openai-s-next-pretraining-stack-is-moving-onto-rubin/",
+          "headline_zh": "OpenAI 的下一代预训练技术栈正迁移至 Rubin",
+          "summary_short_zh": "@udayruddarraju 发帖称，OpenAI 首批 NVIDIA Vera Rubin 机架已安装就绪，正在运行训练技术栈，并明确指出其面向下一代前沿模型的预训练。@gdb 称这是 OpenAI 与 NVIDIA 合作的重要里程碑。",
+          "why_it_matters_zh": "这一行业举措见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "85a3e38babaf",
@@ -2995,7 +3119,10 @@
               "published_at": "2026-08-20T15:26:02Z"
             }
           ],
-          "route": "/hot/2026-08-21/topic/vomit-clean-up-claude-5-s-token-output-with-a-separate-llm/"
+          "route": "/hot/2026-08-21/topic/vomit-clean-up-claude-5-s-token-output-with-a-separate-llm/",
+          "headline_zh": "Vomit：用另一个大语言模型清理 Claude 5 的 token 输出",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }

@@ -1605,7 +1605,14 @@
           "published_at": "Tue, 28 Jul 2026 19:07:09 +0000"
         }
       ],
-      "route": "/hot/2026-07-29/topic/how-agentcore-gateway-supports-the-mcp-2026-07-28-spec/"
+      "route": "/hot/2026-07-29/topic/how-agentcore-gateway-supports-the-mcp-2026-07-28-spec/",
+      "headline_zh": "AgentCore Gateway 如何支持 MCP 2026-07-28 规范",
+      "summary_short_zh": "模型上下文协议（MCP）发布了 2026-07-28 版规范，这是自推出以来最大的一次修订：MCP 现已采用无状态设计，扩展系统具备治理机制，授权机制也得到强化。",
+      "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "模型上下文协议（MCP）发布了 2026-07-28 版规范，这是自推出以来最大的一次修订：MCP 现已采用无状态设计，扩展系统具备治理机制，授权机制也得到强化。了解更多……"
+      ]
     },
     {
       "topic_id": "83986ea82dff",
@@ -1645,7 +1652,14 @@
           "published_at": "Tue, 28 Jul 2026 17:00:00 GMT"
         }
       ],
-      "route": "/hot/2026-07-29/topic/scientific-computing-in-the-age-of-agentic-ai/"
+      "route": "/hot/2026-07-29/topic/scientific-computing-in-the-age-of-agentic-ai/",
+      "headline_zh": "智能体 AI 时代的科学计算",
+      "summary_short_zh": "一份最新实地调研报告展示了科学家如何利用 AI 编程智能体推动科学计算现代化，加速基因组学等领域的软件开发与科学发现",
+      "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "一份最新实地调研报告展示了科学家如何利用 AI 编程智能体推动科学计算现代化，加速基因组学等领域的软件开发与科学发现。"
+      ]
     },
     {
       "topic_id": "bcece688ddca",
@@ -1685,7 +1699,14 @@
           "published_at": "Wed, 29 Jul 2026 00:00:00 GMT"
         }
       ],
-      "route": "/hot/2026-07-29/topic/configuring-dedicated-model-inference/"
+      "route": "/hot/2026-07-29/topic/configuring-dedicated-model-inference/",
+      "headline_zh": "配置 Dedicated Model Inference",
+      "summary_short_zh": "Together AI Dedicated Model Inference 背后由端点、部署和配置构成的三部分资源模型，以及容量感知路由如何将三者串联起来",
+      "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Together AI Dedicated Model Inference 背后由端点、部署和配置构成的三部分资源模型，以及容量感知路由如何将三者串联起来。"
+      ]
     },
     {
       "topic_id": "61807b998495",
@@ -1725,7 +1746,14 @@
           "published_at": "Tue, 28 Jul 2026 16:00:00 +0000"
         }
       ],
-      "route": "/hot/2026-07-29/topic/gemini-api-managed-agents-3-6-flash-hooks-and-more/"
+      "route": "/hot/2026-07-29/topic/gemini-api-managed-agents-3-6-flash-hooks-and-more/",
+      "headline_zh": "Gemini API Managed Agents：3.6 Flash、钩子及更多功能",
+      "summary_short_zh": "Managed Agents：Gemini 3.6 Flash、钩子与触发器",
+      "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Managed Agents：Gemini 3.6 Flash、钩子与触发器"
+      ]
     },
     {
       "topic_id": "6edb8ba89ab7",
@@ -1765,7 +1793,14 @@
           "published_at": "Tue, 28 Jul 2026 13:00:00 +0000"
         }
       ],
-      "route": "/hot/2026-07-29/topic/5-ways-to-host-the-ultimate-dinner-party-with-google-search/"
+      "route": "/hot/2026-07-29/topic/5-ways-to-host-the-ultimate-dinner-party-with-google-search/",
+      "headline_zh": "用 Google 搜索举办完美晚宴的 5 种方法",
+      "summary_short_zh": "插画中，白色圆圈内是一把带闪光的黑色放大镜，周围是晚宴餐桌布置",
+      "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "插画中，白色圆圈内是一把带闪光的黑色放大镜，周围是晚宴餐桌布置"
+      ]
     }
   ],
   "category_sections": [
@@ -1809,7 +1844,11 @@
               "published_at": "Tue, 28 Jul 2026 13:00:00 +0000"
             }
           ],
-          "route": "/hot/2026-07-29/topic/5-ways-ai-mode-in-search-helps-you-enjoy-the-real-world/"
+          "route": "/hot/2026-07-29/topic/5-ways-ai-mode-in-search-helps-you-enjoy-the-real-world/",
+          "headline_zh": "搜索中的 AI 模式助你享受现实生活的 5 种方式",
+          "summary_short_zh": "插画中，绿草地上的白色圆圈内是一把黑色放大镜，周围是与网球、游戏等趣味活动相关的物品",
+          "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "cef5a2627201",
@@ -1847,7 +1886,11 @@
               "published_at": "Tue, 28 Jul 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-07-29/topic/the-incident-fed-directly-into-the-push-for-an-open-security-ecosystem/"
+          "route": "/hot/2026-07-29/topic/the-incident-fed-directly-into-the-push-for-an-open-security-ecosystem/",
+          "headline_zh": "这起事件直接推动了开放安全生态系统的建设",
+          "summary_short_zh": "多家公司加入或推广 Open Secure AI Alliance，认为模型层和推理层的透明度对安全防御工具至关重要。",
+          "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "8b62d0e6cd07",
@@ -1885,7 +1928,11 @@
               "published_at": "Tue, 28 Jul 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-07-29/topic/the-work-with-agents-from-anywhere-pattern-is-solidifying/"
+          "route": "/hot/2026-07-29/topic/the-work-with-agents-from-anywhere-pattern-is-solidifying/",
+          "headline_zh": "“随时随地与智能体协作”的模式正逐渐成形",
+          "summary_short_zh": "多篇帖子提到一种新的用户交互层：编程或知识工作智能体异步运行，用户通过手机或语音进行监督。",
+          "why_it_matters_zh": "此次产品发布的消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -1929,7 +1976,11 @@
               "published_at": "Tue, 28 Jul 2026 21:29:34 +0000"
             }
           ],
-          "route": "/hot/2026-07-29/topic/bot-detection-startup-spur-nabs-200m-from-insight/"
+          "route": "/hot/2026-07-29/topic/bot-detection-startup-spur-nabs-200m-from-insight/",
+          "headline_zh": "机器人流量检测初创公司 Spur 获 Insight 2 亿美元投资",
+          "summary_short_zh": "Spur Intelligence 获 Insight Partners 2 亿美元融资，其技术可区分真实用户流量与机器人流量",
+          "why_it_matters_zh": "此次融资的消息见于 1 个独立来源。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "cd51e4b69900",
@@ -1967,7 +2018,11 @@
               "published_at": "Tue, 28 Jul 2026 14:00:00 +0000"
             }
           ],
-          "route": "/hot/2026-07-29/topic/fish-audio-raises-52m-seed-to-build-ai-voice-models-for-creators-and-enterprises/"
+          "route": "/hot/2026-07-29/topic/fish-audio-raises-52m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
+          "headline_zh": "Fish Audio 获 5200 万美元种子轮融资，为创作者和企业打造 AI 语音模型",
+          "summary_short_zh": "自去年上线以来，这家初创公司已有超过 800 万人使用其模型的开源版或托管版，目前年度经常性收入达 2100 万美元",
+          "why_it_matters_zh": "此次融资的消息见于 1 个独立来源。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -2011,7 +2066,11 @@
               "published_at": "2026-07-29T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-29/topic/project-fetch-phase-two-anthropic-blog/"
+          "route": "/hot/2026-07-29/topic/project-fetch-phase-two-anthropic-blog/",
+          "headline_zh": "Project Fetch：第二阶段（Anthropic 博客）",
+          "summary_short_zh": "Project Fetch：第二阶段（Anthropic 博客",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "204926c76b87",
@@ -2049,7 +2108,11 @@
               "published_at": "2026-07-29T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-29/topic/mirrorcode-what-s-the-largest-software-project-ai-can-complete-on-its-own-epoch-ai/"
+          "route": "/hot/2026-07-29/topic/mirrorcode-what-s-the-largest-software-project-ai-can-complete-on-its-own-epoch-ai/",
+          "headline_zh": "MirrorCode：AI 能独立完成的软件项目规模上限是多少？（Epoch AI）",
+          "summary_short_zh": "MirrorCode：AI 能独立完成的软件项目规模上限是多少？（Epoch AI",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "6d2d0a4a9d00",
@@ -2087,7 +2150,11 @@
               "published_at": "Wed, 29 Jul 2026 03:29:59 +0000"
             }
           ],
-          "route": "/hot/2026-07-29/topic/pc-ai-jiuwenswarm/"
+          "route": "/hot/2026-07-29/topic/pc-ai-jiuwenswarm/",
+          "headline_zh": "首个鸿蒙PC开源AI统一工作台JiuwenSwarm，办公编程一站式搞定",
+          "summary_short_zh": "让多智能体团队随时随地为你干活",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "87df5c5bc4e1",
@@ -2125,7 +2192,11 @@
               "published_at": "2026-07-28T15:46:43-04:00"
             }
           ],
-          "route": "/hot/2026-07-29/topic/ai-leaders-sign-a-statement-asking-the-government-to-do-something-about-automated-ai/"
+          "route": "/hot/2026-07-29/topic/ai-leaders-sign-a-statement-asking-the-government-to-do-something-about-automated-ai/",
+          "headline_zh": "AI 领军人物签署声明，呼吁政府对自动化 AI 采取行动",
+          "summary_short_zh": "OpenAI、Anthropic、谷歌、Meta、Thinking Machines、微软、Mistral 等领先 AI 实验室的员工撰写了一份致美国政府的声明，支持考虑适度放缓前沿 AI 的研发，或至少加快全球协同治理的步伐",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "c816879cd187",
@@ -2163,7 +2234,11 @@
               "published_at": "Tue, 28 Jul 2026 20:20:20 +0000"
             }
           ],
-          "route": "/hot/2026-07-29/topic/despite-ai-hype-google-s-data-shows-workers-aren-t-automating-themselves-away/"
+          "route": "/hot/2026-07-29/topic/despite-ai-hype-google-s-data-shows-workers-aren-t-automating-themselves-away/",
+          "headline_zh": "尽管 AI 炒作火热，谷歌数据显示，员工并未因将工作自动化而失业",
+          "summary_short_zh": "对 1500 万次真实 AI 交互的分析发现，大多数岗位中的大部分任务并未受到影响",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -2207,7 +2282,11 @@
               "published_at": "Tue, 28 Jul 2026 17:24:54 +0000"
             }
           ],
-          "route": "/hot/2026-07-29/topic/market-surveillance-agent-with-langgraph-and-strands-on-agentcore/"
+          "route": "/hot/2026-07-29/topic/market-surveillance-agent-with-langgraph-and-strands-on-agentcore/",
+          "headline_zh": "基于 AgentCore 的 LangGraph 与 Strands 市场监控智能体",
+          "summary_short_zh": "了解如何使用 LangGraph 做工作流编排、用 Strands 做智能体推理，在 Amazon Bedrock AgentCore 上架构并部署一套生产级的多智能体 AI 系统。",
+          "why_it_matters_zh": "该工具出现在 1 个独立信息源中。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "16e268d81c5e",
@@ -2245,7 +2324,11 @@
               "published_at": "2026-07-28T22:45:37+00:00"
             }
           ],
-          "route": "/hot/2026-07-29/topic/discovering-cryptographic-weaknesses-with-claude/"
+          "route": "/hot/2026-07-29/topic/discovering-cryptographic-weaknesses-with-claude/",
+          "headline_zh": "用 Claude 发现密码学弱点",
+          "summary_short_zh": "<p><strong><a href=\" 用 Claude 发现密码学弱点</a></strong></p> 这篇文章（这里是<a href=\" 代码仓库</a>）最精彩的部分，是讲 Anthropic 研究人员如何用 Claude Mythos 在 HAWK 和一个弱化版 AES 中找出数学缺陷（“这两项结果都还没有实际的",
+          "why_it_matters_zh": "该工具出现在 1 个独立信息源中。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "da721b98b479",
@@ -2283,7 +2366,11 @@
               "published_at": "2026-07-28T05:07:14-04:00"
             }
           ],
-          "route": "/hot/2026-07-29/topic/hugging-face-is-being-used-to-easily-undress-women-and-children/"
+          "route": "/hot/2026-07-29/topic/hugging-face-is-being-used-to-easily-undress-women-and-children/",
+          "headline_zh": "Hugging Face 正被用于轻易生成女性和儿童的裸体图像",
+          "summary_short_zh": "Hugging Face 正被用来制作未经同意的深度伪造内容，而这个热门的开源 AI 模型仓库几乎没有采取任何措施加以阻止。",
+          "why_it_matters_zh": "该工具出现在 1 个独立信息源中。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "46d91731298d",
@@ -2321,7 +2408,11 @@
               "published_at": "2026-07-28T08:30:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-29/topic/perplexity-s-personal-computer-turns-windows-pcs-into-ai-agents/"
+          "route": "/hot/2026-07-29/topic/perplexity-s-personal-computer-turns-windows-pcs-into-ai-agents/",
+          "headline_zh": "Perplexity 的 Personal Computer 让 Windows PC 变成 AI 智能体",
+          "summary_short_zh": "Perplexity 将其智能体产品 Personal Computer 扩展到 Windows 平台，让运行这一全球最流行操作系统的电脑可以作为本地 AI 系统使用。",
+          "why_it_matters_zh": "该工具出现在 1 个独立信息源中。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "8c5a0a99dbdc",
@@ -2368,7 +2459,11 @@
               "published_at": "2026-07-28T21:28:54+00:00"
             }
           ],
-          "route": "/hot/2026-07-29/topic/anatomy-of-a-frontier-lab-agent-intrusion-a-technical-timeline-of-the-july-2026-incident/"
+          "route": "/hot/2026-07-29/topic/anatomy-of-a-frontier-lab-agent-intrusion-a-technical-timeline-of-the-july-2026-incident/",
+          "headline_zh": "前沿实验室智能体入侵解剖：2026 年 7 月事件的技术时间线",
+          "summary_short_zh": "<p><strong><a href=\" 前沿实验室智能体入侵解剖：2026 年 7 月事件的技术时间线</a></strong></p> Hugging Face 刚刚发布了这份极其详尽的技术说明，讲述<a href=\" 近期针对其基础设施的意外网络攻击</a>。",
+          "why_it_matters_zh": "该工具出现在 2 个独立信息源中。",
+          "category_zh": "工具"
         }
       ]
     },
@@ -2412,7 +2507,11 @@
               "published_at": "2026-07-28T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-07-29/topic/hifi-umi-learning-deployable-manipulation-policies-from-high-fidelity-umi-data-alone/"
+          "route": "/hot/2026-07-29/topic/hifi-umi-learning-deployable-manipulation-policies-from-high-fidelity-umi-data-alone/",
+          "headline_zh": "HiFi-UMI：仅用高保真 UMI 数据学习可部署的操作策略",
+          "summary_short_zh": "可部署操作策略的学习瓶颈，在于既高保真又可规模化的数据太过稀缺。",
+          "why_it_matters_zh": "该研究论文出现在 1 个独立信息源中。",
+          "category_zh": "研究"
         }
       ]
     }
@@ -2458,7 +2557,11 @@
               "published_at": "Tue, 28 Jul 2026 21:36:39 +0000"
             }
           ],
-          "route": "/hot/2026-07-29/topic/we-now-have-a-better-understanding-how-openai-hacked-into-hugging-face/"
+          "route": "/hot/2026-07-29/topic/we-now-have-a-better-understanding-how-openai-hacked-into-hugging-face/",
+          "headline_zh": "我们现在更清楚 OpenAI 是如何入侵 Hugging Face 的",
+          "summary_short_zh": "从 OpenAI 模型利用 JFrog Artifactory 0-day 漏洞，到补丁发布，中间过了 10 天",
+          "why_it_matters_zh": "该内容出现在 1 个独立信息源中。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "e4d4c37f370f",
@@ -2496,7 +2599,10 @@
               "published_at": "2026-07-28T16:09:27Z"
             }
           ],
-          "route": "/hot/2026-07-29/topic/uncensored-open-llms-are-measurably-more-optimistic-than-their-base-models/"
+          "route": "/hot/2026-07-29/topic/uncensored-open-llms-are-measurably-more-optimistic-than-their-base-models/",
+          "headline_zh": "“无审查”开源大模型在可测量的意义上比其基础模型更乐观",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "b84eae703cfe",
@@ -2534,7 +2640,10 @@
               "published_at": "2026-07-29T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-29/topic/4-min-read-largest-open-weight-model-ever-is-now-available/"
+          "route": "/hot/2026-07-29/topic/4-min-read-largest-open-weight-model-ever-is-now-available/",
+          "headline_zh": "阅读需 4 分钟：史上规模最大的开放权重模型现已发布",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "4ccc467a7d0b",
@@ -2572,7 +2681,10 @@
               "published_at": "2026-07-29T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-29/topic/moonshot-lets-history-s-largest-open-model-loose/"
+          "route": "/hot/2026-07-29/topic/moonshot-lets-history-s-largest-open-model-loose/",
+          "headline_zh": "Moonshot 发布史上规模最大的开放模型",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "c90807d99a56",
@@ -2610,7 +2722,11 @@
               "published_at": "Tue, 28 Jul 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-07-29/topic/open-weights-do-not-mean-easy-access/"
+          "route": "/hot/2026-07-29/topic/open-weights-do-not-mean-easy-access/",
+          "headline_zh": "开放权重不等于使用门槛低",
+          "summary_short_zh": "@ZhihuFrontier 的成本分析对“开放”这一说法提出了有益的质疑，认为 K3 实际上是一项基础设施工程。",
+          "why_it_matters_zh": "这项行业举措见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "a77ab96e9913",
@@ -2648,7 +2764,11 @@
               "published_at": "Tue, 28 Jul 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-07-29/topic/benchmark-integrity-has-become-a-major-engineering-problem/"
+          "route": "/hot/2026-07-29/topic/benchmark-integrity-has-become-a-major-engineering-problem/",
+          "headline_zh": "基准测试的可信度已成为一大工程难题",
+          "summary_short_zh": "PostTrainBench v1.1 的反作弊基础设施比排行榜更值得关注。",
+          "why_it_matters_zh": "这项行业举措见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "4535f705fb0f",
@@ -2686,7 +2806,11 @@
               "published_at": "Tue, 28 Jul 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-07-29/topic/infrastructure-is-part-of-the-release-not-an-afterthought/"
+          "route": "/hot/2026-07-29/topic/infrastructure-is-part-of-the-release-not-an-afterthought/",
+          "headline_zh": "基础设施是发布内容的一部分，而非事后补充",
+          "summary_short_zh": "Moonshot 随模型一同发布了 MoonEP、FlashKDA 和 AgentEnv，表明对 K3 而言，通信、计算内核和沙箱环境中的智能体训练与模型架构同样重要。",
+          "why_it_matters_zh": "这项行业举措见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "718637d0045b",
@@ -2724,7 +2848,11 @@
               "published_at": "2026-07-28T08:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-29/topic/smart-rings-are-looking-like-my-kind-of-ai-gadget/"
+          "route": "/hot/2026-07-29/topic/smart-rings-are-looking-like-my-kind-of-ai-gadget/",
+          "headline_zh": "智能戒指似乎正是我喜欢的那类 AI 设备",
+          "summary_short_zh": "过去几个月，我花了很多时间和电脑说话。大语言模型革命带来了一项被低估的进步：各类语音转写技术突飞猛进，就连速度最快、价格最低的模型，如今也已能很好地理解和处理语音。",
+          "why_it_matters_zh": "这一观点见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -2766,7 +2894,11 @@
           "published_at": "2026-07-29T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-07-29/topic/act-2-preview-generalizing-reliability-sunday-robotics/"
+      "route": "/hot/2026-07-29/topic/act-2-preview-generalizing-reliability-sunday-robotics/",
+      "headline_zh": "ACT-2 预览：可靠性的泛化（Sunday robotics）",
+      "summary_short_zh": "ACT-2 预览：可靠性的泛化（Sunday robotics",
+      "why_it_matters_zh": "这则产品发布消息见于 1 个独立来源。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "f948b1eacfdb",
@@ -2810,7 +2942,11 @@
           "published_at": "2026-07-28T14:16:19Z"
         }
       ],
-      "route": "/hot/2026-07-29/topic/0xwilliamortiz-ponytail-improved/"
+      "route": "/hot/2026-07-29/topic/0xwilliamortiz-ponytail-improved/",
+      "headline_zh": "0xwilliamortiz/ponytail-improved",
+      "summary_short_zh": "让你的 AI 智能体像在场最懒的资深开发者一样思考。最好的代码，就是你不用写的代码",
+      "why_it_matters_zh": "这款工具见于 1 个独立来源。",
+      "category_zh": "工具"
     }
   ],
   "x_buzz": [

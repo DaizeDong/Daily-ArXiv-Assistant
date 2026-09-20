@@ -1976,7 +1976,14 @@
           "published_at": "Mon, 03 Aug 2026 17:24:15 +0000"
         }
       ],
-      "route": "/hot/2026-08-04/topic/from-weeks-to-minutes-how-formula-1-uses-agentic-ai-on-aws-to-accelerate-data-operations/"
+      "route": "/hot/2026-08-04/topic/from-weeks-to-minutes-how-formula-1-uses-agentic-ai-on-aws-to-accelerate-data-operations/",
+      "headline_zh": "从数周缩短至几分钟：Formula 1® 如何利用 AWS 上的智能体 AI 加速数据运营",
+      "summary_short_zh": "Formula 1® 与 AWS 合作打造 Data Accelerator，利用 Amazon Bedrock AgentCore 上的智能体 AI 改造其营销技术数据平台。",
+      "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Formula 1® 与 AWS 合作打造 Data Accelerator，利用 Amazon Bedrock AgentCore 上的智能体 AI 改造其营销技术数据平台。了解 F1 如何将数据源接入耗时从最长..."
+      ]
     },
     {
       "topic_id": "a5cd9d82c0dc",
@@ -2025,7 +2032,14 @@
           "published_at": "Mon, 03 Aug 2026 22:00:00 GMT"
         }
       ],
-      "route": "/hot/2026-08-04/topic/apple-is-getting-this-wrong/"
+      "route": "/hot/2026-08-04/topic/apple-is-getting-this-wrong/",
+      "headline_zh": "Apple 在这件事上错了",
+      "summary_short_zh": "OpenAI 回应 Apple 毫无根据的诉讼，澄清有关其员工的说法，并公开记录事件经过的通信内容",
+      "why_it_matters_zh": "有 2 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "OpenAI 回应 Apple 毫无根据的诉讼，澄清有关其员工的说法，并公开记录事件经过的通信内容。"
+      ]
     },
     {
       "topic_id": "24c8e4bccba0",
@@ -2065,7 +2079,14 @@
           "published_at": "Mon, 03 Aug 2026 16:30:58 +0000"
         }
       ],
-      "route": "/hot/2026-08-04/topic/automated-reasoning-policy-refinement-in-amazon-bedrock/"
+      "route": "/hot/2026-08-04/topic/automated-reasoning-policy-refinement-in-amazon-bedrock/",
+      "headline_zh": "Amazon Bedrock 中的自动推理策略优化",
+      "summary_short_zh": "Amazon Bedrock 现已支持自动推理策略的自动优化。优化引擎可诊断未通过的测试，并针对规则和语言问题提出基于形式逻辑的修正方案，每项变更都需经你批准后才会生效。",
+      "why_it_matters_zh": "有 1 个独立来源报道了这一行业动态。",
+      "category_zh": "行业动态",
+      "key_takeaways_zh": [
+        "Amazon Bedrock 现已支持自动推理策略的自动优化。优化引擎可诊断未通过的测试，并针对规则和语言问题提出基于形式逻辑的修正方案，而你..."
+      ]
     },
     {
       "topic_id": "dd515f47f714",
@@ -2105,7 +2126,14 @@
           "published_at": "Mon, 03 Aug 2026 19:28:57 +0000"
         }
       ],
-      "route": "/hot/2026-08-04/topic/design-arena-creators-raise-7-9-million-to-bring-taste-to-ai-models/"
+      "route": "/hot/2026-08-04/topic/design-arena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+      "headline_zh": "Design Arena 创始团队融资 790 万美元，让 AI 模型具备审美能力",
+      "summary_short_zh": "Design Arena 在全球拥有 530 万用户，为前沿 AI 实验室提供关键的人工评估",
+      "why_it_matters_zh": "有 1 个独立来源报道了此次融资。",
+      "category_zh": "市场信号",
+      "key_takeaways_zh": [
+        "Design Arena 在全球拥有 530 万用户，为前沿 AI 实验室提供关键的人工评估。"
+      ]
     },
     {
       "topic_id": "009399171391",
@@ -2145,7 +2173,14 @@
           "published_at": "2026-07-31T13:33:13Z"
         }
       ],
-      "route": "/hot/2026-08-04/topic/thinkany-ai-dscode/"
+      "route": "/hot/2026-08-04/topic/thinkany-ai-dscode/",
+      "headline_zh": "thinkany-ai/dscode",
+      "summary_short_zh": "由 DeepSeek 驱动的编程智能体",
+      "why_it_matters_zh": "有 1 个独立来源报道了这款工具。",
+      "category_zh": "工具",
+      "key_takeaways_zh": [
+        "由 DeepSeek 驱动的编程智能体。"
+      ]
     }
   ],
   "category_sections": [
@@ -2189,7 +2224,11 @@
               "published_at": "Mon, 03 Aug 2026 00:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-08-04/topic/circles-powers-telco-personalization-with-openai-technology/"
+          "route": "/hot/2026-08-04/topic/circles-powers-telco-personalization-with-openai-technology/",
+          "headline_zh": "Circles 利用 OpenAI 技术打造个性化电信服务",
+          "summary_short_zh": "Circles 利用 OpenAI API 和 Codex 打造 AI 原生电信服务体验，使每用户平均收入（ARPU）增长 22%、用户流失率降低 9%，并提升开发效率",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "0d1878e3e5b8",
@@ -2227,7 +2266,11 @@
               "published_at": "Mon, 03 Aug 2026 07:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-08-04/topic/how-we-built-a-realtime-system-for-responsive-voice-ai-in-six-months/"
+          "route": "/hot/2026-08-04/topic/how-we-built-a-realtime-system-for-responsive-voice-ai-in-six-months/",
+          "headline_zh": "我们如何在六个月内构建出快速响应的语音 AI 实时系统",
+          "summary_short_zh": "GPT-Live 采用不分轮次的语音模型和低延迟架构，支持与 AI 持续进行语音交互，让对话更快速、更自然",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "0266955fb301",
@@ -2265,7 +2308,11 @@
               "published_at": "2026-08-03T07:01:11-04:00"
             }
           ],
-          "route": "/hot/2026-08-04/topic/china-8217-s-alibaba-takes-another-swipe-at-america-s-ai-supremacy/"
+          "route": "/hot/2026-08-04/topic/china-8217-s-alibaba-takes-another-swipe-at-america-s-ai-supremacy/",
+          "headline_zh": "中国阿里巴巴再度挑战美国的 AI 霸主地位",
+          "summary_short_zh": "中国科技巨头阿里巴巴发布了其自称规模最大、“迄今能力最强”的 AI 模型，宣称性能可媲美美国前沿 AI 实验室 Anthropic 和 OpenAI 的顶尖系统，以及月之暗面的 Kimi K3 等国内竞品。",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "b5f1a568b0e7",
@@ -2303,7 +2350,10 @@
               "published_at": "2026-08-03T16:32:06Z"
             }
           ],
-          "route": "/hot/2026-08-04/topic/launch-hn-hoplite-yc-s26-effortlessly-deploy-cloud-coding-agents/"
+          "route": "/hot/2026-08-04/topic/launch-hn-hoplite-yc-s26-effortlessly-deploy-cloud-coding-agents/",
+          "headline_zh": "Launch HN：Hoplite（YC S26）——轻松部署云端编程智能体",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2347,7 +2397,10 @@
               "published_at": "2026-08-03T02:30:30Z"
             }
           ],
-          "route": "/hot/2026-08-04/topic/openai-s-super-pac-is-funding-ai-generated-news-site-attacking-industry-critics/"
+          "route": "/hot/2026-08-04/topic/openai-s-super-pac-is-funding-ai-generated-news-site-attacking-industry-critics/",
+          "headline_zh": "OpenAI 的超级政治行动委员会正资助一家用 AI 生成新闻、攻击行业批评者的网站",
+          "why_it_matters_zh": "有 1 个独立来源报道了这笔资助。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -2391,7 +2444,11 @@
               "published_at": "Mon, 03 Aug 2026 23:19:50 +0000"
             }
           ],
-          "route": "/hot/2026-08-04/topic/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/"
+          "route": "/hot/2026-08-04/topic/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+          "headline_zh": "交出亮眼季度业绩后，Palantir 首席执行官 Alex Karp 称 AI 行业奉行“马克思主义”",
+          "summary_short_zh": "在单季盈利 10 亿美元后，Palantir 首席执行官 Alex Karp 周一再次警告称，前沿 AI 实验室不值得企业信任",
+          "why_it_matters_zh": "有 1 个独立来源报道了这一行业动向。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "c842e95c2ba4",
@@ -2429,7 +2486,10 @@
               "published_at": "2026-08-04T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-04/topic/import-ai-455-ai-systems-are-about-to-start-building-themselves-what-does-that-mean/"
+          "route": "/hot/2026-08-04/topic/import-ai-455-ai-systems-are-about-to-start-building-themselves-what-does-that-mean/",
+          "headline_zh": "Import AI 第 455 期：“AI 系统即将开始构建自身。这意味着什么？”",
+          "why_it_matters_zh": "这则其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "1b41340b9045",
@@ -2467,7 +2527,10 @@
               "published_at": "2026-08-04T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-04/topic/import-ai-467-self-sustaining-ai-viruses-pacing-ai-progress-confusion-about-ai-and-creativity/"
+          "route": "/hot/2026-08-04/topic/import-ai-467-self-sustaining-ai-viruses-pacing-ai-progress-confusion-about-ai-and-creativity/",
+          "headline_zh": "Import AI 第 467 期：可自我维持的 AI 病毒；把握 AI 发展节奏；关于 AI 与创造力的困惑",
+          "why_it_matters_zh": "这则其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "fa8d22762b4a",
@@ -2505,7 +2568,11 @@
               "published_at": "2026-08-04T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-04/topic/ten-advances-in-mathematics-and-theoretical-computer-science-openai-blog/"
+          "route": "/hot/2026-08-04/topic/ten-advances-in-mathematics-and-theoretical-computer-science-openai-blog/",
+          "headline_zh": "数学与理论计算机科学的十大进展（OpenAI 博客）",
+          "summary_short_zh": "数学与理论计算机科学的十大进展（OpenAI 博客",
+          "why_it_matters_zh": "这则其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "fa49effc0fa3",
@@ -2543,7 +2610,11 @@
               "published_at": "Tue, 04 Aug 2026 01:27:41 +0000"
             }
           ],
-          "route": "/hot/2026-08-04/topic/app-75-gpu/"
+          "route": "/hot/2026-08-04/topic/app-75-gpu/",
+          "headline_zh": "亿级日活App的“算力生死劫”：推理成本倒挂，他们靠跨云架构砍掉75% GPU集群",
+          "summary_short_zh": "出海AI，正被“三重算力锁链\"捆死",
+          "why_it_matters_zh": "这则其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -2587,7 +2658,11 @@
               "published_at": "Mon, 03 Aug 2026 20:00:00 +0000"
             }
           ],
-          "route": "/hot/2026-08-04/topic/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/"
+          "route": "/hot/2026-08-04/topic/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+          "headline_zh": "AWS 正在助力氛围编程初创公司 Superblocks，此举意义重大",
+          "summary_short_zh": "AWS 现已允许将氛围编程工具 Superblocks 嵌入 AWS 客户的私有云。这是推动应用与模型解耦的又一步。",
+          "why_it_matters_zh": "有 1 个独立来源提及该工具。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "772cebe4894b",
@@ -2625,7 +2700,11 @@
               "published_at": "2026-08-03T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-08-04/topic/swe-touch-benchmarking-coding-agents-when-users-touch-the-code/"
+          "route": "/hot/2026-08-04/topic/swe-touch-benchmarking-coding-agents-when-users-touch-the-code/",
+          "headline_zh": "SWE-Touch：用户修改代码时的编程智能体基准评测",
+          "summary_short_zh": "真实软件开发要求编程智能体在共享工作区中运行，用户可能在任务进行中查看和修改代码。然而，现有仓库级基准测试通常只评估智能体独立工作的情况，或将用户参与限制为发送消息。",
+          "why_it_matters_zh": "有 1 个独立来源提及该工具。",
+          "category_zh": "工具"
         }
       ]
     },
@@ -2669,7 +2748,11 @@
               "published_at": "2026-08-03T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-08-04/topic/longhorizon-harness-advancing-long-horizon-agents-for-real-world-tasks/"
+          "route": "/hot/2026-08-04/topic/longhorizon-harness-advancing-long-horizon-agents-for-real-world-tasks/",
+          "headline_zh": "LongHorizon-Harness：提升长程智能体处理现实任务的能力",
+          "summary_short_zh": "大语言模型（LLM）智能体越来越多地承担长程任务，需要在许多相互依赖的步骤中持续推理、调用工具并进行修正。",
+          "why_it_matters_zh": "有 1 个独立来源提及这篇研究论文。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "829dbe916a70",
@@ -2707,7 +2790,11 @@
               "published_at": "2026-08-03T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-08-04/topic/motion-beyond-morphology-bootstrapping-cross-category-motion-transfer-from-abstract-motion-representations/"
+          "route": "/hot/2026-08-04/topic/motion-beyond-morphology-bootstrapping-cross-category-motion-transfer-from-abstract-motion-representations/",
+          "headline_zh": "超越形态的运动：以抽象运动表示引导跨类别运动迁移",
+          "summary_short_zh": "视频运动迁移旨在利用参考视频中的运动信息驱动目标对象。现有方法大多依赖固定的结构对应关系，但当参考对象与目标对象在形态、关节结构或形变机制上差异显著时，这种关系便难以明确定义。",
+          "why_it_matters_zh": "有 1 个独立来源提及这篇研究论文。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "1bcfbfb7f1fb",
@@ -2745,7 +2832,11 @@
               "published_at": "2026-08-03T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-08-04/topic/progressive-agent-skill-generation-via-reinforcement-learning/"
+          "route": "/hot/2026-08-04/topic/progressive-agent-skill-generation-via-reinforcement-learning/",
+          "headline_zh": "基于强化学习的渐进式智能体技能生成",
+          "summary_short_zh": "现有技能生成方法大多依赖启发式规则或流水线式整合，需要针对不同证据来源专门设计。相比之下，基于学习的方法能以更统一的方式，对利用异构来源生成技能的过程进行建模。",
+          "why_it_matters_zh": "有 1 个独立来源提及这篇研究论文。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "c5c34225e416",
@@ -2783,7 +2874,11 @@
               "published_at": "2026-08-03T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-08-04/topic/swantale-unified-multi-speaker-speech-and-audio-generation-for-instruct-and-zero-shot-tasks/"
+          "route": "/hot/2026-08-04/topic/swantale-unified-multi-speaker-speech-and-audio-generation-for-instruct-and-zero-shot-tasks/",
+          "headline_zh": "SwanTale：面向指令和零样本任务的统一多说话人语音与音频生成",
+          "summary_short_zh": "动画配音、有声剧、电影、广告、游戏、播客和短视频制作中，经常需要生成语音和音频。",
+          "why_it_matters_zh": "有 1 个独立来源提及这篇研究论文。",
+          "category_zh": "研究"
         }
       ]
     }
@@ -2829,7 +2924,10 @@
               "published_at": "Tue, 04 Aug 2026 06:47:06 +0000"
             }
           ],
-          "route": "/hot/2026-08-04/topic/ai-om-ai-ai/"
+          "route": "/hot/2026-08-04/topic/ai-om-ai-ai/",
+          "headline_zh": "资本重仓端侧物理AI：前海母基金数亿元押注，Om AI联汇加速端侧AI商业化落地",
+          "why_it_matters_zh": "有 1 个独立来源提及这条资讯。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "82d6e6e0ac1b",
@@ -2867,7 +2965,11 @@
               "published_at": "Mon, 03 Aug 2026 19:09:56 +0000"
             }
           ],
-          "route": "/hot/2026-08-04/topic/influencers-draw-backlash-for-attending-openai-s-first-luxury-trip/"
+          "route": "/hot/2026-08-04/topic/influencers-draw-backlash-for-attending-openai-s-first-luxury-trip/",
+          "headline_zh": "网红因参加 OpenAI 首次豪华旅行活动遭到批评",
+          "summary_short_zh": "围绕 AI 使用的争议仍在持续，OpenAI 首次面向网红举办的品牌旅行活动引发了网络批评。",
+          "why_it_matters_zh": "有 1 个独立来源提及这条资讯。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "47da4fb5ef08",
@@ -2905,7 +3007,11 @@
               "published_at": "2026-08-03T23:45:04+00:00"
             }
           ],
-          "route": "/hot/2026-08-04/topic/don-t-be-a-meat-proxy/"
+          "route": "/hot/2026-08-04/topic/don-t-be-a-meat-proxy/",
+          "headline_zh": "别当人肉代理",
+          "summary_short_zh": "<p><strong><a href=\" 当人肉代理</a></strong></p> Niklas Gruhn 创造了一个很妙的新词：<strong>人肉代理</strong>，指那些不加思考地把 AI 系统的输出复制粘贴给同伴的人。</p> <blockquote> <p>当然可以向 AI 提问，但别只是转发它的输出。",
+          "why_it_matters_zh": "有 1 个独立来源提及这条资讯。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "2ab9c272f031",
@@ -2943,7 +3049,11 @@
               "published_at": "Mon, 03 Aug 2026 18:43:43 +0000"
             }
           ],
-          "route": "/hot/2026-08-04/topic/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/"
+          "route": "/hot/2026-08-04/topic/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
+          "headline_zh": "苹果终于修好了 Siri，为什么却没那么惊艳？",
+          "summary_short_zh": "苹果备受期待的 AI 全面升级，终于让 Siri 成为它本该成为的助手。然而如今，光是做个能干的 AI 助手，已算不上革命性突破。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "c0653584b303",
@@ -2981,7 +3091,11 @@
               "published_at": "2026-08-03T13:38:45-04:00"
             }
           ],
-          "route": "/hot/2026-08-04/topic/europe-s-ai-labeling-and-transparency-rules-are-now-in-effect/"
+          "route": "/hot/2026-08-04/topic/europe-s-ai-labeling-and-transparency-rules-are-now-in-effect/",
+          "headline_zh": "欧洲的 AI 标识和透明度规则现已生效",
+          "summary_short_zh": "欧盟已出台一些补充规定，旨在让人们更容易识别网上的聊天机器人和 AI 深度伪造内容。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "027cf8e18c21",
@@ -3026,7 +3140,10 @@
               "published_at": "2026-08-04T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-04/topic/4-min-read-unreleased-openai-model-solves-10-open-problems/"
+          "route": "/hot/2026-08-04/topic/4-min-read-unreleased-openai-model-solves-10-open-problems/",
+          "headline_zh": "阅读需 4 分钟：OpenAI 尚未发布的模型解决了 10 个未解难题",
+          "why_it_matters_zh": "这条其他类资讯见于 2 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "65570af23a03",
@@ -3064,7 +3181,10 @@
               "published_at": "2026-08-03T21:13:53Z"
             }
           ],
-          "route": "/hot/2026-08-04/topic/llms-reward-expertise/"
+          "route": "/hot/2026-08-04/topic/llms-reward-expertise/",
+          "headline_zh": "大语言模型让专业知识更有价值",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "70e6a18053c0",
@@ -3102,7 +3222,10 @@
               "published_at": "2026-08-04T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-04/topic/openai-s-models-cut-their-own-costs/"
+          "route": "/hot/2026-08-04/topic/openai-s-models-cut-their-own-costs/",
+          "headline_zh": "OpenAI 的模型给自己降本",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -3144,7 +3267,11 @@
           "published_at": "2026-07-31T02:23:16Z"
         }
       ],
-      "route": "/hot/2026-08-04/topic/littlelelephant-literature-review-agent/"
+      "route": "/hot/2026-08-04/topic/littlelelephant-literature-review-agent/",
+      "headline_zh": "littlelelephant/literature-review-agent",
+      "summary_short_zh": "基于 LangGraph 的智能体，支持文献检索、证据筛选、大纲生成，以及基于证据的综述撰写",
+      "why_it_matters_zh": "这款工具见于 1 个独立来源。",
+      "category_zh": "工具"
     },
     {
       "topic_id": "d3d9d362677e",
@@ -3182,7 +3309,11 @@
           "published_at": "2026-07-31T17:54:30Z"
         }
       ],
-      "route": "/hot/2026-08-04/topic/0xwilliamortiz-ratchet/"
+      "route": "/hot/2026-08-04/topic/0xwilliamortiz-ratchet/",
+      "headline_zh": "0xwilliamortiz/ratchet",
+      "summary_short_zh": "你的智能体会读规则，这款工具检查它是否遵守了规则",
+      "why_it_matters_zh": "这款工具见于 1 个独立来源。",
+      "category_zh": "工具"
     },
     {
       "topic_id": "079974a84278",
@@ -3220,7 +3351,11 @@
           "published_at": "2026-07-31T21:38:51Z"
         }
       ],
-      "route": "/hot/2026-08-04/topic/trycompai-crm/"
+      "route": "/hot/2026-08-04/topic/trycompai-crm/",
+      "headline_zh": "trycompai/crm",
+      "summary_short_zh": "一款以智能体为核心的开源 CRM",
+      "why_it_matters_zh": "这款工具见于 1 个独立来源。",
+      "category_zh": "工具"
     }
   ],
   "x_buzz": [

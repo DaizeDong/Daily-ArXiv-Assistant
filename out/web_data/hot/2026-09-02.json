@@ -2191,7 +2191,16 @@
           "published_at": "2026-09-01T18:01:36-04:00"
         }
       ],
-      "route": "/hot/2026-09-02/topic/introducing-claude-fable-5-1-on-aws/"
+      "route": "/hot/2026-09-02/topic/introducing-claude-fable-5-1-on-aws/",
+      "headline_zh": "Claude Fable 5.1 登陆 AWS",
+      "summary_short_zh": "Claude Fable 5.1 现已上线 Amazon Bedrock 和 AWS 上的 Claude Platform。本文介绍 Claude Fable 5.1 的改进、企业级前沿安全防护措施（Enterprise Frontier Safeguards）如何确保数据留在您掌控的云环境中，以及如何在 Amazon Bedrock 上使用该模型构建应用",
+      "why_it_matters_zh": "6 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Anthropic 表示，其最新 AI 模型 Fable 5.1 和 Mythos 5.1 回应了客户对价格、数据保留和安全防护过于严格的批评。该公司称，Claude Fable 5.1 可提供……",
+        "<p>今天是 <a href=\"https://www.anthropic.com/claude-fable-and-mythos-5-1\">Claude Fable（以及 Mythos）5.1 发布日</a>。Anthropic 表示，Fable 5.1“在编程、知识工作等领域树立了新标准……",
+        "Fable 5.1 的改进旨在降低 token 成本，并减少安全防护误判造成的限制。"
+      ]
     },
     {
       "topic_id": "cc3993051c1c",
@@ -2231,7 +2240,14 @@
           "published_at": "Tue, 01 Sep 2026 20:45:00 +0000"
         }
       ],
-      "route": "/hot/2026-09-02/topic/the-latest-ai-news-we-announced-in-august-2026/"
+      "route": "/hot/2026-09-02/topic/the-latest-ai-news-we-announced-in-august-2026/",
+      "headline_zh": "我们在 2026 年 8 月发布的最新 AI 消息",
+      "summary_short_zh": "切换展示的卡片：1. Gemini 标志图标旁写着“Gemini 3.7 Flash”；2. 一张 Pixel 手机照片；3. Google Gemini 标志下方写着“免费领取一年学生套餐”",
+      "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "切换展示的卡片：1. Gemini 标志图标旁写着“Gemini 3.7 Flash”；2. 一张 Pixel 手机照片；3. Google Gemini 标志下方写着“免费领取一年学生套餐”"
+      ]
     },
     {
       "topic_id": "4fa181df4727",
@@ -2271,7 +2287,14 @@
           "published_at": "Tue, 01 Sep 2026 18:40:06 +0000"
         }
       ],
-      "route": "/hot/2026-09-02/topic/mapping-global-methane-emissions-from-space-with-deep-learning/"
+      "route": "/hot/2026-09-02/topic/mapping-global-methane-emissions-from-space-with-deep-learning/",
+      "headline_zh": "利用深度学习从太空绘制全球甲烷排放图",
+      "summary_short_zh": "气候与可持续发展",
+      "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "气候与可持续发展"
+      ]
     },
     {
       "topic_id": "f581027dcb02",
@@ -2321,7 +2344,15 @@
           "published_at": "Tue, 01 Sep 2026 21:06:24 +0000"
         }
       ],
-      "route": "/hot/2026-09-02/topic/path-to-astra-critical-capabilities-and-frontier-safeguards/"
+      "route": "/hot/2026-09-02/topic/path-to-astra-critical-capabilities-and-frontier-safeguards/",
+      "headline_zh": "迈向 Astra：关键能力与前沿安全防护",
+      "summary_short_zh": "Astra 是 OpenAI 首个达到《风险防范框架》中 Critical（严重）级网络安全能力门槛的模型，发布时将配备更严格的安全防护措施",
+      "why_it_matters_zh": "2 个独立来源报道了该工具。",
+      "category_zh": "工具",
+      "key_takeaways_zh": [
+        "Astra 是 OpenAI 首个达到《风险防范框架》中 Critical（严重）级网络安全能力门槛的模型，发布时将配备更严格的安全防护措施。",
+        "OpenAI 预先介绍了为发布最新大语言模型 Astra 而采取的防范措施，该模型的网络安全能力已达到 Critical（严重）级。"
+      ]
     },
     {
       "topic_id": "02fa31a00ac2",
@@ -2361,7 +2392,14 @@
           "published_at": "Tue, 01 Sep 2026 15:45:36 +0000"
         }
       ],
-      "route": "/hot/2026-09-02/topic/how-boomi-scribe-streamlines-documentation-using-aws/"
+      "route": "/hot/2026-09-02/topic/how-boomi-scribe-streamlines-documentation-using-aws/",
+      "headline_zh": "Boomi Scribe 如何利用 AWS 简化文档编写",
+      "summary_short_zh": "Boomi Scribe 是一款运行在 AWS 上的 AI 智能体，可自动为企业集成工作流生成文档。",
+      "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Boomi Scribe 是一款运行在 AWS 上的 AI 智能体，可自动为企业集成工作流生成文档。了解 Boomi 如何使用 Amazon Bedrock、Amazon SageMaker AI、Amazon S3、Amaz..."
+      ]
     }
   ],
   "category_sections": [
@@ -2405,7 +2443,11 @@
               "published_at": "Tue, 01 Sep 2026 15:47:00 +0000"
             }
           ],
-          "route": "/hot/2026-09-02/topic/how-zs-democratized-secure-ad-hoc-analytics-with-amazon-sagemaker/"
+          "route": "/hot/2026-09-02/topic/how-zs-democratized-secure-ad-hoc-analytics-with-amazon-sagemaker/",
+          "headline_zh": "ZS 如何借助 Amazon SageMaker 普及安全的即席分析",
+          "summary_short_zh": "了解 ZS 如何构建经过安全加固的 Amazon SageMaker 平台，兼顾开发敏捷性与医疗级治理，为 200 多个 SageMaker 域中的 1,000 多名日活跃用户提供服务",
+          "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "b5905b426fab",
@@ -2443,7 +2485,11 @@
               "published_at": "Tue, 01 Sep 2026 15:50:00 +0000"
             }
           ],
-          "route": "/hot/2026-09-02/topic/how-t54-built-a-trust-layer-with-amazon-bedrock-agentcore-payments/"
+          "route": "/hot/2026-09-02/topic/how-t54-built-a-trust-layer-with-amazon-bedrock-agentcore-payments/",
+          "headline_zh": "t54 如何利用 Amazon Bedrock AgentCore 支付功能构建信任层",
+          "summary_short_zh": "t54 构建了 x402-secure，这是基于 Amazon Bedrock AgentCore 支付功能的信任层，会在自主智能体向每个端点付款前对其评分。",
+          "why_it_matters_zh": "此次产品发布由 1 个独立来源报道。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "4ad3e6c0413d",
@@ -2481,7 +2527,11 @@
               "published_at": "Tue, 01 Sep 2026 16:02:22 +0000"
             }
           ],
-          "route": "/hot/2026-09-02/topic/securing-amazon-quick-from-poc-to-production-agents-flows-and-spaces/"
+          "route": "/hot/2026-09-02/topic/securing-amazon-quick-from-poc-to-production-agents-flows-and-spaces/",
+          "headline_zh": "Amazon Quick 从概念验证到生产环境的安全保障：Agents、Flows 和 Spaces",
+          "summary_short_zh": "Amazon Quick 概念验证项目常在安全团队审查生产环境部署计划时陷入停滞。",
+          "why_it_matters_zh": "此次产品发布由 1 个独立来源报道。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "366d733a1b68",
@@ -2519,7 +2569,11 @@
               "published_at": "Tue, 01 Sep 2026 16:03:41 +0000"
             }
           ],
-          "route": "/hot/2026-09-02/topic/tokenomics-at-scale-how-jamf-built-real-time-spend-enforcement-for-amazon-bedrock/"
+          "route": "/hot/2026-09-02/topic/tokenomics-at-scale-how-jamf-built-real-time-spend-enforcement-for-amazon-bedrock/",
+          "headline_zh": "规模化 Token 成本管理：Jamf 如何为 Amazon Bedrock 构建实时支出管控",
+          "summary_short_zh": "随着生成式 AI 应用规模扩大，成本治理成为主要挑战之一。了解 Jamf 如何利用 IAM 客户托管策略、Amazon Athena 成本视图和无服务器 AWS Lambda 循环，为 Amazon Bedrock 实现按用户实时管控支出，并实施分级模型限制……",
+          "why_it_matters_zh": "此次产品发布由 1 个独立来源报道。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "5054188c752b",
@@ -2557,7 +2611,11 @@
               "published_at": "Tue, 01 Sep 2026 16:17:54 +0000"
             }
           ],
-          "route": "/hot/2026-09-02/topic/from-theory-to-delivery-how-atos-upskilled-400-engineers-in-agentic-ai/"
+          "route": "/hot/2026-09-02/topic/from-theory-to-delivery-how-atos-upskilled-400-engineers-in-agentic-ai/",
+          "headline_zh": "从理论到交付：Atos 如何提升 400 名工程师的智能体 AI 技能",
+          "summary_short_zh": "Atos 着手提升 400 名工程师的智能体 AI 技能时，缺少的是实践学习环节。工程师们通过为期三天的 AI League 活动，在 AWS 上构建了多智能体系统。",
+          "why_it_matters_zh": "此次产品发布由 1 个独立来源报道。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2601,7 +2659,11 @@
               "published_at": "Tue, 01 Sep 2026 22:08:24 +0000"
             }
           ],
-          "route": "/hot/2026-09-02/topic/afterquery-reportedly-becomes-y-combinator-s-fastest-ever-unicorn-now-valued-at-3-2b/"
+          "route": "/hot/2026-09-02/topic/afterquery-reportedly-becomes-y-combinator-s-fastest-ever-unicorn-now-valued-at-3-2b/",
+          "headline_zh": "据报道，AfterQuery 以 Y Combinator 史上最快速度跻身独角兽行列，现估值 32 亿美元",
+          "summary_short_zh": "据报道，AI 模型训练初创公司 AfterQuery 已完成一轮融资，估值达 32 亿美元，距其 4 月宣布以 3 亿美元估值完成 3000 万美元 A 轮融资仅过了五个月",
+          "why_it_matters_zh": "此次融资由 1 个独立来源报道。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "ccae4b6021a2",
@@ -2639,7 +2701,11 @@
               "published_at": "Tue, 01 Sep 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-09-02/topic/new-gemma-models-on-arena-ai/"
+          "route": "/hot/2026-09-02/topic/new-gemma-models-on-arena-ai/",
+          "headline_zh": "Arena AI 上出现新的 Gemma 模型",
+          "summary_short_zh": "Reddit 上一篇帖子称，分享的截图（图片）显示 Arena AI / Chatbot Arena 上出现了新的 Gemma 系列模型，并询问这是否意味着 Gemma 5 或其他变体即将发布。",
+          "why_it_matters_zh": "此次融资由 1 个独立来源报道。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "6a34e790d0ed",
@@ -2677,7 +2743,11 @@
               "published_at": "Tue, 01 Sep 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-09-02/topic/a-commenter-points-to-a-newly-merged-llama-cpp-optimization-pr-ggml-org-llama-cpp-28123-with-reported-mtp-throughput-improving-from-123-tok-s-to-183-tok-s-on-code-and-from-83-tok-s-to-144-tok-s-on-prose/"
+          "route": "/hot/2026-09-02/topic/a-commenter-points-to-a-newly-merged-llama-cpp-optimization-pr-ggml-org-llama-cpp-28123-with-reported-mtp-throughput-improving-from-123-tok-s-to-183-tok-s-on-code-and-from-83-tok-s-to-144-tok-s-on-prose/",
+          "headline_zh": "一位评论者提到了刚合并的 llama.cpp 优化 PR：ggml-org/llama.cpp#28123。据称，MTP 吞吐量在代码任务中从 123 tok/s 提升至 183 tok/s，在自然语言文本任务中从 83 tok/s 提升至 144 tok/s",
+          "summary_short_zh": "关键技术结论是：补丁合入前，在部分自然语言文本任务中，使用 MTP 草稿生成可能比不使用草稿更慢（83 tok/s，而不使用草稿时为 108 tok/s），但合并后，推测解码/MTP 解码似乎开始带来性能收益",
+          "why_it_matters_zh": "此次收购由 1 个独立来源报道。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "0001ed0e3ee5",
@@ -2715,7 +2785,11 @@
               "published_at": "Tue, 01 Sep 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-09-02/topic/mtp-released-for-qwen3-8-flash-next-gguf/"
+          "route": "/hot/2026-09-02/topic/mtp-released-for-qwen3-8-flash-next-gguf/",
+          "headline_zh": "Qwen3.8-Flash-Next-GGUF 的 MTP 支持已发布",
+          "summary_short_zh": "Qwen3.8-Flash-Next-GGUF 的 MTP（多 Token 预测/草稿生成）支持及相关文件受到关注，测试说明指向 Unsloth 的 llama.cpp 分叉仓库 PR（unslothai/llama.cpp#144），以及 Hugging Face 上该模型（unsloth/Qwen3.8-Flash-Next-GGUF）的 MTP README。",
+          "why_it_matters_zh": "此次收购由 1 个独立来源报道。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -2759,7 +2833,11 @@
               "published_at": "Tue, 01 Sep 2026 01:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-09-02/topic/how-law-firm-gilbert-tobin-governs-and-scales-ai-with-openai/"
+          "route": "/hot/2026-09-02/topic/how-law-firm-gilbert-tobin-governs-and-scales-ai-with-openai/",
+          "headline_zh": "Gilbert + Tobin 律所如何借助 OpenAI 治理并规模化应用 AI",
+          "summary_short_zh": "了解 Gilbert + Tobin 如何通过 CEO 带头推动、严格治理和明确人员责任，在全所规模化应用 ChatGPT Enterprise 和 Codex",
+          "why_it_matters_zh": "这条行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "c3dff70b8132",
@@ -2797,7 +2875,11 @@
               "published_at": "2026-09-02T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-02/topic/five-country-ministerial-2026-australian-government-department-of-home-affairs/"
+          "route": "/hot/2026-09-02/topic/five-country-ministerial-2026-australian-government-department-of-home-affairs/",
+          "headline_zh": "2026 年五国部长级会议（澳大利亚政府内政部）",
+          "summary_short_zh": "2026 年五国部长级会议（澳大利亚政府内政部",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "37e8f1d2eec4",
@@ -2835,7 +2917,10 @@
               "published_at": "2026-09-02T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-02/topic/import-ai-471-why-hugging-face-worries-me-space-mining-five-eyes-on-ai/"
+          "route": "/hot/2026-09-02/topic/import-ai-471-why-hugging-face-worries-me-space-mining-five-eyes-on-ai/",
+          "headline_zh": "Import AI 第 471 期：为什么 Hugging Face 让我担忧；太空采矿；五眼联盟关注 AI",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "8192e4491b66",
@@ -2873,7 +2958,11 @@
               "published_at": "2026-09-02T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-02/topic/the-rise-and-fall-of-agent-civilizations-dwarkesh-podcast/"
+          "route": "/hot/2026-09-02/topic/the-rise-and-fall-of-agent-civilizations-dwarkesh-podcast/",
+          "headline_zh": "智能体文明的兴衰（Dwarkesh Podcast）",
+          "summary_short_zh": "智能体文明的兴衰（Dwarkesh Podcast",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "a7b0f5fa6637",
@@ -2911,7 +3000,11 @@
               "published_at": "Wed, 02 Sep 2026 02:48:06 +0000"
             }
           ],
-          "route": "/hot/2026-09-02/topic/agent/"
+          "route": "/hot/2026-09-02/topic/agent/",
+          "headline_zh": "企业级Agent落地样板间！百融硅基员工批量上岗，按结果领工资",
+          "summary_short_zh": "AI客服日扛1.5万通电话",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -2955,7 +3048,11 @@
               "published_at": "2026-09-01T18:05:45+00:00"
             }
           ],
-          "route": "/hot/2026-09-02/topic/geojson-map-viewer/"
+          "route": "/hot/2026-09-02/topic/geojson-map-viewer/",
+          "headline_zh": "GeoJSON 地图查看器",
+          "summary_short_zh": "<p><strong>工具：</strong> <a href=\" 地图查看器</a></p> <p>我在帮 Natalie 收集当地行政区划地图（涉及<a href=\" 社区服务区</a>和<a href=\" 社区委员会</a>）时，发现需要在地图上显示一些 GeoJSON 文件，并将地图导出为 PNG 图片。",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "5db70248acde",
@@ -2993,7 +3090,11 @@
               "published_at": "Tue, 01 Sep 2026 17:35:37 +0000"
             }
           ],
-          "route": "/hot/2026-09-02/topic/google-s-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/"
+          "route": "/hot/2026-09-02/topic/google-s-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+          "headline_zh": "Google 对标 Canva 的 AI 工具：用提示词代替手动设计",
+          "summary_short_zh": "Google 借助 Google Pics 进一步进军 Canva 和 Adobe 主导的创意软件市场，但明确将 AI 放在首位",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     }
@@ -3039,7 +3140,11 @@
               "published_at": "Tue, 01 Sep 2026 12:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-09-02/topic/healthcare-organizations-can-now-connect-ehr-and-additional-industry-data-to-chatgpt/"
+          "route": "/hot/2026-09-02/topic/healthcare-organizations-can-now-connect-ehr-and-additional-industry-data-to-chatgpt/",
+          "headline_zh": "医疗机构现可将电子健康记录（EHR）及更多行业数据接入 ChatGPT",
+          "summary_short_zh": "ChatGPT 现可连接可信的医疗数据，帮助临床医生安全地获取患者相关信息、医学研究等内容",
+          "why_it_matters_zh": "这条产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "41fa14367a67",
@@ -3077,7 +3182,10 @@
               "published_at": "Tue, 01 Sep 2026 17:08:51 +0000"
             }
           ],
-          "route": "/hot/2026-09-02/topic/introducing-agentic-video-understanding-with-gemini/"
+          "route": "/hot/2026-09-02/topic/introducing-agentic-video-understanding-with-gemini/",
+          "headline_zh": "Gemini 推出智能体式视频理解能力",
+          "why_it_matters_zh": "这条产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "5c1fcafc905e",
@@ -3115,7 +3223,10 @@
               "published_at": "2026-09-01T15:12:53+00:00"
             }
           ],
-          "route": "/hot/2026-09-02/topic/evaluating-llms-under-production-parity-a-replay-pipeline-for-safe-model-swapping-in-conversational-agents/"
+          "route": "/hot/2026-09-02/topic/evaluating-llms-under-production-parity-a-replay-pipeline-for-safe-model-swapping-in-conversational-agents/",
+          "headline_zh": "在与生产环境一致的条件下评估大语言模型：用于对话智能体安全切换模型的回放流水线",
+          "why_it_matters_zh": "这条产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "7fa6f9bbf7a7",
@@ -3153,7 +3264,11 @@
               "published_at": "Tue, 01 Sep 2026 17:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-09-02/topic/how-ai-native-companies-turn-workflows-into-operating-capability/"
+          "route": "/hot/2026-09-02/topic/how-ai-native-companies-turn-workflows-into-operating-capability/",
+          "headline_zh": "AI 原生企业如何将工作流转化为运营能力",
+          "summary_short_zh": "Basis、Clay 和 Exa Labs 利用 AI 智能体优化入门引导、客户管理和开发者集成。看看企业管理者可以借鉴哪些做法",
+          "why_it_matters_zh": "这条产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "936a7b8acc63",
@@ -3191,7 +3306,11 @@
               "published_at": "2026-09-01T16:45:49-04:00"
             }
           ],
-          "route": "/hot/2026-09-02/topic/openai-delayed-its-new-model-s-development-after-the-hugging-face-hack/"
+          "route": "/hot/2026-09-02/topic/openai-delayed-its-new-model-s-development-after-the-hugging-face-hack/",
+          "headline_zh": "Hugging Face 遭入侵后，OpenAI 推迟新模型研发",
+          "summary_short_zh": "OpenAI 周二在博文中表示，一款尚未发布的模型造成严重混乱，登上国际新闻头条。此后，公司推迟了另一套尚未发布的模型 Astra 的研发，以加强安全工作。",
+          "why_it_matters_zh": "这条产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -3235,7 +3354,11 @@
               "published_at": "Wed, 02 Sep 2026 06:06:50 +0000"
             }
           ],
-          "route": "/hot/2026-09-02/topic/physical-ai/"
+          "route": "/hot/2026-09-02/topic/physical-ai/",
+          "headline_zh": "前字节强化学习专家孙鹏博士加盟星尘智能，完善Physical AI全栈技术布局",
+          "summary_short_zh": "9月2日，前字节跳动强化学习专家、前腾讯Robotics X智能体中⼼负责⼈孙鹏博⼠正式加入星尘智能",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "1561f38b1215",
@@ -3273,7 +3396,10 @@
               "published_at": "Wed, 02 Sep 2026 06:10:26 +0000"
             }
           ],
-          "route": "/hot/2026-09-02/topic/qwen3-8-max/"
+          "route": "/hot/2026-09-02/topic/qwen3-8-max/",
+          "headline_zh": "阿里更新旗舰模型Qwen3.8-Max，前端编程能力跃居全球第一",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "52b9ad497875",
@@ -3311,7 +3437,11 @@
               "published_at": "2026-09-01T19:03:01+00:00"
             }
           ],
-          "route": "/hot/2026-09-02/topic/codex-bundles-libreoffice/"
+          "route": "/hot/2026-09-02/topic/codex-bundles-libreoffice/",
+          "headline_zh": "Codex 内置 LibreOffice",
+          "summary_short_zh": "<p>我在 <code>~/.cache/</code> 文件夹里用 <a href=\" 随手翻看时，发现了一个有趣的东西。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }

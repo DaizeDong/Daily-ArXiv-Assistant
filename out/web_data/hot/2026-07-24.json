@@ -1926,7 +1926,14 @@
           "published_at": "Thu, 23 Jul 2026 16:30:20 +0000"
         }
       ],
-      "route": "/hot/2026-07-24/topic/agentic-retrieval-for-amazon-bedrock-managed-knowledge-base/"
+      "route": "/hot/2026-07-24/topic/agentic-retrieval-for-amazon-bedrock-managed-knowledge-base/",
+      "headline_zh": "Amazon Bedrock 托管知识库的智能体检索",
+      "summary_short_zh": "本文重点介绍传统检索为何难以应对包含多个子问题的提问、AgenticRetrieveStream API 的工作原理（包括请求构建和跟踪信息解析），以及何时它比标准 Retrieve API 更合适",
+      "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "本文重点介绍传统检索为何难以应对包含多个子问题的提问、AgenticRetrieveStream API 的工作原理（包括请求构建和跟踪信息解析），以及何时应优先选择它..."
+      ]
     },
     {
       "topic_id": "d31e519b857e",
@@ -1966,7 +1973,14 @@
           "published_at": "Thu, 23 Jul 2026 16:38:34 +0000"
         }
       ],
-      "route": "/hot/2026-07-24/topic/detecting-silent-agent-failures-with-amazon-bedrock-agentcore-optimization/"
+      "route": "/hot/2026-07-24/topic/detecting-silent-agent-failures-with-amazon-bedrock-agentcore-optimization/",
+      "headline_zh": "利用 Amazon Bedrock AgentCore 优化功能检测智能体的静默故障",
+      "summary_short_zh": "Amazon Bedrock AgentCore 优化功能可发现生产环境中 AI 智能体的静默行为故障：它们通过了所有健康检查，却仍会给出错误结果。了解洞察功能如何跨会话发现、解释故障模式并按优先级排序，帮助你优先解决影响最大的问题",
+      "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Amazon Bedrock AgentCore 优化功能可发现生产环境中 AI 智能体的静默行为故障：它们通过了所有健康检查，却仍会给出错误结果。了解洞察功能如何发现..."
+      ]
     },
     {
       "topic_id": "7e5e1f21f710",
@@ -2014,7 +2028,15 @@
           "published_at": "Thu, 23 Jul 2026 19:00:00 +0000"
         }
       ],
-      "route": "/hot/2026-07-24/topic/claude-s-voice-mode-is-now-available-for-opus-and-sonnet/"
+      "route": "/hot/2026-07-24/topic/claude-s-voice-mode-is-now-available-for-opus-and-sonnet/",
+      "headline_zh": "Claude 的语音模式现已支持 Opus 和 Sonnet",
+      "summary_short_zh": "此前，语音模式仅支持 Claude Haiku，即 Anthropic 速度更快但能力较弱的模型。现在，该公司让 Opus 和 Sonnet 也支持语音模式，并将功能扩展到 Gmail、Slack 和 Canva 等应用。",
+      "why_it_matters_zh": "此次产品发布有 2 个独立来源报道。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "此前，语音模式仅支持 Claude Haiku，即 Anthropic 速度更快但能力较弱的模型。现在，该公司让 Opus 和 Sonnet 也支持语音模式，并进一步扩展...",
+        "Claude 的新语音模型将能帮你重新安排会议或起草邮件。"
+      ]
     },
     {
       "topic_id": "4d7d65f8e7cb",
@@ -2063,7 +2085,14 @@
           "published_at": "2026-07-21T01:01:05Z"
         }
       ],
-      "route": "/hot/2026-07-24/topic/risa-labs-inc-bossconsole/"
+      "route": "/hot/2026-07-24/topic/risa-labs-inc-bossconsole/",
+      "headline_zh": "risa-labs-inc/BossConsole",
+      "summary_short_zh": "开源、跨平台的 AI 智能体运行框架，提供原生多线程操作控制台（基于 JVM，而非 Electron），可运行 Claude Code、Codex、Gemini 或 OpenCode，并配备真实浏览器、终端、编辑器、密钥管理和 100 多种 MCP 工具。专为企业及科研场景打造",
+      "why_it_matters_zh": "这款工具有 2 个独立来源提及。",
+      "category_zh": "工具",
+      "key_takeaways_zh": [
+        "开源、跨平台的 AI 智能体运行框架，提供原生多线程操作控制台（基于 JVM，而非 Electron），可运行 Claude Code、Codex、Gemini 或 OpenCode，并配备真实浏览器、终端、编辑器..."
+      ]
     },
     {
       "topic_id": "ad01ce324190",
@@ -2116,7 +2145,15 @@
           "published_at": "Thu, 23 Jul 2026 05:44:39 GMT"
         }
       ],
-      "route": "/hot/2026-07-24/topic/launching-health-in-chatgpt/"
+      "route": "/hot/2026-07-24/topic/launching-health-in-chatgpt/",
+      "headline_zh": "ChatGPT 健康功能上线",
+      "summary_short_zh": "ChatGPT 健康功能现已支持符合条件的美国用户安全接入医疗记录和 Apple Health，获取更个性化的分析，更好地了解自身健康状况",
+      "why_it_matters_zh": "此次产品发布有 3 个独立来源报道。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "ChatGPT 健康功能现已支持符合条件的美国用户安全接入医疗记录和 Apple Health，获取更个性化的分析，更好地了解自身健康状况。",
+        "OpenAI 将于周四向美国所有用户开放 ChatGPT Health，让更多人能将医疗记录和健康追踪信息接入这款聊天机器人。在一次简报会上，Ashl..."
+      ]
     }
   ],
   "category_sections": [
@@ -2160,7 +2197,11 @@
               "published_at": "Thu, 23 Jul 2026 23:03:44 +0000"
             }
           ],
-          "route": "/hot/2026-07-24/topic/best-practices-for-applying-amazon-bedrock-guardrails-to-code-generation-workflows/"
+          "route": "/hot/2026-07-24/topic/best-practices-for-applying-amazon-bedrock-guardrails-to-code-generation-workflows/",
+          "headline_zh": "在代码生成工作流中应用 Amazon Bedrock Guardrails 的最佳实践",
+          "summary_short_zh": "本文介绍如何在使用编程助手的代码生成工作流中配置 Amazon Bedrock Guardrails，以克服这些限制。遵循这些最佳实践，你可以制定高效方案，兼顾有效的容量规划与可靠的安全防护",
+          "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "898ed18a9f34",
@@ -2198,7 +2239,11 @@
               "published_at": "2026-07-23T17:15:06-04:00"
             }
           ],
-          "route": "/hot/2026-07-24/topic/alexa-plus-is-getting-an-ai-update-to-handle-more-complicated-instructions/"
+          "route": "/hot/2026-07-24/topic/alexa-plus-is-getting-an-ai-update-to-handle-more-complicated-instructions/",
+          "headline_zh": "Alexa Plus 将迎来 AI 更新，可处理更复杂的指令",
+          "summary_short_zh": "亚马逊正为 Alexa Plus 助手推出更新，使其能够以新的方式连接智能家居设备。",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "8f28ce1a455f",
@@ -2236,7 +2281,11 @@
               "published_at": "Thu, 23 Jul 2026 00:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-07-24/topic/the-production-platform-for-open-weight-ai-inference/"
+          "route": "/hot/2026-07-24/topic/the-production-platform-for-open-weight-ai-inference/",
+          "headline_zh": "面向生产环境的开放权重 AI 推理平台",
+          "summary_short_zh": "在生产环境中运行开放模型，全面掌控性能、成本和质量。几分钟即可部署，安全上线，并按服务等级目标（SLO）扩展规模",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "cd851621d1f9",
@@ -2274,7 +2323,11 @@
               "published_at": "Thu, 23 Jul 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-07-24/topic/openworker/"
+          "route": "/hot/2026-07-24/topic/openworker/",
+          "headline_zh": "OpenWorker",
+          "summary_short_zh": "@AndrewYNg 推出了一款开源且不依赖特定模型的本地智能体，用于处理文件和操作办公工具",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "8f9fd8cd8138",
@@ -2312,7 +2365,11 @@
               "published_at": "Thu, 23 Jul 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-07-24/topic/the-stack-v3-is-the-day-s-most-consequential-open-data-release/"
+          "route": "/hot/2026-07-24/topic/the-stack-v3-is-the-day-s-most-consequential-open-data-release/",
+          "headline_zh": "The Stack v3 是当天最重要的开放数据发布",
+          "summary_short_zh": "@anton_lozhkov 发布了 The Stack v3，这是目前公开发布的最大开放代码数据集：114 TB 原始数据、2.24 亿个代码仓库、440 亿个文件、770 种语言，以及约 5 万亿个经过去重和过滤的词元。",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2356,7 +2413,11 @@
               "published_at": "Thu, 23 Jul 2026 18:38:34 +0000"
             }
           ],
-          "route": "/hot/2026-07-24/topic/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/"
+          "route": "/hot/2026-07-24/topic/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
+          "headline_zh": "谷歌前安全高管创立的 AegisAI 获 3600 万美元融资，用于阻止 AI 驱动的鱼叉式网络钓鱼攻击",
+          "summary_short_zh": "AegisAI 联合创始人开发的 AI 智能体能像人类一样快速分析每条消息，留意连最详尽的检查清单也会漏掉的细微异常",
+          "why_it_matters_zh": "此次融资见于 1 个独立来源。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "59d64c89bb0b",
@@ -2400,7 +2461,11 @@
               "published_at": "Thu, 23 Jul 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-07-24/topic/model-distillation-accusations-are-getting-way-overblown-at-this-point/"
+          "route": "/hot/2026-07-24/topic/model-distillation-accusations-are-getting-way-overblown-at-this-point/",
+          "headline_zh": "如今，对模型“蒸馏”的指控实在夸大过头了",
+          "summary_short_zh": "图中是一张不涉及技术细节的新闻风格截图，声称 Anthropic 因被指使用受版权保护的书籍训练 Claude，将向作者支付 15 亿美元。帖子借此提出更广泛的观点：考虑到定价、合规和知识产权问题，团队应减少对闭源 AI API 的依赖",
+          "why_it_matters_zh": "此次融资见于 1 个独立来源。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "b47ec369716d",
@@ -2438,7 +2503,11 @@
               "published_at": "Thu, 23 Jul 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-07-24/topic/etched-s-scale-up-is-the-clearest-capital-infra-announcement-of-the-day/"
+          "route": "/hot/2026-07-24/topic/etched-s-scale-up-is-the-clearest-capital-infra-announcement-of-the-day/",
+          "headline_zh": "Etched 的扩张公告是当天最明确的融资与基建消息",
+          "summary_short_zh": "@Etched 以 103 亿美元估值完成 3 亿美元 C 轮融资，以加快推理集群生产，并在办公室附近启用了一处面积 8 万平方英尺、功率 10 兆瓦的设施。",
+          "why_it_matters_zh": "此次融资见于 1 个独立来源。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -2482,7 +2551,10 @@
               "published_at": "2026-07-24T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-24/topic/import-ai-465-open-vs-closed-gaps-kimi-k3-demis-big-policy-plan/"
+          "route": "/hot/2026-07-24/topic/import-ai-465-open-vs-closed-gaps-kimi-k3-demis-big-policy-plan/",
+          "headline_zh": "Import AI 第 465 期：开源与闭源模型的差距；Kimi K3；Demis 的重大政策方案",
+          "why_it_matters_zh": "这条行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "b9771bdc20ad",
@@ -2526,7 +2598,11 @@
               "published_at": "Fri, 24 Jul 2026 05:41:17 +0000"
             }
           ],
-          "route": "/hot/2026-07-24/topic/ai-agent/"
+          "route": "/hot/2026-07-24/topic/ai-agent/",
+          "headline_zh": "长内容创作者苦AI失忆久矣，这个新Agent漂亮填坑！门槛低到只需要会用键盘打字",
+          "summary_short_zh": "再长的上下文也救不了长内容任务",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "a9e8534b948a",
@@ -2577,7 +2653,11 @@
               "published_at": "Thu, 23 Jul 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-07-24/topic/openai-s-accidental-cyberattack-against-hugging-face-is-science-fiction-that-happened/"
+          "route": "/hot/2026-07-24/topic/openai-s-accidental-cyberattack-against-hugging-face-is-science-fiction-that-happened/",
+          "headline_zh": "OpenAI 意外对 Hugging Face 发起网络攻击，科幻情节成真",
+          "summary_short_zh": "<p>这件事太离奇了。简单说，OpenAI 当时正在对一款尚未发布的模型进行网络安全测试，模型的安全护栏功能已被关闭。",
+          "why_it_matters_zh": "这条其他类资讯见于 4 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "6d1772f54b0e",
@@ -2615,7 +2695,11 @@
               "published_at": "2026-07-23T14:20:30-04:00"
             }
           ],
-          "route": "/hot/2026-07-24/topic/patreon-is-laying-off-20-percent-of-workers/"
+          "route": "/hot/2026-07-24/topic/patreon-is-laying-off-20-percent-of-workers/",
+          "headline_zh": "Patreon 裁员 20%",
+          "summary_short_zh": "据 404 Media 此前报道，Patreon 正在裁减 20% 的员工，约 93 人。",
+          "why_it_matters_zh": "这条行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "5d6aa367937e",
@@ -2653,7 +2737,11 @@
               "published_at": "Fri, 24 Jul 2026 01:00:00 +0000"
             }
           ],
-          "route": "/hot/2026-07-24/topic/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/"
+          "route": "/hot/2026-07-24/topic/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+          "headline_zh": "AI 安全护栏如何妨碍进攻性网络安全研究人员的工作",
+          "summary_short_zh": "我们采访了几位挖掘未知漏洞、开发漏洞利用工具的网络安全研究人员，了解 OpenAI 和 Anthropic 的安全护栏如何影响他们的工作。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -2697,7 +2785,11 @@
               "published_at": "Thu, 23 Jul 2026 16:42:54 +0000"
             }
           ],
-          "route": "/hot/2026-07-24/topic/building-trade-assistant-how-jefferies-optimized-front-office-trading-operations-with-ai/"
+          "route": "/hot/2026-07-24/topic/building-trade-assistant-how-jefferies-optimized-front-office-trading-operations-with-ai/",
+          "headline_zh": "打造交易助手：Jefferies 如何用 AI 优化前台交易业务",
+          "summary_short_zh": "本文探讨 Jefferies 如何利用基于 Strands Agents 的解决方案克服这些挑战。Strands Agents 是一款智能体运行框架 SDK，用于构建可通过编排基础模型（FM）和外部工具调用来推理、规划和执行操作的 AI 智能体。",
+          "why_it_matters_zh": "这条工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "bfb53c3c41cf",
@@ -2735,7 +2827,11 @@
               "published_at": "Thu, 23 Jul 2026 17:00:20 +0000"
             }
           ],
-          "route": "/hot/2026-07-24/topic/evaluating-ai-agents-a-production-blueprint-with-strands-and-agentcore/"
+          "route": "/hot/2026-07-24/topic/evaluating-ai-agents-a-production-blueprint-with-strands-and-agentcore/",
+          "headline_zh": "评估 AI 智能体：基于 Strands 和 AgentCore 的生产环境实施蓝图",
+          "summary_short_zh": "Motorway 与 AWS 共同构建了端到端评估流水线，将查询结果的错误率从 1/8 降至 1/50，并将问题发现时间从数小时缩短至数分钟。",
+          "why_it_matters_zh": "这条工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "f42e62b30841",
@@ -2773,7 +2869,11 @@
               "published_at": "2026-07-22T02:11:12Z"
             }
           ],
-          "route": "/hot/2026-07-24/topic/tanishq-dubey-macos-laguna-s2-1/"
+          "route": "/hot/2026-07-24/topic/tanishq-dubey-macos-laguna-s2-1/",
+          "headline_zh": "tanishq-dubey/macos-laguna-s2.1",
+          "summary_short_zh": "用于运行 Poolside Laguna S 2.1 的社区基准测试和脚本",
+          "why_it_matters_zh": "这条工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     }
@@ -2819,7 +2919,11 @@
               "published_at": "Thu, 23 Jul 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-07-24/topic/the-actual-openai-release-was-product-ux-not-gpt-6/"
+          "route": "/hot/2026-07-24/topic/the-actual-openai-release-was-product-ux-not-gpt-6/",
+          "headline_zh": "OpenAI 实际发布的是产品和用户体验更新，并非 GPT-6",
+          "summary_short_zh": "此前，@kimmonismus 和 @theo 等账号对“Opus 5”及更重磅的模型发布有诸多猜测。OpenAI 实际推出的更新幅度较小，但对智能体工作流仍有切实意义。",
+          "why_it_matters_zh": "这则产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "177990a2426e",
@@ -2857,7 +2961,11 @@
               "published_at": "Thu, 23 Jul 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-07-24/topic/audio-saw-two-notable-launches-at-opposite-ends-of-the-stack/"
+          "route": "/hot/2026-07-24/topic/audio-saw-two-notable-launches-at-opposite-ends-of-the-stack/",
+          "headline_zh": "音频技术栈两端各迎来一项重要发布",
+          "summary_short_zh": "@Alibaba_Qwen 推出了 Qwen-Audio-3.0-TTS，提供 Flash 和 Plus 两个版本，支持 16 种语言、[whisper] / [angry] 等行内控制标签，以及自然语言风格控制，对含噪参考音频具有鲁棒性，一次可生成最长 3 分钟的音频；还声称在 Artificial Analysis 上排名第一",
+          "why_it_matters_zh": "这则产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2901,7 +3009,11 @@
               "published_at": "2026-07-24T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-24/topic/how-far-behind-the-frontier-are-leading-open-weight-models-on-cyber-uk-ai-security-institute-blog/"
+          "route": "/hot/2026-07-24/topic/how-far-behind-the-frontier-are-leading-open-weight-models-on-cyber-uk-ai-security-institute-blog/",
+          "headline_zh": "顶尖开放权重模型的网络安全能力落后前沿水平多少？（英国人工智能安全研究所博客）",
+          "summary_short_zh": "顶尖开放权重模型的网络安全能力落后前沿水平多少？（英国人工智能安全研究所博客",
+          "why_it_matters_zh": "这则其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "57530074ab1d",
@@ -2939,7 +3051,10 @@
               "published_at": "2026-07-24T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-24/topic/import-ai-464-fables-writes-gpu-kernels-ai-automation-and-analog-computation/"
+          "route": "/hot/2026-07-24/topic/import-ai-464-fables-writes-gpu-kernels-ai-automation-and-analog-computation/",
+          "headline_zh": "Import AI 第 464 期：Fables 编写 GPU 内核；AI 自动化；模拟计算",
+          "why_it_matters_zh": "这则其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "7877b93aaa9b",
@@ -2977,7 +3092,11 @@
               "published_at": "Fri, 24 Jul 2026 00:00:00 -0400"
             }
           ],
-          "route": "/hot/2026-07-24/topic/working-to-automate-nuclear-plant-operations/"
+          "route": "/hot/2026-07-24/topic/working-to-automate-nuclear-plant-operations/",
+          "headline_zh": "推进核电站运行自动化",
+          "summary_short_zh": "博士生 Lauren Fortier 正利用在海军负责核电站运行时积累的经验，攻克核能进一步普及的一项关键难题",
+          "why_it_matters_zh": "这则其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "0078255b3068",
@@ -3015,7 +3134,11 @@
               "published_at": "Thu, 23 Jul 2026 16:40:59 +0000"
             }
           ],
-          "route": "/hot/2026-07-24/topic/building-multi-region-visualizations-with-highcharts-in-amazon-quick/"
+          "route": "/hot/2026-07-24/topic/building-multi-region-visualizations-with-highcharts-in-amazon-quick/",
+          "headline_zh": "在 Amazon Quick 中使用 Highcharts 构建多区域可视化",
+          "summary_short_zh": "本文介绍如何在 Quick Sight 中使用 Highcharts 自定义可视化，构建多区域承运商绩效仪表板，突破原生图表的限制。",
+          "why_it_matters_zh": "这篇教程见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "7699501f50e2",
@@ -3053,7 +3176,11 @@
               "published_at": "Thu, 23 Jul 2026 16:04:19 +0000"
             }
           ],
-          "route": "/hot/2026-07-24/topic/google-just-had-its-first-negative-cash-flow-quarter-due-to-massive-ai-spending/"
+          "route": "/hot/2026-07-24/topic/google-just-had-its-first-negative-cash-flow-quarter-due-to-massive-ai-spending/",
+          "headline_zh": "巨额 AI 支出导致 Google 首次出现季度负现金流",
+          "summary_short_zh": "Google 的季度营收仍很可观，但 AI 支出已飙升",
+          "why_it_matters_zh": "这则其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "69e7148bd002",
@@ -3091,7 +3218,11 @@
               "published_at": "Thu, 23 Jul 2026 20:33:02 +0000"
             }
           ],
-          "route": "/hot/2026-07-24/topic/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/"
+          "route": "/hot/2026-07-24/topic/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+          "headline_zh": "AMD 以 Helios AI 机架级系统挑战 Nvidia",
+          "summary_short_zh": "AMD 正以一款全新机架级系统挑战芯片业对手，该系统将于今年晚些时候开始向客户发货",
+          "why_it_matters_zh": "这则其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }

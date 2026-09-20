@@ -1636,7 +1636,15 @@
           "published_at": "Fri, 07 Aug 2026 05:44:39 GMT"
         }
       ],
-      "route": "/hot/2026-08-08/topic/responding-to-the-next-frontier-of-critical-cyber-capabilities/"
+      "route": "/hot/2026-08-08/topic/responding-to-the-next-frontier-of-critical-cyber-capabilities/",
+      "headline_zh": "应对极高风险网络能力的新前沿",
+      "summary_short_zh": "OpenAI 分享 Astra 的初步网络安全评估结果，以及我们为加强防护措施和安全管控所采取的举措",
+      "why_it_matters_zh": "此次产品发布获 3 个独立来源报道。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "OpenAI 分享 Astra 的初步网络安全评估结果，以及我们为加强防护措施和安全管控所采取的举措。",
+        "OpenAI 表示，这款仍在开发中的模型已达到其“极高网络安全风险”阈值，意味着它能够自主寻找攻击机会并发动网络攻击，目标包括传统上防护严密的……"
+      ]
     },
     {
       "topic_id": "d236a275c091",
@@ -1676,7 +1684,14 @@
           "published_at": "Fri, 07 Aug 2026 16:21:00 +0000"
         }
       ],
-      "route": "/hot/2026-08-08/topic/determining-playoff-clinching-scenarios-in-the-nhl-using-constraint-programming/"
+      "route": "/hot/2026-08-08/topic/determining-playoff-clinching-scenarios-in-the-nhl-using-constraint-programming/",
+      "headline_zh": "利用约束规划确定 NHL 球队锁定季后赛席位的条件",
+      "summary_short_zh": "AWS 生成式 AI 创新中心构建了一套自动化系统，通过约束规划和定制树搜索，从数学上严格确定 NHL 球队何时、如何锁定季后赛席位。",
+      "why_it_matters_zh": "此次产品发布获 1 个独立来源报道。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "AWS 生成式 AI 创新中心构建了一套自动化系统，通过约束规划和定制树搜索，从数学上严格确定 NHL 球队何时、如何锁定……"
+      ]
     },
     {
       "topic_id": "8abe41bab610",
@@ -1723,7 +1738,15 @@
           "published_at": "2026-08-07T14:40:34-04:00"
         }
       ],
-      "route": "/hot/2026-08-08/topic/openai-puts-the-brakes-on-a-new-model-because-it-8217-s-supposedly-too-powerful/"
+      "route": "/hot/2026-08-08/topic/openai-puts-the-brakes-on-a-new-model-because-it-8217-s-supposedly-too-powerful/",
+      "headline_zh": "OpenAI 暂缓推进新模型，因为它据称过于强大",
+      "summary_short_zh": "OpenAI 表示，正在暂停围绕在研 AI 模型 Astra 的“内部活动”，因为该模型尚未达到公司正在推行的新安全标准。此前，OpenAI 刚披露其模型曾意外入侵 Hugging Face。",
+      "why_it_matters_zh": "此次产品发布获 1 个独立来源报道。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "谷歌 AI 团队的几位重量级人物本周有了新职位。其中一些人已离开谷歌，包括传奇员工 Jeff Dean。考虑到谷歌的模型似乎……",
+        "OpenAI 表示，正在暂停围绕在研 AI 模型 Astra 的“内部活动”，因为该模型尚未达到公司正在推行的新安全标准。这则公告紧随……"
+      ]
     },
     {
       "topic_id": "3e586b84c6d8",
@@ -1763,7 +1786,14 @@
           "published_at": "Fri, 07 Aug 2026 09:00:00 GMT"
         }
       ],
-      "route": "/hot/2026-08-08/topic/how-hsp-gruppe-builds-ai-capabilities-for-tax-advisory/"
+      "route": "/hot/2026-08-08/topic/how-hsp-gruppe-builds-ai-capabilities-for-tax-advisory/",
+      "headline_zh": "HSP GRUPPE 如何打造税务咨询 AI 能力",
+      "summary_short_zh": "了解 HSP GRUPPE 如何利用 ChatGPT Enterprise 提高生产力、改善工作质量，为税务咨询和客户服务腾出更多精力",
+      "why_it_matters_zh": "此次产品发布获 1 个独立来源报道。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "了解 HSP GRUPPE 如何利用 ChatGPT Enterprise 提高生产力、改善工作质量，为税务咨询和客户服务腾出更多精力。"
+      ]
     },
     {
       "topic_id": "7521995e4f3e",
@@ -1801,7 +1831,10 @@
           "published_at": "2026-08-07T13:29:16+00:00"
         }
       ],
-      "route": "/hot/2026-08-08/topic/lattice-an-8-mb-static-retriever-that-embeds-wikipedia-in-7-minutes/"
+      "route": "/hot/2026-08-08/topic/lattice-an-8-mb-static-retriever-that-embeds-wikipedia-in-7-minutes/",
+      "headline_zh": "Lattice：仅 8 MB 的静态检索器，7 分钟即可完成维基百科的向量化",
+      "why_it_matters_zh": "此次产品发布获 1 个独立来源报道。",
+      "category_zh": "产品发布"
     }
   ],
   "category_sections": [
@@ -1854,7 +1887,11 @@
               "published_at": "Fri, 07 Aug 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-08-08/topic/jill-lepore-on-the-artificial-state-and-why-silicon-valley-s-leaders-are-bad-sci-fi-readers/"
+          "route": "/hot/2026-08-08/topic/jill-lepore-on-the-artificial-state-and-why-silicon-valley-s-leaders-are-bad-sci-fi-readers/",
+          "headline_zh": "Jill Lepore 谈“人造国家”，以及硅谷领袖为何不善解读科幻作品",
+          "summary_short_zh": "科技公司常用宏大的措辞描述产品，几乎像是在组建一个新政府。历史学家 Jill Lepore 对这种现象背后的原因有自己的解释。",
+          "why_it_matters_zh": "此次产品发布获 2 个独立来源报道。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "6aada0b85b54",
@@ -1892,7 +1929,11 @@
               "published_at": "Fri, 07 Aug 2026 16:16:09 +0000"
             }
           ],
-          "route": "/hot/2026-08-08/topic/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/"
+          "route": "/hot/2026-08-08/topic/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+          "headline_zh": "Cloudflare 推出专为 AI 智能体打造的浏览器 Kitesurf",
+          "summary_short_zh": "Kitesurf 是一款面向 AI 智能体而非人类用户的云端托管浏览器。执行常见自动化任务时，它比 Chromium 消耗更少的计算资源，帮助开发者更高效地构建基于浏览器的 AI 智能体。",
+          "why_it_matters_zh": "这则产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "f16f9ba674fb",
@@ -1930,7 +1971,11 @@
               "published_at": "2026-08-07T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-08-08/topic/bringing-grok-4-5-to-ios-android-web-and-x/"
+          "route": "/hot/2026-08-08/topic/bringing-grok-4-5-to-ios-android-web-and-x/",
+          "headline_zh": "Grok 4.5 登陆 iOS、Android、网页端和 X",
+          "summary_short_zh": "Grok 4.5 是我们迄今最智能的模型，现已上线 grok.com、X、iOS 和 Android",
+          "why_it_matters_zh": "这则产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "ef5017b44104",
@@ -1968,7 +2013,11 @@
               "published_at": "2026-08-07T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-08-08/topic/workflows-in-grok-build/"
+          "route": "/hot/2026-08-08/topic/workflows-in-grok-build/",
+          "headline_zh": "Grok Build 中的工作流",
+          "summary_short_zh": "Grok Build 现在可以编写并运行工作流：通过编排脚本，将任务分发给数百个并行运行的智能体，在一次后台运行中完成结果验证和汇报。",
+          "why_it_matters_zh": "这则产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "aca367487fa3",
@@ -2012,7 +2061,10 @@
               "published_at": "2026-08-08T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-08/topic/4-min-read-former-openai-researcher-launches-desktop-agent/"
+          "route": "/hot/2026-08-08/topic/4-min-read-former-openai-researcher-launches-desktop-agent/",
+          "headline_zh": "阅读需 4 分钟：前 OpenAI 研究员推出桌面智能体",
+          "why_it_matters_zh": "这则产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2065,7 +2117,11 @@
               "published_at": "2026-08-07T23:55:58+00:00"
             }
           ],
-          "route": "/hot/2026-08-08/topic/now-we-have-a-timeline-of-the-openai-accidental-attack-against-hugging-face/"
+          "route": "/hot/2026-08-08/topic/now-we-have-a-timeline-of-the-openai-accidental-attack-against-hugging-face/",
+          "headline_zh": "OpenAI 意外攻击 Hugging Face 事件的时间线现已明晰",
+          "summary_short_zh": "<p>OpenAI 周三在 Black Hat 安全大会上临时做了一场关于“Hugging Face 事件”的演讲（<a href=\" 见本博客）。<a href=\" 视频</a>已于昨天发布。",
+          "why_it_matters_zh": "这则融资消息见于 2 个独立来源。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "2e26e8aea34b",
@@ -2103,7 +2159,11 @@
               "published_at": "Fri, 07 Aug 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-08-08/topic/deepseek-says-api-pricing-is-going-up-significantly/"
+          "route": "/hot/2026-08-08/topic/deepseek-says-api-pricing-is-going-up-significantly/",
+          "headline_zh": "DeepSeek 称 API 价格将“大幅”上涨",
+          "summary_short_zh": "图片是 DeepSeek 平台用量仪表盘的截图，其中的站内横幅写道：“我们计划在近期上调 DeepSeek API 服务的整体价格，预计涨幅较大。”帖子未提供生效日期、价目表或官方公告。",
+          "why_it_matters_zh": "这则融资消息见于 1 个独立来源。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -2147,7 +2207,10 @@
               "published_at": "2026-08-08T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-08/topic/import-ai-455-ai-systems-are-about-to-start-building-themselves-what-does-that-mean/"
+          "route": "/hot/2026-08-08/topic/import-ai-455-ai-systems-are-about-to-start-building-themselves-what-does-that-mean/",
+          "headline_zh": "Import AI 第 455 期：“AI 系统即将开始构建自身。这意味着什么？”",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "1b41340b9045",
@@ -2185,7 +2248,10 @@
               "published_at": "2026-08-08T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-08/topic/import-ai-467-self-sustaining-ai-viruses-pacing-ai-progress-confusion-about-ai-and-creativity/"
+          "route": "/hot/2026-08-08/topic/import-ai-467-self-sustaining-ai-viruses-pacing-ai-progress-confusion-about-ai-and-creativity/",
+          "headline_zh": "Import AI 第 467 期：可自我维持的 AI 病毒；调节 AI 发展节奏；关于 AI 与创造力的困惑",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "fa8d22762b4a",
@@ -2223,7 +2289,11 @@
               "published_at": "2026-08-08T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-08/topic/ten-advances-in-mathematics-and-theoretical-computer-science-openai-blog/"
+          "route": "/hot/2026-08-08/topic/ten-advances-in-mathematics-and-theoretical-computer-science-openai-blog/",
+          "headline_zh": "数学与理论计算机科学的十项进展（OpenAI 博客）",
+          "summary_short_zh": "数学与理论计算机科学的十项进展（OpenAI 博客",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "d88c23260aba",
@@ -2261,7 +2331,11 @@
               "published_at": "Sat, 08 Aug 2026 02:35:38 +0000"
             }
           ],
-          "route": "/hot/2026-08-08/topic/kimi-k3-ai/"
+          "route": "/hot/2026-08-08/topic/kimi-k3-ai/",
+          "headline_zh": "Kimi K3也失控了…学霸AI逃离沙箱只为找答案",
+          "summary_short_zh": "啊，这真是个AI“失控”的夏天",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "1ef275b3fce4",
@@ -2299,7 +2373,11 @@
               "published_at": "Sat, 08 Aug 2026 02:45:02 +0000"
             }
           ],
-          "route": "/hot/2026-08-08/topic/ai/"
+          "route": "/hot/2026-08-08/topic/ai/",
+          "headline_zh": "谷歌急了：AI核心员工全给我搬回硅谷坐班！",
+          "summary_short_zh": "再花15亿美元买现成AI编程团队",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -2343,7 +2421,11 @@
               "published_at": "Fri, 07 Aug 2026 16:22:50 +0000"
             }
           ],
-          "route": "/hot/2026-08-08/topic/how-trends-automates-root-cause-analysis-with-amazon-bedrock/"
+          "route": "/hot/2026-08-08/topic/how-trends-automates-root-cause-analysis-with-amazon-bedrock/",
+          "headline_zh": "TReNDS 如何借助 Amazon Bedrock 实现根因分析自动化",
+          "summary_short_zh": "佐治亚州立大学的研究中心 TReNDS 基于 Amazon Bedrock 和开源 Strands Agents SDK 构建了一套智能体 AI 流水线，能够实时自动排查生产环境错误，将原需人工耗时 15 至 30 分钟的根因分析缩短至不到 60 秒",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "06a3e412097f",
@@ -2381,7 +2463,11 @@
               "published_at": "Fri, 07 Aug 2026 16:26:58 +0000"
             }
           ],
-          "route": "/hot/2026-08-08/topic/how-cohere-health-digitizes-clinical-policies-using-amazon-bedrock-agentcore/"
+          "route": "/hot/2026-08-08/topic/how-cohere-health-digitizes-clinical-policies-using-amazon-bedrock-agentcore/",
+          "headline_zh": "Cohere Health 如何使用 Amazon Bedrock AgentCore 将临床政策数字化",
+          "summary_short_zh": "本文介绍 Cohere Health 如何基于 AgentCore 构建多租户智能体架构，借助 AgentCore Runtime 的安全 MicroVM 隔离、AgentCore Gateway 提供的统一工具访问、AgentCore Memory 和 Agent Skills 开放标准，快速扩展政策数字化能力",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "d6b321368673",
@@ -2419,7 +2505,11 @@
               "published_at": "2026-08-07T19:18:09+00:00"
             }
           ],
-          "route": "/hot/2026-08-08/topic/moonlight-mayhem-raccoon-heist-by-codex-gpt-5-6-sol-ultra/"
+          "route": "/hot/2026-08-08/topic/moonlight-mayhem-raccoon-heist-by-codex-gpt-5-6-sol-ultra/",
+          "headline_zh": "Moonlight & Mayhem（Codex + GPT-5.6 Sol Ultra 打造的 Raccoon Heist）",
+          "summary_short_zh": "<p><strong><a href=\" &amp; Mayhem（Codex + GPT-5.6 Sol Ultra 打造的 Raccoon Heist）</a></strong></p> 周三，我写了一篇关于<a href=\" 用 Claude Fable 5 制作 Raccoon Heist 游戏</a>的文章：我让 Claude Fable 5 根据我在<a href=\" 年前用 GPT-3 和 DALL-E 生成的设定，制作了一款完整可玩的游戏",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "bb94a7d02012",
@@ -2457,7 +2547,11 @@
               "published_at": "Fri, 07 Aug 2026 21:30:11 +0000"
             }
           ],
-          "route": "/hot/2026-08-08/topic/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/"
+          "route": "/hot/2026-08-08/topic/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+          "headline_zh": "Rippling 数月内在 AI 上烧掉数百万后，开发了员工投资回报率工具",
+          "summary_short_zh": "自身 AI 开销给 Rippling 敲响了警钟，该公司本周推出 AI Spend Console，用于追踪员工个人及团队的 AI 支出",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     }
@@ -2509,7 +2603,11 @@
               "published_at": "Fri, 07 Aug 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-08-08/topic/nvidia-s-whole-speech-stack-just-went-local-asr-tts-codec-quantized-to-gguf-running-on-device-via-nemo-speech-cpp/"
+          "route": "/hot/2026-08-08/topic/nvidia-s-whole-speech-stack-just-went-local-asr-tts-codec-quantized-to-gguf-running-on-device-via-nemo-speech-cpp/",
+          "headline_zh": "NVIDIA 的整套语音技术栈现已支持本地运行。自动语音识别 + 语音合成 + 编解码器，量化为 GGUF 格式，通过 NeMo-Speech.cpp 在设备端运行",
+          "summary_short_zh": "图中是 NeMo-Speech.cpp 的涂鸦风格宣传图，不含技术内容，但帖子本身介绍了一套值得关注的本地语音技术栈：NVIDIA NeMo 的语音识别、语音合成和编解码器模型，包括 Magpie-TTS Multilingual、Nemotron Speech Streaming EN 0.6B、Nemotron-3.5 ASR Streaming、Parakeet CTC 1.1B",
+          "why_it_matters_zh": "这条产品发布资讯见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "8fe947b910ed",
@@ -2547,7 +2645,11 @@
               "published_at": "Fri, 07 Aug 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-08-08/topic/another-commenter-cites-strong-impressions-from-parakeet-v3-running-locally-on-macos-and-built-an-android-speech-to-text-keyboard-around-it-minburg-outspoke/"
+          "route": "/hot/2026-08-08/topic/another-commenter-cites-strong-impressions-from-parakeet-v3-running-locally-on-macos-and-built-an-android-speech-to-text-keyboard-around-it-minburg-outspoke/",
+          "headline_zh": "另一位评论者对 Parakeet v3 在 macOS 上本地运行的表现印象深刻，并基于它开发了 Android 语音转文字键盘：minburg/outspoke",
+          "summary_short_zh": "据介绍，这款应用虽不完美但可用，体现了在 Android 上部署本地语音识别的实际尝试；该平台似乎缺少现成的 Parakeet v3 方案",
+          "why_it_matters_zh": "这条产品发布资讯见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "bf7d650bf4f3",
@@ -2585,7 +2687,11 @@
               "published_at": "Fri, 07 Aug 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-08-08/topic/minimax-and-video-model-iteration-speed/"
+          "route": "/hot/2026-08-08/topic/minimax-and-video-model-iteration-speed/",
+          "headline_zh": "MiniMax 与视频模型的迭代速度",
+          "summary_short_zh": "MiniMax 表示，开放权重社区在四天内就推出了蒸馏 LoRA，将采样步数从 20 步降至 4–8 步，并称这是他们选择开源的典型例证（MiniMax）。",
+          "why_it_matters_zh": "这条产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "07e290478a2a",
@@ -2623,7 +2729,11 @@
               "published_at": "Fri, 07 Aug 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-08-08/topic/deepseek-v4-flash-momentum/"
+          "route": "/hot/2026-08-08/topic/deepseek-v4-flash-momentum/",
+          "headline_zh": "DeepSeek V4 Flash 势头强劲",
+          "summary_short_zh": "DeepSeek V4 Flash 0731 多次被列为性价比领先的模型。Cline 表示，它已成为使用量最高的模型，更新后使用量增长 40%，词元用量增至原来的 3 倍（Cline、Together、Ollama 上线消息）。",
+          "why_it_matters_zh": "这条产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "9ddf05ec4dff",
@@ -2661,7 +2771,11 @@
               "published_at": "Fri, 07 Aug 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-08-08/topic/qwen3-8-2-4t-a95b-aka-qwen3-8-max-open-release-time-next-wednesday/"
+          "route": "/hot/2026-08-08/topic/qwen3-8-2-4t-a95b-aka-qwen3-8-max-open-release-time-next-wednesday/",
+          "headline_zh": "Qwen3.8-2.4T-A95B（又名 Qwen3.8-Max）开放发布时间：下周三",
+          "summary_short_zh": "Qwen 似乎已在 ModelScope 上准备了 Qwen3.8-2.4T-A95B 的页面，称其为首个开放权重的 Qwen-Max 级模型，并注明将于下周三发布。",
+          "why_it_matters_zh": "这条产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "5b7851ec570c",
@@ -2699,7 +2813,11 @@
               "published_at": "Fri, 07 Aug 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-08-08/topic/ama-minimax-h3-team-ask-us-anything-about-our-open-video-generation-model-training-and-future-plans/"
+          "route": "/hot/2026-08-08/topic/ama-minimax-h3-team-ask-us-anything-about-our-open-video-generation-model-training-and-future-plans/",
+          "headline_zh": "MiniMax H3 团队 AMA：关于我们开放的视频生成模型、训练和未来计划，欢迎随意提问",
+          "summary_short_zh": "MiniMax H3 团队正在 r/StableDiffusion 举办 AMA，讨论其开放的视频生成模型，涵盖架构与训练、图生视频（I2V）与参考生成、推理优化及未来规划；参与成员包括 H3 研究人员和开发者关系负责人 Ryanlee。",
+          "why_it_matters_zh": "这条产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2743,7 +2861,11 @@
               "published_at": "2026-08-07T14:59:46-04:00"
             }
           ],
-          "route": "/hot/2026-08-08/topic/watching-roku-s-ai-channel-is-like-eating-from-a-trough/"
+          "route": "/hot/2026-08-08/topic/watching-roku-s-ai-channel-is-like-eating-from-a-trough/",
+          "headline_zh": "看 Roku 的 AI 频道，就像在食槽里进食",
+          "summary_short_zh": "由广告支持的免费流媒体电视（FAST）频道，一直以来的吸引力就在于让观众更容易发现或重温经典电影和剧集。",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "d6200dea528c",
@@ -2781,7 +2903,10 @@
               "published_at": "Fri, 07 Aug 2026 06:21:05 +0000"
             }
           ],
-          "route": "/hot/2026-08-08/topic/ai-bug/"
+          "route": "/hot/2026-08-08/topic/ai-bug/",
+          "headline_zh": "AI批量轰炸苹果bug赏金计划，审核团队已下线",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }

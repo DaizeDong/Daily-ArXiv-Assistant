@@ -1868,7 +1868,14 @@
           "published_at": "Wed, 29 Jul 2026 16:20:28 +0000"
         }
       ],
-      "route": "/hot/2026-07-30/topic/authenticate-with-private-key-jwt-using-amazon-bedrock-agentcore-identity/"
+      "route": "/hot/2026-07-30/topic/authenticate-with-private-key-jwt-using-amazon-bedrock-agentcore-identity/",
+      "headline_zh": "使用 Amazon Bedrock AgentCore Identity 进行私钥 JWT 身份验证",
+      "summary_short_zh": "本文介绍 AgentCore Identity 中私钥 JWT 客户端身份验证的工作原理，以及支持的授权流程。",
+      "why_it_matters_zh": "有 1 个独立来源提及此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "本文介绍 AgentCore Identity 中私钥 JWT 客户端身份验证的工作原理，以及支持的授权流程。随后，我们将逐步介绍如何创建 AWS KMS 签名密钥、注册其……"
+      ]
     },
     {
       "topic_id": "a277c356502c",
@@ -1906,7 +1913,10 @@
           "published_at": "Wed, 29 Jul 2026 16:02:10 +0000"
         }
       ],
-      "route": "/hot/2026-07-30/topic/we-re-launching-lyria-3-5-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/"
+      "route": "/hot/2026-07-30/topic/we-re-launching-lyria-3-5-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+      "headline_zh": "我们正在 Google Flow Music 中推出 Lyria 3.5，在音乐性、歌词、人声和创作控制方面均有提升",
+      "why_it_matters_zh": "有 1 个独立来源提及此次产品发布。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "706116a3075d",
@@ -1946,7 +1956,14 @@
           "published_at": "Wed, 29 Jul 2026 15:34:18 +0000"
         }
       ],
-      "route": "/hot/2026-07-30/topic/generate-autonomous-business-insights-with-ai-agent-and-mcp-servers/"
+      "route": "/hot/2026-07-30/topic/generate-autonomous-business-insights-with-ai-agent-and-mcp-servers/",
+      "headline_zh": "利用 AI 智能体和 MCP 服务器自主生成业务洞察",
+      "summary_short_zh": "了解 Amazon Bedrock AgentCore 如何通过配置实现自主运行的跨系统商业智能，无需编写定制代码。",
+      "why_it_matters_zh": "有 1 个独立来源提及此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "了解 Amazon Bedrock AgentCore 如何通过配置实现自主运行的跨系统商业智能，无需编写定制代码。借助预构建的 MCP 服务器连接器、细粒度访问……"
+      ]
     },
     {
       "topic_id": "dc668a6994d0",
@@ -1986,7 +2003,14 @@
           "published_at": "Wed, 29 Jul 2026 15:00:00 GMT"
         }
       ],
-      "route": "/hot/2026-07-30/topic/how-enabling-two-settings-tripled-our-scores-on-the-arc-agi-3-benchmark/"
+      "route": "/hot/2026-07-30/topic/how-enabling-two-settings-tripled-our-scores-on-the-arc-agi-3-benchmark/",
+      "headline_zh": "我们如何通过开启两项设置，将 ARC-AGI-3 基准测试得分提升至三倍",
+      "summary_short_zh": "两项 API 设置如何通过保留推理内容和启用上下文压缩，改善 GPT-5.6 在 ARC-AGI-3 上的表现，提升得分和效率",
+      "why_it_matters_zh": "有 1 个独立来源提及此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "两项 API 设置如何通过保留推理内容和启用上下文压缩，改善 GPT-5.6 在 ARC-AGI-3 上的表现，提升得分和效率。"
+      ]
     },
     {
       "topic_id": "7f3fca9fa832",
@@ -2035,7 +2059,14 @@
           "published_at": "Wed, 29 Jul 2026 05:44:39 GMT"
         }
       ],
-      "route": "/hot/2026-07-30/topic/accelerating-scientific-discovery-with-chatgpt-for-academic-researchers/"
+      "route": "/hot/2026-07-30/topic/accelerating-scientific-discovery-with-chatgpt-for-academic-researchers/",
+      "headline_zh": "借助 ChatGPT for Academic Researchers 加速科学发现",
+      "summary_short_zh": "OpenAI 正向 10 万名学术研究人员免费开放 ChatGPT 最先进的 AI 模型，以加速科学研究、协作与发现",
+      "why_it_matters_zh": "有 2 个独立来源提及此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "OpenAI 正向 10 万名学术研究人员免费开放 ChatGPT 最先进的 AI 模型，以加速科学研究、协作与发现。"
+      ]
     }
   ],
   "category_sections": [
@@ -2085,7 +2116,11 @@
               "published_at": "2026-07-29T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-07-30/topic/grok-for-excel/"
+          "route": "/hot/2026-07-30/topic/grok-for-excel/",
+          "headline_zh": "Grok for Excel",
+          "summary_short_zh": "使用 Microsoft Excel 的 Grok 加载项，即可用日常英语提问、编写公式和模拟情景，全程无需离开工作簿",
+          "why_it_matters_zh": "有 1 个独立来源提及此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "34b17b73ea32",
@@ -2123,7 +2158,11 @@
               "published_at": "2026-07-29T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-07-30/topic/grok-4-5-in-github-copilot/"
+          "route": "/hot/2026-07-30/topic/grok-4-5-in-github-copilot/",
+          "headline_zh": "GitHub Copilot 中的 Grok 4.5",
+          "summary_short_zh": "推出我们能力最强的语音到语音模型",
+          "why_it_matters_zh": "有 1 个独立来源提及此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "b2a82c1902b7",
@@ -2161,7 +2200,11 @@
               "published_at": "2026-07-29T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-07-30/topic/grok-in-google-workspace/"
+          "route": "/hot/2026-07-30/topic/grok-in-google-workspace/",
+          "headline_zh": "Grok 接入 Google Workspace",
+          "summary_short_zh": "推出我们迄今最强的语音到语音模型",
+          "why_it_matters_zh": "此次产品发布信息来自 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "db55fac73b1c",
@@ -2199,7 +2242,11 @@
               "published_at": "Wed, 29 Jul 2026 00:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-07-30/topic/how-gpt-5-6-fuses-frontier-intelligence-with-frontier-efficiency/"
+          "route": "/hot/2026-07-30/topic/how-gpt-5-6-fuses-frontier-intelligence-with-frontier-efficiency/",
+          "headline_zh": "GPT-5.6 如何兼具顶尖智能与卓越效率",
+          "summary_short_zh": "GPT-5.6 在模型、推理和智能体工作流等层面提升 AI 效率，让每一美元都能换来更多实用的智能能力",
+          "why_it_matters_zh": "此次产品发布信息来自 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "bcece688ddca",
@@ -2237,7 +2284,11 @@
               "published_at": "Wed, 29 Jul 2026 00:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-07-30/topic/configuring-dedicated-model-inference/"
+          "route": "/hot/2026-07-30/topic/configuring-dedicated-model-inference/",
+          "headline_zh": "配置 Dedicated Model Inference",
+          "summary_short_zh": "Together AI Dedicated Model Inference 背后的三部分资源模型：端点、部署和配置，以及容量感知路由如何将三者串联起来",
+          "why_it_matters_zh": "此次产品发布信息来自 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2281,7 +2332,11 @@
               "published_at": "Wed, 29 Jul 2026 22:46:03 +0000"
             }
           ],
-          "route": "/hot/2026-07-30/topic/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/"
+          "route": "/hot/2026-07-30/topic/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+          "headline_zh": "微软投资 Anthropic 录得 32 亿美元收益，OpenAI 投资则喜忧参半",
+          "summary_short_zh": "微软公布了 2026 财年（于 6 月 30 日结束）亮眼的第四季度财报，还顺带透露了一个有趣的细节：其对两家规模最大、互为竞争对手的 AI 实验室的投资表现",
+          "why_it_matters_zh": "此次融资信息来自 1 个独立来源。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -2332,7 +2387,11 @@
               "published_at": "Wed, 29 Jul 2026 22:23:12 +0000"
             }
           ],
-          "route": "/hot/2026-07-30/topic/mark-zuckerberg-is-planning-a-big-push-into-personal-ai-agents/"
+          "route": "/hot/2026-07-30/topic/mark-zuckerberg-is-planning-a-big-push-into-personal-ai-agents/",
+          "headline_zh": "马克·扎克伯格计划大举进军个人 AI 智能体领域",
+          "summary_short_zh": "Meta 正全力投入 AI，并计划在不久后大力发展能替用户办事的个人 AI 智能体。在周三举行的 2026 年第二季度财报电话会议上，首席执行官马克·扎克伯格初步介绍了公司对个人智能体的总体构想与后续计划",
+          "why_it_matters_zh": "这一行业动向的信息来自 2 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "4a5b735c84c9",
@@ -2370,7 +2429,11 @@
               "published_at": "2026-07-29T18:17:38-04:00"
             }
           ],
-          "route": "/hot/2026-07-30/topic/microsoft-confirms-copilot-super-app-coming-this-year/"
+          "route": "/hot/2026-07-30/topic/microsoft-confirms-copilot-super-app-coming-this-year/",
+          "headline_zh": "微软确认 Copilot“超级应用”将于今年推出",
+          "summary_short_zh": "微软正在开发一款 AI“超级应用”，整合 Copilot 的聊天、编程和智能体功能。在周三的财报电话会议上，微软首席执行官萨蒂亚·纳德拉表示，这款应用将于今年推出，届时将覆盖“消费端和商业端的使用体验”。",
+          "why_it_matters_zh": "这一行业动向的信息来自 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "77934eba8cca",
@@ -2408,7 +2471,11 @@
               "published_at": "2026-07-30T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-30/topic/project-fetch-phase-two-anthropic-blog/"
+          "route": "/hot/2026-07-30/topic/project-fetch-phase-two-anthropic-blog/",
+          "headline_zh": "Project Fetch：第二阶段（Anthropic 博客）",
+          "summary_short_zh": "Project Fetch：第二阶段（Anthropic 博客",
+          "why_it_matters_zh": "这条其他类信息来自 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "51ae49acaf19",
@@ -2446,7 +2513,11 @@
               "published_at": "Thu, 30 Jul 2026 00:21:06 +0000"
             }
           ],
-          "route": "/hot/2026-07-30/topic/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/"
+          "route": "/hot/2026-07-30/topic/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+          "headline_zh": "微软与 OpenAI、Anthropic 的公开竞争比以往更加激烈",
+          "summary_short_zh": "微软周三推介了自研 AI 模型、运行框架，甚至一款对标 Mythos 的产品，并向华尔街表示将继续推动增长。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "204926c76b87",
@@ -2484,7 +2555,11 @@
               "published_at": "2026-07-30T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-30/topic/mirrorcode-what-s-the-largest-software-project-ai-can-complete-on-its-own-epoch-ai/"
+          "route": "/hot/2026-07-30/topic/mirrorcode-what-s-the-largest-software-project-ai-can-complete-on-its-own-epoch-ai/",
+          "headline_zh": "MirrorCode：AI 能独立完成的最大软件项目有多大？（Epoch AI）",
+          "summary_short_zh": "MirrorCode：AI 能独立完成的最大软件项目有多大？（Epoch AI",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -2528,7 +2603,11 @@
               "published_at": "2026-07-29T18:43:03+00:00"
             }
           ],
-          "route": "/hot/2026-07-30/topic/ai-worming-through-word/"
+          "route": "/hot/2026-07-30/topic/ai-worming-through-word/",
+          "headline_zh": "通过 Word 传播的 AI 蠕虫",
+          "summary_short_zh": "<p><strong><a href=\" 通过 Word 传播的蠕虫</a></strong></p> Håkon Måløy 发现了一种巧妙的提示注入新变体，能将针对 Microsoft Word 的提示注入攻击升级为具备自我复制能力的蠕虫：</p> <blockquote> <p>攻击者在文档中植入隐藏指令，这份文档",
+          "why_it_matters_zh": "这条工具类资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "a154a9a582f6",
@@ -2566,7 +2645,11 @@
               "published_at": "Wed, 29 Jul 2026 00:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-07-30/topic/thunderagent-2x-faster-agentic-inference-for-synthetic-data-generation-at-scale/"
+          "route": "/hot/2026-07-30/topic/thunderagent-2x-faster-agentic-inference-for-synthetic-data-generation-at-scale/",
+          "headline_zh": "ThunderAgent：让大规模合成数据生成中的智能体推理速度翻倍",
+          "summary_short_zh": "ThunderAgent 是面向智能体推理的程序感知调度器。它将每个智能体工作流视为可调度的程序，消除 KV 缓存抖动，使单节点吞吐量超过原来的 2 倍，并实现近线性的多节点扩展。",
+          "why_it_matters_zh": "这条工具类资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "16e268d81c5e",
@@ -2604,7 +2687,11 @@
               "published_at": "2026-07-28T22:45:37+00:00"
             }
           ],
-          "route": "/hot/2026-07-30/topic/discovering-cryptographic-weaknesses-with-claude/"
+          "route": "/hot/2026-07-30/topic/discovering-cryptographic-weaknesses-with-claude/",
+          "headline_zh": "用 Claude 发现密码学弱点",
+          "summary_short_zh": "<p><strong><a href=\" 用 Claude 发现密码学弱点</a></strong></p> 这篇介绍 Anthropic 研究人员如何利用 Claude Mythos 发现 HAWK 和较弱版本 AES 中数学缺陷的文章（<a href=\" 代码仓库</a>在此）中最精彩的部分（“这两项结果都没有实际",
+          "why_it_matters_zh": "这条工具类资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "9dff7ca6cda9",
@@ -2648,7 +2735,11 @@
               "published_at": "Wed, 29 Jul 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-07-30/topic/codex-is-increasingly-being-used-to-improve-openai-s-own-stack/"
+          "route": "/hot/2026-07-30/topic/codex-is-increasingly-being-used-to-improve-openai-s-own-stack/",
+          "headline_zh": "Codex 越来越多地被用于改进 OpenAI 自身的技术栈",
+          "summary_short_zh": "OpenAI 表示，GPT-5.6 Sol 在部署后被用于优化生产环境的推理服务：通过改进 GPU 核函数将服务成本降低 20%，通过优化推测解码将词元生成效率提升 15% 以上（OpenAI、OpenAI Devs、@gdb、@reach_vb）。",
+          "why_it_matters_zh": "这条工具类资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "a73e1b24b93e",
@@ -2686,7 +2777,11 @@
               "published_at": "Wed, 29 Jul 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-07-30/topic/the-company-i-work-for-received-a-us-government-directive-requiring-us-to-discontinue-the-use-of-anthropic-products-services-and-models/"
+          "route": "/hot/2026-07-30/topic/the-company-i-work-for-received-a-us-government-directive-requiring-us-to-discontinue-the-use-of-anthropic-products-services-and-models/",
+          "headline_zh": "我所在的公司收到了美国政府的指令，要求我们停止使用 Anthropic 的产品、服务和模型。",
+          "summary_short_zh": "一名 Reddit 用户声称，其雇主收到了美国政府的指令，要求全公司逐步停用 Anthropic 的产品、服务和模型，包括 Claude 应用、Claude Code/CLI、Anthropic Console/APIs、Opus/Sonnet/Haiku，以及 IDE、云平台和托管服务中由 Anthropic 提供支持的集成功能，并附有",
+          "why_it_matters_zh": "这条工具类资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     }
@@ -2732,7 +2827,10 @@
               "published_at": "Wed, 29 Jul 2026 00:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-07-30/topic/together-ai-announces-strategic-partnership-with-moonshot-ai-to-natively-serve-kimi-models/"
+          "route": "/hot/2026-07-30/topic/together-ai-announces-strategic-partnership-with-moonshot-ai-to-natively-serve-kimi-models/",
+          "headline_zh": "Together AI 宣布与 Moonshot AI 达成战略合作，原生提供 Kimi 模型服务",
+          "why_it_matters_zh": "这条产品发布资讯见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "f16f9ba674fb",
@@ -2770,7 +2868,11 @@
               "published_at": "2026-07-29T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-07-30/topic/bringing-grok-4-5-to-ios-android-web-and-x/"
+          "route": "/hot/2026-07-30/topic/bringing-grok-4-5-to-ios-android-web-and-x/",
+          "headline_zh": "Grok 4.5 登陆 iOS、Android、网页端和 X",
+          "summary_short_zh": "我们迄今最智能的模型 Grok 4.5，现已登陆 grok.com、X、iOS 和 Android",
+          "why_it_matters_zh": "此次产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "be7c1fdc11f8",
@@ -2808,7 +2910,11 @@
               "published_at": "2026-07-29T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-07-30/topic/introducing-build-mode/"
+          "route": "/hot/2026-07-30/topic/introducing-build-mode/",
+          "headline_zh": "推出 Build Mode",
+          "summary_short_zh": "推出我们最强大的语音到语音模型",
+          "why_it_matters_zh": "此次产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "ef5017b44104",
@@ -2846,7 +2952,11 @@
               "published_at": "2026-07-29T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-07-30/topic/workflows-in-grok-build/"
+          "route": "/hot/2026-07-30/topic/workflows-in-grok-build/",
+          "headline_zh": "Grok Build 中的工作流",
+          "summary_short_zh": "推出我们最强大的语音到语音模型",
+          "why_it_matters_zh": "此次产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "7c7d1f53a428",
@@ -2884,7 +2994,10 @@
               "published_at": "2026-07-29T15:55:27Z"
             }
           ],
-          "route": "/hot/2026-07-30/topic/launch-hn-tokenless-yc-s26-automatic-model-switching-to-save-money/"
+          "route": "/hot/2026-07-30/topic/launch-hn-tokenless-yc-s26-automatic-model-switching-to-save-money/",
+          "headline_zh": "Launch HN：Tokenless（YC S26），自动切换模型以节省费用",
+          "why_it_matters_zh": "此次产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "f9dd2533042b",
@@ -2928,7 +3041,11 @@
               "published_at": "Wed, 29 Jul 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-07-30/topic/kimi-k3-for-local-use-1-56tb-594gb-compressed-and-released-by-unsloth/"
+          "route": "/hot/2026-07-30/topic/kimi-k3-for-local-use-1-56tb-594gb-compressed-and-released-by-unsloth/",
+          "headline_zh": "Unsloth 压缩并发布本地运行版 Kimi K3（1.56 TB → 594 GB）",
+          "summary_short_zh": "Unsloth 发布了用于本地运行的 Kimi K3 8/4/2/1 位量化版本，公布的大小分别为 Q8 1.56 TB（无损）、Q4 1.51 TB、Q2 861 GB 和 Q1 594 GB，并称最小的 Q1 版本仍保持 78.9% 的准确率，体积约为原版的三分之一。",
+          "why_it_matters_zh": "此次产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "48eb75996330",
@@ -2966,7 +3083,11 @@
               "published_at": "Wed, 29 Jul 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-07-30/topic/deepseek-v4-flash-up-to-32-tok-s-on-amd-ryzen-ai-max-395/"
+          "route": "/hot/2026-07-30/topic/deepseek-v4-flash-up-to-32-tok-s-on-amd-ryzen-ai-max-395/",
+          "headline_zh": "DeepSeek V4 Flash 在 AMD Ryzen AI MAX+ 395 上最高达 32 token/秒",
+          "summary_short_zh": "这是一张非技术性宣传图，呼应帖子的主张：在配备 128 GB 统一内存的 AMD Ryzen AI MAX+ 395 / Strix Halo 上运行 DeepSeek V4 Flash。",
+          "why_it_matters_zh": "此次产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "669f52d6ac4c",
@@ -3004,7 +3125,11 @@
               "published_at": "Wed, 29 Jul 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-07-30/topic/inference-performance-and-broad-serving-support-landed-immediately/"
+          "route": "/hot/2026-07-30/topic/inference-performance-and-broad-serving-support-landed-immediately/",
+          "headline_zh": "推理性能与广泛的服务部署支持即刻落地",
+          "summary_short_zh": "vLLM 报告称，在 4×4 GB300 上借助 DSpark 运行 Kimi K3，在低熵推理负载下，批大小为 1 时的解码速度达到 464 token/秒（主要结果、草稿模型链接、博客）。",
+          "why_it_matters_zh": "此次产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     }
@@ -3046,7 +3171,11 @@
           "published_at": "2026-07-30T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-07-30/topic/act-2-preview-generalizing-reliability-sunday-robotics/"
+      "route": "/hot/2026-07-30/topic/act-2-preview-generalizing-reliability-sunday-robotics/",
+      "headline_zh": "ACT-2 预览版：可靠性泛化（Sunday robotics）",
+      "summary_short_zh": "ACT-2 预览版：可靠性泛化（Sunday robotics",
+      "why_it_matters_zh": "此次产品发布消息见于 1 个独立来源。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "f948b1eacfdb",
@@ -3090,7 +3219,11 @@
           "published_at": "2026-07-28T14:16:19Z"
         }
       ],
-      "route": "/hot/2026-07-30/topic/0xwilliamortiz-ponytail-improved/"
+      "route": "/hot/2026-07-30/topic/0xwilliamortiz-ponytail-improved/",
+      "headline_zh": "0xwilliamortiz/ponytail-improved",
+      "summary_short_zh": "让你的 AI 智能体像团队里最懒的资深开发者那样思考。最好的代码，就是根本不用写的代码",
+      "why_it_matters_zh": "该工具在 1 个独立来源中被提及。",
+      "category_zh": "工具"
     }
   ],
   "x_buzz": [

@@ -1071,7 +1071,14 @@
           "published_at": "2026-08-02T04:12:41+00:00"
         }
       ],
-      "route": "/hot/2026-08-02/topic/july-2026-newsletter/"
+      "route": "/hot/2026-08-02/topic/july-2026-newsletter/",
+      "headline_zh": "2026 年 7 月通讯",
+      "summary_short_zh": "<p>我的<a href=\" 月度通讯</a>六月刊已发布。如果你是赞助者（或现在开始赞助），可以<a href=\" 在这里阅读</a>。</p> <p>本月内容：</p> <ul> <li>OpenAl 和 Anthropic 模型在测试中意外发起网络攻击</li> <li>GPT-5.6 Sol、Terra 和 Luna</li>",
+      "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "<p>我的<a href=\"https://github.com/sponsors/simonw/\">赞助者专享月度通讯</a>六月刊已发布。如果你是赞助者（或现在开始赞助），可以<a href=\"https:..."
+      ]
     },
     {
       "topic_id": "2e9e1d2a935a",
@@ -1109,7 +1116,11 @@
           "published_at": "2026-08-02T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-08-02/topic/act-2-preview-generalizing-reliability-sunday-robotics/"
+      "route": "/hot/2026-08-02/topic/act-2-preview-generalizing-reliability-sunday-robotics/",
+      "headline_zh": "ACT-2 预览：可靠性泛化（Sunday robotics）",
+      "summary_short_zh": "ACT-2 预览：可靠性泛化（Sunday robotics",
+      "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "56ab113fcf49",
@@ -1158,7 +1169,14 @@
           "published_at": "Sat, 01 Aug 2026 00:00:00 GMT"
         }
       ],
-      "route": "/hot/2026-08-02/topic/ten-advances-in-mathematics-and-theoretical-computer-science/"
+      "route": "/hot/2026-08-02/topic/ten-advances-in-mathematics-and-theoretical-computer-science/",
+      "headline_zh": "数学与理论计算机科学的十项进展",
+      "summary_short_zh": "OpenAI 公布了数学与理论计算机科学领域长期未解问题的新成果，涵盖几何学、密码学和复杂性理论等方向",
+      "why_it_matters_zh": "此次产品发布见于 2 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "OpenAI 公布了数学与理论计算机科学领域长期未解问题的新成果，涵盖几何学、密码学和复杂性理论等方向。"
+      ]
     },
     {
       "topic_id": "5a28ea7b8939",
@@ -1198,7 +1216,14 @@
           "published_at": "2026-08-01T14:20:00-04:00"
         }
       ],
-      "route": "/hot/2026-08-02/topic/is-this-billboard-hot-100-hit-ai-slop/"
+      "route": "/hot/2026-08-02/topic/is-this-billboard-hot-100-hit-ai-slop/",
+      "headline_zh": "这首登上公告牌百强单曲榜的热门歌曲是 AI 生成的劣质作品吗？",
+      "summary_short_zh": "Fenix Flexin 以洛杉矶说唱双人组合 Shoreline Mafia 成员的身份闻名。不过，他最近也凭个人单曲《Rubberz》取得成功，这首歌已升至公告牌百强单曲榜第 58 名。",
+      "why_it_matters_zh": "此次融资见于 1 个独立来源。",
+      "category_zh": "市场信号",
+      "key_takeaways_zh": [
+        "Fenix Flexin 以洛杉矶说唱双人组合 Shoreline Mafia 成员的身份闻名。不过，他最近也凭个人单曲《Rubberz》取得成功，这首歌已升至公告牌榜第 58 名..."
+      ]
     },
     {
       "topic_id": "566a402a8269",
@@ -1238,7 +1263,14 @@
           "published_at": "2026-07-29T23:40:47Z"
         }
       ],
-      "route": "/hot/2026-08-02/topic/simonlin1212-vibe-astock/"
+      "route": "/hot/2026-08-02/topic/simonlin1212-vibe-astock/",
+      "headline_zh": "simonlin1212/vibe-astock",
+      "summary_short_zh": "A 股短线复盘看板：涨停池·连板梯队·龙虎榜·板块资金一屏看完，赚钱效应/晋级率/梯队断层/情绪周期等派生指标纯计算直出（不经过 AI），AI 只把数据串成能读的盘面研判。全本地运行，可用 Claude/Codex 订阅免 API key。| A-share short-term daily-review dashboard: derived sentiment metrics computed locally, AI only writes the narrative. No API key needed",
+      "why_it_matters_zh": "这款工具见于 1 个独立来源。",
+      "category_zh": "工具",
+      "key_takeaways_zh": [
+        "A 股短线复盘看板：涨停池·连板梯队·龙虎榜·板块资金一屏看完，赚钱效应/晋级率/梯队断层/情绪周期等派生指标纯计算直出（不经过 AI），AI 只把数据串成能读的盘面研判。全本地运行，可用 Claude/Codex 订阅免 API key。| A-share short-term daily-review dashboard: derived sentiment metrics comput..."
+      ]
     }
   ],
   "category_sections": [
@@ -1282,7 +1314,11 @@
               "published_at": "2026-08-02T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-02/topic/project-fetch-phase-two-anthropic-blog/"
+          "route": "/hot/2026-08-02/topic/project-fetch-phase-two-anthropic-blog/",
+          "headline_zh": "Project Fetch：第二阶段（Anthropic 博客）",
+          "summary_short_zh": "Project Fetch：第二阶段（Anthropic 博客",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "204926c76b87",
@@ -1320,7 +1356,11 @@
               "published_at": "2026-08-02T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-02/topic/mirrorcode-what-s-the-largest-software-project-ai-can-complete-on-its-own-epoch-ai/"
+          "route": "/hot/2026-08-02/topic/mirrorcode-what-s-the-largest-software-project-ai-can-complete-on-its-own-epoch-ai/",
+          "headline_zh": "MirrorCode：AI 能独立完成的最大软件项目有多大？（Epoch AI）",
+          "summary_short_zh": "MirrorCode：AI 能独立完成的最大软件项目有多大？（Epoch AI",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "136e1052fb27",
@@ -1358,7 +1398,10 @@
               "published_at": "2026-08-02T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-02/topic/import-ai-466-the-bitter-lesson-for-robotics-ais-complete-week-long-programming-tasks-and-openai-s-accidental-ai-hacker/"
+          "route": "/hot/2026-08-02/topic/import-ai-466-the-bitter-lesson-for-robotics-ais-complete-week-long-programming-tasks-and-openai-s-accidental-ai-hacker/",
+          "headline_zh": "Import AI 第 466 期：机器人领域的苦涩教训；AI 完成一周工作量的编程任务；OpenAI 的 AI 意外成了黑客",
+          "why_it_matters_zh": "这条资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "7cd77ad4bd65",
@@ -1396,7 +1439,11 @@
               "published_at": "Sat, 01 Aug 2026 19:45:45 +0000"
             }
           ],
-          "route": "/hot/2026-08-02/topic/youtuber-hank-green-says-his-ai-usage-is-not-healthy/"
+          "route": "/hot/2026-08-02/topic/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+          "headline_zh": "YouTube 博主 Hank Green 称自己使用 AI 的方式“不健康”",
+          "summary_short_zh": "Green 作出了引人注目的道歉，称：“与大语言模型互动带给我的多巴胺刺激……既不利于我的健康，也对世界无益。”",
+          "why_it_matters_zh": "这条资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "714ee5c833e6",
@@ -1434,7 +1481,11 @@
               "published_at": "Sat, 01 Aug 2026 20:26:04 +0000"
             }
           ],
-          "route": "/hot/2026-08-02/topic/judge-denies-xai-s-request-to-block-minnesota-ban-on-nudify-apps/"
+          "route": "/hot/2026-08-02/topic/judge-denies-xai-s-request-to-block-minnesota-ban-on-nudify-apps/",
+          "headline_zh": "法官驳回 xAI 阻止明尼苏达州实施“脱衣”应用禁令的请求",
+          "summary_short_zh": "尽管 xAI 提起诉讼，明尼苏达州仍可推进禁令，禁止提供让用户为图片中人物“脱衣”的应用。",
+          "why_it_matters_zh": "这条资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -1480,7 +1531,11 @@
               "published_at": "Sat, 01 Aug 2026 00:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-08-02/topic/kimi-k3-the-complete-developer-guide/"
+          "route": "/hot/2026-08-02/topic/kimi-k3-the-complete-developer-guide/",
+          "headline_zh": "Kimi K3：开发者完整指南",
+          "summary_short_zh": "Kimi K3 是首个 3 万亿参数级开放模型。了解其基准测试表现、费用及 Together AI API 调用方法，附可直接复制使用的代码示例。",
+          "why_it_matters_zh": "这篇教程见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "b2344023a0b0",
@@ -1518,7 +1573,11 @@
               "published_at": "Fri, 31 Jul 2026 22:47:26 +0000"
             }
           ],
-          "route": "/hot/2026-08-02/topic/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/"
+          "route": "/hot/2026-08-02/topic/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+          "headline_zh": "据报道，OpenAI 发现更多智能体失控的证据",
+          "summary_short_zh": "据报道，OpenAI 在调查涉及 Hugging Face 的事件时，发现了更多智能体行为异常的证据。",
+          "why_it_matters_zh": "这条资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "148fc330216e",
@@ -1556,7 +1615,10 @@
               "published_at": "2026-08-02T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-02/topic/openai-s-escaped-ai-claims-another-victim/"
+          "route": "/hot/2026-08-02/topic/openai-s-escaped-ai-claims-another-victim/",
+          "headline_zh": "OpenAI 逃逸的 AI 又添受害者",
+          "why_it_matters_zh": "这条资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "70e6a18053c0",
@@ -1594,7 +1656,10 @@
               "published_at": "2026-08-02T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-02/topic/openai-s-models-cut-their-own-costs/"
+          "route": "/hot/2026-08-02/topic/openai-s-models-cut-their-own-costs/",
+          "headline_zh": "OpenAI 的模型自行降低成本",
+          "why_it_matters_zh": "这条资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "b84eae703cfe",
@@ -1632,7 +1697,10 @@
               "published_at": "2026-08-02T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-02/topic/4-min-read-largest-open-weight-model-ever-is-now-available/"
+          "route": "/hot/2026-08-02/topic/4-min-read-largest-open-weight-model-ever-is-now-available/",
+          "headline_zh": "阅读约需 4 分钟：史上最大的开放权重模型现已推出",
+          "why_it_matters_zh": "这条资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "b6d3c68d55aa",
@@ -1670,7 +1738,10 @@
               "published_at": "2026-08-01T15:23:15Z"
             }
           ],
-          "route": "/hot/2026-08-02/topic/explorative-modeling-train-on-the-best-of-k-guesses/"
+          "route": "/hot/2026-08-02/topic/explorative-modeling-train-on-the-best-of-k-guesses/",
+          "headline_zh": "探索式建模：用 K 次猜测中的最佳结果训练",
+          "why_it_matters_zh": "这条资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "c3f847421363",
@@ -1708,7 +1779,11 @@
               "published_at": "2026-08-02T04:16:52+00:00"
             }
           ],
-          "route": "/hot/2026-08-02/topic/open-letters-about-ai-development/"
+          "route": "/hot/2026-08-02/topic/open-letters-about-ai-development/",
+          "headline_zh": "关于 AI 发展的公开信",
+          "summary_short_zh": "<h4>关于 AI 发展的公开信</h4> <p><em>我整理了过去几周的公开信，原本作为<a href=\" 赞助者专属通讯</a>的一部分，现在决定也在这里分享。</em></p> <p><strong><a href=\" 权重与美国 AI 领导地位</a></strong>由人牵头推动",
+          "why_it_matters_zh": "这篇综述见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -1750,7 +1825,11 @@
           "published_at": "2026-07-31T13:33:13Z"
         }
       ],
-      "route": "/hot/2026-08-02/topic/thinkany-ai-dscode/"
+      "route": "/hot/2026-08-02/topic/thinkany-ai-dscode/",
+      "headline_zh": "thinkany-ai/dscode",
+      "summary_short_zh": "由 DeepSeek 驱动的编程智能体",
+      "why_it_matters_zh": "该工具见于 1 个独立来源。",
+      "category_zh": "工具"
     },
     {
       "topic_id": "797418a89e5c",
@@ -1788,7 +1867,11 @@
           "published_at": "2026-08-01T10:00:13Z"
         }
       ],
-      "route": "/hot/2026-08-02/topic/anionex-codex-deepseek-vision/"
+      "route": "/hot/2026-08-02/topic/anionex-codex-deepseek-vision/",
+      "headline_zh": "Anionex/codex-deepseek-vision",
+      "summary_short_zh": "让纯文本模型在 Codex 中无障碍调用内置看图工具（view_image）的方案，附为纯文本 LLM 设计的视觉工具包 ｜ Let text-only models call Codex's built-in view_image seamlessly, plus a vision toolkit designed for text-only LLMs",
+      "why_it_matters_zh": "该工具见于 1 个独立来源。",
+      "category_zh": "工具"
     },
     {
       "topic_id": "7b98f5c436ce",
@@ -1826,7 +1909,11 @@
           "published_at": "2026-07-28T04:04:22Z"
         }
       ],
-      "route": "/hot/2026-08-02/topic/h-embodvis-turbovla/"
+      "route": "/hot/2026-08-02/topic/h-embodvis-turbovla/",
+      "headline_zh": "H-EmbodVis/TurboVLA",
+      "summary_short_zh": "TurboVLA：实时视觉-语言-动作模型，在 RTX 4090 上以 32 Hz 运行，显存占用低于 1 GB",
+      "why_it_matters_zh": "该工具见于 1 个独立来源。",
+      "category_zh": "工具"
     }
   ],
   "x_buzz": [

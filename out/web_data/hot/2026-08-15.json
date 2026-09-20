@@ -1170,7 +1170,14 @@
           "published_at": "2026-08-13T04:06:22Z"
         }
       ],
-      "route": "/hot/2026-08-15/topic/thiientv-godmode/"
+      "route": "/hot/2026-08-15/topic/thiientv-godmode/",
+      "headline_zh": "thiientv/godmode",
+      "summary_short_zh": "面向 AI 编程智能体的生产级技能，提供可组合的工作流，涵盖规划、测试驱动开发、调试、代码审查、UI/UX、版本发布、故障响应和评测",
+      "why_it_matters_zh": "有 1 个独立来源提及此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "面向 AI 编程智能体的生产级技能，提供可组合的工作流，涵盖规划、测试驱动开发、调试、代码审查、UI/UX、版本发布、故障响应和评测。"
+      ]
     },
     {
       "topic_id": "266cd9651df7",
@@ -1210,7 +1217,14 @@
           "published_at": "Fri, 14 Aug 2026 15:58:44 +0000"
         }
       ],
-      "route": "/hot/2026-08-15/topic/building-agentic-workflows-with-sagemaker-ai-and-bedrock-agentcore/"
+      "route": "/hot/2026-08-15/topic/building-agentic-workflows-with-sagemaker-ai-and-bedrock-agentcore/",
+      "headline_zh": "使用 SageMaker AI 和 Bedrock AgentCore 构建智能体工作流",
+      "summary_short_zh": "了解如何将 Amazon SageMaker AI 上兼容 OpenAI 的端点与 Amazon Bedrock AgentCore 运行时结合，构建多智能体工作流，让每个专用智能体使用最适合自身任务的模型。",
+      "why_it_matters_zh": "有 1 个独立来源提及这条工具动态。",
+      "category_zh": "工具",
+      "key_takeaways_zh": [
+        "了解如何将 Amazon SageMaker AI 上兼容 OpenAI 的端点与 Amazon Bedrock AgentCore 运行时结合，构建多智能体工作流，让每个专用智能体使用最合适的模型……"
+      ]
     },
     {
       "topic_id": "eee7c043a781",
@@ -1250,7 +1264,14 @@
           "published_at": "2026-08-14T12:54:16-04:00"
         }
       ],
-      "route": "/hot/2026-08-15/topic/mark-zuckerberg-has-an-instagzam/"
+      "route": "/hot/2026-08-15/topic/mark-zuckerberg-has-an-instagzam/",
+      "headline_zh": "马克·扎克伯格有了个 Instagzam",
+      "summary_short_zh": "Instagram 的文字标志堪称经典。不过，那是以前了。看来 Instagram 觉得它过时了，于是本周推出了新版。新版看起来不像原来的 Instagram 文字标志，甚至都看不出拼的是 Instagram 了。",
+      "why_it_matters_zh": "有 1 个独立来源提及此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Instagram 的文字标志堪称经典。不过，那是以前了。看来 Instagram 觉得它过时了，于是本周推出了新版。新版看起来不像原来的 Instagram 文字标志。它……"
+      ]
     },
     {
       "topic_id": "8946d2bc7db2",
@@ -1290,7 +1311,14 @@
           "published_at": "Fri, 14 Aug 2026 14:00:00 +0000"
         }
       ],
-      "route": "/hot/2026-08-15/topic/meta-s-open-ai-and-a-250m-deal-gone-very-wrong/"
+      "route": "/hot/2026-08-15/topic/meta-s-open-ai-and-a-250m-deal-gone-very-wrong/",
+      "headline_zh": "Meta 的“开放”AI，以及一笔出了大问题的 2.5 亿美元交易",
+      "summary_short_zh": "Meta 本周发布了 Glimmer，这是一款开放权重的 AI 模型，任何人都可以下载并在自己的硬件上运行。相比之下，该公司更强大的 Muse Spark 只能通过其自有 API 使用。",
+      "why_it_matters_zh": "有 1 个独立来源提及这笔融资。",
+      "category_zh": "市场信号",
+      "key_takeaways_zh": [
+        "Meta 本周发布了 Glimmer，这是一款开放权重的 AI 模型，任何人都可以下载并在自己的硬件上运行。相比之下，该公司更强大的 Muse Spark……"
+      ]
     },
     {
       "topic_id": "14594d66bc59",
@@ -1330,7 +1358,14 @@
           "published_at": "2026-08-11T05:08:30Z"
         }
       ],
-      "route": "/hot/2026-08-15/topic/wanshuiyin-hero-anti-overdefense/"
+      "route": "/hot/2026-08-15/topic/wanshuiyin-hero-anti-overdefense/",
+      "headline_zh": "wanshuiyin/HERO-Anti-OverDefense",
+      "summary_short_zh": "HERO = 哈希 · 边界情况 · 评分准则 · 过度构建，概括了编程智能体过度防御的四种形式。粘贴这份约束协议即可制止这些行为。适用于 Claude Code、Codex、Antigravity、Cursor、Copilot、Windsurf、Gemini CLI",
+      "why_it_matters_zh": "有 1 个独立来源提及这条工具动态。",
+      "category_zh": "工具",
+      "key_takeaways_zh": [
+        "HERO = 哈希 · 边界情况 · 评分准则 · 过度构建，概括了编程智能体过度防御的四种形式。粘贴这份约束协议即可制止这些行为。适用于 Claude Code、Codex、Antigravity、Cursor、Copilot、W……"
+      ]
     }
   ],
   "category_sections": [
@@ -1374,7 +1409,10 @@
               "published_at": "Aug 14, 2026"
             }
           ],
-          "route": "/hot/2026-08-15/topic/how-claude-s-text-watermark-works/"
+          "route": "/hot/2026-08-15/topic/how-claude-s-text-watermark-works/",
+          "headline_zh": "Claude 文本水印的工作原理",
+          "why_it_matters_zh": "有 1 个独立来源提及此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "0de96a146aaa",
@@ -1412,7 +1450,10 @@
               "published_at": "2026-08-14T01:14:35+00:00"
             }
           ],
-          "route": "/hot/2026-08-15/topic/ax-ray-finding-causal-leakage-defects-in-two-general-purpose-public-models/"
+          "route": "/hot/2026-08-15/topic/ax-ray-finding-causal-leakage-defects-in-two-general-purpose-public-models/",
+          "headline_zh": "AX-Ray：发现两款公开通用模型中的因果泄漏缺陷",
+          "why_it_matters_zh": "有 1 个独立来源提及此次产品发布。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -1463,7 +1504,11 @@
               "published_at": "Fri, 14 Aug 2026 16:13:40 +0000"
             }
           ],
-          "route": "/hot/2026-08-15/topic/you-can-now-turn-off-google-gemini-8217-s-visible-watermarks/"
+          "route": "/hot/2026-08-15/topic/you-can-now-turn-off-google-gemini-8217-s-visible-watermarks/",
+          "headline_zh": "现在可以关闭 Google Gemini 的可见水印了",
+          "summary_short_zh": "Google 现在允许用户移除 AI 工具生成的图片、视频和音乐中的可见水印。更新后，你可以在 Gemini 和 Google 的 AI 视频生成工具 Flow 中关闭新增的“媒体水印”设置。",
+          "why_it_matters_zh": "这条其他类资讯见于 2 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "29a37f482d32",
@@ -1501,7 +1546,11 @@
               "published_at": "2026-08-15T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-15/topic/how-should-the-us-prepare-for-increasingly-automated-ai-r-d-ifp/"
+          "route": "/hot/2026-08-15/topic/how-should-the-us-prepare-for-increasingly-automated-ai-r-d-ifp/",
+          "headline_zh": "美国应如何为日益自动化的 AI 研发做好准备？（IFP）",
+          "summary_short_zh": "美国应如何为日益自动化的 AI 研发做好准备？（IFP",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "278221d7b17b",
@@ -1539,7 +1588,10 @@
               "published_at": "2026-08-15T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-15/topic/import-ai-468-23-rsi-ideas-posttrainbench-and-how-trust-and-transparency-interplay-with-ai-racing/"
+          "route": "/hot/2026-08-15/topic/import-ai-468-23-rsi-ideas-posttrainbench-and-how-trust-and-transparency-interplay-with-ai-racing/",
+          "headline_zh": "Import AI 第 468 期：23 个 RSI 构想；PostTrainBench+；信任、透明度与 AI 竞赛的相互影响",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "9b236b9e4abb",
@@ -1577,7 +1629,11 @@
               "published_at": "2026-08-15T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-15/topic/scaling-automated-post-training-intology-blog/"
+          "route": "/hot/2026-08-15/topic/scaling-automated-post-training-intology-blog/",
+          "headline_zh": "扩大自动化后训练的规模（Intology 博客）",
+          "summary_short_zh": "扩大自动化后训练的规模（Intology 博客",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "fb7dd9011efa",
@@ -1615,7 +1671,11 @@
               "published_at": "2026-08-15T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-15/topic/now-we-have-a-timeline-of-the-openai-accidental-attack-against-hugging-face-simon-willison-weblog/"
+          "route": "/hot/2026-08-15/topic/now-we-have-a-timeline-of-the-openai-accidental-attack-against-hugging-face-simon-willison-weblog/",
+          "headline_zh": "现在有了 OpenAI 意外攻击 Hugging Face 的事件时间线（Simon Willison 博客）",
+          "summary_short_zh": "现在有了 OpenAI 意外攻击 Hugging Face 的事件时间线（Simon Willison 博客",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -1661,7 +1721,11 @@
               "published_at": "2026-08-14T21:54:35+00:00"
             }
           ],
-          "route": "/hot/2026-08-15/topic/don-t-classify-hallucinate/"
+          "route": "/hot/2026-08-15/topic/don-t-classify-hallucinate/",
+          "headline_zh": "别分类，尽管瞎编！",
+          "summary_short_zh": "<p><strong><a href=\" 分类。尽管瞎编！</a></strong></p> 我的博客里还有不少旧内容，一直没顾上添加标签。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "88716f68d4ee",
@@ -1699,7 +1763,11 @@
               "published_at": "2026-08-14T05:21:17-04:00"
             }
           ],
-          "route": "/hot/2026-08-15/topic/apple-trained-its-own-ai-model-for-china-with-help-from-alibaba/"
+          "route": "/hot/2026-08-15/topic/apple-trained-its-own-ai-model-for-china-with-help-from-alibaba/",
+          "headline_zh": "苹果在阿里巴巴的帮助下，为中国市场训练了自有 AI 模型",
+          "summary_short_zh": "据报道，苹果与中国科技巨头阿里巴巴合作，为中国市场训练了一款定制 AI 模型。在中美关系日益紧张的背景下，这样的跨国合作颇为罕见。",
+          "why_it_matters_zh": "这一行业动向见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "f86199bc9ada",
@@ -1737,7 +1805,11 @@
               "published_at": "Fri, 14 Aug 2026 16:02:10 +0000"
             }
           ],
-          "route": "/hot/2026-08-15/topic/custom-reward-functions-for-multi-turn-reinforcement-learning-with-amazon-nova-forge/"
+          "route": "/hot/2026-08-15/topic/custom-reward-functions-for-multi-turn-reinforcement-learning-with-amazon-nova-forge/",
+          "headline_zh": "使用 Amazon Nova Forge 为多轮强化学习自定义奖励函数",
+          "summary_short_zh": "在多轮强化学习中，自定义奖励函数决定了模型实际学到什么。",
+          "why_it_matters_zh": "这篇教程见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "04e9d2d5fb0f",
@@ -1775,7 +1847,11 @@
               "published_at": "Fri, 14 Aug 2026 14:27:14 +0000"
             }
           ],
-          "route": "/hot/2026-08-15/topic/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/"
+          "route": "/hot/2026-08-15/topic/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+          "headline_zh": "中国 AI 对手势头渐强，OpenAI 与 Anthropic 展开价格战",
+          "summary_short_zh": "万亿美元雄心遭遇新挑战后，美国企业推出更低价模型",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "2e3f068171c1",
@@ -1813,7 +1889,11 @@
               "published_at": "Fri, 14 Aug 2026 15:41:12 +0000"
             }
           ],
-          "route": "/hot/2026-08-15/topic/qwen3-8-27b/"
+          "route": "/hot/2026-08-15/topic/qwen3-8-27b/",
+          "headline_zh": "刚刚，Qwen3.8-27B 开源了！家用显卡也能跑",
+          "summary_short_zh": "所有人都可免费下载部署及商用。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "cb1f74d14146",
@@ -1851,7 +1931,11 @@
               "published_at": "Fri, 14 Aug 2026 14:05:00 +0000"
             }
           ],
-          "route": "/hot/2026-08-15/topic/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/"
+          "route": "/hot/2026-08-15/topic/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
+          "headline_zh": "若最新预测成真，超大规模云服务商或将后悔押注天然气",
+          "summary_short_zh": "美国部分地区的天然气价格可能涨至原来的三倍，超大规模云服务商或将因此为 AI 数据中心承担巨额电费",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "e7dd83184e71",
@@ -1889,7 +1973,11 @@
               "published_at": "Fri, 14 Aug 2026 14:50:11 +0000"
             }
           ],
-          "route": "/hot/2026-08-15/topic/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/"
+          "route": "/hot/2026-08-15/topic/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+          "headline_zh": "Kog 深入底层，进一步挖掘 GPU 的推理性能",
+          "summary_short_zh": "法国初创公司 Kog 认为，GPU 不太适合智能体工作流的说法可能是一种误解",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "98ca49767d0c",
@@ -1927,7 +2015,10 @@
               "published_at": "2026-08-14T15:43:10Z"
             }
           ],
-          "route": "/hot/2026-08-15/topic/google-is-making-private-ai-practical-with-homomorphic-encryption/"
+          "route": "/hot/2026-08-15/topic/google-is-making-private-ai-practical-with-homomorphic-encryption/",
+          "headline_zh": "谷歌正通过同态加密，让保护隐私的 AI 走向实用",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -1969,7 +2060,11 @@
           "published_at": "2026-08-13T13:15:23Z"
         }
       ],
-      "route": "/hot/2026-08-15/topic/leutenegger-book-to-skill/"
+      "route": "/hot/2026-08-15/topic/leutenegger-book-to-skill/",
+      "headline_zh": "Leutenegger/book-to-skill",
+      "summary_short_zh": "将任意技术书籍 PDF 转为 Claude Code 技能，随时在工作中学习、查阅和使用",
+      "why_it_matters_zh": "这款工具见于 1 个独立来源。",
+      "category_zh": "工具"
     },
     {
       "topic_id": "cbd510f02ce8",
@@ -2007,7 +2102,11 @@
           "published_at": "2026-08-12T13:41:50Z"
         }
       ],
-      "route": "/hot/2026-08-15/topic/nanmicoder-dsh-agent-teams/"
+      "route": "/hot/2026-08-15/topic/nanmicoder-dsh-agent-teams/",
+      "headline_zh": "NanmiCoder/dsh-agent-teams",
+      "summary_short_zh": "适用于 DeepSeek Harness 的 AgentTeams 插件",
+      "why_it_matters_zh": "这款工具见于 1 个独立来源。",
+      "category_zh": "工具"
     },
     {
       "topic_id": "2961902ccac6",
@@ -2045,7 +2144,11 @@
           "published_at": "2026-08-13T12:36:34Z"
         }
       ],
-      "route": "/hot/2026-08-15/topic/anionex-dsh-vision-toolkit/"
+      "route": "/hot/2026-08-15/topic/anionex-dsh-vision-toolkit/",
+      "headline_zh": "Anionex/dsh-vision-toolkit",
+      "summary_short_zh": "让纯文本模型更好地做视觉任务的DeepSeek Harness插件：带意图的图片问答、长截图 OCR、UI 还原等｜DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, long-screenshot OCR, UI restoration, grounding, pixel diff, Artifacts, and Web UI",
+      "why_it_matters_zh": "这款工具见于 1 个独立来源。",
+      "category_zh": "工具"
     }
   ],
   "x_buzz": [

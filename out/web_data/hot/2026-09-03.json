@@ -1951,7 +1951,14 @@
           "published_at": "2026-09-02T16:11:40-04:00"
         }
       ],
-      "route": "/hot/2026-09-03/topic/introducing-gemini-3-8-flash-and-3-8-flash-cyber/"
+      "route": "/hot/2026-09-03/topic/introducing-gemini-3-8-flash-and-3-8-flash-cyber/",
+      "headline_zh": "推出 Gemini 3.8 Flash 和 3.8 Flash Cyber",
+      "why_it_matters_zh": "此次产品发布获 4 个独立来源报道。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Google 推出了 Gemini 3.8 Flash，距上一代发布仅几周。该公司称，新模型比 Gemini 3.7 Flash 更“卖力”，会执行更多推理步骤来处理复杂...",
+        "Google 的 Pro 模型似乎暂停更新了，但今天又推出了一款 Gemini Flash。"
+      ]
     },
     {
       "topic_id": "128dd4625f7c",
@@ -1998,7 +2005,14 @@
           "published_at": "Wed, 02 Sep 2026 15:40:00 +0000"
         }
       ],
-      "route": "/hot/2026-09-03/topic/proactive-cyber-defense-for-governments-and-enterprises/"
+      "route": "/hot/2026-09-03/topic/proactive-cyber-defense-for-governments-and-enterprises/",
+      "headline_zh": "面向政府和企业的主动网络防御",
+      "summary_short_zh": "推出 Fairwind Program",
+      "why_it_matters_zh": "此次产品发布获 2 个独立来源报道。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "推出 Fairwind Program"
+      ]
     },
     {
       "topic_id": "667425726e2d",
@@ -2038,7 +2052,14 @@
           "published_at": "Wed, 02 Sep 2026 18:14:17 +0000"
         }
       ],
-      "route": "/hot/2026-09-03/topic/trinity-agentic-ai-powered-transition-planning-for-students-with-disabilities/"
+      "route": "/hot/2026-09-03/topic/trinity-agentic-ai-powered-transition-planning-for-students-with-disabilities/",
+      "headline_zh": "Trinity：用智能体 AI 为残障学生制定转衔计划",
+      "summary_short_zh": "了解 University Startups 及其 AWS 合作伙伴 g/d/n/a 如何将面向残障学生的对话式 AI 解决方案 Trinity 扩展为基于 Amazon Bedrock 的无服务器多智能体架构，为全美学区生成符合 IDEA 要求的转衔计划",
+      "why_it_matters_zh": "此次产品发布获 1 个独立来源报道。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "了解 University Startups 及其 AWS 合作伙伴 g/d/n/a 如何将面向残障学生的对话式 AI 解决方案 Trinity 扩展为基于 Amazon Bedrock 的无服务器多智能体架构..."
+      ]
     },
     {
       "topic_id": "97160affd491",
@@ -2078,7 +2099,14 @@
           "published_at": "Wed, 02 Sep 2026 18:18:47 +0000"
         }
       ],
-      "route": "/hot/2026-09-03/topic/from-code-to-diagrams-agentic-architecture-documentation-with-amazon-bedrock-agentcore/"
+      "route": "/hot/2026-09-03/topic/from-code-to-diagrams-agentic-architecture-documentation-with-amazon-bedrock-agentcore/",
+      "headline_zh": "从代码到图示：用 Amazon Bedrock AgentCore 智能体生成架构文档",
+      "summary_short_zh": "了解一家全球性交易商间经纪商如何在 Amazon Bedrock AgentCore 上构建架构文档自动化流水线，分析 .NET 代码库、生成架构图，并通过 Amazon Bedrock Knowledge Bases 和 AWS CodePipeline 维护可搜索的文档",
+      "why_it_matters_zh": "此次产品发布获 1 个独立来源报道。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "了解一家全球性交易商间经纪商如何在 Amazon Bedrock AgentCore 上构建架构文档自动化流水线，分析 .NET 代码库、生成架构图，并维护..."
+      ]
     },
     {
       "topic_id": "0a5d10de2299",
@@ -2126,7 +2154,16 @@
           "published_at": "2026-09-02T06:38:25Z"
         }
       ],
-      "route": "/hot/2026-09-03/topic/dreamers-laboratory-ai-evaluation-framework/"
+      "route": "/hot/2026-09-03/topic/dreamers-laboratory-ai-evaluation-framework/",
+      "headline_zh": "dreamers-laboratory/ai-evaluation-framework",
+      "summary_short_zh": "为基于模型的解决方案提供准确率、P95 延迟和成本基准测试，并逐字段对照标准答案评分",
+      "why_it_matters_zh": "该工具获 1 个独立来源报道。",
+      "category_zh": "工具",
+      "key_takeaways_zh": [
+        "通过工作进程集群反复开展大规模信息采集的通用引擎。",
+        "为基于模型的解决方案提供准确率、P95 延迟和成本基准测试，并逐字段对照标准答案评分。",
+        "使用多个开源模型从图像重建三维网格，并评分选出效果最好的模型。"
+      ]
     }
   ],
   "category_sections": [
@@ -2170,7 +2207,11 @@
               "published_at": "Wed, 02 Sep 2026 17:00:07 GMT"
             }
           ],
-          "route": "/hot/2026-09-03/topic/c-ai-comics-and-the-interactive-future-of-fandom/"
+          "route": "/hot/2026-09-03/topic/c-ai-comics-and-the-interactive-future-of-fandom/",
+          "headline_zh": "(c.ai) 漫画与粉丝文化的互动未来",
+          "summary_short_zh": "<figure class=\"kg-card kg-image-card\"><img alt=\"alt\" class=\"kg-image\" height=\"1125\" src=\" width=\"2000\" /></figure><p>粉丝不只想看故事，还想走进故事里。",
+          "why_it_matters_zh": "此次产品发布获 1 个独立来源报道。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "6c51cfceb9d3",
@@ -2208,7 +2249,11 @@
               "published_at": "Wed, 02 Sep 2026 12:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-09-03/topic/atv-big-air-tour-turned-3-days-of-work-into-3-hours-with-chatgpt/"
+          "route": "/hot/2026-09-03/topic/atv-big-air-tour-turned-3-days-of-work-into-3-hours-with-chatgpt/",
+          "headline_zh": "ATV Big Air Tour 借助 ChatGPT，将 3 天的工作缩短至 3 小时",
+          "summary_short_zh": "ATV Big Air Tour 使用 ChatGPT Work 提高营销、商品销售等工作的效率，甚至只花 15 分钟，就用商品照片搭建了库存网站",
+          "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "7211f0ce2362",
@@ -2246,7 +2291,10 @@
               "published_at": "2026-09-02T13:12:13+00:00"
             }
           ],
-          "route": "/hot/2026-09-03/topic/puffin-world-scaling-a-unified-multimodal-model-with-native-3d-world-states/"
+          "route": "/hot/2026-09-03/topic/puffin-world-scaling-a-unified-multimodal-model-with-native-3d-world-states/",
+          "headline_zh": "Puffin-World：基于原生 3D 世界状态扩展统一多模态模型",
+          "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "31885698f7a2",
@@ -2284,7 +2332,11 @@
               "published_at": "2026-09-02T13:52:56-04:00"
             }
           ],
-          "route": "/hot/2026-09-03/topic/amazon-s-ai-assistant-can-now-spot-fake-emails-from-the-company/"
+          "route": "/hot/2026-09-03/topic/amazon-s-ai-assistant-can-now-spot-fake-emails-from-the-company/",
+          "headline_zh": "亚马逊 AI 助手现可识别冒充官方的假邮件",
+          "summary_short_zh": "亚马逊正尝试用一项新功能打击冒充诈骗，用户可以借助其 AI 助手，判断邮件、短信或电话是否确实来自该公司。",
+          "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "6a11323803f2",
@@ -2322,7 +2374,11 @@
               "published_at": "2026-09-01T23:57:28+00:00"
             }
           ],
-          "route": "/hot/2026-09-03/topic/claude-fable-5-1-made-me-a-really-nice-animated-pelican/"
+          "route": "/hot/2026-09-03/topic/claude-fable-5-1-made-me-a-really-nice-animated-pelican/",
+          "headline_zh": "Claude Fable 5.1 给我做了一个很漂亮的鹈鹕动画",
+          "summary_short_zh": "<p>今天是 <a href=\" Fable（和 Mythos）5.1 的发布日</a>。Anthropic 表示，Fable 5.1“在编程、知识工作和长时间运行的问题求解任务上树立了新标准”。",
+          "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2366,7 +2422,11 @@
               "published_at": "Wed, 02 Sep 2026 22:44:56 +0000"
             }
           ],
-          "route": "/hot/2026-09-03/topic/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/"
+          "route": "/hot/2026-09-03/topic/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+          "headline_zh": "消息人士称，Palo Alto Networks 以 5 亿美元收购获 Thrive 投资的 Console",
+          "summary_short_zh": "业内观察人士认为，这笔收购也使获红杉资本投资的 Serval 成为 AI 驱动的 IT 服务自动化领域中事实上的初创企业领头羊",
+          "why_it_matters_zh": "此次收购有 1 个独立来源报道。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -2410,7 +2470,11 @@
               "published_at": "Wed, 02 Sep 2026 18:21:20 +0000"
             }
           ],
-          "route": "/hot/2026-09-03/topic/how-an-aws-team-detects-dashboard-content-failures-at-scale-using-amazon-bedrock/"
+          "route": "/hot/2026-09-03/topic/how-an-aws-team-detects-dashboard-content-failures-at-scale-using-amazon-bedrock/",
+          "headline_zh": "AWS 团队如何使用 Amazon Bedrock 大规模检测仪表盘内容异常",
+          "summary_short_zh": "即使所有基础设施监控都显示正常，商业智能仪表盘仍可能悄然出错，显示空白、过时或错误的数据。",
+          "why_it_matters_zh": "这一行业动向有 1 个独立来源报道。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "527f9e330a29",
@@ -2458,7 +2522,11 @@
               "published_at": "2026-09-02T12:40:50-04:00"
             }
           ],
-          "route": "/hot/2026-09-03/topic/researchers-fear-safety-disaster-ahead-of-openai-8217-s-astra-release/"
+          "route": "/hot/2026-09-03/topic/researchers-fear-safety-disaster-ahead-of-openai-8217-s-astra-release/",
+          "headline_zh": "OpenAI 的 Astra 发布在即，研究人员担忧发生安全灾难",
+          "summary_short_zh": "OpenAI 即将发布迄今最强大的 AI 模型 Astra。此前，其智能体在测试中攻击了真实目标，公司为强化安全规程，将发布推迟了数周。",
+          "why_it_matters_zh": "这则其他类别的消息有 3 个独立来源报道。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "c3dff70b8132",
@@ -2496,7 +2564,11 @@
               "published_at": "2026-09-03T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-03/topic/five-country-ministerial-2026-australian-government-department-of-home-affairs/"
+          "route": "/hot/2026-09-03/topic/five-country-ministerial-2026-australian-government-department-of-home-affairs/",
+          "headline_zh": "2026 年五国部长级会议（澳大利亚政府内政部）",
+          "summary_short_zh": "2026 年五国部长级会议（澳大利亚政府内政部",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "37e8f1d2eec4",
@@ -2534,7 +2606,10 @@
               "published_at": "2026-09-03T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-03/topic/import-ai-471-why-hugging-face-worries-me-space-mining-five-eyes-on-ai/"
+          "route": "/hot/2026-09-03/topic/import-ai-471-why-hugging-face-worries-me-space-mining-five-eyes-on-ai/",
+          "headline_zh": "Import AI 第 471 期：Hugging Face 为何让我担忧；太空采矿；五眼联盟谈 AI",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "8192e4491b66",
@@ -2572,7 +2647,11 @@
               "published_at": "2026-09-03T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-03/topic/the-rise-and-fall-of-agent-civilizations-dwarkesh-podcast/"
+          "route": "/hot/2026-09-03/topic/the-rise-and-fall-of-agent-civilizations-dwarkesh-podcast/",
+          "headline_zh": "智能体文明的兴衰（Dwarkesh Podcast）",
+          "summary_short_zh": "智能体文明的兴衰（Dwarkesh Podcast",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -2616,7 +2695,11 @@
               "published_at": "2026-09-02T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-09-03/topic/earlyeval-cheaper-agent-evaluation-via-early-outcome-prediction/"
+          "route": "/hot/2026-09-03/topic/earlyeval-cheaper-agent-evaluation-via-early-outcome-prediction/",
+          "headline_zh": "EarlyEval：通过提前预测结果降低智能体评估成本",
+          "summary_short_zh": "评估是指导大语言模型（LLM）智能体开发的关键环节，但成本已高得难以承受：前沿模型跑一轮智能体基准测试就可能花费数百至数千美元，开发迭代中还会反复产生这笔开销。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "ad353c03c32c",
@@ -2654,7 +2737,11 @@
               "published_at": "2026-09-02T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-09-03/topic/repo-to-skill-distilling-github-repositories-into-ai4ai-skills/"
+          "route": "/hot/2026-09-03/topic/repo-to-skill-distilling-github-repositories-into-ai4ai-skills/",
+          "headline_zh": "Repo-To-Skill：将 GitHub 仓库提炼为 AI4AI 技能",
+          "summary_short_zh": "自主智能体已开始端到端地开展机器学习（ML）研究。它们将主干模型与负责规划、执行、记忆和验证的运行框架相结合，但特定领域的实践知识仍未融入智能体。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "cf4e30d90759",
@@ -2692,7 +2779,11 @@
               "published_at": "2026-09-02T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-09-03/topic/solarwm-open-data-and-scalable-training-for-long-horizon-video-world-models/"
+          "route": "/hot/2026-09-03/topic/solarwm-open-data-and-scalable-training-for-long-horizon-video-world-models/",
+          "headline_zh": "SolarWM：面向长时程视频世界模型的开放数据与可扩展训练",
+          "summary_short_zh": "我们提出 SolarWM，为构建交互式视频世界模型提供完全开放的基础，涵盖从数据准备到长时程推理的全流程。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "2db7873e3d52",
@@ -2730,7 +2821,11 @@
               "published_at": "2026-09-02T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-09-03/topic/cliff-learning-process-rewards-from-the-first-mistake/"
+          "route": "/hot/2026-09-03/topic/cliff-learning-process-rewards-from-the-first-mistake/",
+          "headline_zh": "Cliff：从首个错误中学习过程奖励",
+          "summary_short_zh": "基于可验证奖励的强化学习（RLVR）已成为大语言模型（LLM）后训练的一种强大范式，但由于依赖粗粒度的结果奖励，对中间推理过程的指导有限。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "17582d6a4514",
@@ -2768,7 +2863,11 @@
               "published_at": "2026-09-02T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-09-03/topic/language-models-can-control-their-own-attention/"
+          "route": "/hot/2026-09-03/topic/language-models-can-control-their-own-attention/",
+          "headline_zh": "语言模型可以控制自身的注意力",
+          "summary_short_zh": "语言模型将大部分注意力集中在一小部分上下文上，却要读取整个 KV 缓存，才能找出少数关键词元。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         }
       ]
     }
@@ -2814,7 +2913,11 @@
               "published_at": "2026-09-02T11:47:03-04:00"
             }
           ],
-          "route": "/hot/2026-09-03/topic/google-is-sending-mrbeast-into-the-wilderness-armed-with-ai/"
+          "route": "/hot/2026-09-03/topic/google-is-sending-mrbeast-into-the-wilderness-armed-with-ai/",
+          "headline_zh": "Google 将派 MrBeast 带着 AI 走进荒野",
+          "summary_short_zh": "作为与 Google 多年合作计划的一部分，MrBeast 将在即将发布的视频中展示 Gemini、Google Health 和 Fitbit Air。",
+          "why_it_matters_zh": "这一行业动向见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "6aa28a227218",
@@ -2852,7 +2955,11 @@
               "published_at": "Wed, 02 Sep 2026 18:26:35 +0000"
             }
           ],
-          "route": "/hot/2026-09-03/topic/modernizing-and-scaling-support-operations-with-generative-ai-on-aws/"
+          "route": "/hot/2026-09-03/topic/modernizing-and-scaling-support-operations-with-generative-ai-on-aws/",
+          "headline_zh": "利用 AWS 上的生成式 AI 推动支持运营现代化并扩大规模",
+          "summary_short_zh": "了解如何在 AWS 上构建基于生成式 AI 的支持运营平台，将培训视频转化为结构化标准操作规程（SOP），运用检索增强生成指导工单处理，并利用机器学习预测服务级别协议（SLA）违约风险、确定工作优先级。",
+          "why_it_matters_zh": "本教程见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "4dd7e3585c21",
@@ -2890,7 +2997,11 @@
               "published_at": "Wed, 02 Sep 2026 21:22:05 +0000"
             }
           ],
-          "route": "/hot/2026-09-03/topic/accessing-openai-models-on-amazon-bedrock-from-australia-with-global-cross-region-inference/"
+          "route": "/hot/2026-09-03/topic/accessing-openai-models-on-amazon-bedrock-from-australia-with-global-cross-region-inference/",
+          "headline_zh": "通过全球跨区域推理，在澳大利亚访问 Amazon Bedrock 上的 OpenAI 模型",
+          "summary_short_zh": "澳大利亚团队现在可从亚太地区（悉尼）和亚太地区（墨尔本）区域，借助全球跨区域推理访问 Amazon Bedrock 上的 OpenAI GPT-5.6 Sol、Terra 和 Luna 模型。",
+          "why_it_matters_zh": "本教程见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "2d2cadff86db",
@@ -2928,7 +3039,11 @@
               "published_at": "Wed, 02 Sep 2026 16:25:00 -0400"
             }
           ],
-          "route": "/hot/2026-09-03/topic/from-mit-to-ibm-expediting-ai-and-quantum-deployment/"
+          "route": "/hot/2026-09-03/topic/from-mit-to-ibm-expediting-ai-and-quantum-deployment/",
+          "headline_zh": "从 MIT 到 IBM，加速 AI 与量子技术落地",
+          "summary_short_zh": "MIT 相关人员与 MIT-IBM Computing Research Lab 合作，将严谨的理论应用于生产系统。",
+          "why_it_matters_zh": "这则其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "a6a3d2a798b2",
@@ -2966,7 +3081,11 @@
               "published_at": "Wed, 02 Sep 2026 22:24:09 +0000"
             }
           ],
-          "route": "/hot/2026-09-03/topic/techcrunch-disrupt-2026-s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/"
+          "route": "/hot/2026-09-03/topic/techcrunch-disrupt-2026-s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+          "headline_zh": "TechCrunch Disrupt 2026 新设 Real World AI 舞台，亮点包括英伟达、机器人和已灭绝动物",
+          "summary_short_zh": "我们将在全新的 Real World AI 舞台上，聚焦数字世界与物理世界的交汇，以及两者持续融合的各种方式。",
+          "why_it_matters_zh": "这则其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "e95be426d346",
@@ -3004,7 +3123,11 @@
               "published_at": "Wed, 02 Sep 2026 11:00:00 -0400"
             }
           ],
-          "route": "/hot/2026-09-03/topic/system-helps-humans-predict-when-self-driving-cars-will-make-mistakes/"
+          "route": "/hot/2026-09-03/topic/system-helps-humans-predict-when-self-driving-cars-will-make-mistakes/",
+          "headline_zh": "系统帮助人们预测自动驾驶汽车何时会出错",
+          "summary_short_zh": "一种名为 CW-Net 的新方法，能将自动驾驶汽车 AI 系统的推理过程转化为易懂的概念，从而解释车辆的行为。",
+          "why_it_matters_zh": "这则其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "dc5cb4217b35",
@@ -3042,7 +3165,11 @@
               "published_at": "2026-09-02T12:12:25-04:00"
             }
           ],
-          "route": "/hot/2026-09-03/topic/the-trump-administration-is-supporting-openai-in-the-nyt-copyright-lawsuit/"
+          "route": "/hot/2026-09-03/topic/the-trump-administration-is-supporting-openai-in-the-nyt-copyright-lawsuit/",
+          "headline_zh": "特朗普政府在《纽约时报》版权诉讼案中支持 OpenAI",
+          "summary_short_zh": "特朗普政府介入了《纽约时报》针对 OpenAI 提起的版权诉讼，并提出了有利于这家 AI 实验室的论点。",
+          "why_it_matters_zh": "这则其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "f7265dc7675f",
@@ -3080,7 +3207,11 @@
               "published_at": "Wed, 02 Sep 2026 17:18:13 +0000"
             }
           ],
-          "route": "/hot/2026-09-03/topic/pangram-s-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/"
+          "route": "/hot/2026-09-03/topic/pangram-s-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
+          "headline_zh": "Pangram 的 Max Spero 谈 AI 检测为何比判断“真假”更难",
+          "summary_short_zh": "互联网上存在信任问题，原因不只是社交媒体信息流中充斥着 AI 生成的垃圾内容。",
+          "why_it_matters_zh": "这则其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }

@@ -2225,7 +2225,15 @@
           "published_at": "Wed, 19 Aug 2026 19:00:00 +0000"
         }
       ],
-      "route": "/hot/2026-08-20/topic/5-new-ways-to-level-up-your-learning-with-search/"
+      "route": "/hot/2026-08-20/topic/5-new-ways-to-level-up-your-learning-with-search/",
+      "headline_zh": "借助 Google 搜索提升学习效果的 5 种新方法",
+      "summary_short_zh": "一张包含图标和“添加笔记本”“向 Google 提问”等文字的插画",
+      "why_it_matters_zh": "此次产品发布消息见于 2 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Google 推出新的学习功能，这是其推动 Gemini 成为学生首选 AI 学习助手的最新举措。Google 仍在与其他公司竞争，例如 Op...",
+        "一张包含图标和“添加笔记本”“向 Google 提问”等文字的插画"
+      ]
     },
     {
       "topic_id": "67ff59fe3028",
@@ -2265,7 +2273,14 @@
           "published_at": "Wed, 19 Aug 2026 22:06:09 +0000"
         }
       ],
-      "route": "/hot/2026-08-20/topic/asynchronous-patterns-for-calling-amazon-bedrock-agentcore-agents-in-serverless-pipelines/"
+      "route": "/hot/2026-08-20/topic/asynchronous-patterns-for-calling-amazon-bedrock-agentcore-agents-in-serverless-pipelines/",
+      "headline_zh": "在无服务器流水线中异步调用 Amazon Bedrock AgentCore 智能体的模式",
+      "summary_short_zh": "本文介绍三种无服务器模式（任务令牌回调、直接服务集成和持久函数），用于从 AWS Step Functions 流水线异步调用 Amazon Bedrock AgentCore 智能体，避免在 AI 智能体处理请求期间产生空闲计算费用",
+      "why_it_matters_zh": "此次产品发布消息见于 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "本文介绍异步调用 Amazon Bedrock AgentCore 智能体的三种无服务器模式（任务令牌回调、直接服务集成和持久函数），这些调用由 AWS Step ..."
+      ]
     },
     {
       "topic_id": "914d29a2349e",
@@ -2305,7 +2320,14 @@
           "published_at": "Wed, 19 Aug 2026 22:09:56 +0000"
         }
       ],
-      "route": "/hot/2026-08-20/topic/automate-document-processing-with-quick-automate-and-the-idp-accelerator/"
+      "route": "/hot/2026-08-20/topic/automate-document-processing-with-quick-automate-and-the-idp-accelerator/",
+      "headline_zh": "使用 Quick Automate 和 IDP Accelerator 实现文档处理自动化",
+      "summary_short_zh": "对大量文档进行分类、信息提取和验证，是银行、保险、医疗和公共部门共同面临的挑战。",
+      "why_it_matters_zh": "此次产品发布消息见于 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "对大量文档进行分类、信息提取和验证，是银行、保险、医疗和公共部门共同面临的挑战。了解一家中型抵押贷款机构如何自动化处理其全部..."
+      ]
     },
     {
       "topic_id": "496fa8c40cf1",
@@ -2345,7 +2367,14 @@
           "published_at": "Wed, 19 Aug 2026 19:00:00 GMT"
         }
       ],
-      "route": "/hot/2026-08-20/topic/offering-zero-data-retention-for-frontier-models/"
+      "route": "/hot/2026-08-20/topic/offering-zero-data-retention-for-frontier-models/",
+      "headline_zh": "为前沿模型提供零数据保留选项",
+      "summary_short_zh": "OpenAI 重申为符合条件的 API 客户提供零数据保留，并预告 Private Safety Processing，在保护数据隐私的同时提供先进的 AI 安全防护",
+      "why_it_matters_zh": "此次产品发布消息见于 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "OpenAI 重申为符合条件的 API 客户提供零数据保留，并预告 Private Safety Processing，在保护数据隐私的同时提供先进的 AI 安全防护。"
+      ]
     },
     {
       "topic_id": "501ff722f8c3",
@@ -2385,7 +2414,14 @@
           "published_at": "Wed, 19 Aug 2026 07:00:00 GMT"
         }
       ],
-      "route": "/hot/2026-08-20/topic/replit-expands-access-to-software-creation-with-gpt-5-6-luna/"
+      "route": "/hot/2026-08-20/topic/replit-expands-access-to-software-creation-with-gpt-5-6-luna/",
+      "headline_zh": "Replit 借助 GPT-5.6 Luna 降低软件开发门槛",
+      "summary_short_zh": "Replit 推出由 GPT-5.6 Luna 驱动的 Free Mode，让任何人都能将想法变成可运行的软件，无需担心词元费用",
+      "why_it_matters_zh": "此次产品发布消息见于 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Replit 推出由 GPT-5.6 Luna 驱动的 Free Mode，让任何人都能将想法变成可运行的软件，无需担心词元费用。"
+      ]
     }
   ],
   "category_sections": [
@@ -2429,7 +2465,11 @@
               "published_at": "Wed, 19 Aug 2026 22:13:20 +0000"
             }
           ],
-          "route": "/hot/2026-08-20/topic/domain-and-publish-date-filters-for-web-search-on-agentcore/"
+          "route": "/hot/2026-08-20/topic/domain-and-publish-date-filters-for-web-search-on-agentcore/",
+          "headline_zh": "AgentCore 网页搜索的域名和发布日期筛选功能",
+          "summary_short_zh": "Amazon Bedrock AgentCore 的网页搜索现已支持在运行时按域名和发布日期筛选。借助新增的筛选条件，开发者可针对每次请求控制智能体查阅的网页来源及其时效要求，所有筛选均在服务端执行。",
+          "why_it_matters_zh": "此次产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "d249e6a8f1fa",
@@ -2467,7 +2507,11 @@
               "published_at": "Wed, 19 Aug 2026 20:40:45 +0000"
             }
           ],
-          "route": "/hot/2026-08-20/topic/how-fanatics-betting-and-gaming-built-a-multi-agent-customer-support-system/"
+          "route": "/hot/2026-08-20/topic/how-fanatics-betting-and-gaming-built-a-multi-agent-customer-support-system/",
+          "headline_zh": "Fanatics Betting and Gaming 如何构建多智能体客户支持系统",
+          "summary_short_zh": "Fanatics Betting and Gaming 在 AWS 上构建了多智能体客户支持系统，以应对体育博彩的复杂需求：各州不同的规则、实时落实负责任博彩要求，以及重大体育赛事期间的流量激增。",
+          "why_it_matters_zh": "本次产品发布由 1 个独立来源报道。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "8050c518797e",
@@ -2505,7 +2549,11 @@
               "published_at": "2026-08-19T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-08-20/topic/you-don-t-need-a-frontier-model-you-need-a-verifier/"
+          "route": "/hot/2026-08-20/topic/you-don-t-need-a-frontier-model-you-need-a-verifier/",
+          "headline_zh": "你不需要前沿模型。你需要的是验证器。",
+          "summary_short_zh": "你不需要前沿模型。你需要的是验证器",
+          "why_it_matters_zh": "本次产品发布由 1 个独立来源报道。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "79d7b2ccc3e2",
@@ -2543,7 +2591,11 @@
               "published_at": "Tue, 18 Aug 2026 22:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-08-20/topic/chatgpt-ads-expands-across-europe/"
+          "route": "/hot/2026-08-20/topic/chatgpt-ads-expands-across-europe/",
+          "headline_zh": "ChatGPT Ads 扩展至欧洲更多市场",
+          "summary_short_zh": "ChatGPT Ads 正扩展至欧洲 31 个市场。了解广告主如何在用户探索、比较选项和做出决策时触达他们。",
+          "why_it_matters_zh": "本次产品发布由 1 个独立来源报道。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "d3f977dc4869",
@@ -2581,7 +2633,10 @@
               "published_at": "2026-08-19T16:29:02Z"
             }
           ],
-          "route": "/hot/2026-08-20/topic/launch-hn-onecli-yc-s26-oss-sandboxed-agent-harness-for-teams/"
+          "route": "/hot/2026-08-20/topic/launch-hn-onecli-yc-s26-oss-sandboxed-agent-harness-for-teams/",
+          "headline_zh": "Launch HN：OneCLI（YC S26），面向团队的开源智能体运行框架，支持沙箱隔离",
+          "why_it_matters_zh": "本次产品发布由 1 个独立来源报道。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2625,7 +2680,11 @@
               "published_at": "Wed, 19 Aug 2026 21:51:23 +0000"
             }
           ],
-          "route": "/hot/2026-08-20/topic/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/"
+          "route": "/hot/2026-08-20/topic/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+          "headline_zh": "Cognition 首席执行官否认 SpaceX 曾试图收购该公司的报道",
+          "summary_short_zh": "据报道，SpaceX 曾洽谈收购 AI 编程初创公司 Cognition。SpaceX 已收购 Cursor，正加紧追赶 OpenAI、Anthropic 等企业级 AI 领域的竞争对手。",
+          "why_it_matters_zh": "本次收购由 1 个独立来源报道。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "67630c9d07cf",
@@ -2663,7 +2722,11 @@
               "published_at": "Wed, 19 Aug 2026 23:32:00 +0000"
             }
           ],
-          "route": "/hot/2026-08-20/topic/stripe-didn-t-really-buy-openrouter-because-of-the-singularity/"
+          "route": "/hot/2026-08-20/topic/stripe-didn-t-really-buy-openrouter-because-of-the-singularity/",
+          "headline_zh": "Stripe 收购 OpenRouter，其实不是因为“奇点”",
+          "summary_short_zh": "一家支付巨头为何要收购一家在不同 AI 模型间分发提示词的初创公司？Stripe 称是因为“奇点”，但真正的原因要现实得多，也更有说服力。",
+          "why_it_matters_zh": "本次收购由 1 个独立来源报道。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "4533cc078b77",
@@ -2701,7 +2764,11 @@
               "published_at": "2026-08-19T08:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-20/topic/nvidia-s-new-financial-strategy-does-not-compute/"
+          "route": "/hot/2026-08-20/topic/nvidia-s-new-financial-strategy-does-not-compute/",
+          "headline_zh": "英伟达的新财务策略说不通",
+          "summary_short_zh": "1805 年 4 月，拿破仑称霸欧洲，只有英国舰队仍挡在他面前。算力如今已成为一类资产。看来，又到了谈论金融创新的时候。",
+          "why_it_matters_zh": "本次融资由 1 个独立来源报道。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "36837be6ff28",
@@ -2739,7 +2806,11 @@
               "published_at": "Wed, 19 Aug 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-08-20/topic/anthropic-has-twice-the-revenue-of-openai/"
+          "route": "/hot/2026-08-20/topic/anthropic-has-twice-the-revenue-of-openai/",
+          "headline_zh": "Anthropic 的营收是 OpenAI 的两倍",
+          "summary_short_zh": "图中是《华尔街日报》的一段摘录，称 Anthropic 营收增长逾一倍，达到 116 亿美元，并实现少量营业利润；OpenAI 的季度营收则升至 67 亿美元，但营业亏损进一步扩大。",
+          "why_it_matters_zh": "本次融资由 1 个独立来源报道。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -2783,7 +2854,11 @@
               "published_at": "Wed, 19 Aug 2026 14:18:12 GMT"
             }
           ],
-          "route": "/hot/2026-08-20/topic/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push/"
+          "route": "/hot/2026-08-20/topic/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push/",
+          "headline_zh": "VentureBeat 任命 Rob Strechay 为首任首席分析师，加大企业级 AI 研究力度",
+          "summary_short_zh": "<p>不久前还担任 theCUBE Research 董事总经理兼首席分析师的 Rob Strechay 已加入 VentureBeat，成为我们的首位首席分析师，也是 VentureBeat Research 的创始分析师之一。",
+          "why_it_matters_zh": "这则行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "278221d7b17b",
@@ -2821,7 +2896,10 @@
               "published_at": "2026-08-20T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-20/topic/import-ai-468-23-rsi-ideas-posttrainbench-and-how-trust-and-transparency-interplay-with-ai-racing/"
+          "route": "/hot/2026-08-20/topic/import-ai-468-23-rsi-ideas-posttrainbench-and-how-trust-and-transparency-interplay-with-ai-racing/",
+          "headline_zh": "Import AI 468：23 个 RSI 构想；PostTrainBench+；信任、透明度与 AI 竞赛如何相互影响",
+          "why_it_matters_zh": "这则其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "98d640c2c00c",
@@ -2859,7 +2937,10 @@
               "published_at": "2026-08-20T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-20/topic/import-ai-469-science-ai-rsi-simulator-and-zuck-s-technological-pessimism/"
+          "route": "/hot/2026-08-20/topic/import-ai-469-science-ai-rsi-simulator-and-zuck-s-technological-pessimism/",
+          "headline_zh": "Import AI 469：科研 AI；RSI 模拟器；扎克伯格的技术悲观主义",
+          "why_it_matters_zh": "这则其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "4b15a9eaba48",
@@ -2897,7 +2978,11 @@
               "published_at": "Thu, 20 Aug 2026 01:06:45 +0000"
             }
           ],
-          "route": "/hot/2026-08-20/topic/8-agent/"
+          "route": "/hot/2026-08-20/topic/8-agent/",
+          "headline_zh": "华尔街实测8款全球主流Agent：千问办公综合排名第一",
+          "summary_short_zh": "成本也正成为Agent商业化需要考虑的重要因素",
+          "why_it_matters_zh": "这则其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "b01c9ba628ad",
@@ -2935,7 +3020,11 @@
               "published_at": "2026-08-19T13:10:09-04:00"
             }
           ],
-          "route": "/hot/2026-08-20/topic/openai-hit-the-brakes-now-what/"
+          "route": "/hot/2026-08-20/topic/openai-hit-the-brakes-now-what/",
+          "headline_zh": "OpenAI 踩了刹车，接下来呢？",
+          "summary_short_zh": "IPO 在即，Anthropic 带来激烈竞争，中国和开放权重阵营的对手又紧追不舍，OpenAI 有充分理由加快步伐，却选择踩下刹车。",
+          "why_it_matters_zh": "这则其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -2979,7 +3068,11 @@
               "published_at": "Wed, 19 Aug 2026 20:36:50 +0000"
             }
           ],
-          "route": "/hot/2026-08-20/topic/knowledgeforge-mining-gold-from-the-itsm-ticket-graveyard/"
+          "route": "/hot/2026-08-20/topic/knowledgeforge-mining-gold-from-the-itsm-ticket-graveyard/",
+          "headline_zh": "KnowledgeForge：从 ITSM 旧工单中淘金",
+          "summary_short_zh": "KnowledgeForge 利用 Amazon Bedrock、Amazon S3 Vectors 和 AWS Step Functions 构建多租户闭环流水线，将已解决的 ITSM 事件工单提炼为新的知识库文章，并通过去重、质量评分和内容优化自动维护现有知识库。",
+          "why_it_matters_zh": "这则工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "beef47ea46c9",
@@ -3017,7 +3110,11 @@
               "published_at": "2026-08-17T18:23:44Z"
             }
           ],
-          "route": "/hot/2026-08-20/topic/elie222-botdirectory-ai/"
+          "route": "/hot/2026-08-20/topic/elie222-botdirectory-ai/",
+          "headline_zh": "elie222/botdirectory.ai",
+          "summary_short_zh": "开源智能体机器人提示词目录，适用于 Grok Bot、Rakazo 及各类智能体：botdirectory.ai",
+          "why_it_matters_zh": "这则工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     }
@@ -3069,7 +3166,11 @@
               "published_at": "Wed, 19 Aug 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-08-20/topic/dflash-2-available-for-qwen-3-8-27b-and-muse-glimmer/"
+          "route": "/hot/2026-08-20/topic/dflash-2-available-for-qwen-3-8-27b-and-muse-glimmer/",
+          "headline_zh": "DFlash 2 现已支持 Qwen 3.8 27B 和 Muse Glimmer",
+          "summary_short_zh": "DFlash 原作者已发布适用于 Qwen 3.8 27B 和 Muse Glimmer 的 DFlash 2，GGUF 量化版本现已可用，llama.cpp 也已有对应的 PR #27342。",
+          "why_it_matters_zh": "这则产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "5b4ff6d2871c",
@@ -3107,7 +3208,11 @@
               "published_at": "Wed, 19 Aug 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-08-20/topic/introducing-qwen3-8-27b-dynamic-v3-unsloth-ggufs/"
+          "route": "/hot/2026-08-20/topic/introducing-qwen3-8-27b-dynamic-v3-unsloth-ggufs/",
+          "headline_zh": "推出 Qwen3.8-27B Dynamic v3 Unsloth GGUF 量化版本",
+          "summary_short_zh": "图片是一张“Dynamic v3.0 Qwen3.8”技术公告图，展示了 Unsloth 新推出的 Qwen3.8-27B Dynamic v3 GGUF 训练后量化版本，并声称在 GGUF 文件大小相同的情况下，top-1% 准确率比其他提供商高出逾 10%。",
+          "why_it_matters_zh": "这则产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "3cd955fcf03c",
@@ -3145,7 +3250,11 @@
               "published_at": "Wed, 19 Aug 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-08-20/topic/qwen3-8-27b-on-2x-3090-vllm-dflash2-218-tok-s-single-request/"
+          "route": "/hot/2026-08-20/topic/qwen3-8-27b-on-2x-3090-vllm-dflash2-218-tok-s-single-request/",
+          "headline_zh": "双 3090 + vLLM + DFlash2 运行 Qwen3.8-27B：单请求达 218 tok/s",
+          "summary_short_zh": "一位用户报告称，在两张 RTX 3090 上使用 vLLM v0.26.1rc1、AutoRound INT4 量化（组大小为 128）和 DFlash2 草稿模型运行 Qwen3.8-27B，通过 Club-3090 标准基准测试套件测得，叙事文本和代码任务的单请求解码速度分别达到 120.1 tok/s 和 218.3 tok/s。",
+          "why_it_matters_zh": "这则产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -3189,7 +3298,11 @@
               "published_at": "2026-08-19T13:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-20/topic/meta-ai-is-getting-a-mac-app/"
+          "route": "/hot/2026-08-20/topic/meta-ai-is-getting-a-mac-app/",
+          "headline_zh": "Meta AI 将推出 Mac 应用",
+          "summary_short_zh": "Meta 正在为其 AI 聊天机器人推出一款新的 Mac 专用应用。Meta 在周三的公告中表示，用户可以与 AI 聊天机器人共享窗口，让它根据屏幕内容提供建议、回答问题或创作内容。",
+          "why_it_matters_zh": "这则其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "017e851154f9",
@@ -3227,7 +3340,11 @@
               "published_at": "Wed, 19 Aug 2026 19:11:40 +0000"
             }
           ],
-          "route": "/hot/2026-08-20/topic/ai-was-supposed-to-win-people-over-by-now-it-hasn-t/"
+          "route": "/hot/2026-08-20/topic/ai-was-supposed-to-win-people-over-by-now-it-hasn-t/",
+          "headline_zh": "AI 本该已经赢得大众认可，却仍未做到",
+          "summary_short_zh": "随着 AI 越来越难以回避，消费者对这项技术愈发警惕。硅谷也逐渐发现，广泛使用并不意味着人们就会接受它。",
+          "why_it_matters_zh": "这则其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "7b2e3613885b",
@@ -3265,7 +3382,11 @@
               "published_at": "Wed, 19 Aug 2026 10:12:09 +0000"
             }
           ],
-          "route": "/hot/2026-08-20/topic/2026/"
+          "route": "/hot/2026-08-20/topic/2026/",
+          "headline_zh": "全球首个人形机器人自主乒乓球完整对局亮相2026世界机器人大会",
+          "summary_short_zh": "超维动力KAI全栈具身智能硬核登场",
+          "why_it_matters_zh": "这则其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "5db9128596bc",
@@ -3303,7 +3424,10 @@
               "published_at": "2026-08-19T15:14:25Z"
             }
           ],
-          "route": "/hot/2026-08-20/topic/mathematics-in-the-age-of-ai/"
+          "route": "/hot/2026-08-20/topic/mathematics-in-the-age-of-ai/",
+          "headline_zh": "AI 时代的数学",
+          "why_it_matters_zh": "这则其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "9253ae48f49c",
@@ -3341,7 +3465,10 @@
               "published_at": "2026-08-19T16:26:05Z"
             }
           ],
-          "route": "/hot/2026-08-20/topic/extensible-software-in-the-age-of-llms/"
+          "route": "/hot/2026-08-20/topic/extensible-software-in-the-age-of-llms/",
+          "headline_zh": "大语言模型时代的可扩展软件",
+          "why_it_matters_zh": "这则其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -3392,7 +3519,11 @@
           "published_at": "Wed, 19 Aug 2026 05:44:39 GMT"
         }
       ],
-      "route": "/hot/2026-08-20/topic/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/"
+      "route": "/hot/2026-08-20/topic/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+      "headline_zh": "OpenAI 推出新的客户隐私保护措施，力求超越 Anthropic",
+      "summary_short_zh": "OpenAI 与 Anthropic 正展开竞争，看谁能为企业客户数据提供最完善的隐私保护。",
+      "why_it_matters_zh": "这篇研究论文见于 2 个独立来源。",
+      "category_zh": "研究"
     }
   ],
   "x_buzz": [

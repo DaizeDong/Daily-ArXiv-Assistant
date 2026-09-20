@@ -1801,7 +1801,14 @@
           "published_at": "Thu, 13 Aug 2026 03:54:01 +0000"
         }
       ],
-      "route": "/hot/2026-08-13/topic/deepseek-v4-pro-0813-on-openrouter/"
+      "route": "/hot/2026-08-13/topic/deepseek-v4-pro-0813-on-openrouter/",
+      "headline_zh": "DeepSeek V4 Pro 0813（通过 OpenRouter 提供）",
+      "summary_short_zh": "<p><strong><a href=\" V4 Pro 0813（通过 OpenRouter 提供）</a></strong></p> 最新的 DeepSeek Pro 模型现已上线，仅可通过 API 使用。",
+      "why_it_matters_zh": "该产品发布消息见于 2 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "刚刚，DeepSeek V4 Pro正式版发布，多项对标Fable 5"
+      ]
     },
     {
       "topic_id": "dafa585b56d4",
@@ -1839,7 +1846,10 @@
           "published_at": "2026-08-12T16:00:58+00:00"
         }
       ],
-      "route": "/hot/2026-08-13/topic/meet-north-micro-vision-a-2-4b-native-resolution-vision-language-model/"
+      "route": "/hot/2026-08-13/topic/meet-north-micro-vision-a-2-4b-native-resolution-vision-language-model/",
+      "headline_zh": "North Micro Vision 亮相：支持原生分辨率的 24 亿参数视觉语言模型",
+      "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "0f01df61b345",
@@ -1886,7 +1896,15 @@
           "published_at": "2026-08-12T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-08-13/topic/introducing-build-mode/"
+      "route": "/hot/2026-08-13/topic/introducing-build-mode/",
+      "headline_zh": "推出 Build Mode",
+      "summary_short_zh": "创建并分享网站、应用、游戏和交互式仪表盘。早期 Beta 版现已在 grok.com、iOS 和 Android 上向 SuperGrok Heavy 订阅用户开放",
+      "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "创建并分享网站、应用、游戏和交互式仪表盘。早期 Beta 版现已在 grok.com、iOS 和 Android 上向 SuperGrok Heavy 订阅用户开放。",
+        "Grok 4.6 在 Grok 4.5 的基础上进一步升级，重点关注长时间运行的智能体及更具挑战性的交互与视觉任务。"
+      ]
     },
     {
       "topic_id": "589c29936feb",
@@ -1926,7 +1944,14 @@
           "published_at": "Wed, 12 Aug 2026 13:42:48 +0000"
         }
       ],
-      "route": "/hot/2026-08-13/topic/tiered-kv-cache-for-large-llms-on-amazon-sagemaker-hyperpod-with-curvine/"
+      "route": "/hot/2026-08-13/topic/tiered-kv-cache-for-large-llms-on-amazon-sagemaker-hyperpod-with-curvine/",
+      "headline_zh": "借助 Curvine 在 Amazon SageMaker HyperPod 上为大型语言模型构建分层 KV 缓存",
+      "summary_short_zh": "大规模运行大语言模型推理时，必须在 KV 缓存上作出取舍：使用规格过大的 GPU 实例，或接受较长的首 token 延迟。",
+      "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "大规模运行大语言模型推理时，必须在 KV 缓存上作出取舍：使用规格过大的 GPU 实例，或接受较长的首 token 延迟。本文介绍如何在 Amazon SageMaker HyperPod 上构建分层 KV 缓存……"
+      ]
     },
     {
       "topic_id": "2f85a736181e",
@@ -1966,7 +1991,14 @@
           "published_at": "Wed, 12 Aug 2026 14:01:59 +0000"
         }
       ],
-      "route": "/hot/2026-08-13/topic/putting-sign-language-ai-into-users-hands/"
+      "route": "/hot/2026-08-13/topic/putting-sign-language-ai-into-users-hands/",
+      "headline_zh": "让用户用上手语 AI",
+      "summary_short_zh": "我们推出突破性的手语转文本模型（SL2T），为聋人和重听用户带来新的手语功能",
+      "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "我们推出突破性的手语转文本模型（SL2T），为聋人和重听用户带来新的手语功能。"
+      ]
     }
   ],
   "category_sections": [
@@ -2010,7 +2042,11 @@
               "published_at": "Wed, 12 Aug 2026 09:51:00 +0000"
             }
           ],
-          "route": "/hot/2026-08-13/topic/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality/"
+          "route": "/hot/2026-08-13/topic/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality/",
+          "headline_zh": "货架空了，还是钥匙丢了？知识召回是参数化事实性的瓶颈",
+          "summary_short_zh": "生成式 AI",
+          "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "84b67e40823e",
@@ -2054,7 +2090,11 @@
               "published_at": "Wed, 12 Aug 2026 06:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-08-13/topic/how-ringcentral-builds-ai-native-work-from-engineering-to-ops/"
+          "route": "/hot/2026-08-13/topic/how-ringcentral-builds-ai-native-work-from-engineering-to-ops/",
+          "headline_zh": "从工程到运营：RingCentral 如何打造 AI 原生工作方式",
+          "summary_short_zh": "了解 RingCentral 如何利用 ChatGPT Work 和 Codex 加速 AI 产品开发，并集中整合工程与运营团队的运营洞察",
+          "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "bee1cb261950",
@@ -2092,7 +2132,11 @@
               "published_at": "2026-08-12T11:52:07-04:00"
             }
           ],
-          "route": "/hot/2026-08-13/topic/guitar-company-d-addario-admits-that-ai-music-was-used-in-a-promotional-video/"
+          "route": "/hot/2026-08-13/topic/guitar-company-d-addario-admits-that-ai-music-was-used-in-a-promotional-video/",
+          "headline_zh": "吉他公司 D’Addario 承认在宣传视频中使用了 AI 音乐",
+          "summary_short_zh": "经过数周的争议和猜测，音乐公司 D'Addario 承认，近期一支宣传视频的部分内容使用了 AI 工具 Suno。近两周来，尽管相关证据不断增多，该公司仍一直否认这些指控。",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "1709d922f575",
@@ -2130,7 +2174,11 @@
               "published_at": "2026-08-12T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-08-13/topic/north-mini-code-agentic-coding-for-developers-cohere/"
+          "route": "/hot/2026-08-13/topic/north-mini-code-agentic-coding-for-developers-cohere/",
+          "headline_zh": "North Mini Code：面向开发者的智能体编程 | Cohere",
+          "summary_short_zh": "认识 North Mini Code：Cohere 首款开源智能体编程模型，采用 300 亿参数的混合专家（MoE）架构，在低配硬件上也有出色的编程表现",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "2a2be7f0fc5a",
@@ -2168,7 +2216,11 @@
               "published_at": "2026-08-12T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-08-13/topic/imagine-image-2-0/"
+          "route": "/hot/2026-08-13/topic/imagine-image-2-0/",
+          "headline_zh": "Imagine Image 2.0",
+          "summary_short_zh": "Grok 4.6 在 Grok 4.5 的基础上进一步升级，重点支持长时间运行的智能体和更复杂的交互、视觉任务",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2212,7 +2264,11 @@
               "published_at": "Wed, 12 Aug 2026 17:41:29 +0000"
             }
           ],
-          "route": "/hot/2026-08-13/topic/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/"
+          "route": "/hot/2026-08-13/topic/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+          "headline_zh": "获 OpenAI 支持的 Thrive Holdings 融资 20 亿美元，推动企业应用 AI",
+          "summary_short_zh": "Thrive Holdings 获得 20 亿美元新融资，估值达 120 亿美元，投资方包括软银、D1 Capital Partners 和 Altimeter Capital",
+          "why_it_matters_zh": "此次融资见于 1 个独立来源。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "9f21c8f22256",
@@ -2250,7 +2306,11 @@
               "published_at": "Wed, 12 Aug 2026 18:19:12 +0000"
             }
           ],
-          "route": "/hot/2026-08-13/topic/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/"
+          "route": "/hot/2026-08-13/topic/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+          "headline_zh": "据报道，AI 编程初创公司 Cognition 已在洽谈以 400 亿美元估值融资",
+          "summary_short_zh": "Cognition 可能正寻求新一轮巨额融资，距离上次以 260 亿美元估值融资 10 亿美元仅过去几个月",
+          "why_it_matters_zh": "此次融资见于 1 个独立来源。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -2294,7 +2354,11 @@
               "published_at": "Wed, 12 Aug 2026 17:51:00 +0000"
             }
           ],
-          "route": "/hot/2026-08-13/topic/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/"
+          "route": "/hot/2026-08-13/topic/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+          "headline_zh": "AI 安全担忧加剧，三位先驱主张保持开放",
+          "summary_short_zh": "在 Ai4 大会上，三位备受全球尊敬的 AI 专家杰弗里·辛顿、李飞飞和吴恩达，就监管、开源技术的获取，以及中国在亚洲持续发展之际美国如何保持竞争力展开了辩论",
+          "why_it_matters_zh": "这则行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "29a37f482d32",
@@ -2332,7 +2396,11 @@
               "published_at": "2026-08-13T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-13/topic/how-should-the-us-prepare-for-increasingly-automated-ai-r-d-ifp/"
+          "route": "/hot/2026-08-13/topic/how-should-the-us-prepare-for-increasingly-automated-ai-r-d-ifp/",
+          "headline_zh": "美国应如何为日益自动化的 AI 研发做好准备？（IFP）",
+          "summary_short_zh": "美国应如何为日益自动化的 AI 研发做好准备？（IFP",
+          "why_it_matters_zh": "这则其他资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "278221d7b17b",
@@ -2370,7 +2438,10 @@
               "published_at": "2026-08-13T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-13/topic/import-ai-468-23-rsi-ideas-posttrainbench-and-how-trust-and-transparency-interplay-with-ai-racing/"
+          "route": "/hot/2026-08-13/topic/import-ai-468-23-rsi-ideas-posttrainbench-and-how-trust-and-transparency-interplay-with-ai-racing/",
+          "headline_zh": "Import AI 第 468 期：23 个 RSI 构想；PostTrainBench+；信任、透明度与 AI 竞赛如何相互影响",
+          "why_it_matters_zh": "这则其他资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "9b236b9e4abb",
@@ -2408,7 +2479,11 @@
               "published_at": "2026-08-13T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-13/topic/scaling-automated-post-training-intology-blog/"
+          "route": "/hot/2026-08-13/topic/scaling-automated-post-training-intology-blog/",
+          "headline_zh": "扩大自动化后训练规模（Intology 博客）",
+          "summary_short_zh": "扩大自动化后训练规模（Intology 博客",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "fb7dd9011efa",
@@ -2446,7 +2521,11 @@
               "published_at": "2026-08-13T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-13/topic/now-we-have-a-timeline-of-the-openai-accidental-attack-against-hugging-face-simon-willison-weblog/"
+          "route": "/hot/2026-08-13/topic/now-we-have-a-timeline-of-the-openai-accidental-attack-against-hugging-face-simon-willison-weblog/",
+          "headline_zh": "OpenAI 意外攻击 Hugging Face 事件的时间线现已出炉（Simon Willison 博客）",
+          "summary_short_zh": "OpenAI 意外攻击 Hugging Face 事件的时间线现已出炉（Simon Willison 博客",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -2490,7 +2569,11 @@
               "published_at": "Wed, 12 Aug 2026 13:44:58 +0000"
             }
           ],
-          "route": "/hot/2026-08-13/topic/pay-with-confidence-how-solv-labs-built-verifiable-auditable-agent-payments-on-amazon-bedrock-agentcore-payments/"
+          "route": "/hot/2026-08-13/topic/pay-with-confidence-how-solv-labs-built-verifiable-auditable-agent-payments-on-amazon-bedrock-agentcore-payments/",
+          "headline_zh": "放心支付：Solv Labs 如何基于 Amazon Bedrock AgentCore payments 实现可验证、可审计的智能体支付",
+          "summary_short_zh": "Solv Labs 基于 Amazon Bedrock AgentCore payments 构建了具备治理机制的智能体支付工作流，每笔交易在结算前都经过授权、在 AWS Nitro Enclave 中完成可信证明、按风险定价，并锚定至公有区块链。",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "ae2b352c7641",
@@ -2528,7 +2611,11 @@
               "published_at": "Wed, 12 Aug 2026 13:46:28 +0000"
             }
           ],
-          "route": "/hot/2026-08-13/topic/how-oneadvanced-deployed-over-50-ai-agents-on-uk-sovereign-aws/"
+          "route": "/hot/2026-08-13/topic/how-oneadvanced-deployed-over-50-ai-agents-on-uk-sovereign-aws/",
+          "headline_zh": "OneAdvanced 如何在符合英国主权要求的 AWS 云上部署 50 多个 AI 智能体",
+          "summary_short_zh": "了解英国企业软件供应商 OneAdvanced 如何在 Amazon SageMaker AI 上自行托管 Llama 4 Maverick 和 Llama Guard 4，结合基于 pgvector 的检索增强生成（RAG）流水线，以及在 Amazon ECS 上使用 Strands Agents SDK 构建的 50 多个智能体，打造符合英国主权要求的 AI 平台",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "755716f51bed",
@@ -2566,7 +2653,11 @@
               "published_at": "Wed, 12 Aug 2026 21:43:21 +0000"
             }
           ],
-          "route": "/hot/2026-08-13/topic/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/"
+          "route": "/hot/2026-08-13/topic/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
+          "headline_zh": "大规模供应链攻击导致数 TB 凭据泄露",
+          "summary_short_zh": "这些数据是从一款被攻陷的 AI 软件包的 2,500 名用户处抓取并外传的",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "34b17b73ea32",
@@ -2604,7 +2695,11 @@
               "published_at": "2026-08-12T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-08-13/topic/grok-4-5-in-github-copilot/"
+          "route": "/hot/2026-08-13/topic/grok-4-5-in-github-copilot/",
+          "headline_zh": "Grok 4.5 登陆 GitHub Copilot",
+          "summary_short_zh": "我们最智能的编程模型 Grok 4.5 现已在 GitHub Copilot 上线",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     }
@@ -2650,7 +2745,11 @@
               "published_at": "2026-08-12T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-08-13/topic/imagine-video-1-5-with-references/"
+          "route": "/hot/2026-08-13/topic/imagine-video-1-5-with-references/",
+          "headline_zh": "Imagine Video 1.5 支持参考素材",
+          "summary_short_zh": "Grok 4.6 在 Grok 4.5 的基础上进一步改进，重点面向长时间运行的智能体，以及更具挑战性的交互与视觉任务",
+          "why_it_matters_zh": "这条产品发布资讯见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "1661ee08e8c6",
@@ -2688,7 +2787,11 @@
               "published_at": "2026-08-12T08:09:34-04:00"
             }
           ],
-          "route": "/hot/2026-08-13/topic/of-course-the-chatgpt-dog-cancer-vaccine-spawned-a-startup/"
+          "route": "/hot/2026-08-13/topic/of-course-the-chatgpt-dog-cancer-vaccine-spawned-a-startup/",
+          "headline_zh": "不出所料，ChatGPT 犬用癌症疫苗催生了一家初创公司",
+          "summary_short_zh": "还记得那则被热炒的新闻吗？一位澳大利亚科技创业者用 ChatGPT、Grok 等 AI 工具，为自己的狗设计了个性化癌症疫苗。猜怎么着：他创办了一家初创公司。",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "845c3563c216",
@@ -2726,7 +2829,10 @@
               "published_at": "2026-08-13T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-13/topic/4-min-read-former-openai-researcher-launches-desktop-agent/"
+          "route": "/hot/2026-08-13/topic/4-min-read-former-openai-researcher-launches-desktop-agent/",
+          "headline_zh": "阅读需 4 分钟｜前 OpenAI 研究员推出桌面智能体",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "f6a6c485b775",
@@ -2764,7 +2870,10 @@
               "published_at": "2026-08-12T07:51:20Z"
             }
           ],
-          "route": "/hot/2026-08-13/topic/launch-hn-discovered-materials-yc-p26-ai-agents-to-discover-new-materials/"
+          "route": "/hot/2026-08-13/topic/launch-hn-discovered-materials-yc-p26-ai-agents-to-discover-new-materials/",
+          "headline_zh": "Launch HN：Discovered Materials（YC P26）——用 AI 智能体发现新材料",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2808,7 +2917,11 @@
               "published_at": "Thu, 13 Aug 2026 03:11:48 +0000"
             }
           ],
-          "route": "/hot/2026-08-13/topic/360-ai/"
+          "route": "/hot/2026-08-13/topic/360-ai/",
+          "headline_zh": "360纳米大片流水线携手《知识就是力量》发布“知力·纳米”科普科幻AI大片创作平台",
+          "summary_short_zh": "《知识就是力量》杂志社携手360科技集团举行“知力·纳米 科普科幻AI大片创作平台”发布暨AI创作交流活动",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "cea4a4b182e8",
@@ -2846,7 +2959,11 @@
               "published_at": "Wed, 12 Aug 2026 17:45:20 +0000"
             }
           ],
-          "route": "/hot/2026-08-13/topic/part-2-amazon-bedrock-cost-attribution-with-amazon-athena-and-cudos/"
+          "route": "/hot/2026-08-13/topic/part-2-amazon-bedrock-cost-attribution-with-amazon-athena-and-cudos/",
+          "headline_zh": "第 2 部分：借助 Amazon Athena 和 CUDOS 实现 Amazon Bedrock 成本归因",
+          "summary_short_zh": "了解如何使用 Amazon Athena 和 CUDOS 仪表板，对 Amazon Bedrock 成本归因进行可视化和分析。本文介绍如何配置包含 IAM 主体数据的 CUR 2.0，按主体、项目和团队查询 Bedrock 支出，并构建仪表板来追踪整个组织的 AI 成本。",
+          "why_it_matters_zh": "这篇教程见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "f4b3bbed980a",
@@ -2884,7 +3001,11 @@
               "published_at": "Wed, 12 Aug 2026 22:26:37 +0000"
             }
           ],
-          "route": "/hot/2026-08-13/topic/some-claude-users-are-mad-that-anthropic-s-new-watermarks-will-catch-them-using-it-at-their-jobs-classes/"
+          "route": "/hot/2026-08-13/topic/some-claude-users-are-mad-that-anthropic-s-new-watermarks-will-catch-them-using-it-at-their-jobs-classes/",
+          "headline_zh": "部分 Claude 用户不满：Anthropic 的新水印会暴露他们在工作或课堂上使用 Claude 的情况",
+          "summary_short_zh": "Anthropic 的新水印系统是不是很荒唐？一些人已在社交媒体上表达了这样的不满。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "ad0159f35986",
@@ -2922,7 +3043,11 @@
               "published_at": "Wed, 12 Aug 2026 21:00:30 +0000"
             }
           ],
-          "route": "/hot/2026-08-13/topic/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/"
+          "route": "/hot/2026-08-13/topic/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
+          "headline_zh": "Twitch 内容多年来被用于训练 Amazon AI，如今用户可选择退出",
+          "summary_short_zh": "这家直播平台表示，用户生成的内容“可能用于今后改进生成式 AI 模型”。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }

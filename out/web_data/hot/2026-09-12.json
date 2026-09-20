@@ -1256,7 +1256,14 @@
           "published_at": "Fri, 11 Sep 2026 18:24:38 +0000"
         }
       ],
-      "route": "/hot/2026-09-12/topic/beyond-the-price-per-token-choosing-the-right-openai-model-on-amazon-bedrock-for-your-workload/"
+      "route": "/hot/2026-09-12/topic/beyond-the-price-per-token-choosing-the-right-openai-model-on-amazon-bedrock-for-your-workload/",
+      "headline_zh": "不只看 token 单价：在 Amazon Bedrock 上为你的工作负载选择合适的 OpenAI 模型",
+      "summary_short_zh": "按每百万 token 的美元价格比较模型，会忽略生产环境真正为之付费的东西：实际效果。本文介绍一套开源基准测试框架，用于衡量 Amazon Bedrock 上各 OpenAI 模型每次正确作答的成本、智能体执行轨迹成本，以及依据评分标准评定的交付成果质量",
+      "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "按每百万 token 的美元价格比较模型，会忽略生产环境真正为之付费的东西：实际效果。本文介绍一套开源基准测试框架，用于衡量每次正确作答的成本..."
+      ]
     },
     {
       "topic_id": "a3c4d7c470dc",
@@ -1296,7 +1303,14 @@
           "published_at": "Fri, 11 Sep 2026 16:00:00 GMT"
         }
       ],
-      "route": "/hot/2026-09-12/topic/cognition-helps-devin-test-its-own-work-with-gpt-6-astra/"
+      "route": "/hot/2026-09-12/topic/cognition-helps-devin-test-its-own-work-with-gpt-6-astra/",
+      "headline_zh": "Cognition 借助 GPT‑6 Astra 帮助 Devin 测试自己的工作成果",
+      "summary_short_zh": "GPT‑6 Astra 提升了 Devin 测试软件并证明其正常运行的能力，旨在帮助工程师减少代码审查，交付更多成果",
+      "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "GPT‑6 Astra 提升了 Devin 测试软件并证明其正常运行的能力，旨在帮助工程师减少代码审查，交付更多成果。"
+      ]
     },
     {
       "topic_id": "050f4fec1d4b",
@@ -1336,7 +1350,14 @@
           "published_at": "2026-09-10T01:42:59Z"
         }
       ],
-      "route": "/hot/2026-09-12/topic/viettranx-3dviz-pro-max/"
+      "route": "/hot/2026-09-12/topic/viettranx-3dviz-pro-max/",
+      "headline_zh": "viettranx/3dviz-pro-max",
+      "summary_short_zh": "用于创意 3D 可视化的智能体技能：将想法变成值得探索的 Three.js/Blender 场景。适用于 Claude Code 和 Codex 的插件，包含 223 个实现方案、440 条知识记录、22 套已验证的工具包和 37 个可运行的研究示例",
+      "why_it_matters_zh": "此次融资见于 1 个独立来源。",
+      "category_zh": "市场信号",
+      "key_takeaways_zh": [
+        "用于创意 3D 可视化的智能体技能：将想法变成值得探索的 Three.js/Blender 场景。适用于 Claude Code 和 Codex 的插件，包含 223 个实现方案、440 条知识记录、22 套已验证的工具包和 37 个可运行的研究示例..."
+      ]
     },
     {
       "topic_id": "bf8c32eed636",
@@ -1376,7 +1397,14 @@
           "published_at": "Fri, 11 Sep 2026 18:26:38 +0000"
         }
       ],
-      "route": "/hot/2026-09-12/topic/monitoring-production-agent-lifecycle-with-aws-devops-agent-and-agentcore-evaluations/"
+      "route": "/hot/2026-09-12/topic/monitoring-production-agent-lifecycle-with-aws-devops-agent-and-agentcore-evaluations/",
+      "headline_zh": "使用 AWS DevOps Agent 和 AgentCore Evaluations 监控生产环境中智能体的生命周期",
+      "summary_short_zh": "多智能体系统会发生传统监控难以察觉的故障。本文介绍一种生产环境智能体的双层监控方法：使用 Amazon Bedrock AgentCore Evaluations 持续进行质量评分，使用 AWS DevOps Agent 自主排查基础设施问题，并以四智能体系统为例进行演示",
+      "why_it_matters_zh": "此次行业动态见于 1 个独立来源。",
+      "category_zh": "行业动态",
+      "key_takeaways_zh": [
+        "多智能体系统会发生传统监控难以察觉的故障。本文介绍一种生产环境智能体的双层监控方法：使用 Amazon Bedrock AgentCore Evaluations 持续评估质量..."
+      ]
     },
     {
       "topic_id": "4c13c8f2991d",
@@ -1416,7 +1444,14 @@
           "published_at": "Fri, 11 Sep 2026 22:58:17 +0000"
         }
       ],
-      "route": "/hot/2026-09-12/topic/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/"
+      "route": "/hot/2026-09-12/topic/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+      "headline_zh": "机器人训练数据争夺升温，Mecka AI 在红杉领投的融资中估值接近 5 亿美元",
+      "summary_short_zh": "Mecka 宣布 A 轮融资数月后，这家成立两年的初创公司正在敲定新一轮融资",
+      "why_it_matters_zh": "此次融资见于 1 个独立来源。",
+      "category_zh": "市场信号",
+      "key_takeaways_zh": [
+        "Mecka 宣布 A 轮融资数月后，这家成立两年的初创公司正在敲定新一轮融资。"
+      ]
     }
   ],
   "category_sections": [
@@ -1460,7 +1495,11 @@
               "published_at": "Fri, 11 Sep 2026 00:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-09-12/topic/together-ai-expands-fine-tuning-service-with-more-models-live-metrics-and-finer-controls/"
+          "route": "/hot/2026-09-12/topic/together-ai-expands-fine-tuning-service-with-more-models-live-metrics-and-finer-controls/",
+          "headline_zh": "Together AI 扩展微调服务，支持更多模型、实时指标和更精细的控制",
+          "summary_short_zh": "Together Fine-Tuning 新增对最新开放权重模型的支持，并加入实时实验跟踪、Expert LoRA、早停、分词后数据集预览和训练前验证，同时降低部分模型的训练价格",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "031aab2e9ae3",
@@ -1498,7 +1537,11 @@
               "published_at": "2026-09-11T12:09:14-04:00"
             }
           ],
-          "route": "/hot/2026-09-12/topic/anthropic-spent-this-week-in-hot-water-over-cybersecurity/"
+          "route": "/hot/2026-09-12/topic/anthropic-spent-this-week-in-hot-water-over-cybersecurity/",
+          "headline_zh": "Anthropic 本周因网络安全问题陷入风波",
+          "summary_short_zh": "Anthropic 今年早些时候承认，其 AI 模型曾数次入侵其他公司的系统。该公司于周三发布了一份新报告，详细介绍了这些攻击。",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -1542,7 +1585,11 @@
               "published_at": "2026-09-12T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-12/topic/what-56-000-americans-told-us-about-ai-policy-center-for-shared-ai-prosperity/"
+          "route": "/hot/2026-09-12/topic/what-56-000-americans-told-us-about-ai-policy-center-for-shared-ai-prosperity/",
+          "headline_zh": "关于 AI 政策，56,000 名美国人告诉了我们什么（Center for Shared AI Prosperity）",
+          "summary_short_zh": "关于 AI 政策，56,000 名美国人告诉了我们什么（Center for Shared AI Prosperity",
+          "why_it_matters_zh": "这一行业动向见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "b656ef2d0f83",
@@ -1580,7 +1627,10 @@
               "published_at": "2026-09-12T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-12/topic/import-ai-472-deepmind-s-cheating-math-agents-populist-ai-policies-and-forethought-theorizes-a-nightwatchman/"
+          "route": "/hot/2026-09-12/topic/import-ai-472-deepmind-s-cheating-math-agents-populist-ai-policies-and-forethought-theorizes-a-nightwatchman/",
+          "headline_zh": "Import AI 第 472 期：DeepMind 数学智能体作弊；民粹主义 AI 政策；Forethought 提出“守夜人”构想",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "04ee25b28f5f",
@@ -1618,7 +1668,11 @@
               "published_at": "Sat, 12 Sep 2026 07:33:54 +0000"
             }
           ],
-          "route": "/hot/2026-09-12/topic/ai-gpt-6-astra-frontiermath-tier-4/"
+          "route": "/hot/2026-09-12/topic/ai-gpt-6-astra-frontiermath-tier-4/",
+          "headline_zh": "AI数学的最后一道高墙，塌了！GPT-6 Astra刷穿FrontierMath Tier 4",
+          "summary_short_zh": "FrontierMath Tier 4，饱和了",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "37e8f1d2eec4",
@@ -1656,7 +1710,10 @@
               "published_at": "2026-09-12T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-12/topic/import-ai-471-why-hugging-face-worries-me-space-mining-five-eyes-on-ai/"
+          "route": "/hot/2026-09-12/topic/import-ai-471-why-hugging-face-worries-me-space-mining-five-eyes-on-ai/",
+          "headline_zh": "Import AI 第 471 期：Hugging Face 为何让我担忧；太空采矿；五眼联盟关注 AI",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "1edb8587f209",
@@ -1694,7 +1751,11 @@
               "published_at": "2026-09-12T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-12/topic/discovery-of-a-new-openai-agent-message-board-collusion-wiki/"
+          "route": "/hot/2026-09-12/topic/discovery-of-a-new-openai-agent-message-board-collusion-wiki/",
+          "headline_zh": "发现一个新的 OpenAI 智能体留言板（Collusion Wiki）",
+          "summary_short_zh": "发现一个新的 OpenAI 智能体留言板（Collusion Wiki",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -1738,7 +1799,11 @@
               "published_at": "Fri, 11 Sep 2026 10:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-09-12/topic/rapidly-scaling-online-storage-to-serve-over-1-billion-chatgpt-users/"
+          "route": "/hot/2026-09-12/topic/rapidly-scaling-online-storage-to-serve-over-1-billion-chatgpt-users/",
+          "headline_zh": "快速扩展在线存储，为超过 10 亿 ChatGPT 用户提供服务",
+          "summary_short_zh": "了解 OpenAI 如何将 Habitat 从 Python 库发展为全球分布式存储平台，为 10 亿 ChatGPT 用户提供服务，每秒处理 2,200 万次请求",
+          "why_it_matters_zh": "这条工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "2e44b4a6e817",
@@ -1776,7 +1841,11 @@
               "published_at": "2026-09-12T00:42:25+00:00"
             }
           ],
-          "route": "/hot/2026-09-12/topic/openai-agents-attacked-rubygems-back-in-may/"
+          "route": "/hot/2026-09-12/topic/openai-agents-attacked-rubygems-back-in-may/",
+          "headline_zh": "OpenAI 智能体早在 5 月就攻击了 RubyGems",
+          "summary_short_zh": "<p><a href=\" 智能体对 RubyGems 发动了一次此前未披露的攻击</a>是 Spencer Kitts、Thomas Larsen 和 Sydney Von Arx 撰写的最新重磅报道。这三人也是<a href=\" 关于智能体攻击废弃维基网站的报道</a>的四位作者中的三位（<a href=\" 上周。</p> <p>这次他们指出，它",
+          "why_it_matters_zh": "这条工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "1df9069226a7",
@@ -1814,7 +1883,11 @@
               "published_at": "Thu, 10 Sep 2026 22:50:22 +0000"
             }
           ],
-          "route": "/hot/2026-09-12/topic/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients/"
+          "route": "/hot/2026-09-12/topic/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients/",
+          "headline_zh": "ToolGrad：利用文本“梯度”高效生成工具使用数据集",
+          "summary_short_zh": "机器智能",
+          "why_it_matters_zh": "这条工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     }
@@ -1860,7 +1933,11 @@
               "published_at": "Sat, 12 Sep 2026 04:53:58 +0000"
             }
           ],
-          "route": "/hot/2026-09-12/topic/ai/"
+          "route": "/hot/2026-09-12/topic/ai/",
+          "headline_zh": "陶哲轩邓煜究竟在反对什么：AI暴力解题摧毁人类数学精神",
+          "summary_short_zh": "25位菲尔兹奖得主联名吹哨",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "e4429c6eb930",
@@ -1898,7 +1975,11 @@
               "published_at": "Fri, 11 Sep 2026 18:23:17 +0000"
             }
           ],
-          "route": "/hot/2026-09-12/topic/build-interactive-mcp-apps-using-amazon-bedrock-agentcore/"
+          "route": "/hot/2026-09-12/topic/build-interactive-mcp-apps-using-amazon-bedrock-agentcore/",
+          "headline_zh": "使用 Amazon Bedrock AgentCore 构建交互式 MCP 应用",
+          "summary_short_zh": "了解如何在 Amazon Bedrock AgentCore 上构建并部署带有交互式 HTML 组件的 MCP 应用。MCP Apps 是不依赖特定宿主的标准，因此同一服务器可在 ChatGPT、Claude 等支持该扩展的 AI 宿主中提供同样丰富的体验。",
+          "why_it_matters_zh": "这篇教程见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "1a4137921d6f",
@@ -1936,7 +2017,11 @@
               "published_at": "Fri, 11 Sep 2026 19:34:09 +0000"
             }
           ],
-          "route": "/hot/2026-09-12/topic/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/"
+          "route": "/hot/2026-09-12/topic/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/",
+          "headline_zh": "使用 ChatGPT 的律师因引用虚构证人的伪造证词受罚",
+          "summary_short_zh": "新墨西哥州一名辩护律师称：“我不知道 AI 还会凭空编造事实。”",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "07329928af4b",
@@ -1974,7 +2059,11 @@
               "published_at": "Fri, 11 Sep 2026 20:57:36 +0000"
             }
           ],
-          "route": "/hot/2026-09-12/topic/openai-s-feud-with-mathematicians-is-only-escalating/"
+          "route": "/hot/2026-09-12/topic/openai-s-feud-with-mathematicians-is-only-escalating/",
+          "headline_zh": "OpenAI 与数学家的争端不断升级",
+          "summary_short_zh": "25 位顶尖数学家联名签署公开信，认为 AI 实验室正威胁他们的学术工作。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "af255f5c8871",
@@ -2012,7 +2101,11 @@
               "published_at": "2026-09-11T22:49:18+00:00"
             }
           ],
-          "route": "/hot/2026-09-12/topic/so-you-want-to-use-openrouter/"
+          "route": "/hot/2026-09-12/topic/so-you-want-to-use-openrouter/",
+          "headline_zh": "想用 OpenRouter？",
+          "summary_short_zh": "<p><strong><a href=\" 想用 OpenRouter？</a></strong></p> OpenRouter 的卖点之一是“自动处理回退，并为每个请求选择最划算的方案”，因此你只需通过单一 API 端点调用模型，请求就会被路由到最佳可用后端。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "d1d5a021bce7",
@@ -2050,7 +2143,11 @@
               "published_at": "Fri, 11 Sep 2026 20:59:47 +0000"
             }
           ],
-          "route": "/hot/2026-09-12/topic/y-combinator-s-garry-tan-wants-us-open-weight-ai-labs-to-distill-frontier-models-too/"
+          "route": "/hot/2026-09-12/topic/y-combinator-s-garry-tan-wants-us-open-weight-ai-labs-to-distill-frontier-models-too/",
+          "headline_zh": "Y Combinator 的 Garry Tan 希望美国开放权重 AI 实验室也“蒸馏”前沿模型",
+          "summary_short_zh": "Tan 希望美国规模较小的开放权重 AI 实验室，将同类训练技术用在美国前沿 AI 实验室的模型上，为美国提供更有实力的非中国开放权重模型选择。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "5c0954a6b1bf",
@@ -2088,7 +2185,11 @@
               "published_at": "2026-09-11T16:44:02-04:00"
             }
           ],
-          "route": "/hot/2026-09-12/topic/lawyer-fined-5k-over-ai-hallucinated-witnesses-in-a-murder-case/"
+          "route": "/hot/2026-09-12/topic/lawyer-fined-5k-over-ai-hallucinated-witnesses-in-a-murder-case/",
+          "headline_zh": "律师因在谋杀案中引用 AI 虚构的证人被罚 5000 美元",
+          "summary_short_zh": "据路透社报道，新墨西哥州最高法院正对一名律师作出处罚，因为他在为委托人的谋杀罪判决提出上诉时，使用了 AI 虚构的证人及伪造的警方证词。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "17e72d4de260",
@@ -2126,7 +2227,11 @@
               "published_at": "Fri, 11 Sep 2026 18:02:36 +0000"
             }
           ],
-          "route": "/hot/2026-09-12/topic/agent-4200/"
+          "route": "/hot/2026-09-12/topic/agent-4200/",
+          "headline_zh": "银行Agent上岗：4200万小微经营者可用，信贷、票据、财税一把梭",
+          "summary_short_zh": "看清「一个真正的人」",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -2168,7 +2273,11 @@
           "published_at": "2026-09-08T05:28:57Z"
         }
       ],
-      "route": "/hot/2026-09-12/topic/feitangyuan-motion-web/"
+      "route": "/hot/2026-09-12/topic/feitangyuan-motion-web/",
+      "headline_zh": "feitangyuan/motion-web",
+      "summary_short_zh": "使用原生 Three.js / Canvas 2D / WebGL / CSS，打造以动效为核心、交互细腻的创意网站。这是一款支持真实物理模拟和自动化验证的 Claude 智能体技能。",
+      "why_it_matters_zh": "这款工具见于 1 个独立来源。",
+      "category_zh": "工具"
     },
     {
       "topic_id": "d0dba5ffee05",
@@ -2206,7 +2315,11 @@
           "published_at": "2026-09-09T12:36:06Z"
         }
       ],
-      "route": "/hot/2026-09-12/topic/xiayutian11-maskit/"
+      "route": "/hot/2026-09-12/topic/xiayutian11-maskit/",
+      "headline_zh": "xiaYuTian11/maskit",
+      "summary_short_zh": "数据面具 Data Maskit — 专为大模型打造的本地隐私脱敏网关（请求自动打码，回复流式还原；支持 Cursor / Claude Code / Codex / Pi 等任意可配 Base URL 工具）",
+      "why_it_matters_zh": "有 1 个独立来源提及该工具。",
+      "category_zh": "工具"
     }
   ],
   "x_buzz": [

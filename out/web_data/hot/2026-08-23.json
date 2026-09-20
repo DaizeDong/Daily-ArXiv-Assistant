@@ -1161,7 +1161,15 @@
           "published_at": "Sat, 22 Aug 2026 16:30:34 +0000"
         }
       ],
-      "route": "/hot/2026-08-23/topic/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/"
+      "route": "/hot/2026-08-23/topic/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+      "headline_zh": "由 DeepMind 前员工创立的 Inherent 称，其 AI“队友”在复现研究方面刚刚超越 Anthropic 和 OpenAI",
+      "summary_short_zh": "由 DeepMind 前员工创立的英国 AI 实验室 Inherent 发布了 AI 智能体 Faraday，其复现科研论文的能力有望为创新铺路",
+      "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "由 DeepMind 前员工创立的英国 AI 实验室 Inherent 发布了 AI 智能体 Faraday，其复现科研论文的能力有望为创新铺路。",
+        "OpenAI 呼吁加州强化 AI 安全法案 SB 53，该公司此前曾反对这项法案。"
+      ]
     },
     {
       "topic_id": "ae8d32ad9c88",
@@ -1199,7 +1207,10 @@
           "published_at": "2026-08-22T09:57:10+00:00"
         }
       ],
-      "route": "/hot/2026-08-23/topic/we-changed-one-line-and-the-benchmark-score-moved-0-21-auroc/"
+      "route": "/hot/2026-08-23/topic/we-changed-one-line-and-the-benchmark-score-moved-0-21-auroc/",
+      "headline_zh": "我们只改了一行，基准测试的 AUROC 分数就变动了 0.21",
+      "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "430661a4edc2",
@@ -1248,7 +1259,14 @@
           "published_at": "2026-08-20T18:28:10Z"
         }
       ],
-      "route": "/hot/2026-08-23/topic/openlabs-so-oa-design/"
+      "route": "/hot/2026-08-23/topic/openlabs-so-oa-design/",
+      "headline_zh": "OpenLabs-so/oa-design",
+      "summary_short_zh": "将 Open Analytics 设计语言封装为智能体技能：提供经过类型检查的组件示例源码、设计令牌 CSS 和命令行工具。支持 Claude Code、Cursor 或任何智能体",
+      "why_it_matters_zh": "该工具见于 2 个独立来源。",
+      "category_zh": "工具",
+      "key_takeaways_zh": [
+        "将 Open Analytics 设计语言封装为智能体技能：提供经过类型检查的组件示例源码、设计令牌 CSS 和命令行工具。支持 Claude Code、Cursor 或任何智能体。"
+      ]
     },
     {
       "topic_id": "49afc6702a13",
@@ -1288,7 +1306,14 @@
           "published_at": "2026-08-18T10:48:39Z"
         }
       ],
-      "route": "/hot/2026-08-23/topic/furkankly-zoetrope/"
+      "route": "/hot/2026-08-23/topic/furkankly-zoetrope/",
+      "headline_zh": "furkankly/zoetrope",
+      "summary_short_zh": "在终端或浏览器中，以实时流程图查看 Claude Code 会话",
+      "why_it_matters_zh": "该工具见于 1 个独立来源。",
+      "category_zh": "工具",
+      "key_takeaways_zh": [
+        "在终端或浏览器中，以实时流程图查看 Claude Code 会话。"
+      ]
     },
     {
       "topic_id": "2314a961ae0f",
@@ -1328,7 +1353,14 @@
           "published_at": "2026-08-19T09:26:03Z"
         }
       ],
-      "route": "/hot/2026-08-23/topic/jinzijian-evotrace/"
+      "route": "/hot/2026-08-23/topic/jinzijian-evotrace/",
+      "headline_zh": "jinzijian/EvoTrace",
+      "summary_short_zh": "将真实场景中的 Claude Code 和 Codex 运行轨迹编译为经过验证、可交易的后训练资产",
+      "why_it_matters_zh": "该工具见于 1 个独立来源。",
+      "category_zh": "工具",
+      "key_takeaways_zh": [
+        "将真实场景中的 Claude Code 和 Codex 运行轨迹编译为经过验证、可交易的后训练资产。"
+      ]
     }
   ],
   "category_sections": [
@@ -1372,7 +1404,10 @@
               "published_at": "2026-08-23T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-23/topic/4-min-read-anthropic-launches-the-claude-academy-with-355-resources/"
+          "route": "/hot/2026-08-23/topic/4-min-read-anthropic-launches-the-claude-academy-with-355-resources/",
+          "headline_zh": "阅读需 4 分钟｜Anthropic 推出 The Claude Academy，提供 355 项资源",
+          "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -1416,7 +1451,10 @@
               "published_at": "2026-08-23T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-23/topic/import-ai-468-23-rsi-ideas-posttrainbench-and-how-trust-and-transparency-interplay-with-ai-racing/"
+          "route": "/hot/2026-08-23/topic/import-ai-468-23-rsi-ideas-posttrainbench-and-how-trust-and-transparency-interplay-with-ai-racing/",
+          "headline_zh": "Import AI 第 468 期：23 个 RSI 构想；PostTrainBench+；信任、透明度与 AI 竞赛如何相互影响",
+          "why_it_matters_zh": "这条其他类别的消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "98d640c2c00c",
@@ -1454,7 +1492,10 @@
               "published_at": "2026-08-23T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-23/topic/import-ai-469-science-ai-rsi-simulator-and-zuck-s-technological-pessimism/"
+          "route": "/hot/2026-08-23/topic/import-ai-469-science-ai-rsi-simulator-and-zuck-s-technological-pessimism/",
+          "headline_zh": "Import AI 469：科研 AI；RSI 模拟器；扎克伯格的技术悲观主义",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "7f21095f9410",
@@ -1492,7 +1533,11 @@
               "published_at": "Sat, 22 Aug 2026 21:46:56 +0000"
             }
           ],
-          "route": "/hot/2026-08-23/topic/harvard-s-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/"
+          "route": "/hot/2026-08-23/topic/harvard-s-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+          "headline_zh": "哈佛大学收费 699 美元的创业训练营提供讲师的 AI 分身",
+          "summary_short_zh": "在 HBS Foundry 项目中，AI 分身会在路演练习和董事会会议中提供反馈",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "cedf8a44d099",
@@ -1530,7 +1575,11 @@
               "published_at": "Sat, 22 Aug 2026 16:00:00 +0000"
             }
           ],
-          "route": "/hot/2026-08-23/topic/frontier-ai-labs-still-won-t-say-how-they-d-contain-a-rogue-model/"
+          "route": "/hot/2026-08-23/topic/frontier-ai-labs-still-won-t-say-how-they-d-contain-a-rogue-model/",
+          "headline_zh": "前沿 AI 实验室仍不愿说明如何遏制失控模型",
+          "summary_short_zh": "一项新研究发现，领先的 AI 实验室公开记录的失控模型遏制方案寥寥无几。随着 AI 系统越来越多地表现出意料之外且可能危险的行为，人们开始质疑这些实验室是否做好了准备",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "4a77f4e41f21",
@@ -1568,7 +1617,11 @@
               "published_at": "Sat, 22 Aug 2026 14:11:20 +0000"
             }
           ],
-          "route": "/hot/2026-08-23/topic/wrc-2026-ai/"
+          "route": "/hot/2026-08-23/topic/wrc-2026-ai/",
+          "headline_zh": "魔法原子亮相WRC 2026，三大场景解决方案实景展示物理AI真·上岗",
+          "summary_short_zh": "一脑驱动多形落地",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -1612,7 +1665,11 @@
               "published_at": "2026-08-23T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-23/topic/dig-bench-discovery-in-games-github-pdf/"
+          "route": "/hot/2026-08-23/topic/dig-bench-discovery-in-games-github-pdf/",
+          "headline_zh": "DiG-bench：游戏中的发现（GitHub、PDF）",
+          "summary_short_zh": "DiG-bench：游戏中的发现（GitHub、PDF",
+          "why_it_matters_zh": "这条工具类资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     }
@@ -1658,7 +1715,11 @@
               "published_at": "2026-08-22T15:56:54+00:00"
             }
           ],
-          "route": "/hot/2026-08-23/topic/more-than-just-code-review/"
+          "route": "/hot/2026-08-23/topic/more-than-just-code-review/",
+          "headline_zh": "不止代码审查",
+          "summary_short_zh": "<p>要高效使用编程智能体，关键是能有把握地指导它们如何修改，再有把握地验证修改是否正确完成。</p> <p>有时，这需要逐行审查它们编写的代码，但",
+          "why_it_matters_zh": "这篇教程见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "c16b71fc2d3d",
@@ -1696,7 +1757,10 @@
               "published_at": "2026-08-22T16:23:09Z"
             }
           ],
-          "route": "/hot/2026-08-23/topic/anthropic-ipo-filing-will-show-ai-backlash-as-a-risk-factor-sources-say/"
+          "route": "/hot/2026-08-23/topic/anthropic-ipo-filing-will-show-ai-backlash-as-a-risk-factor-sources-say/",
+          "headline_zh": "消息人士称，Anthropic 的 IPO 申报文件将把对 AI 的抵制列为风险因素",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "cc27ed6c50cf",
@@ -1734,7 +1798,10 @@
               "published_at": "2026-08-22T18:14:16Z"
             }
           ],
-          "route": "/hot/2026-08-23/topic/why-your-local-llm-feels-dumber-than-it-is/"
+          "route": "/hot/2026-08-23/topic/why-your-local-llm-feels-dumber-than-it-is/",
+          "headline_zh": "为什么你的本地大语言模型用起来比实际更笨",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "513906be0fbb",
@@ -1772,7 +1839,11 @@
               "published_at": "Sat, 22 Aug 2026 11:11:39 GMT"
             }
           ],
-          "route": "/hot/2026-08-23/topic/how-claude-watermarks-ai-generated-text/"
+          "route": "/hot/2026-08-23/topic/how-claude-watermarks-ai-generated-text/",
+          "headline_zh": "Claude 如何为 AI 生成的文本添加水印",
+          "summary_short_zh": "48 分钟视频详解词元采样、水印检测与去除",
+          "why_it_matters_zh": "这篇教程见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "773b6b837c69",
@@ -1810,7 +1881,10 @@
               "published_at": "2026-08-23T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-23/topic/the-1-4t-case-against-meta-shubham-sharma-6-minutes/"
+          "route": "/hot/2026-08-23/topic/the-1-4t-case-against-meta-shubham-sharma-6-minutes/",
+          "headline_zh": "针对 Meta 的 1.4 万亿美元诉讼 Shubham Sharma • 6 分钟",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "d388556f2de7",
@@ -1848,7 +1922,10 @@
               "published_at": "2026-08-22T04:33:06Z"
             }
           ],
-          "route": "/hot/2026-08-23/topic/gpt-5-6-sol-20-price-reduction/"
+          "route": "/hot/2026-08-23/topic/gpt-5-6-sol-20-price-reduction/",
+          "headline_zh": "GPT 5.6 Sol 降价 20%",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "514204b46ab0",
@@ -1886,7 +1963,10 @@
               "published_at": "2026-08-21T23:09:06Z"
             }
           ],
-          "route": "/hot/2026-08-23/topic/show-hn-ozbrain-a-shared-brain-for-knowledge-between-agents-and-your-team/"
+          "route": "/hot/2026-08-23/topic/show-hn-ozbrain-a-shared-brain-for-knowledge-between-agents-and-your-team/",
+          "headline_zh": "Show HN：OzBrain，供智能体和你的团队共享知识的大脑",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "ebe0312bb544",
@@ -1924,7 +2004,11 @@
               "published_at": "Fri, 21 Aug 2026 23:07:25 +0000"
             }
           ],
-          "route": "/hot/2026-08-23/topic/anthropic-s-opus-4-6-is-a-smut-machine/"
+          "route": "/hot/2026-08-23/topic/anthropic-s-opus-4-6-is-a-smut-machine/",
+          "headline_zh": "Anthropic 的 Opus 4.6 是一台色情内容生成机",
+          "summary_short_zh": "Anthropic 禁止旗下 Claude 模型生成露骨的色情内容。但 TechCrunch 的一系列测试发现，绕过这项限制并不难。",
+          "why_it_matters_zh": "这一观点见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -1966,7 +2050,11 @@
           "published_at": "2026-08-19T18:02:50Z"
         }
       ],
-      "route": "/hot/2026-08-23/topic/zseven-w-dsh-ios/"
+      "route": "/hot/2026-08-23/topic/zseven-w-dsh-ios/",
+      "headline_zh": "ZSeven-W/dsh-ios",
+      "summary_short_zh": "DeepSeek Harness（DSH）插件：在对话中操作实时运行的 iOS 模拟器及通过 USB 连接的 iPhone。提供 22 个智能体工具，支持启动、构建，以及通过无障碍标识、OCR 文本或列表行操作界面，还配有支持点击和拖拽的实时画面侧栏。",
+      "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+      "category_zh": "工具"
     },
     {
       "topic_id": "10fc226b2719",
@@ -2004,7 +2092,11 @@
           "published_at": "2026-08-18T01:31:52Z"
         }
       ],
-      "route": "/hot/2026-08-23/topic/xianxie6-stamp-edge-skill/"
+      "route": "/hot/2026-08-23/topic/xianxie6-stamp-edge-skill/",
+      "headline_zh": "xianxie6/stamp-edge-skill",
+      "summary_short_zh": "智能体技能：将任意图片转换为邮票风格卡片，带齿孔边缘和真正透明的背景",
+      "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+      "category_zh": "工具"
     },
     {
       "topic_id": "9e1fa9bd02cb",
@@ -2042,7 +2134,11 @@
           "published_at": "2026-08-18T04:08:11Z"
         }
       ],
-      "route": "/hot/2026-08-23/topic/wang2122-sprix-sage-router/"
+      "route": "/hot/2026-08-23/topic/wang2122-sprix-sage-router/",
+      "headline_zh": "wang2122/sprix-sage-router",
+      "summary_short_zh": "屿智同行的 Sprix AI：为 A2A 智能体网络提供具备状态感知能力的 SELF/COLLABORATE/HANDOFF 路由",
+      "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+      "category_zh": "工具"
     }
   ],
   "x_buzz": [

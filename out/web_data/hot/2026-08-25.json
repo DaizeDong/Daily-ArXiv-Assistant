@@ -1856,7 +1856,14 @@
           "published_at": "Mon, 24 Aug 2026 15:53:03 +0000"
         }
       ],
-      "route": "/hot/2026-08-25/topic/ai-powered-metadata-correction-and-harmonization/"
+      "route": "/hot/2026-08-25/topic/ai-powered-metadata-correction-and-harmonization/",
+      "headline_zh": "AI 驱动的元数据纠错与统一",
+      "summary_short_zh": "元数据统一（将标签、标识符和格式标准化，使数据集能够协同使用）仍主要依靠人工。",
+      "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "元数据统一（将标签、标识符和格式标准化，使数据集能够协同使用）仍主要依靠人工。本文展示了 AI 驱动的元数据纠错在实践中的应用……"
+      ]
     },
     {
       "topic_id": "3cd9ee5f87c0",
@@ -1896,7 +1903,14 @@
           "published_at": "Mon, 24 Aug 2026 16:22:03 +0000"
         }
       ],
-      "route": "/hot/2026-08-25/topic/agentic-resource-discovery-ard-an-open-specification-for-agent-discovery/"
+      "route": "/hot/2026-08-25/topic/agentic-resource-discovery-ard-an-open-specification-for-agent-discovery/",
+      "headline_zh": "Agentic Resource Discovery（ARD）：用于智能体发现的开放规范",
+      "summary_short_zh": "AWS Agent Registry 为组织提供集中式、可搜索的智能体、工具和技能目录。它支持开放的 Agentic Resource Discovery（ARD）标准，实现大规模跨环境发现与治理",
+      "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "AWS Agent Registry 为组织提供集中式、可搜索的智能体、工具和技能目录。它支持开放的 Agentic Resource Discovery（ARD）标准，实现跨环境……"
+      ]
     },
     {
       "topic_id": "f5842e2c2f65",
@@ -1946,7 +1960,15 @@
           "published_at": "2026-08-24T00:00:00.000Z"
         }
       ],
-      "route": "/hot/2026-08-25/topic/apodex-1-1-scaling-agentic-intelligence-for-complex-work/"
+      "route": "/hot/2026-08-25/topic/apodex-1-1-scaling-agentic-intelligence-for-complex-work/",
+      "headline_zh": "Apodex 1.1：面向复杂工作的智能体能力扩展",
+      "summary_short_zh": "通用语言模型能够推理和整合知识，但复杂工作还需要持续与文件、信息源和可执行代码交互，同时维护状态、从故障中恢复，并交付可验证的成果。",
+      "why_it_matters_zh": "这篇研究论文见于 2 个独立来源。",
+      "category_zh": "研究",
+      "key_takeaways_zh": [
+        "🧩 我们的智能体框架 FrontierAgent 也同步开源：提供原生命令行 TUI，支持 ReAct 和 Agent Team 模式，在 macOS 和 Linux 上一条命令即可运行，无需预先安装，也不强制依赖 Docker。",
+        "通用语言模型能够推理和整合知识，但复杂工作还需要持续与文件、信息源和可执行代码交互，同时维护状态……"
+      ]
     },
     {
       "topic_id": "6b4c399b122f",
@@ -1986,7 +2008,14 @@
           "published_at": "Mon, 24 Aug 2026 12:00:00 GMT"
         }
       ],
-      "route": "/hot/2026-08-25/topic/advancing-price-performance-for-developers-with-gpt-5-6-in-kiro/"
+      "route": "/hot/2026-08-25/topic/advancing-price-performance-for-developers-with-gpt-5-6-in-kiro/",
+      "headline_zh": "Kiro 中的 GPT‑5.6 为开发者带来更高性价比",
+      "summary_short_zh": "GPT‑5.6 现已在 Kiro 上线，帮助开发者以更高性价比规划、开发、审查和测试软件",
+      "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "GPT‑5.6 现已在 Kiro 上线，帮助开发者以更高性价比规划、开发、审查和测试软件。"
+      ]
     },
     {
       "topic_id": "82b75ec12248",
@@ -2026,7 +2055,14 @@
           "published_at": "2026-08-22T15:40:51Z"
         }
       ],
-      "route": "/hot/2026-08-25/topic/kgoedecke-doop/"
+      "route": "/hot/2026-08-25/topic/kgoedecke-doop/",
+      "headline_zh": "kgoedecke/doop",
+      "summary_short_zh": "Paper.design 的开源替代品。支持多人协作的设计画布，让人与 AI 智能体实时共同设计。内置 MCP",
+      "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+      "category_zh": "研究",
+      "key_takeaways_zh": [
+        "Paper.design 的开源替代品。支持多人协作的设计画布，让人与 AI 智能体实时共同设计。内置 MCP。"
+      ]
     }
   ],
   "category_sections": [
@@ -2070,7 +2106,11 @@
               "published_at": "Mon, 24 Aug 2026 19:32:14 +0000"
             }
           ],
-          "route": "/hot/2026-08-25/topic/introducing-new-ray-capabilities-on-sagemaker-hyperpod/"
+          "route": "/hot/2026-08-25/topic/introducing-new-ray-capabilities-on-sagemaker-hyperpod/",
+          "headline_zh": "SageMaker HyperPod 推出 Ray 新功能",
+          "summary_short_zh": "Amazon SageMaker HyperPod 现已提供基于 Amazon EKS 的 Ray 托管支持。您可以创建和监控 Ray 集群，将 JupyterLab 和 Code Editor 笔记本连接到运行中的集群，获得开箱即用的可观测性，并通过 SageMaker Studio 运行具备故障恢复能力的分布式训练和加速推理，这一切都……",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "60d0b9631a96",
@@ -2108,7 +2148,11 @@
               "published_at": "2026-08-24T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-08-25/topic/mistral-x-humain/"
+          "route": "/hot/2026-08-25/topic/mistral-x-humain/",
+          "headline_zh": "Mistral x HUMAIN",
+          "summary_short_zh": "公司",
+          "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "f071bd7289ff",
@@ -2146,7 +2190,10 @@
               "published_at": "2026-08-25T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-25/topic/4-min-read-anthropic-launches-the-claude-academy-with-355-resources/"
+          "route": "/hot/2026-08-25/topic/4-min-read-anthropic-launches-the-claude-academy-with-355-resources/",
+          "headline_zh": "阅读需 4 分钟：Anthropic 推出 The Claude Academy，提供 355 项资源",
+          "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "29a490efe732",
@@ -2184,7 +2231,11 @@
               "published_at": "Mon, 24 Aug 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-08-25/topic/openai-and-anthropic-positioning-remains-in-flux/"
+          "route": "/hot/2026-08-25/topic/openai-and-anthropic-positioning-remains-in-flux/",
+          "headline_zh": "OpenAI 与 Anthropic 的定位仍在变化",
+          "summary_short_zh": "OpenAI 开发者宣布，GPT-5.6 已可在 Kiro 中使用，并称 Terra 版本在 Kiro 的规范驱动环境中，每成功完成一项 Terminal-Bench 2.1 任务的成本降低了约 82%（公告）。",
+          "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "e0c895bdeca8",
@@ -2222,7 +2273,11 @@
               "published_at": "Mon, 24 Aug 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-08-25/topic/cost-normalized-agent-benchmarks-continue-to-reshape-model-choices/"
+          "route": "/hot/2026-08-25/topic/cost-normalized-agent-benchmarks-continue-to-reshape-model-choices/",
+          "headline_zh": "按成本归一化的智能体基准测试持续改变模型选择",
+          "summary_short_zh": "Together AI 表示，在 100 美元预算下，GLM-5.3 在 DeepSWE 上完成的工作量是 Fable 5 的 5 倍，两者解决的任务数分别约为 17 个和 3 个，尽管首次尝试的表现相近（推文）。",
+          "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2266,7 +2321,11 @@
               "published_at": "Mon, 24 Aug 2026 15:24:18 +0000"
             }
           ],
-          "route": "/hot/2026-08-25/topic/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/"
+          "route": "/hot/2026-08-25/topic/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+          "headline_zh": "Valor、Point72 以 60 亿美元估值投资 General Intuition，这家 AI 初创公司正进军机器人领域",
+          "summary_short_zh": "General Intuition 正在开发一个基础模型，用于训练通用 AI 智能体在时空中移动。这家初创公司正与 Valor Ventures、Point72 Ventures 和 Seven Seven Six 等新投资者洽谈融资，投前估值为 60 亿美元。",
+          "why_it_matters_zh": "此次融资有 1 个独立来源报道。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "5253b89775af",
@@ -2310,7 +2369,11 @@
               "published_at": "Mon, 24 Aug 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-08-25/topic/new-qwen3-8-27b-on-a-39k-line-c-to-single-file-html-three-js-port/"
+          "route": "/hot/2026-08-25/topic/new-qwen3-8-27b-on-a-39k-line-c-to-single-file-html-three-js-port/",
+          "headline_zh": "新款 qwen3.8:27b 尝试将 3.9 万行 C 代码移植为单文件 HTML / three.js",
+          "summary_short_zh": "一项智能体基准测试尝试一次性将程序化生成的射击游戏 skill-issue 从单文件 C 代码移植为单文件 HTML/Three.js。源码大小为 2.1 MB，共 3.9 万行、约 60 万 token，超过了可用上下文容量（262,144 token）的两倍。",
+          "why_it_matters_zh": "此次收购有 1 个独立来源报道。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -2354,7 +2417,11 @@
               "published_at": "Mon, 24 Aug 2026 14:00:00 -0400"
             }
           ],
-          "route": "/hot/2026-08-25/topic/generating-scenarios-for-extreme-events-without-extreme-data/"
+          "route": "/hot/2026-08-25/topic/generating-scenarios-for-extreme-events-without-extreme-data/",
+          "headline_zh": "无需极端数据，也能生成极端事件场景",
+          "summary_short_zh": "一种新算法学会预判前所未有的情景，而关键基础设施和全球供应链最缺乏应对这类情景的准备。",
+          "why_it_matters_zh": "此次行业动向有 1 个独立来源报道。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "3a8a0ec22bff",
@@ -2392,7 +2459,11 @@
               "published_at": "Mon, 24 Aug 2026 21:45:53 +0000"
             }
           ],
-          "route": "/hot/2026-08-25/topic/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/"
+          "route": "/hot/2026-08-25/topic/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
+          "headline_zh": "斯坦福大学研究发现，AI 对初级岗位的冲击最大",
+          "summary_short_zh": "与更不易受 AI 影响的职业相比，受 AI 冲击领域的年轻人就业人数下降了 19%",
+          "why_it_matters_zh": "这条其他类别的消息有 1 个独立来源报道。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "aef644834f5e",
@@ -2430,7 +2501,10 @@
               "published_at": "2026-08-25T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-25/topic/import-ai-470-no-rights-for-machines-automating-environment-generation-with-spade-and-building-better-gpu-kernels-with-hawkeye/"
+          "route": "/hot/2026-08-25/topic/import-ai-470-no-rights-for-machines-automating-environment-generation-with-spade-and-building-better-gpu-kernels-with-hawkeye/",
+          "headline_zh": "Import AI 470：机器不享有权利；用 SPADE 自动生成环境；用 Hawkeye 构建更好的 GPU 内核",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "31f94aae3acd",
@@ -2468,7 +2542,10 @@
               "published_at": "2026-08-25T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-25/topic/technological-optimism-and-appropriate-fear-import-ai-431/"
+          "route": "/hot/2026-08-25/topic/technological-optimism-and-appropriate-fear-import-ai-431/",
+          "headline_zh": "技术乐观主义与适度恐惧”（Import AI #431",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "e26103a78ebc",
@@ -2506,7 +2583,11 @@
               "published_at": "Tue, 25 Aug 2026 00:23:12 +0000"
             }
           ],
-          "route": "/hot/2026-08-25/topic/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/"
+          "route": "/hot/2026-08-25/topic/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
+          "headline_zh": "险些崩盘的明星 AI 对冲基金 Situational Awareness，如今正遭美国证交会调查",
+          "summary_short_zh": "你还没来得及说完“分散投资”，这家 AI 对冲基金就从“华尔街的热门话题”变成了“联邦传票的对象”。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -2550,7 +2631,11 @@
               "published_at": "2026-08-24T11:38:15+00:00"
             }
           ],
-          "route": "/hot/2026-08-25/topic/your-executable-is-a-sqlite-database/"
+          "route": "/hot/2026-08-25/topic/your-executable-is-a-sqlite-database/",
+          "headline_zh": "你的可执行文件就是一个 SQLite 数据库",
+          "summary_short_zh": "<p><strong><a href=\" 可执行文件就是一个 SQLite 数据库</a></strong></p> Farid Zakaria 介绍了一种巧妙的 Linux 用法，可以创建一个能直接作为二进制可执行文件运行的 SQLite 数据库文件。</p> <p>诀窍是将 SQLite 文件格式中位于文件偏移 68 字节处的 4 字节应用 ID 设置为",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "debd389fb099",
@@ -2588,7 +2673,11 @@
               "published_at": "Mon, 24 Aug 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-08-25/topic/tool-latency-overlap-is-emerging-as-a-key-harness-level-speedup/"
+          "route": "/hot/2026-08-25/topic/tool-latency-overlap-is-emerging-as-a-key-harness-level-speedup/",
+          "headline_zh": "工具调用与生成过程重叠，正成为运行框架提速的关键",
+          "summary_short_zh": "@a1zhang 提出了推测式程序化工具调用（sPTC），在代码生成期间预测可安全执行的工具调用，并在环境副本中提前启动，让工具执行与词元生成重叠进行。",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     },
@@ -2632,7 +2721,11 @@
               "published_at": "2026-08-24T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-08-25/topic/prime-agent-a-self-improving-rlm-harness/"
+          "route": "/hot/2026-08-25/topic/prime-agent-a-self-improving-rlm-harness/",
+          "headline_zh": "Prime Agent：可自我改进的 RLM 运行框架",
+          "summary_short_zh": "语言模型按序处理信息，但长程自主行动需要模型权重和当前上下文之外的信息与计算。Prime Agent 是一个开源运行框架，用于长程任务评估和编程智能体工作流。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "43fcf3e63d7f",
@@ -2670,7 +2763,11 @@
               "published_at": "2026-08-24T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-08-25/topic/reworld-an-interactive-world-model-with-long-horizon-memory/"
+          "route": "/hot/2026-08-25/topic/reworld-an-interactive-world-model-with-long-horizon-memory/",
+          "headline_zh": "ReWorld：具备长期记忆的交互式世界模型",
+          "summary_short_zh": "交互式世界模型必须遵循用户操作，记住展示过的地点，并实时流式输出。其中的结构性矛盾在于：控制需要较短的时间跨度，记忆则需要无限的时间跨度。ReWorld 在训练时将两者分离，在推理时为两者设定上限。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         }
       ]
     }
@@ -2716,7 +2813,11 @@
               "published_at": "Mon, 24 Aug 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-08-25/topic/liquid-ai-artificial-analysis-launched-a-serious-on-device-benchmark-stack/"
+          "route": "/hot/2026-08-25/topic/liquid-ai-artificial-analysis-launched-a-serious-on-device-benchmark-stack/",
+          "headline_zh": "Liquid AI 与 Artificial Analysis 联合推出专业的端侧基准测试工具集",
+          "summary_short_zh": "@liquidai 发布了开源端侧推理评测套件 Pipette，针对模型、量化方式、运行时和设备的不同组合，测量质量、速度、延迟及内存占用。已有超过 1 万条经验证的结果，涵盖 35 类模型、7 种量化配置、llama.cpp 运行时和 4 种设备。",
+          "why_it_matters_zh": "这条产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "33a2f78a0ef3",
@@ -2754,7 +2855,11 @@
               "published_at": "Mon, 24 Aug 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-08-25/topic/qwen3-8-27b-continues-to-punch-above-its-size-class/"
+          "route": "/hot/2026-08-25/topic/qwen3-8-27b-continues-to-punch-above-its-size-class/",
+          "headline_zh": "Qwen3.8-27B 持续展现超越自身规模的实力",
+          "summary_short_zh": "在 Code Arena: WebDev 榜单中，Qwen3.8-27B 以 1595 分位列总榜第 9，是同规模模型中唯一进入前十的模型，仅比 Qwen3.8-Max 低六个名次（榜单更新来自 @arena）。它在消费类产品、品牌/营销和游戏类别中也排名靠前。",
+          "why_it_matters_zh": "这条产品发布消息来自 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2798,7 +2903,11 @@
               "published_at": "Tue, 25 Aug 2026 04:06:18 +0000"
             }
           ],
-          "route": "/hot/2026-08-25/topic/waic-connect-ai-connect-ai/"
+          "route": "/hot/2026-08-25/topic/waic-connect-ai-connect-ai/",
+          "headline_zh": "WAIC CONNECT | AI出海，不聊虚的！CONNECT带你拿下马来西亚真正的AI采购需求",
+          "summary_short_zh": "2026年9月7日–8日，WAIC CONNECT MALAYSIA活动，将在吉隆坡盛大开启！",
+          "why_it_matters_zh": "这条其他类消息来自 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "1301fce5364f",
@@ -2836,7 +2945,11 @@
               "published_at": "Tue, 25 Aug 2026 04:08:21 +0000"
             }
           ],
-          "route": "/hot/2026-08-25/topic/ai/"
+          "route": "/hot/2026-08-25/topic/ai/",
+          "headline_zh": "人民教育音像数字出版社与小猿达成合作 “中小学课本学习智能体”首落小猿AI学习机",
+          "summary_short_zh": "2026年8月21日，小猿学习机在京举办“中小学课本学习智能体”首发上线活动。",
+          "why_it_matters_zh": "这条其他类消息来自 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "deacc1baa5db",
@@ -2874,7 +2987,11 @@
               "published_at": "Mon, 24 Aug 2026 16:13:09 +0000"
             }
           ],
-          "route": "/hot/2026-08-25/topic/building-a-restaurant-telephony-ai-host-with-amazon-connect/"
+          "route": "/hot/2026-08-25/topic/building-a-restaurant-telephony-ai-host-with-amazon-connect/",
+          "headline_zh": "使用 Amazon Connect 打造餐厅电话 AI 接待员",
+          "summary_short_zh": "了解如何为餐厅构建语音点餐系统，从接听来电到完成点餐，全程无需应用、网站或登录。",
+          "why_it_matters_zh": "这篇教程来自 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "645ee794d812",
@@ -2912,7 +3029,11 @@
               "published_at": "Mon, 24 Aug 2026 18:59:15 +0000"
             }
           ],
-          "route": "/hot/2026-08-25/topic/democratizing-institutional-knowledge-building-an-ai-powered-knowledge-management-system-with-aws/"
+          "route": "/hot/2026-08-25/topic/democratizing-institutional-knowledge-building-an-ai-powered-knowledge-management-system-with-aws/",
+          "headline_zh": "让组织知识人人可用：使用 AWS 构建 AI 驱动的知识管理系统",
+          "summary_short_zh": "了解如何在 AWS 上构建可定制、支持智能缓存的知识管理系统，通过以语音交互为主的 AI 虚拟形象收集并传递组织知识（内部积累的经验）。",
+          "why_it_matters_zh": "这篇教程来自 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "2b268573c08a",
@@ -2950,7 +3071,11 @@
               "published_at": "Mon, 24 Aug 2026 16:41:45 +0000"
             }
           ],
-          "route": "/hot/2026-08-25/topic/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/"
+          "route": "/hot/2026-08-25/topic/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/",
+          "headline_zh": "英伟达高级经理被指牵涉 Supermicro 向中国走私 AI 服务器案",
+          "summary_short_zh": "黄仁勋斥责 Supermicro 走私 AI 服务器后，一名英伟达员工被起诉",
+          "why_it_matters_zh": "这条其他类消息来自 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "efb1ec39c94a",
@@ -2988,7 +3113,11 @@
               "published_at": "Mon, 24 Aug 2026 18:03:55 +0000"
             }
           ],
-          "route": "/hot/2026-08-25/topic/instinct-s-powerful-ai-assistant-is-raising-privacy-and-security-concerns/"
+          "route": "/hot/2026-08-25/topic/instinct-s-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
+          "headline_zh": "Instinct 功能强大的 AI 助手引发隐私和安全担忧",
+          "summary_short_zh": "早期测试者对 Instinct 的能力赞不绝口，但也有人表示，这款 AI 助手广泛的访问权限、宽泛的服务条款及代用户行事的能力，都伴随着令人不安的代价。",
+          "why_it_matters_zh": "这条其他类消息来自 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -3030,7 +3159,11 @@
           "published_at": "Mon, 24 Aug 2026 21:24:17 +0000"
         }
       ],
-      "route": "/hot/2026-08-25/topic/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/"
+      "route": "/hot/2026-08-25/topic/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
+      "headline_zh": "特朗普在 SpaceX 备受瞩目的 IPO 两周后买入其股票",
+      "summary_short_zh": "总统买入时，股价约为 155 美元。SpaceX 周一收盘价回落至 135 美元的 IPO 发行价。",
+      "why_it_matters_zh": "这条收购消息来自 1 个独立来源。",
+      "category_zh": "市场信号"
     }
   ],
   "x_buzz": [

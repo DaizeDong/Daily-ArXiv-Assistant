@@ -1066,7 +1066,10 @@
           "published_at": "2026-07-19T09:50:22+00:00"
         }
       ],
-      "route": "/hot/2026-07-20/topic/aether-7b-5attn-a-100-open-source-sovereign-foundation-model-and-a-controlled-experiment-in-heterogeneous-attention/"
+      "route": "/hot/2026-07-20/topic/aether-7b-5attn-a-100-open-source-sovereign-foundation-model-and-a-controlled-experiment-in-heterogeneous-attention/",
+      "headline_zh": "Aether-7B-5Attn：100% 开源的主权基础模型与异构注意力对照实验",
+      "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "1d62076f3929",
@@ -1106,7 +1109,14 @@
           "published_at": "2026-07-15T12:45:47Z"
         }
       ],
-      "route": "/hot/2026-07-20/topic/pyang5166-gbro-collage-broll/"
+      "route": "/hot/2026-07-20/topic/pyang5166-gbro-collage-broll/",
+      "headline_zh": "pyang5166/gbro-collage-broll",
+      "summary_short_zh": "半调纸拼贴 B-roll 生成 skill：三闸门审批，Gemini Omni Flash 首尾帧组装动画 | Editorial halftone paper-collage B-roll agent skill",
+      "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+      "category_zh": "研究",
+      "key_takeaways_zh": [
+        "半调纸拼贴 B-roll 生成 skill：三闸门审批，Gemini Omni Flash 首尾帧组装动画 | Editorial halftone paper-collage B-roll agent skill"
+      ]
     },
     {
       "topic_id": "f9c9e2465b02",
@@ -1146,7 +1156,14 @@
           "published_at": "2026-07-19T06:09:52Z"
         }
       ],
-      "route": "/hot/2026-07-20/topic/kinetinode-claude-fable-5-system-prompt-clean/"
+      "route": "/hot/2026-07-20/topic/kinetinode-claude-fable-5-system-prompt-clean/",
+      "headline_zh": "KinetiNode/claude-fable-5-system-prompt-clean",
+      "summary_short_zh": "泄露的 Claude Fable 5 / Mythos 5 系统提示词优化版，词元消耗更少。已重新整理为清晰的 Markdown 格式，可通用于 Gemini 3.1 Pro、ChatGPT 5.6 和高级大语言模型智能体。",
+      "why_it_matters_zh": "这款工具见于 1 个独立来源。",
+      "category_zh": "工具",
+      "key_takeaways_zh": [
+        "泄露的 Claude Fable 5 / Mythos 5 系统提示词优化版，词元消耗更少。已重新整理为清晰的 Markdown 格式，可通用于 Gemini 3.1 Pro、ChatGPT 5.6 和高级 L..."
+      ]
     },
     {
       "topic_id": "8a3a7f08a7f5",
@@ -1186,7 +1203,14 @@
           "published_at": "2026-07-19T03:54:09+00:00"
         }
       ],
-      "route": "/hot/2026-07-20/topic/claude-code-uses-bun-written-in-rust-now/"
+      "route": "/hot/2026-07-20/topic/claude-code-uses-bun-written-in-rust-now/",
+      "headline_zh": "Claude Code 现已使用 Rust 编写的 Bun",
+      "summary_short_zh": "<p>Jarred Sumner 在 <a href=\" Rust 版 Bun</a> 一文中表示：</p> <blockquote> <p>Claude Code v2.1.181（6 月 17 日发布）及后续版本采用了 Bun 的 Rust 移植版。Linux 上的启动速度提升了 10%，除此之外，几乎没人察觉到变化。",
+      "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "<p>Jarred Sumner 在 <a href=\"https://bun.com/blog/bun-in-rust\">用 Rust 重写 Bun</a> 一文中表示：</p> <blockquote> <p>Claude Code v2.1.181（6 月 17 日发布）及后续版本使用 Ru..."
+      ]
     },
     {
       "topic_id": "a9aa9d27ad1d",
@@ -1224,7 +1248,11 @@
           "published_at": "2026-07-20T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-07-20/topic/a-significant-increase-in-digital-labor-automation-center-for-ai-safety/"
+      "route": "/hot/2026-07-20/topic/a-significant-increase-in-digital-labor-automation-center-for-ai-safety/",
+      "headline_zh": "数字劳动自动化程度显著提升（Center for AI Safety）",
+      "summary_short_zh": "数字劳动自动化程度显著提升（Center for AI Safety",
+      "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+      "category_zh": "行业动态"
     }
   ],
   "category_sections": [
@@ -1268,7 +1296,11 @@
               "published_at": "2026-07-20T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-20/topic/benchmark-maintainers-here-elliot-arledge-x/"
+          "route": "/hot/2026-07-20/topic/benchmark-maintainers-here-elliot-arledge-x/",
+          "headline_zh": "基准测试维护者在此（Elliot Arledge，X）",
+          "summary_short_zh": "基准测试维护者在此（Elliot Arledge，X",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "a5d6121555a2",
@@ -1306,7 +1338,10 @@
               "published_at": "2026-07-20T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-20/topic/import-ai-463-self-improving-robots-a-10k-chinese-gpu-cluster-and-an-elegiac-essay-for-the-human-era/"
+          "route": "/hot/2026-07-20/topic/import-ai-463-self-improving-robots-a-10k-chinese-gpu-cluster-and-an-elegiac-essay-for-the-human-era/",
+          "headline_zh": "Import AI 第 463 期：自我改进的机器人、中国万卡 GPU 集群，以及一篇悼念人类时代的随笔",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "57530074ab1d",
@@ -1344,7 +1379,10 @@
               "published_at": "2026-07-20T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-20/topic/import-ai-464-fables-writes-gpu-kernels-ai-automation-and-analog-computation/"
+          "route": "/hot/2026-07-20/topic/import-ai-464-fables-writes-gpu-kernels-ai-automation-and-analog-computation/",
+          "headline_zh": "Import AI 第 464 期：Fables 编写 GPU 内核、AI 自动化与模拟计算",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "1de244a68e23",
@@ -1382,7 +1420,11 @@
               "published_at": "Mon, 20 Jul 2026 04:34:07 +0000"
             }
           ],
-          "route": "/hot/2026-07-20/topic/gmi-cloud-ai-cloud-maas-agentbox-waic-2026/"
+          "route": "/hot/2026-07-20/topic/gmi-cloud-ai-cloud-maas-agentbox-waic-2026/",
+          "headline_zh": "GMI Cloud 携AI Cloud、MaaS、Agentbox等全栈智算解决方案亮相 WAIC 2026",
+          "summary_short_zh": "打造了沉浸式的 AI 基础设施交互体验",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "0075d0ee4fdb",
@@ -1420,7 +1462,11 @@
               "published_at": "Mon, 20 Jul 2026 05:35:02 +0000"
             }
           ],
-          "route": "/hot/2026-07-20/topic/waic-ceo-99/"
+          "route": "/hot/2026-07-20/topic/waic-ceo-99/",
+          "headline_zh": "「仿真派」落地真产线！苏度WAIC首秀，CEO韩铮：99%+成功率",
+          "summary_short_zh": "仿真的底层逻辑",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -1464,7 +1510,11 @@
               "published_at": "2026-07-19T05:06:21+00:00"
             }
           ],
-          "route": "/hot/2026-07-20/topic/ai-mania-is-eviscerating-global-decision-making/"
+          "route": "/hot/2026-07-20/topic/ai-mania-is-eviscerating-global-decision-making/",
+          "headline_zh": "AI 狂热正在摧毁全球决策能力",
+          "summary_short_zh": "<p><strong><a href=\" 狂热正在摧毁全球决策能力</a></strong></p> Nik Suresh 为多家大公司提供咨询服务，他以风趣的视角谈到了席卷这些公司的 AI 狂热。",
+          "why_it_matters_zh": "这条工具类资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     }
@@ -1510,7 +1560,10 @@
               "published_at": "Mon, 20 Jul 2026 05:43:42 +0000"
             }
           ],
-          "route": "/hot/2026-07-20/topic/waic-2026-vivago-r1/"
+          "route": "/hot/2026-07-20/topic/waic-2026-vivago-r1/",
+          "headline_zh": "WAIC 2026｜智象未来发布全球首个无限时长内容创作智能体——vivago R1",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "b3081458bfe3",
@@ -1548,7 +1601,10 @@
               "published_at": "Mon, 20 Jul 2026 05:52:15 +0000"
             }
           ],
-          "route": "/hot/2026-07-20/topic/ai/"
+          "route": "/hot/2026-07-20/topic/ai/",
+          "headline_zh": "光鉴科技发布具身智能视觉感知方案，为物理AI提供视觉感知基础",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "b23777b8078f",
@@ -1586,7 +1642,11 @@
               "published_at": "2026-07-19T13:35:54-04:00"
             }
           ],
-          "route": "/hot/2026-07-20/topic/i-hate-that-i-don-t-hate-this-song-made-with-suno/"
+          "route": "/hot/2026-07-20/topic/i-hate-that-i-don-t-hate-this-song-made-with-suno/",
+          "headline_zh": "真讨厌，我竟然不讨厌这首用 Suno 创作的歌",
+          "summary_short_zh": "我绝不会说 AI 在音乐领域毫无用武之地（毕竟我是 Holly Herndon 的粉丝）。但我通常觉得生成式 AI 创作的音乐无聊得令人发指，尤其是 Suno 的作品。所以，我有点难以接受这样一个事实：",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "0902ddead789",
@@ -1624,7 +1684,11 @@
               "published_at": "Sun, 19 Jul 2026 14:00:00 +0000"
             }
           ],
-          "route": "/hot/2026-07-20/topic/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/"
+          "route": "/hot/2026-07-20/topic/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+          "headline_zh": "非营利组织 Current AI 正加紧打造向所有人免费开放的 AI 万维网",
+          "summary_short_zh": "非营利组织 Current AI 致力于打造兼顾所有文化的 AI，已在设备、AI 聊天等领域取得显著进展。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "292a95db8185",
@@ -1662,7 +1726,10 @@
               "published_at": "2026-07-20T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-20/topic/find-your-winning-ad-angles-with-claude-and-meta-data/"
+          "route": "/hot/2026-07-20/topic/find-your-winning-ad-angles-with-claude-and-meta-data/",
+          "headline_zh": "借助 Claude 和 Meta 数据，找到有效的广告切入点",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "5d6a078ff917",
@@ -1700,7 +1767,10 @@
               "published_at": "2026-07-20T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-20/topic/openai-s-new-230-ai-agent-control-pad/"
+          "route": "/hot/2026-07-20/topic/openai-s-new-230-ai-agent-control-pad/",
+          "headline_zh": "OpenAI 新款 AI 智能体控制面板，售价 230 美元",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "924135454720",
@@ -1738,7 +1808,10 @@
               "published_at": "2026-07-20T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-20/topic/5-min-read-america-s-best-open-weight-model-yet/"
+          "route": "/hot/2026-07-20/topic/5-min-read-america-s-best-open-weight-model-yet/",
+          "headline_zh": "阅读需 5 分钟：美国迄今最强的开放权重模型",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "f6f264429933",
@@ -1776,7 +1849,10 @@
               "published_at": "2026-07-20T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-20/topic/5-min-read-moonshot-ai-reveals-a-frontier-level-model/"
+          "route": "/hot/2026-07-20/topic/5-min-read-moonshot-ai-reveals-a-frontier-level-model/",
+          "headline_zh": "阅读需 5 分钟：Moonshot AI 公布一款达到前沿水平的模型",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -1818,7 +1894,11 @@
           "published_at": "2026-07-16T11:37:15Z"
         }
       ],
-      "route": "/hot/2026-07-20/topic/promptpartner-agentsmith/"
+      "route": "/hot/2026-07-20/topic/promptpartner-agentsmith/",
+      "headline_zh": "PromptPartner/agentsmith",
+      "summary_short_zh": "面向 AI 智能体（Claude、Codex、Gemini 等）的通用运行框架，不依赖特定模型；一个安装脚本即可组装精简内核与各类任务配置。",
+      "why_it_matters_zh": "这款工具见于 1 个独立来源。",
+      "category_zh": "工具"
     },
     {
       "topic_id": "eea874a65b33",
@@ -1856,7 +1936,11 @@
           "published_at": "2026-07-17T11:38:10Z"
         }
       ],
-      "route": "/hot/2026-07-20/topic/klaatai-klaatcode/"
+      "route": "/hot/2026-07-20/topic/klaatai-klaatcode/",
+      "headline_zh": "KlaatAI/klaatcode",
+      "summary_short_zh": "开源终端 AI 编程智能体。准确性达到 Claude Code 级别，通过智能模型路由为每项任务选择合适的 AI 模型，将成本降至原来的 1/10。支持 Claude、GPT、Gemini、DeepSeek 等。",
+      "why_it_matters_zh": "这款工具见于 1 个独立来源。",
+      "category_zh": "工具"
     },
     {
       "topic_id": "b81c0eb932ef",
@@ -1894,7 +1978,11 @@
           "published_at": "2026-07-15T01:59:55Z"
         }
       ],
-      "route": "/hot/2026-07-20/topic/superxslam-supermap/"
+      "route": "/hot/2026-07-20/topic/superxslam-supermap/",
+      "headline_zh": "superxslam/SuperMap",
+      "summary_short_zh": "SuperMap 为具身 AI 提供持续更新的空间记忆，能感知世界、记录世界的变化，并支持推理与行动。",
+      "why_it_matters_zh": "这款工具见于 1 个独立来源。",
+      "category_zh": "工具"
     }
   ],
   "x_buzz": [

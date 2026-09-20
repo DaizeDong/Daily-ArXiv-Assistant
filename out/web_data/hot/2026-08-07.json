@@ -2268,7 +2268,10 @@
           "published_at": "Aug 7, 2026"
         }
       ],
-      "route": "/hot/2026-08-07/topic/improving-fable-5-s-biology-safeguards/"
+      "route": "/hot/2026-08-07/topic/improving-fable-5-s-biology-safeguards/",
+      "headline_zh": "改进 Fable 5 的生物安全防护措施",
+      "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "0ae6cf433b96",
@@ -2316,7 +2319,15 @@
           "published_at": "Thu, 06 Aug 2026 22:43:53 +0000"
         }
       ],
-      "route": "/hot/2026-08-07/topic/jony-ive-8217-s-first-openai-gadget-is-reportedly-a-hockey-puck-sized-smart-speaker/"
+      "route": "/hot/2026-08-07/topic/jony-ive-8217-s-first-openai-gadget-is-reportedly-a-hockey-puck-sized-smart-speaker/",
+      "headline_zh": "据报道，Jony Ive 为 OpenAI 打造的首款设备是一款冰球大小的智能音箱",
+      "summary_short_zh": "据彭博社记者 Mark Gurman 报道，OpenAI 与苹果前设计师 Jony Ive 共同开发的 AI 设备“本质上是一款没有屏幕的智能音箱”，采用电池供电，形似甜甜圈，大小与冰球相仿。",
+      "why_it_matters_zh": "此次产品发布有 2 个独立来源报道。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "OpenAI 与苹果前设计师 Jony Ive 共同开发的 AI 设备“本质上是一款没有屏幕的智能音箱”，采用电池供电，形似甜甜圈，大小与冰球相仿……",
+        "从披露的更多细节来看，OpenAI 神秘的 AI 新设备似乎是一款价格不菲的智能音箱。"
+      ]
     },
     {
       "topic_id": "c5098a412633",
@@ -2356,7 +2367,14 @@
           "published_at": "Thu, 06 Aug 2026 16:08:12 +0000"
         }
       ],
-      "route": "/hot/2026-08-07/topic/llm-optimization-integration-for-amazon-sagemaker-python-sdk/"
+      "route": "/hot/2026-08-07/topic/llm-optimization-integration-for-amazon-sagemaker-python-sdk/",
+      "headline_zh": "Amazon SageMaker Python SDK 集成大语言模型优化功能",
+      "summary_short_zh": "Amazon SageMaker Python SDK v3 现已支持在笔记本中直接获取 Amazon SageMaker AI 的生成式 AI 推理建议。您可对端点进行基准测试、生成基于数据的部署建议，并部署推荐配置，全程无需离开笔记本工作流",
+      "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Amazon SageMaker Python SDK v3 现已支持在笔记本中直接获取 Amazon SageMaker AI 的生成式 AI 推理建议。您可对端点进行基准测试、生成基于数据的部署建议……"
+      ]
     },
     {
       "topic_id": "122c9b892816",
@@ -2394,7 +2412,10 @@
           "published_at": "Thu, 06 Aug 2026 15:06:15 +0000"
         }
       ],
-      "route": "/hot/2026-08-07/topic/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/"
+      "route": "/hot/2026-08-07/topic/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+      "headline_zh": "WeatherNext：AI 模型在气旋预报方面取得突破",
+      "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "4153a42a648d",
@@ -2451,7 +2472,16 @@
           "published_at": "2026-08-06T13:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-08-07/topic/improving-gpt-5-6-sol-in-chatgpt-and-expanding-access-to-gpt-5-6-luna-for-free-users/"
+      "route": "/hot/2026-08-07/topic/improving-gpt-5-6-sol-in-chatgpt-and-expanding-access-to-gpt-5-6-luna-for-free-users/",
+      "headline_zh": "改进 ChatGPT 中的 GPT‑5.6 Sol，并向免费用户进一步开放 GPT-5.6 Luna",
+      "summary_short_zh": "ChatGPT 推出改进版 GPT-5.6 Sol，提升准确性和一致性，同时为免费用户开放更多使用权限，并支持使用 GPT-5.6 Luna 进行不限次数的日常对话",
+      "why_it_matters_zh": "这条其他类消息见于 6 个独立来源。",
+      "category_zh": "行业动态",
+      "key_takeaways_zh": [
+        "ChatGPT 推出改进版 GPT-5.6 Sol，提升准确性和一致性，同时为免费用户开放更多使用权限，并支持使用 GPT-5.6 Luna 进行不限次数的日常对话。",
+        "OpenAI 将为 ChatGPT 免费版和 Go 套餐用户带来重大变化：据 OpenAI 称，从下周起，这两类用户可与聊天机器人进行不限次数的文字对话……",
+        "OpenAI 表示，ChatGPT 免费版和 Go 套餐用户还将获得一个用于处理复杂问题的新“思考”按钮。"
+      ]
     }
   ],
   "category_sections": [
@@ -2495,7 +2525,11 @@
               "published_at": "Thu, 06 Aug 2026 00:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-08-07/topic/from-asking-to-doing-how-the-world-is-putting-chatgpt-to-work/"
+          "route": "/hot/2026-08-07/topic/from-asking-to-doing-how-the-world-is-putting-chatgpt-to-work/",
+          "headline_zh": "从提问到行动：全球用户如何用 ChatGPT 完成任务",
+          "summary_short_zh": "OpenAI Signals 的最新数据展示了全球用户如何使用 ChatGPT，并按国家分析其普及情况、使用趋势和用户行为变化",
+          "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "10129080e38b",
@@ -2533,7 +2567,11 @@
               "published_at": "2026-08-06T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-08-07/topic/cohere-and-university-of-waterloo-partner-to-build-canada-s-ai-talent-pipeline-cohere/"
+          "route": "/hot/2026-08-07/topic/cohere-and-university-of-waterloo-partner-to-build-canada-s-ai-talent-pipeline-cohere/",
+          "headline_zh": "Cohere 与滑铁卢大学合作，打造加拿大 AI 人才梯队 | Cohere",
+          "summary_short_zh": "Cohere 与滑铁卢大学启动合作，壮大加拿大 AI 人才梯队",
+          "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "9dd1caafd545",
@@ -2571,7 +2609,11 @@
               "published_at": "Thu, 06 Aug 2026 06:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-08-07/topic/working-with-the-american-psychological-association-on-youth-mental-health-and-ai/"
+          "route": "/hot/2026-08-07/topic/working-with-the-american-psychological-association-on-youth-mental-health-and-ai/",
+          "headline_zh": "与美国心理学会合作开展青少年心理健康与 AI 相关工作",
+          "summary_short_zh": "OpenAI 与美国心理学会共同推进循证指南、资源和保障措施的建设，促进负责任的 AI 使用，保护青少年心理健康",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "c718c8229cbb",
@@ -2609,7 +2651,11 @@
               "published_at": "2026-08-06T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-08-07/topic/rekadaily-10k-collecting-10-000-hours-of-egocentric-household-manipulation-data/"
+          "route": "/hot/2026-08-07/topic/rekadaily-10k-collecting-10-000-hours-of-egocentric-household-manipulation-data/",
+          "headline_zh": "RekaDaily-10k：采集逾 10,000 小时的第一视角家务操作数据",
+          "summary_short_zh": "RekaDaily-10k：采集人员有偿录制的逾 10,000 小时第一视角家居视频，无预设脚本，以 Apache 2.0 许可证发布，分为原始版和文字描述版",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "dcae2a45a129",
@@ -2647,7 +2693,11 @@
               "published_at": "2026-08-05T23:58:35+00:00"
             }
           ],
-          "route": "/hot/2026-08-07/topic/introducing-muse-code-and-muse-spark-1-2/"
+          "route": "/hot/2026-08-07/topic/introducing-muse-code-and-muse-spark-1-2/",
+          "headline_zh": "推出 Muse Code 和 Muse Spark 1.2",
+          "summary_short_zh": "<p><strong><a href=\" Muse Code and Muse Spark 1.2</a></strong></p> 这进一步表明，如今任何模型最重要的特性都是在长序列任务中自主调用工具的能力。",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2691,7 +2741,11 @@
               "published_at": "Thu, 06 Aug 2026 17:00:37 +0000"
             }
           ],
-          "route": "/hot/2026-08-07/topic/na-ve-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/"
+          "route": "/hot/2026-08-07/topic/na-ve-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
+          "headline_zh": "Naïve 融资 2,850 万美元，用自动化处理公司创办与运营中的繁琐事务",
+          "summary_short_zh": "Naïve 在 vibe-coding 的基础上更进一步，声称其基础设施可以自动完成创办和运营企业的大部分工作",
+          "why_it_matters_zh": "此次融资见于 1 个独立来源。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "e8325a4d4966",
@@ -2729,7 +2783,10 @@
               "published_at": "2026-08-06T20:23:11Z"
             }
           ],
-          "route": "/hot/2026-08-07/topic/amd-acquires-taalas-to-boost-inference-performance-by-etching-models-in-silicon/"
+          "route": "/hot/2026-08-07/topic/amd-acquires-taalas-to-boost-inference-performance-by-etching-models-in-silicon/",
+          "headline_zh": "AMD 收购 Taalas，通过将模型刻入硅芯片提升推理性能",
+          "why_it_matters_zh": "此次收购见于 1 个独立来源。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "fc0e4b1ec9e6",
@@ -2776,7 +2833,11 @@
               "published_at": "2026-08-06T16:27:26Z"
             }
           ],
-          "route": "/hot/2026-08-07/topic/70-of-microsoft-s-ai-revenue-comes-from-openai/"
+          "route": "/hot/2026-08-07/topic/70-of-microsoft-s-ai-revenue-comes-from-openai/",
+          "headline_zh": "微软 70% 的 AI 收入来自 OpenAI",
+          "summary_short_zh": "这是一张推文截图，称微软约 70% 的 AI 收入来自 OpenAI，配有一张担忧的表情图，以及一张显示当日下跌 0.65% 的微软股价放大图。",
+          "why_it_matters_zh": "此次收购见于 2 个独立来源。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -2820,7 +2881,11 @@
               "published_at": "Thu, 06 Aug 2026 16:43:19 +0000"
             }
           ],
-          "route": "/hot/2026-08-07/topic/control-agent-behaviors-and-cost-beyond-a-single-action-new-capabilities-in-amazon-bedrock-agentcore/"
+          "route": "/hot/2026-08-07/topic/control-agent-behaviors-and-cost-beyond-a-single-action-new-capabilities-in-amazon-bedrock-agentcore/",
+          "headline_zh": "超越单次操作，管控智能体行为与成本：Amazon Bedrock AgentCore 新功能",
+          "summary_short_zh": "了解 Amazon Bedrock AgentCore 的新功能：由面向 AI 智能体的全新开源策略语言 Dogwood 支持的时序策略，以及网关限流。",
+          "why_it_matters_zh": "这一行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "0e77d02cfbb3",
@@ -2858,7 +2923,11 @@
               "published_at": "2026-08-06T13:39:43-04:00"
             }
           ],
-          "route": "/hot/2026-08-07/topic/suno-shares-plans-to-combat-spammy-ai-music/"
+          "route": "/hot/2026-08-07/topic/suno-shares-plans-to-combat-spammy-ai-music/",
+          "headline_zh": "Suno 公布治理垃圾 AI 音乐的计划",
+          "summary_short_zh": "Suno 宣布计划采用新的水印技术和下载政策，以遏制垃圾 AI 歌曲的传播，提高透明度。在公司争取外界认可之际，首席执行官兼联合创始人 Mikey Shulman 发表长篇博文，阐述了公司的原则和下一步计划。",
+          "why_it_matters_zh": "这条行业动态来自 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "c842e95c2ba4",
@@ -2896,7 +2965,10 @@
               "published_at": "2026-08-07T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-07/topic/import-ai-455-ai-systems-are-about-to-start-building-themselves-what-does-that-mean/"
+          "route": "/hot/2026-08-07/topic/import-ai-455-ai-systems-are-about-to-start-building-themselves-what-does-that-mean/",
+          "headline_zh": "Import AI 第 455 期：“AI 系统即将开始构建自身。这意味着什么？”",
+          "why_it_matters_zh": "这条其他类资讯来自 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "1b41340b9045",
@@ -2934,7 +3006,10 @@
               "published_at": "2026-08-07T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-07/topic/import-ai-467-self-sustaining-ai-viruses-pacing-ai-progress-confusion-about-ai-and-creativity/"
+          "route": "/hot/2026-08-07/topic/import-ai-467-self-sustaining-ai-viruses-pacing-ai-progress-confusion-about-ai-and-creativity/",
+          "headline_zh": "Import AI 第 467 期：可自我维持的 AI 病毒；调控 AI 发展节奏；对 AI 与创造力的困惑",
+          "why_it_matters_zh": "这条其他类资讯来自 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "fa8d22762b4a",
@@ -2972,7 +3047,11 @@
               "published_at": "2026-08-07T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-07/topic/ten-advances-in-mathematics-and-theoretical-computer-science-openai-blog/"
+          "route": "/hot/2026-08-07/topic/ten-advances-in-mathematics-and-theoretical-computer-science-openai-blog/",
+          "headline_zh": "数学与理论计算机科学的十项进展（OpenAI 博客）",
+          "summary_short_zh": "数学与理论计算机科学的十项进展（OpenAI 博客",
+          "why_it_matters_zh": "这条其他类资讯来自 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -3016,7 +3095,11 @@
               "published_at": "Thu, 06 Aug 2026 16:11:13 +0000"
             }
           ],
-          "route": "/hot/2026-08-07/topic/building-an-agentic-app-deployer-with-amazon-bedrock-and-aws-lambda/"
+          "route": "/hot/2026-08-07/topic/building-an-agentic-app-deployer-with-amazon-bedrock-and-aws-lambda/",
+          "headline_zh": "使用 Amazon Bedrock 和 AWS Lambda 构建基于智能体的应用部署工具",
+          "summary_short_zh": "PDI Technologies 在 AWS 上构建了智能体平台 PDI Brew，非技术人员只需用通俗英语描述所需工具，即可在几秒内获得资源配置齐全的多租户 Web 应用。",
+          "why_it_matters_zh": "这条开发工具资讯来自 1 个独立来源。",
+          "category_zh": "开发工具"
         },
         {
           "topic_id": "358709b07c44",
@@ -3054,7 +3137,11 @@
               "published_at": "Thu, 06 Aug 2026 16:12:24 +0000"
             }
           ],
-          "route": "/hot/2026-08-07/topic/agent-skills-for-automated-reasoning-policies-in-amazon-bedrock/"
+          "route": "/hot/2026-08-07/topic/agent-skills-for-automated-reasoning-policies-in-amazon-bedrock/",
+          "headline_zh": "用于 Amazon Bedrock 自动推理策略的 Agent Skills",
+          "summary_short_zh": "了解如何通过编程智能体管理 Amazon Bedrock 自动推理策略的完整生命周期。一套开源 Agent Skills 可完成自定义策略从构建、审查、测试、调试到部署、验证的全流程，将专业性较强的控制台任务转为可重复执行的工程流程。",
+          "why_it_matters_zh": "这条开发工具资讯来自 1 个独立来源。",
+          "category_zh": "开发工具"
         },
         {
           "topic_id": "074472bd978d",
@@ -3092,7 +3179,11 @@
               "published_at": "Thu, 06 Aug 2026 18:57:55 +0000"
             }
           ],
-          "route": "/hot/2026-08-07/topic/securing-ai-agents-with-temporal-policies-in-amazon-bedrock-agentcore/"
+          "route": "/hot/2026-08-07/topic/securing-ai-agents-with-temporal-policies-in-amazon-bedrock-agentcore/",
+          "headline_zh": "使用 Amazon Bedrock AgentCore 的时序策略保护 AI 智能体",
+          "summary_short_zh": "Amazon Bedrock AgentCore 的时序策略支持定义有状态规则，根据智能体的会话历史判断是否授权。了解如何强制遵循工作流顺序、防止编造数据、设定财务风险敞口上限，并要求高价值操作经人工批准。",
+          "why_it_matters_zh": "这条开发工具资讯来自 1 个独立来源。",
+          "category_zh": "开发工具"
         }
       ]
     }
@@ -3138,7 +3229,11 @@
               "published_at": "Thu, 06 Aug 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-08-07/topic/developer-surface-area-also-expanded/"
+          "route": "/hot/2026-08-07/topic/developer-surface-area-also-expanded/",
+          "headline_zh": "面向开发者的功能也进一步扩展",
+          "summary_short_zh": "OpenAI 推出了 Agent Plugins，这是与 AWS、Cursor、GitHub、Vercel 等共同制定的开放标准，用统一格式打包 Agent Skills 和 MCP 服务器配置，发布时即获 Codex、ChatGPT、Cursor、GitHub Copilot、Kiro 和 Code 支持（OpenAIDevs、OpenAIDevs）。",
+          "why_it_matters_zh": "这条产品发布资讯来自 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "e1e0081926a1",
@@ -3176,7 +3271,11 @@
               "published_at": "Thu, 06 Aug 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-08-07/topic/openai-collapsed-instant-and-thinking-into-one-paid-chat-model/"
+          "route": "/hot/2026-08-07/topic/openai-collapsed-instant-and-thinking-into-one-paid-chat-model/",
+          "headline_zh": "OpenAI 将“即时”和“思考”整合为一个付费聊天模型",
+          "summary_short_zh": "该公司宣布，GPT-5.6 Sol 现已为 ChatGPT Plus/Pro 用户的 Instant 模式和深度推理提供支持，并新增推理强度滑块，让用户在速度与回答的全面性之间取舍（OpenAI，OpenAI）。",
+          "why_it_matters_zh": "共有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "6103541bddf6",
@@ -3214,7 +3313,11 @@
               "published_at": "Thu, 06 Aug 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-08-07/topic/qwen-3-8-max-now-ranked-as-best-overall-model-ahead-of-opus-5-by-artificial-analysis-agentic-index/"
+          "route": "/hot/2026-08-07/topic/qwen-3-8-max-now-ranked-as-best-overall-model-ahead-of-opus-5-by-artificial-analysis-agentic-index/",
+          "headline_zh": "Qwen 3.8 Max 在 Artificial Analysis 智能体指数中超越 Opus 5，位列模型综合榜首",
+          "summary_short_zh": "该帖称，Qwen 3.8 Max 在 Artificial Analysis 智能体指数中的排名高于 Claude Opus 5，该基准侧重 GDPval-AA v2 和 𝜏³-Banking 智能体评测。",
+          "why_it_matters_zh": "共有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "04cb3be869b5",
@@ -3252,7 +3355,11 @@
               "published_at": "Thu, 06 Aug 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-08-07/topic/google-deepmind-open-sourced-a-high-impact-weather-model/"
+          "route": "/hot/2026-08-07/topic/google-deepmind-open-sourced-a-high-impact-weather-model/",
+          "headline_zh": "Google DeepMind 开源了一款影响重大的气象模型",
+          "summary_short_zh": "据称，发表于《自然》的 WeatherNext 2 可让热带气旋预报再提前约一天，这一飞跃被形容为相当于约十年的预报技术进步。该模型正连同代码和模型权重一并公开（GoogleDeepMind，NewsFromGoogle）。",
+          "why_it_matters_zh": "共有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "b083e1f55a89",
@@ -3290,7 +3397,11 @@
               "published_at": "Thu, 06 Aug 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-08-07/topic/mcp-is-moving-from-novelty-to-table-stakes/"
+          "route": "/hot/2026-08-07/topic/mcp-is-moving-from-novelty-to-table-stakes/",
+          "headline_zh": "MCP 正从新鲜事物变成标配",
+          "summary_short_zh": "除了 Cloudflare，Weaviate 也新增了内置 /v1/mcp 端点，与 REST API 共用端口，提供集合查看、租户列表查询、混合搜索及对象插入或更新工具。无需单独部署 MCP 服务，支持基于角色的访问控制（RBAC），并设有独立的 MCP 访问和写入权限开关（weaviate_io）。",
+          "why_it_matters_zh": "共有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "9ddf05ec4dff",
@@ -3328,7 +3439,11 @@
               "published_at": "Thu, 06 Aug 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-08-07/topic/qwen3-8-2-4t-a95b-aka-qwen3-8-max-open-release-time-next-wednesday/"
+          "route": "/hot/2026-08-07/topic/qwen3-8-2-4t-a95b-aka-qwen3-8-max-open-release-time-next-wednesday/",
+          "headline_zh": "Qwen3.8-2.4T-A95B（又名 Qwen3.8-Max）公开发布时间：下周三",
+          "summary_short_zh": "ModelScope 的占位页面显示，Qwen3.8-2.4T-A95B / Qwen3.8-Max 将于“下周三”在 modelscope.cn/models/Qwen/Qwen3.8-2.4T-A95B 公开发布。",
+          "why_it_matters_zh": "共有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -3372,7 +3487,11 @@
               "published_at": "Fri, 07 Aug 2026 02:56:46 +0000"
             }
           ],
-          "route": "/hot/2026-08-07/topic/ai-ssd/"
+          "route": "/hot/2026-08-07/topic/ai-ssd/",
+          "headline_zh": "AI SSD：大模型推理的存储范式转移",
+          "summary_short_zh": "算力、网络、内存与存储开始围绕每个Token协同",
+          "why_it_matters_zh": "这条其他类消息来自 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "c474b18413c1",
@@ -3410,7 +3529,11 @@
               "published_at": "2026-08-06T10:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-07/topic/the-left-and-right-agree-on-one-thing-no-data-centers/"
+          "route": "/hot/2026-08-07/topic/the-left-and-right-agree-on-one-thing-no-data-centers/",
+          "headline_zh": "左右两派在一件事上意见一致：不要数据中心",
+          "summary_short_zh": "今天，我和 The Verge 的政策记者 Gaby Del Valle 聊聊人们对 AI 数据中心日益强烈的反对声浪。&#160; Gaby 最近写了一篇关于佛罗里达州赫尔南多县的精彩报道。上个月，该县委员会一致通过了一项为期一年的暂停令，针对的是数据……",
+          "why_it_matters_zh": "共有 1 个独立来源报道了这一行业动向。",
+          "category_zh": "行业动态"
         }
       ]
     }

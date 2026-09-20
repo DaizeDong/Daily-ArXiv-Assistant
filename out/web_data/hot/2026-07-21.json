@@ -1704,7 +1704,14 @@
           "published_at": "Mon, 20 Jul 2026 16:58:52 +0000"
         }
       ],
-      "route": "/hot/2026-07-21/topic/how-couchbase-built-a-multi-model-ai-architecture-for-capella-iq-with-amazon-bedrock/"
+      "route": "/hot/2026-07-21/topic/how-couchbase-built-a-multi-model-ai-architecture-for-capella-iq-with-amazon-bedrock/",
+      "headline_zh": "Couchbase 如何借助 Amazon Bedrock 为 Capella iQ 构建多模型 AI 架构",
+      "summary_short_zh": "本文介绍了 Couchbase 如何借助 Amazon Bedrock，使用 Anthropic 的 Claude 系列模型为 Capella iQ 提供支持，以及其多模型方案背后的架构决策和在生产环境中取得的运维收益",
+      "why_it_matters_zh": "共有 1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "本文介绍了 Couchbase 如何借助 Amazon Bedrock，使用 Anthropic 的 Claude 系列模型为 Capella iQ 提供支持，以及其多模型方案背后的架构决策和运维……"
+      ]
     },
     {
       "topic_id": "dd97c533304c",
@@ -1744,7 +1751,14 @@
           "published_at": "Mon, 20 Jul 2026 17:25:24 +0000"
         }
       ],
-      "route": "/hot/2026-07-21/topic/custom-os-installation-now-available-on-aws-deepracer-devices/"
+      "route": "/hot/2026-07-21/topic/custom-os-installation-now-available-on-aws-deepracer-devices/",
+      "headline_zh": "AWS DeepRacer 设备现已支持安装自定义操作系统",
+      "summary_short_zh": "使用原厂固件和软件时，开发者无法改装 AWS DeepRacer 设备以运行最新的操作系统。现在，开发者可以利用新发布的引导加载程序，升级或安装自定义操作系统（OS），从而延长这些硬件设备的使用寿命。",
+      "why_it_matters_zh": "共有 1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "使用原厂固件和软件时，开发者无法改装 AWS DeepRacer 设备以运行最新的操作系统。现在，开发者可以升级或安装自定义操作系统……"
+      ]
     },
     {
       "topic_id": "ec0de8dc6cf0",
@@ -1793,7 +1807,14 @@
           "published_at": "Mon, 20 Jul 2026 05:44:39 GMT"
         }
       ],
-      "route": "/hot/2026-07-21/topic/safety-and-alignment-in-an-era-of-long-horizon-models/"
+      "route": "/hot/2026-07-21/topic/safety-and-alignment-in-an-era-of-long-horizon-models/",
+      "headline_zh": "长时程模型时代的安全与对齐",
+      "summary_short_zh": "OpenAI 分享了部署长时间运行的 AI 模型的经验教训，重点介绍新的安全风险、观察到的失败案例，以及通过迭代部署改进的防护措施",
+      "why_it_matters_zh": "共有 2 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "OpenAI 分享了部署长时间运行的 AI 模型的经验教训，重点介绍新的安全风险、观察到的失败案例，以及通过迭代部署改进的防护措施。"
+      ]
     },
     {
       "topic_id": "68ca2ad0bb6e",
@@ -1833,7 +1854,14 @@
           "published_at": "Tue, 21 Jul 2026 00:12:24 +0000"
         }
       ],
-      "route": "/hot/2026-07-21/topic/anthropic-s-landmark-1-5b-copyright-settlement-is-approved/"
+      "route": "/hot/2026-07-21/topic/anthropic-s-landmark-1-5b-copyright-settlement-is-approved/",
+      "headline_zh": "Anthropic 具有里程碑意义的 15 亿美元版权和解协议获批",
+      "summary_short_zh": "和解协议最终获批，了结了一起案件，但使用受版权保护的作品训练 AI 模型这一更广泛的问题仍未解决",
+      "why_it_matters_zh": "共有 1 个独立来源报道了此次融资。",
+      "category_zh": "市场信号",
+      "key_takeaways_zh": [
+        "和解协议最终获批，了结了一起案件，但使用受版权保护的作品训练 AI 模型这一更广泛的问题仍未解决。"
+      ]
     },
     {
       "topic_id": "9855dc571386",
@@ -1873,7 +1901,14 @@
           "published_at": "2026-07-20T12:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-07-21/topic/adobe-s-natural-look-camera-app-embraces-generative-ai/"
+      "route": "/hot/2026-07-21/topic/adobe-s-natural-look-camera-app-embraces-generative-ai/",
+      "headline_zh": "Adobe 主打“自然观感”的相机应用引入生成式 AI",
+      "summary_short_zh": "Adobe 的实验性相机应用有了意想不到的转向。Project Indigo 去年推出，旨在让 iPhone 拍出的照片呈现“更自然（类似单反）的效果”，如今 Indigo 相机应用正在更新，加入一系列生成式 AI 工具。",
+      "why_it_matters_zh": "共有 1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Adobe 的实验性相机应用有了意想不到的转向。Project Indigo 去年推出，旨在让 iPhone 拍出的照片呈现“更自然（类似单反）的效果”，而 Indigo 相机应用……"
+      ]
     }
   ],
   "category_sections": [
@@ -1917,7 +1952,11 @@
               "published_at": "Mon, 20 Jul 2026 17:01:32 +0000"
             }
           ],
-          "route": "/hot/2026-07-21/topic/build-specialized-agent-workflows-for-your-business-with-amazon-quick-and-nvidia-nemo-agent-toolkit/"
+          "route": "/hot/2026-07-21/topic/build-specialized-agent-workflows-for-your-business-with-amazon-quick-and-nvidia-nemo-agent-toolkit/",
+          "headline_zh": "利用 Amazon Quick 和 NVIDIA NeMo Agent Toolkit 为企业构建专用智能体工作流",
+          "summary_short_zh": "本文介绍如何让 Amazon Quick 成为业务用户使用专用智能体工作流的入口。",
+          "why_it_matters_zh": "共有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "08b403925b37",
@@ -1955,7 +1994,11 @@
               "published_at": "Mon, 20 Jul 2026 00:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-07-21/topic/together-ai-and-y-combinator-partner-to-launch-the-first-dedicated-gpu-cluster-for-the-yc-community/"
+          "route": "/hot/2026-07-21/topic/together-ai-and-y-combinator-partner-to-launch-the-first-dedicated-gpu-cluster-for-the-yc-community/",
+          "headline_zh": "Together AI 与 Y Combinator 合作，为 YC 社区推出首个专用 GPU 集群",
+          "summary_short_zh": "无需再签两年的算力合同。Together AI 和 YC 刚为 YC 初创企业提供了更快获取 GPU 的途径",
+          "why_it_matters_zh": "共有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "f9a7e7fe2652",
@@ -2002,7 +2045,10 @@
               "published_at": "Mon, 20 Jul 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-07-21/topic/apply-for-anthropic-s-ai-for-science-rare-disease-research-grants/"
+          "route": "/hot/2026-07-21/topic/apply-for-anthropic-s-ai-for-science-rare-disease-research-grants/",
+          "headline_zh": "申请 Anthropic 的 AI for Science 罕见病研究资助",
+          "why_it_matters_zh": "这项产品发布消息见于 2 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "41228fe4773b",
@@ -2047,7 +2093,11 @@
               "published_at": "Mon, 20 Jul 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-07-21/topic/just-in-qwen-3-8-is-coming-open-weight-storm-from-china-is-continuing/"
+          "route": "/hot/2026-07-21/topic/just-in-qwen-3-8-is-coming-open-weight-storm-from-china-is-continuing/",
+          "headline_zh": "最新消息：Qwen 3.8 即将到来，中国的开放权重浪潮仍在继续。",
+          "summary_short_zh": "图片是一张据称来自 Qwen 在 X/Twitter 上认证账号的 Qwen3.8 公告截图，宣称拥有 2.4 万亿参数的 Qwen3.8-Max-Preview 已可通过阿里巴巴的 Token Plan、Qoder 等服务使用，权重将“很快”开放，并附有国际版和中国版各自的定价链接。",
+          "why_it_matters_zh": "这项产品发布消息见于 2 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "040dfb1335e0",
@@ -2085,7 +2135,11 @@
               "published_at": "Mon, 20 Jul 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-07-21/topic/kimi-k3-is-emerging-as-the-strongest-open-weight-contender-in-agentic-and-frontend-tasks/"
+          "route": "/hot/2026-07-21/topic/kimi-k3-is-emerging-as-the-strongest-open-weight-contender-in-agentic-and-frontend-tasks/",
+          "headline_zh": "Kimi K3 正成为智能体和前端任务领域最具竞争力的开放权重模型",
+          "summary_short_zh": "产品表现方面，DesignArena 表示，Kimi K3 的 Elo 评分达 1326 分，位居其 Frontend Web App Arena 榜首，领先于 Anthropic 的模型。",
+          "why_it_matters_zh": "这项产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2129,7 +2183,11 @@
               "published_at": "Mon, 20 Jul 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-07-21/topic/claude-usage-as-reward/"
+          "route": "/hot/2026-07-21/topic/claude-usage-as-reward/",
+          "headline_zh": "以 Claude 使用额度作为奖励",
+          "summary_short_zh": "图片是 Anthropic 的一则公告，向研究人员提供最高 5 万美元的 Claude 使用额度，支持旨在治愈罕见病的项目，并称这是其 AI for Science 计划的首次专项项目征集。",
+          "why_it_matters_zh": "这项资助消息见于 1 个独立来源。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -2182,7 +2240,11 @@
               "published_at": "Mon, 20 Jul 2026 19:33:25 +0000"
             }
           ],
-          "route": "/hot/2026-07-21/topic/openai-is-scared-of-open-weight-models-should-the-us-be/"
+          "route": "/hot/2026-07-21/topic/openai-is-scared-of-open-weight-models-should-the-us-be/",
+          "headline_zh": "OpenAI 害怕开放权重模型，美国也该害怕吗？",
+          "summary_short_zh": "围绕封禁中国开发的开放权重大语言模型的讨论，凸显了 AI 商业化的难题",
+          "why_it_matters_zh": "这则行业动态见于 2 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "b7fb5ba8dc0d",
@@ -2220,7 +2282,10 @@
               "published_at": "2026-07-21T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-21/topic/import-ai-465-open-vs-closed-gaps-kimi-k3-demis-big-policy-plan/"
+          "route": "/hot/2026-07-21/topic/import-ai-465-open-vs-closed-gaps-kimi-k3-demis-big-policy-plan/",
+          "headline_zh": "Import AI 第 465 期：开放与封闭模型的差距；Kimi K3；Demis 的重大政策规划",
+          "why_it_matters_zh": "这则行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "7c3194b7bcba",
@@ -2258,7 +2323,11 @@
               "published_at": "Mon, 20 Jul 2026 21:21:15 +0000"
             }
           ],
-          "route": "/hot/2026-07-21/topic/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/"
+          "route": "/hot/2026-07-21/topic/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+          "headline_zh": "Google 正在研发一款旨在提升 Gemini 运行效率的新型 AI 芯片",
+          "summary_short_zh": "据报道，Google 母公司 Alphabet 正在研发一款新芯片，旨在大幅提升 Gemini 模型的运行效率",
+          "why_it_matters_zh": "这则行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "ed0d26bc2235",
@@ -2296,7 +2365,11 @@
               "published_at": "2026-07-20T17:09:19+00:00"
             }
           ],
-          "route": "/hot/2026-07-21/topic/who-s-afraid-of-chinese-models/"
+          "route": "/hot/2026-07-21/topic/who-s-afraid-of-chinese-models/",
+          "headline_zh": "谁害怕中国模型？",
+          "summary_short_zh": "<p><strong><a href=\" 害怕中国模型？</a></strong></p> Ben Thompson 提出了一个有趣的方案，既回应了实验室使用未经授权的数据训练模型、却禁止他人蒸馏自家模型的双重标准问题，也有望帮助美国开放模型更有效地与中国模型竞争",
+          "why_it_matters_zh": "这项行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "6edb7a6ff1dc",
@@ -2334,7 +2407,11 @@
               "published_at": "2026-07-21T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-21/topic/how-far-behind-the-frontier-are-leading-open-weight-models-on-cyber-uk-ai-security-institute-blog/"
+          "route": "/hot/2026-07-21/topic/how-far-behind-the-frontier-are-leading-open-weight-models-on-cyber-uk-ai-security-institute-blog/",
+          "headline_zh": "领先的开放权重模型在网络安全能力上落后前沿水平多少？（英国 AI 安全研究所博客）",
+          "summary_short_zh": "领先的开放权重模型在网络安全能力上落后前沿水平多少？（英国 AI 安全研究所博客",
+          "why_it_matters_zh": "这则其他资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -2378,7 +2455,11 @@
               "published_at": "Mon, 20 Jul 2026 16:56:48 +0000"
             }
           ],
-          "route": "/hot/2026-07-21/topic/evolving-from-legacy-bi-to-agentic-ai-at-tradeshift-with-amazon-quick/"
+          "route": "/hot/2026-07-21/topic/evolving-from-legacy-bi-to-agentic-ai-at-tradeshift-with-amazon-quick/",
+          "headline_zh": "Tradeshift 借助 Amazon Quick 从传统商业智能迈向智能体 AI",
+          "summary_short_zh": "本文介绍了 Tradeshift 如何部署具备智能体 AI 能力的 Amazon Quick，替代我们原有的商业智能工具，使查询响应速度最高达到原来的 30 倍，总拥有成本降低 40%，并将嵌入式分析转变为创收产品",
+          "why_it_matters_zh": "这项工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "da7a3b4b6860",
@@ -2416,7 +2497,11 @@
               "published_at": "2026-07-21T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-21/topic/a-framework-for-frontier-ai-and-the-dawning-of-a-new-age-demis-hassabis-x/"
+          "route": "/hot/2026-07-21/topic/a-framework-for-frontier-ai-and-the-dawning-of-a-new-age-demis-hassabis-x/",
+          "headline_zh": "前沿 AI 框架与新时代的曙光（Demis Hassabis，X）",
+          "summary_short_zh": "前沿 AI 框架与新时代的曙光（Demis Hassabis，X",
+          "why_it_matters_zh": "这项工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     },
@@ -2460,7 +2545,11 @@
               "published_at": "2026-07-20T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-07-21/topic/homie-human-object-centric-video-personalization-via-multimodal-intelligent-enchancement/"
+          "route": "/hot/2026-07-21/topic/homie-human-object-centric-video-personalization-via-multimodal-intelligent-enchancement/",
+          "headline_zh": "HOMIE：通过多模态智能增强实现以人和物体为中心的视频个性化",
+          "summary_short_zh": "以人和物体为中心的视频个性化（HOCVP）是主体驱动视频生成的核心任务。然而，现有方法存在两项关键局限。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "3ce9ed41704d",
@@ -2498,7 +2587,11 @@
               "published_at": "2026-07-20T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-07-21/topic/llm-as-a-coach-experiential-learning-for-non-verifiable-tasks/"
+          "route": "/hot/2026-07-21/topic/llm-as-a-coach-experiential-learning-for-non-verifiable-tasks/",
+          "headline_zh": "LLM-as-a-Coach：面向不可验证任务的体验式学习",
+          "summary_short_zh": "在开放式任务中，强化学习（RL）将大语言模型基于评分标准的评估压缩为标量奖励，丢弃了丰富的文本反馈，并将各项质量表现不同的回答混为一谈。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "cb4e0f4920e6",
@@ -2536,7 +2629,11 @@
               "published_at": "2026-07-20T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-07-21/topic/rynnbrain-1-1-towards-more-capable-and-generalizable-embodied-foundation-model/"
+          "route": "/hot/2026-07-21/topic/rynnbrain-1-1-towards-more-capable-and-generalizable-embodied-foundation-model/",
+          "headline_zh": "RynnBrain 1.1：迈向能力更强、泛化性更好的具身基础模型",
+          "summary_short_zh": "我们提出了 RynnBrain 1.1 具身基础模型系列，涵盖 2B、9B 和 122B-A10B 三种规模。RynnBrain 1.1 采用统一且立足物理世界的时空框架进行训练，支持具身感知、空间推理、定位和规划。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         }
       ]
     }
@@ -2582,7 +2679,10 @@
               "published_at": "2026-07-21T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-21/topic/import-ai-464-fables-writes-gpu-kernels-ai-automation-and-analog-computation/"
+          "route": "/hot/2026-07-21/topic/import-ai-464-fables-writes-gpu-kernels-ai-automation-and-analog-computation/",
+          "headline_zh": "Import AI 第 464 期：Fables 编写 GPU 内核；AI 自动化；模拟计算",
+          "why_it_matters_zh": "这则其他资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "130fbc83c3f6",
@@ -2620,7 +2720,11 @@
               "published_at": "Mon, 20 Jul 2026 22:21:04 +0000"
             }
           ],
-          "route": "/hot/2026-07-21/topic/trump-s-latest-ai-czar-has-already-resigned/"
+          "route": "/hot/2026-07-21/topic/trump-s-latest-ai-czar-has-already-resigned/",
+          "headline_zh": "特朗普新任 AI 主管已辞职",
+          "summary_short_zh": "自 David Sacks 卸任 AI 主管以来，人工智能标准与创新中心（CAISI）主任一职频繁换人",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "e3d19afbf0bc",
@@ -2658,7 +2762,11 @@
               "published_at": "2026-07-20T18:19:12-04:00"
             }
           ],
-          "route": "/hot/2026-07-21/topic/here-are-the-30-000-songs-sony-is-suing-udio-8217-s-ai-music-generator-over/"
+          "route": "/hot/2026-07-21/topic/here-are-the-30-000-songs-sony-is-suing-udio-8217-s-ai-music-generator-over/",
+          "headline_zh": "索尼起诉 Udio AI 音乐生成器所涉的 3 万首歌曲一览",
+          "summary_short_zh": "索尼音乐娱乐再次起诉 Udio，指控其 AI 音乐生成器侵犯了旗下逾 3 万首歌曲的版权，包括 Elvis Presley 的《Hound Dog》、Beyoncé 的《Say My Name》和 Harry Styles 的《As It Was》。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "2b82d5244314",
@@ -2696,7 +2804,10 @@
               "published_at": "Mon, 20 Jul 2026 09:54:33 +0000"
             }
           ],
-          "route": "/hot/2026-07-21/topic/ai-40/"
+          "route": "/hot/2026-07-21/topic/ai-40/",
+          "headline_zh": "当AI进入最依赖“人”的行业：一家四线城市康复机构利润增长40%",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "ad27dfd2a73c",
@@ -2734,7 +2845,11 @@
               "published_at": "Mon, 20 Jul 2026 10:33:23 +0000"
             }
           ],
-          "route": "/hot/2026-07-21/topic/agentic-infra-agi/"
+          "route": "/hot/2026-07-21/topic/agentic-infra-agi/",
+          "headline_zh": "不同模型厂同一家Agentic Infra，AGI时代的地基终于浮出水面",
+          "summary_short_zh": "大模型时代的共同选择",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "50e4ea403924",
@@ -2772,7 +2887,10 @@
               "published_at": "Mon, 20 Jul 2026 10:42:09 +0000"
             }
           ],
-          "route": "/hot/2026-07-21/topic/waic-2026-ai-2-0/"
+          "route": "/hot/2026-07-21/topic/waic-2026-ai-2-0/",
+          "headline_zh": "WAIC 2026收官｜范式大会亮点集锦，见证AI 2.0从技术突破走向产业实践",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "ef222ff2a143",
@@ -2810,7 +2928,10 @@
               "published_at": "2026-07-20T18:16:08Z"
             }
           ],
-          "route": "/hot/2026-07-21/topic/nativ-run-frontier-open-models-locally-on-your-mac/"
+          "route": "/hot/2026-07-21/topic/nativ-run-frontier-open-models-locally-on-your-mac/",
+          "headline_zh": "Nativ：在 Mac 本地运行前沿开放模型",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "3ddcbd218a50",
@@ -2848,7 +2969,10 @@
               "published_at": "2026-07-21T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-21/topic/anthropic-s-fable-survives-the-subscription-axe/"
+          "route": "/hot/2026-07-21/topic/anthropic-s-fable-survives-the-subscription-axe/",
+          "headline_zh": "Anthropic 的 Fable 在订阅服务削减中得以保留",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -2890,7 +3014,11 @@
           "published_at": "2026-07-19T06:09:52Z"
         }
       ],
-      "route": "/hot/2026-07-21/topic/kinetinode-claude-fable-5-system-prompt-clean/"
+      "route": "/hot/2026-07-21/topic/kinetinode-claude-fable-5-system-prompt-clean/",
+      "headline_zh": "KinetiNode/claude-fable-5-system-prompt-clean",
+      "summary_short_zh": "泄露的 Claude Fable 5 / Mythos 5 系统提示词优化版，更省 token。已重构为简洁的 Markdown 格式，可通用于 Gemini 3.1 Pro、ChatGPT 5.6 和高级 LLM 智能体",
+      "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+      "category_zh": "工具"
     }
   ],
   "x_buzz": [

@@ -1368,7 +1368,14 @@
           "published_at": "Fri, 21 Aug 2026 16:57:01 +0000"
         }
       ],
-      "route": "/hot/2026-08-22/topic/accelerating-aircraft-ifec-diagnostics-with-agentic-ai-on-aws/"
+      "route": "/hot/2026-08-22/topic/accelerating-aircraft-ifec-diagnostics-with-agentic-ai-on-aws/",
+      "headline_zh": "利用 AWS 上的智能体 AI 加速飞机 IFEC 故障诊断",
+      "summary_short_zh": "Panasonic Avionics 与 AWS 及 AWS 生成式 AI 创新中心合作，基于 Amazon Bedrock、Amazon SageMaker 和 AWS Glue 构建了智能体 AI 系统，用于诊断全球机队的机上娱乐与互联（IFEC）问题，将诊断时间从数小时缩短至数分钟",
+      "why_it_matters_zh": "此次产品发布信息来自 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Panasonic Avionics 与 AWS 及 AWS 生成式 AI 创新中心合作，基于 Amazon Bedrock、Amazon SageMaker 和 AWS Glue 构建了智能体 AI 系统，用于诊断机上娱乐..."
+      ]
     },
     {
       "topic_id": "3cc383aa27f0",
@@ -1408,7 +1415,14 @@
           "published_at": "Fri, 21 Aug 2026 16:59:15 +0000"
         }
       ],
-      "route": "/hot/2026-08-22/topic/reduce-rag-costs-on-amazon-bedrock-with-query-aware-compression/"
+      "route": "/hot/2026-08-22/topic/reduce-rag-costs-on-amazon-bedrock-with-query-aware-compression/",
+      "headline_zh": "利用查询感知压缩降低 Amazon Bedrock 上的 RAG 成本",
+      "summary_short_zh": "大规模运行检索增强生成（RAG）时，输入词元通常占据相当一部分成本。",
+      "why_it_matters_zh": "此次产品发布信息来自 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "大规模运行检索增强生成（RAG）时，输入词元通常占据相当一部分成本。本文介绍了 Amazon Bedrock 上的一种查询感知上下文压缩方案：在..."
+      ]
     },
     {
       "topic_id": "4332e7375df7",
@@ -1448,7 +1462,14 @@
           "published_at": "Fri, 21 Aug 2026 11:59:48 +0000"
         }
       ],
-      "route": "/hot/2026-08-22/topic/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/"
+      "route": "/hot/2026-08-22/topic/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+      "headline_zh": "从 Atari 到 EVE Online：立足 15 年游戏 AI 研究积累",
+      "summary_short_zh": "Google DeepMind 与游戏工作室合作，打造突破性的 AI 游戏玩法原型",
+      "why_it_matters_zh": "此次产品发布信息来自 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Google DeepMind 与游戏工作室合作，打造突破性的 AI 游戏玩法原型。"
+      ]
     },
     {
       "topic_id": "5f3355da3dae",
@@ -1486,7 +1507,11 @@
           "published_at": "Fri, 21 Aug 2026 10:54:00 +0000"
         }
       ],
-      "route": "/hot/2026-08-22/topic/how-mobility-gives-language-models-a-deeper-understanding-of-place/"
+      "route": "/hot/2026-08-22/topic/how-mobility-gives-language-models-a-deeper-understanding-of-place/",
+      "headline_zh": "出行行为如何加深语言模型对地点的理解",
+      "summary_short_zh": "算法与理论",
+      "why_it_matters_zh": "此次产品发布信息来自 1 个独立来源。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "6faeccd220c1",
@@ -1524,7 +1549,11 @@
           "published_at": "Fri, 21 Aug 2026 17:02:24 +0000"
         }
       ],
-      "route": "/hot/2026-08-22/topic/an-ai-tool-for-prioritizing-candidate-biomarkers-from-wearable-sensor-data/"
+      "route": "/hot/2026-08-22/topic/an-ai-tool-for-prioritizing-candidate-biomarkers-from-wearable-sensor-data/",
+      "headline_zh": "基于可穿戴传感器数据确定候选生物标志物优先级的 AI 工具",
+      "summary_short_zh": "生成式 AI",
+      "why_it_matters_zh": "该工具信息来自 1 个独立来源。",
+      "category_zh": "工具"
     }
   ],
   "category_sections": [
@@ -1568,7 +1597,11 @@
               "published_at": "Fri, 21 Aug 2026 17:06:17 +0000"
             }
           ],
-          "route": "/hot/2026-08-22/topic/agentic-data-operations-platform-adop-data-engineering-into-hours/"
+          "route": "/hot/2026-08-22/topic/agentic-data-operations-platform-adop-data-engineering-into-hours/",
+          "headline_zh": "Agentic Data Operations Platform（ADOP）：将数据工程耗时缩短至数小时",
+          "summary_short_zh": "Agentic Data Operations Platform（ADOP）是基于 Amazon Bedrock 的参考架构，通过专用 AI 智能体实现从 Bronze 到 Silver 再到 Gold 的数据流水线全生命周期自动化，将新数据源接入时间从数周缩短至数小时，同时保障数据治理与合规",
+          "why_it_matters_zh": "此次产品发布信息来自 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "e0c6c9da6418",
@@ -1612,7 +1645,11 @@
               "published_at": "2026-08-21T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-08-22/topic/introducing-grok-bot/"
+          "route": "/hot/2026-08-22/topic/introducing-grok-bot/",
+          "headline_zh": "推出 Grok Bot",
+          "summary_short_zh": "Grok Bot 是你随时在线的智能体团队。它们有自己的电脑，像你一样使用工具和应用，全天候不间断工作",
+          "why_it_matters_zh": "此次产品发布信息来自 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "5c2e29a48e06",
@@ -1650,7 +1687,11 @@
               "published_at": "2026-08-21T17:25:50-04:00"
             }
           ],
-          "route": "/hot/2026-08-22/topic/over-1-million-people-have-clicked-linkedin-s-ai-slop-button/"
+          "route": "/hot/2026-08-22/topic/over-1-million-people-have-clicked-linkedin-s-ai-slop-button/",
+          "headline_zh": "已有超 100 万人点击 LinkedIn 的“AI 垃圾内容”按钮",
+          "summary_short_zh": "LinkedIn 其实在 7 月 30 日就宣布推出了“疑似 AI 垃圾内容”按钮，公司称已有很多人使用。",
+          "why_it_matters_zh": "这则产品发布消息来自 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "2c266b88eb1c",
@@ -1688,7 +1729,11 @@
               "published_at": "2026-08-21T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-08-22/topic/grok-4-6-on-google-enterprise-agent-platform/"
+          "route": "/hot/2026-08-22/topic/grok-4-6-on-google-enterprise-agent-platform/",
+          "headline_zh": "Grok 4.6 登陆 Google Enterprise Agent Platform",
+          "summary_short_zh": "Grok Bot 现已面向 SuperGrok Plus、Cursor Pro+ 及所有 Cursor Teams 套餐开放。",
+          "why_it_matters_zh": "这则产品发布消息来自 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "d052054576f4",
@@ -1726,7 +1771,11 @@
               "published_at": "2026-08-21T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-08-22/topic/grok-4-6-on-amazon-bedrock/"
+          "route": "/hot/2026-08-22/topic/grok-4-6-on-amazon-bedrock/",
+          "headline_zh": "Grok 4.6 登陆 Amazon Bedrock",
+          "summary_short_zh": "Grok Bot 现已面向 SuperGrok Plus、Cursor Pro+ 及所有 Cursor Teams 套餐开放。",
+          "why_it_matters_zh": "这则产品发布消息来自 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -1770,7 +1819,11 @@
               "published_at": "Fri, 21 Aug 2026 00:13:44 +0000"
             }
           ],
-          "route": "/hot/2026-08-22/topic/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/"
+          "route": "/hot/2026-08-22/topic/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+          "headline_zh": "AI 训练热潮下，AI 数据初创公司 Micro1 年化总收入达 5 亿美元",
+          "summary_short_zh": "AI 训练数据需求激增，推动这家初创公司及其竞争对手快速增长",
+          "why_it_matters_zh": "这则融资消息来自 1 个独立来源。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -1814,7 +1867,10 @@
               "published_at": "2026-08-22T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-22/topic/import-ai-468-23-rsi-ideas-posttrainbench-and-how-trust-and-transparency-interplay-with-ai-racing/"
+          "route": "/hot/2026-08-22/topic/import-ai-468-23-rsi-ideas-posttrainbench-and-how-trust-and-transparency-interplay-with-ai-racing/",
+          "headline_zh": "Import AI 第 468 期：23 个 RSI 构想；PostTrainBench+；信任、透明度与 AI 竞赛如何相互影响",
+          "why_it_matters_zh": "这则其他类消息来自 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "98d640c2c00c",
@@ -1852,7 +1908,10 @@
               "published_at": "2026-08-22T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-22/topic/import-ai-469-science-ai-rsi-simulator-and-zuck-s-technological-pessimism/"
+          "route": "/hot/2026-08-22/topic/import-ai-469-science-ai-rsi-simulator-and-zuck-s-technological-pessimism/",
+          "headline_zh": "Import AI 第 469 期：科研 AI；RSI 模拟器；扎克伯格的技术悲观主义",
+          "why_it_matters_zh": "这则其他类消息来自 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "0f5eb0bf3359",
@@ -1890,7 +1949,11 @@
               "published_at": "Fri, 21 Aug 2026 22:37:38 +0000"
             }
           ],
-          "route": "/hot/2026-08-22/topic/nvidia-partners-with-data-center-developer-cloverleaf/"
+          "route": "/hot/2026-08-22/topic/nvidia-partners-with-data-center-developer-cloverleaf/",
+          "headline_zh": "英伟达与数据中心开发商 Cloverleaf 合作",
+          "summary_short_zh": "英伟达持续向数据中心建设投入巨资，同时 AI 数据中心也为英伟达带来丰厚收入",
+          "why_it_matters_zh": "这则其他类消息来自 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "700915acf979",
@@ -1928,7 +1991,11 @@
               "published_at": "Fri, 21 Aug 2026 19:43:39 +0000"
             }
           ],
-          "route": "/hot/2026-08-22/topic/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/"
+          "route": "/hot/2026-08-22/topic/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+          "headline_zh": "英伟达刚刚证明，如今真正的功臣是智能体运行框架（harness），而非 AI 模型",
+          "summary_short_zh": "英伟达的研究表明，即使 AI 模型不太擅长某项任务，通过微调也能让 AI 智能体表现良好且不失控",
+          "why_it_matters_zh": "这则其他类消息来自 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "b268c60e6ee9",
@@ -1966,7 +2033,11 @@
               "published_at": "2026-08-21T16:07:32+00:00"
             }
           ],
-          "route": "/hot/2026-08-22/topic/stop-making-tuis/"
+          "route": "/hot/2026-08-22/topic/stop-making-tuis/",
+          "headline_zh": "别再开发终端界面了",
+          "summary_short_zh": "<p><strong><a href=\" 开发终端界面</a></strong></p> Thomas Ptacek 主张，即使是最小的个人工具，也应该有真正的原生用户界面，因为编程智能体已将做出一个基本可用的图形界面的成本降至几乎为零。</p> <p>我曾写文章介绍自己用氛围编程开发的",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -2010,7 +2081,11 @@
               "published_at": "Fri, 21 Aug 2026 17:02:35 +0000"
             }
           ],
-          "route": "/hot/2026-08-22/topic/govern-ai-agent-tool-access-with-amazon-bedrock-agentcore-gateway/"
+          "route": "/hot/2026-08-22/topic/govern-ai-agent-tool-access-with-amazon-bedrock-agentcore-gateway/",
+          "headline_zh": "使用 Amazon Bedrock AgentCore Gateway 管理 AI 智能体的工具访问权限",
+          "summary_short_zh": "无需整合基础设施，即可让 AI 智能体以可管控、可审计的方式访问企业工具。",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "beef47ea46c9",
@@ -2048,7 +2123,11 @@
               "published_at": "2026-08-17T18:23:44Z"
             }
           ],
-          "route": "/hot/2026-08-22/topic/elie222-botdirectory-ai/"
+          "route": "/hot/2026-08-22/topic/elie222-botdirectory-ai/",
+          "headline_zh": "elie222/botdirectory.ai",
+          "summary_short_zh": "适用于 Grok Bot、Rakazo 及各类智能体的机器人提示词开源目录：botdirectory.ai",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "7daff0ed13a0",
@@ -2086,7 +2165,11 @@
               "published_at": "2026-08-22T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-22/topic/dig-bench-discovery-in-games-github-pdf/"
+          "route": "/hot/2026-08-22/topic/dig-bench-discovery-in-games-github-pdf/",
+          "headline_zh": "DiG-bench：游戏中的发现（GitHub、PDF）",
+          "summary_short_zh": "DiG-bench：游戏中的发现（GitHub、PDF",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "c21e49864e3b",
@@ -2124,7 +2207,11 @@
               "published_at": "2026-08-21T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-08-22/topic/grok-4-6-in-github-copilot/"
+          "route": "/hot/2026-08-22/topic/grok-4-6-in-github-copilot/",
+          "headline_zh": "GitHub Copilot 中的 Grok 4.6",
+          "summary_short_zh": "Grok Bot 现已向 SuperGrok Plus、Cursor Pro+ 及所有 Cursor Teams 套餐用户开放",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     }
@@ -2170,7 +2257,11 @@
               "published_at": "2026-08-21T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-08-22/topic/grok-build-on-web-and-mobile/"
+          "route": "/hot/2026-08-22/topic/grok-build-on-web-and-mobile/",
+          "headline_zh": "网页版和移动版 Grok Build",
+          "summary_short_zh": "Grok Bot 现已向 SuperGrok Plus、Cursor Pro+ 及所有 Cursor Teams 套餐用户开放",
+          "why_it_matters_zh": "这条产品发布资讯见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "f071bd7289ff",
@@ -2208,7 +2299,10 @@
               "published_at": "2026-08-22T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-22/topic/4-min-read-anthropic-launches-the-claude-academy-with-355-resources/"
+          "route": "/hot/2026-08-22/topic/4-min-read-anthropic-launches-the-claude-academy-with-355-resources/",
+          "headline_zh": "阅读需 4 分钟：Anthropic 推出 The Claude Academy，提供 355 项资源",
+          "why_it_matters_zh": "这条产品发布资讯见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2252,7 +2346,11 @@
               "published_at": "Fri, 21 Aug 2026 14:00:00 +0000"
             }
           ],
-          "route": "/hot/2026-08-22/topic/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/"
+          "route": "/hot/2026-08-22/topic/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+          "headline_zh": "美国司法部正在调查 a16z。这对风险投资意味着什么？",
+          "summary_short_zh": "Andreessen Horowitz 的两位合伙人分别在如今&#160;互为竞争对手的两家公司担任董事：Ben Horowitz 在 Databricks，Martin Casado 在&#160;Fivetran。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "13f8fed7de3c",
@@ -2290,7 +2388,11 @@
               "published_at": "2026-08-21T09:37:52-04:00"
             }
           ],
-          "route": "/hot/2026-08-22/topic/major-youtube-creators-are-facing-backlash-for-accepting-ai-money/"
+          "route": "/hot/2026-08-22/topic/major-youtube-creators-are-facing-backlash-for-accepting-ai-money/",
+          "headline_zh": "YouTube 知名创作者因接受 AI 公司赞助而遭到批评",
+          "summary_short_zh": "过去几天，包括 Matti Haapoja 和 Sam \"Kold\" Kolder 在内的多位知名影视制作类创作者发布了视频，亲自展示 AI 平台 Higgsfield 的功能。",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "8009d4444b30",
@@ -2328,7 +2430,11 @@
               "published_at": "Fri, 21 Aug 2026 11:00:53 +0000"
             }
           ],
-          "route": "/hot/2026-08-22/topic/as-demand-for-meta-ai-glasses-explodes-it-s-harder-to-avoid-creepy-recordings/"
+          "route": "/hot/2026-08-22/topic/as-demand-for-meta-ai-glasses-explodes-it-s-harder-to-avoid-creepy-recordings/",
+          "headline_zh": "随着 Meta AI 眼镜需求激增，令人不安的偷拍行为越来越难以避免",
+          "summary_short_zh": "隐私争议声中，Ars 介绍了最新推出的免费 Meta AI 眼镜检测应用 Zuckoff",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "069a352b9903",
@@ -2366,7 +2472,11 @@
               "published_at": "Fri, 21 Aug 2026 06:40:34 +0000"
             }
           ],
-          "route": "/hot/2026-08-22/topic/ai/"
+          "route": "/hot/2026-08-22/topic/ai/",
+          "headline_zh": "科学家只管提问题，AI负责跑实验：深势科技把科研全流程搬进桌面",
+          "summary_short_zh": "让科学家的时间回到科学创造",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "979f3ec3c6f7",
@@ -2404,7 +2514,11 @@
               "published_at": "Fri, 21 Aug 2026 07:17:58 +0000"
             }
           ],
-          "route": "/hot/2026-08-22/topic/gpt-3-3/"
+          "route": "/hot/2026-08-22/topic/gpt-3-3/",
+          "headline_zh": "机器人的GPT-3时刻真·来了！卡卡西上身，看3秒就学会新动作",
+          "summary_short_zh": "机器人看3秒演示就能学会",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "1398ee3069be",
@@ -2442,7 +2556,11 @@
               "published_at": "Fri, 21 Aug 2026 09:00:06 +0000"
             }
           ],
-          "route": "/hot/2026-08-22/topic/io-ai-34g/"
+          "route": "/hot/2026-08-22/topic/io-ai-34g/",
+          "headline_zh": "雷鸟iO发布：两天续航、全天候主动式AI，轻至34g",
+          "summary_short_zh": "8月21日，全球领先的消费级AR品牌雷鸟创新（RayNeo）举办2026雷鸟AI眼镜新品发布会",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }

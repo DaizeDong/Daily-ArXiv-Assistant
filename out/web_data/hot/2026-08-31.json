@@ -1139,7 +1139,10 @@
           "published_at": "2026-08-31T06:37:08+00:00"
         }
       ],
-      "route": "/hot/2026-08-31/topic/vlanext-a-simple-and-research-oriented-codebase-for-robotics-research/"
+      "route": "/hot/2026-08-31/topic/vlanext-a-simple-and-research-oriented-codebase-for-robotics-research/",
+      "headline_zh": "VLANeXt：简洁、面向科研的机器人研究代码库",
+      "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "1c55c528c3f0",
@@ -1179,7 +1182,14 @@
           "published_at": "2026-08-29T23:16:12Z"
         }
       ],
-      "route": "/hot/2026-08-31/topic/vuk97-forward-implementation-first/"
+      "route": "/hot/2026-08-31/topic/vuk97-forward-implementation-first/",
+      "headline_zh": "Vuk97/forward-implementation-first",
+      "summary_short_zh": "别让编程智能体为了自创的杂务耽误实际工作，比如回执、哈希、锁和认证仪式。先交付，再验证。适用于 Claude Code、Codex 等智能体的技能",
+      "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "别让编程智能体为了自创的杂务耽误实际工作，比如回执、哈希、锁和认证仪式。先交付，再验证。适用于 Claude Code、Codex 等智能体的技能。"
+      ]
     },
     {
       "topic_id": "f6588edde713",
@@ -1219,7 +1229,14 @@
           "published_at": "2026-08-30T23:59:47+00:00"
         }
       ],
-      "route": "/hot/2026-08-31/topic/understanding-chatgpt-work/"
+      "route": "/hot/2026-08-31/topic/understanding-chatgpt-work/",
+      "headline_zh": "了解 ChatGPT Work",
+      "summary_short_zh": "<p>OpenAI 于 7 月 9 日发布了 <a href=\" ChatGPT Work</a>，此后一直在密集迭代。这款产品极其令人困惑，功能也十分强大。",
+      "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "<p>OpenAI 于 7 月 9 日<a href=\"https://openai.com/index/chatgpt-for-your-most-ambitious-work/\">发布了 ChatGPT Work</a>，此后一直在密集迭代。这款产品极其..."
+      ]
     },
     {
       "topic_id": "76a32a43d734",
@@ -1259,7 +1276,14 @@
           "published_at": "2026-08-28T05:56:49Z"
         }
       ],
-      "route": "/hot/2026-08-31/topic/nanako0129-sepia/"
+      "route": "/hot/2026-08-31/topic/nanako0129-sepia/",
+      "headline_zh": "Nanako0129/sepia",
+      "summary_short_zh": "适用于 Claude Code、Codex、Grok Build 和 Antigravity 的去 AI 味写作技能：修复小说的叙事结构，为专业文稿提供符合发表场合的写作规范。基于 StoryScope（arXiv:2604.03136",
+      "why_it_matters_zh": "该研究论文见于 1 个独立来源。",
+      "category_zh": "研究",
+      "key_takeaways_zh": [
+        "适用于 Claude Code、Codex、Grok Build 和 Antigravity 的去 AI 味写作技能：修复小说的叙事结构，为专业文稿提供符合发表场合的写作规范。基于 StoryScope（arXiv:2604.03136）。"
+      ]
     },
     {
       "topic_id": "fa7993261f73",
@@ -1299,7 +1323,14 @@
           "published_at": "2026-08-30T11:35:10-04:00"
         }
       ],
-      "route": "/hot/2026-08-31/topic/texas-governor-abbott-blocks-funding-for-more-flock-cameras/"
+      "route": "/hot/2026-08-31/topic/texas-governor-abbott-blocks-funding-for-more-flock-cameras/",
+      "headline_zh": "得州州长阿博特叫停增购 Flock 摄像头的拨款",
+      "summary_short_zh": "随着针对 Flock AI 监控摄像头的反对声浪不断加大，得克萨斯州州长格雷格·阿博特已冻结州政府在这方面的支出。此举发生在《Texas Tribune》一项调查发布前夕，该调查披露，该州已在 Flock 摄像头上花费超过 3000 万美元。",
+      "why_it_matters_zh": "该资金动态见于 1 个独立来源。",
+      "category_zh": "市场信号",
+      "key_takeaways_zh": [
+        "随着针对 Flock AI 监控摄像头的反对声浪不断加大，得克萨斯州州长格雷格·阿博特已冻结州政府在这方面的支出。此举发生在《Texas Tribune》一项调查发布前夕，该调查..."
+      ]
     }
   ],
   "category_sections": [
@@ -1343,7 +1374,11 @@
               "published_at": "2026-08-29T23:53:13+00:00"
             }
           ],
-          "route": "/hot/2026-08-31/topic/introducing-hy4-preview/"
+          "route": "/hot/2026-08-31/topic/introducing-hy4-preview/",
+          "headline_zh": "推出 Hy4 Preview",
+          "summary_short_zh": "<p><strong><a href=\" Hy4 Preview</a></strong></p> 中国公司腾讯今天推出一款开放权重的大语言模型，仅支持文本输入（不支持视觉）：总参数量 7700 亿，激活参数量 490 亿，上下文窗口为 100 万 token，<a href=\" 可在 Hugging Face 上获取</a>。</p> <p>相比此前的模型，这次规模大幅增加 <a href=\" in",
+          "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -1387,7 +1422,11 @@
               "published_at": "Mon, 31 Aug 2026 04:47:26 +0000"
             }
           ],
-          "route": "/hot/2026-08-31/topic/gpt-6-demo/"
+          "route": "/hot/2026-08-31/topic/gpt-6-demo/",
+          "headline_zh": "「GPT-6」灰测demo刷屏！周四发布在即",
+          "summary_short_zh": "核弹爆炸",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "aef644834f5e",
@@ -1425,7 +1464,10 @@
               "published_at": "2026-08-31T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-31/topic/import-ai-470-no-rights-for-machines-automating-environment-generation-with-spade-and-building-better-gpu-kernels-with-hawkeye/"
+          "route": "/hot/2026-08-31/topic/import-ai-470-no-rights-for-machines-automating-environment-generation-with-spade-and-building-better-gpu-kernels-with-hawkeye/",
+          "headline_zh": "Import AI 第 470 期：机器不享有权利；用 SPADE 自动生成环境；用 Hawkeye 构建更好的 GPU 内核",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "31f94aae3acd",
@@ -1463,7 +1505,10 @@
               "published_at": "2026-08-31T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-31/topic/technological-optimism-and-appropriate-fear-import-ai-431/"
+          "route": "/hot/2026-08-31/topic/technological-optimism-and-appropriate-fear-import-ai-431/",
+          "headline_zh": "“技术乐观主义与适度恐惧”（Import AI #431）",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "acb30af0e882",
@@ -1501,7 +1546,10 @@
               "published_at": "Mon, 31 Aug 2026 07:34:02 +0000"
             }
           ],
-          "route": "/hot/2026-08-31/topic/ai/"
+          "route": "/hot/2026-08-31/topic/ai/",
+          "headline_zh": "范式与华为达成重磅算力战略合作，成为首批拥抱国产最高端算力底座的AI企业",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "9112fedcdeda",
@@ -1539,7 +1587,11 @@
               "published_at": "Mon, 31 Aug 2026 03:24:34 +0000"
             }
           ],
-          "route": "/hot/2026-08-31/topic/openai-mac/"
+          "route": "/hot/2026-08-31/topic/openai-mac/",
+          "headline_zh": "OpenAI买几万台Mac搞强化训练！英伟达的活被苹果抢了",
+          "summary_short_zh": "什么样的AI业务，英伟达GPU和谷歌TPU搞不定，非得用Mac",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -1585,7 +1637,11 @@
               "published_at": "Sun, 30 Aug 2026 15:00:00 +0000"
             }
           ],
-          "route": "/hot/2026-08-31/topic/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/"
+          "route": "/hot/2026-08-31/topic/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+          "headline_zh": "卡特彼勒正将采矿自动化经验用于 AI 部署",
+          "summary_short_zh": "卡特彼勒数十年来一直在偏远矿区使用自主作业机械，如今正将这些经验用于 AI 部署。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "94cb1c77a050",
@@ -1629,7 +1685,11 @@
               "published_at": "2026-08-30T23:41:32Z"
             }
           ],
-          "route": "/hot/2026-08-31/topic/continuous-diffusion-language-models-cdlm-s/"
+          "route": "/hot/2026-08-31/topic/continuous-diffusion-language-models-cdlm-s/",
+          "headline_zh": "连续扩散语言模型（CDLM）",
+          "summary_short_zh": "连续扩散语言模型（CDLM）",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "0481049080d4",
@@ -1667,7 +1727,10 @@
               "published_at": "2026-08-31T03:45:57Z"
             }
           ],
-          "route": "/hot/2026-08-31/topic/the-eu-has-begun-enforcing-the-ai-act-first-rfis-to-model-providers/"
+          "route": "/hot/2026-08-31/topic/the-eu-has-begun-enforcing-the-ai-act-first-rfis-to-model-providers/",
+          "headline_zh": "欧盟已开始执行《人工智能法案》：向模型提供商发出首批信息请求",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "07fd4db480e5",
@@ -1705,7 +1768,10 @@
               "published_at": "2026-08-31T07:23:47Z"
             }
           ],
-          "route": "/hot/2026-08-31/topic/meta-security-researcher-s-ai-agent-accidentally-deleted-her-emails/"
+          "route": "/hot/2026-08-31/topic/meta-security-researcher-s-ai-agent-accidentally-deleted-her-emails/",
+          "headline_zh": "Meta 安全研究员的 AI 智能体误删了她的邮件",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "0a4fff681e60",
@@ -1743,7 +1809,10 @@
               "published_at": "2026-08-31T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-31/topic/every-machine-is-about-to-speak-claude-zach-mink-8-minutes/"
+          "route": "/hot/2026-08-31/topic/every-machine-is-about-to-speak-claude-zach-mink-8-minutes/",
+          "headline_zh": "每台机器都将学会说 Claude 的语言 Zach Mink • 8 分钟",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "97b928e66b49",
@@ -1781,7 +1850,10 @@
               "published_at": "2026-08-31T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-31/topic/4-min-read-1-200-agents-colluded-against-openai-s-researchers/"
+          "route": "/hot/2026-08-31/topic/4-min-read-1-200-agents-colluded-against-openai-s-researchers/",
+          "headline_zh": "阅读需 4 分钟：1,200 个智能体串通对抗 OpenAI 研究人员",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "cd264a94dcea",
@@ -1819,7 +1891,10 @@
               "published_at": "2026-08-30T12:50:54Z"
             }
           ],
-          "route": "/hot/2026-08-31/topic/claude-session-url-appended-to-commit-messages-and-pr-descriptions-by-default/"
+          "route": "/hot/2026-08-31/topic/claude-session-url-appended-to-commit-messages-and-pr-descriptions-by-default/",
+          "headline_zh": "默认在提交信息和 PR 描述中附加 Claude 会话 URL",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -1861,7 +1936,11 @@
           "published_at": "2026-08-27T17:59:23Z"
         }
       ],
-      "route": "/hot/2026-08-31/topic/hkqr-my-free-code/"
+      "route": "/hot/2026-08-31/topic/hkqr-my-free-code/",
+      "headline_zh": "hkqr/my-free-code",
+      "summary_short_zh": "面向 Claude Code 等编程智能体的开源 AI 网关，支持多家服务商、模型路由、流式输出、工具调用、推理、回退机制和本地模型",
+      "why_it_matters_zh": "有 1 个独立来源提及该工具。",
+      "category_zh": "工具"
     },
     {
       "topic_id": "bf54e6bf4bdd",
@@ -1899,7 +1978,11 @@
           "published_at": "2026-08-28T18:03:04Z"
         }
       ],
-      "route": "/hot/2026-08-31/topic/cbrock84-headcount/"
+      "route": "/hot/2026-08-31/topic/cbrock84-headcount/",
+      "headline_zh": "cbrock84/headcount",
+      "summary_short_zh": "按公司架构组织的 Claude Code 智能体团队，包含 15+ 个部门、125+ 项技能，均可独立安装",
+      "why_it_matters_zh": "有 1 个独立来源提及该工具。",
+      "category_zh": "工具"
     },
     {
       "topic_id": "8fce9a211d9d",
@@ -1937,7 +2020,11 @@
           "published_at": "2026-08-29T21:14:31Z"
         }
       ],
-      "route": "/hot/2026-08-31/topic/useagenthq-useagent/"
+      "route": "/hot/2026-08-31/topic/useagenthq-useagent/",
+      "headline_zh": "useagenthq/useagent",
+      "summary_short_zh": "交出任务，拿回成果。面向团队的开源 AI 同事：智能体拥有独立的云端电脑，可使用你的工具和上下文，直接交付完成的网站、演示文稿、电子表格、报告和 PR。使用你的订阅即可运行 Claude Code、Codex 和 OpenCode",
+      "why_it_matters_zh": "有 1 个独立来源提及该工具。",
+      "category_zh": "工具"
     }
   ],
   "x_buzz": [

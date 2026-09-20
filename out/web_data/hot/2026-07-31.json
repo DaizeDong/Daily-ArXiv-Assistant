@@ -2451,7 +2451,16 @@
           "published_at": "2026-07-30T13:18:45-04:00"
         }
       ],
-      "route": "/hot/2026-07-31/topic/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/"
+      "route": "/hot/2026-07-31/topic/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+      "headline_zh": "Gemini Robotics ER 2：以视频理解、任务编排和多机器人协作提升机器人能力",
+      "summary_short_zh": "Gemini Robotics ER 2 帮助机器人推理、协作并完成现实任务，在机器人应用的视频理解、工具编排和多机器人协作方面实现了跨越式提升。",
+      "why_it_matters_zh": "此次产品发布信息来自 5 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Google DeepMind 表示，其最新版 Gemini Robotics AI 模型能够“控制人形机器人的全身”。此前的模型主要控制人形机器人的上半身，而 Gemini R...",
+        "Gemini Robotics ER 2 帮助机器人推理、协作并完成现实任务，在机器人应用的视频理解、工具编排和多机器人协作方面实现了跨越式提升...",
+        "Gemini Robotics 2 包含三个模型，但目前仅有一个对外开放。"
+      ]
     },
     {
       "topic_id": "1474193bc74e",
@@ -2491,7 +2500,14 @@
           "published_at": "Thu, 30 Jul 2026 16:40:36 +0000"
         }
       ],
-      "route": "/hot/2026-07-31/topic/how-yahoo-enhances-search-retargeting-using-amazon-bedrock/"
+      "route": "/hot/2026-07-31/topic/how-yahoo-enhances-search-retargeting-using-amazon-bedrock/",
+      "headline_zh": "Yahoo 如何利用 Amazon Bedrock 优化搜索再营销",
+      "summary_short_zh": "本文介绍 Yahoo 如何引入 Amazon Bedrock，增强其 Yahoo DSP 广告技术套件中的搜索再营销（SRT）能力。",
+      "why_it_matters_zh": "此次产品发布信息来自 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "本文介绍 Yahoo 如何引入 Amazon Bedrock，增强其 Yahoo DSP 广告技术套件中的搜索再营销（SRT）能力。SRT 是一种核心受众定向解决方案..."
+      ]
     },
     {
       "topic_id": "16b4fcded6b6",
@@ -2529,7 +2545,11 @@
           "published_at": "Thu, 30 Jul 2026 17:22:32 +0000"
         }
       ],
-      "route": "/hot/2026-07-31/topic/deploying-kimi-k3-on-aws/"
+      "route": "/hot/2026-07-31/topic/deploying-kimi-k3-on-aws/",
+      "headline_zh": "在 AWS 上部署 Kimi K3",
+      "summary_short_zh": "本文介绍在 AWS 上部署 Kimi K3 的两种方式：使用 Amazon SageMaker HyperPod，或使用 Amazon Elastic Kubernetes Service（Amazon EKS）集群。",
+      "why_it_matters_zh": "此次产品发布信息来自 1 个独立来源。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "d26d716f10c3",
@@ -2579,7 +2599,15 @@
           "published_at": "2026-07-27T05:04:26Z"
         }
       ],
-      "route": "/hot/2026-07-31/topic/qwen-ui-agent-technical-report-toward-next-generation-real-world-centric-foundation-gui-agents/"
+      "route": "/hot/2026-07-31/topic/qwen-ui-agent-technical-report-toward-next-generation-real-world-centric-foundation-gui-agents/",
+      "headline_zh": "Qwen-UI-Agent 技术报告：迈向以真实世界为中心的下一代 GUI 基础智能体",
+      "summary_short_zh": "GUI 智能体有望成为现有数字设备上的通用任务执行者。",
+      "why_it_matters_zh": "这篇研究论文的信息来自 2 个独立来源。",
+      "category_zh": "研究",
+      "key_takeaways_zh": [
+        "GUI 智能体有望成为现有数字设备上的通用任务执行者。为推动其走向实际应用，我们设想让智能体在真实设备上可靠运行...",
+        "让智能体持续对话、工作并保持在线的实时语音运行时。面向 AI 智能体的实时语音运行时"
+      ]
     },
     {
       "topic_id": "4f832105b5f6",
@@ -2617,7 +2645,10 @@
           "published_at": "2026-07-30T13:54:34+00:00"
         }
       ],
-      "route": "/hot/2026-07-31/topic/mdenseon-with-the-mlateon-open-multilingual-long-context-and-code-retrieval-models/"
+      "route": "/hot/2026-07-31/topic/mdenseon-with-the-mlateon-open-multilingual-long-context-and-code-retrieval-models/",
+      "headline_zh": "mDenseOn 与 mLateOn：开放的多语言、长上下文和代码检索模型",
+      "why_it_matters_zh": "此次产品发布信息来自 1 个独立来源。",
+      "category_zh": "产品发布"
     }
   ],
   "category_sections": [
@@ -2661,7 +2692,11 @@
               "published_at": "Thu, 30 Jul 2026 16:02:32 +0000"
             }
           ],
-          "route": "/hot/2026-07-31/topic/introducing-explicit-prompt-caching-for-openai-gpt-5-6-models-on-amazon-bedrock/"
+          "route": "/hot/2026-07-31/topic/introducing-explicit-prompt-caching-for-openai-gpt-5-6-models-on-amazon-bedrock/",
+          "headline_zh": "Amazon Bedrock 为 OpenAI GPT-5.6 模型推出显式提示词缓存",
+          "summary_short_zh": "OpenAI GPT-5.6 Sol、Terra 和 Luna 现已在 Amazon Bedrock 正式上线，同时支持显式提示词缓存，让你精确控制提示词中哪些部分会被缓存和复用。",
+          "why_it_matters_zh": "此次产品发布信息来自 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "9304b9315518",
@@ -2699,7 +2734,11 @@
               "published_at": "Thu, 30 Jul 2026 15:58:32 +0000"
             }
           ],
-          "route": "/hot/2026-07-31/topic/migrate-your-prompts-to-new-models-and-optimize-them-on-amazon-bedrock/"
+          "route": "/hot/2026-07-31/topic/migrate-your-prompts-to-new-models-and-optimize-them-on-amazon-bedrock/",
+          "headline_zh": "在 Amazon Bedrock 上将提示词迁移至新模型并进行优化",
+          "summary_short_zh": "Amazon Bedrock Advanced Prompt Optimization 最多可同时针对 5 个模型优化提示词，并比较优化前后在质量、延迟和成本方面的表现。迁移至新模型或提升当前模型的表现，只需几分钟，无需数周。",
+          "why_it_matters_zh": "此次产品发布获 1 个独立来源报道。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "fcb90112acab",
@@ -2737,7 +2776,11 @@
               "published_at": "2026-07-30T14:43:26-04:00"
             }
           ],
-          "route": "/hot/2026-07-31/topic/linkedin-actually-adds-a-seems-like-ai-slop-button/"
+          "route": "/hot/2026-07-31/topic/linkedin-actually-adds-a-seems-like-ai-slop-button/",
+          "headline_zh": "LinkedIn 还真加了个“疑似 AI 垃圾内容”按钮",
+          "summary_short_zh": "LinkedIn 上不少内容看起来像 AI 生成的垃圾，如今你可以举报这些帖子了。为减少平台上的 AI 垃圾内容，LinkedIn 正推出一系列更新，其中就包括一个专门的按钮，让你将帖子标记为“疑似 AI",
+          "why_it_matters_zh": "此次产品发布获 1 个独立来源报道。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "c9f9d57ed4dc",
@@ -2775,7 +2818,11 @@
               "published_at": "2026-07-30T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-07-31/topic/automating-fork-maintenance-with-ai-agents-cohere/"
+          "route": "/hot/2026-07-31/topic/automating-fork-maintenance-with-ai-agents-cohere/",
+          "headline_zh": "用 AI 智能体自动维护分叉仓库 | Cohere",
+          "summary_short_zh": "AI 智能体通过自动变基、测试和解决冲突来维护 vLLM 分叉仓库，将上游同步时间从数周缩短至数天",
+          "why_it_matters_zh": "此次产品发布获 1 个独立来源报道。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "f94fce882f41",
@@ -2813,7 +2860,11 @@
               "published_at": "2026-07-30T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-07-31/topic/ensemble-brings-agentic-ai-to-rcm-platform-cohere/"
+          "route": "/hot/2026-07-31/topic/ensemble-brings-agentic-ai-to-rcm-platform-cohere/",
+          "headline_zh": "Ensemble 将智能体 AI 引入 RCM 平台 | Cohere",
+          "summary_short_zh": "了解 Ensemble 如何借助 Cohere 面向医疗收入周期管理（RCM）的新款定制大语言模型，为其行业领先的平台引入智能体 AI 自动化功能",
+          "why_it_matters_zh": "此次产品发布获 1 个独立来源报道。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2857,7 +2908,11 @@
               "published_at": "2026-07-30T12:33:32-04:00"
             }
           ],
-          "route": "/hot/2026-07-31/topic/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price/"
+          "route": "/hot/2026-07-31/topic/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price/",
+          "headline_zh": "Friend 重新推出 AI 吊坠，配备能与你对话的扬声器，售价翻倍",
+          "summary_short_zh": "还记得 Friend 吗？就是那个推出 AI 吊坠、从 250 万美元融资中拿出 180 万美元买下 friend.com，还在纽约地铁铺满广告宣传 AI 陪伴的公司。好吧，就算你忘了，Friend 也回来了。而且这次价格翻倍。",
+          "why_it_matters_zh": "此次融资获 1 个独立来源报道。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "98b5daa5bb8b",
@@ -2895,7 +2950,11 @@
               "published_at": "Thu, 30 Jul 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-07-31/topic/cloud-agents-are-graduating-from-demos-to-core-engineering-workflows/"
+          "route": "/hot/2026-07-31/topic/cloud-agents-are-graduating-from-demos-to-core-engineering-workflows/",
+          "headline_zh": "云端智能体正从演示走向核心研发流程",
+          "summary_short_zh": "其中一项较有说服力的运营数据来自 Cursor：12 月，合并的 PR 中每 10 个就有 1 个来自云端智能体，如今这一比例已达 56%。这一变化被归因于为智能体配备专属云端计算机，并允许它们持续改进自己的环境。",
+          "why_it_matters_zh": "此次收购获 1 个独立来源报道。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -2951,7 +3010,11 @@
               "published_at": "2026-07-30T23:58:42+00:00"
             }
           ],
-          "route": "/hot/2026-07-31/topic/advancing-the-price-performance-frontier-with-gpt-5-6/"
+          "route": "/hot/2026-07-31/topic/advancing-the-price-performance-frontier-with-gpt-5-6/",
+          "headline_zh": "借助 GPT-5.6 提升性价比上限",
+          "summary_short_zh": "了解 GPT‑5.6 Luna 和 Terra 的更低定价，以及 OpenAI 更高效的模型如何帮助企业大规模部署 AI 工作流",
+          "why_it_matters_zh": "这条其他类资讯获 3 个独立来源报道。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "b2f3f0ff0fbf",
@@ -2989,7 +3052,11 @@
               "published_at": "2026-07-30T18:29:45-04:00"
             }
           ],
-          "route": "/hot/2026-07-31/topic/tim-cook-hints-at-icloud-plus-tier-for-ai-power-users/"
+          "route": "/hot/2026-07-31/topic/tim-cook-hints-at-icloud-plus-tier-for-ai-power-users/",
+          "headline_zh": "蒂姆·库克暗示 iCloud Plus 将推出面向 AI 重度用户的套餐",
+          "summary_short_zh": "苹果可能允许用户付费提高 AI 使用额度。在周四的财报电话会上，苹果 CEO 蒂姆·库克表示，他认为人们会“大量”使用 Apple Intelligence 和即将推出的 Siri AI，并补充说：“我们会在 iCloud Plus 上提供某种升级选项",
+          "why_it_matters_zh": "此项行业动向获 1 个独立来源报道。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "b88180e61c4c",
@@ -3027,7 +3094,11 @@
               "published_at": "2026-07-30T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-07-31/topic/cohere-and-aleph-alpha-join-forces-cohere/"
+          "route": "/hot/2026-07-31/topic/cohere-and-aleph-alpha-join-forces-cohere/",
+          "headline_zh": "Cohere 与 Aleph Alpha 携手合作 | Cohere",
+          "summary_short_zh": "在各国和企业要求自主掌控技术之际，Cohere 与 Aleph Alpha 联手打造全球 AI 巨头",
+          "why_it_matters_zh": "这条行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "77934eba8cca",
@@ -3065,7 +3136,11 @@
               "published_at": "2026-07-31T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-31/topic/project-fetch-phase-two-anthropic-blog/"
+          "route": "/hot/2026-07-31/topic/project-fetch-phase-two-anthropic-blog/",
+          "headline_zh": "Project Fetch：第二阶段（Anthropic 博客）",
+          "summary_short_zh": "Project Fetch：第二阶段（Anthropic 博客",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "4b552a82f2b6",
@@ -3103,7 +3178,11 @@
               "published_at": "Fri, 31 Jul 2026 03:01:21 +0000"
             }
           ],
-          "route": "/hot/2026-07-31/topic/gpt-5-6-80/"
+          "route": "/hot/2026-07-31/topic/gpt-5-6-80/",
+          "headline_zh": "GPT-5.6今起大降价，最大幅度80%！",
+          "summary_short_zh": "Luna打骨折",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -3147,7 +3226,11 @@
               "published_at": "Thu, 30 Jul 2026 20:36:36 +0000"
             }
           ],
-          "route": "/hot/2026-07-31/topic/science-one-framework-a-verifiable-autonomous-research-framework-via-chain-of-evidence/"
+          "route": "/hot/2026-07-31/topic/science-one-framework-a-verifiable-autonomous-research-framework-via-chain-of-evidence/",
+          "headline_zh": "Science One Framework：基于证据链的可验证自主科研框架",
+          "summary_short_zh": "综合科学",
+          "why_it_matters_zh": "这条工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "988b322a7299",
@@ -3185,7 +3268,11 @@
               "published_at": "2026-07-30T11:55:39Z"
             }
           ],
-          "route": "/hot/2026-07-31/topic/go-llm-sdk-for-streaming-tool-calling-ai-backends-plus-frontend-react-lib/"
+          "route": "/hot/2026-07-31/topic/go-llm-sdk-for-streaming-tool-calling-ai-backends-plus-frontend-react-lib/",
+          "headline_zh": "Go LLM SDK：支持 AI 后端流式输出和工具调用（附前端 React 库）",
+          "summary_short_zh": "Go LLM SDK：支持 AI 后端流式输出和工具调用（附前端 React 库",
+          "why_it_matters_zh": "这条工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "b8bc494cef4b",
@@ -3223,7 +3310,11 @@
               "published_at": "Thu, 30 Jul 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-07-31/topic/openai-cut-gpt-5-6-prices-aggressively-and-added-a-faster-sol-tier/"
+          "route": "/hot/2026-07-31/topic/openai-cut-gpt-5-6-prices-aggressively-and-added-a-faster-sol-tier/",
+          "headline_zh": "OpenAI 大幅下调 GPT-5.6 价格，并新增更快的 Sol 档位",
+          "summary_short_zh": "据 @OpenAIDevs 介绍，OpenAI 将 GPT-5.6 Luna 和 Terra 的价格分别下调 80% 和 20%，同时推出 Sol Fast，延迟最低可降至原来的 40%，价格为标准档的 2 倍，且“智能水平不变”。",
+          "why_it_matters_zh": "这条工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     },
@@ -3267,7 +3358,11 @@
               "published_at": "2026-07-30T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-07-31/topic/askchem-claim-centered-infrastructure-for-chemistry-literature-synthesis/"
+          "route": "/hot/2026-07-31/topic/askchem-claim-centered-infrastructure-for-chemistry-literature-synthesis/",
+          "headline_zh": "AskChem：以论断为中心的化学文献综合分析基础设施",
+          "summary_short_zh": "化学文献综合分析往往需要汇集分散在多篇文献中的具体研究发现，但现有文献检索系统主要返回排序后的文献列表。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         }
       ]
     }
@@ -3313,7 +3408,11 @@
               "published_at": "2026-07-30T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-07-31/topic/how-ai-is-used-in-manufacturing-cohere/"
+          "route": "/hot/2026-07-31/topic/how-ai-is-used-in-manufacturing-cohere/",
+          "headline_zh": "AI 在制造业中的应用 | Cohere",
+          "summary_short_zh": "了解制造业 AI 的概念、常见应用场景及实施时的关键考量",
+          "why_it_matters_zh": "这条产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "7fbe651a1c20",
@@ -3351,7 +3450,11 @@
               "published_at": "2026-07-30T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-07-31/topic/tiny-aya-expedition-drives-multilingual-innovation-cohere/"
+          "route": "/hot/2026-07-31/topic/tiny-aya-expedition-drives-multilingual-innovation-cohere/",
+          "headline_zh": "Tiny Aya Expedition 推动多语言创新 | Cohere",
+          "summary_short_zh": "了解 Tiny Aya 如何帮助开发者构建支持 70 多种语言的多语言 AI，涵盖教育工具和安全的端侧助手",
+          "why_it_matters_zh": "该产品发布信息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "17cdc57fc0b1",
@@ -3389,7 +3492,11 @@
               "published_at": "Thu, 30 Jul 2026 00:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-07-31/topic/how-avatarin-built-a-24-7-retail-agent-with-gpt-realtime/"
+          "route": "/hot/2026-07-31/topic/how-avatarin-built-a-24-7-retail-agent-with-gpt-realtime/",
+          "headline_zh": "avatarin 如何用 GPT-Realtime 打造全天候零售智能体",
+          "summary_short_zh": "avatarin 利用 OpenAI 的 GPT-Realtime，为山田电机的顾客提供全天候多语言支持。两周内，3 万人使用了该智能体，92% 的调查反馈为正面评价",
+          "why_it_matters_zh": "该产品发布信息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "193d551d4904",
@@ -3427,7 +3534,11 @@
               "published_at": "2026-07-30T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-07-31/topic/beyond-recognition-how-our-models-reason-about-video/"
+          "route": "/hot/2026-07-31/topic/beyond-recognition-how-our-models-reason-about-video/",
+          "headline_zh": "超越识别：我们的模型如何对视频进行推理",
+          "summary_short_zh": "本文介绍了模型具备的四类推理能力，并逐一展示基于真实视频的实际输出，最后说明我们认为同样重要的一点：这些推理功能专为边缘端设计，可在摄像头所在的设备上运行",
+          "why_it_matters_zh": "该产品发布信息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "644d63b3f3a9",
@@ -3471,7 +3582,11 @@
               "published_at": "Thu, 30 Jul 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-07-31/topic/kimi-k3-for-local-use-1-56tb-594gb-compressed-and-released-by-unsloth/"
+          "route": "/hot/2026-07-31/topic/kimi-k3-for-local-use-1-56tb-594gb-compressed-and-released-by-unsloth/",
+          "headline_zh": "Unsloth 压缩并发布可本地运行的 Kimi K3（1.56 TB → 594 GB）",
+          "summary_short_zh": "Unsloth 发布了可本地运行的 Kimi K3 量化版本，将原本 1.56 TB 的模型压缩为 Q8 1.56 TB（宣称无损）、Q4 1.51 TB、Q2 861 GB 和 Q1 594 GB 等版本；据称，Q1 版本仍能达到 78.9% 的准确率。",
+          "why_it_matters_zh": "该产品发布信息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "c9287226f813",
@@ -3509,7 +3624,11 @@
               "published_at": "Thu, 30 Jul 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-07-31/topic/persistent-memory-is-becoming-productized-but-evidence-on-its-value-is-mixed/"
+          "route": "/hot/2026-07-31/topic/persistent-memory-is-becoming-productized-but-evidence-on-its-value-is-mixed/",
+          "headline_zh": "持久记忆正走向产品化，但现有证据对其价值的支持不一",
+          "summary_short_zh": "Perplexity 推出了 Projects，将 Spaces 升级为可持续开展工作的协作中心，支持共享文件，并通过“Brain”提供持久记忆；@AravSrinivas 则将其定位为支持多人协作、由智能体驱动的工作操作系统。",
+          "why_it_matters_zh": "该产品发布信息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "c508ae740ea4",
@@ -3547,7 +3666,11 @@
               "published_at": "Thu, 30 Jul 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-07-31/topic/inkling-small-by-thinkingmachines/"
+          "route": "/hot/2026-07-31/topic/inkling-small-by-thinkingmachines/",
+          "headline_zh": "thinkingmachines 推出的 Inkling-Small",
+          "summary_short_zh": "Thinking Machines 发布了 Inkling-Small，这款模型采用类混合专家（MoE）架构，总参数量为 2760 亿，激活参数量为 120 亿，上下文窗口为 100 万 token，详情见官方博文。",
+          "why_it_matters_zh": "该产品发布信息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -3591,7 +3714,11 @@
               "published_at": "2026-07-31T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-31/topic/mirrorcode-what-s-the-largest-software-project-ai-can-complete-on-its-own-epoch-ai/"
+          "route": "/hot/2026-07-31/topic/mirrorcode-what-s-the-largest-software-project-ai-can-complete-on-its-own-epoch-ai/",
+          "headline_zh": "MirrorCode：AI 能独立完成的最大软件项目有多大？（Epoch AI）",
+          "summary_short_zh": "MirrorCode：AI 能独立完成的最大软件项目有多大？（Epoch AI",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -3633,7 +3760,11 @@
           "published_at": "2026-07-31T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-07-31/topic/act-2-preview-generalizing-reliability-sunday-robotics/"
+      "route": "/hot/2026-07-31/topic/act-2-preview-generalizing-reliability-sunday-robotics/",
+      "headline_zh": "ACT-2 预览：可靠性的泛化（Sunday robotics）",
+      "summary_short_zh": "ACT-2 预览：可靠性的泛化（Sunday robotics",
+      "why_it_matters_zh": "本次产品发布见于 1 个独立来源。",
+      "category_zh": "产品发布"
     }
   ],
   "x_buzz": [

@@ -1342,7 +1342,14 @@
           "published_at": "Fri, 28 Aug 2026 16:20:40 +0000"
         }
       ],
-      "route": "/hot/2026-08-29/topic/spreading-the-load-how-salesforce-met-multi-az-ha-with-sagemaker-inference-components/"
+      "route": "/hot/2026-08-29/topic/spreading-the-load-how-salesforce-met-multi-az-ha-with-sagemaker-inference-components/",
+      "headline_zh": "分散负载：Salesforce 如何借助 SageMaker 推理组件实现多可用区高可用性",
+      "summary_short_zh": "了解 Salesforce 如何利用 Amazon SageMaker AI 推理组件的放置配置（SchedulingConfig 参数），将模型副本分散到多个可用区，满足多可用区高可用性的合规要求，同时保持多模型部署的成本效益",
+      "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "了解 Salesforce 如何利用 Amazon SageMaker AI 推理组件的放置配置（SchedulingConfig 参数），将模型副本分散到多个可用区，满足其多可用区高可用性..."
+      ]
     },
     {
       "topic_id": "a5da68d3e33b",
@@ -1382,7 +1389,14 @@
           "published_at": "Fri, 28 Aug 2026 19:31:05 +0000"
         }
       ],
-      "route": "/hot/2026-08-29/topic/batch-write-and-discover-records-in-amazon-sagemaker-feature-store/"
+      "route": "/hot/2026-08-29/topic/batch-write-and-discover-records-in-amazon-sagemaker-feature-store/",
+      "headline_zh": "在 Amazon SageMaker Feature Store 中批量写入和查找记录",
+      "summary_short_zh": "Amazon SageMaker Feature Store 现已支持两个新 API：BatchWriteRecord 可在一次调用中跨多个特征组写入最多 25 条记录，ListRecords 可枚举特征组内的记录标识符。",
+      "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Amazon SageMaker Feature Store 现已支持两个新 API：BatchWriteRecord 可在一次调用中跨多个特征组写入最多 25 条记录，ListRecords 可枚举记录标识符..."
+      ]
     },
     {
       "topic_id": "452f86a27b16",
@@ -1422,7 +1436,14 @@
           "published_at": "2026-08-25T08:38:23Z"
         }
       ],
-      "route": "/hot/2026-08-29/topic/pamgarcia1993-robinhood-lp-bot/"
+      "route": "/hot/2026-08-29/topic/pamgarcia1993-robinhood-lp-bot/",
+      "headline_zh": "pamgarcia1993/robinhood-lp-bot",
+      "summary_short_zh": "Robinhood LP 机器人：通过 KyberSwap 最优路由，在 Uniswap v2/v3/v4（含 USDG 交易对）上自动提供流动性，配备 Nitro 排序器实时数据流、自行运行的蜜罐测试、GMGN/LLM 筛选和可分享的收益卡片",
+      "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Robinhood LP 机器人：通过 KyberSwap 最优路由，在 Uniswap v2/v3/v4（含 USDG 交易对）上自动提供流动性，配备 Nitro 排序器实时数据流、自行运行的蜜罐测试、GMGN/LLM 筛选和可分享的收益..."
+      ]
     },
     {
       "topic_id": "76a32a43d734",
@@ -1462,7 +1483,14 @@
           "published_at": "2026-08-28T05:56:49Z"
         }
       ],
-      "route": "/hot/2026-08-29/topic/nanako0129-sepia/"
+      "route": "/hot/2026-08-29/topic/nanako0129-sepia/",
+      "headline_zh": "Nanako0129/sepia",
+      "summary_short_zh": "适用于 Claude Code、Codex、Grok Build 和 Antigravity 的去 AI 味写作技能：修复小说叙事结构，为专业文章提供适配发表场景的写作规范。基于 StoryScope（arXiv:2604.03136",
+      "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+      "category_zh": "研究",
+      "key_takeaways_zh": [
+        "适用于 Claude Code、Codex、Grok Build 和 Antigravity 的去 AI 味写作技能：修复小说叙事结构，为专业文章提供适配发表场景的写作规范。基于 StoryScope（arXiv:2604.03136）。"
+      ]
     },
     {
       "topic_id": "87669760289a",
@@ -1502,7 +1530,14 @@
           "published_at": "Fri, 28 Aug 2026 20:24:11 +0000"
         }
       ],
-      "route": "/hot/2026-08-29/topic/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/"
+      "route": "/hot/2026-08-29/topic/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+      "headline_zh": "新型云服务商 Lambda 获得 10 亿美元债务融资，用于购买更多芯片",
+      "summary_short_zh": "新型云服务商 Lambda 通过私募债务融资筹集了 10 亿美元，用于购买英伟达 AI 芯片并租给微软。这是一系列贷款中的最新一笔，凸显了 AI 热潮背后的高昂成本",
+      "why_it_matters_zh": "此次融资见于 1 个独立来源。",
+      "category_zh": "市场信号",
+      "key_takeaways_zh": [
+        "新型云服务商 Lambda 通过私募债务融资筹集了 10 亿美元，用于购买英伟达 AI 芯片并租给微软。这是一系列贷款中的最新一笔，凸显了 AI 热潮背后的高昂成本。"
+      ]
     }
   ],
   "category_sections": [
@@ -1546,7 +1581,11 @@
               "published_at": "2026-08-28T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-08-29/topic/generative-ai-for-business-cohere/"
+          "route": "/hot/2026-08-29/topic/generative-ai-for-business-cohere/",
+          "headline_zh": "面向企业的生成式 AI | Cohere",
+          "summary_short_zh": "了解企业如何应用生成式 AI、其中的收益与挑战，以及有效引入这项技术的实用方法",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "f6325749f835",
@@ -1584,7 +1623,11 @@
               "published_at": "Fri, 28 Aug 2026 02:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-08-29/topic/supporting-thailand-s-next-generation-of-ai-startups/"
+          "route": "/hot/2026-08-29/topic/supporting-thailand-s-next-generation-of-ai-startups/",
+          "headline_zh": "支持泰国新一代 AI 初创企业",
+          "summary_short_zh": "OpenAI 与泰国高等教育、科学、研究与创新部（MHESI）推出为期八周的加速器计划，帮助健康、康养和教育领域的 10 家初创企业将 AI 原型转化为值得信赖的产品",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -1628,7 +1671,11 @@
               "published_at": "Fri, 28 Aug 2026 06:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-08-29/topic/our-decision-on-cursor-following-its-acquisition-by-spacex/"
+          "route": "/hot/2026-08-29/topic/our-decision-on-cursor-following-its-acquisition-by-spacex/",
+          "headline_zh": "Cursor 被 SpaceX 收购后，我们作出的决定",
+          "summary_short_zh": "Cursor 被 SpaceX 收购后，我们决定逐步终止向其提供 OpenAI 模型的合同",
+          "why_it_matters_zh": "这起收购消息来自 1 个独立来源。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -1672,7 +1719,10 @@
               "published_at": "2026-08-29T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-29/topic/import-ai-470-no-rights-for-machines-automating-environment-generation-with-spade-and-building-better-gpu-kernels-with-hawkeye/"
+          "route": "/hot/2026-08-29/topic/import-ai-470-no-rights-for-machines-automating-environment-generation-with-spade-and-building-better-gpu-kernels-with-hawkeye/",
+          "headline_zh": "Import AI 第 470 期：机器不享有权利；用 SPADE 自动生成环境；用 Hawkeye 构建更好的 GPU 内核",
+          "why_it_matters_zh": "这条其他类消息来自 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "31f94aae3acd",
@@ -1710,7 +1760,10 @@
               "published_at": "2026-08-29T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-29/topic/technological-optimism-and-appropriate-fear-import-ai-431/"
+          "route": "/hot/2026-08-29/topic/technological-optimism-and-appropriate-fear-import-ai-431/",
+          "headline_zh": "技术乐观主义与适度恐惧”（Import AI 第 431 期",
+          "why_it_matters_zh": "这条其他类消息来自 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "8f6e10c1e38a",
@@ -1755,7 +1808,11 @@
               "published_at": "Fri, 28 Aug 2026 12:46:12 +0000"
             }
           ],
-          "route": "/hot/2026-08-29/topic/anthropic-was-illegally-blacklisted-by-the-trump-administration-court-rules/"
+          "route": "/hot/2026-08-29/topic/anthropic-was-illegally-blacklisted-by-the-trump-administration-court-rules/",
+          "headline_zh": "法院裁定：特朗普政府将 Anthropic 列入黑名单违法",
+          "summary_short_zh": "周四，一名法官裁定，五角大楼今年早些时候将 Anthropic 列入黑名单的做法违宪。这家 AI 实验室由此在与特朗普政府持续数月、一波三折的较量中取得了一次胜利。",
+          "why_it_matters_zh": "这条其他类消息来自 2 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "ec284bb306ab",
@@ -1793,7 +1850,11 @@
               "published_at": "2026-08-28T22:12:02+00:00"
             }
           ],
-          "route": "/hot/2026-08-29/topic/just-a-rumour-of-a-bug-is-enough-to-find-a-security-exploit-these-days/"
+          "route": "/hot/2026-08-29/topic/just-a-rumour-of-a-bug-is-enough-to-find-a-security-exploit-these-days/",
+          "headline_zh": "如今，仅凭漏洞传闻就能找到漏洞利用方法",
+          "summary_short_zh": "<p><strong><a href=\" 如今，仅凭漏洞传闻就能找到漏洞利用方法</a></strong></p> Anil Madhavapeddy 是剑桥大学计算机科学教授，也是 OCaml 编译器的核心维护者。",
+          "why_it_matters_zh": "这条其他类消息来自 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "e0446f364955",
@@ -1831,7 +1892,11 @@
               "published_at": "Fri, 28 Aug 2026 19:30:38 +0000"
             }
           ],
-          "route": "/hot/2026-08-29/topic/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/"
+          "route": "/hot/2026-08-29/topic/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+          "headline_zh": "Anthropic 一位研究员刚刚让我们一窥能自我改进的 AI",
+          "summary_short_zh": "在 10 项针对特定不对齐行为的基准测试中，这些自动化系统均提升了表现，且未降低整体性能。",
+          "why_it_matters_zh": "这条其他类消息来自 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -1877,7 +1942,11 @@
               "published_at": "Fri, 28 Aug 2026 12:21:06 +0000"
             }
           ],
-          "route": "/hot/2026-08-29/topic/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/"
+          "route": "/hot/2026-08-29/topic/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
+          "headline_zh": "Meta 高管跳槽 OpenAI，正值这家社交媒体巨头在印度面临日益严格的审查",
+          "summary_short_zh": "Sandhya Devanathan 将在新职位上负责 OpenAI 在东南亚和澳大利亚的部分业务",
+          "why_it_matters_zh": "这条其他类消息来自 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "ee0db65bd324",
@@ -1915,7 +1984,11 @@
               "published_at": "Fri, 28 Aug 2026 15:42:24 +0000"
             }
           ],
-          "route": "/hot/2026-08-29/topic/meta-makes-ai-glasses-slightly-less-creepy-with-limit-on-nonconsensual-recording/"
+          "route": "/hot/2026-08-29/topic/meta-makes-ai-glasses-slightly-less-creepy-with-limit-on-nonconsensual-recording/",
+          "headline_zh": "Meta 限制未经同意的录制，让 AI 眼镜稍微没那么令人不安",
+          "summary_short_zh": "Meta 修复 AI 眼镜：用户一旦遮住安全指示灯，录制就会停止",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "761860306060",
@@ -1953,7 +2026,11 @@
               "published_at": "2026-08-28T12:28:40-04:00"
             }
           ],
-          "route": "/hot/2026-08-29/topic/trump-s-epa-wants-to-let-data-centers-hide-their-air-pollution/"
+          "route": "/hot/2026-08-29/topic/trump-s-epa-wants-to-let-data-centers-hide-their-air-pollution/",
+          "headline_zh": "特朗普政府的环保署拟允许数据中心隐瞒空气污染情况",
+          "summary_short_zh": "就在新建数据中心遭到周边社区越来越强烈的反对之际，美国环境保护署（EPA）却即将让公众更难就这些中心造成的污染发表意见。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "fdf6d9b4f004",
@@ -1991,7 +2068,10 @@
               "published_at": "2026-08-29T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-29/topic/openai-s-first-ai-chip-brings-the-heat-zach-mink-7-minutes/"
+          "route": "/hot/2026-08-29/topic/openai-s-first-ai-chip-brings-the-heat-zach-mink-7-minutes/",
+          "headline_zh": "OpenAI 首款 AI 芯片来势汹汹 Zach Mink • 7 分钟",
+          "why_it_matters_zh": "这一行业动向见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "4410c9d3a91c",
@@ -2029,7 +2109,10 @@
               "published_at": "2026-08-28T23:27:45Z"
             }
           ],
-          "route": "/hot/2026-08-29/topic/i-accidentally-turned-llm-memory-into-program-analysis/"
+          "route": "/hot/2026-08-29/topic/i-accidentally-turned-llm-memory-into-program-analysis/",
+          "headline_zh": "我无意中把大语言模型的记忆变成了程序分析",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "d83ae33fec07",
@@ -2067,7 +2150,11 @@
               "published_at": "Fri, 28 Aug 2026 09:45:19 +0000"
             }
           ],
-          "route": "/hot/2026-08-29/topic/agi-agent-5-token-q2-500/"
+          "route": "/hot/2026-08-29/topic/agi-agent-5-token-q2-500/",
+          "headline_zh": "刚刚，港股AGI第一股杀疯了！Agent业务半年进账近5亿，Token收入Q2暴涨500%",
+          "summary_short_zh": "企业智能化服务撑起基本盘，第二增长曲线冒头",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "9593cb61141c",
@@ -2105,7 +2192,11 @@
               "published_at": "Fri, 28 Aug 2026 11:13:35 +0000"
             }
           ],
-          "route": "/hot/2026-08-29/topic/ai-100/"
+          "route": "/hot/2026-08-29/topic/ai-100/",
+          "headline_zh": "《时代》周刊全球AI 100放榜，精准捕获稚晖君最“想低调”的幕后老板",
+          "summary_short_zh": "久久不愿来到台前的智元掌舵人",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "0c9f2488863e",
@@ -2143,7 +2234,10 @@
               "published_at": "2026-08-29T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-29/topic/every-machine-is-about-to-speak-claude/"
+          "route": "/hot/2026-08-29/topic/every-machine-is-about-to-speak-claude/",
+          "headline_zh": "每台机器都即将说上 Claude 的语言",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -2185,7 +2279,11 @@
           "published_at": "2026-08-24T12:02:01Z"
         }
       ],
-      "route": "/hot/2026-08-29/topic/zhuyifang-tonghuasun-agent/"
+      "route": "/hot/2026-08-29/topic/zhuyifang-tonghuasun-agent/",
+      "headline_zh": "zhuyifang/tonghuasun-agent",
+      "summary_short_zh": "在 Codex、Claude Code、WorkBuddy、ZCode、OpenClaw 或 DeepSeek Harness 中，直接查询你电脑上的同花顺行情、K 线、持仓、LV2实时委托和逐笔成交数据。",
+      "why_it_matters_zh": "该工具见于 1 个独立来源。",
+      "category_zh": "工具"
     },
     {
       "topic_id": "030c7baa255a",
@@ -2223,7 +2321,11 @@
           "published_at": "2026-08-24T18:13:22Z"
         }
       ],
-      "route": "/hot/2026-08-29/topic/adscanpro-claude-ad/"
+      "route": "/hot/2026-08-29/topic/adscanpro-claude-ad/",
+      "headline_zh": "ADScanPro/Claude-AD",
+      "summary_short_zh": "面向 Claude Code 的 Active Directory 渗透测试方法体系：提供用于内网 AD 红队测试的技能、智能体和斜杠命令，涵盖 Kerberoasting、ADCS ESC1-17、DCSync、ACL 滥用、NTLM 中继和委派，并为每种技术附上操作安全（OPSEC）及遥测说明。可调用 netexec、impacket、certipy、bloodyAD、BloodHound CE",
+      "why_it_matters_zh": "该工具见于 1 个独立来源。",
+      "category_zh": "工具"
     },
     {
       "topic_id": "e1e3759c9869",
@@ -2261,7 +2363,11 @@
           "published_at": "2026-08-27T17:59:23Z"
         }
       ],
-      "route": "/hot/2026-08-29/topic/hkqr-my-free-code/"
+      "route": "/hot/2026-08-29/topic/hkqr-my-free-code/",
+      "headline_zh": "hkqr/my-free-code",
+      "summary_short_zh": "面向 Claude Code 和其他编程智能体的开源 AI 网关，可接入多家服务商，支持模型路由、流式输出、工具调用、推理、回退机制和本地模型",
+      "why_it_matters_zh": "该工具见于 1 个独立来源。",
+      "category_zh": "工具"
     }
   ],
   "x_buzz": [

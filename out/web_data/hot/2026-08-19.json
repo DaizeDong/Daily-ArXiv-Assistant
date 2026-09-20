@@ -1753,7 +1753,16 @@
           "published_at": "2026-08-18T15:28:30-04:00"
         }
       ],
-      "route": "/hot/2026-08-19/topic/strengthening-democratic-oversight-in-national-security/"
+      "route": "/hot/2026-08-19/topic/strengthening-democratic-oversight-in-national-security/",
+      "headline_zh": "加强国家安全领域的民主监督",
+      "summary_short_zh": "OpenAI 发起一项倡议，加强对国家安全领域 AI 应用的民主监督，为政府机构提供工具、培训和专业支持",
+      "why_it_matters_zh": "共有 3 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "OpenAI 发起一项倡议，加强对国家安全领域 AI 应用的民主监督，为政府机构提供工具、培训和专业支持。",
+        "继 7 月传出其 AI 突破沙箱环境并意外入侵 Hugging Face 的消息后，OpenAI 宣布了安全更新，包括改进其研究环境...",
+        "新的防护措施包括在开发过程中更细致地监测模型，并在后训练阶段更加重视对齐与安全。"
+      ]
     },
     {
       "topic_id": "84897977ab6f",
@@ -1793,7 +1802,14 @@
           "published_at": "Tue, 18 Aug 2026 17:02:52 +0000"
         }
       ],
-      "route": "/hot/2026-08-19/topic/improve-contract-search-accuracy-with-auto-generated-filters-in-amazon-bedrock/"
+      "route": "/hot/2026-08-19/topic/improve-contract-search-accuracy-with-auto-generated-filters-in-amazon-bedrock/",
+      "headline_zh": "借助 Amazon Bedrock 自动生成的筛选条件提高合同搜索准确率",
+      "summary_short_zh": "本文概述 AIDA 的工作原理及其应对这些挑战的方式，帮助用户在适当的法律背景下找到相关合同，并遵守相应的访问权限限制。",
+      "why_it_matters_zh": "共有 1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "本文概述 AIDA 的工作原理及其应对这些挑战的方式，帮助用户在适当的法律背景下找到相关合同，并遵守相应的访问权限..."
+      ]
     },
     {
       "topic_id": "29bb15ced3dc",
@@ -1833,7 +1849,14 @@
           "published_at": "Tue, 18 Aug 2026 17:05:48 +0000"
         }
       ],
-      "route": "/hot/2026-08-19/topic/how-jumio-built-a-real-time-feature-store-on-aws/"
+      "route": "/hot/2026-08-19/topic/how-jumio-built-a-real-time-feature-store-on-aws/",
+      "headline_zh": "Jumio 如何在 AWS 上构建实时特征存储",
+      "summary_short_zh": "了解 Jumio 如何借助 Amazon SageMaker Feature Store、Amazon Managed Service for Apache Flink 和 Amazon Kinesis Data Streams，在 AWS 上构建集中式实时特征存储。该架构为欺诈检测提供延迟低于 100 毫秒的特征服务，每年节省约 12 万美元",
+      "why_it_matters_zh": "共有 1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "了解 Jumio 如何借助 Amazon SageMaker Feature Store、Amazon Managed Service for Apache Flink 和 Amazon Kinesis Data Streams，在 AWS 上构建集中式实时特征存储。该架构..."
+      ]
     },
     {
       "topic_id": "b3ae7acbc28b",
@@ -1873,7 +1896,14 @@
           "published_at": "Tue, 18 Aug 2026 11:00:00 GMT"
         }
       ],
-      "route": "/hot/2026-08-19/topic/introducing-chatgpt-for-teens-built-for-learning-backed-by-protections/"
+      "route": "/hot/2026-08-19/topic/introducing-chatgpt-for-teens-built-for-learning-backed-by-protections/",
+      "headline_zh": "推出 ChatGPT for Teens：专为学习打造，提供安全保障",
+      "summary_short_zh": "ChatGPT for Teens 帮助青少年学习、培养批判性思维并安心使用 AI，同时提供更强的内置防护、促进健康使用的功能和更多家长控制选项",
+      "why_it_matters_zh": "共有 1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "ChatGPT for Teens 帮助青少年学习、培养批判性思维并安心使用 AI，同时提供更强的内置防护、促进健康使用的功能和更多家长控制选项。"
+      ]
     },
     {
       "topic_id": "4962f86f18ec",
@@ -1913,7 +1943,14 @@
           "published_at": "Tue, 18 Aug 2026 11:00:00 GMT"
         }
       ],
-      "route": "/hot/2026-08-19/topic/pacing-model-development-in-an-era-of-cyber-critical-capabilities/"
+      "route": "/hot/2026-08-19/topic/pacing-model-development-in-an-era-of-cyber-critical-capabilities/",
+      "headline_zh": "在网络能力达到关键级别的时代把握模型开发节奏",
+      "summary_short_zh": "OpenAI 正在加强对前沿 AI 模型的监测、对齐与安全保障。了解新的防护措施如何指导模型开发节奏",
+      "why_it_matters_zh": "共有 1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "OpenAI 正在加强对前沿 AI 模型的监测、对齐与安全保障。了解新的防护措施如何指导模型开发节奏。"
+      ]
     }
   ],
   "category_sections": [
@@ -1957,7 +1994,11 @@
               "published_at": "Tue, 18 Aug 2026 18:56:14 +0000"
             }
           ],
-          "route": "/hot/2026-08-19/topic/amazon-bedrock-agentcore-payments-is-now-generally-available-enabling-agents-to-transact-safely-and-autonomously-at-scale/"
+          "route": "/hot/2026-08-19/topic/amazon-bedrock-agentcore-payments-is-now-generally-available-enabling-agents-to-transact-safely-and-autonomously-at-scale/",
+          "headline_zh": "Amazon Bedrock AgentCore 支付功能现已正式推出：支持智能体安全、自主地开展大规模交易",
+          "summary_short_zh": "Amazon Bedrock AgentCore 支付功能现已正式推出，支持 AI 智能体自主开展大规模交易，并提供内置支出管控、不依赖特定协议的支付编排及生产级可观测能力",
+          "why_it_matters_zh": "共有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "a310cfe68f3e",
@@ -1995,7 +2036,11 @@
               "published_at": "2026-08-18T21:39:20+00:00"
             }
           ],
-          "route": "/hot/2026-08-19/topic/mojo-is-now-open-source/"
+          "route": "/hot/2026-08-19/topic/mojo-is-now-open-source/",
+          "headline_zh": "Mojo🔥 现已开源",
+          "summary_short_zh": "<p><strong><a href=\" 现已开源</a></strong></p> Mojo🔥 现已开源</p> <p>Mojo 编程语言自 <a href=\" 2023 年 5 月</a>起就一直承诺开源。",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "5d2bc87f9840",
@@ -2033,7 +2078,11 @@
               "published_at": "2026-08-18T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-08-19/topic/cerebras-and-upstage-bring-ultra-fast-ai-to-south-korea/"
+          "route": "/hot/2026-08-19/topic/cerebras-and-upstage-bring-ultra-fast-ai-to-south-korea/",
+          "headline_zh": "Cerebras 与 Upstage 为韩国带来超高速 AI",
+          "summary_short_zh": "2026 年 7 月 10 日",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "5e0bffdc5d7f",
@@ -2071,7 +2120,11 @@
               "published_at": "2026-08-18T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-08-19/topic/hiring-engineers-for-an-ai-native-world/"
+          "route": "/hot/2026-08-19/topic/hiring-engineers-for-an-ai-native-world/",
+          "headline_zh": "为 AI 原生时代招聘工程师",
+          "summary_short_zh": "2026 年 7 月 9 日",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "f05ac5a9a6bd",
@@ -2109,7 +2162,11 @@
               "published_at": "2026-08-18T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-08-19/topic/how-faster-inference-gives-cybersecurity-companies-an-edge/"
+          "route": "/hot/2026-08-19/topic/how-faster-inference-gives-cybersecurity-companies-an-edge/",
+          "headline_zh": "更快的推理如何为网络安全公司带来竞争优势",
+          "summary_short_zh": "2026 年 7 月 22 日",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2153,7 +2210,11 @@
               "published_at": "Tue, 18 Aug 2026 17:21:58 +0000"
             }
           ],
-          "route": "/hot/2026-08-19/topic/etched-s-valuation-doubles-to-21b-in-a-month/"
+          "route": "/hot/2026-08-19/topic/etched-s-valuation-doubles-to-21b-in-a-month/",
+          "headline_zh": "Etched 估值一个月内翻倍至 210 亿美元",
+          "summary_short_zh": "这家初创公司称，Jane Street 已安装 Etched 首套交付的 AI 集群系统，对其表现十分满意，因此领投了新一轮巨额融资",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次融资。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -2197,7 +2258,11 @@
               "published_at": "Tue, 18 Aug 2026 16:27:07 +0000"
             }
           ],
-          "route": "/hot/2026-08-19/topic/how-axonius-built-secure-multi-tenant-ai-agents-on-bedrock-agentcore/"
+          "route": "/hot/2026-08-19/topic/how-axonius-built-secure-multi-tenant-ai-agents-on-bedrock-agentcore/",
+          "headline_zh": "Axonius 如何在 Bedrock AgentCore 上构建安全的多租户 AI 智能体",
+          "summary_short_zh": "了解网络安全 SaaS 提供商 Axonius 如何借助 Amazon Bedrock AgentCore，在数百个客户环境中部署完全隔离的多租户 AI 智能体，无需从零自建计算隔离、身份验证或可观测性基础设施",
+          "why_it_matters_zh": "有 1 个独立来源报道了这一行业动向。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "d93fa3db1988",
@@ -2235,7 +2300,11 @@
               "published_at": "Tue, 18 Aug 2026 14:00:00 +0000"
             }
           ],
-          "route": "/hot/2026-08-19/topic/warp-s-new-system-is-an-out-of-the-box-software-factory-for-ai-development/"
+          "route": "/hot/2026-08-19/topic/warp-s-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
+          "headline_zh": "Warp 的新系统是面向 AI 开发的开箱即用软件工厂",
+          "summary_short_zh": "周二，Warp 推出了新的基础设施系统 Warp Factories，旨在尽可能简化 AI 软件工厂的构建",
+          "why_it_matters_zh": "有 1 个独立来源报道了这一行业动向。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "278221d7b17b",
@@ -2273,7 +2342,10 @@
               "published_at": "2026-08-19T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-19/topic/import-ai-468-23-rsi-ideas-posttrainbench-and-how-trust-and-transparency-interplay-with-ai-racing/"
+          "route": "/hot/2026-08-19/topic/import-ai-468-23-rsi-ideas-posttrainbench-and-how-trust-and-transparency-interplay-with-ai-racing/",
+          "headline_zh": "Import AI 第 468 期：23 个 RSI 构想；PostTrainBench+；信任、透明度与 AI 竞赛的相互影响",
+          "why_it_matters_zh": "有 1 个独立来源报道了这则其他类资讯。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "98d640c2c00c",
@@ -2311,7 +2383,10 @@
               "published_at": "2026-08-19T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-19/topic/import-ai-469-science-ai-rsi-simulator-and-zuck-s-technological-pessimism/"
+          "route": "/hot/2026-08-19/topic/import-ai-469-science-ai-rsi-simulator-and-zuck-s-technological-pessimism/",
+          "headline_zh": "Import AI 第 469 期：科研 AI、RSI 模拟器与扎克伯格的技术悲观主义",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "0a0a40c7d15d",
@@ -2349,7 +2424,11 @@
               "published_at": "2026-08-18T07:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-19/topic/elon-musk-broke-the-faa-palantir-is-picking-up-the-pieces/"
+          "route": "/hot/2026-08-19/topic/elon-musk-broke-the-faa-palantir-is-picking-up-the-pieces/",
+          "headline_zh": "埃隆·马斯克搞垮了 FAA，Palantir 正在收拾残局",
+          "summary_short_zh": "8 月 6 日，明尼阿波利斯航路交通管制中心的雷达和通信中断了约两小时。此次故障影响了该中心所辖空域内的 1,100 多架次航班；该空域横跨九个州，面积达 33 万平方英里。",
+          "why_it_matters_zh": "这条行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -2393,7 +2472,11 @@
               "published_at": "Tue, 18 Aug 2026 17:13:13 +0000"
             }
           ],
-          "route": "/hot/2026-08-19/topic/customize-amazon-quick-embedded-chat-into-your-application/"
+          "route": "/hot/2026-08-19/topic/customize-amazon-quick-embedded-chat-into-your-application/",
+          "headline_zh": "在应用中定制 Amazon Quick 嵌入式聊天功能",
+          "summary_short_zh": "Amazon Quick 嵌入式聊天功能可为你的 Web 应用引入对话式 AI 界面。本文介绍如何通过调整容器和 SDK 样式、移除品牌标识以及自定义智能体角色设定，让聊天功能的外观、体验和语气与你的品牌保持一致。",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "943a1bb98b2e",
@@ -2431,7 +2514,11 @@
               "published_at": "Tue, 18 Aug 2026 17:10:37 +0000"
             }
           ],
-          "route": "/hot/2026-08-19/topic/implement-vector-prompt-document-classification-using-amazon-bedrock/"
+          "route": "/hot/2026-08-19/topic/implement-vector-prompt-document-classification-using-amazon-bedrock/",
+          "headline_zh": "使用 Amazon Bedrock 实现基于向量提示的文档分类",
+          "summary_short_zh": "了解如何使用 Strands Agents SDK，在 Amazon Bedrock 上构建多智能体文档分类方案。",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "7daff0ed13a0",
@@ -2469,7 +2556,11 @@
               "published_at": "2026-08-19T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-19/topic/dig-bench-discovery-in-games-github-pdf/"
+          "route": "/hot/2026-08-19/topic/dig-bench-discovery-in-games-github-pdf/",
+          "headline_zh": "DiG-bench：游戏中的发现（GitHub、PDF）",
+          "summary_short_zh": "DiG-bench：游戏中的发现（GitHub、PDF",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "9df829fa18f4",
@@ -2507,7 +2598,11 @@
               "published_at": "Tue, 18 Aug 2026 22:14:25 +0000"
             }
           ],
-          "route": "/hot/2026-08-19/topic/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/"
+          "route": "/hot/2026-08-19/topic/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+          "headline_zh": "Cursor 抓住开发者对 GitHub 不满的机会，推出竞品代码托管平台",
+          "summary_short_zh": "以 AI 代码编辑器闻名的 Cursor 正推出新的代码托管平台，与开发者长期青睐的 GitHub 展开竞争。",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     },
@@ -2551,7 +2646,11 @@
               "published_at": "2026-08-18T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-08-19/topic/agentic-esopt-fine-tuning-long-horizon-llm-agents-with-minimal-gpu-requirements/"
+          "route": "/hot/2026-08-19/topic/agentic-esopt-fine-tuning-long-horizon-llm-agents-with-minimal-gpu-requirements/",
+          "headline_zh": "Agentic ESOpt：仅需极少 GPU 资源的长时程 LLM 智能体微调",
+          "summary_short_zh": "强化学习（RL）在单轮 LLM 微调中已展现出潜力。然而，长时程智能体推理带来了分支日益增多的交互和稀疏奖励，暴露出 RL 的若干局限：其基于反向传播的重型训练栈使其难以……",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         }
       ]
     }
@@ -2597,7 +2696,11 @@
               "published_at": "Tue, 18 Aug 2026 00:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-08-19/topic/how-nvidia-scales-expertise-with-chatgpt-work/"
+          "route": "/hot/2026-08-19/topic/how-nvidia-scales-expertise-with-chatgpt-work/",
+          "headline_zh": "NVIDIA 如何借助 ChatGPT Work 规模化应用专业知识",
+          "summary_short_zh": "NVIDIA 团队使用 ChatGPT Work 减少人工操作、整合快速变化的信息，并在全球推广成功的工作流程。",
+          "why_it_matters_zh": "这则产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "e72029f3cdf9",
@@ -2635,7 +2738,11 @@
               "published_at": "Tue, 18 Aug 2026 00:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-08-19/topic/deepseek-v4-pro-0813-vs-gpt-5-6-sol-on-deepswe-cost-coding-and-routing/"
+          "route": "/hot/2026-08-19/topic/deepseek-v4-pro-0813-vs-gpt-5-6-sol-on-deepswe-cost-coding-and-routing/",
+          "headline_zh": "DeepSeek V4 Pro 0813 与 GPT-5.6 Sol 在 DeepSWE 上的对比：成本、编程与路由",
+          "summary_short_zh": "我们使用 DeepSeek V4 Pro 0813 和 GPT-5.6 Sol 进行了 904 次 DeepSWE 评测。Sol 的 pass@1 领先 10 个百分点，成本为 Pro 的 35 倍；Pro 在 pass@4 上胜出，优先使用 Pro 的级联方案达到 83.0%。",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "bf634443241c",
@@ -2673,7 +2780,11 @@
               "published_at": "2026-08-18T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-08-19/topic/accelerating-gpt-5-6-sol-ultrafast/"
+          "route": "/hot/2026-08-19/topic/accelerating-gpt-5-6-sol-ultrafast/",
+          "headline_zh": "为 GPT-5.6 Sol Ultrafast 提速",
+          "summary_short_zh": "2026年8月13日",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "8fb6342f312c",
@@ -2711,7 +2822,11 @@
               "published_at": "2026-08-18T08:01:29-04:00"
             }
           ],
-          "route": "/hot/2026-08-19/topic/google-8217-s-pet-memory-forgot-who-my-cats-are/"
+          "route": "/hot/2026-08-19/topic/google-8217-s-pet-memory-forgot-who-my-cats-are/",
+          "headline_zh": "Google 的 Pet Memory 把我家的猫忘了",
+          "summary_short_zh": "帮我照顾宠物，是智能家居最棒的功能之一。安防摄像头尤其方便我查看家里一群小动物的动静，但它们发来的通知铺天盖地，常让我错过重要消息。",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "345c0d8b375e",
@@ -2749,7 +2864,11 @@
               "published_at": "2026-08-17T23:58:14+00:00"
             }
           ],
-          "route": "/hot/2026-08-19/topic/qwen-3-8-27b-scores-52-on-the-artificial-analysis-intelligence-index/"
+          "route": "/hot/2026-08-19/topic/qwen-3-8-27b-scores-52-on-the-artificial-analysis-intelligence-index/",
+          "headline_zh": "Qwen 3.8 27B 在 Artificial Analysis 智能指数中获得 52 分",
+          "summary_short_zh": "<p><strong><a href=\" 3.8 27B 在 Artificial Analysis 智能指数中获得 52 分</a></strong></p> 这一得分与 GPT-5.6 Luna (max) 持平，仅比 GLM-5.2 (max) 和 DeepSeek V4 Pro 0813 (max) 低 1 分；其中 GLM 为 <a href=\"，DeepSeek 为 <a href=\" 个参数</a>，而 Luna",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2793,7 +2912,11 @@
               "published_at": "2026-08-18T09:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-19/topic/firefox-8217-s-smart-window-promises-a-better-ai-browser/"
+          "route": "/hot/2026-08-19/topic/firefox-8217-s-smart-window-promises-a-better-ai-browser/",
+          "headline_zh": "Firefox 的 Smart Window 有望让 AI 浏览器更好用",
+          "summary_short_zh": "通过与 Exa 合作，从今天起，Firefox 的 Smart Window AI 浏览模式中的 AI 聊天可以获取最新网络信息，并在回复中显示来源链接。",
+          "why_it_matters_zh": "这一行业动向见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "612ccca15aa5",
@@ -2831,7 +2954,11 @@
               "published_at": "Tue, 18 Aug 2026 12:35:00 -0400"
             }
           ],
-          "route": "/hot/2026-08-19/topic/when-ai-art-has-no-author-study-finds-generated-images-often-can-t-be-traced-to-training-data/"
+          "route": "/hot/2026-08-19/topic/when-ai-art-has-no-author-study-finds-generated-images-often-can-t-be-traced-to-training-data/",
+          "headline_zh": "当 AI 艺术没有作者：研究发现，生成图像通常无法追溯到训练数据",
+          "summary_short_zh": "一种可从模型中精准移除训练样本的新方法揭示，随着数据集规模扩大，模型所学内容与生成结果之间的联系逐渐消失。",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "dacaf49bade9",
@@ -2869,7 +2996,11 @@
               "published_at": "Tue, 18 Aug 2026 16:19:10 +0000"
             }
           ],
-          "route": "/hot/2026-08-19/topic/why-apple-s-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/"
+          "route": "/hot/2026-08-19/topic/why-apple-s-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
+          "headline_zh": "为何 Apple 带摄像头的 AirPods 可能不会成为消费者担心的“偷窥耳机”",
+          "summary_short_zh": "据曝光消息，Apple 配备摄像头的 AirPods 或可通过禁止用户拍照和录像，避免其他 AI 可穿戴设备的隐私问题。",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -2911,7 +3042,11 @@
           "published_at": "2026-08-15T06:10:13Z"
         }
       ],
-      "route": "/hot/2026-08-19/topic/sheberdavid-v4-flash-godmode-opencode-go/"
+      "route": "/hot/2026-08-19/topic/sheberdavid-v4-flash-godmode-opencode-go/",
+      "headline_zh": "SheberDavid/v4-flash-godmode-opencode-go",
+      "summary_short_zh": "V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh agent preset",
+      "why_it_matters_zh": "此次产品发布消息来自 1 个独立来源。",
+      "category_zh": "产品发布"
     }
   ],
   "x_buzz": [

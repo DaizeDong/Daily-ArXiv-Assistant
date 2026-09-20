@@ -1683,7 +1683,14 @@
           "published_at": "Thu, 10 Sep 2026 18:16:37 +0000"
         }
       ],
-      "route": "/hot/2026-09-11/topic/amazon-quick-is-now-generally-available-on-desktop/"
+      "route": "/hot/2026-09-11/topic/amazon-quick-is-now-generally-available-on-desktop/",
+      "headline_zh": "Amazon Quick 桌面版现已正式推出",
+      "summary_short_zh": "你的团队现在可以使用能完成实际工作的 AI 助手，数据保留在你的环境中，对话隐私也得到保护。今天，Amazon Quick 桌面应用已在 macOS 和 Windows 上正式推出。",
+      "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "你的团队现在可以使用能完成实际工作的 AI 助手，数据保留在你的环境中，对话隐私也得到保护。今天，Amazon Quick 桌面应用已正式推出……"
+      ]
     },
     {
       "topic_id": "b82fe6e0187b",
@@ -1721,7 +1728,10 @@
           "published_at": "2026-09-10T18:59:36+00:00"
         }
       ],
-      "route": "/hot/2026-09-11/topic/per-tensor-layout-maps-for-gguf-quantization/"
+      "route": "/hot/2026-09-11/topic/per-tensor-layout-maps-for-gguf-quantization/",
+      "headline_zh": "用于 GGUF 量化的逐张量布局映射",
+      "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "cf91713d59ae",
@@ -1761,7 +1771,14 @@
           "published_at": "Thu, 10 Sep 2026 21:58:09 +0000"
         }
       ],
-      "route": "/hot/2026-09-11/topic/reduce-llm-latency-with-prefix-aware-routing-on-amazon-sagemaker-inference/"
+      "route": "/hot/2026-09-11/topic/reduce-llm-latency-with-prefix-aware-routing-on-amazon-sagemaker-inference/",
+      "headline_zh": "通过 Amazon SageMaker Inference 的前缀感知路由降低 LLM 延迟",
+      "summary_short_zh": "Amazon SageMaker Inference 现已提供前缀感知路由，可将提示词前缀相同的请求发送到同一实例，让 KV 缓存保持热状态。",
+      "why_it_matters_zh": "1 个独立来源报道了此次融资。",
+      "category_zh": "市场信号",
+      "key_takeaways_zh": [
+        "Amazon SageMaker Inference 现已提供前缀感知路由，可将提示词前缀相同的请求发送到同一实例，让 KV 缓存保持热状态。在 L… 上的基准测试中……"
+      ]
     },
     {
       "topic_id": "805826a27328",
@@ -1801,7 +1818,14 @@
           "published_at": "Thu, 10 Sep 2026 15:00:00 GMT"
         }
       ],
-      "route": "/hot/2026-09-11/topic/now-everyone-can-put-data-to-work/"
+      "route": "/hot/2026-09-11/topic/now-everyone-can-put-data-to-work/",
+      "headline_zh": "现在，人人都能用好数据",
+      "summary_short_zh": "认识一下 ChatGPT Work 中的 Data 智能体。借助 AI，用自然语言连接企业数据、挖掘洞见并创建交互式仪表板",
+      "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "认识一下 ChatGPT Work 中的 Data 智能体。借助 AI，用自然语言连接企业数据、挖掘洞见并创建交互式仪表板。"
+      ]
     },
     {
       "topic_id": "d19b8299be62",
@@ -1841,7 +1865,14 @@
           "published_at": "Thu, 10 Sep 2026 16:00:00 GMT"
         }
       ],
-      "route": "/hot/2026-09-11/topic/how-a-researcher-uses-codex-and-chatgpt-to-search-for-new-antimicrobial-molecules/"
+      "route": "/hot/2026-09-11/topic/how-a-researcher-uses-codex-and-chatgpt-to-search-for-new-antimicrobial-molecules/",
+      "headline_zh": "研究人员如何利用 Codex 和 ChatGPT 寻找新型抗微生物分子",
+      "summary_short_zh": "César de la Fuente 的实验室利用 Codex 和 ChatGPT，从现存及已灭绝物种的基因组中寻找候选抗微生物分子，以对抗耐药性感染",
+      "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "César de la Fuente 的实验室利用 Codex 和 ChatGPT，从现存及已灭绝物种的基因组中寻找候选抗微生物分子，以对抗耐药性感染。"
+      ]
     }
   ],
   "category_sections": [
@@ -1885,7 +1916,11 @@
               "published_at": "Thu, 10 Sep 2026 15:53:05 +0000"
             }
           ],
-          "route": "/hot/2026-09-11/topic/how-aviobook-builds-turnaround-insights-from-operational-data-with-amazon-bedrock-agentcore/"
+          "route": "/hot/2026-09-11/topic/how-aviobook-builds-turnaround-insights-from-operational-data-with-amazon-bedrock-agentcore/",
+          "headline_zh": "AvioBook 如何借助 Amazon Bedrock AgentCore 从运营数据中分析航班过站情况",
+          "summary_short_zh": "泰雷兹集团旗下的 AvioBook 基于 Amazon Bedrock AgentCore 开发了 Connected Analytics 原型，将 AvioBook Connect 的运营数据转化为通俗易懂、有据可依的解答，帮助航空公司管理人员和调度员查明航班过站延误的原因并采取措施",
+          "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "493b819b02d6",
@@ -1923,7 +1958,11 @@
               "published_at": "Thu, 10 Sep 2026 15:55:41 +0000"
             }
           ],
-          "route": "/hot/2026-09-11/topic/agent-evaluation-metric-for-multi-turn-conversations/"
+          "route": "/hot/2026-09-11/topic/agent-evaluation-metric-for-multi-turn-conversations/",
+          "headline_zh": "多轮对话智能体评估指标",
+          "summary_short_zh": "多轮对话智能体会出现单轮评估无法发现的问题：早期的一次错误就会导致后续每一轮对话出错。",
+          "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "25d2c1bf05f9",
@@ -1961,7 +2000,11 @@
               "published_at": "Thu, 10 Sep 2026 16:00:00 +0000"
             }
           ],
-          "route": "/hot/2026-09-11/topic/3-ways-to-prep-for-your-next-big-race-with-search/"
+          "route": "/hot/2026-09-11/topic/3-ways-to-prep-for-your-next-big-race-with-search/",
+          "headline_zh": "借助 Search 备战下一场大赛的 3 种方法",
+          "summary_short_zh": "蓝色背景上的彩色跑者插画，叠加了放大镜和 Gemini 星芒标志",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "601a284e24d8",
@@ -1999,7 +2042,11 @@
               "published_at": "Thu, 10 Sep 2026 20:57:30 +0000"
             }
           ],
-          "route": "/hot/2026-09-11/topic/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/"
+          "route": "/hot/2026-09-11/topic/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+          "headline_zh": "Anthropic 披露阿里巴巴、月之暗面和 DeepSeek 的蒸馏行动详情",
+          "summary_short_zh": "Anthropic 周四发布的新报告指称，中国 AI 公司持续实施蒸馏攻击，随着行业竞争加剧，这类攻击在近几个月不断升级。",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "f8aad337b456",
@@ -2037,7 +2084,11 @@
               "published_at": "2026-09-10T17:25:21-04:00"
             }
           ],
-          "route": "/hot/2026-09-11/topic/slack-can-now-vibe-code-interactive-charts-and-reports-inside-chats/"
+          "route": "/hot/2026-09-11/topic/slack-can-now-vibe-code-interactive-charts-and-reports-inside-chats/",
+          "headline_zh": "Slack 现可在聊天中通过 vibe coding 创建交互式图表和报告",
+          "summary_short_zh": "Slack 即将推出的新功能可让你直接在聊天中创建交互式报告、投票、仪表盘、演示文稿、微型网站等工具。",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2081,7 +2132,11 @@
               "published_at": "2026-09-10T13:21:01.021Z"
             }
           ],
-          "route": "/hot/2026-09-11/topic/anthropic-exit-raises-doubts-about-its-safety-message/"
+          "route": "/hot/2026-09-11/topic/anthropic-exit-raises-doubts-about-its-safety-message/",
+          "headline_zh": "Anthropic 离职事件引发对其安全主张的质疑",
+          "summary_short_zh": "人工智能",
+          "why_it_matters_zh": "此次融资见于 1 个独立来源。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -2125,7 +2180,11 @@
               "published_at": "2026-09-11T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-11/topic/what-56-000-americans-told-us-about-ai-policy-center-for-shared-ai-prosperity/"
+          "route": "/hot/2026-09-11/topic/what-56-000-americans-told-us-about-ai-policy-center-for-shared-ai-prosperity/",
+          "headline_zh": "56,000 名美国人告诉我们：他们如何看待 AI 政策（Center for Shared AI Prosperity）",
+          "summary_short_zh": "56,000 名美国人告诉我们：他们如何看待 AI 政策（Center for Shared AI Prosperity",
+          "why_it_matters_zh": "这一行业动向见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "c270f24e65e6",
@@ -2173,7 +2232,11 @@
               "published_at": "Thu, 10 Sep 2026 19:50:04 +0000"
             }
           ],
-          "route": "/hot/2026-09-11/topic/meta-s-muse-ai-works-and-creeps-me-out/"
+          "route": "/hot/2026-09-11/topic/meta-s-muse-ai-works-and-creeps-me-out/",
+          "headline_zh": "Meta 的 Muse AI 确实管用，却让我心里发毛",
+          "summary_short_zh": "Meta 推出了全新的 Muse 助手，标志着该公司首次真正涉足 AI 生产力工具领域。公司表示，这款 AI 智能体能帮你网购、处理邮件、规划行程等，“替你分担琐事”。",
+          "why_it_matters_zh": "这则其他类消息见于 3 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "b656ef2d0f83",
@@ -2211,7 +2274,10 @@
               "published_at": "2026-09-11T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-11/topic/import-ai-472-deepmind-s-cheating-math-agents-populist-ai-policies-and-forethought-theorizes-a-nightwatchman/"
+          "route": "/hot/2026-09-11/topic/import-ai-472-deepmind-s-cheating-math-agents-populist-ai-policies-and-forethought-theorizes-a-nightwatchman/",
+          "headline_zh": "Import AI 第 472 期：DeepMind 会作弊的数学智能体；民粹主义 AI 政策；Forethought 的“守夜人”构想",
+          "why_it_matters_zh": "这则其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "37e8f1d2eec4",
@@ -2249,7 +2315,10 @@
               "published_at": "2026-09-11T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-11/topic/import-ai-471-why-hugging-face-worries-me-space-mining-five-eyes-on-ai/"
+          "route": "/hot/2026-09-11/topic/import-ai-471-why-hugging-face-worries-me-space-mining-five-eyes-on-ai/",
+          "headline_zh": "Import AI 第 471 期：Hugging Face 为何让我担忧；太空采矿；五眼联盟关注 AI",
+          "why_it_matters_zh": "这则其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "1edb8587f209",
@@ -2287,7 +2356,11 @@
               "published_at": "2026-09-11T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-11/topic/discovery-of-a-new-openai-agent-message-board-collusion-wiki/"
+          "route": "/hot/2026-09-11/topic/discovery-of-a-new-openai-agent-message-board-collusion-wiki/",
+          "headline_zh": "发现一个新的 OpenAI 智能体留言板（Collusion Wiki）",
+          "summary_short_zh": "发现一个新的 OpenAI 智能体留言板（Collusion Wiki",
+          "why_it_matters_zh": "有 1 个独立来源提及这条其他类资讯。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -2331,7 +2404,11 @@
               "published_at": "Thu, 10 Sep 2026 22:50:22 +0000"
             }
           ],
-          "route": "/hot/2026-09-11/topic/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients/"
+          "route": "/hot/2026-09-11/topic/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients/",
+          "headline_zh": "ToolGrad：利用文本“梯度”高效生成工具使用数据集",
+          "summary_short_zh": "机器智能",
+          "why_it_matters_zh": "有 1 个独立来源提及此工具。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "03d70d8c3589",
@@ -2369,7 +2446,11 @@
               "published_at": "Thu, 10 Sep 2026 16:02:16 +0000"
             }
           ],
-          "route": "/hot/2026-09-11/topic/model-agnostic-pii-detection-with-llms/"
+          "route": "/hot/2026-09-11/topic/model-agnostic-pii-detection-with-llms/",
+          "headline_zh": "利用大语言模型检测 PII，不限模型",
+          "summary_short_zh": "这款检测器可配置且不依赖特定模型，可将 Amazon Bedrock 上的任何大语言模型转为个人身份信息（PII）检测器。",
+          "why_it_matters_zh": "有 1 个独立来源提及此工具。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "3557e1a6cf99",
@@ -2407,7 +2488,11 @@
               "published_at": "Thu, 10 Sep 2026 16:08:57 +0000"
             }
           ],
-          "route": "/hot/2026-09-11/topic/build-an-end-to-end-rfi-questionnaire-workflow-using-amazon-quick-automate/"
+          "route": "/hot/2026-09-11/topic/build-an-end-to-end-rfi-questionnaire-workflow-using-amazon-quick-automate/",
+          "headline_zh": "使用 Amazon Quick Automate 构建端到端 RFI 问卷工作流",
+          "summary_short_zh": "了解如何使用 Amazon Quick Automate 构建端到端 RFI 问卷工作流：从 Amazon S3 读取包含多个工作表的 RFI 工作簿，用自然语言提示提取问卷数据并将其结构化，通过对话完善工作流，再将整理好的数据以 CSV 格式写回 Amazon S3。",
+          "why_it_matters_zh": "有 1 个独立来源提及此工具。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "801ccf13baea",
@@ -2445,7 +2530,11 @@
               "published_at": "2026-09-09T23:58:32+00:00"
             }
           ],
-          "route": "/hot/2026-09-11/topic/blend-url-viewer/"
+          "route": "/hot/2026-09-11/topic/blend-url-viewer/",
+          "headline_zh": ".blend URL Viewer",
+          "summary_short_zh": "<p><strong>工具：</strong> <a href=\" URL Viewer</a></p> <p>我用 GPT-6 Astra 和 Blender 依然玩得很开心（参见 <a href=\" TIL</a>）。</p> <p>作为 <a href=\" 法贝热彩蛋</a> 的忠实爱好者，我一直觉得制作一些新彩蛋会很有趣，用它们来致敬流行",
+          "why_it_matters_zh": "有 1 个独立来源提及此工具。",
+          "category_zh": "工具"
         }
       ]
     },
@@ -2489,7 +2578,11 @@
               "published_at": "2026-09-10T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-09-11/topic/mi-ripple-restoring-images-degraded-by-iterative-ai-editing/"
+          "route": "/hot/2026-09-11/topic/mi-ripple-restoring-images-degraded-by-iterative-ai-editing/",
+          "headline_zh": "Mi-Ripple：修复因 AI 迭代编辑而退化的图像",
+          "summary_short_zh": "以参考图像为条件的迭代图像编辑可能引入网格状和颗粒状纹理，通常称为“数字波纹”。我们提出 Mi-Ripple，一套由诊断引导的修复流程，可在保留图像结构的同时抑制此类数字波纹。",
+          "why_it_matters_zh": "有 1 个独立来源提及这篇研究论文。",
+          "category_zh": "研究"
         }
       ]
     }
@@ -2535,7 +2628,11 @@
               "published_at": "Thu, 10 Sep 2026 07:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-09-11/topic/introducing-chatgpt-for-financial-services/"
+          "route": "/hot/2026-09-11/topic/introducing-chatgpt-for-financial-services/",
+          "headline_zh": "推出 ChatGPT for Financial Services",
+          "summary_short_zh": "结合内置金融数据与 GPT-6 Astra，用于研究、建模和制作可直接交付客户的材料",
+          "why_it_matters_zh": "有 1 个独立来源提及此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "ca0273108f34",
@@ -2573,7 +2670,11 @@
               "published_at": "2026-09-10T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-09-11/topic/introducing-north-small-translate-a-leading-sovereign-open-weight-machine-translation-model/"
+          "route": "/hot/2026-09-11/topic/introducing-north-small-translate-a-leading-sovereign-open-weight-machine-translation-model/",
+          "headline_zh": "推出 North Small Translate：领先的主权型开放权重机器翻译模型",
+          "summary_short_zh": "性能出众，资源占用适中，兼顾翻译速度与成本效益",
+          "why_it_matters_zh": "这条产品发布消息来自 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "03f70624801b",
@@ -2611,7 +2712,11 @@
               "published_at": "Thu, 10 Sep 2026 07:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-09-11/topic/expanding-ai-access-and-cyber-defense-for-federal-state-local-and-tribal-governments/"
+          "route": "/hot/2026-09-11/topic/expanding-ai-access-and-cyber-defense-for-federal-state-local-and-tribal-governments/",
+          "headline_zh": "扩大面向联邦、州、地方和部落政府的 AI 服务覆盖，并加强网络防御",
+          "summary_short_zh": "OpenAI 和 GSA 将为符合条件的联邦、州、地方和部落政府免收许可费，提供使用费五折优惠，并加强网络防御支持",
+          "why_it_matters_zh": "这条产品发布消息来自 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "aea8215c3d1d",
@@ -2649,7 +2754,11 @@
               "published_at": "Thu, 10 Sep 2026 00:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-09-11/topic/build-more-natural-voice-experiences-with-gpt-live-1-in-the-api/"
+          "route": "/hot/2026-09-11/topic/build-more-natural-voice-experiences-with-gpt-live-1-in-the-api/",
+          "headline_zh": "通过 API 使用 GPT‑Live‑1，打造更自然的语音体验",
+          "summary_short_zh": "GPT‑Live‑1 为 API 带来自然的全双工语音对话，增强指令遵循能力，并支持自定义音色和电话接入",
+          "why_it_matters_zh": "这条产品发布消息来自 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "e3e922126f8c",
@@ -2687,7 +2796,11 @@
               "published_at": "Thu, 10 Sep 2026 00:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-09-11/topic/introducing-the-agents-api/"
+          "route": "/hot/2026-09-11/topic/introducing-the-agents-api/",
+          "headline_zh": "推出 Agents API",
+          "summary_short_zh": "使用 Agents API 构建并上线云端智能体。这项托管服务由 Codex harness 驱动，支持编排、长时间运行的会话和工具调用",
+          "why_it_matters_zh": "这条产品发布消息来自 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "334667e62b72",
@@ -2725,7 +2838,11 @@
               "published_at": "Thu, 10 Sep 2026 00:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-09-11/topic/introducing-preemptible-compute-the-same-compute-half-the-price/"
+          "route": "/hot/2026-09-11/topic/introducing-preemptible-compute-the-same-compute-half-the-price/",
+          "headline_zh": "推出可抢占式计算：同等算力，价格减半",
+          "summary_short_zh": "Together GPU Clusters 现已支持可抢占式计算：同等 GPU 算力，统一按按需价格的 50% 计费，并预留 5 分钟的任务收尾时间",
+          "why_it_matters_zh": "这条产品发布消息来自 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "f26f8dc7a715",
@@ -2763,7 +2880,10 @@
               "published_at": "2026-09-10T15:29:47Z"
             }
           ],
-          "route": "/hot/2026-09-11/topic/cognition-launches-new-swe-2-model-rivaling-fable-5-1-and-gpt-astra/"
+          "route": "/hot/2026-09-11/topic/cognition-launches-new-swe-2-model-rivaling-fable-5-1-and-gpt-astra/",
+          "headline_zh": "Cognition 推出全新 SWE-2 模型，媲美 Fable 5.1 和 GPT-Astra",
+          "why_it_matters_zh": "这条产品发布消息来自 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2807,7 +2927,11 @@
               "published_at": "Fri, 11 Sep 2026 01:46:55 +0000"
             }
           ],
-          "route": "/hot/2026-09-11/topic/openai-benchmark/"
+          "route": "/hot/2026-09-11/topic/openai-benchmark/",
+          "headline_zh": "OpenAI这是拿千禧年难题当Benchmark刷啊。。。",
+          "summary_short_zh": "爆料直指霍奇猜想",
+          "why_it_matters_zh": "这条其他类别的资讯来自 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -2849,7 +2973,10 @@
           "published_at": "2026-09-10T12:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-09-11/topic/universal-music-group-and-elevenlabs-announce-multi-year-strategic-agreement/"
+      "route": "/hot/2026-09-11/topic/universal-music-group-and-elevenlabs-announce-multi-year-strategic-agreement/",
+      "headline_zh": "环球音乐集团与 ElevenLabs 宣布达成多年战略协议",
+      "why_it_matters_zh": "这条产品发布消息来自 1 个独立来源。",
+      "category_zh": "产品发布"
     }
   ],
   "x_buzz": [

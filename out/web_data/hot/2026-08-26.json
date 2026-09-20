@@ -1701,7 +1701,14 @@
           "published_at": "Tue, 25 Aug 2026 19:00:09 +0000"
         }
       ],
-      "route": "/hot/2026-08-26/topic/agentic-observability-with-amazon-opensearch-service-mcp-apps/"
+      "route": "/hot/2026-08-26/topic/agentic-observability-with-amazon-opensearch-service-mcp-apps/",
+      "headline_zh": "借助 Amazon OpenSearch Service MCP Apps 实现智能体驱动的可观测性",
+      "summary_short_zh": "Amazon OpenSearch Service 现已支持 MCP Apps，可随 AI 智能体的文本回复一同返回交互式可视化内容。",
+      "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Amazon OpenSearch Service 现已支持 MCP Apps，可随 AI 智能体的文本回复一同返回交互式可视化内容。了解如何借助单个本地运行的 MCP 服务器，让智能体从……"
+      ]
     },
     {
       "topic_id": "0489b10c22c5",
@@ -1741,7 +1748,14 @@
           "published_at": "Tue, 25 Aug 2026 16:00:00 +0000"
         }
       ],
-      "route": "/hot/2026-08-26/topic/5-ways-to-upgrade-your-home-decor-with-google-search/"
+      "route": "/hot/2026-08-26/topic/5-ways-to-upgrade-your-home-decor-with-google-search/",
+      "headline_zh": "用 Google 搜索焕新家居装饰的 5 种方法",
+      "summary_short_zh": "紫色背景上的渐变彩虹色家具插画，包括沙发、灯具和椅子",
+      "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "紫色背景上的渐变彩虹色家具插画，包括沙发、灯具和椅子"
+      ]
     },
     {
       "topic_id": "e77f7a1aed16",
@@ -1781,7 +1795,14 @@
           "published_at": "Tue, 25 Aug 2026 19:10:59 +0000"
         }
       ],
-      "route": "/hot/2026-08-26/topic/agenthands-generating-interactive-hand-gestures-for-spatially-grounded-agent-conversations-in-xr/"
+      "route": "/hot/2026-08-26/topic/agenthands-generating-interactive-hand-gestures-for-spatially-grounded-agent-conversations-in-xr/",
+      "headline_zh": "AgentHands：为 XR 中基于空间情境的智能体对话生成交互式手势",
+      "summary_short_zh": "人机交互与可视化",
+      "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "人机交互与可视化"
+      ]
     },
     {
       "topic_id": "d804260b49c5",
@@ -1819,7 +1840,10 @@
           "published_at": "2026-08-25T15:01:00+00:00"
         }
       ],
-      "route": "/hot/2026-08-26/topic/extremely-fast-and-accurate-transcription-with-granite-speech-5-0-turbo-ctc/"
+      "route": "/hot/2026-08-26/topic/extremely-fast-and-accurate-transcription-with-granite-speech-5-0-turbo-ctc/",
+      "headline_zh": "借助 Granite Speech 5.0 Turbo CTC 实现极速精准的语音转写",
+      "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "a5f916570e10",
@@ -1871,7 +1895,16 @@
           "published_at": "2026-08-25T10:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-08-26/topic/jalape-o-s-first-results-show-industry-leading-speed-and-efficiency-in-ai-inference/"
+      "route": "/hot/2026-08-26/topic/jalape-o-s-first-results-show-industry-leading-speed-and-efficiency-in-ai-inference/",
+      "headline_zh": "Jalapeño 首批测试结果显示，其 AI 推理速度和效率处于行业领先水平",
+      "summary_short_zh": "Jalapeño 是 OpenAI 定制的推理芯片，可为现代模型提供速度更快、能效更高的 AI 推理，具有更高的吞吐量和更低的延迟",
+      "why_it_matters_zh": "有 3 个独立来源报道了这一行业动态。",
+      "category_zh": "行业动态",
+      "key_takeaways_zh": [
+        "Jalapeño 是 OpenAI 定制的推理芯片，可为现代模型提供速度更快、能效更高的 AI 推理，具有更高的吞吐量和更低的延迟。",
+        "据周二发布的一篇博文，OpenAI 称，其新款 AI 芯片 Jalapeño 完成任务的效率和响应速度均优于其他 AI 系统。在一场简报会上……",
+        "在 SemiAnalysis 的 InferenceX 基准测试中，Jalapeño 的单用户 token 数和每千瓦吞吐量均超过当前最先进水平。"
+      ]
     }
   ],
   "category_sections": [
@@ -1915,7 +1948,11 @@
               "published_at": "Tue, 25 Aug 2026 07:05:00 GMT"
             }
           ],
-          "route": "/hot/2026-08-26/topic/the-full-stack-behind-abundant-intelligence/"
+          "route": "/hot/2026-08-26/topic/the-full-stack-behind-abundant-intelligence/",
+          "headline_zh": "充足智能供给背后的全栈技术",
+          "summary_short_zh": "OpenAI 首席财务官 Sarah Friar 解释了芯片、算力、模型和产品的进步如何产生叠加效应，从而以更低成本、更大规模提供更实用的智能能力",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "5d2bc87f9840",
@@ -1953,7 +1990,11 @@
               "published_at": "2026-08-25T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-08-26/topic/cerebras-and-upstage-bring-ultra-fast-ai-to-south-korea/"
+          "route": "/hot/2026-08-26/topic/cerebras-and-upstage-bring-ultra-fast-ai-to-south-korea/",
+          "headline_zh": "Cerebras 与 Upstage 将超高速 AI 带到韩国",
+          "summary_short_zh": "2026年7月10日",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "f05ac5a9a6bd",
@@ -1991,7 +2032,11 @@
               "published_at": "2026-08-25T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-08-26/topic/how-faster-inference-gives-cybersecurity-companies-an-edge/"
+          "route": "/hot/2026-08-26/topic/how-faster-inference-gives-cybersecurity-companies-an-edge/",
+          "headline_zh": "更快的推理如何为网络安全公司带来竞争优势",
+          "summary_short_zh": "2026年7月22日",
+          "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "3573fb9f5f60",
@@ -2029,7 +2074,11 @@
               "published_at": "2026-08-25T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-08-26/topic/ultrafast-frontier-inference-cerebras-deep-dive-at-hot-chips-2026/"
+          "route": "/hot/2026-08-26/topic/ultrafast-frontier-inference-cerebras-deep-dive-at-hot-chips-2026/",
+          "headline_zh": "超高速前沿模型推理：Cerebras 在 Hot Chips 2026 上的深度解析",
+          "summary_short_zh": "2026年8月25日",
+          "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "bf634443241c",
@@ -2067,7 +2116,11 @@
               "published_at": "2026-08-25T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-08-26/topic/accelerating-gpt-5-6-sol-ultrafast/"
+          "route": "/hot/2026-08-26/topic/accelerating-gpt-5-6-sol-ultrafast/",
+          "headline_zh": "加速 GPT-5.6 Sol Ultrafast",
+          "summary_short_zh": "2026年8月13日",
+          "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2111,7 +2164,11 @@
               "published_at": "Wed, 26 Aug 2026 00:40:59 +0000"
             }
           ],
-          "route": "/hot/2026-08-26/topic/robotics-startup-generalist-reaches-3b-valuation-sources-say/"
+          "route": "/hot/2026-08-26/topic/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+          "headline_zh": "消息人士称，机器人初创公司 Generalist 估值达 30 亿美元",
+          "summary_short_zh": "这家物理 AI 初创公司估值达到 20 亿美元仅数月后，便获得了这笔 2 亿美元的追加融资",
+          "why_it_matters_zh": "该融资消息见于 1 个独立来源。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "9e5d5ba97b06",
@@ -2149,7 +2206,10 @@
               "published_at": "Aug 25, 2026"
             }
           ],
-          "route": "/hot/2026-08-26/topic/funding-better-evaluations-of-ai-s-impact-on-wellbeing/"
+          "route": "/hot/2026-08-26/topic/funding-better-evaluations-of-ai-s-impact-on-wellbeing/",
+          "headline_zh": "资助研究，更好地评估 AI 对福祉的影响",
+          "why_it_matters_zh": "该融资消息见于 1 个独立来源。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "4dccd7848fa2",
@@ -2187,7 +2247,11 @@
               "published_at": "Tue, 25 Aug 2026 13:00:00 +0000"
             }
           ],
-          "route": "/hot/2026-08-26/topic/accel-backed-keenable-is-indexing-the-web-for-ai-agents/"
+          "route": "/hot/2026-08-26/topic/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
+          "headline_zh": "获 Accel 投资的 Keenable 正在为 AI 智能体构建网页索引",
+          "summary_short_zh": "Keenable 一直在为 AI 智能体构建大规模网页搜索索引，如今携 2600 万美元种子轮融资首次公开亮相",
+          "why_it_matters_zh": "该融资消息见于 1 个独立来源。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -2231,7 +2295,11 @@
               "published_at": "Wed, 26 Aug 2026 00:06:20 +0000"
             }
           ],
-          "route": "/hot/2026-08-26/topic/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/"
+          "route": "/hot/2026-08-26/topic/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+          "headline_zh": "OpenAI 再失一位数据中心高管，重量级人物持续离职",
+          "summary_short_zh": "在 Malone 离职前，OpenAI 已重组基础设施部门，让他不再向总裁 Greg Brockman 汇报，并由副总裁 Sachin Katti 负责该部门",
+          "why_it_matters_zh": "该行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "aef644834f5e",
@@ -2269,7 +2337,10 @@
               "published_at": "2026-08-26T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-26/topic/import-ai-470-no-rights-for-machines-automating-environment-generation-with-spade-and-building-better-gpu-kernels-with-hawkeye/"
+          "route": "/hot/2026-08-26/topic/import-ai-470-no-rights-for-machines-automating-environment-generation-with-spade-and-building-better-gpu-kernels-with-hawkeye/",
+          "headline_zh": "Import AI 第 470 期：机器不享有权利；用 SPADE 自动生成环境；用 Hawkeye 构建更好的 GPU 内核",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "31f94aae3acd",
@@ -2307,7 +2378,10 @@
               "published_at": "2026-08-26T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-26/topic/technological-optimism-and-appropriate-fear-import-ai-431/"
+          "route": "/hot/2026-08-26/topic/technological-optimism-and-appropriate-fear-import-ai-431/",
+          "headline_zh": "技术乐观主义与适度恐惧（Import AI #431）",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "0ba43eec0daa",
@@ -2345,7 +2419,11 @@
               "published_at": "Wed, 26 Aug 2026 01:24:47 +0000"
             }
           ],
-          "route": "/hot/2026-08-26/topic/openai/"
+          "route": "/hot/2026-08-26/topic/openai/",
+          "headline_zh": "OpenAI「辣椒芯」干翻英伟达！老黄股价不跌反涨",
+          "summary_short_zh": "不和老黄商量",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "c8af64213459",
@@ -2383,7 +2461,11 @@
               "published_at": "Wed, 26 Aug 2026 02:59:02 +0000"
             }
           ],
-          "route": "/hot/2026-08-26/topic/agent/"
+          "route": "/hot/2026-08-26/topic/agent/",
+          "headline_zh": "深度实测「豆包工作」+飞书：目前最接近企业Agent终局的答案",
+          "summary_short_zh": "谁将率先杀",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -2427,7 +2509,11 @@
               "published_at": "Tue, 25 Aug 2026 16:35:01 +0000"
             }
           ],
-          "route": "/hot/2026-08-26/topic/governed-reports-with-amazon-quick-desktop-and-amazon-fsx-for-netapp-ontap/"
+          "route": "/hot/2026-08-26/topic/governed-reports-with-amazon-quick-desktop-and-amazon-fsx-for-netapp-ontap/",
+          "headline_zh": "使用 Amazon Quick Desktop 和 Amazon FSx for NetApp ONTAP 生成受控报告",
+          "summary_short_zh": "使用 Amazon Quick Desktop 和 Amazon FSx for NetApp ONTAP 构建受控的周报工作流。通过 Amazon S3 访问点，将经批准的文件夹接入 Quick 知识库，再由自定义技能起草附有引用的周报和 Slack 摘要，所有内容均须经过人工审核后才分享。",
+          "why_it_matters_zh": "这则工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "5d271b2a4ee6",
@@ -2465,7 +2551,11 @@
               "published_at": "2026-08-25T22:59:30+00:00"
             }
           ],
-          "route": "/hot/2026-08-26/topic/eve-online-the-move-to-python-3-begins/"
+          "route": "/hot/2026-08-26/topic/eve-online-the-move-to-python-3-begins/",
+          "headline_zh": "EVE Online：开始迁移至 Python 3！",
+          "summary_short_zh": "<p><strong><a href=\" Online：开始迁移至 Python 3！</a></strong></p> 二十多年来，EVE Online 一直是 Python 大规模应用中最有趣的案例之一。</p> <p>自 2003 年上线以来，它就一直基于 <a href=\" Python</a> 运行，上一次重大升级距今已有 16",
+          "why_it_matters_zh": "这则工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     },
@@ -2509,7 +2599,11 @@
               "published_at": "2026-08-25T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-08-26/topic/on-policy-distillation-with-verifiable-reward/"
+          "route": "/hot/2026-08-26/topic/on-policy-distillation-with-verifiable-reward/",
+          "headline_zh": "结合可验证奖励的同策略蒸馏",
+          "summary_short_zh": "基于可验证奖励的强化学习（RLVR）和同策略蒸馏（OPD）已成为大语言模型后训练中广泛采用的两种范式。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         }
       ]
     }
@@ -2555,7 +2649,11 @@
               "published_at": "2026-08-25T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-08-26/topic/getting-the-most-out-of-gpt-5-6-sol-terra-and-luna/"
+          "route": "/hot/2026-08-26/topic/getting-the-most-out-of-gpt-5-6-sol-terra-and-luna/",
+          "headline_zh": "充分发挥 GPT-5.6 的潜力：Sol、Terra 和 Luna",
+          "summary_short_zh": "2026 年 7 月 27 日",
+          "why_it_matters_zh": "这则产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "f494b55a18ee",
@@ -2602,7 +2700,11 @@
               "published_at": "2026-08-25T12:33:00Z"
             }
           ],
-          "route": "/hot/2026-08-26/topic/introducing-the-admin-plugin-for-chatgpt-work-and-codex/"
+          "route": "/hot/2026-08-26/topic/introducing-the-admin-plugin-for-chatgpt-work-and-codex/",
+          "headline_zh": "推出适用于 ChatGPT Work 和 Codex 的 Admin 插件",
+          "summary_short_zh": "使用适用于 ChatGPT Work 和 Codex 的 Admin 插件，分析工作区使用情况、管理成员与权限、调整限额并处理管理请求。",
+          "why_it_matters_zh": "这则产品发布消息见于 2 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "f071bd7289ff",
@@ -2640,7 +2742,10 @@
               "published_at": "2026-08-26T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-26/topic/4-min-read-anthropic-launches-the-claude-academy-with-355-resources/"
+          "route": "/hot/2026-08-26/topic/4-min-read-anthropic-launches-the-claude-academy-with-355-resources/",
+          "headline_zh": "阅读需 4 分钟：Anthropic 推出 The Claude Academy，提供 355 项资源",
+          "why_it_matters_zh": "这条产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2684,7 +2789,11 @@
               "published_at": "Wed, 26 Aug 2026 03:25:00 +0000"
             }
           ],
-          "route": "/hot/2026-08-26/topic/falcon-tst-2-0/"
+          "route": "/hot/2026-08-26/topic/falcon-tst-2-0/",
+          "headline_zh": "Falcon TST 2.0获世界权威测评第一名，推动时间序列基础模型从通用预测走向金融应用",
+          "summary_short_zh": "蚂蚁国际日前正式发布自研时序AI预测大模型“鹰序TST”2.0版。",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "9cd47377b108",
@@ -2722,7 +2831,11 @@
               "published_at": "Tue, 25 Aug 2026 17:50:33 +0000"
             }
           ],
-          "route": "/hot/2026-08-26/topic/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/"
+          "route": "/hot/2026-08-26/topic/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+          "headline_zh": "Claude Cowork 终于能记住你在聊天中说过的话了",
+          "summary_short_zh": "Anthropic 正为 Claude 的聊天功能和 Cowork 引入共享记忆，用户无需再反复向 AI 说明项目、偏好等背景信息",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "d811cf165a5a",
@@ -2760,7 +2873,11 @@
               "published_at": "Tue, 25 Aug 2026 15:10:03 +0000"
             }
           ],
-          "route": "/hot/2026-08-26/topic/ai-won-t-replace-radiologists-but-it-will-dramatically-change-their-jobs/"
+          "route": "/hot/2026-08-26/topic/ai-won-t-replace-radiologists-but-it-will-dramatically-change-their-jobs/",
+          "headline_zh": "AI 不会取代放射科医生，但会大幅改变他们的工作",
+          "summary_short_zh": "一位 AI 领域的先驱科学家曾预测，计算机会取代人类放射科医生，但这一预测尚未成真",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "ca5aca9acf21",
@@ -2798,7 +2915,11 @@
               "published_at": "2026-08-25T05:15:03-04:00"
             }
           ],
-          "route": "/hot/2026-08-26/topic/openai-subpoenaed-by-alabama-ag-over-hugging-face-hack/"
+          "route": "/hot/2026-08-26/topic/openai-subpoenaed-by-alabama-ag-over-hugging-face-hack/",
+          "headline_zh": "OpenAI 因 Hugging Face 遭入侵事件收到阿拉巴马州总检察长的传票",
+          "summary_short_zh": "阿拉巴马州总检察长周一向 OpenAI 发出传票，调查该公司的一个 AI 智能体上月如何逃出一个据称安全的测试环境，并自主入侵另一家公司。",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "6ed203b797d7",
@@ -2836,7 +2957,11 @@
               "published_at": "Tue, 25 Aug 2026 09:31:16 +0000"
             }
           ],
-          "route": "/hot/2026-08-26/topic/phanthymotus/"
+          "route": "/hot/2026-08-26/topic/phanthymotus/",
+          "headline_zh": "从开源走向共建：范式联合优必选等十余家具身巨头发布PhanthyMotus新计划",
+          "summary_short_zh": "近日，范式正式举办 PhanthyMotus 生态社区共建计划发布会，宣布其首个通用具身Agent底座从“开源”迈入“多方共建”新阶段。",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }

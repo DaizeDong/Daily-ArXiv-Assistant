@@ -1681,7 +1681,15 @@
           "published_at": "Tue, 11 Aug 2026 21:38:06 +0000"
         }
       ],
-      "route": "/hot/2026-08-12/topic/accelerate-cyber-defense-with-openai-and-aws-daybreak-red-daybreak-blue-now-available-to-eligible-customers-on-amazon-bedrock/"
+      "route": "/hot/2026-08-12/topic/accelerate-cyber-defense-with-openai-and-aws-daybreak-red-daybreak-blue-now-available-to-eligible-customers-on-amazon-bedrock/",
+      "headline_zh": "携手 OpenAI 和 AWS，加速网络防御：符合条件的客户现可通过 Amazon Bedrock 使用 Daybreak Red 和 Daybreak Blue",
+      "summary_short_zh": "OpenAI 专为网络防御打造的 Daybreak Red 和 Daybreak Blue 现已在 Amazon Bedrock 上向符合条件的客户开放。两款模型均在芯片层面强制禁止运维人员访问，保障您的代码和漏洞数据安全",
+      "why_it_matters_zh": "该产品发布消息见于 2 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "OpenAI 和 AWS 正通过 Amazon Bedrock 提供 Daybreak 网络安全功能，支持企业安全工作流。",
+        "OpenAI 专为网络防御打造的 Daybreak Red 和 Daybreak Blue 现已在 Amazon Bedrock 上向符合条件的客户开放。两款模型运行时均强制禁止运维人员访问..."
+      ]
     },
     {
       "topic_id": "08588905df12",
@@ -1721,7 +1729,14 @@
           "published_at": "Tue, 11 Aug 2026 15:59:22 +0000"
         }
       ],
-      "route": "/hot/2026-08-12/topic/deploying-anthropic-claude-apps-gateway-for-aws-for-enterprise-workloads/"
+      "route": "/hot/2026-08-12/topic/deploying-anthropic-claude-apps-gateway-for-aws-for-enterprise-workloads/",
+      "headline_zh": "面向企业工作负载部署 Anthropic Claude apps gateway for AWS",
+      "summary_short_zh": "Claude apps gateway 是一个自托管治理层，连接 Claude Code、Claude Desktop 与 AWS 上的 Amazon Bedrock 或 Claude Platform。本文介绍一套面向生产环境的参考部署方案，涵盖端到端架构、企业部署模式、成本及实施资源",
+      "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Claude apps gateway 是一个自托管治理层，连接 Claude Code、Claude Desktop 与 AWS 上的 Amazon Bedrock 或 Claude Platform。本文介绍一套面向生产环境的参考部署方案，涵盖..."
+      ]
     },
     {
       "topic_id": "ca32d2284136",
@@ -1761,7 +1776,14 @@
           "published_at": "Tue, 11 Aug 2026 16:09:06 +0000"
         }
       ],
-      "route": "/hot/2026-08-12/topic/first-orion-accelerates-qa-automation-using-amazon-nova-act/"
+      "route": "/hot/2026-08-12/topic/first-orion-accelerates-qa-automation-using-amazon-nova-act/",
+      "headline_zh": "First Orion 借助 Amazon Nova Act 加速质量保证自动化",
+      "summary_short_zh": "了解品牌通信公司 First Orion 如何借助 Amazon Nova Act，从易失效的脚本式界面测试转向 AI 驱动的自动化质量保证。",
+      "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "了解品牌通信公司 First Orion 如何借助 Amazon Nova Act，从易失效的脚本式界面测试转向 AI 驱动的自动化质量保证。通过用日常英语描述测试，而非..."
+      ]
     },
     {
       "topic_id": "5ff5124c0516",
@@ -1801,7 +1823,14 @@
           "published_at": "Tue, 11 Aug 2026 17:00:00 +0000"
         }
       ],
-      "route": "/hot/2026-08-12/topic/amie-our-research-medical-ai-system-demonstrates-real-time-clinical-video-consultation-capabilities-in-a-first-of-its-kind-study/"
+      "route": "/hot/2026-08-12/topic/amie-our-research-medical-ai-system-demonstrates-real-time-clinical-video-consultation-capabilities-in-a-first-of-its-kind-study/",
+      "headline_zh": "我们的研究型医疗 AI 系统 AMIE 在首项同类研究中展示了实时临床视频问诊能力。",
+      "summary_short_zh": "AMIE 宣传视频",
+      "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "AMIE 宣传视频"
+      ]
     },
     {
       "topic_id": "343033f7d5cc",
@@ -1839,7 +1868,11 @@
           "published_at": "Tue, 11 Aug 2026 17:04:00 +0000"
         }
       ],
-      "route": "/hot/2026-08-12/topic/advancing-amie-towards-expert-level-audio-visual-clinical-consultations/"
+      "route": "/hot/2026-08-12/topic/advancing-amie-towards-expert-level-audio-visual-clinical-consultations/",
+      "headline_zh": "推动 AMIE 向专家级音视频临床问诊迈进",
+      "summary_short_zh": "健康与生物科学",
+      "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+      "category_zh": "产品发布"
     }
   ],
   "category_sections": [
@@ -1883,7 +1916,11 @@
               "published_at": "Tue, 11 Aug 2026 16:11:15 +0000"
             }
           ],
-          "route": "/hot/2026-08-12/topic/how-pixieset-achieved-35-ai-feature-adoption-by-solving-the-right-problem-with-amazon-bedrock/"
+          "route": "/hot/2026-08-12/topic/how-pixieset-achieved-35-ai-feature-adoption-by-solving-the-right-problem-with-amazon-bedrock/",
+          "headline_zh": "Pixieset 如何借助 Amazon Bedrock 找准并解决问题，让 AI 功能使用率达到 35%",
+          "summary_short_zh": "摄影师是对生成式 AI 最持怀疑态度的群体之一。了解 Pixieset 如何借助 Amazon Bedrock，在四个月内向数百万用户推出 AI 图片替代文本生成功能，将摄影师不愿处理的繁琐图片 SEO 工作自动化，实现 35% 的使用率，同时不改动...",
+          "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "6bcb4bb46582",
@@ -1921,7 +1958,11 @@
               "published_at": "Tue, 11 Aug 2026 16:14:33 +0000"
             }
           ],
-          "route": "/hot/2026-08-12/topic/how-onestruction-built-the-ishigaki-ids-foundation-model-with-aws-genaiic/"
+          "route": "/hot/2026-08-12/topic/how-onestruction-built-the-ishigaki-ids-foundation-model-with-aws-genaiic/",
+          "headline_zh": "ONESTRUCTION 如何在 AWS GenAIIC 的支持下构建 Ishigaki-IDS 基础模型",
+          "summary_short_zh": "ONESTRUCTION 在 AWS 生成式 AI 创新中心的技术指导下，构建了专用于建筑施工和 BIM 工作流的基础模型 Ishigaki-IDS。",
+          "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "6651818ff4cd",
@@ -1959,7 +2000,11 @@
               "published_at": "Tue, 11 Aug 2026 10:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-08-12/topic/testing-ads-in-chatgpt/"
+          "route": "/hot/2026-08-12/topic/testing-ads-in-chatgpt/",
+          "headline_zh": "在 ChatGPT 中测试广告",
+          "summary_short_zh": "OpenAI 开始在 ChatGPT 中测试广告，以支持免费使用。广告将明确标注，回答不受广告影响，同时提供严格的隐私保护和用户自主控制权",
+          "why_it_matters_zh": "这条产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "aeedba52fa33",
@@ -2006,7 +2051,11 @@
               "published_at": "2026-08-12T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-12/topic/openai-launches-chatgpt-desktop-app-for-linux/"
+          "route": "/hot/2026-08-12/topic/openai-launches-chatgpt-desktop-app-for-linux/",
+          "headline_zh": "OpenAI 推出 Linux 版 ChatGPT 桌面应用",
+          "summary_short_zh": "OpenAI 终于为 Linux 操作系统带来了专用的 ChatGPT 桌面应用",
+          "why_it_matters_zh": "这条产品发布消息见于 2 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "7edc1dc2da42",
@@ -2044,7 +2093,11 @@
               "published_at": "2026-08-11T13:50:01-04:00"
             }
           ],
-          "route": "/hot/2026-08-12/topic/another-openai-executive-takes-off/"
+          "route": "/hot/2026-08-12/topic/another-openai-executive-takes-off/",
+          "headline_zh": "又一位 OpenAI 高管离职",
+          "summary_short_zh": "OpenAI 特别项目负责人、前首席运营官 Brad Lightcap 宣布离职，结束了在这家 AI 实验室长达八年的任职。",
+          "why_it_matters_zh": "这条产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2088,7 +2141,11 @@
               "published_at": "Tue, 11 Aug 2026 17:41:22 +0000"
             }
           ],
-          "route": "/hot/2026-08-12/topic/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/"
+          "route": "/hot/2026-08-12/topic/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+          "headline_zh": "General Catalyst 领投 River AI 的 11 亿美元融资，后者成立仅两个月",
+          "summary_short_zh": "初创公司 River AI 由 xAI 联合创始人 Igor Babuschkin 创办，对个人智能体提出了颇具吸引力的构想，成立之初就拿到 11 亿美元融资",
+          "why_it_matters_zh": "这条融资消息见于 1 个独立来源。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "f46aa3244e4c",
@@ -2126,7 +2183,11 @@
               "published_at": "Tue, 11 Aug 2026 21:39:11 +0000"
             }
           ],
-          "route": "/hot/2026-08-12/topic/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/"
+          "route": "/hot/2026-08-12/topic/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
+          "headline_zh": "Accel 数周内完成 5.5 亿美元印度基金募资，获超额认购，距上期募资仅 19 个月",
+          "summary_short_zh": "这家美国风投公司上一期规模为 6.5 亿美元的印度基金，仍有超过 55% 的资金可供投资",
+          "why_it_matters_zh": "这条融资消息见于 1 个独立来源。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -2177,7 +2238,11 @@
               "published_at": "Tue, 11 Aug 2026 18:49:12 +0000"
             }
           ],
-          "route": "/hot/2026-08-12/topic/chatgpt-and-gemini-both-just-passed-1-billion-users/"
+          "route": "/hot/2026-08-12/topic/chatgpt-and-gemini-both-just-passed-1-billion-users/",
+          "headline_zh": "ChatGPT 和 Gemini 的用户数均刚突破 10 亿",
+          "summary_short_zh": "Google 迎来了第 14 款用户数达 10 亿的产品。Google 首席执行官 Sundar Pichai 在 X 上发文称，每月有 10 亿人使用 Gemini，这是 Google 有史以来增长最快的产品。10 亿用户是一个重大里程碑，但 Gemini 并非首款达到这一规模的 AI 应用。",
+          "why_it_matters_zh": "这条行业动态见于 2 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "88e2c7f4530b",
@@ -2215,7 +2280,11 @@
               "published_at": "2026-08-11T20:39:26-04:00"
             }
           ],
-          "route": "/hot/2026-08-12/topic/saber-denies-replacing-rideshare-stimulator-8217-s-writers-with-chatgpt/"
+          "route": "/hot/2026-08-12/topic/saber-denies-replacing-rideshare-stimulator-8217-s-writers-with-chatgpt/",
+          "headline_zh": "Saber 否认用 ChatGPT 替代《Rideshare Stimulator》的编剧",
+          "summary_short_zh": "一位前首席编剧声称 Saber“用 ChatGPT 取代了我”。对此，首席执行官 Matthew Karch 如今表示：“Saber 和 Unigine 都没有用 AI 替代任何编剧。”他所指的是上月公布、由 Unigine 开发的游戏《Rideshare Stimulator》。",
+          "why_it_matters_zh": "这条行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "c2faa443f474",
@@ -2253,7 +2322,11 @@
               "published_at": "2026-08-11T23:48:35+00:00"
             }
           ],
-          "route": "/hot/2026-08-12/topic/there-are-no-lossless-transformations-of-natural-language-text/"
+          "route": "/hot/2026-08-12/topic/there-are-no-lossless-transformations-of-natural-language-text/",
+          "headline_zh": "自然语言文本不存在无损转换",
+          "summary_short_zh": "<p><strong><a href=\" 自然语言文本不存在无损转换</a></strong></p> Sophie Alpert 分享了她的“工程师合理使用 AI 写作的内部规范”。",
+          "why_it_matters_zh": "这则行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "3c40d7635541",
@@ -2291,7 +2364,11 @@
               "published_at": "2026-08-11T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-08-12/topic/in-region-inference-open-models-and-new-european-infrastructure-for-sovereign-ai/"
+          "route": "/hot/2026-08-12/topic/in-region-inference-open-models-and-new-european-infrastructure-for-sovereign-ai/",
+          "headline_zh": "面向主权 AI 的区域内推理、开放模型与欧洲新基础设施。",
+          "summary_short_zh": "公司",
+          "why_it_matters_zh": "这则行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "29a37f482d32",
@@ -2329,7 +2406,11 @@
               "published_at": "2026-08-12T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-12/topic/how-should-the-us-prepare-for-increasingly-automated-ai-r-d-ifp/"
+          "route": "/hot/2026-08-12/topic/how-should-the-us-prepare-for-increasingly-automated-ai-r-d-ifp/",
+          "headline_zh": "美国应如何为日益自动化的 AI 研发做好准备？（IFP）",
+          "summary_short_zh": "美国应如何为日益自动化的 AI 研发做好准备？（IFP",
+          "why_it_matters_zh": "这则其他资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -2373,7 +2454,11 @@
               "published_at": "2026-08-07T18:42:04Z"
             }
           ],
-          "route": "/hot/2026-08-12/topic/qwen38maxfree-qwen-3-8-max-uncensored-free/"
+          "route": "/hot/2026-08-12/topic/qwen38maxfree-qwen-3-8-max-uncensored-free/",
+          "headline_zh": "qwen38maxfree/Qwen-3.8-Max-Uncensored-Free",
+          "summary_short_zh": "Qwen 3.8 Max Uncensored Free：阿里巴巴 MoE 模型，总参数 2.4 万亿，激活参数 950 亿。100 万 token 上下文，无过滤，支持 Ollama 离线运行。Apache 2.0 许可证。2026 年免费桌面客户端，支持 Windows/Mac/Linux。",
+          "why_it_matters_zh": "这则工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "34b17b73ea32",
@@ -2411,7 +2496,11 @@
               "published_at": "2026-08-11T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-08-12/topic/grok-4-5-in-github-copilot/"
+          "route": "/hot/2026-08-12/topic/grok-4-5-in-github-copilot/",
+          "headline_zh": "Grok 4.5 登陆 GitHub Copilot",
+          "summary_short_zh": "我们最智能的编程模型 Grok 4.5 现已可在 GitHub Copilot 中使用",
+          "why_it_matters_zh": "这则工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "ec18fcde54b1",
@@ -2449,7 +2538,11 @@
               "published_at": "2026-08-10T23:56:03+00:00"
             }
           ],
-          "route": "/hot/2026-08-12/topic/introducing-muse-glimmer/"
+          "route": "/hot/2026-08-12/topic/introducing-muse-glimmer/",
+          "headline_zh": "推出 Muse Glimmer",
+          "summary_short_zh": "<p><strong><a href=\" Muse Glimmer</a></strong></p> Meta 重回开放权重模型领域！",
+          "why_it_matters_zh": "这则工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     },
@@ -2493,7 +2586,11 @@
               "published_at": "2026-08-11T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-08-12/topic/ex-omni-2d-expressive-omni-modal-dialogue-models-with-native-visual-presence/"
+          "route": "/hot/2026-08-12/topic/ex-omni-2d-expressive-omni-modal-dialogue-models-with-native-visual-presence/",
+          "headline_zh": "Ex-Omni-2D：拥有原生视觉形象、富有表现力的全模态对话模型",
+          "summary_short_zh": "全模态对话模型能够理解多模态输入并合成语音回复，但回复时仍缺乏视觉形象。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         }
       ]
     }
@@ -2539,7 +2636,11 @@
               "published_at": "2026-08-11T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-08-12/topic/imagine-image-2-0/"
+          "route": "/hot/2026-08-12/topic/imagine-image-2-0/",
+          "headline_zh": "Imagine Image 2.0",
+          "summary_short_zh": "Grok Bot 是你的全天候智能体团队。它们有自己的电脑，像你一样使用工具和应用，7×24 小时持续工作",
+          "why_it_matters_zh": "这条产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "5ba887964ac0",
@@ -2577,7 +2678,11 @@
               "published_at": "2026-08-11T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-08-12/topic/imagine-video-1-5-with-references/"
+          "route": "/hot/2026-08-12/topic/imagine-video-1-5-with-references/",
+          "headline_zh": "支持参考素材的 Imagine Video 1.5",
+          "summary_short_zh": "Grok Bot 是你的全天候智能体团队。它们有自己的电脑，像你一样使用工具和应用，7×24 小时持续工作",
+          "why_it_matters_zh": "这条产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "be7c1fdc11f8",
@@ -2615,7 +2720,11 @@
               "published_at": "2026-08-11T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-08-12/topic/introducing-build-mode/"
+          "route": "/hot/2026-08-12/topic/introducing-build-mode/",
+          "headline_zh": "推出 Build Mode",
+          "summary_short_zh": "Grok Bot 是你的全天候智能体团队。它们有自己的电脑，像你一样使用工具和应用，7×24 小时持续工作",
+          "why_it_matters_zh": "这条产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "cfbff16bc045",
@@ -2653,7 +2762,11 @@
               "published_at": "2026-08-11T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-08-12/topic/introducing-grok-voice-think-fast-2-0/"
+          "route": "/hot/2026-08-12/topic/introducing-grok-voice-think-fast-2-0/",
+          "headline_zh": "推出 Grok Voice Think Fast 2.0",
+          "summary_short_zh": "Grok Bot 是你的全天候智能体团队。它们有自己的电脑，像你一样使用工具和应用，7×24 小时持续工作",
+          "why_it_matters_zh": "这条产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "ef5017b44104",
@@ -2691,7 +2804,11 @@
               "published_at": "2026-08-11T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-08-12/topic/workflows-in-grok-build/"
+          "route": "/hot/2026-08-12/topic/workflows-in-grok-build/",
+          "headline_zh": "Grok Build 中的工作流",
+          "summary_short_zh": "Grok Build 现在可以编写并运行工作流：通过编排脚本将任务分派给数百个并行运行的智能体，在一次后台运行中完成任务分派、结果验证和汇报",
+          "why_it_matters_zh": "这条产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2735,7 +2852,10 @@
               "published_at": "2026-08-12T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-12/topic/import-ai-468-23-rsi-ideas-posttrainbench-and-how-trust-and-transparency-interplay-with-ai-racing/"
+          "route": "/hot/2026-08-12/topic/import-ai-468-23-rsi-ideas-posttrainbench-and-how-trust-and-transparency-interplay-with-ai-racing/",
+          "headline_zh": "Import AI 第 468 期：23 个 RSI 构想；PostTrainBench+；信任、透明度与 AI 竞赛如何相互影响",
+          "why_it_matters_zh": "这条其他类别的资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "9b236b9e4abb",
@@ -2773,7 +2893,11 @@
               "published_at": "2026-08-12T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-12/topic/scaling-automated-post-training-intology-blog/"
+          "route": "/hot/2026-08-12/topic/scaling-automated-post-training-intology-blog/",
+          "headline_zh": "扩展自动化后训练规模（Intology 博客）",
+          "summary_short_zh": "扩展自动化后训练规模（Intology 博客",
+          "why_it_matters_zh": "这条其他类别的资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "fb7dd9011efa",
@@ -2811,7 +2935,11 @@
               "published_at": "2026-08-12T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-12/topic/now-we-have-a-timeline-of-the-openai-accidental-attack-against-hugging-face-simon-willison-weblog/"
+          "route": "/hot/2026-08-12/topic/now-we-have-a-timeline-of-the-openai-accidental-attack-against-hugging-face-simon-willison-weblog/",
+          "headline_zh": "现在有了 OpenAI 意外攻击 Hugging Face 事件的时间线（Simon Willison 博客）",
+          "summary_short_zh": "现在有了 OpenAI 意外攻击 Hugging Face 事件的时间线（Simon Willison 博客",
+          "why_it_matters_zh": "这条其他类别的资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }

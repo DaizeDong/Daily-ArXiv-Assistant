@@ -1749,7 +1749,16 @@
           "published_at": "Wed, 09 Sep 2026 11:00:00 GMT"
         }
       ],
-      "route": "/hot/2026-09-10/topic/deploying-qwen3-8-2-4t-a95b-on-amazon-sagemaker-hyperpod-with-vllm/"
+      "route": "/hot/2026-09-10/topic/deploying-qwen3-8-2-4t-a95b-on-amazon-sagemaker-hyperpod-with-vllm/",
+      "headline_zh": "使用 vLLM 在 Amazon SageMaker HyperPod 上部署 Qwen3.8-2.4T-A95B",
+      "summary_short_zh": "了解如何使用 vLLM，在 Amazon SageMaker HyperPod 上部署拥有 2.4 万亿参数的开放权重模型 Qwen3.8-2.4T-A95B。本教程涵盖集群资源配置、NVFP4 量化，以及兼容 OpenAI 的端点，内置推理、工具调用和原生 MTP 推测解码功能。",
+      "why_it_matters_zh": "此次产品发布见于 5 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "OpenAI 的 GPT-6 Astra 现已在 Amazon Bedrock 正式上线。它以更深入的推理和更敏锐的判断，应对最具挑战的任务，并运行于 Amazon Bedrock 推理引擎...",
+        "了解 GPT-6 Astra：OpenAI 面向企业的最强模型，具备高级推理、计算机操作能力，以及更出色的写作与设计判断力。",
+        "循环深度、隐藏思维链及 Transformer 模块循环的近期研究概览"
+      ]
     },
     {
       "topic_id": "71d65ed425d0",
@@ -1796,7 +1805,14 @@
           "published_at": "Thu, 10 Sep 2026 07:25:39 +0000"
         }
       ],
-      "route": "/hot/2026-09-10/topic/introducing-chatgpt-images-2-5/"
+      "route": "/hot/2026-09-10/topic/introducing-chatgpt-images-2-5/",
+      "headline_zh": "推出 ChatGPT Images 2.5",
+      "summary_short_zh": "<p><strong><a href=\" ChatGPT Images 2.5</a></strong></p> 据称，OpenAI 的图像生成模型已“通过 ChatGPT Images 和 API 中的 GPT‑Image 模型累计生成超过 30 亿张图像”。",
+      "why_it_matters_zh": "此次产品发布见于 2 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "主打生成更快，细节更好，改图也终于越来越像“真·修图”了。"
+      ]
     },
     {
       "topic_id": "c99540ec6251",
@@ -1836,7 +1852,14 @@
           "published_at": "Wed, 09 Sep 2026 20:01:03 +0000"
         }
       ],
-      "route": "/hot/2026-09-10/topic/icymi-what-landed-for-ai-builders-in-august-2026/"
+      "route": "/hot/2026-09-10/topic/icymi-what-landed-for-ai-builders-in-august-2026/",
+      "headline_zh": "不容错过：2026 年 8 月面向 AI 开发者的新功能回顾",
+      "summary_short_zh": "回顾 2026 年 8 月 Amazon Bedrock、Amazon Bedrock AgentCore 和 Strands 面向 AI 开发者推出的新功能：OpenAI 模型支持百万 token 上下文、跨区域推理、可在专用计算资源上运行长达 14 天的智能体、扩大的 AWS GovCloud 可用范围，以及面向物理世界的 Strands Robots...",
+      "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "回顾 2026 年 8 月 Amazon Bedrock、Amazon Bedrock AgentCore 和 Strands 面向 AI 开发者推出的新功能：OpenAI 模型支持百万 token 上下文、跨区域推理，智能体最长可运行..."
+      ]
     },
     {
       "topic_id": "32d0be4cca76",
@@ -1885,7 +1908,14 @@
           "published_at": "2026-09-09T00:00:00.000Z"
         }
       ],
-      "route": "/hot/2026-09-10/topic/show-harness-just-a-vlm-agent-can-play-robots/"
+      "route": "/hot/2026-09-10/topic/show-harness-just-a-vlm-agent-can-play-robots/",
+      "headline_zh": "Show-Harness：只需一个 VLM 智能体就能操控机器人",
+      "summary_short_zh": "视觉语言基础模型（VLM）展现出对世界的广泛理解，但将这种理解转化为机器人控制能力仍面临挑战。",
+      "why_it_matters_zh": "这篇研究论文见于 2 个独立来源。",
+      "category_zh": "研究",
+      "key_takeaways_zh": [
+        "视觉语言基础模型（VLM）展现出对世界的广泛理解，但将这种理解转化为机器人控制能力仍面临挑战。我们提出了 Show-Harness，一种具身 H..."
+      ]
     },
     {
       "topic_id": "1f9a681877c7",
@@ -1925,7 +1955,14 @@
           "published_at": "Wed, 09 Sep 2026 18:11:12 +0000"
         }
       ],
-      "route": "/hot/2026-09-10/topic/how-heurist-finance-built-an-ai-native-investment-workbench-on-amazon-bedrock-agentcore/"
+      "route": "/hot/2026-09-10/topic/how-heurist-finance-built-an-ai-native-investment-workbench-on-amazon-bedrock-agentcore/",
+      "headline_zh": "Heurist Finance 如何基于 Amazon Bedrock AgentCore 构建 AI 原生投资工作台",
+      "summary_short_zh": "了解 Heurist 如何基于 Amazon Bedrock AgentCore 构建对话式 AI 投资工作台 Heurist Finance。",
+      "why_it_matters_zh": "此次收购见于 1 个独立来源。",
+      "category_zh": "市场信号",
+      "key_takeaways_zh": [
+        "了解 Heurist 如何基于 Amazon Bedrock AgentCore 构建对话式 AI 投资工作台 Heurist Finance。本客户案例展示了 AgentCore 支付功能、Identity、Memory、Code Interpreter 的应用..."
+      ]
     }
   ],
   "category_sections": [
@@ -1969,7 +2006,11 @@
               "published_at": "Wed, 09 Sep 2026 16:21:33 GMT"
             }
           ],
-          "route": "/hot/2026-09-10/topic/creator-spotlight-zairisu/"
+          "route": "/hot/2026-09-10/topic/creator-spotlight-zairisu/",
+          "headline_zh": "创作者专访：Zairisu",
+          "summary_short_zh": "<figure class=\"kg-card kg-image-card\"><img alt=\"alt\" class=\"kg-image\" height=\"1125\" src=\" width=\"2000\" /></figure><p>在最新一期创作者专访中，我们采访了 <a href=\"，这位创作者凭借独立游戏开发经验，帮助创建平台上的角色。",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "f64034df8241",
@@ -2007,7 +2048,11 @@
               "published_at": "Wed, 09 Sep 2026 16:00:00 +0000"
             }
           ],
-          "route": "/hot/2026-09-10/topic/get-ready-for-the-game-with-new-football-features-in-search/"
+          "route": "/hot/2026-09-10/topic/get-ready-for-the-game-with-new-football-features-in-search/",
+          "headline_zh": "搜索新增足球功能，助你迎接比赛",
+          "summary_short_zh": "一幅以鲜绿色为背景的插画，包含金色奖杯、蓝色头盔、银色哨子、橄榄球、迷你记分牌和战术示意图等美式橄榄球元素，并配有 Google 搜索 AI 模式的图标……",
+          "why_it_matters_zh": "这则产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "a03497d95226",
@@ -2045,7 +2090,11 @@
               "published_at": "Wed, 09 Sep 2026 16:40:00 -0400"
             }
           ],
-          "route": "/hot/2026-09-10/topic/mit-schwarzman-college-of-computing-launches-pilot-to-help-educators-teach-ai-across-disciplines/"
+          "route": "/hot/2026-09-10/topic/mit-schwarzman-college-of-computing-launches-pilot-to-help-educators-teach-ai-across-disciplines/",
+          "headline_zh": "麻省理工学院苏世民计算学院启动试点项目，帮助教师在各学科中教授 AI",
+          "summary_short_zh": "为期一周的暑期工作坊邀请高校教师来到校园，探讨如何根据各自的课堂需求调整 AI 和机器学习教学材料。",
+          "why_it_matters_zh": "这则产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "425a79dcc90d",
@@ -2083,7 +2132,11 @@
               "published_at": "2026-09-09T17:16:34-04:00"
             }
           ],
-          "route": "/hot/2026-09-10/topic/openai-s-sly-mathematical-breakthrough-sends-a-chill-through-academia/"
+          "route": "/hot/2026-09-10/topic/openai-s-sly-mathematical-breakthrough-sends-a-chill-through-academia/",
+          "headline_zh": "OpenAI 悄然取得的数学突破令学界心生寒意",
+          "summary_short_zh": "OpenAI 周二宣布攻克了数学界著名的千禧年大奖难题之一，这本该是值得庆祝的胜利时刻。这一成果无疑是一项重大成就，也鲜明展现了 AI 改变数学的惊人速度。",
+          "why_it_matters_zh": "这则产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "4b5801bc2d14",
@@ -2121,7 +2174,11 @@
               "published_at": "Wed, 09 Sep 2026 20:03:43 +0000"
             }
           ],
-          "route": "/hot/2026-09-10/topic/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/"
+          "route": "/hot/2026-09-10/topic/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
+          "headline_zh": "苹果秋季 iPhone 发布会内容一览：从折叠屏 iPhone Duo 到持续监听的 Apple Watch",
+          "summary_short_zh": "发布会的重头戏是这家科技巨头备受期待的首款折叠屏手机 iPhone Duo。",
+          "why_it_matters_zh": "这则产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2165,7 +2222,11 @@
               "published_at": "Thu, 10 Sep 2026 00:00:37 +0000"
             }
           ],
-          "route": "/hot/2026-09-10/topic/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/"
+          "route": "/hot/2026-09-10/topic/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+          "headline_zh": "AI 调研初创公司 Listen Labs 取消 15 亿美元融资，转而与 Salesforce 洽谈",
+          "summary_short_zh": "消息人士称，Listen Labs 放弃了已与 Menlo Ventures 签署的 C 轮融资条款书。",
+          "why_it_matters_zh": "这则融资消息见于 1 个独立来源。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "5e79abd1ab83",
@@ -2203,7 +2264,11 @@
               "published_at": "Wed, 09 Sep 2026 20:24:48 +0000"
             }
           ],
-          "route": "/hot/2026-09-10/topic/apple-watch-s-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/"
+          "route": "/hot/2026-09-10/topic/apple-watch-s-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
+          "headline_zh": "Apple Watch 的 AI 新功能正让人们逐渐接受科技设备时刻监听",
+          "summary_short_zh": "苹果表示，新款手表不会保存原始音频。但转写近期语音、总结周围对话等功能引发了新问题，涉及知情同意、隐私，以及人们知道自己随时可能被录音时的行为变化。",
+          "why_it_matters_zh": "这则融资消息见于 1 个独立来源。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -2258,7 +2323,11 @@
               "published_at": "2026-09-10T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-10/topic/paul-christiano-joins-openai-foundation-board/"
+          "route": "/hot/2026-09-10/topic/paul-christiano-joins-openai-foundation-board/",
+          "headline_zh": "Paul Christiano 加入 OpenAI 基金会董事会",
+          "summary_short_zh": "Paul Christiano 加入 OpenAI 基金会董事会及其安全与安保委员会，带来 AI 对齐、安全和标准方面的经验。",
+          "why_it_matters_zh": "这则其他类消息见于 3 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "8c81c45273ed",
@@ -2296,7 +2365,11 @@
               "published_at": "Wed, 09 Sep 2026 13:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-09-10/topic/the-ai-policy-window-is-open-we-need-to-act/"
+          "route": "/hot/2026-09-10/topic/the-ai-policy-window-is-open-we-need-to-act/",
+          "headline_zh": "AI 政策窗口期已经到来，我们需要行动起来。",
+          "summary_short_zh": "Chris Lehane 认为，面对更强的 AI 能力，需要更有力的安全证据、共同标准，并趁政策窗口尚未关闭采取持久的政策行动。",
+          "why_it_matters_zh": "这则行业动向消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "8171c7cce256",
@@ -2334,7 +2407,11 @@
               "published_at": "2026-09-10T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-10/topic/what-56-000-americans-told-us-about-ai-policy-center-for-shared-ai-prosperity/"
+          "route": "/hot/2026-09-10/topic/what-56-000-americans-told-us-about-ai-policy-center-for-shared-ai-prosperity/",
+          "headline_zh": "56,000 名美国人如何看待 AI 政策（Center for Shared AI Prosperity）",
+          "summary_short_zh": "56,000 名美国人如何看待 AI 政策（Center for Shared AI Prosperity",
+          "why_it_matters_zh": "这条行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "b656ef2d0f83",
@@ -2372,7 +2449,10 @@
               "published_at": "2026-09-10T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-10/topic/import-ai-472-deepmind-s-cheating-math-agents-populist-ai-policies-and-forethought-theorizes-a-nightwatchman/"
+          "route": "/hot/2026-09-10/topic/import-ai-472-deepmind-s-cheating-math-agents-populist-ai-policies-and-forethought-theorizes-a-nightwatchman/",
+          "headline_zh": "Import AI 第 472 期：DeepMind 的数学智能体作弊；民粹主义 AI 政策；Forethought 的“守夜人”构想",
+          "why_it_matters_zh": "这条其他类别的消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "37e8f1d2eec4",
@@ -2410,7 +2490,10 @@
               "published_at": "2026-09-10T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-10/topic/import-ai-471-why-hugging-face-worries-me-space-mining-five-eyes-on-ai/"
+          "route": "/hot/2026-09-10/topic/import-ai-471-why-hugging-face-worries-me-space-mining-five-eyes-on-ai/",
+          "headline_zh": "Import AI 第 471 期：为什么 Hugging Face 让我担忧；太空采矿；五眼联盟关注 AI",
+          "why_it_matters_zh": "这条其他类别的消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -2454,7 +2537,11 @@
               "published_at": "Wed, 09 Sep 2026 15:51:29 +0000"
             }
           ],
-          "route": "/hot/2026-09-10/topic/simplify-and-support-your-torchserve-workloads-using-ray-serve-deep-learning-containers/"
+          "route": "/hot/2026-09-10/topic/simplify-and-support-your-torchserve-workloads-using-ray-serve-deep-learning-containers/",
+          "headline_zh": "使用 Ray Serve 深度学习容器简化 TorchServe 工作负载并获得支持",
+          "summary_short_zh": "TorchServe 已停止维护，团队需要自行负责整个 GPU 推理技术栈。AWS Ray Serve 深度学习容器经过预先测试并有维护支持，已集成框架、GPU 驱动和模型服务层。",
+          "why_it_matters_zh": "这条工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "801ccf13baea",
@@ -2492,7 +2579,11 @@
               "published_at": "2026-09-09T23:58:32+00:00"
             }
           ],
-          "route": "/hot/2026-09-10/topic/blend-url-viewer/"
+          "route": "/hot/2026-09-10/topic/blend-url-viewer/",
+          "headline_zh": ".blend URL Viewer",
+          "summary_short_zh": "<p><strong>工具：</strong> <a href=\" URL Viewer</a></p> <p>我用 GPT-6 Astra 和 Blender 依然玩得很开心（见 <a href=\" TIL</a>）。</p> <p>作为 <a href=\" 法贝热复活节彩蛋</a>的忠实爱好者，我一直觉得，做些新彩蛋会很有趣，用来致敬流行",
+          "why_it_matters_zh": "这条工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     },
@@ -2536,7 +2627,11 @@
               "published_at": "2026-09-09T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-09-10/topic/programmable-world-model/"
+          "route": "/hot/2026-09-10/topic/programmable-world-model/",
+          "headline_zh": "可编程世界模型",
+          "summary_short_zh": "近期的视频世界模型带来的视觉体验越来越逼真，交互性也越来越强，但仍缺乏可靠机制，来确保在长时间交互中持续维护世界状态并执行可编程规则。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         }
       ]
     }
@@ -2582,7 +2677,11 @@
               "published_at": "2026-09-09T15:30:12-04:00"
             }
           ],
-          "route": "/hot/2026-09-10/topic/apple-s-new-iphone-camera-mode-promises-to-prove-your-photo-isn-t-ai/"
+          "route": "/hot/2026-09-10/topic/apple-s-new-iphone-camera-mode-promises-to-prove-your-photo-isn-t-ai/",
+          "headline_zh": "苹果 iPhone 相机新模式有望证明照片并非 AI 生成",
+          "summary_short_zh": "苹果将推出一种新方法，用于证明你拍摄的照片未经 AI 修改。名为“Reference Image”的新功能将于本月晚些时候随 iPhone 18 Pro 系列推出，据称会通过设备的新摄像头传感器“为捕捉到的每个像素签名”。iPhone 18 Pro 和",
+          "why_it_matters_zh": "这条产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "a934676895c9",
@@ -2620,7 +2719,11 @@
               "published_at": "2026-09-09T16:44:43-04:00"
             }
           ],
-          "route": "/hot/2026-09-10/topic/read-the-apple-document-explaining-how-new-listening-features-still-protect-your-privacy/"
+          "route": "/hot/2026-09-10/topic/read-the-apple-document-explaining-how-new-listening-features-still-protect-your-privacy/",
+          "headline_zh": "阅读苹果文档，了解新增聆听功能如何继续保护你的隐私",
+          "summary_short_zh": "在周三的 iPhone Duo 发布会上，苹果宣布了多项新的 Siri AI 音频智能功能，包括 Siri Recap、Live Rewind、Sound Recognition 和 Music Recognition。",
+          "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "54d561154c2b",
@@ -2658,7 +2761,11 @@
               "published_at": "2026-09-09T17:42:19-04:00"
             }
           ],
-          "route": "/hot/2026-09-10/topic/suno-releases-its-first-ai-music-model-made-with-record-industry-help/"
+          "route": "/hot/2026-09-10/topic/suno-releases-its-first-ai-music-model-made-with-record-industry-help/",
+          "headline_zh": "Suno 发布首款在唱片业支持下开发的 AI 音乐模型",
+          "summary_short_zh": "Suno 新推出的 v6 AI 音乐模型是其首款在唱片业支持下开发的模型。Suno 的 Jack Brody 告诉 The Verge，v6“从零开始训练，采用全新数据集，不包含以往模型所用的训练数据”。这些数据包括获得授权的内容",
+          "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "aebfc1c5d8cc",
@@ -2696,7 +2803,11 @@
               "published_at": "2026-09-09T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-09-10/topic/modernizing-complex-legacy-code-with-ai-agents/"
+          "route": "/hot/2026-09-10/topic/modernizing-complex-legacy-code-with-ai-agents/",
+          "headline_zh": "用 AI 智能体对复杂遗留代码进行现代化改造。",
+          "summary_short_zh": "解决方案",
+          "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "3b16869028fa",
@@ -2734,7 +2845,10 @@
               "published_at": "Wed, 09 Sep 2026 00:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-09-10/topic/the-open-source-ai-stack/"
+          "route": "/hot/2026-09-10/topic/the-open-source-ai-stack/",
+          "headline_zh": "开源 AI 技术栈",
+          "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "1cd367fe102c",
@@ -2772,7 +2886,11 @@
               "published_at": "2026-09-09T13:07:48-04:00"
             }
           ],
-          "route": "/hot/2026-09-10/topic/microsoft-has-new-ai-privacy-rules-for-schools/"
+          "route": "/hot/2026-09-10/topic/microsoft-has-new-ai-privacy-rules-for-schools/",
+          "headline_zh": "Microsoft 推出面向学校的 AI 隐私新规",
+          "summary_short_zh": "两大教育系统宣布禁用面向学生的 AI 一周后，Microsoft 同意遵守一套校园 AI 安全与隐私原则。",
+          "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2816,7 +2934,11 @@
               "published_at": "Thu, 10 Sep 2026 06:25:22 +0000"
             }
           ],
-          "route": "/hot/2026-09-10/topic/ai-ahacreator-500/"
+          "route": "/hot/2026-09-10/topic/ai-ahacreator-500/",
+          "headline_zh": "营销科技巨头蓝色光标与全球达人营销AI平台AhaCreator达成深度合作，让品牌更高效连接全球500万创作者",
+          "summary_short_zh": "从一次投放到一套增长系统，AI 让海外达人营销可规模化复制",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "72b32d6cbb10",
@@ -2854,7 +2976,11 @@
               "published_at": "Thu, 10 Sep 2026 08:17:05 +0000"
             }
           ],
-          "route": "/hot/2026-09-10/topic/3d-abot-earth-0-7-ai/"
+          "route": "/hot/2026-09-10/topic/3d-abot-earth-0-7-ai/",
+          "headline_zh": "全球首个3D原生城市世界模型ABot-Earth 0.7发布，构建AI理解真实世界的入口",
+          "summary_short_zh": "9月10日，阿里巴巴集团旗下高德正式发布全球首个3D原生城市世界模型ABot-Earth 0.7。",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -2896,7 +3022,11 @@
           "published_at": "Wed, 09 Sep 2026 15:45:24 +0000"
         }
       ],
-      "route": "/hot/2026-09-10/topic/automate-user-level-custom-permissions-for-amazon-quick/"
+      "route": "/hot/2026-09-10/topic/automate-user-level-custom-permissions-for-amazon-quick/",
+      "headline_zh": "自动管理 Amazon Quick 的用户级自定义权限",
+      "summary_short_zh": "Amazon Quick 的自定义权限支持按用户启用或禁用功能，实现最小权限访问。",
+      "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+      "category_zh": "产品发布"
     }
   ],
   "x_buzz": [

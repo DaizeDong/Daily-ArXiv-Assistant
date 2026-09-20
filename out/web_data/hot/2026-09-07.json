@@ -1162,7 +1162,14 @@
           "published_at": "Mon, 07 Sep 2026 00:00:00 GMT"
         }
       ],
-      "route": "/hot/2026-09-07/topic/supporting-independent-journalism-in-ukraine/"
+      "route": "/hot/2026-09-07/topic/supporting-independent-journalism-in-ukraine/",
+      "headline_zh": "支持乌克兰独立新闻事业",
+      "summary_short_zh": "OpenAI、AIRPPU 和 WAN-IFRA 推出 AI 计划，帮助乌克兰新闻机构加强创新、增强韧性，推动独立新闻事业发展",
+      "why_it_matters_zh": "有 1 个独立来源提及此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "OpenAI、AIRPPU 和 WAN-IFRA 推出 AI 计划，帮助乌克兰新闻机构加强创新、增强韧性，推动独立新闻事业发展。"
+      ]
     },
     {
       "topic_id": "f75040fd4884",
@@ -1210,7 +1217,16 @@
           "published_at": "2026-09-02T06:38:25Z"
         }
       ],
-      "route": "/hot/2026-09-07/topic/dreamers-laboratory-video-input-to-modern-llm/"
+      "route": "/hot/2026-09-07/topic/dreamers-laboratory-video-input-to-modern-llm/",
+      "headline_zh": "dreamers-laboratory/video-input-to-modern-llm",
+      "summary_short_zh": "让大语言模型看视频，同时避免超出上下文窗口：使用 ffmpeg 按指定分辨率采样视频帧，按模型系列估算 token 用量，根据预算调整，并生成缩略图总览",
+      "why_it_matters_zh": "有 1 个独立来源提及此工具。",
+      "category_zh": "工具",
+      "key_takeaways_zh": [
+        "通过多个工作节点反复开展大规模信息采集的通用引擎。",
+        "对基于模型的解决方案进行准确率、P95 延迟和成本基准测试，并逐字段对照真值评分。",
+        "使用多个开源模型从图像重建三维网格，并评分选出表现最佳的模型。"
+      ]
     },
     {
       "topic_id": "0c96bdf97166",
@@ -1263,7 +1279,15 @@
           "published_at": "2026-09-05T23:27:48+00:00"
         }
       ],
-      "route": "/hot/2026-09-07/topic/introducing-gpt-6-astra-for-developers/"
+      "route": "/hot/2026-09-07/topic/introducing-gpt-6-astra-for-developers/",
+      "headline_zh": "推出面向开发者的 GPT-6 Astra",
+      "summary_short_zh": "<p><strong><a href=\" 面向开发者的 GPT-6 Astra</a></strong></p> 稍不留神就会错过，但这里有个熟悉的身影：<a href=\" <blockquote> <p>整体来看，Astra 更注重细节，更能理解用户的提示，也能生成更复杂精细的内容。",
+      "why_it_matters_zh": "有 3 个独立来源提及此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "阅读需 4 分钟：OpenAI 推出 GPT-6 Astra",
+        "机械臂上的 GPT-6 Astra"
+      ]
     },
     {
       "topic_id": "be0971087c4e",
@@ -1312,7 +1336,14 @@
           "published_at": "2026-09-05T22:15:52Z"
         }
       ],
-      "route": "/hot/2026-09-07/topic/okf-memory-okf-agent-memory/"
+      "route": "/hot/2026-09-07/topic/okf-memory-okf-agent-memory/",
+      "headline_zh": "okf-memory/okf-agent-memory",
+      "summary_short_zh": "面向 AI 编程智能体的 Git 原生持久记忆。实现 Google OKF v0.2，提供耗时低于 300 微秒的内存 BM25 搜索、内嵌 MCP 服务器和渐进式披露。无需任何外部数据库或依赖，即可将 token 冗余减少 80%。纯 Go 编写",
+      "why_it_matters_zh": "有 2 个独立来源提及此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "面向 AI 编程智能体的 Git 原生持久记忆。实现 Google OKF v0.2，提供耗时低于 300 微秒的内存 BM25 搜索、内嵌 MCP 服务器和渐进式披露。将 token 冗余减少 80%，同时……"
+      ]
     },
     {
       "topic_id": "5a873bcf027d",
@@ -1361,7 +1392,14 @@
           "published_at": "2026-09-06T23:57:40+00:00"
         }
       ],
-      "route": "/hot/2026-09-07/topic/research-acceleration-the-view-inside-openai/"
+      "route": "/hot/2026-09-07/topic/research-acceleration-the-view-inside-openai/",
+      "headline_zh": "加速研究：OpenAI 内部视角",
+      "summary_short_zh": "在 OpenAI，编程智能体正在重塑 AI 研究。了解有关智能体使用情况、实验推进速度、任务复杂度和研究加速的早期数据",
+      "why_it_matters_zh": "有 2 个独立来源提及此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "在 OpenAI，编程智能体正在重塑 AI 研究。了解有关智能体使用情况、实验推进速度、任务复杂度和研究加速的早期数据。"
+      ]
     }
   ],
   "category_sections": [
@@ -1405,7 +1443,11 @@
               "published_at": "Sun, 06 Sep 2026 09:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-09-07/topic/an-alien-mind/"
+          "route": "/hot/2026-09-07/topic/an-alien-mind/",
+          "headline_zh": "异类心智",
+          "summary_short_zh": "Jakub Pachocki 探讨能力日益强大的 AI，以及让其始终保持对齐的挑战。他呼吁加强安全保障和国际协调",
+          "why_it_matters_zh": "这条产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -1449,7 +1491,11 @@
               "published_at": "2026-09-07T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-07/topic/five-country-ministerial-2026-australian-government-department-of-home-affairs/"
+          "route": "/hot/2026-09-07/topic/five-country-ministerial-2026-australian-government-department-of-home-affairs/",
+          "headline_zh": "2026 年五国部长级会议（澳大利亚政府内政部）",
+          "summary_short_zh": "2026 年五国部长级会议（澳大利亚政府内政部",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "37e8f1d2eec4",
@@ -1487,7 +1533,10 @@
               "published_at": "2026-09-07T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-07/topic/import-ai-471-why-hugging-face-worries-me-space-mining-five-eyes-on-ai/"
+          "route": "/hot/2026-09-07/topic/import-ai-471-why-hugging-face-worries-me-space-mining-five-eyes-on-ai/",
+          "headline_zh": "Import AI 第 471 期：为何 Hugging Face 让我担忧；太空采矿；五眼联盟关注 AI",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "8192e4491b66",
@@ -1525,7 +1574,11 @@
               "published_at": "2026-09-07T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-07/topic/the-rise-and-fall-of-agent-civilizations-dwarkesh-podcast/"
+          "route": "/hot/2026-09-07/topic/the-rise-and-fall-of-agent-civilizations-dwarkesh-podcast/",
+          "headline_zh": "智能体文明的兴衰（Dwarkesh Podcast）",
+          "summary_short_zh": "智能体文明的兴衰（Dwarkesh Podcast",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "fe37255670eb",
@@ -1563,7 +1616,10 @@
               "published_at": "Mon, 07 Sep 2026 06:03:34 +0000"
             }
           ],
-          "route": "/hot/2026-09-07/topic/hidream-ai-hidream-o1-embodied/"
+          "route": "/hot/2026-09-07/topic/hidream-ai-hidream-o1-embodied/",
+          "headline_zh": "原生全模态技术战略闭环，智象（HiDream.ai）发布具身世界模型HiDream-O1-Embodied",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "253207ca8968",
@@ -1601,7 +1657,11 @@
               "published_at": "Mon, 07 Sep 2026 06:53:26 +0000"
             }
           ],
-          "route": "/hot/2026-09-07/topic/agent-12/"
+          "route": "/hot/2026-09-07/topic/agent-12/",
+          "headline_zh": "国内首份办公Agent用户行为报告发布：北京用户量全国居首，海外用户占比超12%",
+          "summary_short_zh": "9月7日，国内首份《中国办公Agent用户行为不完全报告》在京发布。",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -1645,7 +1705,11 @@
               "published_at": "2026-09-02T13:36:52Z"
             }
           ],
-          "route": "/hot/2026-09-07/topic/localai-org-motion-bricks-cpp/"
+          "route": "/hot/2026-09-07/topic/localai-org-motion-bricks-cpp/",
+          "headline_zh": "localai-org/motion-bricks.cpp",
+          "summary_short_zh": "NVIDIA MotionBricks 的 GGML/C++ 移植版，利用神经网络根据关键帧动态生成动画，可用于游戏或机器人。",
+          "why_it_matters_zh": "这款工具见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     }
@@ -1691,7 +1755,11 @@
               "published_at": "Mon, 07 Sep 2026 08:36:30 +0000"
             }
           ],
-          "route": "/hot/2026-09-07/topic/4b-qwen-glm-arc-agi-3/"
+          "route": "/hot/2026-09-07/topic/4b-qwen-glm-arc-agi-3/",
+          "headline_zh": "菲尔兹奖得主入局大模型！4B手机Qwen+云端GLM刷爆ARC-AGI 3",
+          "summary_short_zh": "“在两个模型之间找到数学上的共同基础其实非常困难”",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "ed09f34c4cf6",
@@ -1729,7 +1797,11 @@
               "published_at": "Mon, 07 Sep 2026 09:04:06 +0000"
             }
           ],
-          "route": "/hot/2026-09-07/topic/gpt-6-astra-sol-6/"
+          "route": "/hot/2026-09-07/topic/gpt-6-astra-sol-6/",
+          "headline_zh": "GPT-6不只Astra！Sol内测结果曝光，速度快6倍",
+          "summary_short_zh": "OpenAI研究院人均带3个AI实习生",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "fa5aa233cd82",
@@ -1767,7 +1839,11 @@
               "published_at": "2026-09-06T14:40:07+00:00"
             }
           ],
-          "route": "/hot/2026-09-07/topic/the-purpose-of-dns-is-to-spread-scams/"
+          "route": "/hot/2026-09-07/topic/the-purpose-of-dns-is-to-spread-scams/",
+          "headline_zh": "DNS 的用途是传播骗局",
+          "summary_short_zh": "<p><strong><a href=\" DNS 的用途是传播骗局</a></strong></p> Terence Eden 分享了一些令人不安的统计数据，以支持他的观点：“域名系统似乎就是为犯罪分子提供渠道，让他们以高得可怕的频率实施诈骗。”</p> <p>在 <a href=\" Interisle",
+          "why_it_matters_zh": "这一行业动向见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "dba1df54ec20",
@@ -1805,7 +1881,11 @@
               "published_at": "Sun, 06 Sep 2026 20:47:37 +0000"
             }
           ],
-          "route": "/hot/2026-09-07/topic/authors-push-back-as-publishers-and-agents-make-claims-on-anthropic-settlement/"
+          "route": "/hot/2026-09-07/topic/authors-push-back-as-publishers-and-agents-make-claims-on-anthropic-settlement/",
+          "headline_zh": "出版商和经纪人要求分得 Anthropic 和解金，作家提出异议",
+          "summary_short_zh": "作家称，出版商索要的和解金似乎超出了其应得份额",
+          "why_it_matters_zh": "这则其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "da81974e5b1a",
@@ -1843,7 +1923,11 @@
               "published_at": "Sun, 06 Sep 2026 16:45:00 +0000"
             }
           ],
-          "route": "/hot/2026-09-07/topic/travis-kalanick-s-atoms-might-be-getting-into-the-robotaxi-business/"
+          "route": "/hot/2026-09-07/topic/travis-kalanick-s-atoms-might-be-getting-into-the-robotaxi-business/",
+          "headline_zh": "Travis Kalanick 旗下的 Atoms 或将涉足无人驾驶出租车业务",
+          "summary_short_zh": "这位 Uber 创始人曾表示，Atoms 将帮助他完成“未竟之事”。",
+          "why_it_matters_zh": "这则其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "e35ce30da35a",
@@ -1888,7 +1972,11 @@
               "published_at": "Sat, 05 Sep 2026 22:49:55 +0000"
             }
           ],
-          "route": "/hot/2026-09-07/topic/seattle-times-and-newsday-sue-openai-and-microsoft-for-infringement/"
+          "route": "/hot/2026-09-07/topic/seattle-times-and-newsday-sue-openai-and-microsoft-for-infringement/",
+          "headline_zh": "《西雅图时报》和《新闻日报》起诉 OpenAI 和微软侵权",
+          "summary_short_zh": "《西雅图时报》和《新闻日报》是最新一批将 OpenAI 告上法庭、指控其侵犯版权的原告。",
+          "why_it_matters_zh": "这则其他类资讯见于 2 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "b781902dfc27",
@@ -1926,7 +2014,11 @@
               "published_at": "2026-09-06T09:08:06+00:00"
             }
           ],
-          "route": "/hot/2026-09-07/topic/there-s-no-limit-to-how-bad-code-can-get/"
+          "route": "/hot/2026-09-07/topic/there-s-no-limit-to-how-bad-code-can-get/",
+          "headline_zh": "代码烂起来没有下限",
+          "summary_short_zh": "<p><a href=\" 评论</a>，发表于<a href=\" 代码烂起来没有下限</a> &mdash; Lobste.rs。</p><p><em>[回复一条关于技术债过重时推倒重来的评论]</em></p> <p>以我的经验，这种做法<em>极少</em>奏效。</p> <p>你",
+          "why_it_matters_zh": "这则其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "58c2cc181105",
@@ -1964,7 +2056,10 @@
               "published_at": "2026-09-07T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-07/topic/4-min-read-zuck-is-back-in-the-game-with-new-frontier-model/"
+          "route": "/hot/2026-09-07/topic/4-min-read-zuck-is-back-in-the-game-with-new-frontier-model/",
+          "headline_zh": "阅读需 4 分钟｜扎克伯格携全新前沿模型重返赛场",
+          "why_it_matters_zh": "这则其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -2006,7 +2101,11 @@
           "published_at": "2026-09-05T21:07:55Z"
         }
       ],
-      "route": "/hot/2026-09-07/topic/bangtutorial-bang-motion/"
+      "route": "/hot/2026-09-07/topic/bangtutorial-bang-motion/",
+      "headline_zh": "bangtutorial/bang-motion",
+      "summary_short_zh": "用于在浏览器中制作动态图形的智能体技能，支持片头、宣传片、过场短片、动态文字排版及五种解说动画风格，呈现视频般的动态效果，而非幻灯片效果。仅输出一个 index.html 文件。适用于 Claude Code、Codex、Gemini CLI、Cursor。",
+      "why_it_matters_zh": "这款工具见于 1 个独立来源。",
+      "category_zh": "工具"
     },
     {
       "topic_id": "69bfb409603b",
@@ -2044,7 +2143,11 @@
           "published_at": "2026-09-02T02:41:51Z"
         }
       ],
-      "route": "/hot/2026-09-07/topic/shtjww-llm-inference-capacity-handbook/"
+      "route": "/hot/2026-09-07/topic/shtjww-llm-inference-capacity-handbook/",
+      "headline_zh": "shtjww/llm-inference-capacity-handbook",
+      "summary_short_zh": "大模型推理案头手册（开源版）：给定 GPU 算力，一个模型能扛多少 QPS？三层模型 × 三面墙 × 排队论 × 开环压测",
+      "why_it_matters_zh": "这款工具见于 1 个独立来源。",
+      "category_zh": "工具"
     },
     {
       "topic_id": "66a38e8a554e",
@@ -2082,7 +2185,11 @@
           "published_at": "2026-09-02T19:24:07Z"
         }
       ],
-      "route": "/hot/2026-09-07/topic/internetphysics-live-classroom/"
+      "route": "/hot/2026-09-07/topic/internetphysics-live-classroom/",
+      "headline_zh": "internetphysics/live-classroom",
+      "summary_short_zh": "一个直播电视频道，你输入什么，它就教什么。课程由大语言模型规划，再由 MiniMax H3 Max Turbo 即时渲染成 20 世纪 70 年代风格的卡通，在 3D 教室里的 CRT 电视上播放。需自备 fal 密钥。",
+      "why_it_matters_zh": "这款工具见于 1 个独立来源。",
+      "category_zh": "工具"
     }
   ],
   "x_buzz": [

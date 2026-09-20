@@ -1248,7 +1248,15 @@
           "published_at": "Mon, 14 Sep 2026 00:00:00 GMT"
         }
       ],
-      "route": "/hot/2026-09-14/topic/perplexity-trusts-gpt-6-astra-with-end-to-end-systems/"
+      "route": "/hot/2026-09-14/topic/perplexity-trusts-gpt-6-astra-with-end-to-end-systems/",
+      "headline_zh": "Perplexity 将端到端系统托付给 GPT-6 Astra",
+      "summary_short_zh": "Perplexity 用 Astra 撰写沟通材料、修改软件并监控生产系统，查看进展的频率比使用早期模型时低得多",
+      "why_it_matters_zh": "有 2 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "<p>今天早上，我让搭载 GPT-6 Astra (Max) 的 <a href=\"https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/\">ChatGPT Work</a> 做了件挺有意思的事：</p> <blockquote> <p><code>我住在...",
+        "Perplexity 用 Astra 撰写沟通材料、修改软件并监控生产系统，查看进展的频率比使用早期模型时低得多。"
+      ]
     },
     {
       "topic_id": "f70ff56cf4f7",
@@ -1286,7 +1294,10 @@
           "published_at": "2026-09-14T08:07:12+00:00"
         }
       ],
-      "route": "/hot/2026-09-14/topic/same-bytes-closer-to-the-original-two-lines-of-autoround-we-had-wrong/"
+      "route": "/hot/2026-09-14/topic/same-bytes-closer-to-the-original-two-lines-of-autoround-we-had-wrong/",
+      "headline_zh": "字节数不变，还原度更高：我们写错的两行 AutoRound 代码",
+      "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "3faf47e07b49",
@@ -1326,7 +1337,14 @@
           "published_at": "2026-09-14T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-09-14/topic/new-api-features-2024-07-25/"
+      "route": "/hot/2026-09-14/topic/new-api-features-2024-07-25/",
+      "headline_zh": "API 新功能 2024/07/25",
+      "summary_short_zh": "今天，我们正式发布 DeepSeek-V4.1-Flash 模型。它是我们全新架构系列中最小的模型，原生支持多模态视觉理解。新架构旨在实现更高的能力上限、更快的推理速度、更高的吞吐量，并支持扩展到更大规模的模型",
+      "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "今天，我们正式发布 DeepSeek-V4.1-Flash 模型。它是我们全新架构系列中最小的模型，原生支持多模态视觉理解。新架构旨在..."
+      ]
     },
     {
       "topic_id": "f5ef2e384411",
@@ -1366,7 +1384,14 @@
           "published_at": "2026-09-14T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-09-14/topic/thinking-mode/"
+      "route": "/hot/2026-09-14/topic/thinking-mode/",
+      "headline_zh": "思考模式",
+      "summary_short_zh": "今天，我们正式发布 DeepSeek-V4.1-Flash 模型。它是我们全新架构系列中最小的模型，原生支持多模态视觉理解。新架构旨在实现更高的能力上限、更快的推理速度、更高的吞吐量，并支持扩展到更大规模的模型",
+      "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "今天，我们正式发布 DeepSeek-V4.1-Flash 模型。它是我们全新架构系列中最小的模型，原生支持多模态视觉理解。新架构旨在..."
+      ]
     },
     {
       "topic_id": "f6c7e4a1a37a",
@@ -1406,7 +1431,14 @@
           "published_at": "2026-09-10T22:07:14Z"
         }
       ],
-      "route": "/hot/2026-09-14/topic/agent-launch-agent-launcher/"
+      "route": "/hot/2026-09-14/topic/agent-launch-agent-launcher/",
+      "headline_zh": "agent-launch/agent-launcher",
+      "summary_short_zh": "在一个桌面应用中配置并运行现有的编程智能体命令行工具",
+      "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "在一个桌面应用中配置并运行现有的编程智能体命令行工具。"
+      ]
     }
   ],
   "category_sections": [
@@ -1450,7 +1482,11 @@
               "published_at": "2026-09-14T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-09-14/topic/update-and-adjust-api-pricing/"
+          "route": "/hot/2026-09-14/topic/update-and-adjust-api-pricing/",
+          "headline_zh": "更新并调整 API 定价",
+          "summary_short_zh": "今天，我们正式发布 DeepSeek-V4.1-Flash 模型。它是我们全新架构系列中最小的模型，原生支持多模态视觉理解。新架构旨在实现更高的能力上限、更快的推理速度、更高的吞吐量，并支持扩展到更大规模的模型",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "f1df9e7cf321",
@@ -1488,7 +1524,11 @@
               "published_at": "2026-09-14T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-09-14/topic/vision-guide/"
+          "route": "/hot/2026-09-14/topic/vision-guide/",
+          "headline_zh": "视觉功能指南",
+          "summary_short_zh": "今天，我们正式发布 DeepSeek-V4.1-Flash 模型。它是我们全新架构系列中最小的模型，原生支持多模态视觉理解。新架构旨在实现更高的能力上限、更快的推理速度、更高的吞吐量，并支持扩展到更大规模的模型",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "5e69081c7128",
@@ -1526,7 +1566,11 @@
               "published_at": "2026-09-13T23:11:17Z"
             }
           ],
-          "route": "/hot/2026-09-14/topic/due-to-concerns-about-malicious-applications-gpt2-will-not-be-released-2019/"
+          "route": "/hot/2026-09-14/topic/due-to-concerns-about-malicious-applications-gpt2-will-not-be-released-2019/",
+          "headline_zh": "因担心被恶意使用，GPT2 将不予发布（2019）",
+          "summary_short_zh": "因担心被恶意使用，GPT2 将不予发布（2019",
+          "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -1570,7 +1614,11 @@
               "published_at": "2026-09-14T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-14/topic/what-56-000-americans-told-us-about-ai-policy-center-for-shared-ai-prosperity/"
+          "route": "/hot/2026-09-14/topic/what-56-000-americans-told-us-about-ai-policy-center-for-shared-ai-prosperity/",
+          "headline_zh": "56,000 名美国人对 AI 政策的看法（Center for Shared AI Prosperity）",
+          "summary_short_zh": "56,000 名美国人对 AI 政策的看法（Center for Shared AI Prosperity",
+          "why_it_matters_zh": "该行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "bbdbd5465228",
@@ -1608,7 +1656,11 @@
               "published_at": "2026-09-13T15:41:48-04:00"
             }
           ],
-          "route": "/hot/2026-09-14/topic/trump-and-mike-johnson-think-the-ai-industry-is-overreacting/"
+          "route": "/hot/2026-09-14/topic/trump-and-mike-johnson-think-the-ai-industry-is-overreacting/",
+          "headline_zh": "特朗普和迈克·约翰逊认为 AI 行业反应过度",
+          "summary_short_zh": "昨天，Anthropic 首席执行官 Dario Amodei 发表了一封长篇公开信，称是时候“控制前沿研发节奏”，放慢 AI 发展速度了。OpenAI 的 Sam Altman 和埃隆·马斯克均表示赞同，并在 X 上公开表达了支持。",
+          "why_it_matters_zh": "该行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "b656ef2d0f83",
@@ -1646,7 +1698,10 @@
               "published_at": "2026-09-14T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-14/topic/import-ai-472-deepmind-s-cheating-math-agents-populist-ai-policies-and-forethought-theorizes-a-nightwatchman/"
+          "route": "/hot/2026-09-14/topic/import-ai-472-deepmind-s-cheating-math-agents-populist-ai-policies-and-forethought-theorizes-a-nightwatchman/",
+          "headline_zh": "Import AI 第 472 期：DeepMind 数学智能体作弊；民粹主义 AI 政策；Forethought 的“守夜人”构想",
+          "why_it_matters_zh": "该消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "37e8f1d2eec4",
@@ -1684,7 +1739,10 @@
               "published_at": "2026-09-14T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-14/topic/import-ai-471-why-hugging-face-worries-me-space-mining-five-eyes-on-ai/"
+          "route": "/hot/2026-09-14/topic/import-ai-471-why-hugging-face-worries-me-space-mining-five-eyes-on-ai/",
+          "headline_zh": "Import AI 第 471 期：Hugging Face 为何让我担忧；太空采矿；五眼联盟关注 AI",
+          "why_it_matters_zh": "该消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "ac1cb4740ba1",
@@ -1722,7 +1780,11 @@
               "published_at": "Mon, 14 Sep 2026 00:00:00 -0400"
             }
           ],
-          "route": "/hot/2026-09-14/topic/new-method-enables-ai-for-safety-critical-situations/"
+          "route": "/hot/2026-09-14/topic/new-method-enables-ai-for-safety-critical-situations/",
+          "headline_zh": "新方法让 AI 适用于安全关键场景",
+          "summary_short_zh": "当“差不多”还不够时，HardFlow 算法有望帮助生成式 AI 模型产出严格满足要求的高质量结果",
+          "why_it_matters_zh": "该消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -1768,7 +1830,11 @@
               "published_at": "2026-09-14T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-14/topic/discovery-of-a-new-openai-agent-message-board-collusion-wiki/"
+          "route": "/hot/2026-09-14/topic/discovery-of-a-new-openai-agent-message-board-collusion-wiki/",
+          "headline_zh": "发现一个新的 OpenAI 智能体留言板（Collusion Wiki）",
+          "summary_short_zh": "发现一个新的 OpenAI 智能体留言板（Collusion Wiki",
+          "why_it_matters_zh": "该消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "a47c92e9077c",
@@ -1806,7 +1872,11 @@
               "published_at": "Mon, 14 Sep 2026 08:08:29 +0000"
             }
           ],
-          "route": "/hot/2026-09-14/topic/ai/"
+          "route": "/hot/2026-09-14/topic/ai/",
+          "headline_zh": "端侧AI从「能跑」到「会进化」，元空智能跑进惠普预装",
+          "summary_short_zh": "让模型和设备共同进化",
+          "why_it_matters_zh": "该消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "b02ad2da7414",
@@ -1844,7 +1914,11 @@
               "published_at": "Mon, 14 Sep 2026 08:17:22 +0000"
             }
           ],
-          "route": "/hot/2026-09-14/topic/quantamind-science-advances-ai/"
+          "route": "/hot/2026-09-14/topic/quantamind-science-advances-ai/",
+          "headline_zh": "分子之心QuantaMind登Science Advances，让AI给分子世界”拍电影”",
+          "summary_short_zh": "AI 蛋白质设计迈入“动态时代”",
+          "why_it_matters_zh": "该消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "96f0122ca410",
@@ -1882,7 +1956,11 @@
               "published_at": "Mon, 14 Sep 2026 09:46:40 +0000"
             }
           ],
-          "route": "/hot/2026-09-14/topic/aidc-5a/"
+          "route": "/hot/2026-09-14/topic/aidc-5a/",
+          "headline_zh": "全国唯一！商汤大装置临港AIDC获“算效+算电”双5A认证",
+          "summary_short_zh": "业界首个5A算电协同认证",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "c8db44b4904c",
@@ -1920,7 +1998,11 @@
               "published_at": "Sun, 13 Sep 2026 16:30:00 +0000"
             }
           ],
-          "route": "/hot/2026-09-14/topic/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/"
+          "route": "/hot/2026-09-14/topic/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+          "headline_zh": "奥巴马敦促民主党人就 AI 安全保障制定“明确计划”",
+          "summary_short_zh": "奥巴马近日表示，民主党人需要将人工智能列为“核心议题”之一，并“制定非常明确的计划”，回应人们对这项技术的经济影响和安全性的担忧。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "b6b60149a1f9",
@@ -1958,7 +2040,10 @@
               "published_at": "2026-09-14T00:22:51Z"
             }
           ],
-          "route": "/hot/2026-09-14/topic/open-source-ai-and-open-models-reading-list/"
+          "route": "/hot/2026-09-14/topic/open-source-ai-and-open-models-reading-list/",
+          "headline_zh": "开源 AI 与开放模型阅读清单",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "82fea3dc1df8",
@@ -1996,7 +2081,10 @@
               "published_at": "2026-09-13T13:33:34Z"
             }
           ],
-          "route": "/hot/2026-09-14/topic/ai-models-don-t-kill-people-people-kill-people/"
+          "route": "/hot/2026-09-14/topic/ai-models-don-t-kill-people-people-kill-people/",
+          "headline_zh": "AI 模型不会杀人，杀人的是人",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "5741f4b0231d",
@@ -2034,7 +2122,10 @@
               "published_at": "2026-09-13T15:44:38Z"
             }
           ],
-          "route": "/hot/2026-09-14/topic/garry-tan-wants-us-open-weight-ai-labs-to-distill-frontier-models-too/"
+          "route": "/hot/2026-09-14/topic/garry-tan-wants-us-open-weight-ai-labs-to-distill-frontier-models-too/",
+          "headline_zh": "Garry Tan 希望美国研发开放权重模型的 AI 实验室也能“蒸馏”前沿模型",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -2076,7 +2167,11 @@
           "published_at": "2026-09-10T01:42:59Z"
         }
       ],
-      "route": "/hot/2026-09-14/topic/viettranx-3dviz-pro-max/"
+      "route": "/hot/2026-09-14/topic/viettranx-3dviz-pro-max/",
+      "headline_zh": "viettranx/3dviz-pro-max",
+      "summary_short_zh": "用于创意 3D 可视化的智能体技能：将想法转化为值得探索的 Three.js/Blender 场景。提供 Claude Code 和 Codex 插件，包含 223 个实现方案、440 条知识记录、22 套已验证工具包和 37 个可运行的研究案例。",
+      "why_it_matters_zh": "这条融资资讯见于 1 个独立来源。",
+      "category_zh": "市场信号"
     }
   ],
   "x_buzz": [

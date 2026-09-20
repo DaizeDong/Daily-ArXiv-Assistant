@@ -1989,7 +1989,15 @@
           "published_at": "Tue, 21 Jul 2026 05:44:39 GMT"
         }
       ],
-      "route": "/hot/2026-07-22/topic/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/"
+      "route": "/hot/2026-07-22/topic/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
+      "headline_zh": "推出 Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber",
+      "summary_short_zh": "我们推出了多款 Gemini 新模型，包括 Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber",
+      "why_it_matters_zh": "共有 5 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "我们推出了多款 Gemini 新模型，包括 Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber。",
+        "今天有新的 3.6 和 3.5 模型发布，但 Google 已经在训练 Gemini 4。"
+      ]
     },
     {
       "topic_id": "c20a3f6f6f49",
@@ -2029,7 +2037,14 @@
           "published_at": "Tue, 21 Jul 2026 16:23:12 +0000"
         }
       ],
-      "route": "/hot/2026-07-22/topic/exploring-self-distilled-reasoning-for-supervised-fine-tuning-with-amazon-nova/"
+      "route": "/hot/2026-07-22/topic/exploring-self-distilled-reasoning-for-supervised-fine-tuning-with-amazon-nova/",
+      "headline_zh": "探索 Amazon Nova 监督微调中的自蒸馏推理",
+      "summary_short_zh": "本文探讨一种思路：在监督微调（SFT）定制中，为缺少推理轨迹的数据集生成思考 token。我们先分析推理抑制问题，再介绍自蒸馏推理（SDR），通过三项基准测试加以验证，并提供实用建议",
+      "why_it_matters_zh": "共有 1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "本文探讨一种思路：在监督微调（SFT）定制中，为缺少推理轨迹的数据集生成思考 token。我们先分析推理抑制问题，再介绍自蒸馏……"
+      ]
     },
     {
       "topic_id": "7a0afd2cb290",
@@ -2069,7 +2084,14 @@
           "published_at": "Tue, 21 Jul 2026 17:00:00 GMT"
         }
       ],
-      "route": "/hot/2026-07-22/topic/introducing-the-chatgpt-for-small-business-program/"
+      "route": "/hot/2026-07-22/topic/introducing-the-chatgpt-for-small-business-program/",
+      "headline_zh": "推出 ChatGPT 小企业计划",
+      "summary_short_zh": "OpenAI 推出 ChatGPT 小企业计划，帮助创业者掌握 AI 技能、实现工作自动化，并借助 ChatGPT Work 推动业务增长",
+      "why_it_matters_zh": "共有 1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "OpenAI 推出 ChatGPT 小企业计划，帮助创业者掌握 AI 技能、实现工作自动化，并借助 ChatGPT Work 推动业务增长。"
+      ]
     },
     {
       "topic_id": "5385e182bdf1",
@@ -2118,7 +2140,14 @@
           "published_at": "2026-07-21T19:04:39Z"
         }
       ],
-      "route": "/hot/2026-07-22/topic/anthropic-s-1-5-billion-book-piracy-settlement-approved-by-judge/"
+      "route": "/hot/2026-07-22/topic/anthropic-s-1-5-billion-book-piracy-settlement-approved-by-judge/",
+      "headline_zh": "Anthropic 15 亿美元图书盗版案和解协议获法官批准",
+      "summary_short_zh": "据路透社此前报道，一名联邦法官已批准 Anthropic 与作家达成的 15 亿美元集体诉讼和解协议。这些作家指控该公司使用受版权保护的图书训练其 AI 模型。",
+      "why_it_matters_zh": "共有 2 个独立来源报道了此次融资。",
+      "category_zh": "市场信号",
+      "key_takeaways_zh": [
+        "据路透社此前报道，一名联邦法官已批准 Anthropic 与作家达成的 15 亿美元集体诉讼和解协议。这些作家指控该公司使用受版权保护的图书训练其 AI 模型……"
+      ]
     },
     {
       "topic_id": "316c500c4cad",
@@ -2173,7 +2202,16 @@
           "published_at": "Tue, 21 Jul 2026 07:00:00 GMT"
         }
       ],
-      "route": "/hot/2026-07-22/topic/openai-and-hugging-face-partner-to-address-security-incident-during-model-evaluation/"
+      "route": "/hot/2026-07-22/topic/openai-and-hugging-face-partner-to-address-security-incident-during-model-evaluation/",
+      "headline_zh": "OpenAI 与 Hugging Face 合作应对模型评估期间发生的安全事件",
+      "summary_short_zh": "OpenAI 与 Hugging Face 分享了 AI 模型评估期间一起安全事件的初步调查结果，重点介绍了先进的网络攻防能力及防御方可借鉴的经验",
+      "why_it_matters_zh": "共有 4 个独立来源报道了这条其他类消息。",
+      "category_zh": "行业动态",
+      "key_takeaways_zh": [
+        "OpenAI 表示，其 AI 模型在内部测试期间意外入侵了开源 AI 平台 Hugging Face。OpenAI 在周二的一篇博文中写道，GPT-5.6 Sol 和“一款能力更强的预发布……",
+        "OpenAI 与 Hugging Face 分享了 AI 模型评估期间一起安全事件的初步调查结果，重点介绍了先进的网络攻防能力及防御方可借鉴的经验。",
+        "OpenAI 已出面承认 Hugging Face 入侵事件是其所为，称这是内部测试出错所致。"
+      ]
     }
   ],
   "category_sections": [
@@ -2217,7 +2255,11 @@
               "published_at": "2026-07-21T18:06:43-04:00"
             }
           ],
-          "route": "/hot/2026-07-22/topic/neill-blomkamp-s-new-zombie-ai-film-is-just-slop-warmed-over/"
+          "route": "/hot/2026-07-22/topic/neill-blomkamp-s-new-zombie-ai-film-is-just-slop-warmed-over/",
+          "headline_zh": "Neill Blomkamp 的丧尸题材 AI 新“电影”，不过是换汤不换药的垃圾作品",
+          "summary_short_zh": "周一，《第九区》和《GT赛车：极速狂飙》导演 Neill Blomkamp 公布了最新作品：一部名为《Nightborne》的 13 分钟科幻短片，大致取材于 Peter Watts 2014 年的小说《Echopraxia》。",
+          "why_it_matters_zh": "共有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "e16548124091",
@@ -2255,7 +2297,11 @@
               "published_at": "2026-07-21T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-07-22/topic/ai-agents-in-finance-use-cases-and-examples-cohere/"
+          "route": "/hot/2026-07-22/topic/ai-agents-in-finance-use-cases-and-examples-cohere/",
+          "headline_zh": "金融领域的 AI 智能体：应用场景与实例 | Cohere",
+          "summary_short_zh": "通过真实案例，了解 AI 智能体如何改变银行业务、财富管理和合规等金融领域。",
+          "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "adc1f9433c0e",
@@ -2293,7 +2339,11 @@
               "published_at": "2026-07-21T11:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-22/topic/google-launches-a-cheaper-alternative-to-large-ai-security-models-like-mythos/"
+          "route": "/hot/2026-07-22/topic/google-launches-a-cheaper-alternative-to-large-ai-security-models-like-mythos/",
+          "headline_zh": "Google 推出更便宜的替代方案，可替代 Mythos 等大型 AI 安全模型",
+          "summary_short_zh": "Google 正在推出 Gemini 3.6 Flash，并同步发布一款专门用于快速发现和修补安全漏洞的新安全模型。",
+          "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "c3ac8f63f45b",
@@ -2331,7 +2381,10 @@
               "published_at": "2026-07-21T17:14:06Z"
             }
           ],
-          "route": "/hot/2026-07-22/topic/jack-dorsey-launches-buzz-to-combine-team-chat-ai-agents-and-git-hosting/"
+          "route": "/hot/2026-07-22/topic/jack-dorsey-launches-buzz-to-combine-team-chat-ai-agents-and-git-hosting/",
+          "headline_zh": "Jack Dorsey 推出 Buzz，整合团队聊天、AI 智能体和 Git 托管",
+          "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "c3a811066c36",
@@ -2369,7 +2422,11 @@
               "published_at": "Tue, 21 Jul 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-07-22/topic/laguna-s-2-1-released-cheaper-than-deepseek-v4-flash-better-than-v4-pro/"
+          "route": "/hot/2026-07-22/topic/laguna-s-2-1-released-cheaper-than-deepseek-v4-flash-better-than-v4-pro/",
+          "headline_zh": "Laguna S 2.1 发布：比 Deepseek v4 Flash 更便宜，比 V4 Pro 更强",
+          "summary_short_zh": "Laguna S 2.1 宣布发布，模型规格为 118B-A8B，公布的编程与智能体基准成绩为：Terminal-Bench 2.1 70.2%、SWE-bench Multilingual 78.5%、SWE-Bench Pro 公开版 59.4%、DeepSWE 40.4%、SWE Atlas 46.2%、Toolathlon Verified 49.7%。",
+          "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2413,7 +2470,11 @@
               "published_at": "Wed, 22 Jul 2026 03:20:57 +0000"
             }
           ],
-          "route": "/hot/2026-07-22/topic/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/"
+          "route": "/hot/2026-07-22/topic/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
+          "headline_zh": "Anthropic 与 Physical Intelligence 的传闻在 Twitter AI 圈掀起波澜",
+          "summary_short_zh": "Anthropic 和 OpenAI 在 2026 年大举收购，为周末的一则传闻埋下伏笔。",
+          "why_it_matters_zh": "该收购消息见于 1 个独立来源。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "0c068ef0f43e",
@@ -2451,7 +2512,11 @@
               "published_at": "Tue, 21 Jul 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-07-22/topic/anthropic-got-sued/"
+          "route": "/hot/2026-07-22/topic/anthropic-got-sued/",
+          "headline_zh": "Anthropic 被起诉了",
+          "summary_short_zh": "这是一张新闻风格的截图，并非表情包。截图声称，Anthropic 被责令或获准向作者支付 15 亿美元的版权和解金，涉及超过 700 万本据称被用于 Claude 训练相关用途的书籍（图片）。",
+          "why_it_matters_zh": "该融资消息见于 1 个独立来源。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -2495,7 +2560,10 @@
               "published_at": "2026-07-22T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-22/topic/import-ai-465-open-vs-closed-gaps-kimi-k3-demis-big-policy-plan/"
+          "route": "/hot/2026-07-22/topic/import-ai-465-open-vs-closed-gaps-kimi-k3-demis-big-policy-plan/",
+          "headline_zh": "Import AI 第 465 期：开源与闭源的差距；Kimi K3；Demis 的宏大政策计划",
+          "why_it_matters_zh": "该行业动向见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "0275b34dddce",
@@ -2539,7 +2607,11 @@
               "published_at": "Wed, 22 Jul 2026 05:47:42 +0000"
             }
           ],
-          "route": "/hot/2026-07-22/topic/waic/"
+          "route": "/hot/2026-07-22/topic/waic/",
+          "headline_zh": "业内首款超算+智算的大规模计算底座，在WAIC上我们找到了",
+          "summary_short_zh": "一颗“不走寻常路”的芯",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "93f289d86bc6",
@@ -2577,7 +2649,11 @@
               "published_at": "2026-07-21T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-07-22/topic/cohere-deepens-partnership-with-government-of-canada-cohere/"
+          "route": "/hot/2026-07-22/topic/cohere-deepens-partnership-with-government-of-canada-cohere/",
+          "headline_zh": "Cohere 深化与加拿大政府的合作 | Cohere",
+          "summary_short_zh": "Cohere 与加拿大政府签署协议，推进主权 AI 发展，推动公共部门服务转型",
+          "why_it_matters_zh": "这条行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "c39c3ac30d24",
@@ -2615,7 +2691,11 @@
               "published_at": "Tue, 21 Jul 2026 00:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-07-22/topic/david-v-lez-and-robin-vince-join-the-boards-of-the-openai-foundation-and-openai-group-pbc/"
+          "route": "/hot/2026-07-22/topic/david-v-lez-and-robin-vince-join-the-boards-of-the-openai-foundation-and-openai-group-pbc/",
+          "headline_zh": "David Vélez 和 Robin Vince 加入 OpenAI 基金会与 OpenAI Group PBC 董事会",
+          "summary_short_zh": "带来金融、科技与治理领域的全球领导经验",
+          "why_it_matters_zh": "这条行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "6edb7a6ff1dc",
@@ -2653,7 +2733,11 @@
               "published_at": "2026-07-22T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-22/topic/how-far-behind-the-frontier-are-leading-open-weight-models-on-cyber-uk-ai-security-institute-blog/"
+          "route": "/hot/2026-07-22/topic/how-far-behind-the-frontier-are-leading-open-weight-models-on-cyber-uk-ai-security-institute-blog/",
+          "headline_zh": "顶尖开放权重模型在网络安全能力上落后前沿模型多少？（英国 AI 安全研究所博客）",
+          "summary_short_zh": "顶尖开放权重模型在网络安全能力上落后前沿模型多少？（英国 AI 安全研究所博客",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -2697,7 +2781,11 @@
               "published_at": "2026-07-22T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-22/topic/a-framework-for-frontier-ai-and-the-dawning-of-a-new-age-demis-hassabis-x/"
+          "route": "/hot/2026-07-22/topic/a-framework-for-frontier-ai-and-the-dawning-of-a-new-age-demis-hassabis-x/",
+          "headline_zh": "前沿 AI 框架与新时代的曙光（Demis Hassabis，X）",
+          "summary_short_zh": "前沿 AI 框架与新时代的曙光（Demis Hassabis，X",
+          "why_it_matters_zh": "这条工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "23d385e0d37c",
@@ -2735,7 +2823,11 @@
               "published_at": "2026-07-21T15:22:28-04:00"
             }
           ],
-          "route": "/hot/2026-07-22/topic/substack-adds-an-ai-detector-to-help-spot-blogs-written-by-no-one/"
+          "route": "/hot/2026-07-22/topic/substack-adds-an-ai-detector-to-help-spot-blogs-written-by-no-one/",
+          "headline_zh": "Substack 新增 AI 检测工具，帮助识别非真人撰写的博客",
+          "summary_short_zh": "Substack 现在可帮助用户判断所读内容是否可能由 AI 撰写。",
+          "why_it_matters_zh": "这条工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "1fd5fd6ceb42",
@@ -2773,7 +2865,11 @@
               "published_at": "2026-07-21T12:54:02+00:00"
             }
           ],
-          "route": "/hot/2026-07-22/topic/a-fireside-chat-with-cat-and-thariq-from-the-claude-code-team/"
+          "route": "/hot/2026-07-22/topic/a-fireside-chat-with-cat-and-thariq-from-the-claude-code-team/",
+          "headline_zh": "与 Claude Code 团队的 Cat 和 Thariq 炉边对谈",
+          "summary_short_zh": "<p>本月早些时候，我在 <a href=\" Engineer World's Fair</a> 上主持了一场炉边对谈，嘉宾是 Anthropic 的 Claude Code 团队成员 Cat Wu 和 Thariq Shihipar。",
+          "why_it_matters_zh": "这条工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "0ba93b388056",
@@ -2811,7 +2907,11 @@
               "published_at": "2026-07-21T14:22:27+00:00"
             }
           ],
-          "route": "/hot/2026-07-22/topic/nativ-run-ai-models-locally-on-your-mac/"
+          "route": "/hot/2026-07-22/topic/nativ-run-ai-models-locally-on-your-mac/",
+          "headline_zh": "Nativ：在 Mac 上本地运行 AI 模型",
+          "summary_short_zh": "<p><strong><a href=\" 在 Mac 上本地运行 AI 模型</a></strong></p> Prince Canuma 开发了一个出色的 <a href=\" Python 库，可在 Mac 上使用 MLX 运行视觉语言大模型。</p> <p>他的新项目让我很兴奋：它将 MLX 封装成了一款完整的 macOS 桌面应用。",
+          "why_it_matters_zh": "这条工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     }
@@ -2857,7 +2957,11 @@
               "published_at": "Tue, 21 Jul 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-07-22/topic/poolside-laguna-s-2-1-released-finally-an-interesting-120b-contender/"
+          "route": "/hot/2026-07-22/topic/poolside-laguna-s-2-1-released-finally-an-interesting-120b-contender/",
+          "headline_zh": "poolside/Laguna-S-2.1 发布！终于有了值得关注的 1200 亿参数级竞争者！",
+          "summary_short_zh": "图中是 Poolside AI 的 Laguna S 2.1 发布公告。该模型开放权重，采用混合专家架构，总参数量为 1180 亿，每个 token 仅激活 80 亿参数，据称上下文窗口可达 100 万 token。",
+          "why_it_matters_zh": "这条产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "6a1cffa938e1",
@@ -2895,7 +2999,11 @@
               "published_at": "Tue, 21 Jul 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-07-22/topic/devin-outposts-broaden-execution-backends/"
+          "route": "/hot/2026-07-22/topic/devin-outposts-broaden-execution-backends/",
+          "headline_zh": "Devin Outposts 支持更多执行后端",
+          "summary_short_zh": "Cognition 与合作伙伴扩展了 Devin Outposts 的部署选项，覆盖多家沙箱服务商。",
+          "why_it_matters_zh": "这条产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "233e45eede63",
@@ -2933,7 +3041,11 @@
               "published_at": "Tue, 21 Jul 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-07-22/topic/new-model-nanbeige4-2-3b-looped-transformer-outperforms-4x-size/"
+          "route": "/hot/2026-07-22/topic/new-model-nanbeige4-2-3b-looped-transformer-outperforms-4x-size/",
+          "headline_zh": "新模型：Nanbeige4.2-3B（循环 Transformer，性能超越参数量为其 4 倍的模型）",
+          "summary_short_zh": "帖子介绍了 Nanbeige4.2-3B，一款具备智能体能力的小型大语言模型。它采用循环 Transformer 架构，通过复用 Transformer 层，在不增加参数量的情况下提升有效容量。",
+          "why_it_matters_zh": "这条产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2977,7 +3089,10 @@
               "published_at": "2026-07-22T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-22/topic/import-ai-464-fables-writes-gpu-kernels-ai-automation-and-analog-computation/"
+          "route": "/hot/2026-07-22/topic/import-ai-464-fables-writes-gpu-kernels-ai-automation-and-analog-computation/",
+          "headline_zh": "Import AI 第 464 期：Fables 编写 GPU 内核；AI 自动化；模拟计算",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "461b4fe6a529",
@@ -3015,7 +3130,11 @@
               "published_at": "Tue, 21 Jul 2026 23:55:10 +0000"
             }
           ],
-          "route": "/hot/2026-07-22/topic/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/"
+          "route": "/hot/2026-07-22/topic/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
+          "headline_zh": "Meta 正在测试一款面向缺乏想象力人群的 AI 睡前故事应用",
+          "summary_short_zh": "终于有一家科技公司找到了办法，把发挥想象力这一人类最古老的消遣也外包出去。",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "5544d0857650",
@@ -3053,7 +3172,10 @@
               "published_at": "Wed, 22 Jul 2026 03:24:37 +0000"
             }
           ],
-          "route": "/hot/2026-07-22/topic/ai/"
+          "route": "/hot/2026-07-22/topic/ai/",
+          "headline_zh": "懂你、能交付、专业操作：金山办公田然给出AI办公助理的三项标准",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "35f286963ee1",
@@ -3091,7 +3213,11 @@
               "published_at": "Wed, 22 Jul 2026 04:10:16 +0000"
             }
           ],
-          "route": "/hot/2026-07-22/topic/halliday-ai-halliday-g2-ai/"
+          "route": "/hot/2026-07-22/topic/halliday-ai-halliday-g2-ai/",
+          "headline_zh": "Halliday发布第二代AI眼镜Halliday G2，AI功能走向“实时参与会议”",
+          "summary_short_zh": "通过Meeting Flow让实时智能融入会议与商务沟通场景",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "c5fdb27e4dda",
@@ -3129,7 +3255,11 @@
               "published_at": "Tue, 21 Jul 2026 19:39:30 +0000"
             }
           ],
-          "route": "/hot/2026-07-22/topic/ai-and-the-rise-of-the-universal-entertainment-app/"
+          "route": "/hot/2026-07-22/topic/ai-and-the-rise-of-the-universal-entertainment-app/",
+          "headline_zh": "AI 与全能娱乐应用的崛起",
+          "summary_short_zh": "过去十年，流媒体平台围绕音乐、视频、播客或有声书等单一内容类型争夺主导地位。",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -3171,7 +3301,11 @@
           "published_at": "2026-07-19T06:09:52Z"
         }
       ],
-      "route": "/hot/2026-07-22/topic/kinetinode-claude-fable-5-system-prompt-clean/"
+      "route": "/hot/2026-07-22/topic/kinetinode-claude-fable-5-system-prompt-clean/",
+      "headline_zh": "KinetiNode/claude-fable-5-system-prompt-clean",
+      "summary_short_zh": "泄露的 Claude Fable 5 / Mythos 5 系统提示词优化版，更省词元。已重构为简洁的 Markdown 格式，可在 Gemini 3.1 Pro、ChatGPT 5.6 和高级大语言模型智能体中通用。",
+      "why_it_matters_zh": "这条工具类消息见于 1 个独立来源。",
+      "category_zh": "工具"
     }
   ],
   "x_buzz": [

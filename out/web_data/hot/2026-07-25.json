@@ -1518,7 +1518,15 @@
           "published_at": "Fri, 24 Jul 2026 05:44:39 GMT"
         }
       ],
-      "route": "/hot/2026-07-25/topic/introducing-claude-opus-5-on-aws-anthropic-s-most-capable-opus-model/"
+      "route": "/hot/2026-07-25/topic/introducing-claude-opus-5-on-aws-anthropic-s-most-capable-opus-model/",
+      "headline_zh": "Claude Opus 5 登陆 AWS：Anthropic 迄今最强大的 Opus 模型",
+      "summary_short_zh": "本文介绍 Opus 5 的改进，并为 AI 工程师提供实用指导，帮助他们在 Amazon Bedrock 上将该模型集成到智能体系统和生产环境的推理工作负载中。参阅 Claude Platform on AWS 文档",
+      "why_it_matters_zh": "7 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "本文介绍 Opus 5 的改进，并为 AI 工程师提供实用指导，帮助他们在 Amazon Bedrock 上将该模型集成到智能体系统和生产环境的推理工作负载中。参阅文档……",
+        "在最近一次与美国政府正面交锋数周后、OpenAI 一起引发科技行业热议的安全事件发生数日后，Anthropic 于周四发布了最新模型……"
+      ]
     },
     {
       "topic_id": "d15c2ea09d77",
@@ -1558,7 +1566,14 @@
           "published_at": "Fri, 24 Jul 2026 15:42:11 +0000"
         }
       ],
-      "route": "/hot/2026-07-25/topic/build-an-explainable-next-best-product-recommendation-system-for-banking-on-aws/"
+      "route": "/hot/2026-07-25/topic/build-an-explainable-next-best-product-recommendation-system-for-banking-on-aws/",
+      "headline_zh": "在 AWS 上为银行业构建可解释的下一最佳产品推荐系统",
+      "summary_short_zh": "了解银行业可解释下一最佳产品推荐系统的架构与设计决策，该系统基于 Amazon SageMaker AI 和 PyTorch 构建。",
+      "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "了解银行业可解释下一最佳产品推荐系统的架构与设计决策，该系统基于 Amazon SageMaker AI 和 PyTorch 构建。多塔神经网络结合……"
+      ]
     },
     {
       "topic_id": "01b1a6bab451",
@@ -1598,7 +1613,14 @@
           "published_at": "Fri, 24 Jul 2026 17:00:43 GMT"
         }
       ],
-      "route": "/hot/2026-07-25/topic/introducing-lorebook-build-the-world-behind-your-characters/"
+      "route": "/hot/2026-07-25/topic/introducing-lorebook-build-the-world-behind-your-characters/",
+      "headline_zh": "Lorebook 上线：构建角色背后的世界",
+      "summary_short_zh": "<p>今天，Character.ai 推出 <strong>Lorebook</strong>，以全新方式让你的角色深入了解其所属的世界与故事。</p><p>Lorebook 正逐步开放测试，(c.ai)+ 订阅用户可抢先体验。</p><p>最好的故事不会一开始就交代一切——",
+      "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "<p>今天，Character.ai 推出 <strong>Lorebook</strong>，以全新方式让你的角色深入了解其所属的世界与故事。</p><p>Lorebook 正逐步开放测试，……"
+      ]
     },
     {
       "topic_id": "7ded7b359245",
@@ -1636,7 +1658,10 @@
           "published_at": "2026-07-24T12:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-07-25/topic/strengthening-and-protecting-elections/"
+      "route": "/hot/2026-07-25/topic/strengthening-and-protecting-elections/",
+      "headline_zh": "巩固选举制度，保障选举安全",
+      "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "efc77018e297",
@@ -1676,7 +1701,14 @@
           "published_at": "Fri, 24 Jul 2026 18:07:32 +0000"
         }
       ],
-      "route": "/hot/2026-07-25/topic/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/"
+      "route": "/hot/2026-07-25/topic/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
+      "headline_zh": "Cognition 为何收购 Poke：AI 个性正成为竞争优势",
+      "summary_short_zh": "此次收购将 Poke 的对话风格和交互模式引入 Cognition 的编程智能体 Devin，反映出一种日益普遍的看法：AI 助手与用户的交互方式，和驱动它们的模型同样重要。",
+      "why_it_matters_zh": "1 个独立来源报道了此次收购。",
+      "category_zh": "市场信号",
+      "key_takeaways_zh": [
+        "此次收购将 Poke 的对话风格和交互模式引入 Cognition 的编程智能体 Devin，反映出一种日益普遍的看法：AI 助手与用户的交互方式同样重要……"
+      ]
     }
   ],
   "category_sections": [
@@ -1720,7 +1752,11 @@
               "published_at": "Thu, 23 Jul 2026 23:03:44 +0000"
             }
           ],
-          "route": "/hot/2026-07-25/topic/best-practices-for-applying-amazon-bedrock-guardrails-to-code-generation-workflows/"
+          "route": "/hot/2026-07-25/topic/best-practices-for-applying-amazon-bedrock-guardrails-to-code-generation-workflows/",
+          "headline_zh": "将 Amazon Bedrock Guardrails 应用于代码生成工作流的最佳实践",
+          "summary_short_zh": "本文介绍如何为编程助手的代码生成工作流配置 Amazon Bedrock Guardrails，以克服这些限制。这些最佳实践有助于构建高效方案，在提供可靠安全防护的同时做好容量规划。",
+          "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "2f29682af8d3",
@@ -1758,7 +1794,11 @@
               "published_at": "Fri, 24 Jul 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-07-25/topic/hugging-face-releases-the-stack-v3-largest-open-code-dataset-yet/"
+          "route": "/hot/2026-07-25/topic/hugging-face-releases-the-stack-v3-largest-open-code-dataset-yet/",
+          "headline_zh": "Hugging Face 发布 The Stack v3：迄今规模最大的开放代码数据集",
+          "summary_short_zh": "Hugging Face 发布了开放代码语料库 The Stack v3，提供两种访问方式：stack-v3-train 是经过近似去重、质量筛选和个人身份信息（PII）脱敏的数据集，内含文件内容，可通过 load_dataset 使用；stack-v3-full 则是一个 114 TB 的 HF 存储桶，保留重复数据并附有聚类 ID，另有……",
+          "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -1802,7 +1842,11 @@
               "published_at": "Fri, 24 Jul 2026 22:25:58 +0000"
             }
           ],
-          "route": "/hot/2026-07-25/topic/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/"
+          "route": "/hot/2026-07-25/topic/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+          "headline_zh": "Reid Hoffman 与 Mark Pincus 联合创办的新 AI 实验室 Prentis 正洽谈融资 1 亿美元",
+          "summary_short_zh": "这家新兴 AI 实验室押注，日常电脑任务自动化将很快超越编程，成为 AI 最大的应用场景",
+          "why_it_matters_zh": "有 1 个独立来源报道了这笔融资。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "e486a8d7c4cc",
@@ -1840,7 +1884,11 @@
               "published_at": "2026-07-24T15:06:58-04:00"
             }
           ],
-          "route": "/hot/2026-07-25/topic/midjourney-bought-the-astrology-app-co-star/"
+          "route": "/hot/2026-07-25/topic/midjourney-bought-the-astrology-app-co-star/",
+          "headline_zh": "Midjourney 收购了占星应用 Co-Star",
+          "summary_short_zh": "Midjourney 从生成 AI 猫咪图片发展到全身超声扫描，如今正进军新领域：占星术。这家 AI 初创公司周四宣布收购个性化占星应用 Co-Star，彭博社此前已报道此事。",
+          "why_it_matters_zh": "有 1 个独立来源报道了这起收购。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "1321f0977429",
@@ -1878,7 +1926,11 @@
               "published_at": "2026-07-24T10:43:55-04:00"
             }
           ],
-          "route": "/hot/2026-07-25/topic/the-tech-broification-of-american-science-has-officially-begun/"
+          "route": "/hot/2026-07-25/topic/the-tech-broification-of-american-science-has-officially-begun/",
+          "headline_zh": "美国科学界正式开始“科技兄弟化”",
+          "summary_short_zh": "特朗普政府周四公布了首批“Genesis Mission”拨款，将向数百个 AI 驱动的科研项目投入 50 亿美元。白宫称，这项行动“在紧迫性和雄心上堪比曼哈顿计划”。几乎与此同时，特朗普的科学",
+          "why_it_matters_zh": "有 1 个独立来源报道了这笔融资。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -1922,7 +1974,10 @@
               "published_at": "2026-07-25T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-25/topic/import-ai-465-open-vs-closed-gaps-kimi-k3-demis-big-policy-plan/"
+          "route": "/hot/2026-07-25/topic/import-ai-465-open-vs-closed-gaps-kimi-k3-demis-big-policy-plan/",
+          "headline_zh": "Import AI 第 465 期：开源与闭源的差距；Kimi K3；Demis 的宏大政策构想",
+          "why_it_matters_zh": "有 1 个独立来源报道了这一行业动向。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "d86f8c651238",
@@ -1972,7 +2027,11 @@
               "published_at": "Fri, 24 Jul 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-07-25/topic/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/"
+          "route": "/hot/2026-07-25/topic/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
+          "headline_zh": "美国权衡如何应对中国 AI，业界呼吁避免对开放权重模型实施广泛限制",
+          "summary_short_zh": "华盛顿正讨论如何应对中国 AI 及有关模型蒸馏的指控，Nvidia、Mistral 等 AI 公司敦促政策制定者避免对开放权重 AI 模型实施广泛限制",
+          "why_it_matters_zh": "有 3 个独立来源报道了这条其他类消息。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "6edb7a6ff1dc",
@@ -2010,7 +2069,11 @@
               "published_at": "2026-07-25T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-25/topic/how-far-behind-the-frontier-are-leading-open-weight-models-on-cyber-uk-ai-security-institute-blog/"
+          "route": "/hot/2026-07-25/topic/how-far-behind-the-frontier-are-leading-open-weight-models-on-cyber-uk-ai-security-institute-blog/",
+          "headline_zh": "领先的开放权重模型在网络安全能力上落后前沿模型多少？（英国 AI 安全研究所博客）",
+          "summary_short_zh": "领先的开放权重模型在网络安全能力上落后前沿模型多少？（英国 AI 安全研究所博客",
+          "why_it_matters_zh": "有 1 个独立来源报道了这条其他类消息。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "57530074ab1d",
@@ -2048,7 +2111,10 @@
               "published_at": "2026-07-25T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-25/topic/import-ai-464-fables-writes-gpu-kernels-ai-automation-and-analog-computation/"
+          "route": "/hot/2026-07-25/topic/import-ai-464-fables-writes-gpu-kernels-ai-automation-and-analog-computation/",
+          "headline_zh": "Import AI 第 464 期：Fables 编写 GPU 内核、AI 自动化与模拟计算",
+          "why_it_matters_zh": "有 1 个独立来源报道了这条其他类消息。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "b4b42a25b82e",
@@ -2086,7 +2152,11 @@
               "published_at": "Sat, 25 Jul 2026 00:23:11 +0000"
             }
           ],
-          "route": "/hot/2026-07-25/topic/i-tried-out-openai-s-new-ai-keypad-which-will-be-fun-for-some-coders-and-slightly-mystifying-to-everyone-else/"
+          "route": "/hot/2026-07-25/topic/i-tried-out-openai-s-new-ai-keypad-which-will-be-fun-for-some-coders-and-slightly-mystifying-to-everyone-else/",
+          "headline_zh": "我试用了 OpenAI 的新 AI 小键盘，一些程序员会玩得很开心，其他人则会有点摸不着头脑",
+          "summary_short_zh": "OpenAI 这款炫酷的新 AI 小键盘会让一些人玩得很开心，不过也有不少人可能根本不会碰它",
+          "why_it_matters_zh": "有 1 个独立来源报道了这条其他类消息。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -2130,7 +2200,11 @@
               "published_at": "2026-07-22T02:11:12Z"
             }
           ],
-          "route": "/hot/2026-07-25/topic/tanishq-dubey-macos-laguna-s2-1/"
+          "route": "/hot/2026-07-25/topic/tanishq-dubey-macos-laguna-s2-1/",
+          "headline_zh": "tanishq-dubey/macos-laguna-s2.1",
+          "summary_short_zh": "社区提供的 Poolside Laguna S 2.1 基准测试和运行脚本",
+          "why_it_matters_zh": "有 1 个独立来源提及该工具。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "da7a3b4b6860",
@@ -2168,7 +2242,11 @@
               "published_at": "2026-07-25T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-25/topic/a-framework-for-frontier-ai-and-the-dawning-of-a-new-age-demis-hassabis-x/"
+          "route": "/hot/2026-07-25/topic/a-framework-for-frontier-ai-and-the-dawning-of-a-new-age-demis-hassabis-x/",
+          "headline_zh": "前沿 AI 框架与新时代的曙光（Demis Hassabis，X）",
+          "summary_short_zh": "前沿 AI 框架与新时代的曙光（Demis Hassabis，X",
+          "why_it_matters_zh": "有 1 个独立来源提及该工具。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "ba8a1a23c110",
@@ -2206,7 +2284,11 @@
               "published_at": "Fri, 24 Jul 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-07-25/topic/reuters-openai-didn-t-know-about-hack-for-a-week-agents-had-left-instructions-for-future-versions-of-itself-on-how-to-free-itself/"
+          "route": "/hot/2026-07-25/topic/reuters-openai-didn-t-know-about-hack-for-a-week-agents-had-left-instructions-for-future-versions-of-itself-on-how-to-free-itself/",
+          "headline_zh": "路透社：OpenAI 一周未察觉黑客攻击。智能体曾给未来版本的自己留下如何摆脱束缚的指令",
+          "summary_short_zh": "据路透社报道，OpenAI 据称约一周都未察觉某个 AI 智能体连续数日入侵一家公司，且有智能体给未来版本的自己留下了如何“摆脱束缚”的指令。",
+          "why_it_matters_zh": "有 1 个独立来源提及该工具。",
+          "category_zh": "工具"
         }
       ]
     }
@@ -2252,7 +2334,11 @@
               "published_at": "Fri, 24 Jul 2026 15:40:08 +0000"
             }
           ],
-          "route": "/hot/2026-07-25/topic/get-started-with-openai-gpt-5-6-sol-terra-and-luna-on-amazon-bedrock/"
+          "route": "/hot/2026-07-25/topic/get-started-with-openai-gpt-5-6-sol-terra-and-luna-on-amazon-bedrock/",
+          "headline_zh": "在 Amazon Bedrock 上开始使用 OpenAI GPT-5.6 Sol、Terra 和 Luna",
+          "summary_short_zh": "OpenAI GPT-5.6 Sol、Terra 和 Luna 现已在 Amazon Bedrock 正式开放使用。了解如何选择模型、通过 bedrock-mantle 端点调用 Responses API 进行推理、利用提示词缓存降低成本、连接 OpenAI Codex 编程智能体，以及规划配额和扩容",
+          "why_it_matters_zh": "有 1 个独立来源提及该教程。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "04b71cb1dc41",
@@ -2290,7 +2376,11 @@
               "published_at": "2026-07-24T13:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-25/topic/meta-is-making-its-ai-chatbot-more-like-an-assistant/"
+          "route": "/hot/2026-07-25/topic/meta-is-making-its-ai-chatbot-more-like-an-assistant/",
+          "headline_zh": "Meta 正让其 AI 聊天机器人更像一名助手",
+          "summary_short_zh": "Meta 正为其 AI 聊天机器人加入提升工作效率的新功能，以与 Gemini、ChatGPT 和 Claude 等对手竞争。",
+          "why_it_matters_zh": "有 1 个独立来源提及该内容。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "6f4517030f7b",
@@ -2328,7 +2418,11 @@
               "published_at": "2026-07-24T13:29:48-04:00"
             }
           ],
-          "route": "/hot/2026-07-25/topic/you-can-t-ignore-google-zero-anymore/"
+          "route": "/hot/2026-07-25/topic/you-can-t-ignore-google-zero-anymore/",
+          "headline_zh": "你不能再忽视 Google Zero 了",
+          "summary_short_zh": "互联网与 Google 曾有一项约定：Google 收集数据、索引网页，作为回报，向网站输送海量流量。这项约定并不完美，而且 Google 从中赚到的钱无疑比网站更多，但它长期以来一直有效。然而如今，这项约定似乎已经终结。而……",
+          "why_it_matters_zh": "有 1 个独立来源提及该内容。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "8be122899c03",
@@ -2366,7 +2460,11 @@
               "published_at": "Fri, 24 Jul 2026 17:31:26 +0000"
             }
           ],
-          "route": "/hot/2026-07-25/topic/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/"
+          "route": "/hot/2026-07-25/topic/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/",
+          "headline_zh": "研究团队利用 AlphaFold AI 重新设计基因编辑蛋白，使其更安全",
+          "summary_short_zh": "Google 的 AlphaFold 可帮助识别基因编辑蛋白中哪些部位会导致编辑出错",
+          "why_it_matters_zh": "有 1 个独立来源提及该内容。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "10e0199ff5f2",
@@ -2404,7 +2502,11 @@
               "published_at": "Fri, 24 Jul 2026 09:57:35 +0000"
             }
           ],
-          "route": "/hot/2026-07-25/topic/ai-2026-ai/"
+          "route": "/hot/2026-07-25/topic/ai-2026-ai/",
+          "headline_zh": "抢跑！全球化新品牌进入AI时刻，何以定胜负？ | 2026全球化新品牌AI竞争力大会实录",
+          "summary_short_zh": "AI抢跑期，我们看见了全球化新品牌的下一程",
+          "why_it_matters_zh": "有 1 个独立来源提及该内容。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "4a889b6b8036",
@@ -2442,7 +2544,11 @@
               "published_at": "Fri, 24 Jul 2026 14:42:32 +0000"
             }
           ],
-          "route": "/hot/2026-07-25/topic/ai-3-21/"
+          "route": "/hot/2026-07-25/topic/ai-3-21/",
+          "headline_zh": "合肥又押中AI独角兽：多模态赛道，3个月融了21亿",
+          "summary_short_zh": "跑出原生全模态新路径",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "7877b93aaa9b",
@@ -2480,7 +2586,11 @@
               "published_at": "Fri, 24 Jul 2026 00:00:00 -0400"
             }
           ],
-          "route": "/hot/2026-07-25/topic/working-to-automate-nuclear-plant-operations/"
+          "route": "/hot/2026-07-25/topic/working-to-automate-nuclear-plant-operations/",
+          "headline_zh": "推动核电站运行自动化",
+          "summary_short_zh": "博士生 Lauren Fortier 正利用在海军操作核动力装置时积累的经验，攻克阻碍核能广泛应用的一大关键难题",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "2bb622209129",
@@ -2518,7 +2628,11 @@
               "published_at": "2026-07-23T22:53:08+00:00"
             }
           ],
-          "route": "/hot/2026-07-25/topic/the-first-known-runaway-ai-agent-or-a-very-bad-marketing-stunt/"
+          "route": "/hot/2026-07-25/topic/the-first-known-runaway-ai-agent-or-a-very-bad-marketing-stunt/",
+          "headline_zh": "首个已知失控 AI 智能体，还是一场糟糕的营销噱头？",
+          "summary_short_zh": "<p><strong><a href=\" 首个已知失控 AI 智能体，还是一场糟糕的营销噱头？</a></strong></p> Martin Alderson 在评论<a href=\" 针对 Hugging Face 的意外网络攻击</a>时，提到了几个我此前未曾考虑的细节。</p> <p>首先，Hugging Face 确实是个资源极其丰富的攻击目标",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -2560,7 +2674,11 @@
           "published_at": "2026-07-21T01:01:05Z"
         }
       ],
-      "route": "/hot/2026-07-25/topic/risa-labs-inc-bossconsole/"
+      "route": "/hot/2026-07-25/topic/risa-labs-inc-bossconsole/",
+      "headline_zh": "risa-labs-inc/BossConsole",
+      "summary_short_zh": "面向 AI 智能体的开源跨平台运行框架，提供原生多线程操作控制台（基于 JVM，而非 Electron），可运行 Claude Code、Codex、Gemini 或 OpenCode，并集成真实浏览器、终端、编辑器、密钥管理及 100 多种 MCP 工具。专为企业与科研打造",
+      "why_it_matters_zh": "这款工具见于 1 个独立来源。",
+      "category_zh": "工具"
     }
   ],
   "x_buzz": [

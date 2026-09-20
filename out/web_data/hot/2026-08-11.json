@@ -2117,7 +2117,15 @@
           "published_at": "Mon, 10 Aug 2026 10:00:00 GMT"
         }
       ],
-      "route": "/hot/2026-08-11/topic/expanding-daybreak-as-the-cyber-defense-window-narrows/"
+      "route": "/hot/2026-08-11/topic/expanding-daybreak-as-the-cyber-defense-window-narrows/",
+      "headline_zh": "网络防御窗口日益缩短，Daybreak 持续扩展",
+      "summary_short_zh": "了解 GPT-5.6-Cyber：OpenAI 通过 Daybreak Red 提供的网络安全专用模型，用于经授权的漏洞研究、漏洞利用验证和安全测试",
+      "why_it_matters_zh": "此次产品发布有 5 个独立来源报道。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "了解 GPT-5.6-Cyber：OpenAI 通过 Daybreak Red 提供的网络安全专用模型，用于经授权的漏洞研究、漏洞利用验证和安全测试。",
+        "经批准的 Daybreak 合作伙伴可使用 OpenAI 的前沿网络安全模型，为客户提供经授权、受治理机制约束的网络安全服务。"
+      ]
     },
     {
       "topic_id": "a947fc3f2d43",
@@ -2157,7 +2165,14 @@
           "published_at": "Mon, 10 Aug 2026 16:30:46 +0000"
         }
       ],
-      "route": "/hot/2026-08-11/topic/how-nops-shipped-finops-agents-75-faster-with-amazon-bedrock-agentcore/"
+      "route": "/hot/2026-08-11/topic/how-nops-shipped-finops-agents-75-faster-with-amazon-bedrock-agentcore/",
+      "headline_zh": "nOps 如何借助 Amazon Bedrock AgentCore 将 FinOps 智能体交付速度提升 75%",
+      "summary_short_zh": "nOps 在 Amazon Bedrock AgentCore 上重构了 Clara FinOps AI 智能体，取代了运行 LangChain 和 LangGraph 的自管 Amazon EKS 技术栈。",
+      "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "nOps 在 Amazon Bedrock AgentCore 上重构了 Clara FinOps AI 智能体，取代了运行 LangChain 和 LangGraph 的自管 Amazon EKS 技术栈。此举将上线周期缩短了 75%（从 10-12 个月..."
+      ]
     },
     {
       "topic_id": "9462d80df012",
@@ -2197,7 +2212,14 @@
           "published_at": "Mon, 10 Aug 2026 14:30:00 +0000"
         }
       ],
-      "route": "/hot/2026-08-11/topic/evolve-your-marketing-with-new-ai-tools/"
+      "route": "/hot/2026-08-11/topic/evolve-your-marketing-with-new-ai-tools/",
+      "headline_zh": "借助全新 AI 工具升级营销",
+      "summary_short_zh": "Google Ads 和 Google Analytics 中的 Advisor 界面",
+      "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Google Ads 和 Google Analytics 中的 Advisor 界面"
+      ]
     },
     {
       "topic_id": "503e20f20f0b",
@@ -2237,7 +2259,14 @@
           "published_at": "Mon, 10 Aug 2026 17:00:00 GMT"
         }
       ],
-      "route": "/hot/2026-08-11/topic/what-building-an-ai-native-finance-function-taught-me/"
+      "route": "/hot/2026-08-11/topic/what-building-an-ai-native-finance-function-taught-me/",
+      "headline_zh": "构建 AI 原生财务体系的心得",
+      "summary_short_zh": "OpenAI 首席财务官 Sarah Friar 分享构建 AI 原生财务体系的五点经验，涵盖自动化预测、加强内控和 AI 投资回报率",
+      "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "OpenAI 首席财务官 Sarah Friar 分享构建 AI 原生财务体系的五点经验，涵盖自动化预测、加强内控和 AI 投资回报率。"
+      ]
     },
     {
       "topic_id": "64307c9f0f30",
@@ -2294,7 +2323,16 @@
           "published_at": "2026-08-10T23:56:03+00:00"
         }
       ],
-      "route": "/hot/2026-08-11/topic/introducing-muse-glimmer/"
+      "route": "/hot/2026-08-11/topic/introducing-muse-glimmer/",
+      "headline_zh": "Muse Glimmer 亮相",
+      "summary_short_zh": "<p><strong><a href=\" Muse Glimmer</a></strong></p> Meta 重返开放权重模型领域！",
+      "why_it_matters_zh": "这条资讯有 6 个独立来源报道。",
+      "category_zh": "行业动态",
+      "key_takeaways_zh": [
+        "Muse Glimmer：针对持续运行的本地智能体工作流优化的 300 亿参数模型",
+        "Muse Glimmer 确实能装进单张 RTX 3090 的显存",
+        "有评论者指出，Meta 官方发布的 GGUF 版本已借助 DFlash 适配 24GB 和 32GB 显存配置，因此可能无需第三方 Unsloth 转换版本"
+      ]
     }
   ],
   "category_sections": [
@@ -2338,7 +2376,11 @@
               "published_at": "Mon, 10 Aug 2026 12:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-08-11/topic/model-ml-completes-finance-work-more-efficiently-with-gpt-5-6-sol/"
+          "route": "/hot/2026-08-11/topic/model-ml-completes-finance-work-more-efficiently-with-gpt-5-6-sol/",
+          "headline_zh": "Model ML 借助 GPT-5.6 Sol 更高效地完成财务工作",
+          "summary_short_zh": "Model ML 使用 GPT-5.6 Sol 处理财务工作，覆盖研究分析以及可编辑、可追溯的 PowerPoint 演示文稿和 Excel 工作簿制作",
+          "why_it_matters_zh": "此次产品发布有 1 个独立来源报道。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "1eb3a75decef",
@@ -2376,7 +2418,10 @@
               "published_at": "2026-08-10T11:57:17+00:00"
             }
           ],
-          "route": "/hot/2026-08-11/topic/finebooks-are-open-ocr-models-good-enough-to-unlock-historical-knowledge/"
+          "route": "/hot/2026-08-11/topic/finebooks-are-open-ocr-models-good-enough-to-unlock-historical-knowledge/",
+          "headline_zh": "FineBooks：开源 OCR 模型能胜任历史知识挖掘吗？",
+          "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "ca4b67aa6739",
@@ -2420,7 +2465,11 @@
               "published_at": "Mon, 10 Aug 2026 00:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-08-11/topic/how-zapier-transformed-core-marketing-processes-with-chatgpt-work/"
+          "route": "/hot/2026-08-11/topic/how-zapier-transformed-core-marketing-processes-with-chatgpt-work/",
+          "headline_zh": "Zapier 如何借助 ChatGPT Work 改造核心营销流程",
+          "summary_short_zh": "Zapier 的企业营销团队使用 ChatGPT Work，减少潜在客户在转化漏斗中的流失、制作营销活动素材，并实现报告自动化",
+          "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "bcb49529d2d7",
@@ -2458,7 +2507,11 @@
               "published_at": "Mon, 10 Aug 2026 00:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-08-11/topic/premium-seats-are-coming-to-chatgpt-business/"
+          "route": "/hot/2026-08-11/topic/premium-seats-are-coming-to-chatgpt-business/",
+          "headline_zh": "ChatGPT Business 即将推出高级席位",
+          "summary_short_zh": "8 月 20 日前注册，即可获得 100 美元工作区抵用金，并解锁更高使用额度，满足团队最繁重工作的需求",
+          "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "f48b61d7b56b",
@@ -2502,7 +2555,11 @@
               "published_at": "Mon, 10 Aug 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-08-11/topic/deepseek-v4-flash-0731-hits-82-7-on-terminal-bench-2-1-in-an-independent-public-harness-run-445-trials/"
+          "route": "/hot/2026-08-11/topic/deepseek-v4-flash-0731-hits-82-7-on-terminal-bench-2-1-in-an-independent-public-harness-run-445-trials/",
+          "headline_zh": "DeepSeek V4 Flash 0731 在独立评测中取得 Terminal-Bench 2.1 82.7% 的成绩（使用公开测试框架，共 445 次试验）",
+          "summary_short_zh": "Ante 作者称，使用公开的 Ante 0.preview.71，而非 DeepSeek 尚未发布的“minimal mode”测试框架，独立复现了 DeepSeek V4 Flash 0731 宣称的 Terminal-Bench 2.1 82.7% 成绩：445 次试验中成功 368 次，89 个任务各测试 5 次，推理强度设为最高，不使用技能，通过……",
+          "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2546,7 +2603,11 @@
               "published_at": "Mon, 10 Aug 2026 12:00:00 +0000"
             }
           ],
-          "route": "/hot/2026-08-11/topic/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/"
+          "route": "/hot/2026-08-11/topic/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
+          "headline_zh": "Discovered Materials 用 AI“打地鼠”，寻找运行温度更低的芯片",
+          "summary_short_zh": "Discovered Materials 融资 900 万美元，用于寻找更多新型材料，以制造效率更高的芯片",
+          "why_it_matters_zh": "1 个独立来源报道了此次融资。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "e40dbddef258",
@@ -2591,7 +2652,11 @@
               "published_at": "Mon, 10 Aug 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-08-11/topic/anthropic-s-claude-improves-a-riemann-hypothesis-related-bound/"
+          "route": "/hot/2026-08-11/topic/anthropic-s-claude-improves-a-riemann-hypothesis-related-bound/",
+          "headline_zh": "Anthropic 的 Claude 改进了与黎曼猜想相关的一个下界",
+          "summary_short_zh": "Anthropic 称，一款尚未发布的研究版 Claude 在尝试解决黎曼猜想时，未能证明该猜想，但改进了一个沿用已久的下界：据其生成的结果公告，位于临界线上的 ζ 函数零点比例下界由 41.6% 提高至 67.2%。",
+          "why_it_matters_zh": "2 个独立来源报道了此次融资。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -2644,7 +2709,11 @@
               "published_at": "Mon, 10 Aug 2026 14:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-08-11/topic/openai-s-letter-to-governor-abbott-on-responsible-ai-infrastructure-in-texas/"
+          "route": "/hot/2026-08-11/topic/openai-s-letter-to-governor-abbott-on-responsible-ai-infrastructure-in-texas/",
+          "headline_zh": "OpenAI 致阿博特州长的信：在得克萨斯州负责任地建设 AI 基础设施",
+          "summary_short_zh": "OpenAI 致信格雷格·阿博特州长，阐述了在得克萨斯州负责任地建设 AI 基础设施的承诺。信中主张以可靠、透明的方式推动发展，惠及得克萨斯州居民",
+          "why_it_matters_zh": "2 个独立来源报道了这一行业动向。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "346ab1b69d34",
@@ -2688,7 +2757,11 @@
               "published_at": "Tue, 11 Aug 2026 05:12:20 +0000"
             }
           ],
-          "route": "/hot/2026-08-11/topic/claude/"
+          "route": "/hot/2026-08-11/topic/claude/",
+          "headline_zh": "百年黎曼猜想被Claude破了新纪录！是个未公开新模型",
+          "summary_short_zh": "把下界推高了一大截",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "29a37f482d32",
@@ -2726,7 +2799,11 @@
               "published_at": "2026-08-11T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-11/topic/how-should-the-us-prepare-for-increasingly-automated-ai-r-d-ifp/"
+          "route": "/hot/2026-08-11/topic/how-should-the-us-prepare-for-increasingly-automated-ai-r-d-ifp/",
+          "headline_zh": "面对日益自动化的 AI 研发，美国应如何准备？（IFP）",
+          "summary_short_zh": "面对日益自动化的 AI 研发，美国应如何准备？（IFP",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "278221d7b17b",
@@ -2764,7 +2841,10 @@
               "published_at": "2026-08-11T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-11/topic/import-ai-468-23-rsi-ideas-posttrainbench-and-how-trust-and-transparency-interplay-with-ai-racing/"
+          "route": "/hot/2026-08-11/topic/import-ai-468-23-rsi-ideas-posttrainbench-and-how-trust-and-transparency-interplay-with-ai-racing/",
+          "headline_zh": "Import AI 第 468 期：23 个 RSI 构想；PostTrainBench+；信任、透明度与 AI 竞赛如何相互影响",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "9b236b9e4abb",
@@ -2802,7 +2882,11 @@
               "published_at": "2026-08-11T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-11/topic/scaling-automated-post-training-intology-blog/"
+          "route": "/hot/2026-08-11/topic/scaling-automated-post-training-intology-blog/",
+          "headline_zh": "扩大自动化后训练的规模（Intology 博客）",
+          "summary_short_zh": "扩大自动化后训练的规模（Intology 博客",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -2846,7 +2930,11 @@
               "published_at": "2026-08-07T18:42:04Z"
             }
           ],
-          "route": "/hot/2026-08-11/topic/qwen38maxfree-qwen-3-8-max-uncensored-free/"
+          "route": "/hot/2026-08-11/topic/qwen38maxfree-qwen-3-8-max-uncensored-free/",
+          "headline_zh": "qwen38maxfree/Qwen-3.8-Max-Uncensored-Free",
+          "summary_short_zh": "Qwen 3.8 Max Uncensored Free：阿里巴巴 MoE 模型，总参数 2.4 万亿，激活参数 950 亿。100 万 token 上下文，无过滤，可通过 Ollama 离线运行。Apache 2.0 许可。2026 年免费桌面客户端，支持 Windows/Mac/Linux。",
+          "why_it_matters_zh": "这条工具类资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "a048c44ceb9e",
@@ -2893,7 +2981,11 @@
               "published_at": "Mon, 10 Aug 2026 20:04:24 +0000"
             }
           ],
-          "route": "/hot/2026-08-11/topic/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/"
+          "route": "/hot/2026-08-11/topic/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
+          "headline_zh": "Claude 智能体入侵健身房系统，引发科技界热议",
+          "summary_short_zh": "一个 OpenClaw 智能体入侵健身房预约系统，让它的人类老板在某节课的候补名单中排得更靠前，引起了科技界的关注。",
+          "why_it_matters_zh": "这条工具类资讯见于 2 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "ab257f7d6dbc",
@@ -2931,7 +3023,11 @@
               "published_at": "2026-08-09T22:05:00+00:00"
             }
           ],
-          "route": "/hot/2026-08-11/topic/sqlite-compressed-text-history-prototypes/"
+          "route": "/hot/2026-08-11/topic/sqlite-compressed-text-history-prototypes/",
+          "headline_zh": "SQLite 文本历史压缩存储原型",
+          "summary_short_zh": "<p><strong>研究：</strong> <a href=\" 文本历史压缩存储原型</a></p> <p>我一直对在关系数据库中存储修订历史的各种方案很感兴趣。",
+          "why_it_matters_zh": "这条工具类资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "723e034eb83d",
@@ -2969,7 +3065,11 @@
               "published_at": "2026-08-09T22:48:05+00:00"
             }
           ],
-          "route": "/hot/2026-08-11/topic/github-models-is-now-retired/"
+          "route": "/hot/2026-08-11/topic/github-models-is-now-retired/",
+          "headline_zh": "GitHub Models 已停止服务",
+          "summary_short_zh": "<p><strong><a href=\" Models 已停止服务</a></strong></p> 我直到今天才注意到这条消息，当时我的 <a href=\" 仓库的 GitHub Actions 运行失败，报错如下：</p> <blockquote> <p>GitHub Models 正进行计划中的停用预演，暂时不可用。</p>",
+          "why_it_matters_zh": "这条工具类资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     }
@@ -3015,7 +3115,11 @@
               "published_at": "Mon, 10 Aug 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-08-11/topic/provider-variance-is-still-huge/"
+          "route": "/hot/2026-08-11/topic/provider-variance-is-still-huge/",
+          "headline_zh": "服务商之间的差异仍然很大",
+          "summary_short_zh": "在关于 Muse Glimmer、DeepSeek V4 Flash 和托管推理的推文中，一个工程问题反复出现：“同一模型”并不意味着相同的用户体验。Artificial Analysis 预告了一场讨论，探讨为何不同服务商的输出速度可相差 15 倍。",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -3059,7 +3163,11 @@
               "published_at": "2026-08-11T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-11/topic/now-we-have-a-timeline-of-the-openai-accidental-attack-against-hugging-face-simon-willison-weblog/"
+          "route": "/hot/2026-08-11/topic/now-we-have-a-timeline-of-the-openai-accidental-attack-against-hugging-face-simon-willison-weblog/",
+          "headline_zh": "OpenAI 意外攻击 Hugging Face 的事件时间线出炉（Simon Willison 的博客）",
+          "summary_short_zh": "OpenAI 意外攻击 Hugging Face 的事件时间线出炉（Simon Willison 的博客",
+          "why_it_matters_zh": "这条其他类资讯来自 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "65ddb41e04c3",
@@ -3097,7 +3205,11 @@
               "published_at": "Tue, 11 Aug 2026 03:11:12 +0000"
             }
           ],
-          "route": "/hot/2026-08-11/topic/ai-ai/"
+          "route": "/hot/2026-08-11/topic/ai-ai/",
+          "headline_zh": "当AI开始“自作主张”，谁来为智能体戴上“项圈”？全球AI安全实战化大考，中国方案打入前三",
+          "summary_short_zh": "全球AI安全实战化测评，中国方案DoGNAVY位列前三",
+          "why_it_matters_zh": "这条其他类资讯来自 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "8eba43d95cd5",
@@ -3135,7 +3247,11 @@
               "published_at": "2026-08-10T10:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-11/topic/what-happens-to-bose-when-headphones-become-ai/"
+          "route": "/hot/2026-08-11/topic/what-happens-to-bose-when-headphones-become-ai/",
+          "headline_zh": "当耳机变成 AI，Bose 将何去何从？",
+          "summary_short_zh": "今天，我将与 Bose 首席执行官 Lila Snyder 对谈。你一定听说过 Bose，它是消费科技领域最知名的品牌之一。这家公司 60 年前以向消费者销售音箱起家，对研发的重视使其在两个领域都处于领先地位……",
+          "why_it_matters_zh": "有 1 个独立来源报道了这一行业动向。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "09334273c5ff",
@@ -3173,7 +3289,11 @@
               "published_at": "Mon, 10 Aug 2026 16:34:37 +0000"
             }
           ],
-          "route": "/hot/2026-08-11/topic/run-interactive-ides-on-amazon-eks-with-sagemaker-ai-to-power-up-your-ai-workflows/"
+          "route": "/hot/2026-08-11/topic/run-interactive-ides-on-amazon-eks-with-sagemaker-ai-to-power-up-your-ai-workflows/",
+          "headline_zh": "借助 SageMaker AI 在 Amazon EKS 上运行交互式 IDE，提升 AI 工作流效率",
+          "summary_short_zh": "适用于 Amazon EKS 的 Amazon SageMaker AI Spaces 插件，可在机器学习团队现有的集群上运行托管的 JupyterLab 和 Code Editor 环境。",
+          "why_it_matters_zh": "本教程来自 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "e0e4e9cda677",
@@ -3211,7 +3331,11 @@
               "published_at": "Mon, 10 Aug 2026 15:25:00 -0400"
             }
           ],
-          "route": "/hot/2026-08-11/topic/with-a-feel-for-physics-ai-models-simulate-a-wider-range-of-real-world-scenarios/"
+          "route": "/hot/2026-08-11/topic/with-a-feel-for-physics-ai-models-simulate-a-wider-range-of-real-world-scenarios/",
+          "headline_zh": "有了物理直觉，AI 模型能模拟更多现实场景",
+          "summary_short_zh": "“GeoPT” 帮助 AI 模型理解基本物理规律，从而更高效、更准确地模拟物体在风、水等作用下的反应",
+          "why_it_matters_zh": "这条其他类资讯来自 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "1ce1501fc3ea",
@@ -3249,7 +3373,11 @@
               "published_at": "Mon, 10 Aug 2026 11:00:47 +0000"
             }
           ],
-          "route": "/hot/2026-08-11/topic/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/"
+          "route": "/hot/2026-08-11/topic/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/",
+          "headline_zh": "同行评审已不堪重负，还能在 AI 时代撑下去吗？",
+          "summary_short_zh": "随着研究成果和 AI 辅助撰写的论文激增，志愿审稿人难以跟上",
+          "why_it_matters_zh": "这条其他类资讯来自 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "9d6e3956979d",
@@ -3287,7 +3415,11 @@
               "published_at": "2026-08-10T07:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-11/topic/ford-s-new-ai-assistant-can-check-your-fuel-levels-and-tire-pressure/"
+          "route": "/hot/2026-08-11/topic/ford-s-new-ai-assistant-can-check-your-fuel-levels-and-tire-pressure/",
+          "headline_zh": "福特新款 AI 助手可检查油量和胎压",
+          "summary_short_zh": "福特正在推出一款全新的 AI 助手，可以回答有关你的福特或林肯汽车的问题，比如下次自驾游需要多少燃油，或你的卡车能否拖得动那艘新汽艇。该助手正率先在福特和林肯的手机应用中上线……",
+          "why_it_matters_zh": "这条其他类资讯来自 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }

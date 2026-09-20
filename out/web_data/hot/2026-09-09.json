@@ -2304,7 +2304,15 @@
           "published_at": "Tue, 08 Sep 2026 17:32:15 +0000"
         }
       ],
-      "route": "/hot/2026-09-09/topic/on-the-navier-stokes-millennium-prize-problem/"
+      "route": "/hot/2026-09-09/topic/on-the-navier-stokes-millennium-prize-problem/",
+      "headline_zh": "关于纳维–斯托克斯千禧年大奖难题",
+      "summary_short_zh": "我们分享一份由 AI 生成的纳维–斯托克斯千禧年大奖难题解答，包括书面说明和用 Lean 编写的形式化证明",
+      "why_it_matters_zh": "此次产品发布消息见于 3 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "首位解决纳维–斯托克斯方程存在性与光滑性问题的人可获得 100 万美元奖金。",
+        "我们分享一份由 AI 生成的纳维–斯托克斯千禧年大奖难题解答，包括书面说明和用 Lean 编写的形式化证明。"
+      ]
     },
     {
       "topic_id": "20f9fe348217",
@@ -2355,7 +2363,15 @@
           "published_at": "2026-09-08T16:16:09-04:00"
         }
       ],
-      "route": "/hot/2026-09-09/topic/introducing-chatgpt-images-2-5/"
+      "route": "/hot/2026-09-09/topic/introducing-chatgpt-images-2-5/",
+      "headline_zh": "推出 ChatGPT Images 2.5",
+      "summary_short_zh": "ChatGPT Images 2.5 可将你的想法、草图和参考照片转化为更具个性、更精致的图像，更贴合你的构想",
+      "why_it_matters_zh": "此次产品发布消息见于 3 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "ChatGPT Images 2.5 可将你的想法、草图和参考照片转化为更具个性、更精致的图像，更贴合你的构想。",
+        "OpenAI 周二宣布推出 ChatGPT Images 2.5，并新增了一种告诉 ChatGPT 你想画什么的方式：随手涂鸦。借助名为 Sketch 的新功能，你只需画一画……"
+      ]
     },
     {
       "topic_id": "d986ffc79eaa",
@@ -2402,7 +2418,15 @@
           "published_at": "Tue, 08 Sep 2026 17:03:50 +0000"
         }
       ],
-      "route": "/hot/2026-09-09/topic/govern-models-with-mlflow-and-amazon-sagemaker-ai-model-registry-sync-part-2/"
+      "route": "/hot/2026-09-09/topic/govern-models-with-mlflow-and-amazon-sagemaker-ai-model-registry-sync-part-2/",
+      "headline_zh": "利用 MLflow 与 Amazon SageMaker AI Model Registry 的同步功能治理模型：第 2 部分",
+      "summary_short_zh": "模型自动注册之后，下一步是跨账户治理。本文将托管 MLflow 与 Amazon SageMaker AI Model Registry 的同步扩展至两种跨账户治理拓扑：利用 AWS RAM 实现集中治理的中心辐射模式，以及一种混合模式……",
+      "why_it_matters_zh": "此次产品发布消息见于 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Amazon SageMaker AI 上的托管 MLflow 现可将更丰富的模型元数据（训练指标、评估结果、推理规格和血缘信息）同步至 SageMaker AI Model Registry，并附带生命周期阶段……",
+        "模型自动注册之后，下一步是跨账户治理。本文将托管 MLflow 与 Amazon SageMaker AI Model Registry 的同步扩展至两种跨账户治理拓扑……"
+      ]
     },
     {
       "topic_id": "f750bc933b8b",
@@ -2442,7 +2466,14 @@
           "published_at": "Tue, 08 Sep 2026 18:29:15 +0000"
         }
       ],
-      "route": "/hot/2026-09-09/topic/amazon-sagemaker-feature-store-introduces-updaterecord-for-feature-level-writes/"
+      "route": "/hot/2026-09-09/topic/amazon-sagemaker-feature-store-introduces-updaterecord-for-feature-level-writes/",
+      "headline_zh": "Amazon SageMaker Feature Store 推出 UpdateRecord，支持特征级写入",
+      "summary_short_zh": "Amazon SageMaker Feature Store 现已支持特征级写入。通过新增的 UpdateRecord API，一次调用即可更新一个或多个特征值，无需读取或重写整条记录。",
+      "why_it_matters_zh": "此次产品发布消息见于 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Amazon SageMaker Feature Store 现已支持特征级写入。通过新增的 UpdateRecord API，一次调用即可更新一个或多个特征值，无需读取或重写整条记录……"
+      ]
     },
     {
       "topic_id": "f2015dcd6b5f",
@@ -2492,7 +2523,15 @@
           "published_at": "2026-09-08T00:00:00.000Z"
         }
       ],
-      "route": "/hot/2026-09-09/topic/omni-interaction-agent-technical-report/"
+      "route": "/hot/2026-09-09/topic/omni-interaction-agent-technical-report/",
+      "headline_zh": "全模态交互智能体技术报告",
+      "summary_short_zh": "本文介绍 Gander，这一端到端模型在统一框架中融合了全模态感知、实时交互和智能体能力。",
+      "why_it_matters_zh": "这篇研究论文见于 2 个独立来源。",
+      "category_zh": "研究",
+      "key_takeaways_zh": [
+        "开源端到端全模态交互智能体，支持自然的全双工语音协作、持续视听感知和异步长程任务执行。",
+        "本文介绍 Gander，这一端到端模型在统一框架中融合了全模态感知、实时交互和智能体能力。相比传统的轮次式交互……"
+      ]
     }
   ],
   "category_sections": [
@@ -2536,7 +2575,11 @@
               "published_at": "Tue, 08 Sep 2026 19:12:51 +0000"
             }
           ],
-          "route": "/hot/2026-09-09/topic/pathway-s-brain-inspired-architecture-development-on-amazon-sagemaker-hyperpod/"
+          "route": "/hot/2026-09-09/topic/pathway-s-brain-inspired-architecture-development-on-amazon-sagemaker-hyperpod/",
+          "headline_zh": "Pathway 基于 Amazon SageMaker HyperPod 开发类脑架构",
+          "summary_short_zh": "Pathway 的 Baby Dragon Hatchling（BDH）是一种受大脑启发的后 Transformer 架构，在潜在空间中推理，而非输出思维链词元。",
+          "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "4615ededca3b",
@@ -2583,7 +2626,11 @@
               "published_at": "2026-09-09T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-09/topic/take-on-your-most-ambitious-work-with-gpt-6-astra-on-amazon-bedrock/"
+          "route": "/hot/2026-09-09/topic/take-on-your-most-ambitious-work-with-gpt-6-astra-on-amazon-bedrock/",
+          "headline_zh": "借助 Amazon Bedrock 上的 GPT-6 Astra，应对最具挑战性的工作",
+          "summary_short_zh": "OpenAI 的 GPT-6 Astra 现已在 Amazon Bedrock 正式上线。它依托专为高性能、安全性和大规模应用打造的 Amazon Bedrock 推理引擎，以更深入的推理和更敏锐的判断应对最严苛的任务。",
+          "why_it_matters_zh": "该产品发布消息见于 2 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "b786a2867ca4",
@@ -2621,7 +2668,11 @@
               "published_at": "Tue, 08 Sep 2026 16:15:23 +0000"
             }
           ],
-          "route": "/hot/2026-09-09/topic/how-hpe-zerto-built-an-agentic-troubleshooting-system-with-amazon-bedrock/"
+          "route": "/hot/2026-09-09/topic/how-hpe-zerto-built-an-agentic-troubleshooting-system-with-amazon-bedrock/",
+          "headline_zh": "HPE Zerto 如何利用 Amazon Bedrock 构建智能体故障排查系统",
+          "summary_short_zh": "HPE Zerto 构建了一套由 Amazon Bedrock 驱动的智能体故障排查系统，在客户本地环境中运行。",
+          "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "0a52ad2b6307",
@@ -2659,7 +2710,10 @@
               "published_at": "2026-09-08T14:03:22+00:00"
             }
           ],
-          "route": "/hot/2026-09-09/topic/making-open-source-ai-weather-forecasting-models-easy-to-run/"
+          "route": "/hot/2026-09-09/topic/making-open-source-ai-weather-forecasting-models-easy-to-run/",
+          "headline_zh": "让开源 AI 天气预报模型更易运行",
+          "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "4f37e63c910d",
@@ -2697,7 +2751,11 @@
               "published_at": "Tue, 08 Sep 2026 16:21:57 +0000"
             }
           ],
-          "route": "/hot/2026-09-09/topic/benchmarking-small-llm-inference-on-sagemaker-ai-g7-vs-g5-and-g6/"
+          "route": "/hot/2026-09-09/topic/benchmarking-small-llm-inference-on-sagemaker-ai-g7-vs-g5-and-g6/",
+          "headline_zh": "SageMaker AI 上的小型大语言模型推理基准测试：G7 对比 G5 和 G6",
+          "summary_short_zh": "在 Amazon SageMaker AI 的 G5、G6、G6e 和 G7 GPU 实例上，对 Qwen3-Coder-30B 和 NVIDIA Nemotron-3-Nano-30B 两个 300 亿参数的混合专家模型进行基准测试。",
+          "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2741,7 +2799,11 @@
               "published_at": "Tue, 08 Sep 2026 21:04:06 +0000"
             }
           ],
-          "route": "/hot/2026-09-09/topic/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/"
+          "route": "/hot/2026-09-09/topic/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+          "headline_zh": "Cognition 估值达 480 亿美元，表明投资者认为 AI 编程市场远未形成赢家通吃的格局",
+          "summary_short_zh": "Cognition 的估值倍数高于 Cursor 被 SpaceX 收购前的水平",
+          "why_it_matters_zh": "该融资消息见于 1 个独立来源。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "381d0175972f",
@@ -2779,7 +2841,11 @@
               "published_at": "2026-09-08T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-09-09/topic/mistral-raises-3b-to-make-sovereign-open-weight-ai-the-technology-frontier/"
+          "route": "/hot/2026-09-09/topic/mistral-raises-3b-to-make-sovereign-open-weight-ai-the-technology-frontier/",
+          "headline_zh": "Mistral 融资 30 亿欧元，推动开放权重的主权 AI 跻身技术前沿",
+          "summary_short_zh": "公司",
+          "why_it_matters_zh": "该融资消息见于 1 个独立来源。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "202b248ee44b",
@@ -2817,7 +2883,11 @@
               "published_at": "Tue, 08 Sep 2026 09:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-09-09/topic/funding-grants-for-new-research-into-ai-and-teen-development/"
+          "route": "/hot/2026-09-09/topic/funding-grants-for-new-research-into-ai-and-teen-development/",
+          "headline_zh": "为 AI 与青少年发展的新研究提供资助",
+          "summary_short_zh": "立即申请 OpenAI 的 500 万美元资助计划。该计划支持有关生成式 AI 如何影响青少年发展、福祉和安全的独立研究。",
+          "why_it_matters_zh": "该融资消息见于 1 个独立来源。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -2861,7 +2931,11 @@
               "published_at": "2026-09-09T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-09/topic/what-56-000-americans-told-us-about-ai-policy-center-for-shared-ai-prosperity/"
+          "route": "/hot/2026-09-09/topic/what-56-000-americans-told-us-about-ai-policy-center-for-shared-ai-prosperity/",
+          "headline_zh": "56,000 名美国人向我们表达的 AI 政策看法（Center for Shared AI Prosperity）",
+          "summary_short_zh": "56,000 名美国人向我们表达的 AI 政策看法（Center for Shared AI Prosperity",
+          "why_it_matters_zh": "这一行业动向见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "35c8dcedbccf",
@@ -2909,7 +2983,11 @@
               "published_at": "Tue, 08 Sep 2026 19:00:00 +0000"
             }
           ],
-          "route": "/hot/2026-09-09/topic/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race/"
+          "route": "/hot/2026-09-09/topic/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race/",
+          "headline_zh": "Meta 押注 AI 智能体 Muse，力争在 AI 竞赛中迎头赶上",
+          "summary_short_zh": "Meta 正借助个人助理 Muse 再次推动人工智能走向大众。该公司表示，Muse 能让几乎所有人都用上 AI。",
+          "why_it_matters_zh": "这条其他类消息见于 3 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "b656ef2d0f83",
@@ -2947,7 +3025,10 @@
               "published_at": "2026-09-09T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-09/topic/import-ai-472-deepmind-s-cheating-math-agents-populist-ai-policies-and-forethought-theorizes-a-nightwatchman/"
+          "route": "/hot/2026-09-09/topic/import-ai-472-deepmind-s-cheating-math-agents-populist-ai-policies-and-forethought-theorizes-a-nightwatchman/",
+          "headline_zh": "Import AI 第 472 期：DeepMind 的数学智能体作弊；民粹主义 AI 政策；Forethought 提出守夜人构想",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "37e8f1d2eec4",
@@ -2985,7 +3066,10 @@
               "published_at": "2026-09-09T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-09/topic/import-ai-471-why-hugging-face-worries-me-space-mining-five-eyes-on-ai/"
+          "route": "/hot/2026-09-09/topic/import-ai-471-why-hugging-face-worries-me-space-mining-five-eyes-on-ai/",
+          "headline_zh": "Import AI 第 471 期：Hugging Face 为何让我担忧；太空采矿；五眼联盟关注 AI",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "1edb8587f209",
@@ -3023,7 +3107,11 @@
               "published_at": "2026-09-09T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-09/topic/discovery-of-a-new-openai-agent-message-board-collusion-wiki/"
+          "route": "/hot/2026-09-09/topic/discovery-of-a-new-openai-agent-message-board-collusion-wiki/",
+          "headline_zh": "发现一个新的 OpenAI 智能体留言板（Collusion Wiki）",
+          "summary_short_zh": "发现一个新的 OpenAI 智能体留言板（Collusion Wiki",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -3067,7 +3155,11 @@
               "published_at": "Tue, 08 Sep 2026 16:23:21 +0000"
             }
           ],
-          "route": "/hot/2026-09-09/topic/automated-agent-evaluation-with-amazon-bedrock-agentcore-and-github-actions/"
+          "route": "/hot/2026-09-09/topic/automated-agent-evaluation-with-amazon-bedrock-agentcore-and-github-actions/",
+          "headline_zh": "使用 Amazon Bedrock AgentCore 和 GitHub Actions 自动评估智能体",
+          "summary_short_zh": "将 Amazon Bedrock AgentCore Evaluations 接入 GitHub Actions 流水线：将 AI 智能体和受 OAuth 保护的 MCP 服务器部署到 AgentCore 运行时，用测试提示词调用智能体，对响应评分，并在智能体行为退化时自动阻止拉取请求合并",
+          "why_it_matters_zh": "这条工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "77a8aa8cf663",
@@ -3105,7 +3197,11 @@
               "published_at": "2026-09-08T10:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-09/topic/google-s-atlas-of-the-human-genome-could-pave-the-way-for-new-treatments/"
+          "route": "/hot/2026-09-09/topic/google-s-atlas-of-the-human-genome-could-pave-the-way-for-new-treatments/",
+          "headline_zh": "Google 的人类基因组图谱 Atlas 有望为新疗法铺路",
+          "summary_short_zh": "Google DeepMind 发布了一款 AI 工具。其科学家表示，该工具有望帮助揭开人类基因组的奥秘，改变我们对生物学的理解，加速科研进程，最终为新的疾病疗法铺路。",
+          "why_it_matters_zh": "这条工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "037a25ac5b52",
@@ -3143,7 +3239,10 @@
               "published_at": "2026-09-08T05:20:23Z"
             }
           ],
-          "route": "/hot/2026-09-09/topic/multi-agents-llm-financial-trading-framework/"
+          "route": "/hot/2026-09-09/topic/multi-agents-llm-financial-trading-framework/",
+          "headline_zh": "基于大语言模型的多智能体金融交易框架",
+          "why_it_matters_zh": "这条工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     }
@@ -3189,7 +3288,11 @@
               "published_at": "Tue, 08 Sep 2026 13:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-09-09/topic/the-work-now-within-reach/"
+          "route": "/hot/2026-09-09/topic/the-work-now-within-reach/",
+          "headline_zh": "如今能够完成的工作",
+          "summary_short_zh": "了解更强大、更实惠的 AI 如何帮助个人和企业完成更多工作，并降低增长成本",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "45b7aea7e9f2",
@@ -3236,7 +3339,11 @@
               "published_at": "2026-09-09T07:22:46Z"
             }
           ],
-          "route": "/hot/2026-09-09/topic/how-gpt-5-6-sol-helps-run-quantum-computing-experiments/"
+          "route": "/hot/2026-09-09/topic/how-gpt-5-6-sol-helps-run-quantum-computing-experiments/",
+          "headline_zh": "GPT-5.6 Sol 如何帮助开展量子计算实验",
+          "summary_short_zh": "了解麻省理工学院的一位研究人员如何结合使用 GPT-5.6 Sol 和 Codex，让 AI 自主开展量子计算实验、分析结果并校准量子比特",
+          "why_it_matters_zh": "有 2 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "89ee38528ebc",
@@ -3274,7 +3381,11 @@
               "published_at": "2026-09-08T16:53:52-04:00"
             }
           ],
-          "route": "/hot/2026-09-09/topic/drama-swirls-around-openai-s-legendary-mathematical-milestone/"
+          "route": "/hot/2026-09-09/topic/drama-swirls-around-openai-s-legendary-mathematical-milestone/",
+          "headline_zh": "OpenAI 的传奇数学突破引发风波",
+          "summary_short_zh": "据《纽约时报》和《连线》此前报道，OpenAI 表示已找到一个重大数学难题的解法，该问题此前约 90 年未获解决。",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "53e13c35e9ad",
@@ -3312,7 +3423,11 @@
               "published_at": "2026-09-08T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-09-09/topic/cohere-s-north-mini-code-megakernel-serving-engine-cohere/"
+          "route": "/hot/2026-09-09/topic/cohere-s-north-mini-code-megakernel-serving-engine-cohere/",
+          "headline_zh": "Cohere 的 North Mini Code Megakernel 推理服务引擎 | Cohere",
+          "summary_short_zh": "Cohere 推出首个基于解码 Megakernel 的生产级大语言模型推理服务系统，速度达 vLLM 的 1.58 倍",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "8a99fe625bfb",
@@ -3350,7 +3465,11 @@
               "published_at": "Tue, 08 Sep 2026 00:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-09-09/topic/openai-expands-initiatives-to-support-journalism-from-classrooms-to-newsrooms/"
+          "route": "/hot/2026-09-09/topic/openai-expands-initiatives-to-support-journalism-from-classrooms-to-newsrooms/",
+          "headline_zh": "OpenAI 扩大新闻业支持计划，覆盖课堂与编辑部",
+          "summary_short_zh": "OpenAI 正加大对新闻业的支持力度，为学生、教育工作者、记者和新闻机构提供工具、培训与合作机会",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "647599735ea8",
@@ -3388,7 +3507,11 @@
               "published_at": "Tue, 08 Sep 2026 00:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-09-09/topic/1password-increases-engineering-productivity-21-with-codex/"
+          "route": "/hot/2026-09-09/topic/1password-increases-engineering-productivity-21-with-codex/",
+          "headline_zh": "1Password 借助 Codex 将研发效率提高 21%",
+          "summary_short_zh": "1Password 的工程师使用 Codex 快速开发新功能和内部工具，在严格遵守安全政策的同时达到上线要求",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -3432,7 +3555,11 @@
               "published_at": "Wed, 09 Sep 2026 05:02:30 +0000"
             }
           ],
-          "route": "/hot/2026-09-09/topic/ai/"
+          "route": "/hot/2026-09-09/topic/ai/",
+          "headline_zh": "蚂蚁百灵发布首个金融增强模型，AI开始进入真实投研工作流",
+          "summary_short_zh": "蚂蚁集团百灵首个金融增强开放模型 Ling-3.0-flash-Fin发布。",
+          "why_it_matters_zh": "这则其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "94e513022e62",
@@ -3470,7 +3597,11 @@
               "published_at": "2026-09-08T13:27:31-04:00"
             }
           ],
-          "route": "/hot/2026-09-09/topic/ai-power-users-claim-anthropic-duped-them-with-subscriptions-and-they-re-taking-it-to-court/"
+          "route": "/hot/2026-09-09/topic/ai-power-users-claim-anthropic-duped-them-with-subscriptions-and-they-re-taking-it-to-court/",
+          "headline_zh": "AI 重度用户称 Anthropic 在订阅服务上欺骗他们，正将其告上法庭",
+          "summary_short_zh": "Anthropic 表示，重度用户对其业务至关重要，公司一直优先满足他们的需求，即使为此要切断 OpenClaw 等热门应用的接入。但其中一些用户表示，Anthropic 误导了他们，让他们以为最高档订阅能提供比实际更多的服务。",
+          "why_it_matters_zh": "这则其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }

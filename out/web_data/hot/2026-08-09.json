@@ -1156,7 +1156,10 @@
           "published_at": "2026-08-08T15:38:52+00:00"
         }
       ],
-      "route": "/hot/2026-08-09/topic/model-genome-fingerprinting-whether-an-llm-was-trained-from-scratch-or-derived/"
+      "route": "/hot/2026-08-09/topic/model-genome-fingerprinting-whether-an-llm-was-trained-from-scratch-or-derived/",
+      "headline_zh": "Model Genome：通过指纹识别判断大语言模型是从零训练还是由其他模型衍生而来",
+      "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "f00797f8cb5f",
@@ -1196,7 +1199,14 @@
           "published_at": "2026-08-04T15:58:55Z"
         }
       ],
-      "route": "/hot/2026-08-09/topic/utopia-v-codex-deepseek-subagent/"
+      "route": "/hot/2026-08-09/topic/utopia-v-codex-deepseek-subagent/",
+      "headline_zh": "Utopia-V/codex-deepseek-subagent",
+      "summary_short_zh": "无需替换 OpenAI 主智能体，即可将 DeepSeek V4 Flash 作为 Codex 原生子智能体运行",
+      "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "无需替换 OpenAI 主智能体，即可将 DeepSeek V4 Flash 作为 Codex 原生子智能体运行。"
+      ]
     },
     {
       "topic_id": "280287b9e0c0",
@@ -1242,7 +1252,14 @@
           "published_at": "2026-08-08T14:06:41+00:00"
         }
       ],
-      "route": "/hot/2026-08-09/topic/now-we-have-a-timeline-of-the-openai-accidental-attack-against-hugging-face/"
+      "route": "/hot/2026-08-09/topic/now-we-have-a-timeline-of-the-openai-accidental-attack-against-hugging-face/",
+      "headline_zh": "OpenAI 误攻击 Hugging Face 的事件时间线现已公布",
+      "summary_short_zh": "<p>OpenAI 周三在 Black Hat 安全大会上临时做了一场关于“Hugging Face 事件”的演讲（<a href=\"见本博客）。<a href=\"视频</a>已于昨天发布。",
+      "why_it_matters_zh": "1 个独立来源报道了此次融资。",
+      "category_zh": "市场信号",
+      "key_takeaways_zh": [
+        "<p>OpenAI 周三在 Black Hat 安全大会上临时做了一场关于“Hugging Face 事件”的演讲（<a href=\"https://simonwillison.net/2026/Jul/22/openai-cyberattack/\">此前报道</a..."
+      ]
     },
     {
       "topic_id": "71e1e9d01661",
@@ -1282,7 +1299,14 @@
           "published_at": "2026-08-05T10:26:26Z"
         }
       ],
-      "route": "/hot/2026-08-09/topic/uditakhourii-neuroarxiv/"
+      "route": "/hot/2026-08-09/topic/uditakhourii-neuroarxiv/",
+      "headline_zh": "UditAkhourii/neuroarxiv",
+      "summary_short_zh": "让你告别从零写代码的技能：Claude 在设计新架构前，先查阅 arXiv 上真实存在的相关研究",
+      "why_it_matters_zh": "1 个独立来源提及了这篇研究论文。",
+      "category_zh": "研究",
+      "key_takeaways_zh": [
+        "让你告别从零写代码的技能：Claude 在设计新架构前，先查阅 arXiv 上真实存在的相关研究。"
+      ]
     },
     {
       "topic_id": "aaff0fec96aa",
@@ -1330,7 +1354,15 @@
           "published_at": "2026-08-08T13:53:34-04:00"
         }
       ],
-      "route": "/hot/2026-08-09/topic/an-amazon-data-center-could-have-the-worst-polluting-power-plant-in-the-country/"
+      "route": "/hot/2026-08-09/topic/an-amazon-data-center-could-have-the-worst-polluting-power-plant-in-the-country/",
+      "headline_zh": "Amazon 的一座数据中心可能配备全美污染最严重的发电厂",
+      "summary_short_zh": "据《纽约时报》报道，Amazon 正投资建设一座新电厂，为其位于得克萨斯州西部的新数据中心供电。该电厂可能成为美国最大的温室气体单一排放源之一。",
+      "why_it_matters_zh": "2 个独立来源报道了这条其他类资讯。",
+      "category_zh": "行业动态",
+      "key_takeaways_zh": [
+        "Amazon 正为得克萨斯州拟建的数据中心投资建设园区内电厂，据报道，该电厂可能成为美国最大的温室气体排放源。",
+        "为给其位于得克萨斯州西部的新数据中心供电，Amazon 正投资建设一座新电厂。该电厂可能成为美国最大的温室气体单一排放源之一，据..."
+      ]
     }
   ],
   "category_sections": [
@@ -1380,7 +1412,10 @@
               "published_at": "2026-08-09T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-09/topic/4-min-read-former-openai-researcher-launches-desktop-agent/"
+          "route": "/hot/2026-08-09/topic/4-min-read-former-openai-researcher-launches-desktop-agent/",
+          "headline_zh": "阅读需 4 分钟｜前 OpenAI 研究员推出桌面智能体",
+          "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -1424,7 +1459,11 @@
               "published_at": "2026-08-08T22:36:03+00:00"
             }
           ],
-          "route": "/hot/2026-08-09/topic/auto-mode-is-now-the-default-in-claude-code-for-pro-max-and-team-plans/"
+          "route": "/hot/2026-08-09/topic/auto-mode-is-now-the-default-in-claude-code-for-pro-max-and-team-plans/",
+          "headline_zh": "Claude Code 的 Pro、Max 和 Team 套餐现已默认启用自动模式",
+          "summary_short_zh": "<p><strong><a href=\"模式现已成为 Claude Code 的 Pro、Max 和 Team 套餐的默认设置</a></strong></p> Anthropic 对 Claude Code 的<a href=\"模式</a><em>非常</em>有信心，甚至要将其设为大多数 Claude Code 套餐中新会话的默认设置，生效时间为",
+          "why_it_matters_zh": "这条其他类资讯有 1 个独立来源提及。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "f514cb46f7a9",
@@ -1462,7 +1501,11 @@
               "published_at": "Sun, 09 Aug 2026 03:25:00 +0000"
             }
           ],
-          "route": "/hot/2026-08-09/topic/opus-5-6-9-token-gpt-5-6-5/"
+          "route": "/hot/2026-08-09/topic/opus-5-6-9-token-gpt-5-6-5/",
+          "headline_zh": "Opus 5狂烧6.9亿token做游戏，GPT-5.6用5美元复刻了",
+          "summary_short_zh": "据说GPT-5.6很适合拿来做游戏",
+          "why_it_matters_zh": "这条其他类资讯有 1 个独立来源提及。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "c842e95c2ba4",
@@ -1500,7 +1543,10 @@
               "published_at": "2026-08-09T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-09/topic/import-ai-455-ai-systems-are-about-to-start-building-themselves-what-does-that-mean/"
+          "route": "/hot/2026-08-09/topic/import-ai-455-ai-systems-are-about-to-start-building-themselves-what-does-that-mean/",
+          "headline_zh": "Import AI 第 455 期：“AI 系统即将开始自我构建，这意味着什么？”",
+          "why_it_matters_zh": "这条其他类资讯有 1 个独立来源提及。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "1b41340b9045",
@@ -1538,7 +1584,10 @@
               "published_at": "2026-08-09T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-09/topic/import-ai-467-self-sustaining-ai-viruses-pacing-ai-progress-confusion-about-ai-and-creativity/"
+          "route": "/hot/2026-08-09/topic/import-ai-467-self-sustaining-ai-viruses-pacing-ai-progress-confusion-about-ai-and-creativity/",
+          "headline_zh": "Import AI 第 467 期：可自我维持的 AI 病毒；调节 AI 发展节奏；关于 AI 与创造力的困惑",
+          "why_it_matters_zh": "这条其他类资讯有 1 个独立来源提及。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "fa8d22762b4a",
@@ -1576,7 +1625,11 @@
               "published_at": "2026-08-09T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-09/topic/ten-advances-in-mathematics-and-theoretical-computer-science-openai-blog/"
+          "route": "/hot/2026-08-09/topic/ten-advances-in-mathematics-and-theoretical-computer-science-openai-blog/",
+          "headline_zh": "数学与理论计算机科学的十项进展（OpenAI 博客）",
+          "summary_short_zh": "数学与理论计算机科学的十项进展（OpenAI 博客",
+          "why_it_matters_zh": "这条其他类资讯有 1 个独立来源提及。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -1622,7 +1675,11 @@
               "published_at": "Sun, 09 Aug 2026 03:40:25 +0000"
             }
           ],
-          "route": "/hot/2026-08-09/topic/ai-rsi/"
+          "route": "/hot/2026-08-09/topic/ai-rsi/",
+          "headline_zh": "当题库追不上模型，AI开始给自己出题：中国这支团队跑通了数据层RSI",
+          "summary_short_zh": "AI参与创造下一代AI",
+          "why_it_matters_zh": "这条其他类资讯有 1 个独立来源提及。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "7ade08ae4ccf",
@@ -1669,7 +1726,11 @@
               "published_at": "2026-08-08T09:18:50Z"
             }
           ],
-          "route": "/hot/2026-08-09/topic/deepmind-s-hurricane-breakthrough-has-surprised-weather-scientists/"
+          "route": "/hot/2026-08-09/topic/deepmind-s-hurricane-breakthrough-has-surprised-weather-scientists/",
+          "headline_zh": "DeepMind 在飓风预测上的突破令气象学家惊讶",
+          "summary_short_zh": "开源 WeatherNext 模型可利用分辨率较低的气象数据进行准确预测",
+          "why_it_matters_zh": "这条其他类资讯有 2 个独立来源提及。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "6bd7fb7a0bae",
@@ -1707,7 +1768,11 @@
               "published_at": "Sat, 08 Aug 2026 07:57:35 +0000"
             }
           ],
-          "route": "/hot/2026-08-09/topic/chatgpt/"
+          "route": "/hot/2026-08-09/topic/chatgpt/",
+          "headline_zh": "奥特曼的ChatGPT育儿大法，捅了马蜂窝",
+          "summary_short_zh": "这就有些尴尬了。",
+          "why_it_matters_zh": "这条其他类资讯有 1 个独立来源提及。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "df8c76b0c1d6",
@@ -1745,7 +1810,11 @@
               "published_at": "Fri, 07 Aug 2026 22:48:24 +0000"
             }
           ],
-          "route": "/hot/2026-08-09/topic/openai-says-it-slowed-astra-model-development-over-security-concerns/"
+          "route": "/hot/2026-08-09/topic/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+          "headline_zh": "OpenAI 称因安全顾虑放缓了 Astra 模型的开发",
+          "summary_short_zh": "OpenAI 表示，这款仍在开发中的模型已达到其“网络安全临界阈值”，意味着它能够自主识别攻击机会，并对现实世界中一向防护严密的系统实施网络攻击。",
+          "why_it_matters_zh": "这条其他类资讯有 1 个独立来源提及。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "775270cf4b24",
@@ -1783,7 +1852,10 @@
               "published_at": "2026-08-09T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-09/topic/anthropic-and-openai-agents-went-rogue-again/"
+          "route": "/hot/2026-08-09/topic/anthropic-and-openai-agents-went-rogue-again/",
+          "headline_zh": "Anthropic 和 OpenAI 的智能体又失控了",
+          "why_it_matters_zh": "这条其他类资讯有 1 个独立来源提及。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "ab93b5e11b05",
@@ -1821,7 +1893,10 @@
               "published_at": "2026-08-09T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-09/topic/google-shakes-up-its-ai-brain-trust/"
+          "route": "/hot/2026-08-09/topic/google-shakes-up-its-ai-brain-trust/",
+          "headline_zh": "Google 重组 AI 智囊团队",
+          "why_it_matters_zh": "这条其他类资讯有 1 个独立来源提及。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -1863,7 +1938,11 @@
           "published_at": "2026-08-04T04:30:58Z"
         }
       ],
-      "route": "/hot/2026-08-09/topic/amap-ml-longhorizon-harness/"
+      "route": "/hot/2026-08-09/topic/amap-ml-longhorizon-harness/",
+      "headline_zh": "AMAP-ML/LongHorizon-Harness",
+      "summary_short_zh": "面向长时程计算机操作任务的运行框架。支持 AI 智能体长时间使用桌面应用和命令行，同时保留任务状态，可靠地推进复杂工作流。",
+      "why_it_matters_zh": "1 个独立来源提及了该工具。",
+      "category_zh": "工具"
     },
     {
       "topic_id": "39f1f4e37f81",
@@ -1901,7 +1980,11 @@
           "published_at": "2026-08-04T10:08:23Z"
         }
       ],
-      "route": "/hot/2026-08-09/topic/cristicretu-diri/"
+      "route": "/hot/2026-08-09/topic/cristicretu-diri/",
+      "headline_zh": "cristicretu/diri",
+      "summary_short_zh": "原生 macOS 编码智能体编排工具，可跨 Git 工作树和远程主机并行运行 Claude Code、Codex、Cursor、Gemini 和 shell。",
+      "why_it_matters_zh": "1 个独立来源提及了该工具。",
+      "category_zh": "工具"
     },
     {
       "topic_id": "5fcd19dd091c",
@@ -1939,7 +2022,11 @@
           "published_at": "2026-08-06T10:38:49Z"
         }
       ],
-      "route": "/hot/2026-08-09/topic/eternityspring-shuohao-skills/"
+      "route": "/hot/2026-08-09/topic/eternityspring-shuohao-skills/",
+      "headline_zh": "eternityspring/shuohao-skills",
+      "summary_short_zh": "给 AI 编码 agent 用的 skill 集合，Claude Code 和 codex 都能跑。novel-characters：把小说拆成角色设定集——人物画像、卡通形象提示词、音色提示词、三视图。 | Skills for AI coding agents, working in both Claude Code and codex. novel-characters turns a novel into a character bible: profiles, cartoon-design prompts, voice prompts and turnaround sheets",
+      "why_it_matters_zh": "1 个独立来源提及了该工具。",
+      "category_zh": "工具"
     }
   ],
   "x_buzz": [

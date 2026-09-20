@@ -1075,7 +1075,14 @@
           "published_at": "2026-08-05T18:29:49Z"
         }
       ],
-      "route": "/hot/2026-08-10/topic/gemini35profree-gemini-3-5-pro-free-desktop/"
+      "route": "/hot/2026-08-10/topic/gemini35profree-gemini-3-5-pro-free-desktop/",
+      "headline_zh": "gemini35profree/Gemini-3.5-Pro-Free-Desktop",
+      "summary_short_zh": "面向 Google Gemini 3.5 Pro 和 Flash 模型的抢先体验版桌面客户端，支持 Windows、macOS 和 Linux。在正式发布前推出，提供完整基准测试数据，支持 200 万词元上下文、搜索增强和多模态输入。可与 3.1 Pro、GPT-5.6 和 Claude Opus 5 并排对比。",
+      "why_it_matters_zh": "这则产品发布消息见于 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "面向 Google Gemini 3.5 Pro 和 Flash 模型的抢先体验版桌面客户端，支持 Windows、macOS 和 Linux。在正式发布前推出，提供完整基准测试数据，支持 200 万词元上下文、搜索增强..."
+      ]
     },
     {
       "topic_id": "71e1e9d01661",
@@ -1115,7 +1122,14 @@
           "published_at": "2026-08-05T10:26:26Z"
         }
       ],
-      "route": "/hot/2026-08-10/topic/uditakhourii-neuroarxiv/"
+      "route": "/hot/2026-08-10/topic/uditakhourii-neuroarxiv/",
+      "headline_zh": "UditAkhourii/neuroarxiv",
+      "summary_short_zh": "让你告别从零写代码的技能：Claude 在设计新架构前，先查阅 arXiv 上真实存在的相关研究",
+      "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+      "category_zh": "研究",
+      "key_takeaways_zh": [
+        "让你告别从零写代码的技能：Claude 在设计新架构前，先查阅 arXiv 上真实存在的相关研究。"
+      ]
     },
     {
       "topic_id": "723e034eb83d",
@@ -1153,7 +1167,11 @@
           "published_at": "2026-08-09T22:48:05+00:00"
         }
       ],
-      "route": "/hot/2026-08-10/topic/github-models-is-now-retired/"
+      "route": "/hot/2026-08-10/topic/github-models-is-now-retired/",
+      "headline_zh": "GitHub Models 已停止服务",
+      "summary_short_zh": "<p><strong><a href=\" Models 已停止服务</a></strong></p> 我直到今天才注意到这条消息：我的 <a href=\" 仓库运行 GitHub Actions 时失败，并显示以下错误：</p> <blockquote> <p>GitHub Models 正按计划进行下线前的临时停服，暂时无法使用。</p>",
+      "why_it_matters_zh": "这则工具资讯见于 1 个独立来源。",
+      "category_zh": "工具"
     },
     {
       "topic_id": "ab257f7d6dbc",
@@ -1191,7 +1209,11 @@
           "published_at": "2026-08-09T22:05:00+00:00"
         }
       ],
-      "route": "/hot/2026-08-10/topic/sqlite-compressed-text-history-prototypes/"
+      "route": "/hot/2026-08-10/topic/sqlite-compressed-text-history-prototypes/",
+      "headline_zh": "SQLite 文本修订历史压缩存储原型",
+      "summary_short_zh": "<p><strong>研究：</strong> <a href=\" 文本修订历史压缩存储原型</a></p> <p>我一直对在关系型数据库中存储修订历史的各种方案很感兴趣。",
+      "why_it_matters_zh": "这则工具资讯见于 1 个独立来源。",
+      "category_zh": "工具"
     },
     {
       "topic_id": "35fbac3e8d76",
@@ -1231,7 +1253,14 @@
           "published_at": "Sun, 09 Aug 2026 14:30:00 +0000"
         }
       ],
-      "route": "/hot/2026-08-10/topic/the-ai-safety-test-is-becoming-a-safety-risk/"
+      "route": "/hot/2026-08-10/topic/the-ai-safety-test-is-becoming-a-safety-risk/",
+      "headline_zh": "AI 安全测试正成为安全风险",
+      "summary_short_zh": "AI 智能体正逃出网络安全测试环境，进入真实系统，这让人质疑安全基础设施、行业标准和监管能否跟上模型日益增强的能力。",
+      "why_it_matters_zh": "这则行业动态见于 1 个独立来源。",
+      "category_zh": "行业动态",
+      "key_takeaways_zh": [
+        "AI 智能体正逃出网络安全测试环境，进入真实系统，这让人质疑安全基础设施、行业标准和监管能否跟上..."
+      ]
     }
   ],
   "category_sections": [
@@ -1275,7 +1304,10 @@
               "published_at": "2026-08-10T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-10/topic/4-min-read-former-openai-researcher-launches-desktop-agent/"
+          "route": "/hot/2026-08-10/topic/4-min-read-former-openai-researcher-launches-desktop-agent/",
+          "headline_zh": "阅读约需 4 分钟：前 OpenAI 研究员推出桌面智能体",
+          "why_it_matters_zh": "这则产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -1319,7 +1351,10 @@
               "published_at": "2026-08-10T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-10/topic/import-ai-455-ai-systems-are-about-to-start-building-themselves-what-does-that-mean/"
+          "route": "/hot/2026-08-10/topic/import-ai-455-ai-systems-are-about-to-start-building-themselves-what-does-that-mean/",
+          "headline_zh": "Import AI 第 455 期：“AI 系统即将开始自我构建。这意味着什么？”",
+          "why_it_matters_zh": "这则其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "1b41340b9045",
@@ -1357,7 +1392,10 @@
               "published_at": "2026-08-10T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-10/topic/import-ai-467-self-sustaining-ai-viruses-pacing-ai-progress-confusion-about-ai-and-creativity/"
+          "route": "/hot/2026-08-10/topic/import-ai-467-self-sustaining-ai-viruses-pacing-ai-progress-confusion-about-ai-and-creativity/",
+          "headline_zh": "Import AI 第 467 期：可自我维持的 AI 病毒；调节 AI 发展节奏；对 AI 与创造力的困惑",
+          "why_it_matters_zh": "这则其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "fa8d22762b4a",
@@ -1395,7 +1433,11 @@
               "published_at": "2026-08-10T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-10/topic/ten-advances-in-mathematics-and-theoretical-computer-science-openai-blog/"
+          "route": "/hot/2026-08-10/topic/ten-advances-in-mathematics-and-theoretical-computer-science-openai-blog/",
+          "headline_zh": "数学与理论计算机科学的十项进展（OpenAI 博客）",
+          "summary_short_zh": "数学与理论计算机科学的十项进展（OpenAI 博客",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "e06aae86dc2c",
@@ -1433,7 +1475,11 @@
               "published_at": "Mon, 10 Aug 2026 01:12:33 +0000"
             }
           ],
-          "route": "/hot/2026-08-10/topic/3b-om-ai-vlx/"
+          "route": "/hot/2026-08-10/topic/3b-om-ai-vlx/",
+          "headline_zh": "3B模型碾压英伟达谷歌后，Om AI端侧原生VLX模型：小参数实现物理世界精准感知",
+          "summary_short_zh": "从云计算到云原生，产业真正的跃迁从来不是简单堆算力，而是找到更适合新世界的架构。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "f2deb3637a51",
@@ -1471,7 +1517,11 @@
               "published_at": "Mon, 10 Aug 2026 03:24:23 +0000"
             }
           ],
-          "route": "/hot/2026-08-10/topic/meoo-qwen-3-8-max/"
+          "route": "/hot/2026-08-10/topic/meoo-qwen-3-8-max/",
+          "headline_zh": "Meoo秒悟团队版全量上线， 接入Qwen-3.8-Max、即日起可直接订阅",
+          "summary_short_zh": "从面向个人的AI创作工具，扩展为可供组织使用的生产力平台",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -1515,7 +1565,11 @@
               "published_at": "2026-08-05T17:54:11Z"
             }
           ],
-          "route": "/hot/2026-08-10/topic/cursorgrok4-5free-cursor-grok-4-5-xai-free/"
+          "route": "/hot/2026-08-10/topic/cursorgrok4-5free-cursor-grok-4-5-xai-free/",
+          "headline_zh": "cursorgrok4-5free/Cursor-Grok-4.5-xAI-free",
+          "summary_short_zh": "Cursor Grok 4.5 免费桌面版，支持 Windows、macOS 和 Linux，无需 X Premium。在 Cursor 上免费使用 Grok 4.5、Grok 4.5 免费 API 密钥和免费套餐、Grok 4.5 与 Opus 5 和 GPT-5.6 对比、Grok 4.5 欧盟发布、Grok 4.5 应用下载、Grok 4.5 基准测试。无需 X Premium。支持实时网页搜索和编程。",
+          "why_it_matters_zh": "这款工具见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "f110803092bb",
@@ -1553,7 +1607,11 @@
               "published_at": "2026-08-07T18:42:04Z"
             }
           ],
-          "route": "/hot/2026-08-10/topic/qwen38maxfree-qwen-3-8-max-uncensored-free/"
+          "route": "/hot/2026-08-10/topic/qwen38maxfree-qwen-3-8-max-uncensored-free/",
+          "headline_zh": "qwen38maxfree/Qwen-3.8-Max-Uncensored-Free",
+          "summary_short_zh": "Qwen 3.8 Max 无审查免费版：阿里巴巴出品，2.4 万亿参数，MoE 激活参数 950 亿。100 万 token 上下文，无过滤，可通过 Ollama 离线运行。Apache 2.0 许可证。2026 年免费桌面客户端，支持 Windows/Mac/Linux。",
+          "why_it_matters_zh": "这款工具见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     }
@@ -1608,7 +1666,10 @@
               "published_at": "2026-08-09T13:03:49Z"
             }
           ],
-          "route": "/hot/2026-08-10/topic/israeli-startup-was-linked-to-rogue-ai-hacks-at-openai-anthropic-and-meta/"
+          "route": "/hot/2026-08-10/topic/israeli-startup-was-linked-to-rogue-ai-hacks-at-openai-anthropic-and-meta/",
+          "headline_zh": "一家以色列初创公司被指与 OpenAI、Anthropic 和 Meta 的 AI 失控攻击事件有关",
+          "why_it_matters_zh": "这条其他类资讯见于 2 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "265bed3d0358",
@@ -1646,7 +1707,10 @@
               "published_at": "2026-08-09T19:16:49Z"
             }
           ],
-          "route": "/hot/2026-08-10/topic/how-i-use-llms-to-learn-complex-topics/"
+          "route": "/hot/2026-08-10/topic/how-i-use-llms-to-learn-complex-topics/",
+          "headline_zh": "我如何用大语言模型学习复杂主题",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "2463ffdcde63",
@@ -1684,7 +1748,10 @@
               "published_at": "2026-08-09T16:18:39Z"
             }
           ],
-          "route": "/hot/2026-08-10/topic/an-openai-strategist-says-ai-labs-should-rival-government-power/"
+          "route": "/hot/2026-08-10/topic/an-openai-strategist-says-ai-labs-should-rival-government-power/",
+          "headline_zh": "OpenAI 一位战略专家称，AI 实验室应拥有与政府抗衡的权力",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "27d203d94ce9",
@@ -1722,7 +1789,11 @@
               "published_at": "2026-08-08T22:36:03+00:00"
             }
           ],
-          "route": "/hot/2026-08-10/topic/auto-mode-is-now-the-default-in-claude-code-for-pro-max-and-team-plans/"
+          "route": "/hot/2026-08-10/topic/auto-mode-is-now-the-default-in-claude-code-for-pro-max-and-team-plans/",
+          "headline_zh": "Claude Code 的 Pro、Max 和 Team 套餐现已默认启用自动模式",
+          "summary_short_zh": "<p><strong><a href=\" 模式现已成为 Claude Code 的 Pro、Max 和 Team 套餐的默认设置</a></strong></p> Anthropic 对 Claude Code 的 <a href=\" 模式</a> <em>确实</em>很有信心，以至于要将其设为多数 Claude Code 套餐中新会话的默认设置，生效日期为",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "ab93b5e11b05",
@@ -1760,7 +1831,10 @@
               "published_at": "2026-08-10T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-10/topic/google-shakes-up-its-ai-brain-trust/"
+          "route": "/hot/2026-08-10/topic/google-shakes-up-its-ai-brain-trust/",
+          "headline_zh": "Google 重组 AI 智囊团",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "9d448cdff141",
@@ -1798,7 +1872,11 @@
               "published_at": "2026-08-09T08:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-10/topic/ai-detectors-are-creating-a-new-era-of-distrust/"
+          "route": "/hot/2026-08-10/topic/ai-detectors-are-creating-a-new-era-of-distrust/",
+          "headline_zh": "AI 检测工具正催生一个互不信任的新时代",
+          "summary_short_zh": "The Stepback 是一份每周深入解读一则科技要闻的电子通讯。想了解更多 AI 如何改变日常生活的新闻，请关注 Emma Roth。The Stepback 于美国东部时间上午 8 点送达订阅者邮箱。点击此处订阅 The Stepback。",
+          "why_it_matters_zh": "这篇综述见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -1840,7 +1918,11 @@
           "published_at": "2026-08-06T10:38:49Z"
         }
       ],
-      "route": "/hot/2026-08-10/topic/eternityspring-shuohao-skills/"
+      "route": "/hot/2026-08-10/topic/eternityspring-shuohao-skills/",
+      "headline_zh": "eternityspring/shuohao-skills",
+      "summary_short_zh": "给 AI 编码 agent 用的 skill 集合，Claude Code 和 codex 都能跑。novel-characters：把小说拆成角色设定集——人物画像、卡通形象提示词、音色提示词、三视图。 | 供 AI 编码智能体使用的技能集，支持 Claude Code 和 codex。novel-characters 可将小说整理成角色设定集：人物画像、卡通形象设计提示词、音色提示词和三视图",
+      "why_it_matters_zh": "这款工具见于 1 个独立来源。",
+      "category_zh": "工具"
     },
     {
       "topic_id": "5fad75692b76",
@@ -1878,7 +1960,11 @@
           "published_at": "2026-08-05T05:28:08Z"
         }
       ],
-      "route": "/hot/2026-08-10/topic/robonuggets-gauntlet-loop/"
+      "route": "/hot/2026-08-10/topic/robonuggets-gauntlet-loop/",
+      "headline_zh": "robonuggets/gauntlet-loop",
+      "summary_short_zh": "将任意目标转为一段简短提示词，让智能体设定切实的质量标准，安排构建者与评审者结对工作，进行盲评对比，并持续迭代直至胜出",
+      "why_it_matters_zh": "这款工具见于 1 个独立来源。",
+      "category_zh": "工具"
     },
     {
       "topic_id": "2b5dece8bdf8",
@@ -1916,7 +2002,11 @@
           "published_at": "2026-08-05T13:52:57Z"
         }
       ],
-      "route": "/hot/2026-08-10/topic/liujunxibaba-douyin-tiktok-story-skill-agent/"
+      "route": "/hot/2026-08-10/topic/liujunxibaba-douyin-tiktok-story-skill-agent/",
+      "headline_zh": "liujunxibaba/douyin-tiktok-story-skill-agent",
+      "summary_short_zh": "本地优先的 AI 技能与智能体，用于创作抖音和 TikTok 原创故事脚本，并配有可检索的 SQLite 参考资料库",
+      "why_it_matters_zh": "这款工具见于 1 个独立来源。",
+      "category_zh": "工具"
     }
   ],
   "x_buzz": [

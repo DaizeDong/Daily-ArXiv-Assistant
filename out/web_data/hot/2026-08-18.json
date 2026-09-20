@@ -2125,7 +2125,14 @@
           "published_at": "Mon, 17 Aug 2026 05:00:00 GMT"
         }
       ],
-      "route": "/hot/2026-08-18/topic/openai-joins-ports-pike-project/"
+      "route": "/hot/2026-08-18/topic/openai-joins-ports-pike-project/",
+      "headline_zh": "OpenAI 加入 PORTS-Pike 项目",
+      "summary_short_zh": "扩大社区投资，支持俄亥俄州南部数千个就业岗位",
+      "why_it_matters_zh": "该融资消息来自 2 个独立来源。",
+      "category_zh": "市场信号",
+      "key_takeaways_zh": [
+        "英伟达对软银旗下数据中心开发商的投资，将确保一座 OpenAI 数据中心采用其芯片。"
+      ]
     },
     {
       "topic_id": "040c556d9f41",
@@ -2165,7 +2172,14 @@
           "published_at": "Mon, 17 Aug 2026 16:19:56 +0000"
         }
       ],
-      "route": "/hot/2026-08-18/topic/build-openclaw-agents-that-transact-with-amazon-bedrock-agentcore-payments/"
+      "route": "/hot/2026-08-18/topic/build-openclaw-agents-that-transact-with-amazon-bedrock-agentcore-payments/",
+      "headline_zh": "构建通过 Amazon Bedrock AgentCore 支付功能进行交易的 OpenClaw 智能体",
+      "summary_short_zh": "为自主智能体配备钱包并设置支出限制，让它能付费使用 API、MCP 服务器和网页内容。本文将 OpenClaw 接入 Amazon Bedrock AgentCore 支付功能和 x402 协议，使用 aws-agents-pay 插件在测试网上进行有额度限制、经人工批准的支付",
+      "why_it_matters_zh": "该产品发布消息来自 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "为自主智能体配备钱包并设置支出限制，让它能付费使用 API、MCP 服务器和网页内容。本文将 OpenClaw 接入 Amazon Bedrock AgentCore 支付功能和 x4..."
+      ]
     },
     {
       "topic_id": "fee08ff0f02e",
@@ -2213,7 +2227,16 @@
           "published_at": "2026-08-13T18:57:47Z"
         }
       ],
-      "route": "/hot/2026-08-18/topic/ysr666-dsh-vision-router/"
+      "route": "/hot/2026-08-18/topic/ysr666-dsh-vision-router/",
+      "headline_zh": "ysr666/dsh-vision-router",
+      "summary_short_zh": "为纯文本 DeepSeek Harness 智能体提供视觉能力：内置免费视觉处理链（无需密钥）和像素级视觉工具（问答、定位、裁剪、像素差异对比、颜色、OCR、SVG 描摹、抠图、截图）。一条命令即可安装，无需 Python，图片对话可像普通工具调用一样进行",
+      "why_it_matters_zh": "该工具消息来自 1 个独立来源。",
+      "category_zh": "开发工具",
+      "key_takeaways_zh": [
+        "[dsh]为纯文本模型设计更强大的视觉工具箱：安装免费使用、粘贴图片直接识别、多张图片问答、截图到前端UI 还原等｜DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, long-screenshot OCR, UI restoration, grounding, pixel diff, Artifa...",
+        "为纯文本 DeepSeek Harness 智能体提供视觉能力：内置免费视觉处理链（无需密钥）和像素级视觉工具（问答、定位、裁剪、像素差异对比、颜色、OCR、SVG 描摹、抠图、截图）。一条命令...",
+        "DeepSeek Harness 的任务感知推理模式路由器：三种经实测的行为区间（spec/mixed/react）及相变证据，角色设定与首轮工具注入，智能体可见的调参。Du..."
+      ]
     },
     {
       "topic_id": "e7aff59a7eeb",
@@ -2253,7 +2276,14 @@
           "published_at": "Mon, 17 Aug 2026 08:00:00 +0000"
         }
       ],
-      "route": "/hot/2026-08-18/topic/get-closer-to-the-game-with-gemini-and-pixel/"
+      "route": "/hot/2026-08-18/topic/get-closer-to-the-game-with-gemini-and-pixel/",
+      "headline_zh": "用 Gemini 和 Pixel，拉近与比赛的距离",
+      "summary_short_zh": "低角度仰拍一名足球运动员凌空踢球，背景是明亮的蓝天，草屑从钉鞋上飞散",
+      "why_it_matters_zh": "该产品发布消息来自 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "低角度仰拍一名足球运动员凌空踢球，背景是明亮的蓝天，草屑从钉鞋上飞散。"
+      ]
     },
     {
       "topic_id": "d9a71544532d",
@@ -2291,7 +2321,11 @@
           "published_at": "Mon, 17 Aug 2026 10:34:00 +0000"
         }
       ],
-      "route": "/hot/2026-08-18/topic/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/"
+      "route": "/hot/2026-08-18/topic/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/",
+      "headline_zh": "不止看 BMI：用智能手机图像评估心血管代谢风险",
+      "summary_short_zh": "综合科学",
+      "why_it_matters_zh": "该产品发布消息来自 1 个独立来源。",
+      "category_zh": "产品发布"
     }
   ],
   "category_sections": [
@@ -2335,7 +2369,11 @@
               "published_at": "Mon, 17 Aug 2026 05:30:00 GMT"
             }
           ],
-          "route": "/hot/2026-08-18/topic/the-defender-s-window/"
+          "route": "/hot/2026-08-18/topic/the-defender-s-window/",
+          "headline_zh": "防守方的窗口期",
+          "summary_short_zh": "AI 正在重塑网络安全的攻防格局。了解 OpenAI 如何加强防御，以及安全团队现在可以采取哪些行动",
+          "why_it_matters_zh": "该产品发布消息来自 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "f15f9dbc1bcc",
@@ -2373,7 +2411,11 @@
               "published_at": "Mon, 17 Aug 2026 00:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-08-18/topic/a-b-test-models-in-production/"
+          "route": "/hot/2026-08-18/topic/a-b-test-models-in-production/",
+          "headline_zh": "在生产环境中对模型进行 A/B 测试",
+          "summary_short_zh": "影子流量能验证候选模型运行可靠，却无法判断用户是否更喜欢它。请在端点层分流，而非在应用代码中实现。",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "a412d6cc67c7",
@@ -2411,7 +2453,11 @@
               "published_at": "2026-08-17T06:57:13-04:00"
             }
           ],
-          "route": "/hot/2026-08-18/topic/anthropic-explains-how-claude-8217-s-invisible-text-watermarks-will-work/"
+          "route": "/hot/2026-08-18/topic/anthropic-explains-how-claude-8217-s-invisible-text-watermarks-will-work/",
+          "headline_zh": "Anthropic 介绍 Claude 隐形文本水印的工作原理",
+          "summary_short_zh": "Anthropic 说明了计划如何为 Claude 生成的文本添加隐形水印，以遵守欧洲的 AI 透明度规定。",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "0a43c1f013aa",
@@ -2449,7 +2495,10 @@
               "published_at": "2026-08-17T12:09:42Z"
             }
           ],
-          "route": "/hot/2026-08-18/topic/gpt-5-6-sol-is-the-best-vision-model-openai-ever-released/"
+          "route": "/hot/2026-08-18/topic/gpt-5-6-sol-is-the-best-vision-model-openai-ever-released/",
+          "headline_zh": "GPT 5.6 Sol 是 OpenAI 迄今发布的最佳“视觉”模型",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "e25d027af873",
@@ -2487,7 +2536,11 @@
               "published_at": "Mon, 17 Aug 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-08-18/topic/minimax-h3-wasn-t-released-as-an-image-model-but-its-prompt-adherence-is-kind-of-absurd/"
+          "route": "/hot/2026-08-18/topic/minimax-h3-wasn-t-released-as-an-image-model-but-its-prompt-adherence-is-kind-of-absurd/",
+          "headline_zh": "MiniMax H3 并非作为图像模型发布，但提示词遵循能力强得有点离谱",
+          "summary_short_zh": "这张图片（链接）是一张生成的科幻电影风格剧照，画面中的宇航员身处飞船驾驶舱，面向虫洞／带星环的行星。发帖者以此为证，说明 MiniMax H3 虽然并非主要作为图像模型推出，却能在文生图时高度遵循提示词。",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2531,7 +2584,11 @@
               "published_at": "Mon, 17 Aug 2026 16:15:12 +0000"
             }
           ],
-          "route": "/hot/2026-08-18/topic/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/"
+          "route": "/hot/2026-08-18/topic/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+          "headline_zh": "Groq 融资 3.5 亿美元，推动从 AI 芯片转向 neocloud 业务",
+          "summary_short_zh": "Groq 以 35 亿美元估值融资 3.5 亿美元。这家原 AI 芯片制造商正转向 neocloud 业务，并扩大采用 Nvidia 硬件的数据中心布局。",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次融资。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "6c5dfa165254",
@@ -2569,7 +2626,11 @@
               "published_at": "Mon, 17 Aug 2026 13:10:05 +0000"
             }
           ],
-          "route": "/hot/2026-08-18/topic/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/"
+          "route": "/hot/2026-08-18/topic/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
+          "headline_zh": "Wispr 以 20 亿美元估值融资 2.8 亿美元，寻求拓展语音输入以外的业务",
+          "summary_short_zh": "这笔资金将帮助 Wispr 扩大业务版图，该公司正借助新推出的笔记工具进入会议等新领域。",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次融资。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -2613,7 +2674,11 @@
               "published_at": "Mon, 17 Aug 2026 21:27:05 +0000"
             }
           ],
-          "route": "/hot/2026-08-18/topic/ai-automation-startup-relay-shuts-down-staff-joins-google-s-chrome-team/"
+          "route": "/hot/2026-08-18/topic/ai-automation-startup-relay-shuts-down-staff-joins-google-s-chrome-team/",
+          "headline_zh": "AI 自动化初创公司 Relay 停止运营，员工加入 Google 的 Chrome 团队",
+          "summary_short_zh": "Relay 创始人兼 CEO Jacob Bank 表示：“我们有一些雄心勃勃的计划，要帮助大家在 Chrome 中与 AI 协作、完成任务。我很快会分享更多信息。”",
+          "why_it_matters_zh": "有 1 个独立来源报道了这一行业动态。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "b87947fa08ce",
@@ -2651,7 +2716,11 @@
               "published_at": "Mon, 17 Aug 2026 03:15:00 GMT"
             }
           ],
-          "route": "/hot/2026-08-18/topic/new-policy-ideas-for-the-intelligence-age/"
+          "route": "/hot/2026-08-18/topic/new-policy-ideas-for-the-intelligence-age/",
+          "headline_zh": "智能时代的政策新思路",
+          "summary_short_zh": "OpenAI 资助 14 个独立项目，探索新的 AI 政策思路，以在智能时代创造更多经济机会、增强社会韧性。",
+          "why_it_matters_zh": "有 1 个独立来源报道了这一行业动态。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "05738db2e6ca",
@@ -2698,7 +2767,11 @@
               "published_at": "Mon, 17 Aug 2026 16:38:44 +0000"
             }
           ],
-          "route": "/hot/2026-08-18/topic/amazon-which-started-off-selling-books-is-destroying-rare-texts-to-train-ai/"
+          "route": "/hot/2026-08-18/topic/amazon-which-started-off-selling-books-is-destroying-rare-texts-to-train-ai/",
+          "headline_zh": "以卖书起家的亚马逊，正在销毁珍稀文献来训练 AI",
+          "summary_short_zh": "珍稀书籍对训练大语言模型极具价值，因为这些模型已经用网上所有可获取的内容训练过了",
+          "why_it_matters_zh": "这条其他类资讯见于 2 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "278221d7b17b",
@@ -2736,7 +2809,10 @@
               "published_at": "2026-08-18T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-18/topic/import-ai-468-23-rsi-ideas-posttrainbench-and-how-trust-and-transparency-interplay-with-ai-racing/"
+          "route": "/hot/2026-08-18/topic/import-ai-468-23-rsi-ideas-posttrainbench-and-how-trust-and-transparency-interplay-with-ai-racing/",
+          "headline_zh": "Import AI 第 468 期：23 个 RSI 构想；PostTrainBench+；信任、透明度与 AI 竞赛如何相互影响",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "98d640c2c00c",
@@ -2774,7 +2850,10 @@
               "published_at": "2026-08-18T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-18/topic/import-ai-469-science-ai-rsi-simulator-and-zuck-s-technological-pessimism/"
+          "route": "/hot/2026-08-18/topic/import-ai-469-science-ai-rsi-simulator-and-zuck-s-technological-pessimism/",
+          "headline_zh": "Import AI 第 469 期：科研 AI；RSI 模拟器；扎克伯格的技术悲观主义",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -2818,7 +2897,11 @@
               "published_at": "2026-08-18T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-18/topic/dig-bench-discovery-in-games-github-pdf/"
+          "route": "/hot/2026-08-18/topic/dig-bench-discovery-in-games-github-pdf/",
+          "headline_zh": "DiG-bench：游戏中的发现（GitHub、PDF）",
+          "summary_short_zh": "DiG-bench：游戏中的发现（GitHub、PDF",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "1439f326ec8a",
@@ -2856,7 +2939,10 @@
               "published_at": "2026-08-17T14:18:38Z"
             }
           ],
-          "route": "/hot/2026-08-18/topic/ai-generated-github-copilot-autofix-allowed-compromise-of-snowflake-s-jira/"
+          "route": "/hot/2026-08-18/topic/ai-generated-github-copilot-autofix-allowed-compromise-of-snowflake-s-jira/",
+          "headline_zh": "GitHub Copilot“Autofix”用 AI 生成的修复方案导致 Snowflake 的 Jira 被攻破",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "22aee2b1ddf0",
@@ -2894,7 +2980,11 @@
               "published_at": "2026-08-16T23:59:37+00:00"
             }
           ],
-          "route": "/hot/2026-08-18/topic/markdown-svg-upgrades/"
+          "route": "/hot/2026-08-18/topic/markdown-svg-upgrades/",
+          "headline_zh": "Markdown SVG 升级",
+          "summary_short_zh": "<p>我自己的 <a href=\" 工具是从 <a href=\" 5 月</a>开始开发的，后来又加了不少功能，值得在这里再介绍一次。</p> <p>如今，它已成为我分享包含 SVG 文档的 Markdown 对话记录的理想工具。",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "0f9cccfe734b",
@@ -2932,7 +3022,11 @@
               "published_at": "Mon, 17 Aug 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-08-18/topic/cursor-s-origin-points-toward-the-ai-native-ide-becoming-the-system-of-record/"
+          "route": "/hot/2026-08-18/topic/cursor-s-origin-points-toward-the-ai-native-ide-becoming-the-system-of-record/",
+          "headline_zh": "Cursor 的 Origin 预示着 AI 原生 IDE 将成为权威记录系统",
+          "summary_short_zh": "Origin 发布的意义不止于成为 GitHub 的竞争对手。这表明 Cursor 希望直接掌控整个流程：代码仓库、智能体、审查界面和部署钩子。",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     }
@@ -2978,7 +3072,11 @@
               "published_at": "Mon, 17 Aug 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-08-18/topic/claude-is-losing-me-after-being-heavy-user-since-release/"
+          "route": "/hot/2026-08-18/topic/claude-is-losing-me-after-being-heavy-user-since-release/",
+          "headline_zh": "Claude 正在失去我这个从发布起就一直重度使用的用户",
+          "summary_short_zh": "一位长期使用 Claude Code/Chat 的用户反映，Opus 5 / Fable 5 推出后，感觉产品表现有所退步：回复更难理解，会用“chips”这类未经解释的术语指代界面元素或工作项，还用“the server repoint”等简略说法代替明确的实现步骤。",
+          "why_it_matters_zh": "这条产品发布资讯见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -3022,7 +3120,11 @@
               "published_at": "Tue, 18 Aug 2026 03:31:33 +0000"
             }
           ],
-          "route": "/hot/2026-08-18/topic/ai-infra-ai-ai-token/"
+          "route": "/hot/2026-08-18/topic/ai-infra-ai-ai-token/",
+          "headline_zh": "AI Infra进入自进化时代！清华团队AI优化AI造就国产万亿Token工厂",
+          "summary_short_zh": "ALL IN国产算力生态",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "9cc253f137d5",
@@ -3060,7 +3162,11 @@
               "published_at": "Tue, 18 Aug 2026 04:40:03 +0000"
             }
           ],
-          "route": "/hot/2026-08-18/topic/agent-agent/"
+          "route": "/hot/2026-08-18/topic/agent-agent/",
+          "headline_zh": "阿里杀进Agent上下文战场：钉钉聊天、企业文档、工作数据终于要被Agent吃进去了",
+          "summary_short_zh": "MyContext补上Agent的数据加工层",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "20b20ee3077a",
@@ -3111,7 +3217,11 @@
               "published_at": "Mon, 17 Aug 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-08-18/topic/qwen-3-8-27b-scores-52-on-the-artificial-analysis-intelligence-index/"
+          "route": "/hot/2026-08-18/topic/qwen-3-8-27b-scores-52-on-the-artificial-analysis-intelligence-index/",
+          "headline_zh": "Qwen 3.8 27B 在 Artificial Analysis 智能指数中获得 52 分",
+          "summary_short_zh": "<p><strong><a href=\" 3.8 27B 在 Artificial Analysis 智能指数中获得 52 分</a></strong></p> 这一分数与 GPT-5.6 Luna (max) 持平，仅比 GLM-5.2 (max) 和 DeepSeek V4 Pro 0813 (max) 低 1 分。GLM 的参数量为 7530 亿，DeepSeek 为 16 亿，而 Luna 的参数量未知。",
+          "why_it_matters_zh": "这条其他类资讯见于 4 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "9f59fe56e3a5",
@@ -3149,7 +3259,11 @@
               "published_at": "Mon, 17 Aug 2026 18:06:33 +0000"
             }
           ],
-          "route": "/hot/2026-08-18/topic/nvidia-nemotron-3-5-lightning-now-available-in-amazon-sagemaker-jumpstart/"
+          "route": "/hot/2026-08-18/topic/nvidia-nemotron-3-5-lightning-now-available-in-amazon-sagemaker-jumpstart/",
+          "headline_zh": "NVIDIA Nemotron 3.5 Lightning 现已上线 Amazon SageMaker JumpStart",
+          "summary_short_zh": "NVIDIA Nemotron 3.5 Lightning 是专为高吞吐量智能体工作负载打造的开放模型，现已上线 Amazon SageMaker JumpStart。",
+          "why_it_matters_zh": "这篇教程见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "0e65c52adb62",
@@ -3187,7 +3301,11 @@
               "published_at": "2026-08-17T15:21:29+00:00"
             }
           ],
-          "route": "/hot/2026-08-18/topic/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/"
+          "route": "/hot/2026-08-18/topic/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/",
+          "headline_zh": "我们追踪了一批珍稀书籍，它们最终被送到了亚马逊的 AI 训练设施",
+          "summary_short_zh": "<p><strong><a href=\" 追踪一批珍稀书籍，发现它们最终被送到了亚马逊的 AI 训练设施</a></strong></p> 404 Media 的这篇报道很出色。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "3d0b5226432e",
@@ -3225,7 +3343,11 @@
               "published_at": "2026-08-17T07:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-18/topic/whisker-s-ai-powered-litter-robot-thinks-my-cats-swapped-bodies/"
+          "route": "/hot/2026-08-18/topic/whisker-s-ai-powered-litter-robot-thinks-my-cats-swapped-bodies/",
+          "headline_zh": "Whisker 的 AI 猫砂盆以为我的猫互换了身体",
+          "summary_short_zh": "近年来宠物科技领域最伟大的发明，就是自动猫砂盆。它能替你铲屎，养猫人还能奢求什么？要是它还能分析猫咪的如厕情况，提醒潜在的健康问题呢？算我一个。但我有两只",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "d4eadef06c6b",
@@ -3263,7 +3385,11 @@
               "published_at": "Mon, 17 Aug 2026 08:36:07 +0000"
             }
           ],
-          "route": "/hot/2026-08-18/topic/ai/"
+          "route": "/hot/2026-08-18/topic/ai/",
+          "headline_zh": "菲尔兹奖得主：AI现在主要靠「抬杠」突破重大数学猜想",
+          "summary_short_zh": "AI最近最出圈的数学突破，都在“找反例”",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -3305,7 +3431,11 @@
           "published_at": "2026-08-15T06:10:13Z"
         }
       ],
-      "route": "/hot/2026-08-18/topic/sheberdavid-v4-flash-godmode-opencode-go/"
+      "route": "/hot/2026-08-18/topic/sheberdavid-v4-flash-godmode-opencode-go/",
+      "headline_zh": "SheberDavid/v4-flash-godmode-opencode-go",
+      "summary_short_zh": "V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh agent preset",
+      "why_it_matters_zh": "这条产品发布消息见于 1 个独立来源。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "3dcc109bef76",
@@ -3343,7 +3473,11 @@
           "published_at": "2026-08-13T04:06:22Z"
         }
       ],
-      "route": "/hot/2026-08-18/topic/thiientv-godmode/"
+      "route": "/hot/2026-08-18/topic/thiientv-godmode/",
+      "headline_zh": "thiientv/godmode",
+      "summary_short_zh": "面向 AI 编程智能体的生产级 Agent Skills，提供可组合的工作流，涵盖规划、测试驱动开发、调试、代码审查、界面与体验设计、发布、故障处理和评测",
+      "why_it_matters_zh": "这条产品发布消息见于 1 个独立来源。",
+      "category_zh": "产品发布"
     }
   ],
   "x_buzz": [

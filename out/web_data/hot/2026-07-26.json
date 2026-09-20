@@ -1065,7 +1065,14 @@
           "published_at": "Sun, 26 Jul 2026 01:30:00 +0000"
         }
       ],
-      "route": "/hot/2026-07-26/topic/monday-com-is-the-latest-tech-company-to-blame-ai-for-layoffs-here-are-20-others/"
+      "route": "/hot/2026-07-26/topic/monday-com-is-the-latest-tech-company-to-blame-ai-for-layoffs-here-are-20-others/",
+      "headline_zh": "Monday.com 成为最新一家将裁员归咎于 AI 的科技公司，另外还有这 20 家",
+      "summary_short_zh": "持续更新：按时间倒序盘点今年宣布大规模裁员并明确将 AI 列为原因之一的大型科技公司",
+      "why_it_matters_zh": "有 1 个独立来源提及此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "持续更新：按时间倒序盘点今年宣布大规模裁员并明确将 AI 列为原因之一的大型科技公司。"
+      ]
     },
     {
       "topic_id": "d0366463d663",
@@ -1112,7 +1119,14 @@
           "published_at": "Sat, 25 Jul 2026 12:11:39 +0000"
         }
       ],
-      "route": "/hot/2026-07-26/topic/introducing-claude-opus-5/"
+      "route": "/hot/2026-07-26/topic/introducing-claude-opus-5/",
+      "headline_zh": "Claude Opus 5 亮相",
+      "summary_short_zh": "<p><strong><a href=\" Claude Opus 5</a></strong></p> 今天大半天我都<a href=\" 和海獭待在一起</a>，没上网，所以还没机会好好测试 Anthropic 的新模型 Claude Opus 5。",
+      "why_it_matters_zh": "有 2 个独立来源提及此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "模型变强，Claude Code系统提示词都精简了"
+      ]
     },
     {
       "topic_id": "0f16859be261",
@@ -1161,7 +1175,14 @@
           "published_at": "2026-07-21T22:34:47Z"
         }
       ],
-      "route": "/hot/2026-07-26/topic/0xwilliamortiz-andrej-karpathy-skills/"
+      "route": "/hot/2026-07-26/topic/0xwilliamortiz-andrej-karpathy-skills/",
+      "headline_zh": "0xwilliamortiz/andrej-karpathy-skills",
+      "summary_short_zh": "面向 Claude Code 的行为约束，提炼自 Andrej Karpathy 关于大语言模型编写软件时易犯错误的实践笔记",
+      "why_it_matters_zh": "有 2 个独立来源提及该工具。",
+      "category_zh": "工具",
+      "key_takeaways_zh": [
+        "面向 Claude Code 的行为约束，提炼自 Andrej Karpathy 关于大语言模型编写软件时易犯错误的实践笔记。"
+      ]
     },
     {
       "topic_id": "814520dca3eb",
@@ -1201,7 +1222,14 @@
           "published_at": "2026-07-21T01:01:05Z"
         }
       ],
-      "route": "/hot/2026-07-26/topic/risa-labs-inc-bossconsole/"
+      "route": "/hot/2026-07-26/topic/risa-labs-inc-bossconsole/",
+      "headline_zh": "risa-labs-inc/BossConsole",
+      "summary_short_zh": "面向 AI 智能体的开源跨平台运行框架，配备原生多线程操作控制台（基于 JVM，非 Electron），可运行 Claude Code、Codex、Gemini 或 OpenCode，并提供真实浏览器、终端、编辑器、密钥管理及 100 多种 MCP 工具。专为企业、科学与研究打造",
+      "why_it_matters_zh": "有 1 个独立来源提及该工具。",
+      "category_zh": "工具",
+      "key_takeaways_zh": [
+        "面向 AI 智能体的开源跨平台运行框架，配备原生多线程操作控制台（基于 JVM，非 Electron），可运行 Claude Code、Codex、Gemini 或 OpenCode，并提供真实浏览器、终端、编辑器..."
+      ]
     },
     {
       "topic_id": "f8711db85b8d",
@@ -1241,7 +1269,14 @@
           "published_at": "2026-07-23T14:10:49Z"
         }
       ],
-      "route": "/hot/2026-07-26/topic/codejunkie99-graph-engineering/"
+      "route": "/hot/2026-07-26/topic/codejunkie99-graph-engineering/",
+      "headline_zh": "codejunkie99/graph-engineering",
+      "summary_short_zh": "面向 AI 智能体的图工程：以 Claude 技能形式提供 9 阶段知识图谱流程（译自 SEU 的研究生课程）和任务图编排模式，内置教学模式及可直接粘贴使用的工作流",
+      "why_it_matters_zh": "有 1 个独立来源提及该工具。",
+      "category_zh": "工具",
+      "key_takeaways_zh": [
+        "面向 AI 智能体的图工程：以 Claude 技能形式提供 9 阶段知识图谱流程（译自 SEU 的研究生课程）和任务图编排模式，内置教学模式及可直接粘贴..."
+      ]
     }
   ],
   "category_sections": [
@@ -1285,7 +1320,11 @@
               "published_at": "Fri, 24 Jul 2026 22:25:58 +0000"
             }
           ],
-          "route": "/hot/2026-07-26/topic/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/"
+          "route": "/hot/2026-07-26/topic/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+          "headline_zh": "Reid Hoffman 与 Mark Pincus 联合创立的新 AI 实验室 Prentis 正洽谈融资 1 亿美元",
+          "summary_short_zh": "这家新兴实验室押注，日常电脑任务自动化将很快超越编程，成为 AI 最大的应用场景",
+          "why_it_matters_zh": "有 1 个独立来源提及此次融资。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -1329,7 +1368,10 @@
               "published_at": "2026-07-26T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-26/topic/import-ai-465-open-vs-closed-gaps-kimi-k3-demis-big-policy-plan/"
+          "route": "/hot/2026-07-26/topic/import-ai-465-open-vs-closed-gaps-kimi-k3-demis-big-policy-plan/",
+          "headline_zh": "Import AI 第 465 期：开源与闭源的差距；Kimi K3；Demis 的政策大计",
+          "why_it_matters_zh": "有 1 个独立来源提及这则行业动态。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "6edb7a6ff1dc",
@@ -1367,7 +1409,11 @@
               "published_at": "2026-07-26T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-26/topic/how-far-behind-the-frontier-are-leading-open-weight-models-on-cyber-uk-ai-security-institute-blog/"
+          "route": "/hot/2026-07-26/topic/how-far-behind-the-frontier-are-leading-open-weight-models-on-cyber-uk-ai-security-institute-blog/",
+          "headline_zh": "领先的开放权重模型在网络安全能力上落后前沿模型多少？（英国 AI 安全研究所博客）",
+          "summary_short_zh": "领先的开放权重模型在网络安全能力上落后前沿模型多少？（英国 AI 安全研究所博客",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "57530074ab1d",
@@ -1405,7 +1451,10 @@
               "published_at": "2026-07-26T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-26/topic/import-ai-464-fables-writes-gpu-kernels-ai-automation-and-analog-computation/"
+          "route": "/hot/2026-07-26/topic/import-ai-464-fables-writes-gpu-kernels-ai-automation-and-analog-computation/",
+          "headline_zh": "Import AI 464：Fables 编写 GPU 内核；AI 自动化；模拟计算",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "5424a7934f69",
@@ -1443,7 +1492,11 @@
               "published_at": "Sat, 25 Jul 2026 16:00:00 +0000"
             }
           ],
-          "route": "/hot/2026-07-26/topic/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/"
+          "route": "/hot/2026-07-26/topic/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
+          "headline_zh": "图书馆员为受够科技巨头的人开设“避开 AI”工作坊，活动迅速走红",
+          "summary_short_zh": "全国各地的图书馆开设“避开 AI”工作坊，需求空前旺盛",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "14afbfaa7714",
@@ -1481,7 +1534,11 @@
               "published_at": "Sat, 25 Jul 2026 11:54:44 +0000"
             }
           ],
-          "route": "/hot/2026-07-26/topic/chatgpt/"
+          "route": "/hot/2026-07-26/topic/chatgpt/",
+          "headline_zh": "具身智能的「ChatGPT时刻」还没到，科沃斯先把机器人拆开了",
+          "summary_short_zh": "不做人形，抓住真实用户需求",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -1525,7 +1582,11 @@
               "published_at": "2026-07-22T02:11:12Z"
             }
           ],
-          "route": "/hot/2026-07-26/topic/tanishq-dubey-macos-laguna-s2-1/"
+          "route": "/hot/2026-07-26/topic/tanishq-dubey-macos-laguna-s2-1/",
+          "headline_zh": "tanishq-dubey/macos-laguna-s2.1",
+          "summary_short_zh": "用于运行 Poolside Laguna S 2.1 的社区基准测试和脚本",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "da7a3b4b6860",
@@ -1563,7 +1624,11 @@
               "published_at": "2026-07-26T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-26/topic/a-framework-for-frontier-ai-and-the-dawning-of-a-new-age-demis-hassabis-x/"
+          "route": "/hot/2026-07-26/topic/a-framework-for-frontier-ai-and-the-dawning-of-a-new-age-demis-hassabis-x/",
+          "headline_zh": "前沿 AI 框架与新时代的曙光（Demis Hassabis，X）",
+          "summary_short_zh": "前沿 AI 框架与新时代的曙光（Demis Hassabis，X",
+          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     }
@@ -1609,7 +1674,11 @@
               "published_at": "Sat, 25 Jul 2026 12:35:34 +0000"
             }
           ],
-          "route": "/hot/2026-07-26/topic/100-agent/"
+          "route": "/hot/2026-07-26/topic/100-agent/",
+          "headline_zh": "100%开源！吴恩达做了个个人桌面Agent",
+          "summary_short_zh": "开源、隐私、本地优先、模型无关",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "76418382771b",
@@ -1647,7 +1716,10 @@
               "published_at": "2026-07-25T19:44:39Z"
             }
           ],
-          "route": "/hot/2026-07-26/topic/llm-usage-in-debian-three-proposals/"
+          "route": "/hot/2026-07-26/topic/llm-usage-in-debian-three-proposals/",
+          "headline_zh": "在 Debian 中使用大语言模型：三项提案",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "e39ccce3f8f0",
@@ -1685,7 +1757,11 @@
               "published_at": "Sat, 25 Jul 2026 13:05:00 +0000"
             }
           ],
-          "route": "/hot/2026-07-26/topic/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-here-s-how-to-fix-it/"
+          "route": "/hot/2026-07-26/topic/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-here-s-how-to-fix-it/",
+          "headline_zh": "一根掉落的电线暴露了 AI 数据中心日益严重的问题。以下是解决办法。",
+          "summary_short_zh": "弗吉尼亚州北部的一次险情暴露出数据中心应对电网扰动的能力严重不足。以下是解决办法",
+          "why_it_matters_zh": "这篇教程见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "b4b42a25b82e",
@@ -1723,7 +1799,11 @@
               "published_at": "Sat, 25 Jul 2026 00:23:11 +0000"
             }
           ],
-          "route": "/hot/2026-07-26/topic/i-tried-out-openai-s-new-ai-keypad-which-will-be-fun-for-some-coders-and-slightly-mystifying-to-everyone-else/"
+          "route": "/hot/2026-07-26/topic/i-tried-out-openai-s-new-ai-keypad-which-will-be-fun-for-some-coders-and-slightly-mystifying-to-everyone-else/",
+          "headline_zh": "我试用了 OpenAI 的新款 AI 小键盘：一些程序员会觉得有趣，其他人则有些摸不着头脑",
+          "summary_short_zh": "OpenAI 这款花哨的新 AI 小键盘会让一些人乐在其中，但许多人可能根本不会碰它",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "4efe0c6af1a5",
@@ -1761,7 +1841,10 @@
               "published_at": "2026-07-26T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-26/topic/google-s-gemini-lineup-has-a-pro-sized-hole/"
+          "route": "/hot/2026-07-26/topic/google-s-gemini-lineup-has-a-pro-sized-hole/",
+          "headline_zh": "谷歌的 Gemini 产品线缺了 Pro 这一环",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "012856f18386",
@@ -1799,7 +1882,10 @@
               "published_at": "2026-07-26T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-07-26/topic/openai-s-cyber-test-escapes-the-lab/"
+          "route": "/hot/2026-07-26/topic/openai-s-cyber-test-escapes-the-lab/",
+          "headline_zh": "OpenAI 的网络安全测试走出实验室",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -1841,7 +1927,10 @@
           "published_at": "2026-07-21T01:30:31Z"
         }
       ],
-      "route": "/hot/2026-07-26/topic/rainppr-china-llms-anecdote-0721/"
+      "route": "/hot/2026-07-26/topic/rainppr-china-llms-anecdote-0721/",
+      "headline_zh": "RainPPR/china-llms-anecdote-0721",
+      "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+      "category_zh": "工具"
     },
     {
       "topic_id": "a5e7f5aa647d",
@@ -1879,7 +1968,11 @@
           "published_at": "2026-07-21T01:33:21Z"
         }
       ],
-      "route": "/hot/2026-07-26/topic/realfishsam-agent-notch/"
+      "route": "/hot/2026-07-26/topic/realfishsam-agent-notch/",
+      "headline_zh": "realfishsam/agent-notch",
+      "summary_short_zh": "vibe-island 的开源替代品",
+      "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+      "category_zh": "工具"
     },
     {
       "topic_id": "025b453a4685",
@@ -1917,7 +2010,11 @@
           "published_at": "2026-07-21T04:17:35Z"
         }
       ],
-      "route": "/hot/2026-07-26/topic/hahhforest-pi-textbook/"
+      "route": "/hot/2026-07-26/topic/hahhforest-pi-textbook/",
+      "headline_zh": "hahhforest/pi-textbook",
+      "summary_short_zh": "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
+      "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+      "category_zh": "工具"
     }
   ],
   "x_buzz": [

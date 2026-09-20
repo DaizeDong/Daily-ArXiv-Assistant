@@ -2648,7 +2648,13 @@
           "published_at": "Thu, 13 Aug 2026 05:44:39 GMT"
         }
       ],
-      "route": "/hot/2026-08-14/topic/introducing-gemini-3-7-flash/"
+      "route": "/hot/2026-08-14/topic/introducing-gemini-3-7-flash/",
+      "headline_zh": "推出 Gemini 3.7 Flash",
+      "why_it_matters_zh": "此次产品发布的信息来自 4 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Gemini 3.6 Flash 才发布 3 周，但 Google 表示，3.7 有“显著改进”。"
+      ]
     },
     {
       "topic_id": "ec0f40da4f61",
@@ -2704,7 +2710,15 @@
           "published_at": "Thu, 13 Aug 2026 05:44:39 GMT"
         }
       ],
-      "route": "/hot/2026-08-14/topic/previewing-ultrafast-mode-gpt-5-6-sol-at-up-to-14x-the-speed/"
+      "route": "/hot/2026-08-14/topic/previewing-ultrafast-mode-gpt-5-6-sol-at-up-to-14x-the-speed/",
+      "headline_zh": "Ultrafast 模式预览：GPT-5.6 Sol 速度最高达原来的 14 倍",
+      "summary_short_zh": "抢先体验 Ultrafast，这是 OpenAI API 的全新服务层级，可让 GPT-5.6 Sol 的运行速度最高达原来的 14 倍。由 Cerebras 提供支持，每秒最多输出 750 个词元",
+      "why_it_matters_zh": "此次产品发布的信息来自 4 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "抢先体验 Ultrafast，这是 OpenAI API 的全新服务层级，可让 GPT-5.6 Sol 的运行速度最高达原来的 14 倍。由 Cerebras 提供支持，每秒最多输出 750 个词元。",
+        "OpenAI 正在推出其最新、最强模型的加速版预览，以吸引企业用户。"
+      ]
     },
     {
       "topic_id": "6e617a23460a",
@@ -2757,7 +2771,16 @@
           "published_at": "Thu, 13 Aug 2026 05:44:39 GMT"
         }
       ],
-      "route": "/hot/2026-08-14/topic/deepseek-v4-pro-0813-on-openrouter/"
+      "route": "/hot/2026-08-14/topic/deepseek-v4-pro-0813-on-openrouter/",
+      "headline_zh": "DeepSeek V4 Pro 0813（OpenRouter 平台）",
+      "summary_short_zh": "<p><strong><a href=\" V4 Pro 0813（OpenRouter 平台）</a></strong></p> 最新的 DeepSeek Pro 模型现已上线，仅支持通过 API 访问。",
+      "why_it_matters_zh": "此次产品发布的信息来自 4 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "DeepSeek：我们今天推出 DeepSeek-V4-Pro！",
+        "发布资料链接指向 GitHub 仓库 deepseek-ai/deepseek-harness 和产品页面 deepseek.com/harness/en/，但有评论指出，公告缺少详细的技术文档……",
+        "deepseek-ai/DeepSeek-V4-Pro-0813 · Hugging Face"
+      ]
     },
     {
       "topic_id": "c4bf0670109a",
@@ -2797,7 +2820,14 @@
           "published_at": "Thu, 13 Aug 2026 16:45:00 +0000"
         }
       ],
-      "route": "/hot/2026-08-14/topic/bring-your-spreadsheet-data-to-life-with-sheets-canvas/"
+      "route": "/hot/2026-08-14/topic/bring-your-spreadsheet-data-to-life-with-sheets-canvas/",
+      "headline_zh": "用 Sheets canvas 生动呈现电子表格数据",
+      "summary_short_zh": "视频展示了 Sheets canvas 的实际应用",
+      "why_it_matters_zh": "此次产品发布的信息来自 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "视频展示了 Sheets canvas 的实际应用。"
+      ]
     },
     {
       "topic_id": "dc7551163cc0",
@@ -2837,7 +2867,14 @@
           "published_at": "Thu, 13 Aug 2026 15:48:15 +0000"
         }
       ],
-      "route": "/hot/2026-08-14/topic/amazon-quick-for-microsoft-365-agentic-ai-where-you-work/"
+      "route": "/hot/2026-08-14/topic/amazon-quick-for-microsoft-365-agentic-ai-where-you-work/",
+      "headline_zh": "Microsoft 365 版 Amazon Quick：融入工作场景的智能体 AI",
+      "summary_short_zh": "现在可直接在 Microsoft Word、Excel、PowerPoint 和 Outlook 中使用 Amazon Quick。",
+      "why_it_matters_zh": "此次产品发布的信息来自 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "现在可直接在 Microsoft Word、Excel、PowerPoint 和 Outlook 中使用 Amazon Quick。这些扩展让 Microsoft 365 应用能够访问已连接的数据，并通过智能体编辑文档……"
+      ]
     }
   ],
   "category_sections": [
@@ -2881,7 +2918,11 @@
               "published_at": "Thu, 13 Aug 2026 09:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-08-14/topic/openai-appoints-dali-rajic-as-chief-revenue-officer/"
+          "route": "/hot/2026-08-14/topic/openai-appoints-dali-rajic-as-chief-revenue-officer/",
+          "headline_zh": "OpenAI 任命 Dali Rajic 为首席营收官",
+          "summary_short_zh": "负责领导其全球营收团队，帮助企业充分发挥 AI 的价值",
+          "why_it_matters_zh": "此次产品发布的信息来自 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "3dc99207641e",
@@ -2919,7 +2960,11 @@
               "published_at": "2026-08-13T17:42:38-04:00"
             }
           ],
-          "route": "/hot/2026-08-14/topic/microsoft-s-clippy-like-mico-character-is-no-longer-the-face-of-copilot/"
+          "route": "/hot/2026-08-14/topic/microsoft-s-clippy-like-mico-character-is-no-longer-the-face-of-copilot/",
+          "headline_zh": "微软类似 Clippy 的角色 Mico 不再是 Copilot 的代表形象",
+          "summary_short_zh": "使用微软 Copilot 的语音模式时，将不再显示表情丰富的黄色团状角色 Mico。据 GeekWire 此前报道，微软在支持页面上表示，计划将 Mico 移至 Learn Live 平台，让它能“对更多内容作出反应”。",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "5d2bc87f9840",
@@ -2957,7 +3002,11 @@
               "published_at": "2026-08-13T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-08-14/topic/cerebras-and-upstage-bring-ultra-fast-ai-to-south-korea/"
+          "route": "/hot/2026-08-14/topic/cerebras-and-upstage-bring-ultra-fast-ai-to-south-korea/",
+          "headline_zh": "Cerebras 与 Upstage 将超高速 AI 引入韩国",
+          "summary_short_zh": "2026年7月10日",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "89af34538554",
@@ -2995,7 +3044,11 @@
               "published_at": "2026-08-13T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-08-14/topic/first-look-gemma-4-on-cerebras-3-fast-multimodal-apps-we-built/"
+          "route": "/hot/2026-08-14/topic/first-look-gemma-4-on-cerebras-3-fast-multimodal-apps-we-built/",
+          "headline_zh": "初探 Cerebras 上的 Gemma 4：我们打造的 3 款高速多模态应用",
+          "summary_short_zh": "2026年7月8日",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "5e0bffdc5d7f",
@@ -3033,7 +3086,11 @@
               "published_at": "2026-08-13T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-08-14/topic/hiring-engineers-for-an-ai-native-world/"
+          "route": "/hot/2026-08-14/topic/hiring-engineers-for-an-ai-native-world/",
+          "headline_zh": "为 AI 原生世界招聘工程师",
+          "summary_short_zh": "2026年7月9日",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -3077,7 +3134,11 @@
               "published_at": "Thu, 13 Aug 2026 20:14:39 +0000"
             }
           ],
-          "route": "/hot/2026-08-14/topic/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/"
+          "route": "/hot/2026-08-14/topic/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+          "headline_zh": "Databricks 原想融资 10 亿美元，投资者想投 150 亿美元，最终敲定以 1900 亿美元估值融资 50 亿美元。",
+          "summary_short_zh": "Ali Ghodsi 告诉 TechCrunch，AI 很烧钱。面对众多希望参与最新一轮融资的投资者，他同意接受超出原计划的投资。",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次融资。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "cab5c209cbc6",
@@ -3115,7 +3176,11 @@
               "published_at": "Thu, 13 Aug 2026 13:58:56 +0000"
             }
           ],
-          "route": "/hot/2026-08-14/topic/anthropic-could-be-worth-2-trillion-when-it-goes-public/"
+          "route": "/hot/2026-08-14/topic/anthropic-could-be-worth-2-trillion-when-it-goes-public/",
+          "headline_zh": "Anthropic 上市时估值或达 2 万亿美元",
+          "summary_short_zh": "营收快速增长，让外界期待 Claude 开发商创下史上最大 IPO 纪录",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次融资。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "ec8ded5c3062",
@@ -3153,7 +3218,11 @@
               "published_at": "Thu, 13 Aug 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-08-14/topic/vals-raised-a-40m-series-a-and-expanded-benchmark-coverage/"
+          "route": "/hot/2026-08-14/topic/vals-raised-a-40m-series-a-and-expanded-benchmark-coverage/",
+          "headline_zh": "Vals 完成 4000 万美元 A 轮融资，并扩大基准测试覆盖范围",
+          "summary_short_zh": "Vals 宣布以 4 亿美元估值完成 4000 万美元 A 轮融资，同时推出可基于任意 GitHub 仓库定制编程基准测试的 Vals Smith、衡量 AI 研发能力的全新 RSI 指数，以及用于网络安全评估的 ReverseEngBench（Vals AI、RSI 评论）。",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次融资。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "94a19fb65d27",
@@ -3191,7 +3260,11 @@
               "published_at": "Thu, 13 Aug 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-08-14/topic/qwen-3-8-release-on-hugging-face/"
+          "route": "/hot/2026-08-14/topic/qwen-3-8-release-on-hugging-face/",
+          "headline_zh": "Qwen 3.8 在 Hugging Face 发布",
+          "summary_short_zh": "据报道，Qwen 3.8 已在 Hugging Face 发布。评论者特别关注 270 亿参数版本的动向，并注意到还有规模大得多、激活参数量达 950 亿的配置。",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次融资。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -3235,7 +3308,11 @@
               "published_at": "2026-08-13T15:28:39-04:00"
             }
           ],
-          "route": "/hot/2026-08-14/topic/openai-is-losing-its-second-executive-this-week/"
+          "route": "/hot/2026-08-14/topic/openai-is-losing-its-second-executive-this-week/",
+          "headline_zh": "OpenAI 本周又有高管离职，已是第二位",
+          "summary_short_zh": "OpenAI 又有一位高管即将离职。曾任 Slack 首席执行官的 Denise Dresser 于 12 月加入 OpenAI，担任首席营收官。她在 LinkedIn 上发布的一封致团队的信中表示，将在“未来几周”离职，以“寻求其他机会”。",
+          "why_it_matters_zh": "这则行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "29a37f482d32",
@@ -3273,7 +3350,11 @@
               "published_at": "2026-08-14T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-14/topic/how-should-the-us-prepare-for-increasingly-automated-ai-r-d-ifp/"
+          "route": "/hot/2026-08-14/topic/how-should-the-us-prepare-for-increasingly-automated-ai-r-d-ifp/",
+          "headline_zh": "美国应如何为日益自动化的 AI 研发做好准备？（IFP）",
+          "summary_short_zh": "美国应如何为日益自动化的 AI 研发做好准备？（IFP",
+          "why_it_matters_zh": "这则其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "278221d7b17b",
@@ -3311,7 +3392,10 @@
               "published_at": "2026-08-14T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-14/topic/import-ai-468-23-rsi-ideas-posttrainbench-and-how-trust-and-transparency-interplay-with-ai-racing/"
+          "route": "/hot/2026-08-14/topic/import-ai-468-23-rsi-ideas-posttrainbench-and-how-trust-and-transparency-interplay-with-ai-racing/",
+          "headline_zh": "Import AI 第 468 期：23 个 RSI 构想；PostTrainBench+；信任、透明度与 AI 竞赛的相互影响",
+          "why_it_matters_zh": "这则其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "9b236b9e4abb",
@@ -3349,7 +3433,11 @@
               "published_at": "2026-08-14T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-14/topic/scaling-automated-post-training-intology-blog/"
+          "route": "/hot/2026-08-14/topic/scaling-automated-post-training-intology-blog/",
+          "headline_zh": "扩大自动化后训练的规模（Intology 博客）",
+          "summary_short_zh": "扩大自动化后训练的规模（Intology 博客",
+          "why_it_matters_zh": "这则其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "fb7dd9011efa",
@@ -3387,7 +3475,11 @@
               "published_at": "2026-08-14T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-14/topic/now-we-have-a-timeline-of-the-openai-accidental-attack-against-hugging-face-simon-willison-weblog/"
+          "route": "/hot/2026-08-14/topic/now-we-have-a-timeline-of-the-openai-accidental-attack-against-hugging-face-simon-willison-weblog/",
+          "headline_zh": "如今有了 OpenAI 意外攻击 Hugging Face 事件的时间线（Simon Willison 博客）",
+          "summary_short_zh": "如今有了 OpenAI 意外攻击 Hugging Face 事件的时间线（Simon Willison 博客",
+          "why_it_matters_zh": "这则其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -3431,7 +3523,11 @@
               "published_at": "Thu, 13 Aug 2026 15:56:07 +0000"
             }
           ],
-          "route": "/hot/2026-08-14/topic/automate-legacy-web-applications-with-amazon-bedrock-agentcore-browser-tool/"
+          "route": "/hot/2026-08-14/topic/automate-legacy-web-applications-with-amazon-bedrock-agentcore-browser-tool/",
+          "headline_zh": "使用 Amazon Bedrock AgentCore Browser Tool 实现遗留 Web 应用自动化",
+          "summary_short_zh": "了解如何使用 Amazon Bedrock AgentCore Browser Tool 和 Strands Agents，为需要模拟人工交互的遗留 Web 应用实现自动化。",
+          "why_it_matters_zh": "这则工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "15dd7be36b77",
@@ -3469,7 +3565,11 @@
               "published_at": "2026-08-13T12:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-14/topic/suno-is-trying-to-look-more-like-a-real-music-production-tool/"
+          "route": "/hot/2026-08-14/topic/suno-is-trying-to-look-more-like-a-real-music-production-tool/",
+          "headline_zh": "Suno 正努力让自己更像一款真正的音乐制作工具",
+          "summary_short_zh": "Suno 正在推出 Studio 2.0，大幅升级使其更接近真正的数字音频工作站（DAW），而不再只是带有生成式 AI 功能的简易音频编辑器。最重要的新增功能无疑是 MIDI 支持。",
+          "why_it_matters_zh": "这则工具资讯见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     }
@@ -3515,7 +3615,11 @@
               "published_at": "2026-08-13T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-08-14/topic/how-faster-inference-gives-cybersecurity-companies-an-edge/"
+          "route": "/hot/2026-08-14/topic/how-faster-inference-gives-cybersecurity-companies-an-edge/",
+          "headline_zh": "加快推理速度如何让网络安全公司获得竞争优势",
+          "summary_short_zh": "2026年7月22日",
+          "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "e94fae568931",
@@ -3553,7 +3657,11 @@
               "published_at": "2026-08-13T10:10:31-04:00"
             }
           ],
-          "route": "/hot/2026-08-14/topic/does-google-even-want-to-win-at-ai/"
+          "route": "/hot/2026-08-14/topic/does-google-even-want-to-win-at-ai/",
+          "headline_zh": "Google 到底想不想赢下 AI 竞赛？",
+          "summary_short_zh": "在今天的 Decoder 节目中，我与 The Verge 资深 AI 记者 Hayden Field 聊聊过去一周科技界热议的问题：Google 在 AI 竞赛中落后了吗？起因是 Google 上周宣布对旗下 AI 部门 Google DeepMind 进行重大重组，引发轰动。",
+          "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "e84da1414ce3",
@@ -3591,7 +3699,10 @@
               "published_at": "2026-08-13T08:14:30Z"
             }
           ],
-          "route": "/hot/2026-08-14/topic/launch-hn-bullet-yc-s26-a-faster-coding-agent/"
+          "route": "/hot/2026-08-14/topic/launch-hn-bullet-yc-s26-a-faster-coding-agent/",
+          "headline_zh": "HN 新品发布：Bullet（YC S26），更快的编程智能体",
+          "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "5caae753ba8f",
@@ -3635,7 +3746,11 @@
               "published_at": "Thu, 13 Aug 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-08-14/topic/how-do-you-plan-to-run-qwen3-8-2-4t-a95b-locally/"
+          "route": "/hot/2026-08-14/topic/how-do-you-plan-to-run-qwen3-8-2-4t-a95b-locally/",
+          "headline_zh": "你打算如何在本地运行 Qwen3.8-2.4T-A95B？",
+          "summary_short_zh": "帖子探讨了爱好者能否以及如何在本地运行 Qwen3.8-2.4T-A95B，并提及此前同样被考虑用于本地推理的 Llama-70B、Mistral Large、DeepSeek V2/V3 和 Kimi K3 等超大模型。",
+          "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "2e20f737d110",
@@ -3673,7 +3788,11 @@
               "published_at": "Thu, 13 Aug 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-08-14/topic/hermes-agent-keeps-leaning-into-multi-agent-ux/"
+          "route": "/hot/2026-08-14/topic/hermes-agent-keeps-leaning-into-multi-agent-ux/",
+          "headline_zh": "Hermes Agent 持续聚焦多智能体用户体验",
+          "summary_short_zh": "Nous 推出 Bot Mode，将智能体配置转为具名、持久化的机器人，支持例行任务和机器人间通信（@Teknium",
+          "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "8043eceb90ac",
@@ -3711,7 +3830,11 @@
               "published_at": "Thu, 13 Aug 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-08-14/topic/managed-and-desktop-harnesses-continue-to-converge-toward-production-workflows/"
+          "route": "/hot/2026-08-14/topic/managed-and-desktop-harnesses-continue-to-converge-toward-production-workflows/",
+          "headline_zh": "托管式和桌面端智能体运行框架持续向生产工作流靠拢",
+          "summary_short_zh": "Cursor 公布了新版本，将云端智能体的启动速度提升至原来的 3 倍，支持故障时回退到上一个正常版本，并提升长时间自主任务的容错能力和可调试性（Cursor）。",
+          "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "d7fe3ebc449a",
@@ -3749,7 +3872,11 @@
               "published_at": "Thu, 13 Aug 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-08-14/topic/minimax-had-a-strong-open-model-day/"
+          "route": "/hot/2026-08-14/topic/minimax-had-a-strong-open-model-day/",
+          "headline_zh": "MiniMax 当天在开放模型领域表现亮眼",
+          "summary_short_zh": "MiniMax-Music3 作为开放权重的音乐模型发布。相关帖子称，它采用 8B LLM + 2.7B DiT 架构，可根据提示词和歌词生成完整歌曲，并通过 diffusers/ComfyUI/Hugging Face Spaces 在消费级硬件上运行（MiniMax AI、@multimodalart）。",
+          "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "a732b20edb60",
@@ -3787,7 +3914,11 @@
               "published_at": "Thu, 13 Aug 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-08-14/topic/deepmind-just-released-sl2t-sign-language-to-text-model-deaf-users-can-now-sign-into-their-phones-instead-of-typing-developed-with-heavy-input-from-the-deaf-community/"
+          "route": "/hot/2026-08-14/topic/deepmind-just-released-sl2t-sign-language-to-text-model-deaf-users-can-now-sign-into-their-phones-instead-of-typing-developed-with-heavy-input-from-the-deaf-community/",
+          "headline_zh": "DeepMind 刚刚发布手语转文本模型 SL2T，聋人用户现在可用手语向手机输入，无需打字，研发过程中有聋人社群深度参与",
+          "summary_short_zh": "据报道，DeepMind 发布了手语转文本系统 SL2T，可将同时发生的手部、身体和面部动作实时转为英文文本，让聋人用户用手语向手机输入，无需打字。详情见链接中的 DeepMind 博文。",
+          "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     }
@@ -3829,7 +3960,11 @@
           "published_at": "2026-08-13T04:06:22Z"
         }
       ],
-      "route": "/hot/2026-08-14/topic/thiientv-godmode/"
+      "route": "/hot/2026-08-14/topic/thiientv-godmode/",
+      "headline_zh": "thiientv/godmode",
+      "summary_short_zh": "面向 AI 编程智能体的生产级 Agent Skills，提供可组合的工作流，涵盖规划、测试驱动开发（TDD）、调试、代码审查、UI/UX、版本发布、故障处理和评测",
+      "why_it_matters_zh": "此次产品发布的信息来自 1 个独立来源。",
+      "category_zh": "产品发布"
     }
   ],
   "x_buzz": [

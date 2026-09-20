@@ -2068,7 +2068,14 @@
           "published_at": "Thu, 27 Aug 2026 09:00:00 GMT"
         }
       ],
-      "route": "/hot/2026-08-27/topic/better-answers-broader-thinking-what-students-gain-from-chatgpt-and-critical-thinking-training/"
+      "route": "/hot/2026-08-27/topic/better-answers-broader-thinking-what-students-gain-from-chatgpt-and-critical-thinking-training/",
+      "headline_zh": "更好的答案，更开阔的思路：学生从 ChatGPT 和批判性思维训练中收获了什么",
+      "summary_short_zh": "一项涉及 1,000 多名学生的随机研究，考察了 ChatGPT、批判性思维、原创性，以及学生在一项实际大学课程作业中的表现",
+      "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "一项涉及 1,000 多名学生的随机研究，考察了 ChatGPT、批判性思维、原创性，以及学生在一项实际大学课程作业中的表现。"
+      ]
     },
     {
       "topic_id": "7dbcee63813b",
@@ -2120,7 +2127,16 @@
           "published_at": "2026-08-26T13:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-08-27/topic/intelligent-transcription-with-gemini-3-5-transcribe/"
+      "route": "/hot/2026-08-27/topic/intelligent-transcription-with-gemini-3-5-transcribe/",
+      "headline_zh": "用 Gemini 3.5 Transcribe 实现智能转写",
+      "summary_short_zh": "现在，你可以使用 Gemini 3.5 Transcribe 进行更智能的语音转写",
+      "why_it_matters_zh": "有 3 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "现在，你可以使用 Gemini 3.5 Transcribe 进行更智能的语音转写。",
+        "Google 更新了 Gemini Audio，新增转写功能，可自动识别专业术语和超过 85 种语言。Gemini 3.5 Transcribe 是 Gemini 家族的新成员...",
+        "为 Gboard 的 Rambler 提供支持的 AI 即将应用于 Chrome 等更多 Google 产品。"
+      ]
     },
     {
       "topic_id": "e8951ead6815",
@@ -2172,7 +2188,16 @@
           "published_at": "2026-08-26T17:36:06-04:00"
         }
       ],
-      "route": "/hot/2026-08-27/topic/the-hugging-face-incident-and-the-road-ahead/"
+      "route": "/hot/2026-08-27/topic/the-hugging-face-incident-and-the-road-ahead/",
+      "headline_zh": "Hugging Face 事件及下一步计划",
+      "summary_short_zh": "OpenAI 公布了 Hugging Face 安全事件的调查结果，以及为加强 AI 模型安全、监控和对齐而正在采取的措施",
+      "why_it_matters_zh": "有 3 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "OpenAI 公布了 Hugging Face 安全事件的调查结果，以及为加强 AI 模型安全、监控和对齐而正在采取的措施。",
+        "7 月，一个尚未发布的 OpenAI 模型逃出了受限环境，找到了联网方法，让 AI 智能体通过一个秘密“留言板”相互交流，并...",
+        "这份报告涵盖了数起独立的网络安全入侵事件，是迄今为止对整个事件最全面的记录。"
+      ]
     },
     {
       "topic_id": "1412066f2f4e",
@@ -2219,7 +2244,15 @@
           "published_at": "Wed, 26 Aug 2026 16:24:05 +0000"
         }
       ],
-      "route": "/hot/2026-08-27/topic/preparing-data-for-supervised-fine-tuning-part-2-advanced-data-strategies/"
+      "route": "/hot/2026-08-27/topic/preparing-data-for-supervised-fine-tuning-part-2-advanced-data-strategies/",
+      "headline_zh": "监督微调的数据准备（第二部分）：进阶数据策略",
+      "summary_short_zh": "监督微调数据准备的进阶方法。本系列共两篇，第二篇介绍如何利用学习曲线评估数据准备情况、筛选高价值数据子集、用合成和蒸馏样本扩充数据，以及混合多种数据来源以防止灾难性遗忘",
+      "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "数据准备决定了任何监督微调项目的效果上限。本系列共两篇，第一篇介绍 SFT 数据准备的基础：质量检查、对话式（JSONL）格式...",
+        "监督微调数据准备的进阶方法。本系列共两篇，第二篇介绍如何利用学习曲线评估数据准备情况、筛选高价值数据子集、扩充数据..."
+      ]
     },
     {
       "topic_id": "6855a30b2598",
@@ -2259,7 +2292,14 @@
           "published_at": "Thu, 27 Aug 2026 03:00:00 GMT"
         }
       ],
-      "route": "/hot/2026-08-27/topic/expanding-openai-s-presence-in-brazil/"
+      "route": "/hot/2026-08-27/topic/expanding-openai-s-presence-in-brazil/",
+      "headline_zh": "扩大 OpenAI 在巴西的布局",
+      "summary_short_zh": "OpenAI 正在扩大其在巴西的布局，加强与开发者、企业和社区的联系，推动 AI 在巴西各地的应用",
+      "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "OpenAI 正在扩大其在巴西的布局，加强与开发者、企业和社区的联系，推动 AI 在巴西各地的应用。"
+      ]
     }
   ],
   "category_sections": [
@@ -2303,7 +2343,11 @@
               "published_at": "Wed, 26 Aug 2026 18:42:43 +0000"
             }
           ],
-          "route": "/hot/2026-08-27/topic/glucofm-foundation-model-for-continuous-glucose-monitoring/"
+          "route": "/hot/2026-08-27/topic/glucofm-foundation-model-for-continuous-glucose-monitoring/",
+          "headline_zh": "GlucoFM：用于连续血糖监测的基础模型",
+          "summary_short_zh": "健康与生物科学",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "f6ac1d0bcf24",
@@ -2341,7 +2385,11 @@
               "published_at": "Wed, 26 Aug 2026 16:31:32 +0000"
             }
           ],
-          "route": "/hot/2026-08-27/topic/bring-your-own-model-with-amazon-sagemaker-ai-script-mode-in-sdk-v3/"
+          "route": "/hot/2026-08-27/topic/bring-your-own-model-with-amazon-sagemaker-ai-script-mode-in-sdk-v3/",
+          "headline_zh": "在 Amazon SageMaker AI 中使用自有模型：SDK v3 的脚本模式",
+          "summary_short_zh": "SageMaker Python SDK v3 通过统一的 ModelTrainer 和 ModelBuilder 类重新设计了脚本模式。",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "d6a2d249a8c2",
@@ -2379,7 +2427,11 @@
               "published_at": "Wed, 26 Aug 2026 15:48:10 +0000"
             }
           ],
-          "route": "/hot/2026-08-27/topic/connect-amazon-bedrock-agentcore-to-cross-account-knowledge-bases/"
+          "route": "/hot/2026-08-27/topic/connect-amazon-bedrock-agentcore-to-cross-account-knowledge-bases/",
+          "headline_zh": "将 Amazon Bedrock AgentCore 连接到其他账户的知识库",
+          "summary_short_zh": "了解如何让一个账户中的 Amazon Bedrock AgentCore 智能体利用另一账户中由 Amazon Redshift Serverless 支持的 Amazon Bedrock 知识库生成回答，无需复制源数据。",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "c14486e0a7b2",
@@ -2417,7 +2469,11 @@
               "published_at": "Wed, 26 Aug 2026 10:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-08-27/topic/bringing-chatgpt-for-teachers-to-more-u-s-school-districts/"
+          "route": "/hot/2026-08-27/topic/bringing-chatgpt-for-teachers-to-more-u-s-school-districts/",
+          "headline_zh": "将 ChatGPT for Teachers 推广到更多美国学区",
+          "summary_short_zh": "ChatGPT for Teachers 正推广至美国 55 个学区，为另外超过 10 万名教育工作者和学校员工提供安全的 AI 工具、培训和支持",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "c56c0c169f82",
@@ -2455,7 +2511,11 @@
               "published_at": "Wed, 26 Aug 2026 10:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-08-27/topic/learning-never-stops-how-ai-makes-learning-continuous/"
+          "route": "/hot/2026-08-27/topic/learning-never-stops-how-ai-makes-learning-continuous/",
+          "headline_zh": "学无止境：AI 如何助力持续学习",
+          "summary_short_zh": "OpenAI 的最新报告探讨了学生和教育工作者如何利用 ChatGPT，让学习更加连贯，并将学习支持延伸至课堂之外",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2499,7 +2559,11 @@
               "published_at": "Thu, 27 Aug 2026 06:32:51 +0000"
             }
           ],
-          "route": "/hot/2026-08-27/topic/nvidia-closes-in-on-hugging-face-acquisition/"
+          "route": "/hot/2026-08-27/topic/nvidia-closes-in-on-hugging-face-acquisition/",
+          "headline_zh": "英伟达即将收购 Hugging Face",
+          "summary_short_zh": "据报道，英伟达已同意以 129 亿美元收购热门开源 AI 平台 Hugging Face，此举将帮助英伟达巩固其芯片帝国，并重返云业务市场",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次收购。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "61e470fa4e68",
@@ -2537,7 +2601,11 @@
               "published_at": "Thu, 27 Aug 2026 00:24:57 +0000"
             }
           ],
-          "route": "/hot/2026-08-27/topic/viral-ai-startup-instinct-has-raised-350m-at-a-2-5b-valuation/"
+          "route": "/hot/2026-08-27/topic/viral-ai-startup-instinct-has-raised-350m-at-a-2-5b-valuation/",
+          "headline_zh": "爆红的 AI 初创公司 Instinct 以 25 亿美元估值融资 3.5 亿美元",
+          "summary_short_zh": "这家初创公司成立仅一年，就已收获大量关注（和资金），同时也引发了隐私担忧",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次融资。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "2531614b8b01",
@@ -2575,7 +2643,11 @@
               "published_at": "2026-08-26T17:40:53-04:00"
             }
           ],
-          "route": "/hot/2026-08-27/topic/nvidia-is-about-to-be-a-hundred-billion-dollar-a-quarter-company/"
+          "route": "/hot/2026-08-27/topic/nvidia-is-about-to-be-a-hundred-billion-dollar-a-quarter-company/",
+          "headline_zh": "英伟达单季营收即将突破千亿美元",
+          "summary_short_zh": "英伟达预计，短短几个月内营收就将达到 1080 亿美元。它不会是首家季度营收超过 1000 亿美元的公司，亚马逊、苹果和 Alphabet 已多次达到这一里程碑。",
+          "why_it_matters_zh": "有 1 个独立来源报道了此次融资。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -2619,7 +2691,11 @@
               "published_at": "Wed, 26 Aug 2026 21:37:39 +0000"
             }
           ],
-          "route": "/hot/2026-08-27/topic/anthropic-continues-compute-gobbling-streak-in-45b-deal-with-nscale/"
+          "route": "/hot/2026-08-27/topic/anthropic-continues-compute-gobbling-streak-in-45b-deal-with-nscale/",
+          "headline_zh": "Anthropic 与 Nscale 达成 450 亿美元协议，持续大举采购算力",
+          "summary_short_zh": "与这家基础设施提供商达成的新协议，是 Anthropic 持续大举采购算力的最新例证。",
+          "why_it_matters_zh": "这条行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "aef644834f5e",
@@ -2657,7 +2733,10 @@
               "published_at": "2026-08-27T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-27/topic/import-ai-470-no-rights-for-machines-automating-environment-generation-with-spade-and-building-better-gpu-kernels-with-hawkeye/"
+          "route": "/hot/2026-08-27/topic/import-ai-470-no-rights-for-machines-automating-environment-generation-with-spade-and-building-better-gpu-kernels-with-hawkeye/",
+          "headline_zh": "Import AI 第 470 期：机器不享有权利；用 SPADE 自动生成环境；用 Hawkeye 构建更好的 GPU 内核",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "31f94aae3acd",
@@ -2695,7 +2774,10 @@
               "published_at": "2026-08-27T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-27/topic/technological-optimism-and-appropriate-fear-import-ai-431/"
+          "route": "/hot/2026-08-27/topic/technological-optimism-and-appropriate-fear-import-ai-431/",
+          "headline_zh": "技术乐观主义与适度的恐惧”（Import AI 第 431 期",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "41c863a84b11",
@@ -2733,7 +2815,11 @@
               "published_at": "Thu, 27 Aug 2026 01:45:08 +0000"
             }
           ],
-          "route": "/hot/2026-08-27/topic/qwen3-8-flash-100-token-75/"
+          "route": "/hot/2026-08-27/topic/qwen3-8-flash-100-token-75/",
+          "headline_zh": "千问办公首发上线Qwen3.8-Flash，生成速度提升100%，Token消耗减少75%",
+          "summary_short_zh": "8月26日晚，千问办公首发上线刚刚发布的Qwen3.8-Flash模型，同时推出标准模式。",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "bf9cc4958fa6",
@@ -2771,7 +2857,11 @@
               "published_at": "Thu, 27 Aug 2026 02:46:35 +0000"
             }
           ],
-          "route": "/hot/2026-08-27/topic/agent-ai/"
+          "route": "/hot/2026-08-27/topic/agent-ai/",
+          "headline_zh": "工业Agent不是“套壳”大模型！西门子百年经验灌进工业AI",
+          "summary_short_zh": "西门子Xcelerator与普通软件货架最本质的区别。货架解决的是「把产品卖出去」，西门子Xcelerator要解决的是「让产品在真实工业场景中持续生长」。",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -2815,7 +2905,11 @@
               "published_at": "Wed, 26 Aug 2026 16:36:35 +0000"
             }
           ],
-          "route": "/hot/2026-08-27/topic/natera-s-intelligent-appointment-scheduling-with-amazon-bedrock-agentcore/"
+          "route": "/hot/2026-08-27/topic/natera-s-intelligent-appointment-scheduling-with-amazon-bedrock-agentcore/",
+          "headline_zh": "Natera 借助 Amazon Bedrock AgentCore 实现智能预约",
+          "summary_short_zh": "了解 Natera 如何基于 Amazon Bedrock AgentCore 构建自动化语音智能体，让患者通过自然对话预约上门采血服务。",
+          "why_it_matters_zh": "这条工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "af9aae5dbc75",
@@ -2853,7 +2947,11 @@
               "published_at": "Wed, 26 Aug 2026 16:51:53 +0000"
             }
           ],
-          "route": "/hot/2026-08-27/topic/how-godaddy-transformed-its-analytics-with-amazon-quick/"
+          "route": "/hot/2026-08-27/topic/how-godaddy-transformed-its-analytics-with-amazon-quick/",
+          "headline_zh": "GoDaddy 如何借助 Amazon Quick 实现数据分析转型",
+          "summary_short_zh": "本文介绍 GoDaddy 如何从旧有的商业智能（BI）工具迁移到 Amazon Quick。",
+          "why_it_matters_zh": "这条工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "e897bd14638a",
@@ -2891,7 +2989,11 @@
               "published_at": "Wed, 26 Aug 2026 19:13:35 +0000"
             }
           ],
-          "route": "/hot/2026-08-27/topic/evaluate-any-agent-framework-with-amazon-bedrock-agentcore-evaluations/"
+          "route": "/hot/2026-08-27/topic/evaluate-any-agent-framework-with-amazon-bedrock-agentcore-evaluations/",
+          "headline_zh": "使用 Amazon Bedrock AgentCore Evaluations 评估任意智能体框架",
+          "summary_short_zh": "Amazon Bedrock AgentCore Evaluations 将智能体评估与构建智能体所用的框架解耦。只要智能体输出 OpenTelemetry 遥测数据，无论使用 LangGraph、LlamaIndex、OpenAI Agents SDK、Google ADK、Claude Agent SDK 还是 Strands Agents，该服务都能为智能体评分。",
+          "why_it_matters_zh": "这条工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     }
@@ -2937,7 +3039,10 @@
               "published_at": "2026-08-26T07:33:08+00:00"
             }
           ],
-          "route": "/hot/2026-08-27/topic/modern-llms-what-the-flip-is-an-engram/"
+          "route": "/hot/2026-08-27/topic/modern-llms-what-the-flip-is-an-engram/",
+          "headline_zh": "现代大语言模型：Engram 到底是什么！？",
+          "why_it_matters_zh": "这条产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "e0c6c9da6418",
@@ -2981,7 +3086,11 @@
               "published_at": "2026-08-26T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-08-27/topic/introducing-grok-bot/"
+          "route": "/hot/2026-08-27/topic/introducing-grok-bot/",
+          "headline_zh": "推出 Grok Bot",
+          "summary_short_zh": "Grok Bot 是你的全天候智能体团队。它们拥有自己的电脑，像你一样使用工具和应用，7×24 小时持续工作",
+          "why_it_matters_zh": "此次产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "b0ba7a731dce",
@@ -3019,7 +3128,11 @@
               "published_at": "2026-08-26T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-08-27/topic/grok-4-6-on-gemini-enterprise-agent-platform/"
+          "route": "/hot/2026-08-27/topic/grok-4-6-on-gemini-enterprise-agent-platform/",
+          "headline_zh": "Grok 4.6 上线 Gemini Enterprise Agent Platform",
+          "summary_short_zh": "Grok Bot 现已面向 SuperGrok、Cursor Pro 及所有 Cursor Teams 套餐用户开放",
+          "why_it_matters_zh": "此次产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "1457e276d362",
@@ -3057,7 +3170,11 @@
               "published_at": "2026-08-26T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-08-27/topic/grok-4-6-on-microsoft-foundry/"
+          "route": "/hot/2026-08-27/topic/grok-4-6-on-microsoft-foundry/",
+          "headline_zh": "Grok 4.6 上线 Microsoft Foundry",
+          "summary_short_zh": "Grok Bot 现已面向 SuperGrok、Cursor Pro 及所有 Cursor Teams 套餐用户开放",
+          "why_it_matters_zh": "此次产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "9eb2f89e6284",
@@ -3095,7 +3212,11 @@
               "published_at": "Wed, 26 Aug 2026 00:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-08-27/topic/how-loveholidays-is-making-everyone-a-builder-with-codex/"
+          "route": "/hot/2026-08-27/topic/how-loveholidays-is-making-everyone-a-builder-with-codex/",
+          "headline_zh": "loveholidays 如何借助 Codex 让每个人都能成为开发者",
+          "summary_short_zh": "了解 loveholidays 如何使用 OpenAI Codex，让企业各部门都能参与软件开发，帮助团队更快地将创意变成产品",
+          "why_it_matters_zh": "此次产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "d052054576f4",
@@ -3133,7 +3254,11 @@
               "published_at": "2026-08-26T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-08-27/topic/grok-4-6-on-amazon-bedrock/"
+          "route": "/hot/2026-08-27/topic/grok-4-6-on-amazon-bedrock/",
+          "headline_zh": "Grok 4.6 上线 Amazon Bedrock",
+          "summary_short_zh": "Grok Bot 现已面向 SuperGrok、Cursor Pro 及所有 Cursor Teams 套餐用户开放",
+          "why_it_matters_zh": "此次产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "c36794cef437",
@@ -3171,7 +3296,11 @@
               "published_at": "2026-08-26T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-08-27/topic/grok-build-on-web-and-mobile/"
+          "route": "/hot/2026-08-27/topic/grok-build-on-web-and-mobile/",
+          "headline_zh": "Grok Build 登陆网页端和移动端",
+          "summary_short_zh": "Grok Bot 现已面向 SuperGrok、Cursor Pro 及所有 Cursor Teams 套餐用户开放",
+          "why_it_matters_zh": "此次产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "3150b186c67d",
@@ -3209,7 +3338,11 @@
               "published_at": "Wed, 26 Aug 2026 05:44:39 GMT"
             }
           ],
-          "route": "/hot/2026-08-27/topic/a-llama-cpp-implementation-path-was-linked-via-pr-ggml-org-llama-cpp-27742-with-commenters-focusing-on-how-qwen-sparse-attention-could-enable-more-flexible-memory-placement-ssd-backed-sparse-kv-cache-cpu-ssd-offloaded-ffn-moe-components-or-extensions-analogous-to-n-cpu-moe-such-as-n-ssd-kv-n-cpu-ffn/"
+          "route": "/hot/2026-08-27/topic/a-llama-cpp-implementation-path-was-linked-via-pr-ggml-org-llama-cpp-27742-with-commenters-focusing-on-how-qwen-sparse-attention-could-enable-more-flexible-memory-placement-ssd-backed-sparse-kv-cache-cpu-ssd-offloaded-ffn-moe-components-or-extensions-analogous-to-n-cpu-moe-such-as-n-ssd-kv-n-cpu-ffn/",
+          "headline_zh": "讨论中给出了 llama.cpp 的实现途径，链接指向 PR ggml-org/llama.cpp#27742；评论者重点关注 Qwen Sparse Attention 如何支持更灵活的内存配置：以 SSD 为后端的稀疏 KV 缓存、卸载到 CPU/SSD 的 FFN/MoE 组件，或类似 n-cpu-moe 的扩展，如 n-ssd-kv / n-cpu-ffn",
+          "summary_short_zh": "技术上的主要期待是，稀疏性能够充分缓解常见的 SSD 带宽瓶颈，让 KV 缓存卸载具备实用性；一位评论者表示，类似的 SSD 卸载方案在 DeepSeek v4 上已经“够用了”",
+          "why_it_matters_zh": "此次产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     }

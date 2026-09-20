@@ -1131,7 +1131,16 @@
           "published_at": "2026-08-13T18:57:47Z"
         }
       ],
-      "route": "/hot/2026-08-17/topic/ysr666-dsh-vision-router/"
+      "route": "/hot/2026-08-17/topic/ysr666-dsh-vision-router/",
+      "headline_zh": "ysr666/dsh-vision-router",
+      "summary_short_zh": "为纯文本 DeepSeek Harness 智能体配上眼睛：内置免费视觉处理链（无需密钥）和像素级视觉工具（问答、视觉定位、裁剪、像素差异比对、颜色、OCR、SVG 描摹、抠图、截图）。一条命令即可安装，无需 Python，图像对话轮次的运行方式与常规工具调用相同",
+      "why_it_matters_zh": "有 1 个独立来源提及该工具。",
+      "category_zh": "工具",
+      "key_takeaways_zh": [
+        "让纯文本模型更好地做视觉任务的DeepSeek Harness插件：带意图的图片问答、长截图 OCR、UI 还原等｜DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, long-screenshot OCR, UI restoration, grounding, pixel diff, Artifa...",
+        "为纯文本 DeepSeek Harness 智能体配上眼睛：内置免费视觉处理链（无需密钥）和像素级视觉工具（问答、视觉定位、裁剪、像素差异比对、颜色、OCR、SVG 描摹、抠图、截图）。一条命令...",
+        "DeepSeek Harness 的任务感知推理模式路由器：实测划分为三个行为区间（spec/mixed/react），并提供相变证据；支持角色设定、首轮工具注入，以及智能体可见的调优。Du..."
+      ]
     },
     {
       "topic_id": "0763c201ffcd",
@@ -1171,7 +1180,14 @@
           "published_at": "2026-08-15T06:10:13Z"
         }
       ],
-      "route": "/hot/2026-08-17/topic/sheberdavid-v4-flash-godmode-opencode-go/"
+      "route": "/hot/2026-08-17/topic/sheberdavid-v4-flash-godmode-opencode-go/",
+      "headline_zh": "SheberDavid/v4-flash-godmode-opencode-go",
+      "summary_short_zh": "V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh agent preset",
+      "why_it_matters_zh": "有 1 个独立来源提及此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh agent preset"
+      ]
     },
     {
       "topic_id": "2633d841756b",
@@ -1211,7 +1227,14 @@
           "published_at": "2026-08-16T10:56:40-04:00"
         }
       ],
-      "route": "/hot/2026-08-17/topic/chatgpt-s-computer-history-tracks-your-clicks-and-keystrokes/"
+      "route": "/hot/2026-08-17/topic/chatgpt-s-computer-history-tracks-your-clicks-and-keystrokes/",
+      "headline_zh": "ChatGPT 的 Computer History 会记录你的点击和按键操作",
+      "summary_short_zh": "ChatGPT 的 macOS 桌面应用新增了 Computer History 功能，可将你的操作转化为训练数据，学习你的工作方式，推荐自动化操作，甚至接手你做到一半的任务。",
+      "why_it_matters_zh": "有 1 个独立来源提及此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "ChatGPT 的 macOS 桌面应用新增了 Computer History 功能，可将你的操作转化为训练数据，学习你的工作方式，推荐自动化操作，甚至接手你留下的任务..."
+      ]
     },
     {
       "topic_id": "3faf47e07b49",
@@ -1251,7 +1274,14 @@
           "published_at": "2026-08-16T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-08-17/topic/new-api-features-2024-07-25/"
+      "route": "/hot/2026-08-17/topic/new-api-features-2024-07-25/",
+      "headline_zh": "API 新功能 2024/07/25",
+      "summary_short_zh": "DeepSeek-V4-Pro 正式版已在 App、网页端和 API 上线。API 调用方式不变，只需将模型名称设为 deepseek-v4-pro，即可使用最新版本",
+      "why_it_matters_zh": "有 1 个独立来源提及此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "DeepSeek-V4-Pro 正式版已在 App、网页端和 API 上线。API 调用方式不变，只需将模型名称设为 deepseek-v4-pro，即可使用最新版本。"
+      ]
     },
     {
       "topic_id": "f5ef2e384411",
@@ -1291,7 +1321,14 @@
           "published_at": "2026-08-16T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-08-17/topic/thinking-mode/"
+      "route": "/hot/2026-08-17/topic/thinking-mode/",
+      "headline_zh": "思考模式",
+      "summary_short_zh": "DeepSeek-V4-Pro 正式版已在 App、网页端和 API 上线。API 调用方式不变，只需将模型名称设为 deepseek-v4-pro，即可使用最新版本",
+      "why_it_matters_zh": "有 1 个独立来源提及此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "DeepSeek-V4-Pro 正式版已在 App、网页端和 API 上线。API 调用方式不变，只需将模型名称设为 deepseek-v4-pro，即可使用最新版本。"
+      ]
     }
   ],
   "category_sections": [
@@ -1335,7 +1372,11 @@
               "published_at": "2026-08-16T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-08-17/topic/update-and-adjust-api-pricing/"
+          "route": "/hot/2026-08-17/topic/update-and-adjust-api-pricing/",
+          "headline_zh": "更新并调整 API 定价",
+          "summary_short_zh": "DeepSeek-V4-Pro 正式版已在 App、网页端和 API 上线。API 调用方式不变，只需将模型名称设为 deepseek-v4-pro，即可使用最新版本",
+          "why_it_matters_zh": "有 1 个独立来源提及此次产品发布。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -1379,7 +1420,11 @@
               "published_at": "Sun, 16 Aug 2026 16:53:51 +0000"
             }
           ],
-          "route": "/hot/2026-08-17/topic/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/"
+          "route": "/hot/2026-08-17/topic/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+          "headline_zh": "Anthropic CEO 称，对 AI 的抵触“本质上是一场信任危机”",
+          "summary_short_zh": "Dario Amodei 反驳外界称他对 AI 前景描绘过于悲观的说法",
+          "why_it_matters_zh": "这一行业动向见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "29a37f482d32",
@@ -1417,7 +1462,11 @@
               "published_at": "2026-08-17T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-17/topic/how-should-the-us-prepare-for-increasingly-automated-ai-r-d-ifp/"
+          "route": "/hot/2026-08-17/topic/how-should-the-us-prepare-for-increasingly-automated-ai-r-d-ifp/",
+          "headline_zh": "美国应如何为日益自动化的 AI 研发做好准备？（IFP）",
+          "summary_short_zh": "美国应如何为日益自动化的 AI 研发做好准备？（IFP",
+          "why_it_matters_zh": "这则消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "278221d7b17b",
@@ -1455,7 +1504,10 @@
               "published_at": "2026-08-17T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-17/topic/import-ai-468-23-rsi-ideas-posttrainbench-and-how-trust-and-transparency-interplay-with-ai-racing/"
+          "route": "/hot/2026-08-17/topic/import-ai-468-23-rsi-ideas-posttrainbench-and-how-trust-and-transparency-interplay-with-ai-racing/",
+          "headline_zh": "Import AI 第 468 期：23 个 RSI 构想；PostTrainBench+；信任、透明度与 AI 竞赛之间的相互影响",
+          "why_it_matters_zh": "这则消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "9b236b9e4abb",
@@ -1493,7 +1545,11 @@
               "published_at": "2026-08-17T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-17/topic/scaling-automated-post-training-intology-blog/"
+          "route": "/hot/2026-08-17/topic/scaling-automated-post-training-intology-blog/",
+          "headline_zh": "扩大自动化后训练规模（Intology 博客）",
+          "summary_short_zh": "扩大自动化后训练规模（Intology 博客",
+          "why_it_matters_zh": "这则消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "fb7dd9011efa",
@@ -1531,7 +1587,11 @@
               "published_at": "2026-08-17T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-17/topic/now-we-have-a-timeline-of-the-openai-accidental-attack-against-hugging-face-simon-willison-weblog/"
+          "route": "/hot/2026-08-17/topic/now-we-have-a-timeline-of-the-openai-accidental-attack-against-hugging-face-simon-willison-weblog/",
+          "headline_zh": "OpenAI 意外攻击 Hugging Face 的时间线现已整理出来（Simon Willison 博客）",
+          "summary_short_zh": "OpenAI 意外攻击 Hugging Face 的时间线现已整理出来（Simon Willison 博客",
+          "why_it_matters_zh": "这则消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -1575,7 +1635,11 @@
               "published_at": "2026-08-16T23:59:37+00:00"
             }
           ],
-          "route": "/hot/2026-08-17/topic/markdown-svg-upgrades/"
+          "route": "/hot/2026-08-17/topic/markdown-svg-upgrades/",
+          "headline_zh": "Markdown SVG 功能升级",
+          "summary_short_zh": "<p>这个 <a href=\" 工具是我从 <a href=\" 五月</a>开始开发的，之后又加了不少功能，值得在这里再介绍一次。</p> <p>如今，它已成为我分享含 SVG 文档的 Markdown 对话记录的理想工具。",
+          "why_it_matters_zh": "这一工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     }
@@ -1621,7 +1685,11 @@
               "published_at": "2026-08-16T22:00:39+00:00"
             }
           ],
-          "route": "/hot/2026-08-17/topic/qwen-3-8-27b-is-excellent-but-it-defaults-to-wildly-overthinking-things/"
+          "route": "/hot/2026-08-17/topic/qwen-3-8-27b-is-excellent-but-it-defaults-to-wildly-overthinking-things/",
+          "headline_zh": "Qwen 3.8 27B 表现出色，但默认模式下会严重过度思考",
+          "summary_short_zh": "<p>周五重磅发布了 <a href=\" 3.8 27B</a>，这是阿里巴巴 Qwen 实验室推出的一款支持视觉的 270 亿参数大语言模型，采用 Apache 2 许可证。",
+          "why_it_matters_zh": "这则消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "dbc28b3fa47d",
@@ -1659,7 +1727,11 @@
               "published_at": "2026-08-16T17:32:56-04:00"
             }
           ],
-          "route": "/hot/2026-08-17/topic/openai-reportedly-disbanded-its-preparedness-team/"
+          "route": "/hot/2026-08-17/topic/openai-reportedly-disbanded-its-preparedness-team/",
+          "headline_zh": "据报道，OpenAI 已解散其安全准备团队",
+          "summary_short_zh": "据《金融时报》报道，OpenAI 于上月底解散了其安全准备团队。该团队负责评估模型是否会带来严重风险，并制定缓解措施。",
+          "why_it_matters_zh": "这则消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "dd04455c1014",
@@ -1697,7 +1769,11 @@
               "published_at": "Sun, 16 Aug 2026 20:32:01 +0000"
             }
           ],
-          "route": "/hot/2026-08-17/topic/why-people-aren-t-buying-mark-zuckerberg-s-ai-future/"
+          "route": "/hot/2026-08-17/topic/why-people-aren-t-buying-mark-zuckerberg-s-ai-future/",
+          "headline_zh": "人们为何不认同马克·扎克伯格的 AI 未来愿景",
+          "summary_short_zh": "在最新一期 Equity 播客中，我们讨论了为什么有些人不认同扎克伯格的愿景",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "3e0333d0e9c3",
@@ -1735,7 +1811,11 @@
               "published_at": "Sun, 16 Aug 2026 10:36:47 +0000"
             }
           ],
-          "route": "/hot/2026-08-17/topic/b-ai-90/"
+          "route": "/hot/2026-08-17/topic/b-ai-90/",
+          "headline_zh": "“B站教AI”爆火后，北航90后副教授何静回应一切",
+          "summary_short_zh": "“错过种一棵树最好的时间”",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "3a12fd8f446f",
@@ -1773,7 +1853,11 @@
               "published_at": "Sun, 16 Aug 2026 10:45:47 +0000"
             }
           ],
-          "route": "/hot/2026-08-17/topic/ai/"
+          "route": "/hot/2026-08-17/topic/ai/",
+          "headline_zh": "李飞飞最新访谈：AI咋能代替人呢？",
+          "summary_short_zh": "AI不是替代者，而是个人能力的放大镜",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "477a4eb31310",
@@ -1811,7 +1895,11 @@
               "published_at": "Sun, 16 Aug 2026 11:51:08 +0000"
             }
           ],
-          "route": "/hot/2026-08-17/topic/95-5/"
+          "route": "/hot/2026-08-17/topic/95-5/",
+          "headline_zh": "杭州95后小伙，5亿买走硅谷城堡",
+          "summary_short_zh": "辞别马斯克xAI半年之后.",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "ded2f40a8f39",
@@ -1849,7 +1937,10 @@
               "published_at": "2026-08-16T18:17:10Z"
             }
           ],
-          "route": "/hot/2026-08-17/topic/mathcode-mathematical-coding-agent/"
+          "route": "/hot/2026-08-17/topic/mathcode-mathematical-coding-agent/",
+          "headline_zh": "MathCode，数学编程智能体",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "d1452b6f8e8b",
@@ -1887,7 +1978,10 @@
               "published_at": "2026-08-16T19:04:26Z"
             }
           ],
-          "route": "/hot/2026-08-17/topic/models-are-getting-dumber-on-purpose/"
+          "route": "/hot/2026-08-17/topic/models-are-getting-dumber-on-purpose/",
+          "headline_zh": "模型正被刻意降智",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -1929,7 +2023,11 @@
           "published_at": "2026-08-13T04:06:22Z"
         }
       ],
-      "route": "/hot/2026-08-17/topic/thiientv-godmode/"
+      "route": "/hot/2026-08-17/topic/thiientv-godmode/",
+      "headline_zh": "thiientv/godmode",
+      "summary_short_zh": "面向 AI 编程智能体的生产级技能，提供可组合的工作流，涵盖规划、测试驱动开发、调试、审查、用户界面与用户体验、发布、事故处理和评估",
+      "why_it_matters_zh": "这条产品发布消息见于 1 个独立来源。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "189485027dac",
@@ -1967,7 +2065,11 @@
           "published_at": "2026-08-13T13:15:23Z"
         }
       ],
-      "route": "/hot/2026-08-17/topic/leutenegger-book-to-skill/"
+      "route": "/hot/2026-08-17/topic/leutenegger-book-to-skill/",
+      "headline_zh": "Leutenegger/book-to-skill",
+      "summary_short_zh": "将任意技术书籍的 PDF 转为 Claude Code 技能，方便在工作中学习、查阅和使用",
+      "why_it_matters_zh": "这条工具消息见于 1 个独立来源。",
+      "category_zh": "工具"
     },
     {
       "topic_id": "07721a81fbad",
@@ -2005,7 +2107,11 @@
           "published_at": "2026-08-14T17:37:36Z"
         }
       ],
-      "route": "/hot/2026-08-17/topic/endokelp-endoplexity/"
+      "route": "/hot/2026-08-17/topic/endokelp-endoplexity/",
+      "headline_zh": "Endokelp/Endoplexity",
+      "summary_short_zh": "用你自己的 Claude / Cursor 订阅，让智能体操控浏览器",
+      "why_it_matters_zh": "这条工具消息见于 1 个独立来源。",
+      "category_zh": "工具"
     }
   ],
   "x_buzz": [

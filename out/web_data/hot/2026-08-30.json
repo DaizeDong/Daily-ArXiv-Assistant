@@ -1294,7 +1294,10 @@
           "published_at": "2026-08-29T15:30:58+00:00"
         }
       ],
-      "route": "/hot/2026-08-30/topic/inside-three-ws-the-open-source-stack-that-gives-ai-agents-a-body-a-brain-a-wallet-and-a-job/"
+      "route": "/hot/2026-08-30/topic/inside-three-ws-the-open-source-stack-that-gives-ai-agents-a-body-a-brain-a-wallet-and-a-job/",
+      "headline_zh": "深入了解 three.ws：让 AI 智能体拥有身体、大脑、钱包和工作的开源技术栈",
+      "why_it_matters_zh": "有 1 个独立来源提及此次产品发布。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "452f86a27b16",
@@ -1334,7 +1337,14 @@
           "published_at": "2026-08-25T08:38:23Z"
         }
       ],
-      "route": "/hot/2026-08-30/topic/pamgarcia1993-robinhood-lp-bot/"
+      "route": "/hot/2026-08-30/topic/pamgarcia1993-robinhood-lp-bot/",
+      "headline_zh": "pamgarcia1993/robinhood-lp-bot",
+      "summary_short_zh": "Robinhood LP bot：通过 KyberSwap 最优路由，在 Uniswap v2/v3/v4 上自动提供流动性（含 USDG 交易对），接入实时 Nitro 排序器数据流，自行运行蜜罐测试，并提供 GMGN/LLM 筛选和可分享的收益卡片",
+      "why_it_matters_zh": "有 1 个独立来源提及此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Robinhood LP bot：通过 KyberSwap 最优路由，在 Uniswap v2/v3/v4 上自动提供流动性（含 USDG 交易对），接入实时 Nitro 排序器数据流，自行运行蜜罐测试，并提供 GMGN/LLM 筛选和可分享的收益..."
+      ]
     },
     {
       "topic_id": "a5e0184e18e0",
@@ -1372,7 +1382,11 @@
           "published_at": "2026-08-29T23:53:13+00:00"
         }
       ],
-      "route": "/hot/2026-08-30/topic/introducing-hy4-preview/"
+      "route": "/hot/2026-08-30/topic/introducing-hy4-preview/",
+      "headline_zh": "Hy4 Preview 发布",
+      "summary_short_zh": "<p><strong><a href=\" Hy4 Preview</a></strong></p> 中国公司腾讯今天推出的新款开放权重大语言模型，仅支持文本输入（不支持视觉）：总参数量 7700 亿，激活参数量 490 亿，上下文窗口 100 万 token，<a href=\" 可在 Hugging Face 上获取</a>。</p> <p>相比他们此前的模型，这次的规模大幅增加 <a href=\" 在",
+      "why_it_matters_zh": "有 1 个独立来源提及此次产品发布。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "76a32a43d734",
@@ -1412,7 +1426,14 @@
           "published_at": "2026-08-28T05:56:49Z"
         }
       ],
-      "route": "/hot/2026-08-30/topic/nanako0129-sepia/"
+      "route": "/hot/2026-08-30/topic/nanako0129-sepia/",
+      "headline_zh": "Nanako0129/sepia",
+      "summary_short_zh": "适用于 Claude Code、Codex、Grok Build 和 Antigravity 的去 AI 味写作技能：修复小说叙事结构，并为专业文稿提供适合发表场合的写作规则。基于 StoryScope（arXiv:2604.03136",
+      "why_it_matters_zh": "有 1 个独立来源提及这篇研究论文。",
+      "category_zh": "研究",
+      "key_takeaways_zh": [
+        "适用于 Claude Code、Codex、Grok Build 和 Antigravity 的去 AI 味写作技能：修复小说叙事结构，并为专业文稿提供适合发表场合的写作规则。基于 StoryScope（arXiv:2604.03136）。"
+      ]
     },
     {
       "topic_id": "b0ba7a731dce",
@@ -1452,7 +1473,14 @@
           "published_at": "2026-08-29T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-08-30/topic/grok-4-6-on-gemini-enterprise-agent-platform/"
+      "route": "/hot/2026-08-30/topic/grok-4-6-on-gemini-enterprise-agent-platform/",
+      "headline_zh": "Gemini Enterprise Agent Platform 上的 Grok 4.6",
+      "summary_short_zh": "Grok Bot 与 X 的集成现已更加紧密",
+      "why_it_matters_zh": "有 1 个独立来源提及此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Grok Bot 与 X 的集成现已更加紧密。"
+      ]
     }
   ],
   "category_sections": [
@@ -1496,7 +1524,11 @@
               "published_at": "2026-08-29T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-08-30/topic/grok-build-on-web-and-mobile/"
+          "route": "/hot/2026-08-30/topic/grok-build-on-web-and-mobile/",
+          "headline_zh": "网页版和移动版 Grok Build",
+          "summary_short_zh": "Grok Build 现已向所有套餐开放，支持网页端和移动端",
+          "why_it_matters_zh": "有 1 个独立来源提及此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "c30e253b6a90",
@@ -1534,7 +1566,11 @@
               "published_at": "2026-08-29T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-08-30/topic/introducing-grok-4-6/"
+          "route": "/hot/2026-08-30/topic/introducing-grok-4-6/",
+          "headline_zh": "Grok 4.6 发布",
+          "summary_short_zh": "Grok 4.6 在 Grok 4.5 的基础上进一步改进，重点支持长时间运行的智能体和更具挑战性的交互与视觉任务",
+          "why_it_matters_zh": "有 1 个独立来源提及此次产品发布。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "2a4e01f3777b",
@@ -1572,7 +1608,10 @@
               "published_at": "2026-08-29T18:22:00Z"
             }
           ],
-          "route": "/hot/2026-08-30/topic/vllm-v0-28-0/"
+          "route": "/hot/2026-08-30/topic/vllm-v0-28-0/",
+          "headline_zh": "vLLM v0.28.0",
+          "why_it_matters_zh": "有 1 个独立来源提及此次产品发布。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -1616,7 +1655,11 @@
               "published_at": "Sat, 29 Aug 2026 17:36:47 +0000"
             }
           ],
-          "route": "/hot/2026-08-30/topic/we-re-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/"
+          "route": "/hot/2026-08-30/topic/we-re-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+          "headline_zh": "“我们不会一年投 30 个项目”：Vijay Pande 谈在 a16z 掌管 40 亿美元后转向小规模投资",
+          "summary_short_zh": "Vijay Pande 去年离开 a16z 规模约 40 亿美元的生物科技投资部门，创办了规模小得多的 AI 原生风投机构 VZVC。他谈到生物学为何终于从“发现型”科学转向“工程型”科学，临床试验为何仍然贵得惊人，以及他为何认为开放、共享",
+          "why_it_matters_zh": "这则融资消息见于 1 个独立来源。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -1667,7 +1710,11 @@
               "published_at": "Sat, 29 Aug 2026 18:41:59 +0000"
             }
           ],
-          "route": "/hot/2026-08-30/topic/sony-music-and-warner-chappell-are-suing-anthropic/"
+          "route": "/hot/2026-08-30/topic/sony-music-and-warner-chappell-are-suing-anthropic/",
+          "headline_zh": "Sony Music 与 Warner Chappell 起诉 Anthropic",
+          "summary_short_zh": "Sony Music 与 Warner Chappell 已在美国加利福尼亚北区联邦地区法院起诉 Anthropic，就“数万件”受版权保护的作品索赔。",
+          "why_it_matters_zh": "这则其他类消息见于 2 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "aef644834f5e",
@@ -1705,7 +1752,10 @@
               "published_at": "2026-08-30T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-30/topic/import-ai-470-no-rights-for-machines-automating-environment-generation-with-spade-and-building-better-gpu-kernels-with-hawkeye/"
+          "route": "/hot/2026-08-30/topic/import-ai-470-no-rights-for-machines-automating-environment-generation-with-spade-and-building-better-gpu-kernels-with-hawkeye/",
+          "headline_zh": "Import AI 第 470 期：机器不享有权利；用 SPADE 自动生成环境；用 Hawkeye 编写更优的 GPU 内核",
+          "why_it_matters_zh": "这则其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "31f94aae3acd",
@@ -1743,7 +1793,10 @@
               "published_at": "2026-08-30T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-30/topic/technological-optimism-and-appropriate-fear-import-ai-431/"
+          "route": "/hot/2026-08-30/topic/technological-optimism-and-appropriate-fear-import-ai-431/",
+          "headline_zh": "技术乐观主义与适度恐惧”（Import AI 第 431 期",
+          "why_it_matters_zh": "这则其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "0ce4b74d2805",
@@ -1781,7 +1834,11 @@
               "published_at": "Sat, 29 Aug 2026 13:00:00 +0000"
             }
           ],
-          "route": "/hot/2026-08-30/topic/nvidia-s-ai-advantage-is-moving-beyond-the-gpu/"
+          "route": "/hot/2026-08-30/topic/nvidia-s-ai-advantage-is-moving-beyond-the-gpu/",
+          "headline_zh": "英伟达的 AI 优势正扩展到 GPU 之外",
+          "summary_short_zh": "新一代数据中心系统通过更智能的流量控制提升效率，而不只是增加处理器的运算次数",
+          "why_it_matters_zh": "这则其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "a518ad64c755",
@@ -1819,7 +1876,11 @@
               "published_at": "Sat, 29 Aug 2026 12:50:31 +0000"
             }
           ],
-          "route": "/hot/2026-08-30/topic/claude-claude-4-150/"
+          "route": "/hot/2026-08-30/topic/claude-claude-4-150/",
+          "headline_zh": "Claude开始训练Claude！4美元一小时，跑赢150美元人类研究员",
+          "summary_short_zh": "AI「自进化」，越来越近了",
+          "why_it_matters_zh": "这则其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -1863,7 +1924,11 @@
               "published_at": "2026-08-29T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-08-30/topic/grok-4-6-in-github-copilot/"
+          "route": "/hot/2026-08-30/topic/grok-4-6-in-github-copilot/",
+          "headline_zh": "Grok 4.6 登陆 GitHub Copilot",
+          "summary_short_zh": "我们最新的编程模型 Grok 4.6 现已可在 GitHub Copilot 中使用",
+          "why_it_matters_zh": "这则工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     }
@@ -1909,7 +1974,11 @@
               "published_at": "Sat, 29 Aug 2026 13:01:34 +0000"
             }
           ],
-          "route": "/hot/2026-08-30/topic/b79d7de9a162/"
+          "route": "/hot/2026-08-30/topic/b79d7de9a162/",
+          "headline_zh": "去年归国的徐梦迪，成了清华姚班班主任",
+          "summary_short_zh": "本科读车辆工程，如今教AI第一班",
+          "why_it_matters_zh": "这则其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "23a36a4f813a",
@@ -1947,7 +2016,11 @@
               "published_at": "Sat, 29 Aug 2026 13:11:08 +0000"
             }
           ],
-          "route": "/hot/2026-08-30/topic/ai-734/"
+          "route": "/hot/2026-08-30/topic/ai-734/",
+          "headline_zh": "AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑",
+          "summary_short_zh": "推理软件栈的微小差异，就能改变输出token",
+          "why_it_matters_zh": "这则其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "7c164105ee50",
@@ -1985,7 +2058,10 @@
               "published_at": "2026-08-29T18:38:52Z"
             }
           ],
-          "route": "/hot/2026-08-30/topic/llms-are-making-me-lose-my-savviness/"
+          "route": "/hot/2026-08-30/topic/llms-are-making-me-lose-my-savviness/",
+          "headline_zh": "大语言模型正让我失去敏锐的判断力",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "0a4fff681e60",
@@ -2023,7 +2099,10 @@
               "published_at": "2026-08-30T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-30/topic/every-machine-is-about-to-speak-claude-zach-mink-8-minutes/"
+          "route": "/hot/2026-08-30/topic/every-machine-is-about-to-speak-claude-zach-mink-8-minutes/",
+          "headline_zh": "所有机器即将学会说 Claude 的语言 Zach Mink • 8 分钟",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "a0394c2dc834",
@@ -2061,7 +2140,10 @@
               "published_at": "2026-08-30T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-08-30/topic/4-min-read-nvidia-say-ai-flation-isn-t-slowing-down/"
+          "route": "/hot/2026-08-30/topic/4-min-read-nvidia-say-ai-flation-isn-t-slowing-down/",
+          "headline_zh": "阅读需 4 分钟 英伟达称 AI 引发的通胀并未放缓",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "4410c9d3a91c",
@@ -2099,7 +2181,10 @@
               "published_at": "2026-08-28T23:27:45Z"
             }
           ],
-          "route": "/hot/2026-08-30/topic/i-accidentally-turned-llm-memory-into-program-analysis/"
+          "route": "/hot/2026-08-30/topic/i-accidentally-turned-llm-memory-into-program-analysis/",
+          "headline_zh": "我无意中把大语言模型的记忆变成了程序分析",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "ec284bb306ab",
@@ -2137,7 +2222,11 @@
               "published_at": "2026-08-28T22:12:02+00:00"
             }
           ],
-          "route": "/hot/2026-08-30/topic/just-a-rumour-of-a-bug-is-enough-to-find-a-security-exploit-these-days/"
+          "route": "/hot/2026-08-30/topic/just-a-rumour-of-a-bug-is-enough-to-find-a-security-exploit-these-days/",
+          "headline_zh": "如今，仅凭一条漏洞传闻就足以找到漏洞利用方法",
+          "summary_short_zh": "<p><strong><a href=\" 如今，仅凭一条漏洞传闻就足以找到漏洞利用方法</a></strong></p> Anil Madhavapeddy 是剑桥大学计算机科学教授，也是 OCaml 编译器的核心维护者之一。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -2179,7 +2268,11 @@
           "published_at": "2026-08-27T17:59:23Z"
         }
       ],
-      "route": "/hot/2026-08-30/topic/hkqr-my-free-code/"
+      "route": "/hot/2026-08-30/topic/hkqr-my-free-code/",
+      "headline_zh": "hkqr/my-free-code",
+      "summary_short_zh": "面向 Claude Code 等编程智能体的开源 AI 网关，支持多家服务商、模型路由、流式传输、工具调用、推理、回退机制和本地模型。",
+      "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+      "category_zh": "工具"
     },
     {
       "topic_id": "bf54e6bf4bdd",
@@ -2217,7 +2310,11 @@
           "published_at": "2026-08-28T18:03:04Z"
         }
       ],
-      "route": "/hot/2026-08-30/topic/cbrock84-headcount/"
+      "route": "/hot/2026-08-30/topic/cbrock84-headcount/",
+      "headline_zh": "cbrock84/headcount",
+      "summary_short_zh": "采用公司架构的 Claude Code 智能体组织，包含 15+ 个部门、125+ 项技能，均可独立安装。",
+      "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+      "category_zh": "工具"
     },
     {
       "topic_id": "8fce9a211d9d",
@@ -2255,7 +2352,11 @@
           "published_at": "2026-08-29T21:14:31Z"
         }
       ],
-      "route": "/hot/2026-08-30/topic/useagenthq-useagent/"
+      "route": "/hot/2026-08-30/topic/useagenthq-useagent/",
+      "headline_zh": "useagenthq/useagent",
+      "summary_short_zh": "把工作交出去，把成果拿回来。为你的团队打造的开源 AI 同事：智能体拥有自己的云端电脑，使用你的工具和上下文，交付做好的网站、演示文稿、电子表格、报告和 PR。可用你的订阅运行 Claude Code、Codex 和 OpenCode。",
+      "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
+      "category_zh": "工具"
     }
   ],
   "x_buzz": [

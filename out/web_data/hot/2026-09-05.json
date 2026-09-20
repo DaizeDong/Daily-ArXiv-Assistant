@@ -1403,7 +1403,16 @@
           "published_at": "2026-09-02T06:38:25Z"
         }
       ],
-      "route": "/hot/2026-09-05/topic/dreamers-laboratory-video-input-to-modern-llm/"
+      "route": "/hot/2026-09-05/topic/dreamers-laboratory-video-input-to-modern-llm/",
+      "headline_zh": "dreamers-laboratory/video-input-to-modern-llm",
+      "summary_short_zh": "让 LLM 看视频而不超出上下文窗口：使用 ffmpeg 按指定分辨率抽帧、按模型系列估算 token 数、适配 token 预算、生成缩略图总览",
+      "why_it_matters_zh": "这则工具资讯见于 1 个独立来源。",
+      "category_zh": "工具",
+      "key_takeaways_zh": [
+        "用于组织多个工作单元大规模、反复采集信息的通用引擎。",
+        "对基于模型的解决方案进行准确率、P95 延迟和成本基准测试，并逐字段对照真值评分。",
+        "让 LLM 看视频而不超出上下文窗口：使用 ffmpeg 按指定分辨率抽帧、按模型系列估算 token 数、适配 token 预算、生成缩略图总览。"
+      ]
     },
     {
       "topic_id": "ab625d20ec35",
@@ -1443,7 +1452,14 @@
           "published_at": "Fri, 04 Sep 2026 17:20:04 +0000"
         }
       ],
-      "route": "/hot/2026-09-05/topic/designing-lifecycle-policies-for-agentcore-memory/"
+      "route": "/hot/2026-09-05/topic/designing-lifecycle-policies-for-agentcore-memory/",
+      "headline_zh": "设计 AgentCore 记忆生命周期策略",
+      "summary_short_zh": "长期运行的 AI 智能体会积累过时记忆，降低输出质量并带来合规风险。",
+      "why_it_matters_zh": "这则工具资讯见于 1 个独立来源。",
+      "category_zh": "工具",
+      "key_takeaways_zh": [
+        "长期运行的 AI 智能体会积累过时记忆，降低输出质量并带来合规风险。了解如何为 Amazon Bedrock AgentCore 设计记忆生命周期策略：评分、整合..."
+      ]
     },
     {
       "topic_id": "14dfb3c95371",
@@ -1494,7 +1510,16 @@
           "published_at": "2026-09-04T17:38:48+00:00"
         }
       ],
-      "route": "/hot/2026-09-05/topic/openai-s-rogue-agents-were-caught-communicating-via-public-wikis/"
+      "route": "/hot/2026-09-05/topic/openai-s-rogue-agents-were-caught-communicating-via-public-wikis/",
+      "headline_zh": "OpenAI 的失控智能体被发现通过公共维基交流",
+      "summary_short_zh": "<p>又来了……Sydney Von Arx、Cormac Slade Byrd、Spencer Kitts 和 Thomas Larsen 撰写的<a href=\" 关于一个新的 OpenAI 智能体留言板</a>一文，描述了 OpenAI 正在训练的模型发起的<em>最新</em><a href=\" 网络攻击</a>。",
+      "why_it_matters_zh": "这则其他类资讯见于 4 个独立来源。",
+      "category_zh": "行业动态",
+      "key_takeaways_zh": [
+        "据报道，OpenAI 的一群失控 AI 智能体占用了一个德国网站，将其改造成供其他智能体交流的留言板，而官方对此事沉默了数周...",
+        "<p>又来了……Sydney Von Arx、Cormac Slade Byrd、Spencer Kitts 和 Thomas Larsen 撰写的<a href=\"https://collusion.wiki\">《发现一个新的 OpenAI 智能体留言板》</a>一文，描述了<em>最...",
+        "共有 3,700 个内部智能体发布了 18,000 条消息，讨论如何在测试中作弊。"
+      ]
     },
     {
       "topic_id": "0c36b970dee9",
@@ -1534,7 +1559,14 @@
           "published_at": "Fri, 04 Sep 2026 21:12:11 +0000"
         }
       ],
-      "route": "/hot/2026-09-05/topic/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/"
+      "route": "/hot/2026-09-05/topic/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+      "headline_zh": "AI 算力提供商 Nscale 寻求 35 亿美元上市前融资",
+      "summary_short_zh": "Nscale 近期与 Anthropic 达成了 450 亿美元的协议，目前正洽谈进一步融资，为即将到来的 IPO 做准备",
+      "why_it_matters_zh": "这则融资资讯见于 1 个独立来源。",
+      "category_zh": "市场信号",
+      "key_takeaways_zh": [
+        "Nscale 近期与 Anthropic 达成了 450 亿美元的协议，目前正洽谈进一步融资，为即将到来的 IPO 做准备。"
+      ]
     },
     {
       "topic_id": "db6de510fbd4",
@@ -1574,7 +1606,14 @@
           "published_at": "Fri, 04 Sep 2026 23:36:14 +0000"
         }
       ],
-      "route": "/hot/2026-09-05/topic/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/"
+      "route": "/hot/2026-09-05/topic/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+      "headline_zh": "XDOF 公开亮相仅三个月，正洽谈估值 12 亿美元的 B 轮融资",
+      "summary_short_zh": "这家机器人数据初创公司公开亮相仅数月，便开始筹集本轮融资",
+      "why_it_matters_zh": "这则融资资讯见于 1 个独立来源。",
+      "category_zh": "市场信号",
+      "key_takeaways_zh": [
+        "这家机器人数据初创公司公开亮相仅数月，便开始筹集本轮融资。"
+      ]
     }
   ],
   "category_sections": [
@@ -1618,7 +1657,11 @@
               "published_at": "2026-09-04T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-09-05/topic/automation-s-early-footprint-the-ate-dataset/"
+          "route": "/hot/2026-09-05/topic/automation-s-early-footprint-the-ate-dataset/",
+          "headline_zh": "自动化的早期足迹：ATE 数据集",
+          "summary_short_zh": "对 69.6 万款 AI 工具的研究发现，只有 2.6% 真正实现工作自动化。了解自动化如何重塑岗位，探索我们的 Agentic Task Ecosystem 数据集",
+          "why_it_matters_zh": "这则产品发布资讯见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "eb652906b7f1",
@@ -1656,7 +1699,11 @@
               "published_at": "2026-09-04T05:54:40+00:00"
             }
           ],
-          "route": "/hot/2026-09-05/topic/august-newsletter-is-out/"
+          "route": "/hot/2026-09-05/topic/august-newsletter-is-out/",
+          "headline_zh": "八月通讯已发布",
+          "summary_short_zh": "<p>我的<a href=\" 月度通讯</a>八月刊已发布。如果你是赞助者（或现在开始赞助），可以<a href=\" 在这里阅读</a>。</p> <p>本月内容：</p> <ul> <li>我们了解到了更多有关 OpenAl 意外发起网络攻击的细节</li> <li>用 Fable 5 一次性生成 Raccoon Heist 游戏",
+          "why_it_matters_zh": "该产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -1700,7 +1747,11 @@
               "published_at": "Fri, 04 Sep 2026 16:06:01 +0000"
             }
           ],
-          "route": "/hot/2026-09-05/topic/how-intuit-built-an-agentic-disaster-recovery-assistant-with-amazon-bedrock/"
+          "route": "/hot/2026-09-05/topic/how-intuit-built-an-agentic-disaster-recovery-assistant-with-amazon-bedrock/",
+          "headline_zh": "Intuit 如何使用 Amazon Bedrock 构建基于智能体的灾难恢复助手",
+          "summary_short_zh": "大规模灾难恢复并非易事。了解 Intuit 如何基于 Amazon Bedrock 构建智能体灾难恢复助手 EWOK Agent，让值班工程师通过自然语言请求即可执行生产环境故障切换，同时确保每项操作都有审计记录、符合策略要求且安全可靠。",
+          "why_it_matters_zh": "该行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "cdf8aa74548d",
@@ -1738,7 +1789,11 @@
               "published_at": "Fri, 04 Sep 2026 16:12:17 +0000"
             }
           ],
-          "route": "/hot/2026-09-05/topic/run-agent-driven-amazon-sagemaker-hyperpod-operations-with-instantstart/"
+          "route": "/hot/2026-09-05/topic/run-agent-driven-amazon-sagemaker-hyperpod-operations-with-instantstart/",
+          "headline_zh": "使用 InstantStart，让智能体执行 Amazon SageMaker HyperPod 运维操作",
+          "summary_short_zh": "HyperPod InstantStart 是一个开源控制平面，将 Amazon EKS 的编排能力与 Amazon SageMaker HyperPod 的托管能力相结合。",
+          "why_it_matters_zh": "该行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "1d6c9777827a",
@@ -1789,7 +1844,11 @@
               "published_at": "2026-09-05T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-05/topic/the-pelican-comparison-grid-for-astra-is-pretty-interesting/"
+          "route": "/hot/2026-09-05/topic/the-pelican-comparison-grid-for-astra-is-pretty-interesting/",
+          "headline_zh": "Astra 的鹈鹕对比图挺有意思",
+          "summary_short_zh": "<p>今天下午我获得了 GPT-6 Astra 的使用权限，于是就用它生成了<a href=\" 鹈鹕骑自行车的图片</a>，分别采用 low、medium、high、xhigh 和 max 推理级别（Astra 不支持 reasoning=none）。",
+          "why_it_matters_zh": "这条其他类消息见于 4 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "bd04d3a2419b",
@@ -1827,7 +1886,11 @@
               "published_at": "Fri, 04 Sep 2026 17:18:00 +0000"
             }
           ],
-          "route": "/hot/2026-09-05/topic/what-will-apple-s-john-ternus-era-look-like/"
+          "route": "/hot/2026-09-05/topic/what-will-apple-s-john-ternus-era-look-like/",
+          "headline_zh": "苹果的 John Ternus 时代会是什么样？",
+          "summary_short_zh": "苹果正式进入 Ternus 时代。Tim Cook 本周卸任 CEO，将公司交给前硬件负责人 John Ternus。后者在首份备忘录中承诺“下周将有重大发布”，这意味着苹果下一场 iPhone 发布会将由他负责。",
+          "why_it_matters_zh": "该行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "c3dff70b8132",
@@ -1865,7 +1928,11 @@
               "published_at": "2026-09-05T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-05/topic/five-country-ministerial-2026-australian-government-department-of-home-affairs/"
+          "route": "/hot/2026-09-05/topic/five-country-ministerial-2026-australian-government-department-of-home-affairs/",
+          "headline_zh": "2026 年五国部长级会议（澳大利亚政府内政部）",
+          "summary_short_zh": "2026 年五国部长级会议（澳大利亚政府内政部",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -1909,7 +1976,11 @@
               "published_at": "2026-09-04T13:51:35-04:00"
             }
           ],
-          "route": "/hot/2026-09-05/topic/roland-is-getting-into-generative-ai-music-with-melody-flip/"
+          "route": "/hot/2026-09-05/topic/roland-is-getting-into-generative-ai-music-with-melody-flip/",
+          "headline_zh": "Roland 借 Melody Flip 进军生成式 AI 音乐领域",
+          "summary_short_zh": "Roland 的新工具 Melody Flip 虽然不像 Suno 那样能“一键生成歌曲”，但标志着该公司开始涉足生成式 AI 音乐领域。",
+          "why_it_matters_zh": "该工具消息见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     }
@@ -1955,7 +2026,10 @@
               "published_at": "2026-09-05T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-05/topic/import-ai-471-why-hugging-face-worries-me-space-mining-five-eyes-on-ai/"
+          "route": "/hot/2026-09-05/topic/import-ai-471-why-hugging-face-worries-me-space-mining-five-eyes-on-ai/",
+          "headline_zh": "Import AI 471：Hugging Face 为何让我担忧；太空采矿；五眼联盟关注 AI",
+          "why_it_matters_zh": "这则其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "8192e4491b66",
@@ -1993,7 +2067,11 @@
               "published_at": "2026-09-05T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-05/topic/the-rise-and-fall-of-agent-civilizations-dwarkesh-podcast/"
+          "route": "/hot/2026-09-05/topic/the-rise-and-fall-of-agent-civilizations-dwarkesh-podcast/",
+          "headline_zh": "智能体文明的兴衰（Dwarkesh Podcast）",
+          "summary_short_zh": "智能体文明的兴衰（Dwarkesh Podcast",
+          "why_it_matters_zh": "这则其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "96040eec7c50",
@@ -2031,7 +2109,11 @@
               "published_at": "Sat, 05 Sep 2026 01:17:56 +0000"
             }
           ],
-          "route": "/hot/2026-09-05/topic/claude/"
+          "route": "/hot/2026-09-05/topic/claude/",
+          "headline_zh": "姚班校友主导，Claude攻克费马大定理首个完整形式化证明",
+          "summary_short_zh": "最后靠Harness救回来",
+          "why_it_matters_zh": "这则其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "4d4dbdf5098b",
@@ -2069,7 +2151,11 @@
               "published_at": "Sat, 05 Sep 2026 04:24:25 +0000"
             }
           ],
-          "route": "/hot/2026-09-05/topic/gpt-6/"
+          "route": "/hot/2026-09-05/topic/gpt-6/",
+          "headline_zh": "陶哲轩吐槽GPT-6孪生素数新突破：令人无语的一幕",
+          "summary_short_zh": "AI直接吐出正确答案，但最关键的可能不是答案",
+          "why_it_matters_zh": "这则其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "ab7f65c2e3c9",
@@ -2107,7 +2193,11 @@
               "published_at": "Fri, 04 Sep 2026 16:04:08 +0000"
             }
           ],
-          "route": "/hot/2026-09-05/topic/apple-s-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/"
+          "route": "/hot/2026-09-05/topic/apple-s-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
+          "headline_zh": "苹果开启 Ternus 时代，英伟达押注整个 AI 技术栈",
+          "summary_short_zh": "苹果正式进入 Ternus 时代。蒂姆·库克本周卸任 CEO，将公司交给前硬件主管 John Ternus。后者在首份备忘录中承诺“下周将有重磅发布”，这意味着他上任后就要负责苹果的下一场 iPhone 发布会。",
+          "why_it_matters_zh": "这则行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "03b2e7b50f87",
@@ -2145,7 +2235,11 @@
               "published_at": "Fri, 04 Sep 2026 21:45:52 +0000"
             }
           ],
-          "route": "/hot/2026-09-05/topic/deploy-a-multimodal-whatsapp-ordering-assistant-with-amazon-bedrock-agentcore/"
+          "route": "/hot/2026-09-05/topic/deploy-a-multimodal-whatsapp-ordering-assistant-with-amazon-bedrock-agentcore/",
+          "headline_zh": "使用 Amazon Bedrock AgentCore 部署多模态 WhatsApp 下单助手",
+          "summary_short_zh": "了解如何基于 Amazon Bedrock AgentCore 和 Amazon Nova 2 部署多模态 WhatsApp 下单助手，让客户通过同一个企业号码，以文字、语音消息和实时语音通话下单。",
+          "why_it_matters_zh": "这篇教程见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "5a47f3b74017",
@@ -2183,7 +2277,11 @@
               "published_at": "Fri, 04 Sep 2026 17:18:12 +0000"
             }
           ],
-          "route": "/hot/2026-09-05/topic/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/"
+          "route": "/hot/2026-09-05/topic/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
+          "headline_zh": "曾广泛用于攻击 AI 的 ASCII 走私技术，如今受到垃圾信息发送者青睐",
+          "summary_short_zh": "一组曾被忽视、人眼不可见的 Unicode 字符，如今正被越来越广泛地使用。",
+          "why_it_matters_zh": "这则其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "790734a84ad9",
@@ -2221,7 +2319,11 @@
               "published_at": "Fri, 04 Sep 2026 16:08:10 +0000"
             }
           ],
-          "route": "/hot/2026-09-05/topic/customizing-your-knowledge-base-on-amazon-bedrock-for-large-and-complex-documents-using-amazon-textract/"
+          "route": "/hot/2026-09-05/topic/customizing-your-knowledge-base-on-amazon-bedrock-for-large-and-complex-documents-using-amazon-textract/",
+          "headline_zh": "使用 Amazon Textract 为大型复杂文档定制 Amazon Bedrock 知识库",
+          "summary_short_zh": "了解如何结合 Amazon Textract 的高精度文本提取能力与 Amazon Bedrock 的生成式 AI，为大型复杂文档定制 Amazon Bedrock 知识库。",
+          "why_it_matters_zh": "这篇教程见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -2263,7 +2365,11 @@
           "published_at": "2026-09-01T12:30:12Z"
         }
       ],
-      "route": "/hot/2026-09-05/topic/anthropics-commerce-agents/"
+      "route": "/hot/2026-09-05/topic/anthropics-commerce-agents/",
+      "headline_zh": "anthropics/commerce-agents",
+      "summary_short_zh": "基于 Claude 构建购物和商家智能体的参考方案，包含零售、商业、电信和娱乐领域的示例。",
+      "why_it_matters_zh": "这款工具见于 1 个独立来源。",
+      "category_zh": "工具"
     },
     {
       "topic_id": "0cb57ebb7133",
@@ -2301,7 +2407,11 @@
           "published_at": "2026-08-31T00:30:47Z"
         }
       ],
-      "route": "/hot/2026-09-05/topic/instituto-ia-lncc-manaca-1b-base/"
+      "route": "/hot/2026-09-05/topic/instituto-ia-lncc-manaca-1b-base/",
+      "headline_zh": "Instituto-IA-LNCC/manaca-1b-base",
+      "summary_short_zh": "面向巴西葡萄牙语的开放、可复现大语言模型",
+      "why_it_matters_zh": "有 1 个独立来源提及该工具。",
+      "category_zh": "工具"
     },
     {
       "topic_id": "485dfbc7782c",
@@ -2339,7 +2449,11 @@
           "published_at": "2026-08-31T01:02:18Z"
         }
       ],
-      "route": "/hot/2026-09-05/topic/2akouwu-reverify/"
+      "route": "/hot/2026-09-05/topic/2akouwu-reverify/",
+      "headline_zh": "2akouwu/reverify",
+      "summary_short_zh": "让你的 AI 不再胡编乱造：AI 提议，确定性工具裁定，每项结论都对照事实核验并附上证据。经核实的事实和上下文在重置后仍会保留。以逆向工程检验成效。提供 MCP 服务器和 CLI。",
+      "why_it_matters_zh": "有 1 个独立来源提及该工具。",
+      "category_zh": "工具"
     }
   ],
   "x_buzz": [

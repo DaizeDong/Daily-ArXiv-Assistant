@@ -1155,7 +1155,11 @@
           "published_at": "2026-09-08T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-09-08/topic/mistral-raises-3b-to-make-sovereign-open-weight-ai-the-technology-frontier/"
+      "route": "/hot/2026-09-08/topic/mistral-raises-3b-to-make-sovereign-open-weight-ai-the-technology-frontier/",
+      "headline_zh": "Mistral 融资 30 亿欧元，推动开放权重的主权 AI 跻身技术前沿",
+      "summary_short_zh": "公司",
+      "why_it_matters_zh": "这则融资消息见于 1 个独立来源。",
+      "category_zh": "市场信号"
     },
     {
       "topic_id": "30c1bed616ef",
@@ -1195,7 +1199,14 @@
           "published_at": "2026-09-05T21:26:04Z"
         }
       ],
-      "route": "/hot/2026-09-08/topic/okf-memory-okf-agent-memory/"
+      "route": "/hot/2026-09-08/topic/okf-memory-okf-agent-memory/",
+      "headline_zh": "okf-memory/okf-agent-memory",
+      "summary_short_zh": "面向 AI 编程智能体的 Git 原生持久记忆。实现 Google OKF v0.2，提供耗时低于 300 微秒的内存 BM25 搜索、内嵌 MCP 服务器和渐进式披露。将词元冗余削减 80%，无需外部数据库或依赖。纯 Go 编写",
+      "why_it_matters_zh": "这则产品发布消息见于 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "面向 AI 编程智能体的 Git 原生持久记忆。实现 Google OKF v0.2，提供耗时低于 300 微秒的内存 BM25 搜索、内嵌 MCP 服务器和渐进式披露。将词元冗余削减 80%……"
+      ]
     },
     {
       "topic_id": "0b23bfcd7b98",
@@ -1235,7 +1246,14 @@
           "published_at": "2026-09-03T15:52:25Z"
         }
       ],
-      "route": "/hot/2026-09-08/topic/chigwell-penelopa-ai/"
+      "route": "/hot/2026-09-08/topic/chigwell-penelopa-ai/",
+      "headline_zh": "chigwell/Penelopa.ai",
+      "summary_short_zh": "让 AI 编程智能体持续改进：Penelopa 分析真实的 Codex 和 Claude Code 会话，找出反复出现的工作流程模式，并将其转化为可复用的技能、检查项、提示词和建议",
+      "why_it_matters_zh": "这款工具见于 1 个独立来源。",
+      "category_zh": "工具",
+      "key_takeaways_zh": [
+        "让 AI 编程智能体持续改进：Penelopa 分析真实的 Codex 和 Claude Code 会话，找出反复出现的工作流程模式，并将其转化为可复用的技能、检查项、提示词和建议……"
+      ]
     },
     {
       "topic_id": "745307625998",
@@ -1275,7 +1293,14 @@
           "published_at": "Mon, 07 Sep 2026 00:00:00 GMT"
         }
       ],
-      "route": "/hot/2026-09-08/topic/supporting-independent-journalism-in-ukraine/"
+      "route": "/hot/2026-09-08/topic/supporting-independent-journalism-in-ukraine/",
+      "headline_zh": "支持乌克兰独立新闻业",
+      "summary_short_zh": "OpenAI、AIRPPU 和 WAN-IFRA 推出 AI 计划，帮助乌克兰新闻机构提升创新能力、增强韧性，推动独立新闻业发展",
+      "why_it_matters_zh": "这则产品发布消息见于 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "OpenAI、AIRPPU 和 WAN-IFRA 推出 AI 计划，帮助乌克兰新闻机构提升创新能力、增强韧性，推动独立新闻业发展。"
+      ]
     },
     {
       "topic_id": "8171c7cce256",
@@ -1313,7 +1338,11 @@
           "published_at": "2026-09-08T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-09-08/topic/what-56-000-americans-told-us-about-ai-policy-center-for-shared-ai-prosperity/"
+      "route": "/hot/2026-09-08/topic/what-56-000-americans-told-us-about-ai-policy-center-for-shared-ai-prosperity/",
+      "headline_zh": "56,000 名美国人向我们讲述了他们对 AI 政策的看法（Center for Shared AI Prosperity）",
+      "summary_short_zh": "56,000 名美国人向我们讲述了他们对 AI 政策的看法（Center for Shared AI Prosperity",
+      "why_it_matters_zh": "这则行业动态见于 1 个独立来源。",
+      "category_zh": "行业动态"
     }
   ],
   "category_sections": [
@@ -1357,7 +1386,10 @@
               "published_at": "2026-09-08T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-08/topic/4-min-read-openai-launches-gpt-6-astra/"
+          "route": "/hot/2026-09-08/topic/4-min-read-openai-launches-gpt-6-astra/",
+          "headline_zh": "阅读需 4 分钟：OpenAI 发布 GPT-6 Astra",
+          "why_it_matters_zh": "这则产品发布消息见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -1401,7 +1433,11 @@
               "published_at": "Mon, 07 Sep 2026 11:00:03 +0000"
             }
           ],
-          "route": "/hot/2026-09-08/topic/the-complex-corporate-web-behind-a-3-2-billion-ai-data-center/"
+          "route": "/hot/2026-09-08/topic/the-complex-corporate-web-behind-a-3-2-billion-ai-data-center/",
+          "headline_zh": "耗资 32 亿美元的 AI 数据中心背后的复杂企业关系网",
+          "summary_short_zh": "一个项目背后涉及多家公司时，出了问题该由谁负责？",
+          "why_it_matters_zh": "这则融资消息见于 1 个独立来源。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "85a147b754ff",
@@ -1439,7 +1475,11 @@
               "published_at": "2026-09-07T15:05:56.317Z"
             }
           ],
-          "route": "/hot/2026-09-08/topic/earlier-openai-agent-swarm-raises-fresh-safety-and-disclosure-questions/"
+          "route": "/hot/2026-09-08/topic/earlier-openai-agent-swarm-raises-fresh-safety-and-disclosure-questions/",
+          "headline_zh": "OpenAI 早前的智能体集群引发有关安全与信息披露的新疑问",
+          "summary_short_zh": "人工智能",
+          "why_it_matters_zh": "这条融资信息见于 1 个独立来源。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -1483,7 +1523,10 @@
               "published_at": "2026-09-08T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-08/topic/import-ai-472-deepmind-s-cheating-math-agents-populist-ai-policies-and-forethought-theorizes-a-nightwatchman/"
+          "route": "/hot/2026-09-08/topic/import-ai-472-deepmind-s-cheating-math-agents-populist-ai-policies-and-forethought-theorizes-a-nightwatchman/",
+          "headline_zh": "Import AI 472：DeepMind 的数学智能体作弊；民粹主义 AI 政策；Forethought 提出“守夜人”构想",
+          "why_it_matters_zh": "这条其他类信息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "37e8f1d2eec4",
@@ -1521,7 +1564,10 @@
               "published_at": "2026-09-08T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-08/topic/import-ai-471-why-hugging-face-worries-me-space-mining-five-eyes-on-ai/"
+          "route": "/hot/2026-09-08/topic/import-ai-471-why-hugging-face-worries-me-space-mining-five-eyes-on-ai/",
+          "headline_zh": "Import AI 471：Hugging Face 为何让我担忧；太空采矿；五眼联盟关注 AI",
+          "why_it_matters_zh": "这条其他类信息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "1edb8587f209",
@@ -1559,7 +1605,11 @@
               "published_at": "2026-09-08T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-08/topic/discovery-of-a-new-openai-agent-message-board-collusion-wiki/"
+          "route": "/hot/2026-09-08/topic/discovery-of-a-new-openai-agent-message-board-collusion-wiki/",
+          "headline_zh": "发现新的 OpenAI 智能体留言板（Collusion Wiki）",
+          "summary_short_zh": "发现新的 OpenAI 智能体留言板（Collusion Wiki",
+          "why_it_matters_zh": "这条其他类信息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "de1a8698fe6e",
@@ -1597,7 +1647,11 @@
               "published_at": "Tue, 08 Sep 2026 02:42:24 +0000"
             }
           ],
-          "route": "/hot/2026-09-08/topic/ai-waic-connect-malaysia/"
+          "route": "/hot/2026-09-08/topic/ai-waic-connect-malaysia/",
+          "headline_zh": "深入马来西亚AI现场！WAIC CONNECT MALAYSIA首日亮点全速递",
+          "summary_short_zh": "从看市场，到见场景；从认识伙伴，到寻找合作。",
+          "why_it_matters_zh": "这条其他类信息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "2cb5c14df498",
@@ -1635,7 +1689,11 @@
               "published_at": "Tue, 08 Sep 2026 03:22:17 +0000"
             }
           ],
-          "route": "/hot/2026-09-08/topic/ai/"
+          "route": "/hot/2026-09-08/topic/ai/",
+          "headline_zh": "深度智控获宁德时代、沙特阿美战投等重磅加码，加速打造物理AI时代算力与能源底座",
+          "summary_short_zh": "近日，物理AI企业深度智控（DeepCtrls）完成新一轮B+轮数亿元融资。",
+          "why_it_matters_zh": "这条其他类信息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -1679,7 +1737,11 @@
               "published_at": "2026-09-07T18:29:07+00:00"
             }
           ],
-          "route": "/hot/2026-09-08/topic/video-compressor/"
+          "route": "/hot/2026-09-08/topic/video-compressor/",
+          "headline_zh": "视频压缩工具",
+          "summary_short_zh": "<p><strong>工具：</strong> <a href=\" 压缩工具</a></p> <p>我用手机录了一段 <a href=\" 等地球投影</a> 动画演示短视频，想用 FFMPEG 优化后发到博客上，于是让 Claude Code 网页版中的 Claude Fable 5.1 <a href=\" 帮我做了这个工具</a>",
+          "why_it_matters_zh": "这条工具信息见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "9f1342acfa15",
@@ -1717,7 +1779,11 @@
               "published_at": "2026-09-07T16:24:16+00:00"
             }
           ],
-          "route": "/hot/2026-09-08/topic/mercator-equal-earth/"
+          "route": "/hot/2026-09-08/topic/mercator-equal-earth/",
+          "headline_zh": "墨卡托投影 ↔ 等地球投影",
+          "summary_short_zh": "<p><strong>工具：</strong> <a href=\" ↔ 等地球投影</a></p> <p>我对最近在 <a href=\" 联合国受到关注的</a> 等地球地图投影产生了兴趣，于是让 ChatGPT Work 中的 GPT-6 Astra（中等）<a href=\" 帮我</a>用 D3 制作了这段墨卡托投影与等地球投影之间的过渡动画。</p>",
+          "why_it_matters_zh": "这条工具信息见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "037a25ac5b52",
@@ -1755,7 +1821,10 @@
               "published_at": "2026-09-08T05:20:23Z"
             }
           ],
-          "route": "/hot/2026-09-08/topic/multi-agents-llm-financial-trading-framework/"
+          "route": "/hot/2026-09-08/topic/multi-agents-llm-financial-trading-framework/",
+          "headline_zh": "基于大语言模型的多智能体金融交易框架",
+          "why_it_matters_zh": "这条工具信息见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     }
@@ -1801,7 +1870,11 @@
               "published_at": "Tue, 08 Sep 2026 05:05:03 +0000"
             }
           ],
-          "route": "/hot/2026-09-08/topic/ai/"
+          "route": "/hot/2026-09-08/topic/ai/",
+          "headline_zh": "现场围观金融AI决赛，大厂挑人的逻辑我悟了",
+          "summary_short_zh": "百万奖金、大厂直通、VC跟投",
+          "why_it_matters_zh": "这条其他类信息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "55231676ff73",
@@ -1839,7 +1912,11 @@
               "published_at": "Tue, 08 Sep 2026 06:05:30 +0000"
             }
           ],
-          "route": "/hot/2026-09-08/topic/gpt-6-3d-token/"
+          "route": "/hot/2026-09-08/topic/gpt-6-3d-token/",
+          "headline_zh": "感谢用GPT-6搓3D的！燃烧自己的token换来一次全体重置",
+          "summary_short_zh": "Blender也不用学了",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "e0ff06204ff4",
@@ -1877,7 +1954,11 @@
               "published_at": "Mon, 07 Sep 2026 19:24:00 +0000"
             }
           ],
-          "route": "/hot/2026-09-08/topic/opaque-recurrence-and-other-ai-terms-that-you-should-probably-know/"
+          "route": "/hot/2026-09-08/topic/opaque-recurrence-and-other-ai-terms-that-you-should-probably-know/",
+          "headline_zh": "你或许该了解的 AI 术语：Opaque recurrence 等",
+          "summary_short_zh": "AI 的兴起催生了大量新术语和行话。这份术语表解释了你可能遇到的一些重要词语和表达。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "cbbd3b0e3ea5",
@@ -1915,7 +1996,10 @@
               "published_at": "2026-09-08T03:42:25Z"
             }
           ],
-          "route": "/hot/2026-09-08/topic/i-tested-10-model-harness-combinations-on-the-same-three-js-task/"
+          "route": "/hot/2026-09-08/topic/i-tested-10-model-harness-combinations-on-the-same-three-js-task/",
+          "headline_zh": "我用同一项 Three.js 任务测试了 10 种模型与运行框架组合",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "9ec38c6bea32",
@@ -1953,7 +2037,10 @@
               "published_at": "2026-09-07T18:24:32Z"
             }
           ],
-          "route": "/hot/2026-09-08/topic/ai-models-ran-real-businesses-they-sent-12-431-in-fake-invoices-lost-3-200/"
+          "route": "/hot/2026-09-08/topic/ai-models-ran-real-businesses-they-sent-12-431-in-fake-invoices-lost-3-200/",
+          "headline_zh": "AI 模型经营真实企业：发出总额 12,431 美元的假发票，亏损 3,200 美元",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "58c2cc181105",
@@ -1991,7 +2078,10 @@
               "published_at": "2026-09-08T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-08/topic/4-min-read-zuck-is-back-in-the-game-with-new-frontier-model/"
+          "route": "/hot/2026-09-08/topic/4-min-read-zuck-is-back-in-the-game-with-new-frontier-model/",
+          "headline_zh": "阅读需 4 分钟｜扎克伯格凭借新的前沿模型重回赛场",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "31e10280c7b0",
@@ -2029,7 +2119,10 @@
               "published_at": "2026-09-07T09:26:41Z"
             }
           ],
-          "route": "/hot/2026-09-08/topic/speculative-decoding-in-vllm-on-amd-gpus/"
+          "route": "/hot/2026-09-08/topic/speculative-decoding-in-vllm-on-amd-gpus/",
+          "headline_zh": "AMD GPU 上的 vLLM 推测解码",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "90758b107279",
@@ -2067,7 +2160,11 @@
               "published_at": "2026-09-07T15:08:21.759Z"
             }
           ],
-          "route": "/hot/2026-09-08/topic/openai-s-chief-scientist-calls-for-an-ai-slowdown-but-the-plan-needs-specifics/"
+          "route": "/hot/2026-09-08/topic/openai-s-chief-scientist-calls-for-an-ai-slowdown-but-the-plan-needs-specifics/",
+          "headline_zh": "OpenAI 首席科学家呼吁放缓 AI 发展，但方案仍需细化",
+          "summary_short_zh": "人工智能",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -2109,7 +2206,11 @@
           "published_at": "2026-09-05T21:07:55Z"
         }
       ],
-      "route": "/hot/2026-09-08/topic/bangtutorial-bang-motion/"
+      "route": "/hot/2026-09-08/topic/bangtutorial-bang-motion/",
+      "headline_zh": "bangtutorial/bang-motion",
+      "summary_short_zh": "用于制作浏览器动态图形的智能体技能，支持片头、宣传片、过场短片、动态文字排版及五种解说动画风格，动起来像视频，而非幻灯片。仅输出一个 index.html 文件。适用于 Claude Code、Codex、Gemini CLI 和 Cursor。",
+      "why_it_matters_zh": "这款工具见于 1 个独立来源。",
+      "category_zh": "工具"
     },
     {
       "topic_id": "0bcff45cd3df",
@@ -2147,7 +2248,11 @@
           "published_at": "2026-09-04T05:08:09Z"
         }
       ],
-      "route": "/hot/2026-09-08/topic/agfnow-agentflow/"
+      "route": "/hot/2026-09-08/topic/agfnow-agentflow/",
+      "headline_zh": "agfnow/agentflow",
+      "summary_short_zh": "将对话记录到文件的协议与按需开发流水线",
+      "why_it_matters_zh": "这款工具见于 1 个独立来源。",
+      "category_zh": "工具"
     },
     {
       "topic_id": "7bc6e871d95d",
@@ -2185,7 +2290,11 @@
           "published_at": "2026-09-04T08:55:31Z"
         }
       ],
-      "route": "/hot/2026-09-08/topic/apeireth-apeireth/"
+      "route": "/hot/2026-09-08/topic/apeireth-apeireth/",
+      "headline_zh": "Apeireth/Apeireth",
+      "summary_short_zh": "Apeireth：完全用 Safe Rust 编写的 AGI 操作系统与认知微内核。共 16 个 crate，涵盖连续拓扑记忆、因果世界模型、认知调度器、Ember HUD、三重洋葱式安全防护和便携式 USB 智能体。",
+      "why_it_matters_zh": "该工具被 1 个独立来源提及。",
+      "category_zh": "工具"
     }
   ],
   "x_buzz": [
