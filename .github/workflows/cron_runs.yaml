@@ -69,7 +69,15 @@ jobs:
         id: runtime
         shell: bash
         run: |
-          MODE=$(python -c "import configparser; c = configparser.ConfigParser(); c.read('configs/config.ini'); print(c.get('HOTSPOT_RUNTIME', 'runtime', fallback='local'))")
+          # Through the repository's loader, which reads config.ini AND
+          # hotspot.ini. This line used to build its own ConfigParser over
+          # config.ini alone, and [HOTSPOT_RUNTIME] lives in hotspot.ini since
+          # the config was split by subsystem -- so it found nothing and took
+          # the fallback. It happened to be right, because the fallback and the
+          # configured value are both "local", which is exactly why nobody
+          # noticed: setting runtime = actions would have been ignored in
+          # silence and hotspot generation would have gone on being skipped.
+          MODE=$(python -c "from arxiv_assistant.utils.config_loader import load_repo_config; print(load_repo_config().get('HOTSPOT_RUNTIME', 'runtime', fallback='local'))")
           echo "mode=$MODE" >> "$GITHUB_OUTPUT"
           echo "Hotspot runtime mode: $MODE"
 

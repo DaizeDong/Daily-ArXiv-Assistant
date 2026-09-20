@@ -55,5 +55,54 @@ class ConfigLoaderTests(unittest.TestCase):
         self.assertEqual(set(hotspot_loader().sections()), expected)
 
 
+class WorkflowsUseTheLoaderTests(unittest.TestCase):
+    """No workflow may read one config file and call that the configuration.
+
+    cron_runs.yaml decided whether to generate hotspots by building its own
+    ConfigParser over configs/config.ini and asking for [HOTSPOT_RUNTIME],
+    which lives in configs/hotspot.ini since the split. It saw no such section
+    and took its fallback. The answer was right by coincidence -- fallback and
+    configured value are both "local" -- so nothing looked wrong, and setting
+    runtime = actions would have been ignored without a word.
+    """
+
+    WORKFLOW_DIR = CONFIG_DIR.parent / ".github" / "workflows"
+
+    def test_no_workflow_reads_configuration_from_one_file(self):
+        # Reading a setting to decide something must go through the loader.
+        # Editing one named file in place is a different act and stays allowed:
+        # remedy_missed_dates.yml rewrites [SELECTION] in config.ini, which is
+        # where that section lives.
+        #
+        # Comments are stripped first. The step this rule came from now carries
+        # a comment naming ConfigParser to explain the bug, and the first
+        # version of this test matched that comment -- green code, red prose,
+        # or the reverse. Verified by poisoning: it failed on its own comment.
+        for path in sorted(self.WORKFLOW_DIR.glob("*.y*ml")):
+            raw = path.read_text(encoding="utf-8")
+            code = "\n".join(line for line in raw.splitlines()
+                             if not line.lstrip().startswith("#"))
+            if "ConfigParser" not in code:
+                continue
+            writes_back = ".write(" in code
+            with self.subTest(workflow=path.name):
+                if writes_back:
+                    continue
+                self.assertIn(
+                    "load_repo_config", code,
+                    "%s reads configuration with its own parser over a single "
+                    "file; a section that lives in the other one resolves to "
+                    "the caller's fallback instead of failing" % path.name,
+                )
+
+    def test_the_loader_sees_a_section_a_single_file_read_cannot(self):
+        # The negative control for the above: prove the two disagree, so the
+        # rule is about behaviour rather than style.
+        single = configparser.ConfigParser()
+        single.read(CONFIG_DIR / "config.ini", encoding="utf-8")
+        self.assertFalse(single.has_section("HOTSPOT_RUNTIME"))
+        self.assertTrue(load_repo_config().has_section("HOTSPOT_RUNTIME"))
+
+
 if __name__ == "__main__":
     unittest.main()
