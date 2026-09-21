@@ -76,10 +76,27 @@ def _section_get(config: Any, section: str, key: str) -> str | None:
     return value or None
 
 
+#: Environment override for the model id, matching ARXIV_ASSISTANT_LLM_BACKEND.
+MODEL_ENV = "ARXIV_ASSISTANT_LLM_MODEL"
+
+
 def resolve_llm_model(config: Any, *, override: str | None = None, fallback: str = _DEFAULT_LLM_MODEL) -> str:
-    """OpenAI model id: explicit ``override`` (legacy per-section key) wins, then ``[LLM] model``, then fallback."""
+    """OpenAI model id: explicit ``override`` wins, then the environment, then
+    ``[LLM] model``, then the fallback.
+
+    The environment sits above the config because the config is a repository
+    file and the model a host can actually reach is a property of the HOST. A
+    deployment updates itself with `git reset --hard`, so a model edited into
+    configs/config.ini is gone on the next install, and the gateway answers a
+    model it does not serve with "Deployment of ... is not found" -- measured:
+    this repository's configured gpt-5.6 is not deployed on the gateway it was
+    pointed at, while gpt-6-astra is.
+    """
     if override and str(override).strip():
         return str(override).strip()
+    from_env = os.environ.get(MODEL_ENV, "").strip()
+    if from_env:
+        return from_env
     return _section_get(config, "LLM", "model") or fallback
 
 

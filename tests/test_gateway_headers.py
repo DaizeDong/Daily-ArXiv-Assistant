@@ -92,6 +92,48 @@ class ExtraHeaderTests(unittest.TestCase):
                          {"Ocp-Apim-Subscription-Key": "k"})
 
 
+class ModelOverrideTests(unittest.TestCase):
+    """The model a host can reach is a property of the host, not of the repo."""
+
+    def _config(self, model):
+        import configparser
+
+        c = configparser.ConfigParser()
+        c.read_dict({"LLM": {"model": model}})
+        return c
+
+    def test_the_environment_beats_the_repository_file(self):
+        # A deployment updates itself with `git reset --hard`, so a model edited
+        # into configs/config.ini is gone on the next install. The gateway
+        # answers a model it does not serve with "Deployment of ... is not
+        # found", every call, forever.
+        from arxiv_assistant.utils.llm_client import resolve_llm_model
+
+        with mock.patch.dict(os.environ, {"ARXIV_ASSISTANT_LLM_MODEL": "gpt-6-astra"}):
+            self.assertEqual(resolve_llm_model(self._config("gpt-5.6")), "gpt-6-astra")
+
+    def test_an_explicit_override_still_wins(self):
+        from arxiv_assistant.utils.llm_client import resolve_llm_model
+
+        with mock.patch.dict(os.environ, {"ARXIV_ASSISTANT_LLM_MODEL": "gpt-6-astra"}):
+            self.assertEqual(
+                resolve_llm_model(self._config("gpt-5.6"), override="explicit"),
+                "explicit")
+
+    def test_without_the_variable_the_config_is_unchanged(self):
+        from arxiv_assistant.utils.llm_client import resolve_llm_model
+
+        env = {k: v for k, v in os.environ.items() if k != "ARXIV_ASSISTANT_LLM_MODEL"}
+        with mock.patch.dict(os.environ, env, clear=True):
+            self.assertEqual(resolve_llm_model(self._config("gpt-5.6")), "gpt-5.6")
+
+    def test_an_empty_variable_is_not_a_model(self):
+        from arxiv_assistant.utils.llm_client import resolve_llm_model
+
+        with mock.patch.dict(os.environ, {"ARXIV_ASSISTANT_LLM_MODEL": "  "}):
+            self.assertEqual(resolve_llm_model(self._config("gpt-5.6")), "gpt-5.6")
+
+
 class DetectionKnowsAboutHeaderAuthTests(unittest.TestCase):
     def test_a_header_authenticated_gateway_is_a_transport(self):
         import deploy.detect_target as dt
