@@ -10,13 +10,28 @@ set -euo pipefail
 REPO="${REPO:-$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)}"
 cd "$REPO"
 
-: "${GIT_PUSH_TOKEN:?GIT_PUSH_TOKEN is required to publish}"
 SLUG="${GIT_REPO_SLUG:-DaizeDong/Daily-ArXiv-Assistant}"
 AUTHOR_NAME="${GIT_AUTHOR_NAME_OVERRIDE:-github-actions[bot]}"
 AUTHOR_EMAIL="${GIT_AUTHOR_EMAIL_OVERRIDE:-github-actions[bot]@users.noreply.github.com}"
-
 WORK="$REPO/deploy-state/auto_update"
-REMOTE="https://x-access-token:${GIT_PUSH_TOKEN}@github.com/${SLUG}.git"
+
+# A deploy key is preferred over a token, and not as a matter of taste. A
+# classic PAT with the `repo` scope is read/write on EVERY repository the
+# account can reach, and `workflow` lets it rewrite CI. A deploy key is one
+# repository, revocable on its own, and its private half never leaves the host.
+# That difference is the whole argument on a host shared with anything else --
+# and the first host this ran on is a container shared with every other bot on
+# the account, browser sessions included.
+if [ -n "${GIT_PUSH_SSH_KEY:-}" ]; then
+  [ -f "$GIT_PUSH_SSH_KEY" ] || { echo "publish: GIT_PUSH_SSH_KEY points at nothing: $GIT_PUSH_SSH_KEY"; exit 1; }
+  REMOTE="git@github.com:${SLUG}.git"
+  export GIT_SSH_COMMAND="ssh -i $GIT_PUSH_SSH_KEY -o IdentitiesOnly=yes -o StrictHostKeyChecking=accept-new"
+elif [ -n "${GIT_PUSH_TOKEN:-}" ]; then
+  REMOTE="https://x-access-token:${GIT_PUSH_TOKEN}@github.com/${SLUG}.git"
+else
+  echo "publish: no credential (set GIT_PUSH_SSH_KEY, or GIT_PUSH_TOKEN)"
+  exit 1
+fi
 
 if [ ! -d "$WORK/.git" ]; then
   rm -rf "$WORK"

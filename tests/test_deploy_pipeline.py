@@ -176,6 +176,28 @@ class DeployScriptTests(unittest.TestCase):
                       "the backend is pinned but never re-read, so the "
                       "selftest does not exercise it")
 
+    def test_publishing_prefers_a_key_scoped_to_one_repository(self):
+        # A classic PAT with `repo` is read/write on every repository the
+        # account can reach, and `workflow` can rewrite CI. The first host this
+        # deployed to is a container shared with every other bot on the
+        # account, browser sessions included. A deploy key is one repository
+        # and its private half never leaves the host.
+        text = (DEPLOY / "publish.sh").read_text(encoding="utf-8")
+        ssh = text.index("GIT_PUSH_SSH_KEY")
+        token = text.index("GIT_PUSH_TOKEN")
+        self.assertLess(ssh, token,
+                        "the account-wide token is tried before the key that "
+                        "is scoped to one repository")
+        self.assertIn("IdentitiesOnly=yes", text,
+                      "ssh may pick up an agent key instead of the deploy key")
+
+    def test_a_missing_credential_is_reported_not_guessed(self):
+        text = (DEPLOY / "publish.sh").read_text(encoding="utf-8")
+        tail = text.split("GIT_PUSH_TOKEN", 1)[1].split("fi", 1)[0]
+        self.assertIn("exit 1", tail,
+                      "publishing without a credential falls through instead "
+                      "of failing")
+
     def test_run_once_records_evidence_even_when_it_fails(self):
         # A timer swallows exit codes and the supervisor outlives the run, so
         # artifacts are the only place a failure can be seen afterwards.

@@ -42,10 +42,10 @@ fi
 #    tree would still make a commit look like progress.
 DAY_FILE="out/web_data/hot/$TODAY.json"
 if [ "$status_generate" = "ok" ] && [ -s "$DAY_FILE" ]; then
-  if [ -n "${GIT_PUSH_TOKEN:-}" ]; then
+  if [ -n "${GIT_PUSH_SSH_KEY:-}" ] || [ -n "${GIT_PUSH_TOKEN:-}" ]; then
     if "$REPO/deploy/publish.sh"; then status_publish="ok"; else status_publish="failed"; fi
   else
-    status_publish="no-token"
+    status_publish="no-credential"
   fi
 fi
 
