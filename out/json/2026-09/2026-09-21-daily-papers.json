@@ -1,0 +1,537 @@
+{
+    "schema_version": 2,
+    "meta": {
+        "date": "2026-09-21",
+        "sort": [
+            "score",
+            "relevance"
+        ],
+        "topic_schema_version": 2,
+        "total_papers": 10,
+        "usage": {
+            "model": "llmcall:codexg",
+            "prompt_tokens": 0,
+            "completion_tokens": 0,
+            "prompt_cost": 0.0,
+            "completion_cost": 0.0,
+            "total_arxiv_papers": 451,
+            "total_scanned_papers": 274,
+            "total_relevant_papers": 10,
+            "filter_health": {
+                "status": "ok",
+                "scanned_papers": 274,
+                "selected_papers": 10,
+                "llm_tokens": 0,
+                "message": "Scored 274 papers with 13/13 successful model calls; 10 selected."
+            },
+            "llm": {
+                "backend": "LLM backend: llmcall chain=codexg->cc->claude->codex",
+                "attempted": 13,
+                "succeeded": 13,
+                "failed": 0,
+                "by_backend": {
+                    "llmcall": 13
+                },
+                "by_provider": {
+                    "codexg": 13
+                },
+                "errors": [],
+                "seconds": 1997.4,
+                "trace": [
+                    "codexg: answered in 134.2s of 363.8s",
+                    "codexg: answered in 74.0s of 363.8s",
+                    "codexg: answered in 91.9s of 363.8s",
+                    "codexg: answered in 71.1s of 363.8s",
+                    "codexg: answered in 79.5s of 363.8s",
+                    "codexg: answered in 78.9s of 363.8s",
+                    "codexg: answered in 170.4s of 363.8s",
+                    "codexg: answered in 85.2s of 363.8s",
+                    "codexg: answered in 302.3s of 363.8s",
+                    "codexg: answered in 250.9s of 363.8s",
+                    "codexg: answered in 320.6s of 363.8s",
+                    "codexg: answered in 272.3s of 363.8s",
+                    "codexg: answered in 66.0s of 363.8s"
+                ]
+            }
+        }
+    },
+    "topic_order": [
+        "frontier_models",
+        "architecture_training",
+        "training_systems",
+        "moe_training",
+        "efficiency_scaling",
+        "representation_structure",
+        "memory_systems",
+        "world_models_open_ended_rl"
+    ],
+    "diagnostics": {
+        "total_papers": 10,
+        "topic_counts": [
+            {
+                "topic_id": "frontier_models",
+                "topic_label": "Frontier Model Releases and Technical Reports",
+                "paper_count": 0
+            },
+            {
+                "topic_id": "architecture_training",
+                "topic_label": "Architecture and Training Dynamics",
+                "paper_count": 6
+            },
+            {
+                "topic_id": "training_systems",
+                "topic_label": "Training Algorithms That Change What Is Possible",
+                "paper_count": 0
+            },
+            {
+                "topic_id": "moe_training",
+                "topic_label": "MoE Where It Changes the Design Space",
+                "paper_count": 2
+            },
+            {
+                "topic_id": "efficiency_scaling",
+                "topic_label": "Efficiency, Compression, and Large-Scale Training",
+                "paper_count": 2
+            },
+            {
+                "topic_id": "representation_structure",
+                "topic_label": "Representation Learning Theory and Structure",
+                "paper_count": 0
+            },
+            {
+                "topic_id": "memory_systems",
+                "topic_label": "Memory Structures and Agent Memory Systems",
+                "paper_count": 0
+            },
+            {
+                "topic_id": "world_models_open_ended_rl",
+                "topic_label": "World Models, Exploration, and Open-Ended Reinforcement Learning",
+                "paper_count": 0
+            }
+        ],
+        "assignment_source_counts": {
+            "llm_exact": 10
+        },
+        "llm_assignment_count": 10,
+        "heuristic_assignment_count": 0,
+        "default_assignment_count": 0,
+        "invalid_primary_topic_fallback_count": 0,
+        "missing_primary_topic_fallback_count": 0,
+        "hotspot_paper_kind_counts": {
+            "new_frontier": 0,
+            "daily_hot": 1
+        },
+        "hotspot_paper_assignment_source_counts": {
+            "default": 9,
+            "llm_exact": 1
+        }
+    },
+    "papers": {
+        "2609.21605": {
+            "ARXIVID": "2609.21605",
+            "COMMENT": "Trades physical depth for temporal recurrence while holding Transformer-block executions per vocabulary token fixed.",
+            "RELEVANCE": 9,
+            "NOVELTY": 7,
+            "EVIDENCE": 7,
+            "LOAD": 4,
+            "PROXIMITY": 10,
+            "PRIMARY_TOPIC_ID": "architecture_training",
+            "MATCHED_TOPIC_IDS": [
+                "architecture_training"
+            ],
+            "TOPIC_MATCH_COMMENT": "Directly tests the architectural relationship between parameter count and recurrent computation; the MoE backbone is the experimental setting rather than the contribution.",
+            "HOTSPOT_PAPER_TAGS": [],
+            "HOTSPOT_PAPER_COMMENT": "",
+            "SCORE": 16,
+            "READ_SCORE": 24.0,
+            "authors": [
+                "Zeyi Huang",
+                "Xuehai He",
+                "Yong Jae Lee",
+                "Yelong Shen"
+            ],
+            "title": "Trading Depth for Time in Recurrent Transformers",
+            "abstract": "Recurrent Transformers increase computational depth through temporal recurrence, feeding each token's high-level hidden state into the computation of the next. This raises a natural question: is additional computation better spent on more temporal steps or greater physical depth? We investigate this question using Latent Recurrent Transformers (LRTs), which retain one backbone forward pass per vocabulary token during decoding and provide a controlled setting for comparing these two ways of adding computation. Specifically, we insert a latent thought token between consecutive vocabulary tokens. Each thought token passes through the same $L$ layers as a vocabulary token, sharing the backbone parameters and providing an additional stage of hidden-state refinement before predicting the next token. We compare this $L$-layer LRT against a $2L$-layer LRT without thought tokens. Both execute $2L$ Transformer blocks per vocabulary token during decoding, but the thought-token model uses fewer parameters. On 16- and 20-layer mixture-of-experts NanoChat backbones, one thought token brings the shallower model within 0.006 and 0.004 bits per byte of its double-depth counterpart, recovering 67% and 81% of the improvement with approximately 48% fewer total parameters. These results suggest that temporal thinking offers a parameter-efficient alternative to increasing physical depth in recurrent Transformers.",
+            "arxiv_id": "2609.21605",
+            "PRIMARY_TOPIC_LABEL": "Architecture and Training Dynamics",
+            "MATCHED_TOPIC_LABELS": [
+                "Architecture and Training Dynamics"
+            ],
+            "TOPIC_ASSIGNMENT_SOURCE": "llm_exact",
+            "HOTSPOT_PAPER_LABELS": [],
+            "HOTSPOT_PAPER_PRIMARY_KIND": null,
+            "HOTSPOT_PAPER_PRIMARY_LABEL": "",
+            "HOTSPOT_PAPER_ASSIGNMENT_SOURCE": "default"
+        },
+        "2609.21139": {
+            "ARXIVID": "2609.21139",
+            "COMMENT": "Replaces selected pretrained attention layers with recurrent cells, accepting conversions only when representation and NLL thresholds pass.",
+            "RELEVANCE": 9,
+            "NOVELTY": 7,
+            "EVIDENCE": 7,
+            "LOAD": 6,
+            "PROXIMITY": 9,
+            "PRIMARY_TOPIC_ID": "architecture_training",
+            "MATCHED_TOPIC_IDS": [
+                "architecture_training"
+            ],
+            "TOPIC_MATCH_COMMENT": "The core contribution changes pretrained layer structure and tests compatibility with downstream representations; its claims explicitly stop at partial, quality-gated conversion.",
+            "HOTSPOT_PAPER_TAGS": [],
+            "HOTSPOT_PAPER_COMMENT": "",
+            "SCORE": 16,
+            "READ_SCORE": 22.0,
+            "authors": [
+                "Kabeh Mohsenzadegan",
+                "Vahid Tavakkoli",
+                "Kyandoghere Kyamakya"
+            ],
+            "title": "TinyCeNN-LM: Quality-Gated Conversion of Pretrained Attention with CeNN-Inspired Cellular-Recurrent Layers",
+            "abstract": "Replacing attention in a pretrained language model is a compatibility problem: a plausible substitute may alter representations expected by later layers. TinyCeNN-LM introduces a \\emph{quality-gated post-training conversion} framework using CeNN-inspired cellular-recurrent layers with bounded local processing, compact recurrent memory, routing, fusion, and accept-or-rollback validation. Three implementations are studied: Integrated Memory, MemoryFusion, and PDelta3-GDN2-CLVR+Local32. Strict PDelta3 conversion accepts a layer only when representation and NLL criteria pass fixed thresholds. On SmolLM2-135M, layers 0-2 are accepted with cumulative $\\Delta\\mathrm{NLL}=+0.01209$, while layer 3 is rejected despite acceptable NLL because representation fidelity fails. On Qwen3.5-0.8B, full-attention layers 3, 7, and 11 are accepted with final $\\Delta\\mathrm{NLL}=+0.02073$. Integrated Memory keeps perplexity within $-0.07\\%$ to $+0.93\\%$ while reducing total cache by up to $6.01\\%$. A sampled 200-item downstream sanity check gives $28.5\\%$--$32.0\\%$ overall accuracy for converted Qwen releases. The results support conservative, quality-gated structural conversion rather than universal attention replacement or speedup.",
+            "arxiv_id": "2609.21139",
+            "PRIMARY_TOPIC_LABEL": "Architecture and Training Dynamics",
+            "MATCHED_TOPIC_LABELS": [
+                "Architecture and Training Dynamics"
+            ],
+            "TOPIC_ASSIGNMENT_SOURCE": "llm_exact",
+            "HOTSPOT_PAPER_LABELS": [],
+            "HOTSPOT_PAPER_PRIMARY_KIND": null,
+            "HOTSPOT_PAPER_PRIMARY_LABEL": "",
+            "HOTSPOT_PAPER_ASSIGNMENT_SOURCE": "default"
+        },
+        "2609.20974": {
+            "ARXIVID": "2609.20974",
+            "COMMENT": "Trains attention-informed routers with the transformer frozen, isolating how routing changes reshape attention in the next layer.",
+            "RELEVANCE": 9,
+            "NOVELTY": 7,
+            "EVIDENCE": 7,
+            "LOAD": 5,
+            "PROXIMITY": 8,
+            "PRIMARY_TOPIC_ID": "moe_training",
+            "MATCHED_TOPIC_IDS": [
+                "architecture_training",
+                "moe_training"
+            ],
+            "TOPIC_MATCH_COMMENT": "Directly changes token-to-expert assignment and analyzes its interaction with attention; the explicit depth-dependent tradeoff limits the gain's generality.",
+            "HOTSPOT_PAPER_TAGS": [],
+            "HOTSPOT_PAPER_COMMENT": "",
+            "SCORE": 16,
+            "READ_SCORE": 21.5,
+            "authors": [
+                "Despoina Kosmopoulou",
+                "Anastasios Tsetsilas",
+                "Efthymios Georgiou",
+                "Giannis Karamanolakis",
+                "Swastik Roy",
+                "Alexandros Potamianos"
+            ],
+            "title": "Attention-Aware Routing: Coupling Routing and Attention in MoEs",
+            "abstract": "In Mixture-of-Experts language models, the router typically selects and weights experts based on the token's hidden state, utilizing limited contextual information. We propose Attention-Aware Routing (AAR), which augments the router with temporal and spectral features extracted from a sliding window of attention weights that represent a summary of the model's contextual state, disentangled from the hidden state. Keeping the base transformer entirely frozen, we train only the routing parameters, isolating routing as the sole variable. AAR improves GSM8K by +3.37 pp over a routing-only SFT baseline on OLMoE. Beyond performance, we show that routing and attention form a coupled circuit: routing changes at layer l propagate through the residual stream to amplify attention sinks at layer l+1, reshaping attention without any direct update to the attention mechanism itself. Further, AAR reduces long diverging generation, with incorrect answers getting shorter, while correct answers remain unchanged in length. Finally, AAR is strongly depth-sensitive: applying it indiscriminately across layers can degrade factual retrieval, whereas mathematical reasoning gains persist when it is introduced deeper in the network. This sensitivity exposes a retrieval--reasoning tension across depth and makes layer-selective AAR a controlled probe of the routing-relevant information carried by attention at different layers.",
+            "arxiv_id": "2609.20974",
+            "PRIMARY_TOPIC_LABEL": "MoE Where It Changes the Design Space",
+            "MATCHED_TOPIC_LABELS": [
+                "Architecture and Training Dynamics",
+                "MoE Where It Changes the Design Space"
+            ],
+            "TOPIC_ASSIGNMENT_SOURCE": "llm_exact",
+            "HOTSPOT_PAPER_LABELS": [],
+            "HOTSPOT_PAPER_PRIMARY_KIND": null,
+            "HOTSPOT_PAPER_PRIMARY_LABEL": "",
+            "HOTSPOT_PAPER_ASSIGNMENT_SOURCE": "default"
+        },
+        "2609.21383": {
+            "ARXIVID": "2609.21383",
+            "COMMENT": "Explains answer preservation across recurrent depth through common score shifts and winner-relative update geometry.",
+            "RELEVANCE": 9,
+            "NOVELTY": 7,
+            "EVIDENCE": 8,
+            "LOAD": 9,
+            "PROXIMITY": 8,
+            "PRIMARY_TOPIC_ID": "architecture_training",
+            "MATCHED_TOPIC_IDS": [
+                "architecture_training"
+            ],
+            "TOPIC_MATCH_COMMENT": "Analyzes how depth-recurrent computation changes predictions in two billion-parameter model families, with an explicit retrospective-evidence boundary.",
+            "HOTSPOT_PAPER_TAGS": [],
+            "HOTSPOT_PAPER_COMMENT": "",
+            "SCORE": 16,
+            "READ_SCORE": 20.5,
+            "authors": [
+                "Xinyue Luo",
+                "Fei Yu"
+            ],
+            "title": "Prediction Dynamics in Depth-Recurrent Language Models",
+            "abstract": "Depth-recurrent language models refine predictions through repeated latent updates. Why can intermediate answers agree with the endpoint while their scores continue to change? We derive a sharp margin characterization that decomposes the conservatism of a magnitude bound into common translation, direction relative to the winner, and the pairing of each competitor's update with its score gap. Across Huginn-3.5B and Ouro-1.4B, accounting for update direction and competitor pairing reduces the mean earliest qualifying depth by a further 22.5-34.4% of the total depth beyond translation removal under full answer-text scoring. This retrospective comparison uses completed trajectories. Substantial contributions also occur under label scoring. For shared predictive distributions, we separate common and contrast motion orthogonally and express the common component through candidate-set mass and within-set concentration. Common and contrast energies can attenuate at different rates, allowing a growing preference-change share to coexist with shrinking absolute updates. These findings explain finite-depth answer preservation through the geometry and composition of observed score changes.",
+            "arxiv_id": "2609.21383",
+            "PRIMARY_TOPIC_LABEL": "Architecture and Training Dynamics",
+            "MATCHED_TOPIC_LABELS": [
+                "Architecture and Training Dynamics"
+            ],
+            "TOPIC_ASSIGNMENT_SOURCE": "llm_exact",
+            "HOTSPOT_PAPER_LABELS": [],
+            "HOTSPOT_PAPER_PRIMARY_KIND": null,
+            "HOTSPOT_PAPER_PRIMARY_LABEL": "",
+            "HOTSPOT_PAPER_ASSIGNMENT_SOURCE": "default"
+        },
+        "2609.21113": {
+            "ARXIVID": "2609.21113",
+            "COMMENT": "Compares fine-tuning-induced representation drift with EAP-estimated task importance across layers.",
+            "RELEVANCE": 8,
+            "NOVELTY": 7,
+            "EVIDENCE": 5,
+            "LOAD": 6,
+            "PROXIMITY": 8,
+            "PRIMARY_TOPIC_ID": "architecture_training",
+            "MATCHED_TOPIC_IDS": [
+                "architecture_training"
+            ],
+            "TOPIC_MATCH_COMMENT": "Analyzes how trained computation is organized through the disconnect between representation changes, task-relevant components, and cross-task transfer.",
+            "HOTSPOT_PAPER_TAGS": [],
+            "HOTSPOT_PAPER_COMMENT": "",
+            "SCORE": 15,
+            "READ_SCORE": 18.0,
+            "authors": [
+                "Lingfang Li",
+                "Procheta Sen",
+                "Shubham Das",
+                "Danushka Bollegala"
+            ],
+            "title": "Decoupling Internal Representational Changes and Causal Importance in Fine-Tuned Large Language Models",
+            "abstract": "Fine-tuning has emerged as a widely adopted approach for adapting LLMs to a variety of downstream tasks. However, how it reshapes their internal mechanisms remains poorly understood. To address this, we investigate how fine-tuning alters internal representations in LLMs, including attention patterns and layer-wise activations, and examine whether these changes are linked to task-relevant components identified by EAP (e.g., attention heads and logit-level activations) that drive task performance. We find that EAP-identified components are concentrated within specific layers, indicating a degree of functional localisation in how models internalise task-specific behavior. Notably, the distribution of these components across layers is largely uncorrelated with the layers undergoing the most substantial representational changes during fine-tuning. Furthermore, we observe that overlap in EAP-identified components across tasks does not translate into cross-task performance transfer if the tasks are different in nature (e.g. classification vs. generative tasks). More specifically, fine-tuning on one task can lead to a degradation of performance on another when the two tasks exhibit a high degree of overlap in their EAP-identified components.",
+            "arxiv_id": "2609.21113",
+            "PRIMARY_TOPIC_LABEL": "Architecture and Training Dynamics",
+            "MATCHED_TOPIC_LABELS": [
+                "Architecture and Training Dynamics"
+            ],
+            "TOPIC_ASSIGNMENT_SOURCE": "llm_exact",
+            "HOTSPOT_PAPER_LABELS": [],
+            "HOTSPOT_PAPER_PRIMARY_KIND": null,
+            "HOTSPOT_PAPER_PRIMARY_LABEL": "",
+            "HOTSPOT_PAPER_ASSIGNMENT_SOURCE": "default"
+        },
+        "2609.21672": {
+            "ARXIVID": "2609.21672",
+            "COMMENT": "Uses L0 regularization for dense-to-MoE conversion, introducing sparse expert computation into dense models.",
+            "RELEVANCE": 8,
+            "NOVELTY": 6,
+            "EVIDENCE": 5,
+            "LOAD": 5,
+            "PROXIMITY": 7,
+            "PRIMARY_TOPIC_ID": "moe_training",
+            "MATCHED_TOPIC_IDS": [
+                "moe_training"
+            ],
+            "TOPIC_MATCH_COMMENT": "Dense-to-MoE structure is directly relevant to expert design, although the abstract leaves model scales and named comparison baselines unspecified.",
+            "HOTSPOT_PAPER_TAGS": [],
+            "HOTSPOT_PAPER_COMMENT": "",
+            "SCORE": 14,
+            "READ_SCORE": 17.5,
+            "authors": [
+                "Zhenyu Zhang",
+                "Jiudong Yang",
+                "Zhaowen Tao",
+                "Meng Chen"
+            ],
+            "title": "Accelerating Dense LLMs via L0-regularized Mixture-of-Experts",
+            "abstract": "Large language models (LLMs) achieve strong performance but suffer from slow and costly inference. Existing acceleration methods often lead to noticeable performance degradation, while Mixture-of-Experts (MoE) models require extensive computational resources. In this paper, we propose L0-MoE, a lightweight MoE approach using L0-regularization to accelerate dense LLMs nearly without performance loss. Our method introduces a cluster confusion matrix for domain-aware dataset curation and applies dynamic batching for efficient training. Experiments show that L0-MoE achieves up to 2.5x speedup over dense models while maintaining competitive performance, outperforming existing LLM acceleration baselines.",
+            "arxiv_id": "2609.21672",
+            "PRIMARY_TOPIC_LABEL": "MoE Where It Changes the Design Space",
+            "MATCHED_TOPIC_LABELS": [
+                "MoE Where It Changes the Design Space"
+            ],
+            "TOPIC_ASSIGNMENT_SOURCE": "llm_exact",
+            "HOTSPOT_PAPER_LABELS": [],
+            "HOTSPOT_PAPER_PRIMARY_KIND": null,
+            "HOTSPOT_PAPER_PRIMARY_LABEL": "",
+            "HOTSPOT_PAPER_ASSIGNMENT_SOURCE": "default"
+        },
+        "2609.21133": {
+            "ARXIVID": "2609.21133",
+            "COMMENT": "Audits false rejections by execution accuracy and LLM judges when correct SQL queries contain stochastic AI operators.",
+            "RELEVANCE": 8,
+            "NOVELTY": 6,
+            "EVIDENCE": 7,
+            "LOAD": 4,
+            "PROXIMITY": 3,
+            "PRIMARY_TOPIC_ID": "architecture_training",
+            "MATCHED_TOPIC_IDS": [
+                "architecture_training"
+            ],
+            "TOPIC_MATCH_COMMENT": "Qualifies through the benchmark-validity audit exception; architecture_training is a required proxy because the registry has no evaluation-audit topic.",
+            "HOTSPOT_PAPER_TAGS": [],
+            "HOTSPOT_PAPER_COMMENT": "",
+            "SCORE": 14,
+            "READ_SCORE": 16.0,
+            "authors": [
+                "Tarfah Alrashed",
+                "Fatma Ozcan",
+                "Per Jacobsson",
+                "Tal Neiman",
+                "Xianshun Chen"
+            ],
+            "title": "The Stochastic Shift: A New Evaluation Paradigm for Text-to-SQL with AI Operators",
+            "abstract": "SQL has been augmented with AI operators, enabling modern data analytics platforms to derive insights from both structured and unstructured data. We observe that while current Text-to-SQL systems can successfully generate these AI-augmented queries, reliably evaluating their correctness remains a critical open challenge. Current metrics, which rely on exact query results and deterministic execution, systematically fail against the flexible, non-deterministic outputs of AI operators. In this paper, we formalize these unique evaluation failure modes and introduce a Multilayered Evaluation Framework that decouples deterministic database logic from flexible AI semantics. We test our approach across both industry (BigQuery) and academic (ThalamusDB) systems. We demonstrate that traditional Execution Accuracy severely penalizes valid queries, achieving as low as a 25% detection rate for correct translations. Furthermore, even a state-of-the-art LLM-based autorater falsely rejects 32% of accurate queries due to the complexity of judging both relational and AI components simultaneously. By validating the standard relational logic and the AI operations separately, our framework achieves state-of-the-art overall accuracy across both platforms (up to 97.2%), proposing a reliable standard for benchmarking AI-powered SQL generators.",
+            "arxiv_id": "2609.21133",
+            "PRIMARY_TOPIC_LABEL": "Architecture and Training Dynamics",
+            "MATCHED_TOPIC_LABELS": [
+                "Architecture and Training Dynamics"
+            ],
+            "TOPIC_ASSIGNMENT_SOURCE": "llm_exact",
+            "HOTSPOT_PAPER_LABELS": [],
+            "HOTSPOT_PAPER_PRIMARY_KIND": null,
+            "HOTSPOT_PAPER_PRIMARY_LABEL": "",
+            "HOTSPOT_PAPER_ASSIGNMENT_SOURCE": "default"
+        },
+        "2609.21888": {
+            "ARXIVID": "2609.21888",
+            "COMMENT": "Separates training exposure from general predictability by correcting membership scores with predictive entropy.",
+            "RELEVANCE": 7,
+            "NOVELTY": 6,
+            "EVIDENCE": 5,
+            "LOAD": 5,
+            "PROXIMITY": 5,
+            "PRIMARY_TOPIC_ID": "efficiency_scaling",
+            "MATCHED_TOPIC_IDS": [
+                "efficiency_scaling"
+            ],
+            "TOPIC_MATCH_COMMENT": "Fits the explicit allowance for attributing model behavior to pretraining data through membership detection.",
+            "HOTSPOT_PAPER_TAGS": [],
+            "HOTSPOT_PAPER_COMMENT": "",
+            "SCORE": 13,
+            "READ_SCORE": 14.5,
+            "authors": [
+                "Chenye Ke",
+                "Zirui Liu",
+                "Qi Liu",
+                "Yan Zhuang",
+                "Jintao Zhang",
+                "Zhenya Huang",
+                "Shijin Wang"
+            ],
+            "title": "Detecting Pretraining Data in Large Language Models from a Free-Energy Perspective",
+            "abstract": "Detecting pretraining data in large language models is challenging because high likelihood can reflect either training exposure or strong generalization. In the joint space of prediction loss and predictive entropy, a likelihood-only detector uses a horizontal boundary and can mistake predictable non-members for members. Motivated by this, we introduce an inclined boundary that evaluates prediction loss relative to predictive entropy. Our analysis shows that entropy correction can preserve the expected membership signal while reducing its variance, thereby improving standardized member--non-member separation. We further extend the mean--variance analysis to the more general setting with a nonzero mean entropy gap. Interestingly, this entropy-adjusted score admits a Helmholtz free-energy interpretation, leading to Energy Transfer Detection (ETD), which views pretraining data detection from a macroscopic residual free-energy transfer perspective. Extensive experiments show that ETD achieves the best average detection performance, improving average AUROC by up to 3.5\\% and TPR@5\\%FPR by up to 5.1\\%, while remaining robust across diverse settings.",
+            "arxiv_id": "2609.21888",
+            "PRIMARY_TOPIC_LABEL": "Efficiency, Compression, and Large-Scale Training",
+            "MATCHED_TOPIC_LABELS": [
+                "Efficiency, Compression, and Large-Scale Training"
+            ],
+            "TOPIC_ASSIGNMENT_SOURCE": "llm_exact",
+            "HOTSPOT_PAPER_LABELS": [],
+            "HOTSPOT_PAPER_PRIMARY_KIND": null,
+            "HOTSPOT_PAPER_PRIMARY_LABEL": "",
+            "HOTSPOT_PAPER_ASSIGNMENT_SOURCE": "default"
+        },
+        "2609.21126": {
+            "ARXIVID": "2609.21126",
+            "COMMENT": "Decouples structured neuron pruning into layerwise objectives to widen the usable regularization range.",
+            "RELEVANCE": 6,
+            "NOVELTY": 6,
+            "EVIDENCE": 7,
+            "LOAD": 7,
+            "PROXIMITY": 5,
+            "PRIMARY_TOPIC_ID": "efficiency_scaling",
+            "MATCHED_TOPIC_IDS": [
+                "efficiency_scaling"
+            ],
+            "TOPIC_MATCH_COMMENT": "The central mechanism is structured width reduction with improved pruning stability; OPT-1.3B supplies a limited language-model connection.",
+            "HOTSPOT_PAPER_TAGS": [],
+            "HOTSPOT_PAPER_COMMENT": "",
+            "SCORE": 12,
+            "READ_SCORE": 14.5,
+            "authors": [
+                "Charles Kulick",
+                "Armenak Petrosyan",
+                "Sui Tang"
+            ],
+            "title": "Layerwise Decoupling for Stable Structured Sparsification of Fully Connected Layers",
+            "abstract": "We propose a decoupled, layerwise method for structurally sparsifying the fully connected layers of pretrained neural networks. Rather than penalizing all layers jointly, our approach extracts shallow two-layer subnetworks, normalizes the inner weights, and applies a structured group penalty to the outer weight matrix of each block, processing layers sequentially to prune neurons and reduce the width of each layer. We prove that the constrained decoupled objective is equivalent at optimality to a specific joint penalty on the inner and outer weights, for any positively homogeneous activation, and thus admits a clean projected and proximal formulation. Our central finding is that this decoupled reformulation is more robust than coupled methods. In numerical experiments it provides a wider usable range of the regularization strength and a lower rate of catastrophic over-pruning than the tested joint baseline while maintaining comparable accuracy. We establish these properties in controlled classification and sparse-recovery studies, and examine their scope in a high-dimensional PINN stress test and in the feed-forward layers of OPT-1.3B.",
+            "arxiv_id": "2609.21126",
+            "PRIMARY_TOPIC_LABEL": "Efficiency, Compression, and Large-Scale Training",
+            "MATCHED_TOPIC_LABELS": [
+                "Efficiency, Compression, and Large-Scale Training"
+            ],
+            "TOPIC_ASSIGNMENT_SOURCE": "llm_exact",
+            "HOTSPOT_PAPER_LABELS": [],
+            "HOTSPOT_PAPER_PRIMARY_KIND": null,
+            "HOTSPOT_PAPER_PRIMARY_LABEL": "",
+            "HOTSPOT_PAPER_ASSIGNMENT_SOURCE": "default"
+        },
+        "2609.21190": {
+            "ARXIVID": "2609.21190",
+            "COMMENT": "Finds counterexamples in 25-50% of test-passing patches, directly auditing test-based correctness claims.",
+            "RELEVANCE": 6,
+            "NOVELTY": 7,
+            "EVIDENCE": 8,
+            "LOAD": 6,
+            "PROXIMITY": 3,
+            "PRIMARY_TOPIC_ID": "architecture_training",
+            "MATCHED_TOPIC_IDS": [
+                "architecture_training"
+            ],
+            "TOPIC_MATCH_COMMENT": "The benchmark-validity audit supplies a partial feed match; the main contribution is a new benchmark, and architecture_training is only the nearest available registry category.",
+            "HOTSPOT_PAPER_TAGS": [
+                "daily_hot"
+            ],
+            "HOTSPOT_PAPER_COMMENT": "Counterexamples in many test-passing patches challenge widely used coding-agent success rates, while the specification audit exposes a concrete obstacle to stronger verification.",
+            "SCORE": 13,
+            "READ_SCORE": 14.0,
+            "authors": [
+                "George Ma",
+                "Benjamin Mikek",
+                "Haoyu Li",
+                "Ferhat Erata",
+                "Yuhao Zhang",
+                "Zeren Shui",
+                "Behrooz Omidvar Tehrani",
+                "Jun Huan",
+                "Murali Krishna Ramanathan",
+                "Somayeh Sojoudi",
+                "Hao Zhou",
+                "Anoop Deoras"
+            ],
+            "title": "SWE-Proof: Can Language Models Resolve Real-World Issues with Machine-Checked Proofs?",
+            "abstract": "Ensuring the correctness of LLM-generated code is a core challenge for modern software engineering. Benchmarks for agentic code generation check correctness with held-out test suites, which are inherently incomplete and increasingly susceptible to memorization. Formal verification avoids both problems, but existing work covers only standalone tasks whose specifications are given as input, not real issues, which touch large repositories and state intent in vague natural language. We present Benchproofer, a pipeline that turns a coding task with a known correct patch into a formally verified one: it writes a specification for the new code, summarizes the existing functions that code calls with axioms, and admits an instance only after mechanical and adversarial gates agree. Applying it to SWE-bench Verified yields SWE-Proof, 500 real issues whose correctness is formally verified rather than tested, and it extends to SWE-bench Pro. Across two frontier models, verification catches what tests miss: a quarter to a half of test-passing patches admit counterexamples, which a structured natural-language specification does not fix, while a correct formal one lifts resolution from 85% to 95% for Opus 4.8. Writing that specification is the hard part: models that must write their own gain nothing over an unaided baseline, and only 62% of their specifications pass our audit. The usual failure is faithfulness, a specification that constrains part of the required behavior and leaves the rest free. Specification quality still tracks the outcome, failing on 89% of unresolved instances against 47% of resolved ones, making faithful specification synthesis a concrete open problem.",
+            "arxiv_id": "2609.21190",
+            "PRIMARY_TOPIC_LABEL": "Architecture and Training Dynamics",
+            "MATCHED_TOPIC_LABELS": [
+                "Architecture and Training Dynamics"
+            ],
+            "TOPIC_ASSIGNMENT_SOURCE": "llm_exact",
+            "HOTSPOT_PAPER_LABELS": [
+                "Daily Hot Papers"
+            ],
+            "HOTSPOT_PAPER_PRIMARY_KIND": "daily_hot",
+            "HOTSPOT_PAPER_PRIMARY_LABEL": "Daily Hot Papers",
+            "HOTSPOT_PAPER_ASSIGNMENT_SOURCE": "llm_exact"
+        }
+    },
+    "topic_sections": [
+        {
+            "topic_id": "architecture_training",
+            "topic_label": "Architecture and Training Dynamics",
+            "paper_ids": [
+                "2609.21605",
+                "2609.21139",
+                "2609.21383",
+                "2609.21113",
+                "2609.21133",
+                "2609.21190"
+            ]
+        },
+        {
+            "topic_id": "moe_training",
+            "topic_label": "MoE Where It Changes the Design Space",
+            "paper_ids": [
+                "2609.20974",
+                "2609.21672"
+            ]
+        },
+        {
+            "topic_id": "efficiency_scaling",
+            "topic_label": "Efficiency, Compression, and Large-Scale Training",
+            "paper_ids": [
+                "2609.21888",
+                "2609.21126"
+            ]
+        }
+    ]
+}

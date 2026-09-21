@@ -1,0 +1,251 @@
+{
+    "schema_version": 1,
+    "meta": {
+        "date": "2026-09-21",
+        "total_candidates": 67,
+        "total_spotlight_papers": 5,
+        "thresholds": {
+            "daily_hot_score_cutoff": 15,
+            "daily_hot_relevance_cutoff": 7,
+            "new_frontier_score_cutoff": 15,
+            "new_frontier_novelty_cutoff": 8
+        },
+        "caps": {
+            "max_daily_hot": 6,
+            "max_new_frontier": 4
+        }
+    },
+    "diagnostics": {
+        "candidate_count_by_kind": {
+            "new_frontier": 3,
+            "daily_hot": 4
+        },
+        "selected_count_by_kind": {
+            "new_frontier": 3,
+            "daily_hot": 2
+        }
+    },
+    "papers": {
+        "2609.22005": {
+            "ARXIVID": "2609.22005",
+            "COMMENT": "Separates attention-gating gains into abstention and noise filtering using matched models and controlled interference.",
+            "RELEVANCE": 10,
+            "NOVELTY": 9,
+            "EVIDENCE": 8,
+            "LOAD": 6,
+            "PROXIMITY": 10,
+            "PRIMARY_TOPIC_ID": "architecture_training",
+            "MATCHED_TOPIC_IDS": [
+                "architecture_training"
+            ],
+            "TOPIC_MATCH_COMMENT": "Directly tests why attention gates improve pretraining, isolating two mechanisms with opposite scaling trends across 10M-350M models.",
+            "HOTSPOT_PAPER_TAGS": [
+                "new_frontier",
+                "daily_hot"
+            ],
+            "HOTSPOT_PAPER_COMMENT": "Broadly important today and potentially frontier-opening: Separates attention-gating gains into abstention and noise filtering using matched models and controlled interference.",
+            "SCORE": 19,
+            "READ_SCORE": 25.0,
+            "authors": [
+                "Richard Zhe Wang"
+            ],
+            "title": "Abstention and Noise Filtering: Two Missing Primitives of Softmax Attention",
+            "abstract": "Gating the value pathway of attention reportedly improves language model pretraining, and prior studies disagree on why. We argue and provide experimental evidence that such gates supply two different things that softmax attention lacks: abstention and noise filtering. The first is abstention, which allows an attention head to output nothing, bypassing the requirement that attention weights must sum to one. The second is noise filtering, which allows the value pathway of an attention head to suppress interference from superposed features in the residual stream. In our experiments in matched models from 10M to 350M parameters, we supply abstention through a learned per-head sink logit in the softmax and noise filtering through a gate on each value. We report three empirical findings. First, the benefit of abstention, measured as the reduction in validation loss relative to a matched baseline, declines as models grow, whereas the benefit of noise filtering increases with scale. In particular, abstention accounts for nearly all of the gain from gating at 10M and filtering for most of it at 350M. Second, the best model at every scale is the one with both primitives built in. Third, injecting controlled interference into the values a head reads confirms that the gate removes such interference, and reveals that each of the two gate forms we study has a characteristic blind spot. Supplying both primitives adds negligible parameters and remains compatible with the key-value cache.",
+            "arxiv_id": "2609.22005",
+            "PRIMARY_TOPIC_LABEL": "Architecture and Training Dynamics",
+            "MATCHED_TOPIC_LABELS": [
+                "Architecture and Training Dynamics"
+            ],
+            "TOPIC_ASSIGNMENT_SOURCE": "llm_exact",
+            "HOTSPOT_PAPER_LABELS": [
+                "New Frontier Papers",
+                "Daily Hot Papers"
+            ],
+            "HOTSPOT_PAPER_PRIMARY_KIND": "new_frontier",
+            "HOTSPOT_PAPER_PRIMARY_LABEL": "New Frontier Papers",
+            "HOTSPOT_PAPER_ASSIGNMENT_SOURCE": "heuristic"
+        },
+        "2609.21277": {
+            "ARXIVID": "2609.21277",
+            "COMMENT": "Shows that identical judge panels yield different human-equivalent sizes when matching diversity versus distributional accuracy.",
+            "RELEVANCE": 9,
+            "NOVELTY": 9,
+            "EVIDENCE": 8,
+            "LOAD": 8,
+            "PROXIMITY": 4,
+            "PRIMARY_TOPIC_ID": "architecture_training",
+            "MATCHED_TOPIC_IDS": [
+                "architecture_training"
+            ],
+            "TOPIC_MATCH_COMMENT": "Qualifies through the explicit judge-reliability audit exception; architecture_training is a required proxy because the registry has no audit topic.",
+            "HOTSPOTSPOT_PAPER_TAGS": [],
+            "HOTSPOT_PAPER_COMMENT": "Broadly important today and potentially frontier-opening: Shows that identical judge panels yield different human-equivalent sizes when matching diversity versus distributional accuracy.",
+            "SCORE": 18,
+            "READ_SCORE": 17.0,
+            "authors": [
+                "Chao Li",
+                "Yingying Yu",
+                "Yunfeng Li"
+            ],
+            "title": "How Many Humans Is a Judge Panel Worth?",
+            "abstract": "How many human judgments does a panel of language models represent? The answer depends on what is matched. We audit categorical judge panels against empirical human label distributions, retaining disagreement that binary errors relative to one gold label collapse. We measure spectral residual diversity by matching the participation ratio of a normalized residual Gram matrix to conditionally independent human-reference draws, giving nu_H. We separately match distributional squared error, giving nu_MSE. Across three ChaosNLI tasks, the same 32-judge panels have nu_H=4.24--6.50 but nu_MSE=2.30--3.75. A spectral identity separates the eigenvalues, member energies, and averaging-direction weights that determine error. Realizable hard-label panels show that greater spectral diversity can accompany worse distribution recovery even with equal member energies and nonnegative correlations. In the observed panels, within-size ranking agreement varies sharply by task; some member additions produce conflicting changes that persist across two item halves. The consensus-direction share of centered residual variance is gamma_co=43.8% on MNLI-m and 33.7% on SNLI, quantifying shared variation retained by averaging. We provide aligned votes and analysis protocols for auditing these distinctions. Effective size is therefore a target-specific measurement: spectral diversity and distribution recovery should not be treated as interchangeable measures of panel quality or as general human-replacement rates.",
+            "arxiv_id": "2609.21277",
+            "PRIMARY_TOPIC_LABEL": "Architecture and Training Dynamics",
+            "MATCHED_TOPIC_LABELS": [
+                "Architecture and Training Dynamics"
+            ],
+            "TOPIC_ASSIGNMENT_SOURCE": "llm_exact",
+            "HOTSPOT_PAPER_TAGS": [
+                "new_frontier",
+                "daily_hot"
+            ],
+            "HOTSPOT_PAPER_LABELS": [
+                "New Frontier Papers",
+                "Daily Hot Papers"
+            ],
+            "HOTSPOT_PAPER_PRIMARY_KIND": "new_frontier",
+            "HOTSPOT_PAPER_PRIMARY_LABEL": "New Frontier Papers",
+            "HOTSPOT_PAPER_ASSIGNMENT_SOURCE": "heuristic"
+        },
+        "2609.21346": {
+            "ARXIVID": "2609.21346",
+            "COMMENT": "Decouples full expert participation from sparse execution and a codebook-fixed number of materialized blocks.",
+            "RELEVANCE": 8,
+            "NOVELTY": 9,
+            "EVIDENCE": 4,
+            "LOAD": 6,
+            "PROXIMITY": 8,
+            "PRIMARY_TOPIC_ID": "moe_training",
+            "MATCHED_TOPIC_IDS": [
+                "moe_training"
+            ],
+            "TOPIC_MATCH_COMMENT": "Expert composition opens a structural MoE design axis. Evidence centers on vision and recommendation; language-model experiments are supplementary and their scale is unspecified.",
+            "HOTSPOT_PAPER_TAGS": [
+                "new_frontier"
+            ],
+            "HOTSPOT_PAPER_COMMENT": "Potentially frontier-opening: Decouples full expert participation from sparse execution and a codebook-fixed number of materialized blocks.",
+            "SCORE": 17,
+            "READ_SCORE": 17.0,
+            "authors": [
+                "Ran Cheng",
+                "Longfei Xu",
+                "Zheng Liu",
+                "Kaikui Liu",
+                "Xiangxiang Chu"
+            ],
+            "title": "IntBMoE: Integrating Block-Level Conditioning into Expert Composition for Full-Participation Mixture-of-Experts",
+            "abstract": "Mixture-of-Experts (MoE) scales capacity, but existing designs cannot set three quantities independently. For a single token, participation is how many experts contribute knowledge to its output, execution is how many are actually computed (compute cost), and materialization is how many expert-sized parameter sets must be built and stored (memory cost). Sparse routing keeps execution and materialization low, but shrinks participation: for each token, only a few experts contribute. Dense output-mixing restores full participation, but its execution grows with the number of experts. Parameter-merging keeps execution at one expert, but its materialization grows with the number of routing decisions. We propose IntBMoE, a block-conditioned MoE that decouples all three by pairing dense expert composition with sparse block execution. Its blocks come from a small learned codebook, one per entry. At each internal layer, a lightweight hypernetwork merges all expert bases in that layer's pool into one composed expert. Participation is full, because every composed expert draws on the entire pool. Execution stays sparse, because a router sends each token to only a few blocks. Materialization is bounded, because the codebook, not the input, fixes how many blocks exist. Dual-Path Residual Gating (DPRG) further couples two independently composed paths through multiplicative gating. Experiments on image classification show consistent gains over representative sparse and dense MoE baselines. Additional experiments on language modeling and sequential recommendation validate its generalization beyond vision. IntBMoE is fully deployed in AMap's generative recommendation system, serving hundreds of millions of users under a 60ms latency budget, with a 2.4% relative UVCTR gain in online A/B testing. Our code is available at https://github.com/AMAP-ML/DreamX-Rec/.",
+            "arxiv_id": "2609.21346",
+            "PRIMARY_TOPIC_LABEL": "MoE Where It Changes the Design Space",
+            "MATCHED_TOPIC_LABELS": [
+                "MoE Where It Changes the Design Space"
+            ],
+            "TOPIC_ASSIGNMENT_SOURCE": "llm_exact",
+            "HOTSPOT_PAPER_LABELS": [
+                "New Frontier Papers"
+            ],
+            "HOTSPOT_PAPER_PRIMARY_KIND": "new_frontier",
+            "HOTSPOT_PAPER_PRIMARY_LABEL": "New Frontier Papers",
+            "HOTSPOT_PAPER_ASSIGNMENT_SOURCE": "heuristic"
+        },
+        "2609.21039": {
+            "ARXIVID": "2609.21039",
+            "COMMENT": "Constrains one matrix factor to prevent gauge-driven factor blow-up while retaining AdamW's diagonal preconditioning.",
+            "RELEVANCE": 10,
+            "NOVELTY": 8,
+            "EVIDENCE": 8,
+            "LOAD": 8,
+            "PROXIMITY": 10,
+            "PRIMARY_TOPIC_ID": "architecture_training",
+            "MATCHED_TOPIC_IDS": [
+                "architecture_training"
+            ],
+            "TOPIC_MATCH_COMMENT": "Changes the optimizer and parameter geometry of linear factorization blocks, with full GPT2 pretraining evidence beyond adapter fine-tuning.",
+            "HOTSPOT_PAPER_TAGS": [
+                "daily_hot"
+            ],
+            "HOTSPOT_PAPER_COMMENT": "Broadly important today: Constrains one matrix factor to prevent gauge-driven factor blow-up while retaining AdamW's diagonal preconditioning.",
+            "SCORE": 18,
+            "READ_SCORE": 24.0,
+            "authors": [
+                "Emanuele Zangrando",
+                "Marco Sutti",
+                "Francesco Tudisco"
+            ],
+            "title": "Stiefel-AdamW: Geometry-Aware AdamW for Linear Factorization Blocks",
+            "abstract": "A pervasive structural pattern in modern deep learning is the linear factorization block: a submodule of the form $W = BA$ in which two parameter matrices are multiplied directly, with no intervening nonlinearity. Such blocks appear in LoRA adapters, low-rank compressed layers, query-key products of self-attention, and share a common pathology: the factorization is non-unique, which can destabilize training and limit usable learning rates. Despite this, factorization blocks are typically optimized with standard Euclidean methods that ignore the underlying geometry. We introduce Stiefel-AdamW, a near drop-in replacement for AdamW for use wherever such blocks appear. By constraining one factor on the Stiefel manifold while leaving the other Euclidean, Stiefel-AdamW relaxes the full $\\mathrm{GL}(\\mathbb{R}^r)$ gauge symmetry to a compact orthogonal symmetry, ruling out factor blow-up while retaining the coordinate-wise diagonal preconditioning that gives AdamW its practical strength. Moment estimation is performed in the ambient Euclidean space, with geometry entering only through a tangent-space projection and a manifold retraction. The implementation overhead over AdamW is minimal, and we show that the resulting optimizer inherits both the stability benefits of Riemannian methods and standard convergence guarantees. We validate Stiefel-AdamW on LoRA-style fine-tuning of GPT2, ViT, and Mistral 7B and on full pretraining of GPT2 on OpenWebText, showing consistent improvements over strong baselines at essentially no additional cost over AdamW.",
+            "arxiv_id": "2609.21039",
+            "PRIMARY_TOPIC_LABEL": "Architecture and Training Dynamics",
+            "MATCHED_TOPIC_LABELS": [
+                "Architecture and Training Dynamics"
+            ],
+            "TOPIC_ASSIGNMENT_SOURCE": "llm_exact",
+            "HOTSPOT_PAPER_LABELS": [
+                "Daily Hot Papers"
+            ],
+            "HOTSPOT_PAPER_PRIMARY_KIND": "daily_hot",
+            "HOTSPOT_PAPER_PRIMARY_LABEL": "Daily Hot Papers",
+            "HOTSPOT_PAPER_ASSIGNMENT_SOURCE": "heuristic"
+        },
+        "2609.21058": {
+            "ARXIVID": "2609.21058",
+            "COMMENT": "Shows that KernelBench correctness checks can accept zero outputs and reward incomplete kernels with extreme apparent speedups.",
+            "RELEVANCE": 8,
+            "NOVELTY": 7,
+            "EVIDENCE": 9,
+            "LOAD": 3,
+            "PROXIMITY": 3,
+            "PRIMARY_TOPIC_ID": "efficiency_scaling",
+            "MATCHED_TOPIC_IDS": [
+                "efficiency_scaling"
+            ],
+            "TOPIC_MATCH_COMMENT": "Retained under the benchmark-validity exception. Efficiency is the nearest registry category because the audit examines kernel correctness and speedup claims.",
+            "HOTSPOT_PAPER_TAGS": [
+                "daily_hot"
+            ],
+            "HOTSPOT_PAPER_COMMENT": "Concrete false-positive correctness checks and workload-level limits challenge widely reported AI-generated kernel speedups; the paper releases 879 evaluations.",
+            "SCORE": 15,
+            "READ_SCORE": 18.5,
+            "authors": [
+                "Gaurav Agarwal",
+                "Ashish Garg",
+                "Isha Singhal"
+            ],
+            "title": "How Much of a Real Workload Can LLM-Generated GPU Kernels Actually Reach?",
+            "abstract": "Language models can now write GPU kernels that outperform PyTorch. We evaluate five model configurations on KernelBench level 1 and find that a frontier model produces correct kernels for 91.1% of problems and independently verified speedups on 22 of 56, including three convolutions, with a median of 1.235x. Open-weights models are far behind: the best reaches 30.4% correct with three verified speedups and solves zero convolutions.   We then ask a question the literature does not: what fraction of a real model's wall clock do such kernels govern? Profiling seven workloads across three domains, we find the addressable fraction ranges from 8.9% to 58.2%. On transformers, 80-86% of runtime is spent in cuBLAS GEMM and FlashAttention, bounding realistic end-to-end improvement at roughly 1%, and the fraction shrinks with model scale. On recommenders it is 58.2%, concentrated in a single embedding kernel. We introduce DLRM-Bench, 12 recommender kernel problems in KernelBench format, and measure a 41.7% win rate at a 1.552x median there, projecting 8.63% end-to-end.   Separately, we show that KernelBench's correctness check (torch.allclose with an absolute tolerance) is satisfied by a tensor of zeros on 4 of 60 level-1 problems. Two kernels in our own results exploited this before we detected them, including one scored at 283x that wrote 0.3% of its output buffer. We propose scale-invariant replacements and release all 879 evaluations.",
+            "arxiv_id": "2609.21058",
+            "PRIMARY_TOPIC_LABEL": "Efficiency, Compression, and Large-Scale Training",
+            "MATCHED_TOPIC_LABELS": [
+                "Efficiency, Compression, and Large-Scale Training"
+            ],
+            "TOPIC_ASSIGNMENT_SOURCE": "llm_exact",
+            "HOTSPOT_PAPER_LABELS": [
+                "Daily Hot Papers"
+            ],
+            "HOTSPOT_PAPER_PRIMARY_KIND": "daily_hot",
+            "HOTSPOT_PAPER_PRIMARY_LABEL": "Daily Hot Papers",
+            "HOTSPOT_PAPER_ASSIGNMENT_SOURCE": "llm_exact"
+        }
+    },
+    "sections": [
+        {
+            "kind": "new_frontier",
+            "label": "New Frontier Papers",
+            "description": "Papers that appear to open a genuinely new direction, paradigm, or field.",
+            "paper_ids": [
+                "2609.22005",
+                "2609.21277",
+                "2609.21346"
+            ]
+        },
+        {
+            "kind": "daily_hot",
+            "label": "Daily Hot Papers",
+            "description": "Papers that feel broadly important to the day and belong in the hotspot paper feed.",
+            "paper_ids": [
+                "2609.21039",
+                "2609.21058"
+            ]
+        }
+    ]
+}
