@@ -112,7 +112,12 @@ then
 fi
 
 say "7/7 scheduling ($SCHEDULER)"
-chmod +x deploy/*.sh
+# The scripts are executable in the repository, so no chmod here. Doing it
+# anyway changed a tracked file mode and left the checkout permanently dirty,
+# which this installer survives -- it updates with `git reset --hard` -- but
+# any ordinary `git pull` on the host then aborts with "local changes would be
+# overwritten". A deployment that cannot be updated by hand is a deployment
+# nobody will update.
 case "$SCHEDULER" in
   systemd)
     sed -e "s#@TARGET@#$TARGET#g" -e "s#@SLOT@#$SLOT_UTC#g" \

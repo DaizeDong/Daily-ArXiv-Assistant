@@ -176,6 +176,36 @@ class DeployScriptTests(unittest.TestCase):
                       "the backend is pinned but never re-read, so the "
                       "selftest does not exercise it")
 
+    def test_the_scripts_are_executable_in_the_repository(self):
+        # Otherwise the installer has to chmod them, which changes a tracked
+        # file mode and leaves the checkout permanently dirty. The installer
+        # survives that -- it updates with `git reset --hard` -- but any
+        # ordinary `git pull` on the host then aborts with "local changes would
+        # be overwritten", which is how this was found.
+        import subprocess
+
+        out = subprocess.run(["git", "ls-files", "-s", "deploy/"],
+                             capture_output=True, text=True, cwd=str(REPO_ROOT))
+        modes = {}
+        for line in out.stdout.splitlines():
+            parts = line.split()
+            if len(parts) >= 4:
+                modes[parts[3]] = parts[0]
+        for name in self.SCRIPTS:
+            path = f"deploy/{name}"
+            with self.subTest(script=name):
+                self.assertEqual(
+                    modes.get(path), "100755",
+                    "%s is not executable in git, so the installer must chmod "
+                    "it and dirty the checkout" % path)
+
+    def test_the_installer_does_not_chmod_tracked_files(self):
+        text = (DEPLOY / "install.sh").read_text(encoding="utf-8")
+        code = "\n".join(l for l in text.splitlines()
+                         if not l.lstrip().startswith("#"))
+        self.assertNotIn("chmod +x deploy/", code,
+                         "the installer dirties tracked file modes")
+
     def test_publishing_prefers_a_key_scoped_to_one_repository(self):
         # A classic PAT with `repo` is read/write on every repository the
         # account can reach, and `workflow` can rewrite CI. The first host this
