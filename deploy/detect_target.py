@@ -26,6 +26,57 @@ CRON = "cron"
 LOOP = "loop"
 
 
+#: The oldest interpreter this code actually runs on. `from datetime import
+#: UTC` appears in eight modules and arrived in 3.11; CI runs 3.12. A host with
+#: 3.10 imports fine right up to the first of those modules, which is not
+#: necessarily on the installer's selftest path -- so without this check the
+#: install reports success and the nightly run is the thing that fails.
+MIN_PYTHON = (3, 11)
+
+#: Interpreters to try, best first. A distribution's `python3` is often older
+#: than a version-suffixed one installed alongside it.
+PYTHON_NAMES = ("python3.13", "python3.12", "python3.11", "python3", "python")
+
+
+def _version_of(executable: str, runner=None) -> tuple[int, int] | None:
+    """Ask the interpreter its version. Asking is the point: the NAME lies.
+
+    python3.12 can be a symlink to something else, and `python3` on one host is
+    3.10 while on the next it is 3.13.
+    """
+    import subprocess
+
+    run = runner or subprocess.run
+    try:
+        out = run([executable, "-c",
+                   "import sys;print('%d.%d' % sys.version_info[:2])"],
+                  capture_output=True, text=True, timeout=30)
+    except Exception:  # noqa: BLE001 - an interpreter that will not run is absent
+        return None
+    if getattr(out, "returncode", 1) != 0:
+        return None
+    try:
+        major, minor = (out.stdout or "").strip().split(".")[:2]
+        return int(major), int(minor)
+    except ValueError:
+        return None
+
+
+def find_python(which=shutil.which, runner=None) -> tuple[str, tuple[int, int]] | None:
+    """The best interpreter on this host that is new enough, or None."""
+    best: tuple[str, tuple[int, int]] | None = None
+    for name in PYTHON_NAMES:
+        path = which(name)
+        if not path:
+            continue
+        version = _version_of(path, runner)
+        if version is None or version < MIN_PYTHON:
+            continue
+        if best is None or version > best[1]:
+            best = (path, version)
+    return best
+
+
 def _pid1_comm(proc_root: Path) -> str:
     try:
         return (proc_root / "1" / "comm").read_text(encoding="utf-8").strip()
@@ -76,23 +127,31 @@ def detect_backend(which=shutil.which, environ=os.environ) -> str:
     return "none"
 
 
-def report(which=shutil.which, proc_root: Path = Path("/proc"), environ=os.environ) -> dict:
+def report(which=shutil.which, proc_root: Path = Path("/proc"), environ=os.environ,
+           runner=None) -> dict:
     scheduler = detect_scheduler(which, proc_root)
     backend = detect_backend(which, environ)
+    python = find_python(which, runner)
     return {
         "scheduler": scheduler,
         "backend": backend,
         "pid1": _pid1_comm(proc_root),
-        "python": which("python3") or which("python") or "",
+        "python": python[0] if python else "",
+        "python_version": "%d.%d" % python[1] if python else "",
         "git": which("git") or "",
-        "blockers": _blockers(which, backend),
+        "blockers": _blockers(which, backend, python),
     }
 
 
-def _blockers(which, backend: str) -> list[str]:
+def _blockers(which, backend: str, python=None) -> list[str]:
     out = []
-    if not (which("python3") or which("python")):
-        out.append("no python3 on PATH")
+    if python is None:
+        want = "%d.%d" % MIN_PYTHON
+        if which("python3") or which("python"):
+            out.append("python is present but older than %s; this code uses "
+                       "datetime.UTC, which arrived in %s" % (want, want))
+        else:
+            out.append("no python on PATH (need %s or newer)" % want)
     if not which("git"):
         out.append("no git on PATH")
     if backend == "none":
@@ -111,7 +170,7 @@ def main() -> int:
     if args.json:
         print(json.dumps(data))
     else:
-        for key in ("scheduler", "backend", "pid1", "python", "git"):
+        for key in ("scheduler", "backend", "pid1", "python", "python_version", "git"):
             print(f"{key:<10}: {data[key] or '(none)'}")
         for b in data["blockers"]:
             print(f"BLOCKER   : {b}")

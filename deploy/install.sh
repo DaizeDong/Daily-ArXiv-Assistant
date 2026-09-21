@@ -67,13 +67,22 @@ fi
 set -a; . "$ENV_FILE"; set +a
 
 say "3/7 what this host can do"
+# Bootstrap with whatever python exists, only to RUN detection. Detection then
+# names the interpreter the venv is built from, which is not the same thing: a
+# distribution's `python3` is 3.10 on Ubuntu 22.04 while python3.12 sits beside
+# it, and this code needs 3.11 for datetime.UTC.
 PY0="$(command -v python3 || command -v python)"
+[ -n "$PY0" ] || { echo "no python at all on PATH" >&2; exit 1; }
 "$PY0" deploy/detect_target.py || {
   echo "refusing to install: the blockers above have to be fixed first" >&2
   exit 1
 }
-SCHEDULER="$("$PY0" -c "import json,subprocess,sys; print(json.loads(subprocess.run([sys.executable,'deploy/detect_target.py','--json'],capture_output=True,text=True).stdout)['scheduler'])")"
-BACKEND="$("$PY0" -c "import json,subprocess,sys; print(json.loads(subprocess.run([sys.executable,'deploy/detect_target.py','--json'],capture_output=True,text=True).stdout)['backend'])")"
+REPORT="$("$PY0" deploy/detect_target.py --json)"
+field() { printf '%s' "$REPORT" | "$PY0" -c "import json,sys; print(json.load(sys.stdin)['$1'])"; }
+SCHEDULER="$(field scheduler)"
+BACKEND="$(field backend)"
+PY_BOOT="$(field python)"
+echo "interpreter   : $PY_BOOT ($(field python_version))"
 
 say "4/7 pinning the backend"
 # The gateway's `auto` resolves to llmcall whenever the PACKAGE imports, and
@@ -88,7 +97,10 @@ set -a; . "$ENV_FILE"; set +a
 echo "backend pinned: ${ARXIV_ASSISTANT_LLM_BACKEND:-unset}"
 
 say "5/7 python environment"
-[ -d .venv ] || "$PY0" -m venv .venv
+# Built from the interpreter DETECTION chose, not from whichever python
+# happened to run this script. On Ubuntu 22.04 those differ: `python3` is 3.10
+# and this code needs 3.11.
+[ -d .venv ] || "$PY_BOOT" -m venv .venv
 PY="$TARGET/.venv/bin/python"
 "$PY" -m pip install --quiet --upgrade pip
 "$PY" -m pip install --quiet -r requirements.txt

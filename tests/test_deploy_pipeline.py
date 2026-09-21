@@ -73,6 +73,62 @@ class SchedulerDetectionTests(unittest.TestCase):
             self.assertEqual(dt.detect_scheduler(fake_which(), proc), dt.LOOP)
 
 
+def fake_runner(versions):
+    """A subprocess.run that answers with the version mapped to each path."""
+    class Result:
+        def __init__(self, stdout, returncode=0):
+            self.stdout = stdout
+            self.returncode = returncode
+
+    def run(argv, **_):
+        path = argv[0]
+        if path not in versions:
+            return Result("", 1)
+        return Result(versions[path] + "\n")
+    return run
+
+
+class PythonVersionTests(unittest.TestCase):
+    def test_python3_being_present_is_not_enough(self):
+        # Ubuntu 22.04's python3 is 3.10. This code imports datetime.UTC in
+        # eight modules, which arrived in 3.11, and that import is not
+        # necessarily on the installer's selftest path -- so the install
+        # reports success and the nightly run is what fails.
+        data = dt.report(fake_which("python3", "git", "claude"),
+                         Path("/nonexistent"), {},
+                         fake_runner({"/usr/bin/python3": "3.10"}))
+        self.assertEqual(data["python"], "")
+        self.assertTrue(any("older than" in b for b in data["blockers"]),
+                        "a too-old interpreter was accepted: %r" % (data,))
+
+    def test_the_newest_suitable_interpreter_wins(self):
+        # A distribution ships python3 = 3.10 and python3.12 beside it. Taking
+        # `python3` because it is the conventional name builds the venv on the
+        # one that cannot run the code.
+        got = dt.find_python(
+            fake_which("python3", "python3.12"),
+            fake_runner({"/usr/bin/python3": "3.10", "/usr/bin/python3.12": "3.12"}))
+        self.assertEqual(got, ("/usr/bin/python3.12", (3, 12)))
+
+    def test_the_version_is_asked_for_not_read_off_the_name(self):
+        # python3.12 can be a symlink to anything. The name is a claim; the
+        # interpreter is the authority.
+        got = dt.find_python(fake_which("python3.12"),
+                             fake_runner({"/usr/bin/python3.12": "3.9"}))
+        self.assertIsNone(got, "a mislabelled interpreter was trusted")
+
+    def test_an_interpreter_that_will_not_run_is_absent(self):
+        # WindowsApps ships execution aliases that resolve on PATH and then do
+        # nothing at all.
+        got = dt.find_python(fake_which("python3"), fake_runner({}))
+        self.assertIsNone(got)
+
+    def test_no_python_at_all_says_so_differently(self):
+        data = dt.report(fake_which("git", "claude"), Path("/nonexistent"), {},
+                         fake_runner({}))
+        self.assertTrue(any("no python on PATH" in b for b in data["blockers"]))
+
+
 class BackendDetectionTests(unittest.TestCase):
     def test_importability_is_not_availability(self):
         # llmcall imports on any host with pip, then shells out to provider
@@ -106,8 +162,10 @@ class BackendDetectionTests(unittest.TestCase):
                         "a host that cannot reach a model was not flagged")
 
     def test_missing_python_or_git_is_a_blocker(self):
-        data = dt.report(fake_which("claude"), Path("/nonexistent"), {})
-        self.assertTrue(any("python3" in b for b in data["blockers"]))
+        data = dt.report(fake_which("claude"), Path("/nonexistent"), {},
+                         fake_runner({}))
+        self.assertTrue(any("python" in b for b in data["blockers"]),
+                        "a host with no interpreter was not flagged")
         self.assertTrue(any("git" in b for b in data["blockers"]))
 
 
