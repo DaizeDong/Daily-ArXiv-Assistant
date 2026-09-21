@@ -1,0 +1,20 @@
+[Unit]
+Description=Daily AI hotspot generation
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+WorkingDirectory=@TARGET@
+# Secrets live beside the checkout, readable only by the installing user, and
+# never in the repository.
+EnvironmentFile=@TARGET@/deploy-state/hotspot.env
+Environment=REPO=@TARGET@
+ExecStart=@TARGET@/deploy/run_once.sh
+# Bounded: the generator is idempotent and resumes, so a hung run is better
+# killed than left holding the slot.
+TimeoutStartSec=3600
+Nice=10
+
+[Install]
+WantedBy=multi-user.target

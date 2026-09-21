@@ -1,0 +1,12 @@
+[Unit]
+Description=Daily AI hotspot generation at @SLOT@ UTC
+
+[Timer]
+OnCalendar=*-*-* @SLOT@:00 UTC
+# If the host was down at the slot, run at next boot rather than skipping the
+# day: the generator is idempotent, so a late run is strictly better than none.
+Persistent=true
+AccuracySec=1min
+
+[Install]
+WantedBy=timers.target
