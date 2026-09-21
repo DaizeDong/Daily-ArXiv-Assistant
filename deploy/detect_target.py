@@ -65,7 +65,13 @@ def detect_backend(which=shutil.which, environ=os.environ) -> str:
     # say so with ARXIV_ASSISTANT_LLM_BACKEND in the env file.
     if which("codexg") or which("codex") or which("claude"):
         return "auto"
-    if environ.get("OPENAI_API_KEY") and environ.get("OPENAI_BASE_URL"):
+    # Either credential shape counts. A gateway does not have to accept the
+    # SDK's Authorization: Bearer -- the one this was built against is Azure
+    # API Management, which wants Ocp-Apim-Subscription-Key and has no API key
+    # at all. Requiring OPENAI_API_KEY would report "no model transport" on a
+    # host that reaches a model perfectly well, and block its own install.
+    has_auth = bool(environ.get("OPENAI_API_KEY") or environ.get("OPENAI_EXTRA_HEADERS"))
+    if has_auth and environ.get("OPENAI_BASE_URL"):
         return "openai"
     return "none"
 
@@ -91,7 +97,8 @@ def _blockers(which, backend: str) -> list[str]:
         out.append("no git on PATH")
     if backend == "none":
         out.append("no model transport: install a provider CLI, or set "
-                   "OPENAI_API_KEY and OPENAI_BASE_URL")
+                   "OPENAI_BASE_URL plus either OPENAI_API_KEY or "
+                   "OPENAI_EXTRA_HEADERS")
     return out
 
 
