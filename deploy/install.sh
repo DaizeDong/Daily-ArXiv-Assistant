@@ -105,7 +105,7 @@ PY="$TARGET/.venv/bin/python"
 "$PY" -m pip install --quiet --upgrade pip
 "$PY" -m pip install --quiet -r requirements.txt
 
-say "6/7 proving the model transport answers"
+say "6/8 proving the model transport answers"
 if ! "$PY" - <<'PY'
 import sys
 from arxiv_assistant.utils import llm_gateway
@@ -123,7 +123,23 @@ then
   exit 1
 fi
 
-say "7/7 scheduling ($SCHEDULER)"
+say "7/8 proving the publish path works"
+# The model selftest above only proves this host can THINK. A host that
+# generates perfectly and cannot push produces nothing anyone will ever see,
+# and it fails in the direction that looks like working: run_once.sh records
+# generate ok, the payload appears on disk, and only the publish field says
+# otherwise. That is how seven backfilled days were generated on a container
+# whose `ssh` a restart had removed.
+if [ -z "${GIT_PUSH_SSH_KEY:-}${GIT_PUSH_TOKEN:-}" ]; then
+  echo "no push credential configured; this host will generate but not publish."
+  echo "set GIT_PUSH_SSH_KEY or GIT_PUSH_TOKEN in $ENV_FILE to change that."
+elif ! "$TARGET/deploy/publish.sh" --check; then
+  echo "refusing to report success: the host cannot publish what it generates." >&2
+  echo "Fix the credential in $ENV_FILE and re-run; nothing was scheduled." >&2
+  exit 1
+fi
+
+say "8/8 scheduling ($SCHEDULER)"
 # The scripts are executable in the repository, so no chmod here. Doing it
 # anyway changed a tracked file mode and left the checkout permanently dirty,
 # which this installer survives -- it updates with `git reset --hard` -- but
