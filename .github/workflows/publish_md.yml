@@ -12,6 +12,13 @@ on:
         required: false
         type: boolean
         default: true
+  # Independent of the paper chain on purpose. Hotspots are generated off-site
+  # and pushed straight to auto_update with [skip ci], so nothing about that
+  # push triggers a build. Without this the site only rebuilds when the paper
+  # pipeline succeeds -- and arXiv announces nothing at weekends, so Saturday
+  # and Sunday hotspots would sit on the branch unseen until Monday.
+  schedule:
+    - cron: '0 6 * * *'   # after the 05:00 UTC hotspot slot
   workflow_run:
     workflows: [ "Push Generated Results" ]
     types:

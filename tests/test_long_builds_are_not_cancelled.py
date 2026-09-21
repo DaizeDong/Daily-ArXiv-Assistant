@@ -49,6 +49,19 @@ class LongBuildsAreNotCancelledTests(unittest.TestCase):
                     "which reads like nothing went wrong." % name,
                 )
 
+    def test_the_site_can_rebuild_without_the_paper_pipeline(self):
+        # Hotspots are generated off-site and pushed to auto_update with
+        # [skip ci], so that push triggers nothing. If the only other trigger
+        # is the paper chain, the site rebuilds only on days arXiv announces --
+        # and it announces nothing at weekends, so Saturday and Sunday hotspots
+        # would sit on the branch until Monday.
+        text = (WORKFLOW_DIR / "publish_md.yml").read_text(encoding="utf-8")
+        on_block = text.split("\njobs:", 1)[0]
+        self.assertIn("schedule:", on_block,
+                      "the published site has no trigger of its own")
+        self.assertRegex(on_block, r"cron:\s*'[^']+'",
+                         "the schedule names no time")
+
     def test_tar_writing_a_windows_path_forces_local(self):
         # These jobs run on Windows runners, where RUNNER_TEMP is an absolute
         # path starting with a drive letter. GNU tar reads the "C:" in it as the
