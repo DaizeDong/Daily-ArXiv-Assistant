@@ -1,0 +1,2732 @@
+{
+  "schema_version": 1,
+  "meta": {
+    "date": "2026-09-16",
+    "month": "2026-09",
+    "year": "2026",
+    "generated_at": "2026-09-21T21:40:31.366907+00:00",
+    "mode": "openai",
+    "summary": "• [Product Release] Tencent Hunyuan released Simple-Attention-Sparsification — This product release surfaced across 1 independent source(s).\n• [Industry Update] Cohere & Aleph Alpha : IA sous votre contrôle transatlantique | Cohere — This industry move surfaced across 1 independent source(s).\n• [Product Release] Mistral and Mozilla are bringing open, private and multilingual AI to your web browser — This product release surfaced across 1 independent source(s).",
+    "previous_date": "2026-09-15",
+    "next_date": "2026-09-17",
+    "paper_routes": {
+      "home": "../../",
+      "day": null,
+      "month": null,
+      "year": null
+    },
+    "counts": {
+      "featured_topics": 3,
+      "topic_summary": 1,
+      "category_radar": 16,
+      "long_tail": 8,
+      "paper_spotlight": 3,
+      "x_buzz": 5,
+      "watchlist": 0,
+      "source_items": 33,
+      "resurgence": 0
+    }
+  },
+  "totals": {
+    "raw_items": 86,
+    "enriched_items": 0,
+    "stories": 0,
+    "featured": 3,
+    "watchlist": 0,
+    "category_topics": 16,
+    "long_tail_topics": 8,
+    "paper_spotlight_items": 6
+  },
+  "costs": {
+    "prompt": 0.0,
+    "completion": 0.0,
+    "total": 0.0
+  },
+  "usage": {
+    "llm": {
+      "provider": "openai",
+      "backend": "openai",
+      "billing_model": "quota",
+      "screen_model": "gpt-5.6",
+      "summary_model": "gpt-5.6",
+      "requests": 0,
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0,
+      "prompt_cost": 0.0,
+      "completion_cost": 0.0,
+      "total_cost": 0.0
+    },
+    "external": {
+      "ainews": {
+        "provider": "AINews RSS",
+        "billing_model": "free",
+        "requests": 1,
+        "items": 0,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "analysis_feeds": {
+        "provider": "Analysis RSS feeds",
+        "billing_model": "free",
+        "requests": 13,
+        "items": 9,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "github_trend": {
+        "provider": "GitHub API",
+        "billing_model": "free",
+        "requests": 2,
+        "items": 15,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "hf_papers": {
+        "provider": "Hugging Face",
+        "billing_model": "free",
+        "requests": 1,
+        "items": 12,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "hn_discussion": {
+        "provider": "Hacker News API",
+        "billing_model": "free",
+        "requests": 6,
+        "items": 14,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "local_papers": {
+        "provider": "Local cache",
+        "billing_model": "local",
+        "requests": 0,
+        "items": 0,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "model_hubs": {
+        "provider": "Hugging Face model index",
+        "billing_model": "free",
+        "requests": 20,
+        "items": 6,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "official_blogs": {
+        "provider": "Official blogs",
+        "billing_model": "free",
+        "requests": 38,
+        "items": 40,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "reddit": {
+        "provider": "Reddit JSON API",
+        "billing_model": "free",
+        "requests": 0,
+        "items": 0,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "roundup_sites": {
+        "provider": "Roundup sites",
+        "billing_model": "free",
+        "requests": 8,
+        "items": 13,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "x_ainews_twitter": {
+        "provider": "AINews Twitter recap",
+        "billing_model": "free",
+        "requests": 1,
+        "items": 0,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "x_twitterapi": {
+        "provider": "twitterapi.io",
+        "billing_model": "metered",
+        "requests": 0,
+        "items": 0,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      }
+    },
+    "summary": {
+      "external_requests": 90,
+      "x_requests": 1,
+      "estimated_external_cost": 0.0
+    }
+  },
+  "source_stats": {
+    "ainews": 0,
+    "analysis_feeds": 9,
+    "github_trend": 15,
+    "hf_papers": 12,
+    "hn_discussion": 14,
+    "local_papers": 0,
+    "model_hubs": 6,
+    "official_blogs": 40,
+    "reddit": 0,
+    "roundup_sites": 13,
+    "x_ainews_twitter": 0,
+    "x_twitterapi": 0
+  },
+  "source_section_counts": {
+    "official": 10,
+    "market-signals": 0,
+    "analysis": 8,
+    "papers": 3,
+    "github": 6,
+    "industry": 6
+  },
+  "source_sections": [
+    {
+      "slug": "official",
+      "label": "Official Updates",
+      "description": "Product, research, and platform updates from official vendor or lab channels.",
+      "count": 10,
+      "section_score": 13.358,
+      "items": [
+        {
+          "id": "deepmind_blog-2f92a8ca47fb",
+          "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+          "summary_short": "Google DeepMind announced Gemini 3.8 Live and Gemini 3.8 Live Extended Thinking. The supplied item provides no capability, pricing, or availability details",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking",
+          "canonical_url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking",
+          "source_id": "deepmind_blog",
+          "source_name": "DeepMind Blog",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "source_family": "official",
+          "published_at": "Tue, 15 Sep 2026 17:05:57 +0000",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 8.185,
+          "topic_refs": [
+            {
+              "topic_id": "71e11f0275a9",
+              "slug": "introducing-gemini-3-8-live-and-3-8-live-extended-thinking",
+              "headline": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+              "daily_route": "/hot/2026-09-16/topic/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "cohere_blog-479e0b40a68c",
+          "title": "Cohere & Aleph Alpha: Transatlantische Souveränität in KI | Cohere",
+          "summary_short": "Cohere und Aleph Alpha gründen das erste transatlantische Unternehmen für souveräne KI mit Hauptsitzen in Berlin und Toronto – für sichere und kontrollierbare KI-Lösungen",
+          "url": "https://cohere.com/de/blog/cohere-and-aleph-alpha-sign-agreement",
+          "canonical_url": "https://cohere.com/de/blog/cohere-and-aleph-alpha-sign-agreement",
+          "source_id": "cohere_blog",
+          "source_name": "Cohere Blog",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "source_family": "official",
+          "published_at": "2026-09-16T00:00:00+00:00",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 7.496,
+          "topic_refs": [
+            {
+              "topic_id": "9af22a03e183",
+              "slug": "cohere-aleph-alpha-ia-sous-votre-contr-le-transatlantique-cohere",
+              "headline": "Cohere & Aleph Alpha : IA sous votre contrôle transatlantique | Cohere",
+              "daily_route": "/hot/2026-09-16/topic/cohere-aleph-alpha-ia-sous-votre-contr-le-transatlantique-cohere/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "cohere_blog-140316c37846",
+          "title": "Cohere & Aleph Alpha: Transatlantic Sovereign AI | Cohere",
+          "summary_short": "Cohere and Aleph Alpha partner to launch the first transatlantic sovereign AI solution with dual headquarters in Berlin and Toronto, providing secure and governable AI",
+          "url": "https://cohere.com/blog/cohere-and-aleph-alpha-sign-agreement",
+          "canonical_url": "https://cohere.com/blog/cohere-and-aleph-alpha-sign-agreement",
+          "source_id": "cohere_blog",
+          "source_name": "Cohere Blog",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "source_family": "official",
+          "published_at": "2026-09-16T00:00:00+00:00",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 7.496,
+          "topic_refs": [
+            {
+              "topic_id": "9af22a03e183",
+              "slug": "cohere-aleph-alpha-ia-sous-votre-contr-le-transatlantique-cohere",
+              "headline": "Cohere & Aleph Alpha : IA sous votre contrôle transatlantique | Cohere",
+              "daily_route": "/hot/2026-09-16/topic/cohere-aleph-alpha-ia-sous-votre-contr-le-transatlantique-cohere/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "cohere_blog-855b19a68244",
+          "title": "Cohere & Aleph Alpha : IA sous votre contrôle transatlantique | Cohere",
+          "summary_short": "Cohere and Aleph Alpha announced a partnership to deliver a transatlantic sovereign AI offering with dual headquarters in Berlin and Toronto. The French-language announcement emphasizes secure and controllable AI",
+          "url": "https://cohere.com/fr/blog/cohere-and-aleph-alpha-sign-agreement",
+          "canonical_url": "https://cohere.com/fr/blog/cohere-and-aleph-alpha-sign-agreement",
+          "source_id": "cohere_blog",
+          "source_name": "Cohere Blog",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "source_family": "official",
+          "published_at": "2026-09-16T00:00:00+00:00",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 7.496,
+          "topic_refs": [
+            {
+              "topic_id": "9af22a03e183",
+              "slug": "cohere-aleph-alpha-ia-sous-votre-contr-le-transatlantique-cohere",
+              "headline": "Cohere & Aleph Alpha : IA sous votre contrôle transatlantique | Cohere",
+              "daily_route": "/hot/2026-09-16/topic/cohere-aleph-alpha-ia-sous-votre-contr-le-transatlantique-cohere/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "hf_models_tencent-79e9c40deb3a",
+          "title": "Tencent Hunyuan released WeVisDoc-2B",
+          "summary_short": "Weights for tencent/WeVisDoc-2B appeared on the hub. Pipeline tags: safetensors, qwen3_vl, en, zh, arxiv:2609.20423, license:apache-2.0. 732 downloads, 16 likes at collection time",
+          "url": "https://huggingface.co/tencent/WeVisDoc-2B",
+          "canonical_url": "https://huggingface.co/tencent/WeVisDoc-2B",
+          "source_id": "hf_models_tencent",
+          "source_name": "Tencent Hunyuan on Hugging Face",
+          "source_role": "official_news",
+          "source_type": "model_release",
+          "source_family": "official",
+          "published_at": "2026-09-16T03:06:43.000Z",
+          "tags": [
+            "safetensors",
+            "qwen3_vl",
+            "en",
+            "zh",
+            "arxiv:2609.20423",
+            "license:apache-2.0",
+            "eval-results",
+            "region:us"
+          ],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 7.275,
+          "topic_refs": [
+            {
+              "topic_id": "08e7914e2317",
+              "slug": "tencent-hunyuan-released-simple-attention-sparsification",
+              "headline": "Tencent Hunyuan released Simple-Attention-Sparsification",
+              "daily_route": "/hot/2026-09-16/topic/tencent-hunyuan-released-simple-attention-sparsification/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "mistral_blog-cbc158125a42",
+          "title": "Mistral and Mozilla are bringing open, private and multilingual AI to your web browser",
+          "summary_short": "Company",
+          "url": "https://mistral.ai/news/mistral-x-mozilla",
+          "canonical_url": "https://mistral.ai/news/mistral-x-mozilla",
+          "source_id": "mistral_blog",
+          "source_name": "Mistral AI Blog",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "source_family": "official",
+          "published_at": "2026-09-16T00:00:00+00:00",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 7.176,
+          "topic_refs": [
+            {
+              "topic_id": "3094985bef42",
+              "slug": "mistral-and-mozilla-are-bringing-open-private-and-multilingual-ai-to-your-web-browser",
+              "headline": "Mistral and Mozilla are bringing open, private and multilingual AI to your web browser",
+              "daily_route": "/hot/2026-09-16/topic/mistral-and-mozilla-are-bringing-open-private-and-multilingual-ai-to-your-web-browser/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "openai_news-71646fffd914",
+          "title": "How workers are unlocking new ways of working",
+          "summary_short": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work",
+          "url": "https://openai.com/index/unlocking-new-ways-of-working",
+          "canonical_url": "https://openai.com/index/unlocking-new-ways-of-working",
+          "source_id": "openai_news",
+          "source_name": "OpenAI News",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "source_family": "official",
+          "published_at": "Wed, 16 Sep 2026 09:00:00 GMT",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 6.155,
+          "topic_refs": [
+            {
+              "topic_id": "9b06631149ea",
+              "slug": "how-workers-are-unlocking-new-ways-of-working",
+              "headline": "How workers are unlocking new ways of working",
+              "daily_route": "/hot/2026-09-16/topic/how-workers-are-unlocking-new-ways-of-working/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "reka_blog-b87009decf4a",
+          "title": "Reka EdgeQ, On-Device",
+          "summary_short": "EdgeQ brings Reka Edge to Qualcommâs Hexagon NPU. On a Samsung S25 it holds frontier visual understanding at real-time latency, and stays thermally flat under sustained load where Gemma 4 E4B throttles",
+          "url": "https://reka.ai/news/reka-edgeq",
+          "canonical_url": "https://reka.ai/news/reka-edgeq",
+          "source_id": "reka_blog",
+          "source_name": "Reka AI Blog",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "source_family": "official",
+          "published_at": "2026-09-16T00:00:00+00:00",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 6.155,
+          "topic_refs": [
+            {
+              "topic_id": "5b96a48e2552",
+              "slug": "reka-edgeq-on-device",
+              "headline": "Reka EdgeQ, On-Device",
+              "daily_route": "/hot/2026-09-16/topic/reka-edgeq-on-device/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "hf_models_inclusionai-791560d6a5ed",
+          "title": "Ant Ling released Realtime-Venus",
+          "summary_short": "Weights for inclusionAI/Realtime-Venus appeared on Hugging Face with multimodal, audio, video, Transformers, ONNX, and Safetensors tags. The listing had 0 downloads and 55 likes at collection time",
+          "url": "https://huggingface.co/inclusionAI/Realtime-Venus",
+          "canonical_url": "https://huggingface.co/inclusionAI/Realtime-Venus",
+          "source_id": "hf_models_inclusionai",
+          "source_name": "Ant Ling on Hugging Face",
+          "source_role": "official_news",
+          "source_type": "model_release",
+          "source_family": "official",
+          "published_at": "2026-09-16T08:02:28.000Z",
+          "tags": [
+            "transformers",
+            "onnx",
+            "safetensors",
+            "multimodal",
+            "audio",
+            "video",
+            "speech",
+            "streaming",
+            "full-duplex",
+            "long-video",
+            "custom-code",
+            "any-to-any"
+          ],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 5.932,
+          "topic_refs": [
+            {
+              "topic_id": "108c39f07430",
+              "slug": "ant-ling-released-realtime-venus",
+              "headline": "Ant Ling released Realtime-Venus",
+              "daily_route": "/hot/2026-09-16/topic/ant-ling-released-realtime-venus/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "cohere_blog-0fe7e41e57e2",
+          "title": "Cohere and OpenText partner to bring trusted agentic AI to governments and regulated industries",
+          "summary_short": "Cohere and OpenText announced a partnership to bring trusted agentic AI to governments and regulated industries. The supplied announcement does not specify products, deployment arrangements, or financial terms",
+          "url": "https://cohere.com/blog/cohere-and-open-text-partner-to-bring-trusted-ai",
+          "canonical_url": "https://cohere.com/blog/cohere-and-open-text-partner-to-bring-trusted-ai",
+          "source_id": "cohere_blog",
+          "source_name": "Cohere Blog",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "source_family": "official",
+          "published_at": "2026-09-16T00:00:00+00:00",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 5.624,
+          "topic_refs": [
+            {
+              "topic_id": "d6c8b5c31364",
+              "slug": "cohere-and-opentext-partner-to-bring-trusted-agentic-ai-to-governments-and-regulated-industries",
+              "headline": "Cohere and OpenText partner to bring trusted agentic AI to governments and regulated industries",
+              "daily_route": "/hot/2026-09-16/topic/cohere-and-opentext-partner-to-bring-trusted-agentic-ai-to-governments-and-regulated-industries/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        }
+      ]
+    },
+    {
+      "slug": "market-signals",
+      "label": "Market Signals",
+      "description": "Funding rounds, acquisitions, valuations, and strategic moves in the AI industry.",
+      "count": 0,
+      "section_score": -1.0,
+      "items": []
+    },
+    {
+      "slug": "analysis",
+      "label": "Expert Analysis",
+      "description": "Long-form expert analysis and research explainers with substantive depth.",
+      "count": 8,
+      "section_score": 7.622,
+      "items": [
+        {
+          "id": "analysis_simon_willison-c9a269061424",
+          "title": "Gemini Live audio",
+          "summary_short": "<p><strong>Tool:</strong> <a href=\" Live audio</a></p> <p>Google released <a href=\" 3.8 Live and 3.8 Live Extended Thinking</a> today - two new speech-to-speech models that are a similar shape to OpenAI's <a href=\" family.</p> <p>I pointed GPT-6 Astra Extra High at the documentation and <a href=\"",
+          "url": "https://simonwillison.net/2026/Sep/15/gemini-live",
+          "canonical_url": "https://simonwillison.net/2026/Sep/15/gemini-live",
+          "source_id": "analysis_simon_willison",
+          "source_name": "Simon Willison's Blog",
+          "source_role": "editorial_depth",
+          "source_type": "blog_analysis",
+          "source_family": "analysis",
+          "published_at": "2026-09-15T22:47:07+00:00",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 7.985,
+          "topic_refs": [
+            {
+              "topic_id": "71e11f0275a9",
+              "slug": "introducing-gemini-3-8-live-and-3-8-live-extended-thinking",
+              "headline": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+              "daily_route": "/hot/2026-09-16/topic/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "analysis_arstechnica_ai-3c126044b676",
+          "title": "Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost",
+          "summary_short": "Ars Technica previewed a Mozilla report examining how inexpensive open models catch up with frontier models on capability. The headline describes paid frontier models as providing a four-month head start at five times the cost",
+          "url": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models",
+          "canonical_url": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models",
+          "source_id": "analysis_arstechnica_ai",
+          "source_name": "Ars Technica AI",
+          "source_role": "editorial_depth",
+          "source_type": "blog_analysis",
+          "source_family": "analysis",
+          "published_at": "Tue, 15 Sep 2026 12:00:41 +0000",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 4.464,
+          "topic_refs": [
+            {
+              "topic_id": "15086c026027",
+              "slug": "exclusive-paying-for-frontier-ai-models-buys-4-month-head-start-at-5x-the-cost",
+              "headline": "Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost",
+              "daily_route": "/hot/2026-09-16/topic/exclusive-paying-for-frontier-ai-models-buys-4-month-head-start-at-5x-the-cost/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "analysis_mit_ai_news-fce5c946628f",
+          "title": "Measure by measure, studying society accurately",
+          "summary_short": "Naoki Egami has become a standout in political methodology, helping refine tools that give scholars durable results",
+          "url": "https://news.mit.edu/2026/studying-society-accurately-naoki-egami-0916",
+          "canonical_url": "https://news.mit.edu/2026/studying-society-accurately-naoki-egami-0916",
+          "source_id": "analysis_mit_ai_news",
+          "source_name": "MIT News AI",
+          "source_role": "editorial_depth",
+          "source_type": "blog_analysis",
+          "source_family": "analysis",
+          "published_at": "Wed, 16 Sep 2026 00:00:00 -0400",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 1.3,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "analysis_arstechnica_ai-9f1bce286771",
+          "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
+          "summary_short": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”",
+          "url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam",
+          "canonical_url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam",
+          "source_id": "analysis_arstechnica_ai",
+          "source_name": "Ars Technica AI",
+          "source_role": "editorial_depth",
+          "source_type": "blog_analysis",
+          "source_family": "analysis",
+          "published_at": "Mon, 14 Sep 2026 21:04:32 +0000",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 1.3,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "import_ai-e5965ee9a57e",
+          "title": "The Work Of Art in the Age of Mechanical Reproduction by Walter Benjamin",
+          "summary_short": "",
+          "url": "https://web.mit.edu/allanmc/www/benjamin.pdf",
+          "canonical_url": "https://web.mit.edu/allanmc/www/benjamin.pdf",
+          "source_id": "import_ai",
+          "source_name": "Import AI",
+          "source_role": "editorial_depth",
+          "source_type": "roundup",
+          "source_family": "analysis",
+          "published_at": "2026-09-16T00:00:00-04:00",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 1.3,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "import_ai-6f6d7a16529b",
+          "title": "Pacing the Frontier, a Framework & Research Agenda (pacing.tech)",
+          "summary_short": "",
+          "url": "https://pacing.tech",
+          "canonical_url": "https://pacing.tech",
+          "source_id": "import_ai",
+          "source_name": "Import AI",
+          "source_role": "editorial_depth",
+          "source_type": "roundup",
+          "source_family": "analysis",
+          "published_at": "2026-09-16T00:00:00-04:00",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 1.3,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "the_batch-5ba3a106203f",
+          "title": "OpenAI and Anthropic fight it out for the top overall spot, while Google, Meta, and Microsoft all release transcription models",
+          "summary_short": "The Batch News & Insights: When you’re skilled at AI Engineering, your best work won’t be merely implementing a product that someone else spec’ed out. Instead, you will actively shape the build",
+          "url": "https://www.deeplearning.ai/the-batch/tag/sep-11-2026",
+          "canonical_url": "https://www.deeplearning.ai/the-batch/tag/sep-11-2026",
+          "source_id": "the_batch",
+          "source_name": "The Batch",
+          "source_role": "editorial_depth",
+          "source_type": "roundup",
+          "source_family": "analysis",
+          "published_at": "2026-09-16T00:00:00-04:00",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 1.3,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "the_batch-e65c97704835",
+          "title": "Meta’s Agent Security, The Navier-Stokes Controversy, Fraud on Claude",
+          "summary_short": "The Batch News & Insights: The loudest voices stoking fears about AI dangers have made tremendous headway in the past two weeks",
+          "url": "https://www.deeplearning.ai/the-batch/tag/sep-18-2026",
+          "canonical_url": "https://www.deeplearning.ai/the-batch/tag/sep-18-2026",
+          "source_id": "the_batch",
+          "source_name": "The Batch",
+          "source_role": "editorial_depth",
+          "source_type": "roundup",
+          "source_family": "analysis",
+          "published_at": "2026-09-16T00:00:00-04:00",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 1.3,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        }
+      ]
+    },
+    {
+      "slug": "papers",
+      "label": "Research Papers",
+      "description": "Research papers and paper-trending signals tied to the current day.",
+      "count": 3,
+      "section_score": 9.636,
+      "items": [
+        {
+          "id": "hf_papers-dd668826c91e",
+          "title": "AI for Games in the Foundation Model Era",
+          "summary_short": "Foundation models, alongside advances in learned game-world models, are reshaping AI across the game lifecycle. Beyond playing games, recent systems model players and game dynamics, support design and development, adapt player-facing experiences at runtime, and evaluate resulting artifacts.",
+          "url": "https://huggingface.co/papers/2609.16679",
+          "canonical_url": "https://arxiv.org/abs/2609.16679",
+          "source_id": "hf_papers",
+          "source_name": "Hugging Face Trending Papers",
+          "source_role": "paper_trending",
+          "source_type": "paper",
+          "source_family": "papers",
+          "published_at": "2026-09-15T00:00:00.000Z",
+          "tags": [],
+          "authors": [
+            "Meng Luo",
+            "Yanlin Li",
+            "Hao Li",
+            "Hongzhan Lin",
+            "Pengfei Zhou",
+            "Tianjie Ju",
+            "Ran Zhang",
+            "Yeying Jin",
+            "Mong-Li Lee",
+            "Wynne Hsu"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 145,
+            "daily_score": 145
+          },
+          "signal_score": 7.401,
+          "topic_refs": [
+            {
+              "topic_id": "f1c5d80db43c",
+              "slug": "ai-for-games-in-the-foundation-model-era",
+              "headline": "AI for Games in the Foundation Model Era",
+              "daily_route": "/hot/2026-09-16/topic/ai-for-games-in-the-foundation-model-era/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "daily_hot",
+          "spotlight_primary_label": "Daily Hot Papers",
+          "spotlight_comment": "Foundation models, alongside advances in learned game-world models, are reshaping AI across the game lifecycle."
+        },
+        {
+          "id": "hf_papers-f36c5bd747ad",
+          "title": "ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents",
+          "summary_short": "We introduce and release ScienceBuddy, an interactive scientific research workspace that brings continually improving scientific agents into researchers' everyday workflows.",
+          "url": "https://huggingface.co/papers/2609.17523",
+          "canonical_url": "https://arxiv.org/abs/2609.17523",
+          "source_id": "hf_papers",
+          "source_name": "Hugging Face Trending Papers",
+          "source_role": "paper_trending",
+          "source_type": "paper",
+          "source_family": "papers",
+          "published_at": "2026-09-15T00:00:00.000Z",
+          "tags": [],
+          "authors": [
+            "Shuhan Xue",
+            "Jianyuan Zhong",
+            "Ziyuan Nan",
+            "Wenbin Li",
+            "Zhaochen Yu",
+            "Jinchao Ding",
+            "Qiang Gao",
+            "Pengyu Zhan",
+            "Yuntong Zhang",
+            "Tian Cheng",
+            "Zhenfei Yin",
+            "Yingcheng Wu",
+            "Ling Yang"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 30,
+            "daily_score": 30
+          },
+          "signal_score": 6.251,
+          "topic_refs": [
+            {
+              "topic_id": "e0d693d2e825",
+              "slug": "sciencebuddy-recursive-in-recursive-self-improvement-for-interactive-scientific-agents",
+              "headline": "ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents",
+              "daily_route": "/hot/2026-09-16/topic/sciencebuddy-recursive-in-recursive-self-improvement-for-interactive-scientific-agents/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "daily_hot",
+          "spotlight_primary_label": "Daily Hot Papers",
+          "spotlight_comment": "We introduce and release ScienceBuddy, an interactive scientific research workspace that brings continually improving scientific agents into researchers' everyday workflows."
+        },
+        {
+          "id": "hf_papers-e8084df15f92",
+          "title": "FLAT: Resampling Image and Text into 1D Flexible-Length Aligned Transmodal Tokens for Retrieval and Generation",
+          "summary_short": "Traditional multimodal representation learning and generation are two stages: a contrastive or self-supervised visual encoder is trained first, followed by a separate downstream generative model. This setup bottlenecks generative performance behind frozen embeddings.",
+          "url": "https://huggingface.co/papers/2609.16591",
+          "canonical_url": "https://arxiv.org/abs/2609.16591",
+          "source_id": "hf_papers",
+          "source_name": "Hugging Face Trending Papers",
+          "source_role": "paper_trending",
+          "source_type": "paper",
+          "source_family": "papers",
+          "published_at": "2026-09-15T00:00:00.000Z",
+          "tags": [],
+          "authors": [
+            "Guangyu Sun",
+            "Shlok Kumar Mishra",
+            "Wentao Bao",
+            "Robert Zhenheng Yang",
+            "Xiao Wang",
+            "Xiyuan Wang",
+            "Yujunrong Ma",
+            "Chen Yuan",
+            "Max Xiangjun Fan",
+            "Jun Xiao",
+            "Jianpeng Cheng"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 16,
+            "daily_score": 16
+          },
+          "signal_score": 5.91,
+          "topic_refs": [
+            {
+              "topic_id": "88470fa56008",
+              "slug": "flat-resampling-image-and-text-into-1d-flexible-length-aligned-transmodal-tokens-for-retrieval-and-generation",
+              "headline": "FLAT: Resampling Image and Text into 1D Flexible-Length Aligned Transmodal Tokens for Retrieval and Generation",
+              "daily_route": "/hot/2026-09-16/topic/flat-resampling-image-and-text-into-1d-flexible-length-aligned-transmodal-tokens-for-retrieval-and-generation/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "daily_hot",
+          "spotlight_primary_label": "Daily Hot Papers",
+          "spotlight_comment": "Traditional multimodal representation learning and generation are two stages: a contrastive or self-supervised visual encoder is trained first, followed by a separate downstream generative model."
+        }
+      ]
+    },
+    {
+      "slug": "github",
+      "label": "GitHub / Tools",
+      "description": "Repositories, tooling launches, and builder momentum around practical AI systems.",
+      "count": 6,
+      "section_score": 6.443,
+      "items": [
+        {
+          "id": "hn_discussion-0ce4868202f1",
+          "title": "Show HN: Pizza Bot – An inbox for AI agents that work in the background",
+          "summary_short": "Pizza Bot is presented in a Show HN post as an inbox for AI agents that work in the background. The listing provides no further implementation or integration details",
+          "url": "https://github.com/pizza-bot-app/pizza-bot",
+          "canonical_url": "https://github.com/pizza-bot-app/pizza-bot",
+          "source_id": "hn_discussion",
+          "source_name": "Hacker News",
+          "source_role": "hn_discussion",
+          "source_type": "discussion",
+          "source_family": "github",
+          "published_at": "2026-09-15T15:20:26Z",
+          "tags": [],
+          "authors": [
+            "jd_"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 61,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 4.462,
+          "topic_refs": [
+            {
+              "topic_id": "1399c09f6305",
+              "slug": "show-hn-pizza-bot-an-inbox-for-ai-agents-that-work-in-the-background",
+              "headline": "Show HN: Pizza Bot – An inbox for AI agents that work in the background",
+              "daily_route": "/hot/2026-09-16/topic/show-hn-pizza-bot-an-inbox-for-ai-agents-that-work-in-the-background/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "github_trend-1aaf19b7744c",
+          "title": "browser-use/jev-ultrafast",
+          "summary_short": "Fastest and cheapest web agent",
+          "url": "https://github.com/browser-use/jev-ultrafast",
+          "canonical_url": "https://github.com/browser-use/jev-ultrafast",
+          "source_id": "github_trend",
+          "source_name": "GitHub Trending Repos",
+          "source_role": "github_trend",
+          "source_type": "repository",
+          "source_family": "github",
+          "published_at": "2026-09-16T21:30:12Z",
+          "tags": [],
+          "authors": [
+            "browser-use"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 15476,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 3.35,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "github_trend-c2b6457f5bfb",
+          "title": "mcncarl/jianying-headless",
+          "summary_short": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill",
+          "url": "https://github.com/mcncarl/jianying-headless",
+          "canonical_url": "https://github.com/mcncarl/jianying-headless",
+          "source_id": "github_trend",
+          "source_name": "GitHub Trending Repos",
+          "source_role": "github_trend",
+          "source_type": "repository",
+          "source_family": "github",
+          "published_at": "2026-09-15T11:51:15Z",
+          "tags": [],
+          "authors": [
+            "mcncarl"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 2354,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 3.35,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "github_trend-26f95d17418f",
+          "title": "agentverse-os/AgentVerse-OS",
+          "summary_short": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates.",
+          "url": "https://github.com/agentverse-os/AgentVerse-OS",
+          "canonical_url": "https://github.com/agentverse-os/AgentVerse-OS",
+          "source_id": "github_trend",
+          "source_name": "GitHub Trending Repos",
+          "source_role": "github_trend",
+          "source_type": "repository",
+          "source_family": "github",
+          "published_at": "2026-09-12T18:20:00Z",
+          "tags": [],
+          "authors": [
+            "agentverse-os"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 969,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 2.888,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "github_trend-5b6b8f0379a2",
+          "title": "youngyangyang04/llm-master",
+          "summary_short": "大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI Agent、MCP、微调、模型部署、Transformer、AI 编程与大厂面试，从入门到生产实践。",
+          "url": "https://github.com/youngyangyang04/llm-master",
+          "canonical_url": "https://github.com/youngyangyang04/llm-master",
+          "source_id": "github_trend",
+          "source_name": "GitHub Trending Repos",
+          "source_role": "github_trend",
+          "source_type": "repository",
+          "source_family": "github",
+          "published_at": "2026-09-12T07:33:31Z",
+          "tags": [
+            "agent",
+            "large-language-models",
+            "llm",
+            "llm-learning",
+            "llm-tutorial",
+            "rag"
+          ],
+          "authors": [
+            "youngyangyang04"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 871,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 2.692,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "github_trend-7b8ce9257cf1",
+          "title": "rizqinrr/viserys-agent",
+          "summary_short": "",
+          "url": "https://github.com/rizqinrr/viserys-agent",
+          "canonical_url": "https://github.com/rizqinrr/viserys-agent",
+          "source_id": "github_trend",
+          "source_name": "GitHub Trending Repos",
+          "source_role": "github_trend",
+          "source_type": "repository",
+          "source_family": "github",
+          "published_at": "2026-09-12T16:51:29Z",
+          "tags": [],
+          "authors": [
+            "rizqinrr"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 697,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 2.344,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        }
+      ]
+    },
+    {
+      "slug": "industry",
+      "label": "Industry News",
+      "description": "Curated industry coverage from newsletters, blogs, and community sources with substance.",
+      "count": 6,
+      "section_score": 8.256,
+      "items": [
+        {
+          "id": "hn_discussion-59db4bf11ea9",
+          "title": "Learning Programming in an Age of LLMs",
+          "summary_short": "",
+          "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms",
+          "canonical_url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms",
+          "source_id": "hn_discussion",
+          "source_name": "Hacker News",
+          "source_role": "hn_discussion",
+          "source_type": "discussion",
+          "source_family": "industry",
+          "published_at": "2026-09-16T09:12:34Z",
+          "tags": [],
+          "authors": [
+            "moneroloop2018"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 256,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 5.774,
+          "topic_refs": [
+            {
+              "topic_id": "2bde227f26e5",
+              "slug": "learning-programming-in-an-age-of-llms",
+              "headline": "Learning Programming in an Age of LLMs",
+              "daily_route": "/hot/2026-09-16/topic/learning-programming-in-an-age-of-llms/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "hn_discussion-642a1494ec3f",
+          "title": "Introducing System One Models and Jev",
+          "summary_short": "A Hacker News item introduces System One Models and Jev. The supplied listing provides no technical specifications, benchmarks, or availability details",
+          "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+          "canonical_url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+          "source_id": "hn_discussion",
+          "source_name": "Hacker News",
+          "source_role": "hn_discussion",
+          "source_type": "discussion",
+          "source_family": "industry",
+          "published_at": "2026-09-15T19:25:03Z",
+          "tags": [],
+          "authors": [
+            "albelfio"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 1942,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 5.65,
+          "topic_refs": [
+            {
+              "topic_id": "3594ee2f2987",
+              "slug": "introducing-system-one-models-and-jev",
+              "headline": "Introducing System One Models and Jev",
+              "daily_route": "/hot/2026-09-16/topic/introducing-system-one-models-and-jev/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "hn_discussion-408dc4b1f282",
+          "title": "Cartesian – AI 3D Modeling for Design",
+          "summary_short": "A Hacker News item features Cartesian as an AI 3D modeling tool for design. The listing does not describe its supported workflows or availability",
+          "url": "https://www.formas.ai/cartesian",
+          "canonical_url": "https://www.formas.ai/cartesian",
+          "source_id": "hn_discussion",
+          "source_name": "Hacker News",
+          "source_role": "hn_discussion",
+          "source_type": "discussion",
+          "source_family": "industry",
+          "published_at": "2026-09-15T15:26:45Z",
+          "tags": [],
+          "authors": [
+            "eustoria"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 116,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 5.195,
+          "topic_refs": [
+            {
+              "topic_id": "bf5b34303bac",
+              "slug": "cartesian-ai-3d-modeling-for-design",
+              "headline": "Cartesian – AI 3D Modeling for Design",
+              "daily_route": "/hot/2026-09-16/topic/cartesian-ai-3d-modeling-for-design/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "hn_discussion-262d1c2231fc",
+          "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
+          "summary_short": "An Anthropic co-founder told the BBC that an AI kill switch may need to be mandatory. The interview was shared for discussion on Hacker News",
+          "url": "https://www.bbc.com/news/articles/cqgk5e2j0gg8o",
+          "canonical_url": "https://www.bbc.com/news/articles/cqgk5e2j0gg8o",
+          "source_id": "hn_discussion",
+          "source_name": "Hacker News",
+          "source_role": "hn_discussion",
+          "source_type": "discussion",
+          "source_family": "industry",
+          "published_at": "2026-09-15T13:41:28Z",
+          "tags": [],
+          "authors": [
+            "Betelbuddy"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 65,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 3.806,
+          "topic_refs": [
+            {
+              "topic_id": "8aee9c140be2",
+              "slug": "ai-kill-switch-may-need-to-be-mandatory-anthropic-co-founder-tells-bbc",
+              "headline": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
+              "daily_route": "/hot/2026-09-16/topic/ai-kill-switch-may-need-to-be-mandatory-anthropic-co-founder-tells-bbc/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "hn_discussion-b934de795cb2",
+          "title": "1Password's AI patching benchmark is misleading",
+          "summary_short": "A Hacker News item argues that 1Password's AI patching benchmark is misleading. The supplied text does not include the supporting criticism or benchmark details",
+          "url": "https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading",
+          "canonical_url": "https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading",
+          "source_id": "hn_discussion",
+          "source_name": "Hacker News",
+          "source_role": "hn_discussion",
+          "source_type": "discussion",
+          "source_family": "industry",
+          "published_at": "2026-09-15T11:54:11Z",
+          "tags": [],
+          "authors": [
+            "darkamaul"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 37,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 3.382,
+          "topic_refs": [
+            {
+              "topic_id": "d0f049bc5f07",
+              "slug": "1password-s-ai-patching-benchmark-is-misleading",
+              "headline": "1Password's AI patching benchmark is misleading",
+              "daily_route": "/hot/2026-09-16/topic/1password-s-ai-patching-benchmark-is-misleading/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "hn_discussion-03ae8bfda20c",
+          "title": "There's a 100% Chance AI Agents Are Ruining the Internet",
+          "summary_short": "",
+          "url": "https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet",
+          "canonical_url": "https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet",
+          "source_id": "hn_discussion",
+          "source_name": "Hacker News",
+          "source_role": "hn_discussion",
+          "source_type": "discussion",
+          "source_family": "industry",
+          "published_at": "2026-09-15T16:38:45Z",
+          "tags": [],
+          "authors": [
+            "pavel_lishin"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 232,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 2.35,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        }
+      ]
+    }
+  ],
+  "paper_spotlight": [
+    {
+      "slug": "paper-spotlight-daily_hot",
+      "kind": "daily_hot",
+      "label": "Daily Hot Papers",
+      "description": "Papers that feel broadly important to the day and belong in the hotspot paper feed.",
+      "count": 3,
+      "items": [
+        {
+          "id": "hf_papers-dd668826c91e",
+          "title": "AI for Games in the Foundation Model Era",
+          "summary_short": "Foundation models, alongside advances in learned game-world models, are reshaping AI across the game lifecycle. Beyond playing games, recent systems model players and game dynamics, support design and development, adapt player-facing experiences at runtime, and evaluate resulting artifacts.",
+          "url": "https://huggingface.co/papers/2609.16679",
+          "canonical_url": "https://arxiv.org/abs/2609.16679",
+          "source_id": "hf_papers",
+          "source_name": "Hugging Face Trending Papers",
+          "source_role": "paper_trending",
+          "source_type": "paper",
+          "source_family": "papers",
+          "published_at": "2026-09-15T00:00:00.000Z",
+          "tags": [],
+          "authors": [
+            "Meng Luo",
+            "Yanlin Li",
+            "Hao Li",
+            "Hongzhan Lin",
+            "Pengfei Zhou",
+            "Tianjie Ju",
+            "Ran Zhang",
+            "Yeying Jin",
+            "Mong-Li Lee",
+            "Wynne Hsu"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 145,
+            "daily_score": 145
+          },
+          "signal_score": 7.401,
+          "topic_refs": [
+            {
+              "topic_id": "f1c5d80db43c",
+              "slug": "ai-for-games-in-the-foundation-model-era",
+              "headline": "AI for Games in the Foundation Model Era",
+              "daily_route": "/hot/2026-09-16/topic/ai-for-games-in-the-foundation-model-era/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "daily_hot",
+          "spotlight_primary_label": "Daily Hot Papers",
+          "spotlight_comment": "Foundation models, alongside advances in learned game-world models, are reshaping AI across the game lifecycle."
+        },
+        {
+          "id": "hf_papers-f36c5bd747ad",
+          "title": "ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents",
+          "summary_short": "We introduce and release ScienceBuddy, an interactive scientific research workspace that brings continually improving scientific agents into researchers' everyday workflows.",
+          "url": "https://huggingface.co/papers/2609.17523",
+          "canonical_url": "https://arxiv.org/abs/2609.17523",
+          "source_id": "hf_papers",
+          "source_name": "Hugging Face Trending Papers",
+          "source_role": "paper_trending",
+          "source_type": "paper",
+          "source_family": "papers",
+          "published_at": "2026-09-15T00:00:00.000Z",
+          "tags": [],
+          "authors": [
+            "Shuhan Xue",
+            "Jianyuan Zhong",
+            "Ziyuan Nan",
+            "Wenbin Li",
+            "Zhaochen Yu",
+            "Jinchao Ding",
+            "Qiang Gao",
+            "Pengyu Zhan",
+            "Yuntong Zhang",
+            "Tian Cheng",
+            "Zhenfei Yin",
+            "Yingcheng Wu",
+            "Ling Yang"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 30,
+            "daily_score": 30
+          },
+          "signal_score": 6.251,
+          "topic_refs": [
+            {
+              "topic_id": "e0d693d2e825",
+              "slug": "sciencebuddy-recursive-in-recursive-self-improvement-for-interactive-scientific-agents",
+              "headline": "ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents",
+              "daily_route": "/hot/2026-09-16/topic/sciencebuddy-recursive-in-recursive-self-improvement-for-interactive-scientific-agents/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "daily_hot",
+          "spotlight_primary_label": "Daily Hot Papers",
+          "spotlight_comment": "We introduce and release ScienceBuddy, an interactive scientific research workspace that brings continually improving scientific agents into researchers' everyday workflows."
+        },
+        {
+          "id": "hf_papers-e8084df15f92",
+          "title": "FLAT: Resampling Image and Text into 1D Flexible-Length Aligned Transmodal Tokens for Retrieval and Generation",
+          "summary_short": "Traditional multimodal representation learning and generation are two stages: a contrastive or self-supervised visual encoder is trained first, followed by a separate downstream generative model. This setup bottlenecks generative performance behind frozen embeddings.",
+          "url": "https://huggingface.co/papers/2609.16591",
+          "canonical_url": "https://arxiv.org/abs/2609.16591",
+          "source_id": "hf_papers",
+          "source_name": "Hugging Face Trending Papers",
+          "source_role": "paper_trending",
+          "source_type": "paper",
+          "source_family": "papers",
+          "published_at": "2026-09-15T00:00:00.000Z",
+          "tags": [],
+          "authors": [
+            "Guangyu Sun",
+            "Shlok Kumar Mishra",
+            "Wentao Bao",
+            "Robert Zhenheng Yang",
+            "Xiao Wang",
+            "Xiyuan Wang",
+            "Yujunrong Ma",
+            "Chen Yuan",
+            "Max Xiangjun Fan",
+            "Jun Xiao",
+            "Jianpeng Cheng"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 16,
+            "daily_score": 16
+          },
+          "signal_score": 5.91,
+          "topic_refs": [
+            {
+              "topic_id": "88470fa56008",
+              "slug": "flat-resampling-image-and-text-into-1d-flexible-length-aligned-transmodal-tokens-for-retrieval-and-generation",
+              "headline": "FLAT: Resampling Image and Text into 1D Flexible-Length Aligned Transmodal Tokens for Retrieval and Generation",
+              "daily_route": "/hot/2026-09-16/topic/flat-resampling-image-and-text-into-1d-flexible-length-aligned-transmodal-tokens-for-retrieval-and-generation/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "daily_hot",
+          "spotlight_primary_label": "Daily Hot Papers",
+          "spotlight_comment": "Traditional multimodal representation learning and generation are two stages: a contrastive or self-supervised visual encoder is trained first, followed by a separate downstream generative model."
+        }
+      ]
+    }
+  ],
+  "topic_summary": [
+    {
+      "topic_id": "71e11f0275a9",
+      "slug": "introducing-gemini-3-8-live-and-3-8-live-extended-thinking",
+      "headline": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "category": "Product Release",
+      "final_score": 5.049,
+      "heat": 7.0,
+      "occurrence_score": 8.25,
+      "display_priority": 7.32,
+      "confidence": 8.395,
+      "llm_status": "candidate",
+      "source_count": 3,
+      "item_count": 3,
+      "route": "/hot/2026-09-16/topic/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/"
+    }
+  ],
+  "featured_topics": [
+    {
+      "topic_id": "08e7914e2317",
+      "slug": "tencent-hunyuan-released-simple-attention-sparsification",
+      "headline": "Tencent Hunyuan released Simple-Attention-Sparsification",
+      "category": "Product Release",
+      "summary_short": "",
+      "why_it_matters": "This product release surfaced across 1 independent source(s).",
+      "key_takeaways": [
+        "Weights for tencent/WeVisDoc-2B appeared on the hub. Pipeline tags: safetensors, qwen3_vl, en, zh, arxiv:2609.20423, license:apache-2.0. 732 downloads, 16 likes at collection time.",
+        "Weights for tencent/WeVisDoc-4B appeared on the hub. Pipeline tags: safetensors, qwen3_vl, en, zh, arxiv:2609.20423, license:apache-2.0. 493 downloads, 38 likes at collection time."
+      ],
+      "scores": {
+        "final": 10.0,
+        "quality": 9.0,
+        "heat": 4.0,
+        "importance": 10.0,
+        "occurrence": 3.4,
+        "display_priority": 8.012,
+        "confidence": 6.36
+      },
+      "source_tier": "official",
+      "source_names": [
+        "Tencent Hunyuan on Hugging Face"
+      ],
+      "source_roles": [
+        "official_news"
+      ],
+      "source_types": [
+        "model_release"
+      ],
+      "llm_status": "featured",
+      "evidence": [
+        {
+          "title": "Tencent Hunyuan released WeVisDoc-2B",
+          "url": "https://huggingface.co/tencent/WeVisDoc-2B",
+          "source_name": "Tencent Hunyuan on Hugging Face",
+          "published_at": "2026-09-16T03:06:43.000Z"
+        },
+        {
+          "title": "Tencent Hunyuan released WeVisDoc-4B",
+          "url": "https://huggingface.co/tencent/WeVisDoc-4B",
+          "source_name": "Tencent Hunyuan on Hugging Face",
+          "published_at": "2026-09-16T03:07:01.000Z"
+        }
+      ],
+      "route": "/hot/2026-09-16/topic/tencent-hunyuan-released-simple-attention-sparsification/"
+    },
+    {
+      "topic_id": "9af22a03e183",
+      "slug": "cohere-aleph-alpha-ia-sous-votre-contr-le-transatlantique-cohere",
+      "headline": "Cohere & Aleph Alpha : IA sous votre contrôle transatlantique | Cohere",
+      "category": "Industry Update",
+      "summary_short": "Cohere and Aleph Alpha announced a partnership to deliver a transatlantic sovereign AI offering with dual headquarters in Berlin and Toronto. The French-language announcement emphasizes secure and controllable AI",
+      "why_it_matters": "This industry move surfaced across 1 independent source(s).",
+      "key_takeaways": [
+        "Cohere et Aleph Alpha s’associent pour lancer la première solution d’IA sous votre contrôle transatlantique, avec des sièges sociaux à Berlin et Toronto, offrant une IA sécurisée et contrôlable.",
+        "Cohere and Aleph Alpha partner to launch the first transatlantic sovereign AI solution with dual headquarters in Berlin and Toronto, providing secure and governable AI.",
+        "Cohere und Aleph Alpha gründen das erste transatlantische Unternehmen für souveräne KI mit Hauptsitzen in Berlin und Toronto – für sichere und kontrollierbare KI-Lösungen."
+      ],
+      "scores": {
+        "final": 9.634,
+        "quality": 9.0,
+        "heat": 7.0,
+        "importance": 8.0,
+        "occurrence": 4.7,
+        "display_priority": 8.339,
+        "confidence": 6.25
+      },
+      "source_tier": "official",
+      "source_names": [
+        "Cohere Blog"
+      ],
+      "source_roles": [
+        "official_news"
+      ],
+      "source_types": [
+        "official_blog"
+      ],
+      "llm_status": "featured",
+      "evidence": [
+        {
+          "title": "Cohere & Aleph Alpha : IA sous votre contrôle transatlantique | Cohere",
+          "url": "https://cohere.com/fr/blog/cohere-and-aleph-alpha-sign-agreement",
+          "source_name": "Cohere Blog",
+          "published_at": "2026-09-16T00:00:00+00:00"
+        },
+        {
+          "title": "Cohere & Aleph Alpha: Transatlantic Sovereign AI | Cohere",
+          "url": "https://cohere.com/blog/cohere-and-aleph-alpha-sign-agreement",
+          "source_name": "Cohere Blog",
+          "published_at": "2026-09-16T00:00:00+00:00"
+        }
+      ],
+      "route": "/hot/2026-09-16/topic/cohere-aleph-alpha-ia-sous-votre-contr-le-transatlantique-cohere/"
+    },
+    {
+      "topic_id": "3094985bef42",
+      "slug": "mistral-and-mozilla-are-bringing-open-private-and-multilingual-ai-to-your-web-browser",
+      "headline": "Mistral and Mozilla are bringing open, private and multilingual AI to your web browser",
+      "category": "Product Release",
+      "summary_short": "Company",
+      "why_it_matters": "This product release surfaced across 1 independent source(s).",
+      "key_takeaways": [],
+      "scores": {
+        "final": 9.5,
+        "quality": 9.0,
+        "heat": 3.0,
+        "importance": 10.0,
+        "occurrence": 2.95,
+        "display_priority": 7.619,
+        "confidence": 6.21
+      },
+      "source_tier": "official",
+      "source_names": [
+        "Mistral AI Blog"
+      ],
+      "source_roles": [
+        "official_news"
+      ],
+      "source_types": [
+        "official_blog"
+      ],
+      "llm_status": "featured",
+      "evidence": [
+        {
+          "title": "Mistral and Mozilla are bringing open, private and multilingual AI to your web browser",
+          "url": "https://mistral.ai/news/mistral-x-mozilla",
+          "source_name": "Mistral AI Blog",
+          "published_at": "2026-09-16T00:00:00+00:00"
+        }
+      ],
+      "route": "/hot/2026-09-16/topic/mistral-and-mozilla-are-bringing-open-private-and-multilingual-ai-to-your-web-browser/"
+    }
+  ],
+  "category_sections": [
+    {
+      "category": "Product Release",
+      "total_candidates": 7,
+      "topics": [
+        {
+          "topic_id": "9b06631149ea",
+          "slug": "how-workers-are-unlocking-new-ways-of-working",
+          "headline": "How workers are unlocking new ways of working",
+          "category": "Product Release",
+          "summary_short": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work",
+          "why_it_matters": "This product release surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 9.5,
+            "quality": 9.0,
+            "heat": 3.0,
+            "importance": 10.0,
+            "occurrence": 2.95,
+            "display_priority": 6.619,
+            "confidence": 6.21
+          },
+          "source_tier": "official",
+          "source_names": [
+            "OpenAI News"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "official_blog"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "How workers are unlocking new ways of working",
+              "url": "https://openai.com/index/unlocking-new-ways-of-working",
+              "source_name": "OpenAI News",
+              "published_at": "Wed, 16 Sep 2026 09:00:00 GMT"
+            }
+          ],
+          "route": "/hot/2026-09-16/topic/how-workers-are-unlocking-new-ways-of-working/"
+        },
+        {
+          "topic_id": "5b96a48e2552",
+          "slug": "reka-edgeq-on-device",
+          "headline": "Reka EdgeQ, On-Device",
+          "category": "Product Release",
+          "summary_short": "EdgeQ brings Reka Edge to Qualcommâs Hexagon NPU. On a Samsung S25 it holds frontier visual understanding at real-time latency, and stays thermally flat under sustained load where Gemma 4 E4B throttles",
+          "why_it_matters": "This product release surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 9.5,
+            "quality": 9.0,
+            "heat": 3.0,
+            "importance": 10.0,
+            "occurrence": 2.95,
+            "display_priority": 6.619,
+            "confidence": 6.21
+          },
+          "source_tier": "official",
+          "source_names": [
+            "Reka AI Blog"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "official_blog"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Reka EdgeQ, On-Device",
+              "url": "https://reka.ai/news/reka-edgeq",
+              "source_name": "Reka AI Blog",
+              "published_at": "2026-09-16T00:00:00+00:00"
+            }
+          ],
+          "route": "/hot/2026-09-16/topic/reka-edgeq-on-device/"
+        },
+        {
+          "topic_id": "108c39f07430",
+          "slug": "ant-ling-released-realtime-venus",
+          "headline": "Ant Ling released Realtime-Venus",
+          "category": "Product Release",
+          "summary_short": "Weights for inclusionAI/Realtime-Venus appeared on Hugging Face with multimodal, audio, video, Transformers, ONNX, and Safetensors tags. The listing had 0 downloads and 55 likes at collection time",
+          "why_it_matters": "This product release surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 8.565,
+            "quality": 8.0,
+            "heat": 3.0,
+            "importance": 6.0,
+            "occurrence": 2.95,
+            "display_priority": 6.198,
+            "confidence": 5.929
+          },
+          "source_tier": "official",
+          "source_names": [
+            "Ant Ling on Hugging Face"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "model_release"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Ant Ling released Realtime-Venus",
+              "url": "https://huggingface.co/inclusionAI/Realtime-Venus",
+              "source_name": "Ant Ling on Hugging Face",
+              "published_at": "2026-09-16T08:02:28.000Z"
+            }
+          ],
+          "route": "/hot/2026-09-16/topic/ant-ling-released-realtime-venus/"
+        },
+        {
+          "topic_id": "71e11f0275a9",
+          "slug": "introducing-gemini-3-8-live-and-3-8-live-extended-thinking",
+          "headline": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+          "category": "Product Release",
+          "summary_short": "Google DeepMind announced Gemini 3.8 Live and Gemini 3.8 Live Extended Thinking. The supplied item provides no capability, pricing, or availability details",
+          "why_it_matters": "This product release surfaced across 3 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.049,
+            "quality": 5.0,
+            "heat": 7.0,
+            "importance": 7.0,
+            "occurrence": 8.25,
+            "display_priority": 7.32,
+            "confidence": 8.395
+          },
+          "source_tier": "official",
+          "source_names": [
+            "DeepMind Blog",
+            "Hacker News",
+            "Simon Willison's Blog"
+          ],
+          "source_roles": [
+            "editorial_depth",
+            "hn_discussion",
+            "official_news"
+          ],
+          "source_types": [
+            "blog_analysis",
+            "discussion",
+            "official_blog"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+              "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking",
+              "source_name": "DeepMind Blog",
+              "published_at": "Tue, 15 Sep 2026 17:05:57 +0000"
+            },
+            {
+              "title": "Gemini Live audio",
+              "url": "https://simonwillison.net/2026/Sep/15/gemini-live",
+              "source_name": "Simon Willison's Blog",
+              "published_at": "2026-09-15T22:47:07+00:00"
+            }
+          ],
+          "route": "/hot/2026-09-16/topic/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/"
+        },
+        {
+          "topic_id": "80645d420e23",
+          "slug": "nvidia-released-c-foundationstereo-s",
+          "headline": "NVIDIA released c-foundationstereo-s",
+          "category": "Product Release",
+          "summary_short": "",
+          "why_it_matters": "This product release surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.031,
+            "quality": 5.0,
+            "heat": 3.0,
+            "importance": 10.0,
+            "occurrence": 2.95,
+            "display_priority": 4.608,
+            "confidence": 4.869
+          },
+          "source_tier": "official",
+          "source_names": [
+            "NVIDIA on Hugging Face"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "model_release"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "NVIDIA released RT-DETR-Hand-Detector-v1",
+              "url": "https://huggingface.co/nvidia/RT-DETR-Hand-Detector-v1",
+              "source_name": "NVIDIA on Hugging Face",
+              "published_at": "2026-09-15T16:58:11.000Z"
+            }
+          ],
+          "route": "/hot/2026-09-16/topic/nvidia-released-c-foundationstereo-s/"
+        }
+      ]
+    },
+    {
+      "category": "Industry Update",
+      "total_candidates": 13,
+      "topics": [
+        {
+          "topic_id": "d6c8b5c31364",
+          "slug": "cohere-and-opentext-partner-to-bring-trusted-agentic-ai-to-governments-and-regulated-industries",
+          "headline": "Cohere and OpenText partner to bring trusted agentic AI to governments and regulated industries",
+          "category": "Industry Update",
+          "summary_short": "Cohere and OpenText announced a partnership to bring trusted agentic AI to governments and regulated industries. The supplied announcement does not specify products, deployment arrangements, or financial terms",
+          "why_it_matters": "This industry move surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 7.274,
+            "quality": 7.0,
+            "heat": 3.0,
+            "importance": 7.0,
+            "occurrence": 2.95,
+            "display_priority": 5.617,
+            "confidence": 5.542
+          },
+          "source_tier": "official",
+          "source_names": [
+            "Cohere Blog"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "official_blog"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Cohere and OpenText partner to bring trusted agentic AI to governments and regulated industries",
+              "url": "https://cohere.com/blog/cohere-and-open-text-partner-to-bring-trusted-ai",
+              "source_name": "Cohere Blog",
+              "published_at": "2026-09-16T00:00:00+00:00"
+            }
+          ],
+          "route": "/hot/2026-09-16/topic/cohere-and-opentext-partner-to-bring-trusted-agentic-ai-to-governments-and-regulated-industries/"
+        },
+        {
+          "topic_id": "0751ecd05f99",
+          "slug": "migrating-from-closed-to-open-source-models-together",
+          "headline": "Migrating from closed to open source models, Together",
+          "category": "Industry Update",
+          "summary_short": "Moving from closed to open source models can take weeks, not years. A five-stage playbook: discover, evaluate, adapt, decide, and production",
+          "why_it_matters": "This opinion surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.664,
+            "quality": 5.0,
+            "heat": 3.0,
+            "importance": 10.0,
+            "occurrence": 2.95,
+            "display_priority": 4.893,
+            "confidence": 5.059
+          },
+          "source_tier": "official",
+          "source_names": [
+            "Together AI Blog"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "official_blog"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Migrating from closed to open source models, Together",
+              "url": "https://www.together.ai/blog/migrating-from-closed-to-open-source-models",
+              "source_name": "Together AI Blog",
+              "published_at": "Wed, 16 Sep 2026 00:00:00 GMT"
+            }
+          ],
+          "route": "/hot/2026-09-16/topic/migrating-from-closed-to-open-source-models-together/"
+        },
+        {
+          "topic_id": "2bde227f26e5",
+          "slug": "learning-programming-in-an-age-of-llms",
+          "headline": "Learning Programming in an Age of LLMs",
+          "category": "Industry Update",
+          "summary_short": "",
+          "why_it_matters": "This other surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.529,
+            "quality": 5.0,
+            "heat": 3.0,
+            "importance": 2.0,
+            "occurrence": 2.95,
+            "display_priority": 4.442,
+            "confidence": 4.119
+          },
+          "source_tier": "community",
+          "source_names": [
+            "Hacker News"
+          ],
+          "source_roles": [
+            "hn_discussion"
+          ],
+          "source_types": [
+            "discussion"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Learning Programming in an Age of LLMs",
+              "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms",
+              "source_name": "Hacker News",
+              "published_at": "2026-09-16T09:12:34Z"
+            }
+          ],
+          "route": "/hot/2026-09-16/topic/learning-programming-in-an-age-of-llms/"
+        },
+        {
+          "topic_id": "f50e31c11707",
+          "slug": "your-inference-server-is-secretly-a-learner-reef-infrastructure-for-continual-self-improving-agents",
+          "headline": "Your Inference Server is Secretly a Learner: Reef Infrastructure for Continual Self-Improving Agents",
+          "category": "Industry Update",
+          "summary_short": "",
+          "why_it_matters": "This industry move surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.014,
+            "quality": 5.0,
+            "heat": 3.0,
+            "importance": 10.0,
+            "occurrence": 2.95,
+            "display_priority": 4.6,
+            "confidence": 4.864
+          },
+          "source_tier": "official",
+          "source_names": [
+            "Hugging Face Blog"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "official_blog"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Your Inference Server is Secretly a Learner: Reef Infrastructure for Continual Self-Improving Agents",
+              "url": "https://huggingface.co/blog/quao627/your-inference-server-is-secretly-a-learner-reef",
+              "source_name": "Hugging Face Blog",
+              "published_at": "2026-09-15T14:42:18+00:00"
+            }
+          ],
+          "route": "/hot/2026-09-16/topic/your-inference-server-is-secretly-a-learner-reef-infrastructure-for-continual-self-improving-agents/"
+        },
+        {
+          "topic_id": "95301f0d3f67",
+          "slug": "new-insights-from-google-s-ai-economy-atlas",
+          "headline": "New insights from Google’s AI & Economy ATLAS",
+          "category": "Industry Update",
+          "summary_short": "Google highlights new insights from its AI & Economy ATLAS. The accompanying image identifies the resource as version 1.0 for 2026, but the supplied text does not describe the findings",
+          "why_it_matters": "This other surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 4.72,
+            "quality": 4.0,
+            "heat": 3.0,
+            "importance": 4.0,
+            "occurrence": 2.95,
+            "display_priority": 4.468,
+            "confidence": 4.776
+          },
+          "source_tier": "official",
+          "source_names": [
+            "Google AI Blog"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "official_blog"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "New insights from Google’s AI & Economy ATLAS",
+              "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026",
+              "source_name": "Google AI Blog",
+              "published_at": "Tue, 15 Sep 2026 13:00:00 +0000"
+            }
+          ],
+          "route": "/hot/2026-09-16/topic/new-insights-from-google-s-ai-economy-atlas/"
+        }
+      ]
+    },
+    {
+      "category": "Tooling",
+      "total_candidates": 1,
+      "topics": [
+        {
+          "topic_id": "bf5b34303bac",
+          "slug": "cartesian-ai-3d-modeling-for-design",
+          "headline": "Cartesian – AI 3D Modeling for Design",
+          "category": "Tooling",
+          "summary_short": "A Hacker News item features Cartesian as an AI 3D modeling tool for design. The listing does not describe its supported workflows or availability",
+          "why_it_matters": "This tooling surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.0,
+            "quality": 4.0,
+            "heat": 3.0,
+            "importance": 5.0,
+            "occurrence": 2.95,
+            "display_priority": 4.204,
+            "confidence": 3.96
+          },
+          "source_tier": "community",
+          "source_names": [
+            "Hacker News"
+          ],
+          "source_roles": [
+            "hn_discussion"
+          ],
+          "source_types": [
+            "discussion"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Cartesian – AI 3D Modeling for Design",
+              "url": "https://www.formas.ai/cartesian",
+              "source_name": "Hacker News",
+              "published_at": "2026-09-15T15:26:45Z"
+            }
+          ],
+          "route": "/hot/2026-09-16/topic/cartesian-ai-3d-modeling-for-design/"
+        }
+      ]
+    },
+    {
+      "category": "Research",
+      "total_candidates": 14,
+      "topics": [
+        {
+          "topic_id": "6588a5b39e44",
+          "slug": "bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train",
+          "headline": "Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train",
+          "category": "Research",
+          "summary_short": "Google Research presents Retrieve-for-Train as an approach to accelerating complex AI search by bypassing inference bottlenecks. The listing categorizes the work under Algorithms & Theory but supplies no performance results",
+          "why_it_matters": "This research paper surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.013,
+            "quality": 5.0,
+            "heat": 3.0,
+            "importance": 6.0,
+            "occurrence": 2.95,
+            "display_priority": 4.6,
+            "confidence": 4.864
+          },
+          "source_tier": "official",
+          "source_names": [
+            "Google Research Blog"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "official_blog"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train",
+              "url": "https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train",
+              "source_name": "Google Research Blog",
+              "published_at": "Tue, 15 Sep 2026 20:00:00 +0000"
+            }
+          ],
+          "route": "/hot/2026-09-16/topic/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train/"
+        },
+        {
+          "topic_id": "f1c5d80db43c",
+          "slug": "ai-for-games-in-the-foundation-model-era",
+          "headline": "AI for Games in the Foundation Model Era",
+          "category": "Research",
+          "summary_short": "Foundation models, alongside advances in learned game-world models, are reshaping AI across the game lifecycle. Beyond playing games, recent systems model players and game dynamics, support design and development, adapt player-facing experiences at runtime, and evaluate resulting artifacts.",
+          "why_it_matters": "This research paper surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.013,
+            "quality": 6.0,
+            "heat": 3.0,
+            "importance": 8.0,
+            "occurrence": 2.95,
+            "display_priority": 4.21,
+            "confidence": 3.964
+          },
+          "source_tier": "trusted_research",
+          "source_names": [
+            "Hugging Face Trending Papers"
+          ],
+          "source_roles": [
+            "paper_trending"
+          ],
+          "source_types": [
+            "paper"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "AI for Games in the Foundation Model Era",
+              "url": "https://huggingface.co/papers/2609.16679",
+              "source_name": "Hugging Face Trending Papers",
+              "published_at": "2026-09-15T00:00:00.000Z"
+            }
+          ],
+          "route": "/hot/2026-09-16/topic/ai-for-games-in-the-foundation-model-era/"
+        },
+        {
+          "topic_id": "e0d693d2e825",
+          "slug": "sciencebuddy-recursive-in-recursive-self-improvement-for-interactive-scientific-agents",
+          "headline": "ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents",
+          "category": "Research",
+          "summary_short": "We introduce and release ScienceBuddy, an interactive scientific research workspace that brings continually improving scientific agents into researchers' everyday workflows.",
+          "why_it_matters": "This research paper surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.012,
+            "quality": 6.0,
+            "heat": 3.0,
+            "importance": 7.0,
+            "occurrence": 2.95,
+            "display_priority": 4.209,
+            "confidence": 3.964
+          },
+          "source_tier": "trusted_research",
+          "source_names": [
+            "Hugging Face Trending Papers"
+          ],
+          "source_roles": [
+            "paper_trending"
+          ],
+          "source_types": [
+            "paper"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents",
+              "url": "https://huggingface.co/papers/2609.17523",
+              "source_name": "Hugging Face Trending Papers",
+              "published_at": "2026-09-15T00:00:00.000Z"
+            }
+          ],
+          "route": "/hot/2026-09-16/topic/sciencebuddy-recursive-in-recursive-self-improvement-for-interactive-scientific-agents/"
+        },
+        {
+          "topic_id": "88470fa56008",
+          "slug": "flat-resampling-image-and-text-into-1d-flexible-length-aligned-transmodal-tokens-for-retrieval-and-generation",
+          "headline": "FLAT: Resampling Image and Text into 1D Flexible-Length Aligned Transmodal Tokens for Retrieval and Generation",
+          "category": "Research",
+          "summary_short": "Traditional multimodal representation learning and generation are two stages: a contrastive or self-supervised visual encoder is trained first, followed by a separate downstream generative model. This setup bottlenecks generative performance behind frozen embeddings.",
+          "why_it_matters": "This research paper surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.01,
+            "quality": 6.0,
+            "heat": 3.0,
+            "importance": 6.0,
+            "occurrence": 2.95,
+            "display_priority": 4.208,
+            "confidence": 3.963
+          },
+          "source_tier": "trusted_research",
+          "source_names": [
+            "Hugging Face Trending Papers"
+          ],
+          "source_roles": [
+            "paper_trending"
+          ],
+          "source_types": [
+            "paper"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "FLAT: Resampling Image and Text into 1D Flexible-Length Aligned Transmodal Tokens for Retrieval and Generation",
+              "url": "https://huggingface.co/papers/2609.16591",
+              "source_name": "Hugging Face Trending Papers",
+              "published_at": "2026-09-15T00:00:00.000Z"
+            }
+          ],
+          "route": "/hot/2026-09-16/topic/flat-resampling-image-and-text-into-1d-flexible-length-aligned-transmodal-tokens-for-retrieval-and-generation/"
+        },
+        {
+          "topic_id": "67a9d312bd42",
+          "slug": "modularrsi-modular-and-generalizable-recursive-harness-self-improvement",
+          "headline": "ModularRSI: Modular and Generalizable Recursive Harness Self-Improvement",
+          "category": "Research",
+          "summary_short": "Recent work extends recursive self-improvement (RSI) to agent harnesses for long-horizon coding and terminal tasks, enabling agents to improve execution mechanisms from experience. However, generalizable harness RSI remains challenging.",
+          "why_it_matters": "This research paper surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 3.473,
+            "quality": 4.0,
+            "heat": 3.0,
+            "importance": 8.0,
+            "occurrence": 2.95,
+            "display_priority": 3.517,
+            "confidence": 3.502
+          },
+          "source_tier": "trusted_research",
+          "source_names": [
+            "Hugging Face Trending Papers"
+          ],
+          "source_roles": [
+            "paper_trending"
+          ],
+          "source_types": [
+            "paper"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "ModularRSI: Modular and Generalizable Recursive Harness Self-Improvement",
+              "url": "https://huggingface.co/papers/2609.14857",
+              "source_name": "Hugging Face Trending Papers",
+              "published_at": "2026-09-14T00:00:00.000Z"
+            }
+          ],
+          "route": "/hot/2026-09-16/topic/modularrsi-modular-and-generalizable-recursive-harness-self-improvement/"
+        }
+      ]
+    }
+  ],
+  "long_tail_sections": [
+    {
+      "category": "Product Release",
+      "total_candidates": 2,
+      "topics": [
+        {
+          "topic_id": "3594ee2f2987",
+          "slug": "introducing-system-one-models-and-jev",
+          "headline": "Introducing System One Models and Jev",
+          "category": "Product Release",
+          "summary_short": "A Hacker News item introduces System One Models and Jev. The supplied listing provides no technical specifications, benchmarks, or availability details",
+          "why_it_matters": "This product release surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.009,
+            "quality": 5.0,
+            "heat": 3.0,
+            "importance": 6.0,
+            "occurrence": 2.95,
+            "display_priority": 4.208,
+            "confidence": 3.963
+          },
+          "source_tier": "community",
+          "source_names": [
+            "Hacker News"
+          ],
+          "source_roles": [
+            "hn_discussion"
+          ],
+          "source_types": [
+            "discussion"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Introducing System One Models and Jev",
+              "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+              "source_name": "Hacker News",
+              "published_at": "2026-09-15T19:25:03Z"
+            }
+          ],
+          "route": "/hot/2026-09-16/topic/introducing-system-one-models-and-jev/"
+        },
+        {
+          "topic_id": "1399c09f6305",
+          "slug": "show-hn-pizza-bot-an-inbox-for-ai-agents-that-work-in-the-background",
+          "headline": "Show HN: Pizza Bot – An inbox for AI agents that work in the background",
+          "category": "Product Release",
+          "summary_short": "Pizza Bot is presented in a Show HN post as an inbox for AI agents that work in the background. The listing provides no further implementation or integration details",
+          "why_it_matters": "This product release surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.005,
+            "quality": 5.0,
+            "heat": 3.0,
+            "importance": 4.0,
+            "occurrence": 2.95,
+            "display_priority": 4.206,
+            "confidence": 3.961
+          },
+          "source_tier": "community",
+          "source_names": [
+            "Hacker News"
+          ],
+          "source_roles": [
+            "hn_discussion"
+          ],
+          "source_types": [
+            "discussion"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Show HN: Pizza Bot – An inbox for AI agents that work in the background",
+              "url": "https://github.com/pizza-bot-app/pizza-bot",
+              "source_name": "Hacker News",
+              "published_at": "2026-09-15T15:20:26Z"
+            }
+          ],
+          "route": "/hot/2026-09-16/topic/show-hn-pizza-bot-an-inbox-for-ai-agents-that-work-in-the-background/"
+        }
+      ]
+    },
+    {
+      "category": "Industry Update",
+      "total_candidates": 8,
+      "topics": [
+        {
+          "topic_id": "15086c026027",
+          "slug": "exclusive-paying-for-frontier-ai-models-buys-4-month-head-start-at-5x-the-cost",
+          "headline": "Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost",
+          "category": "Industry Update",
+          "summary_short": "Ars Technica previewed a Mozilla report examining how inexpensive open models catch up with frontier models on capability. The headline describes paid frontier models as providing a four-month head start at five times the cost",
+          "why_it_matters": "This other surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 4.441,
+            "quality": 4.0,
+            "heat": 3.0,
+            "importance": 6.0,
+            "occurrence": 2.95,
+            "display_priority": 3.952,
+            "confidence": 3.792
+          },
+          "source_tier": "trusted_analysis",
+          "source_names": [
+            "Ars Technica AI"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost",
+              "url": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models",
+              "source_name": "Ars Technica AI",
+              "published_at": "Tue, 15 Sep 2026 12:00:41 +0000"
+            }
+          ],
+          "route": "/hot/2026-09-16/topic/exclusive-paying-for-frontier-ai-models-buys-4-month-head-start-at-5x-the-cost/"
+        },
+        {
+          "topic_id": "b8095dbc157f",
+          "slug": "ai-for-everyone-in-every-language",
+          "headline": "AI for everyone in every language",
+          "category": "Industry Update",
+          "summary_short": "Google published an item titled \"AI for everyone in every language.\" The supplied summary describes a multilingual animation and identifies no specific product or research announcement",
+          "why_it_matters": "This other surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 4.161,
+            "quality": 4.0,
+            "heat": 3.0,
+            "importance": 2.0,
+            "occurrence": 2.95,
+            "display_priority": 4.216,
+            "confidence": 4.608
+          },
+          "source_tier": "official",
+          "source_names": [
+            "Google AI Blog"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "official_blog"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "AI for everyone in every language",
+              "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language",
+              "source_name": "Google AI Blog",
+              "published_at": "Tue, 15 Sep 2026 16:00:00 +0000"
+            }
+          ],
+          "route": "/hot/2026-09-16/topic/ai-for-everyone-in-every-language/"
+        },
+        {
+          "topic_id": "25e34c7f8ded",
+          "slug": "building-ai-to-accelerate-science-and-improve-lives",
+          "headline": "Building AI to accelerate science and improve lives",
+          "category": "Industry Update",
+          "summary_short": "Google published an item about building AI to accelerate science and improve lives. Its supplied summary describes footage of educational and healthcare settings rather than specific technical developments",
+          "why_it_matters": "This other surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 4.161,
+            "quality": 4.0,
+            "heat": 3.0,
+            "importance": 2.0,
+            "occurrence": 2.95,
+            "display_priority": 4.216,
+            "confidence": 4.608
+          },
+          "source_tier": "official",
+          "source_names": [
+            "Google AI Blog"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "official_blog"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Building AI to accelerate science and improve lives",
+              "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people",
+              "source_name": "Google AI Blog",
+              "published_at": "Tue, 15 Sep 2026 16:00:00 +0000"
+            }
+          ],
+          "route": "/hot/2026-09-16/topic/building-ai-to-accelerate-science-and-improve-lives/"
+        },
+        {
+          "topic_id": "8aee9c140be2",
+          "slug": "ai-kill-switch-may-need-to-be-mandatory-anthropic-co-founder-tells-bbc",
+          "headline": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
+          "category": "Industry Update",
+          "summary_short": "An Anthropic co-founder told the BBC that an AI kill switch may need to be mandatory. The interview was shared for discussion on Hacker News",
+          "why_it_matters": "This opinion surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 2.028,
+            "quality": 2.0,
+            "heat": 3.0,
+            "importance": 6.0,
+            "occurrence": 2.95,
+            "display_priority": 2.867,
+            "confidence": 3.068
+          },
+          "source_tier": "community",
+          "source_names": [
+            "Hacker News"
+          ],
+          "source_roles": [
+            "hn_discussion"
+          ],
+          "source_types": [
+            "discussion"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
+              "url": "https://www.bbc.com/news/articles/cqgk5e2j0gg8o",
+              "source_name": "Hacker News",
+              "published_at": "2026-09-15T13:41:28Z"
+            }
+          ],
+          "route": "/hot/2026-09-16/topic/ai-kill-switch-may-need-to-be-mandatory-anthropic-co-founder-tells-bbc/"
+        },
+        {
+          "topic_id": "d0f049bc5f07",
+          "slug": "1password-s-ai-patching-benchmark-is-misleading",
+          "headline": "1Password's AI patching benchmark is misleading",
+          "category": "Industry Update",
+          "summary_short": "A Hacker News item argues that 1Password's AI patching benchmark is misleading. The supplied text does not include the supporting criticism or benchmark details",
+          "why_it_matters": "This opinion surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 1.818,
+            "quality": 2.0,
+            "heat": 3.0,
+            "importance": 4.0,
+            "occurrence": 2.95,
+            "display_priority": 2.772,
+            "confidence": 3.005
+          },
+          "source_tier": "community",
+          "source_names": [
+            "Hacker News"
+          ],
+          "source_roles": [
+            "hn_discussion"
+          ],
+          "source_types": [
+            "discussion"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "1Password's AI patching benchmark is misleading",
+              "url": "https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading",
+              "source_name": "Hacker News",
+              "published_at": "2026-09-15T11:54:11Z"
+            }
+          ],
+          "route": "/hot/2026-09-16/topic/1password-s-ai-patching-benchmark-is-misleading/"
+        },
+        {
+          "topic_id": "10289fd40772",
+          "slug": "ai-for-societal-impact",
+          "headline": "AI for Societal Impact",
+          "category": "Industry Update",
+          "summary_short": "Google presents an \"AI for Societal Impact\" collection. The excerpt highlights experts and local leaders using AI breakthroughs but does not specify individual projects",
+          "why_it_matters": "This recap surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 1.79,
+            "quality": 2.0,
+            "heat": 3.0,
+            "importance": 2.0,
+            "occurrence": 2.95,
+            "display_priority": 3.149,
+            "confidence": 3.897
+          },
+          "source_tier": "official",
+          "source_names": [
+            "Google AI Blog"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "official_blog"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "AI for Societal Impact",
+              "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact",
+              "source_name": "Google AI Blog",
+              "published_at": "Tue, 15 Sep 2026 16:00:00 +0000"
+            }
+          ],
+          "route": "/hot/2026-09-16/topic/ai-for-societal-impact/"
+        }
+      ]
+    }
+  ],
+  "watchlist": [],
+  "x_buzz": [
+    {
+      "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
+      "summary": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
+      "url": "https://www.bbc.com/news/articles/cqgk5e2j0gg8o",
+      "source_id": "hn_discussion",
+      "source_name": "Hacker News",
+      "source_role": "hn_discussion",
+      "linked_topic": ""
+    },
+    {
+      "title": "Cohere & Aleph Alpha : IA sous votre contrôle transatlantique | Cohere",
+      "summary": "Cohere et Aleph Alpha s’associent pour lancer la première solution d’IA sous votre contrôle transatlantique, avec des sièges sociaux à Berlin et Toronto, offrant une IA sécurisée et contrôlable.",
+      "url": "https://cohere.com/fr/blog/cohere-and-aleph-alpha-sign-agreement",
+      "source_id": "cohere_blog",
+      "source_name": "Cohere Blog",
+      "source_role": "official_news",
+      "linked_topic": "Cohere & Aleph Alpha : IA sous votre contrôle transatlantique | Cohere"
+    },
+    {
+      "title": "Cohere & Aleph Alpha: Transatlantic Sovereign AI | Cohere",
+      "summary": "Cohere and Aleph Alpha partner to launch the first transatlantic sovereign AI solution with dual headquarters in Berlin and Toronto, providing secure and governable AI.",
+      "url": "https://cohere.com/blog/cohere-and-aleph-alpha-sign-agreement",
+      "source_id": "cohere_blog",
+      "source_name": "Cohere Blog",
+      "source_role": "official_news",
+      "linked_topic": "Cohere & Aleph Alpha : IA sous votre contrôle transatlantique | Cohere"
+    },
+    {
+      "title": "Cohere & Aleph Alpha: Transatlantische Souveränität in KI | Cohere",
+      "summary": "Cohere und Aleph Alpha gründen das erste transatlantische Unternehmen für souveräne KI mit Hauptsitzen in Berlin und Toronto – für sichere und kontrollierbare KI-Lösungen.",
+      "url": "https://cohere.com/de/blog/cohere-and-aleph-alpha-sign-agreement",
+      "source_id": "cohere_blog",
+      "source_name": "Cohere Blog",
+      "source_role": "official_news",
+      "linked_topic": "Cohere & Aleph Alpha : IA sous votre contrôle transatlantique | Cohere"
+    },
+    {
+      "title": "Cohere & Aleph Alpha: 대서양 횡단 주권 AI | Cohere",
+      "summary": "Cohere와 Aleph Alpha가 베를린과 토론토에 공동 본사를 둔 대서양 횡단 주권 AI 솔루션을 출시하기 위해 파트너십을 체결했습니다. 이를 통해 안전하고 관리 가능한 AI를 제공합니다.",
+      "url": "https://cohere.com/ko/blog/cohere-and-aleph-alpha-sign-agreement",
+      "source_id": "cohere_blog",
+      "source_name": "Cohere Blog",
+      "source_role": "official_news",
+      "linked_topic": "Cohere & Aleph Alpha : IA sous votre contrôle transatlantique | Cohere"
+    }
+  ],
+  "resurgence": []
+}

@@ -1,0 +1,2319 @@
+{
+  "schema_version": 1,
+  "meta": {
+    "date": "2026-09-19",
+    "month": "2026-09",
+    "year": "2026",
+    "generated_at": "2026-09-21T21:46:50.515921+00:00",
+    "mode": "openai",
+    "summary": "• [Tooling] wuyoscar/jev-skill — This tooling surfaced across 1 independent source(s).\n• [Product Release] Introducing Kimi K3 on Amazon Bedrock — This product release surfaced across 1 independent source(s).\n• [Product Release] Introducing the Australian Youth Safety Blueprint — This product release surfaced across 1 independent source(s).",
+    "previous_date": "2026-09-18",
+    "next_date": "2026-09-20",
+    "paper_routes": {
+      "home": "../../",
+      "day": null,
+      "month": null,
+      "year": null
+    },
+    "counts": {
+      "featured_topics": 3,
+      "topic_summary": 2,
+      "category_radar": 12,
+      "long_tail": 8,
+      "paper_spotlight": 0,
+      "x_buzz": 5,
+      "watchlist": 0,
+      "source_items": 30,
+      "resurgence": 0
+    }
+  },
+  "totals": {
+    "raw_items": 72,
+    "enriched_items": 0,
+    "stories": 0,
+    "featured": 3,
+    "watchlist": 0,
+    "category_topics": 12,
+    "long_tail_topics": 8,
+    "paper_spotlight_items": 6
+  },
+  "costs": {
+    "prompt": 0.0,
+    "completion": 0.0,
+    "total": 0.0
+  },
+  "usage": {
+    "llm": {
+      "provider": "openai",
+      "backend": "openai",
+      "billing_model": "quota",
+      "screen_model": "gpt-5.6",
+      "summary_model": "gpt-5.6",
+      "requests": 0,
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0,
+      "prompt_cost": 0.0,
+      "completion_cost": 0.0,
+      "total_cost": 0.0
+    },
+    "external": {
+      "ainews": {
+        "provider": "AINews RSS",
+        "billing_model": "free",
+        "requests": 1,
+        "items": 0,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "analysis_feeds": {
+        "provider": "Analysis RSS feeds",
+        "billing_model": "free",
+        "requests": 13,
+        "items": 11,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "github_trend": {
+        "provider": "GitHub API",
+        "billing_model": "free",
+        "requests": 2,
+        "items": 15,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "hf_papers": {
+        "provider": "Hugging Face",
+        "billing_model": "free",
+        "requests": 1,
+        "items": 12,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "hn_discussion": {
+        "provider": "Hacker News API",
+        "billing_model": "free",
+        "requests": 6,
+        "items": 9,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "local_papers": {
+        "provider": "Local cache",
+        "billing_model": "local",
+        "requests": 0,
+        "items": 0,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "model_hubs": {
+        "provider": "Hugging Face model index",
+        "billing_model": "free",
+        "requests": 20,
+        "items": 0,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "official_blogs": {
+        "provider": "Official blogs",
+        "billing_model": "free",
+        "requests": 30,
+        "items": 32,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "reddit": {
+        "provider": "Reddit JSON API",
+        "billing_model": "free",
+        "requests": 0,
+        "items": 0,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "roundup_sites": {
+        "provider": "Roundup sites",
+        "billing_model": "free",
+        "requests": 8,
+        "items": 13,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "x_ainews_twitter": {
+        "provider": "AINews Twitter recap",
+        "billing_model": "free",
+        "requests": 1,
+        "items": 0,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "x_twitterapi": {
+        "provider": "twitterapi.io",
+        "billing_model": "metered",
+        "requests": 0,
+        "items": 0,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      }
+    },
+    "summary": {
+      "external_requests": 82,
+      "x_requests": 1,
+      "estimated_external_cost": 0.0
+    }
+  },
+  "source_stats": {
+    "ainews": 0,
+    "analysis_feeds": 11,
+    "github_trend": 15,
+    "hf_papers": 12,
+    "hn_discussion": 9,
+    "local_papers": 0,
+    "model_hubs": 0,
+    "official_blogs": 32,
+    "reddit": 0,
+    "roundup_sites": 13,
+    "x_ainews_twitter": 0,
+    "x_twitterapi": 0
+  },
+  "source_section_counts": {
+    "official": 10,
+    "market-signals": 0,
+    "analysis": 8,
+    "papers": 0,
+    "github": 6,
+    "industry": 6
+  },
+  "source_sections": [
+    {
+      "slug": "official",
+      "label": "Official Updates",
+      "description": "Product, research, and platform updates from official vendor or lab channels.",
+      "count": 10,
+      "section_score": 12.628,
+      "items": [
+        {
+          "id": "aws_ai_blog-2d2ff4af69a5",
+          "title": "Introducing Kimi K3 on Amazon Bedrock",
+          "summary_short": "Moonshot AI's Kimi K3 is now available on Amazon Bedrock as an open-weight model for coding and knowledge work. It supports native vision and a one-million-token context window",
+          "url": "https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-on-amazon-bedrock",
+          "canonical_url": "https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-on-amazon-bedrock",
+          "source_id": "aws_ai_blog",
+          "source_name": "AWS AI Blog",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "source_family": "official",
+          "published_at": "Fri, 18 Sep 2026 16:52:01 +0000",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 7.338,
+          "topic_refs": [
+            {
+              "topic_id": "706c111c9e57",
+              "slug": "introducing-kimi-k3-on-amazon-bedrock",
+              "headline": "Introducing Kimi K3 on Amazon Bedrock",
+              "daily_route": "/hot/2026-09-19/topic/introducing-kimi-k3-on-amazon-bedrock/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "aws_ai_blog-271cc6cc6ef3",
+          "title": "Migrating multi-model AI agents to Amazon Bedrock AgentCore runtime",
+          "summary_short": "Migrate a multi-model healthcare AI agent from self-managed Amazon ECS with AWS Fargate to Amazon Bedrock AgentCore runtime, preserving triple-model orchestration and vector-enhanced knowledge retrieval while reducing infrastructure management.",
+          "url": "https://aws.amazon.com/blogs/machine-learning/migrating-multi-model-ai-agents-to-amazon-bedrock-agentcore-runtime",
+          "canonical_url": "https://aws.amazon.com/blogs/machine-learning/migrating-multi-model-ai-agents-to-amazon-bedrock-agentcore-runtime",
+          "source_id": "aws_ai_blog",
+          "source_name": "AWS AI Blog",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "source_family": "official",
+          "published_at": "Fri, 18 Sep 2026 15:38:53 +0000",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 7.338,
+          "topic_refs": [
+            {
+              "topic_id": "706c111c9e57",
+              "slug": "introducing-kimi-k3-on-amazon-bedrock",
+              "headline": "Introducing Kimi K3 on Amazon Bedrock",
+              "daily_route": "/hot/2026-09-19/topic/introducing-kimi-k3-on-amazon-bedrock/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "aws_ai_blog-3b6074e1101c",
+          "title": "The new AgentCore runtime: Elastic, optimized, and consistently fast starts",
+          "summary_short": "Today we are announcing the new AgentCore runtime, a capability of Amazon Bedrock AgentCore built for the speed, flexibility, and cost efficiency that production agents demand. It reclaims memory as sessions release it and delivers consistent cold starts regardless of image size or concurrency",
+          "url": "https://aws.amazon.com/blogs/machine-learning/the-new-agentcore-runtime-elastic-optimized-and-consistently-fast-starts",
+          "canonical_url": "https://aws.amazon.com/blogs/machine-learning/the-new-agentcore-runtime-elastic-optimized-and-consistently-fast-starts",
+          "source_id": "aws_ai_blog",
+          "source_name": "AWS AI Blog",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "source_family": "official",
+          "published_at": "Fri, 18 Sep 2026 15:31:34 +0000",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 7.338,
+          "topic_refs": [
+            {
+              "topic_id": "706c111c9e57",
+              "slug": "introducing-kimi-k3-on-amazon-bedrock",
+              "headline": "Introducing Kimi K3 on Amazon Bedrock",
+              "daily_route": "/hot/2026-09-19/topic/introducing-kimi-k3-on-amazon-bedrock/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "openai_news-559b0cf11197",
+          "title": "Introducing the Australian Youth Safety Blueprint",
+          "summary_short": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people",
+          "url": "https://openai.com/index/australian-youth-safety-blueprint",
+          "canonical_url": "https://openai.com/index/australian-youth-safety-blueprint",
+          "source_id": "openai_news",
+          "source_name": "OpenAI News",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "source_family": "official",
+          "published_at": "Fri, 18 Sep 2026 12:00:00 GMT",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 7.176,
+          "topic_refs": [
+            {
+              "topic_id": "23776a16abdd",
+              "slug": "introducing-the-australian-youth-safety-blueprint",
+              "headline": "Introducing the Australian Youth Safety Blueprint",
+              "daily_route": "/hot/2026-09-19/topic/introducing-the-australian-youth-safety-blueprint/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "aws_ai_blog-fe1a0ab278d3",
+          "title": "Amazon SageMaker Inference: 2026 year-to-date launches in review",
+          "summary_short": "Amazon SageMaker AI shipped 13 inference launches in year-to-date across two deployment paths: fully managed endpoints and Amazon SageMaker HyperPod Inference.",
+          "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-year-to-date-launches-in-review",
+          "canonical_url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-year-to-date-launches-in-review",
+          "source_id": "aws_ai_blog",
+          "source_name": "AWS AI Blog",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "source_family": "official",
+          "published_at": "Fri, 18 Sep 2026 20:52:14 +0000",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 5.648,
+          "topic_refs": [
+            {
+              "topic_id": "14db38045117",
+              "slug": "enhancing-industrial-safety-ai-with-synthetic-data-on-amazon-sagemaker-ai",
+              "headline": "Enhancing industrial safety AI with synthetic data on Amazon SageMaker AI",
+              "daily_route": "/hot/2026-09-19/topic/enhancing-industrial-safety-ai-with-synthetic-data-on-amazon-sagemaker-ai/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "aws_ai_blog-2f23b39ba223",
+          "title": "Deploy Hugging Face models on Amazon SageMaker AI with coding agents",
+          "summary_short": "Deploy production-ready Hugging Face models on Amazon SageMaker AI using six open-source agent skills. Point a coding agent at a model and get back a real-time endpoint with the right serving container, autoscaling, Amazon CloudWatch alarms, and a verified teardown path",
+          "url": "https://aws.amazon.com/blogs/machine-learning/deploy-hugging-face-models-on-amazon-sagemaker-ai-with-coding-agents",
+          "canonical_url": "https://aws.amazon.com/blogs/machine-learning/deploy-hugging-face-models-on-amazon-sagemaker-ai-with-coding-agents",
+          "source_id": "aws_ai_blog",
+          "source_name": "AWS AI Blog",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "source_family": "official",
+          "published_at": "Fri, 18 Sep 2026 15:25:23 +0000",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 5.648,
+          "topic_refs": [
+            {
+              "topic_id": "14db38045117",
+              "slug": "enhancing-industrial-safety-ai-with-synthetic-data-on-amazon-sagemaker-ai",
+              "headline": "Enhancing industrial safety AI with synthetic data on Amazon SageMaker AI",
+              "daily_route": "/hot/2026-09-19/topic/enhancing-industrial-safety-ai-with-synthetic-data-on-amazon-sagemaker-ai/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "aws_ai_blog-f24c916df15c",
+          "title": "Introducing Amazon SageMaker HyperPod Inference Gateway",
+          "summary_short": "Amazon SageMaker HyperPod Inference Gateway is a Kubernetes-native, GPU-aware routing add-on for Amazon EKS. It uses real-time GPU signals to send each inference request to the best-suited pod, cutting first-token latency by up to 82% with no changes to your model servers or client applications",
+          "url": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-inference-gateway",
+          "canonical_url": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-inference-gateway",
+          "source_id": "aws_ai_blog",
+          "source_name": "AWS AI Blog",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "source_family": "official",
+          "published_at": "Fri, 18 Sep 2026 13:08:34 +0000",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 5.648,
+          "topic_refs": [
+            {
+              "topic_id": "14db38045117",
+              "slug": "enhancing-industrial-safety-ai-with-synthetic-data-on-amazon-sagemaker-ai",
+              "headline": "Enhancing industrial safety AI with synthetic data on Amazon SageMaker AI",
+              "daily_route": "/hot/2026-09-19/topic/enhancing-industrial-safety-ai-with-synthetic-data-on-amazon-sagemaker-ai/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "google_research_blog-c2855615ec11",
+          "title": "MilleMiglia: A realistic instance generator for middle-mile logistics",
+          "summary_short": "Google Research introduced MilleMiglia, described as a realistic instance generator for middle-mile logistics. The post is categorized under Algorithms & Theory",
+          "url": "https://research.google/blog/millemiglia-a-realistic-instance-generator-for-middle-mile-logistics",
+          "canonical_url": "https://research.google/blog/millemiglia-a-realistic-instance-generator-for-middle-mile-logistics",
+          "source_id": "google_research_blog",
+          "source_name": "Google Research Blog",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "source_family": "official",
+          "published_at": "Fri, 18 Sep 2026 17:46:09 +0000",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 5.493,
+          "topic_refs": [
+            {
+              "topic_id": "22301df766e8",
+              "slug": "millemiglia-a-realistic-instance-generator-for-middle-mile-logistics",
+              "headline": "MilleMiglia: A realistic instance generator for middle-mile logistics",
+              "daily_route": "/hot/2026-09-19/topic/millemiglia-a-realistic-instance-generator-for-middle-mile-logistics/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "google_ai_blog-94ad9f737cb6",
+          "title": "Co-creating the future of fashion with Google",
+          "summary_short": "Google published a post about co-creating the future of fashion. The supplied summary names Jane Wade and Sergio Hudson but provides no details about the work",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week",
+          "canonical_url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week",
+          "source_id": "google_ai_blog",
+          "source_name": "Google AI Blog",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "source_family": "official",
+          "published_at": "Fri, 18 Sep 2026 13:00:00 +0000",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 5.366,
+          "topic_refs": [
+            {
+              "topic_id": "acbc8dfee3a2",
+              "slug": "co-creating-the-future-of-fashion-with-google",
+              "headline": "Co-creating the future of fashion with Google",
+              "daily_route": "/hot/2026-09-19/topic/co-creating-the-future-of-fashion-with-google/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "google_ai_blog-c72f60fcf6ad",
+          "title": "New experts join Google’s AI & Economy team",
+          "summary_short": "Text \"AI & Economy Research Program\" all over a green grid background, with the Google G logo in the bottom right corner",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench",
+          "canonical_url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench",
+          "source_id": "google_ai_blog",
+          "source_name": "Google AI Blog",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "source_family": "official",
+          "published_at": "Fri, 18 Sep 2026 14:00:00 +0000",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 5.23,
+          "topic_refs": [
+            {
+              "topic_id": "95301f0d3f67",
+              "slug": "new-insights-from-google-s-ai-economy-atlas",
+              "headline": "New insights from Google’s AI & Economy ATLAS",
+              "daily_route": "/hot/2026-09-19/topic/new-insights-from-google-s-ai-economy-atlas/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        }
+      ]
+    },
+    {
+      "slug": "market-signals",
+      "label": "Market Signals",
+      "description": "Funding rounds, acquisitions, valuations, and strategic moves in the AI industry.",
+      "count": 0,
+      "section_score": -1.0,
+      "items": []
+    },
+    {
+      "slug": "analysis",
+      "label": "Expert Analysis",
+      "description": "Long-form expert analysis and research explainers with substantive depth.",
+      "count": 8,
+      "section_score": 10.437,
+      "items": [
+        {
+          "id": "analysis_simon_willison-93b15eb0cb1a",
+          "title": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
+          "summary_short": "The report says Google's Gemini hacked three companies. It describes the incident as the first known breakout by Google's AI",
+          "url": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies",
+          "canonical_url": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies",
+          "source_id": "analysis_simon_willison",
+          "source_name": "Simon Willison's Blog",
+          "source_role": "editorial_depth",
+          "source_type": "blog_analysis",
+          "source_family": "analysis",
+          "published_at": "2026-09-18T23:57:57+00:00",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 6.849,
+          "topic_refs": [
+            {
+              "topic_id": "800f5bf4ec4b",
+              "slug": "gemini-hacked-three-companies-in-first-known-breakout-by-google-s-ai",
+              "headline": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
+              "daily_route": "/hot/2026-09-19/topic/gemini-hacked-three-companies-in-first-known-breakout-by-google-s-ai/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "analysis_arstechnica_ai-baf58204e267",
+          "title": "Researchers used Claude to hack OpenAI",
+          "summary_short": "Researchers used Claude to gain access to an OpenAI employee account. The report says they also reached sensitive GitHub data",
+          "url": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai",
+          "canonical_url": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai",
+          "source_id": "analysis_arstechnica_ai",
+          "source_name": "Ars Technica AI",
+          "source_role": "editorial_depth",
+          "source_type": "blog_analysis",
+          "source_family": "analysis",
+          "published_at": "Fri, 18 Sep 2026 13:30:12 +0000",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 6.773,
+          "topic_refs": [
+            {
+              "topic_id": "b91cc0b6526a",
+              "slug": "researchers-used-claude-to-hack-openai",
+              "headline": "Researchers used Claude to hack OpenAI",
+              "daily_route": "/hot/2026-09-19/topic/researchers-used-claude-to-hack-openai/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "analysis_arstechnica_ai-27c9ec9881a1",
+          "title": "FAA tees up $875M AI tool to help manage air traffic congestion",
+          "summary_short": "The FAA plans a $875 million AI tool to help manage air traffic congestion. The planned deployment starts in Washington, DC, before a nationwide rollout",
+          "url": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion",
+          "canonical_url": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion",
+          "source_id": "analysis_arstechnica_ai",
+          "source_name": "Ars Technica AI",
+          "source_role": "editorial_depth",
+          "source_type": "blog_analysis",
+          "source_family": "analysis",
+          "published_at": "Fri, 18 Sep 2026 19:20:50 +0000",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 4.922,
+          "topic_refs": [
+            {
+              "topic_id": "351e64be1c31",
+              "slug": "faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion",
+              "headline": "FAA tees up $875M AI tool to help manage air traffic congestion",
+              "daily_route": "/hot/2026-09-19/topic/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "analysis_arstechnica_ai-bd1e4d7043e5",
+          "title": "US government website used Chinese model the FBI called \"malicious\"",
+          "summary_short": "The Federal Register website briefly used an open-source Chinese AI search tool. The report says the FBI had called the underlying model malicious",
+          "url": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious",
+          "canonical_url": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious",
+          "source_id": "analysis_arstechnica_ai",
+          "source_name": "Ars Technica AI",
+          "source_role": "editorial_depth",
+          "source_type": "blog_analysis",
+          "source_family": "analysis",
+          "published_at": "Fri, 18 Sep 2026 17:28:50 +0000",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 4.883,
+          "topic_refs": [
+            {
+              "topic_id": "1812da5166fe",
+              "slug": "us-government-website-used-chinese-model-the-fbi-called-malicious",
+              "headline": "US government website used Chinese model the FBI called \"malicious\"",
+              "daily_route": "/hot/2026-09-19/topic/us-government-website-used-chinese-model-the-fbi-called-malicious/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "analysis_mit_ai_news-0cf2be2f0ba1",
+          "title": "A new chapter for MIT Reads",
+          "summary_short": "A new focus on fiction and memoir aims to help the MIT community celebrate the power of storytelling and strengthen social connection",
+          "url": "https://news.mit.edu/2026/new-chapter-mit-reads-0918",
+          "canonical_url": "https://news.mit.edu/2026/new-chapter-mit-reads-0918",
+          "source_id": "analysis_mit_ai_news",
+          "source_name": "MIT News AI",
+          "source_role": "editorial_depth",
+          "source_type": "blog_analysis",
+          "source_family": "analysis",
+          "published_at": "Fri, 18 Sep 2026 12:30:00 -0400",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 4.693,
+          "topic_refs": [
+            {
+              "topic_id": "f1c8b170d66f",
+              "slug": "a-new-chapter-for-mit-reads",
+              "headline": "A new chapter for MIT Reads",
+              "daily_route": "/hot/2026-09-19/topic/a-new-chapter-for-mit-reads/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "analysis_simon_willison-04099fadb511",
+          "title": "Note on 18th September 2026",
+          "summary_short": "<p>Being a computer scientist who refuses to find anything about LLMs interesting right now is a bit like being a geneticist who refuses to find anything interesting about the recently opened Jurassic Park.</p> <p>Skeptical geneticist: \"pfft, it's just frog DNA.",
+          "url": "https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you",
+          "canonical_url": "https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you",
+          "source_id": "analysis_simon_willison",
+          "source_name": "Simon Willison's Blog",
+          "source_role": "editorial_depth",
+          "source_type": "blog_analysis",
+          "source_family": "analysis",
+          "published_at": "2026-09-18T19:21:32+00:00",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 4.693,
+          "topic_refs": [
+            {
+              "topic_id": "fe592cd3b04c",
+              "slug": "note-on-18th-september-2026",
+              "headline": "Note on 18th September 2026",
+              "daily_route": "/hot/2026-09-19/topic/note-on-18th-september-2026/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "analysis_arstechnica_ai-0683c017ff7a",
+          "title": "Google announces new experimental \"CC\" AI agent for families",
+          "summary_short": "Multiple family members can share data to help the agent make plans and complete tasks",
+          "url": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families",
+          "canonical_url": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families",
+          "source_id": "analysis_arstechnica_ai",
+          "source_name": "Ars Technica AI",
+          "source_role": "editorial_depth",
+          "source_type": "blog_analysis",
+          "source_family": "analysis",
+          "published_at": "Thu, 17 Sep 2026 20:24:34 +0000",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 1.3,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "analysis_arstechnica_ai-a27c34507684",
+          "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
+          "summary_short": "SynthID can cause models to follow harmful instructions they would otherwise refuse",
+          "url": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts",
+          "canonical_url": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts",
+          "source_id": "analysis_arstechnica_ai",
+          "source_name": "Ars Technica AI",
+          "source_role": "editorial_depth",
+          "source_type": "blog_analysis",
+          "source_family": "analysis",
+          "published_at": "Thu, 17 Sep 2026 18:33:13 +0000",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 1.3,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        }
+      ]
+    },
+    {
+      "slug": "papers",
+      "label": "Research Papers",
+      "description": "Research papers and paper-trending signals tied to the current day.",
+      "count": 0,
+      "section_score": -1.0,
+      "items": []
+    },
+    {
+      "slug": "github",
+      "label": "GitHub / Tools",
+      "description": "Repositories, tooling launches, and builder momentum around practical AI systems.",
+      "count": 6,
+      "section_score": 6.915,
+      "items": [
+        {
+          "id": "github_trend-a770f286dbf8",
+          "title": "wuyoscar/jev-skill",
+          "summary_short": "An awesome collection of Jev use cases, workflows, and agent skills",
+          "url": "https://github.com/wuyoscar/jev-skill",
+          "canonical_url": "https://github.com/wuyoscar/jev-skill",
+          "source_id": "github_trend",
+          "source_name": "GitHub Trending Repos",
+          "source_role": "github_trend",
+          "source_type": "repository",
+          "source_family": "github",
+          "published_at": "2026-09-20T02:35:26Z",
+          "tags": [],
+          "authors": [
+            "wuyoscar"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 359,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 7.254,
+          "topic_refs": [
+            {
+              "topic_id": "7ee3af82ce12",
+              "slug": "wuyoscar-jev-skill",
+              "headline": "wuyoscar/jev-skill",
+              "daily_route": "/hot/2026-09-19/topic/wuyoscar-jev-skill/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "github_trend-1aaf19b7744c",
+          "title": "browser-use/jev-ultrafast",
+          "summary_short": "Fastest and cheapest web agent",
+          "url": "https://github.com/browser-use/jev-ultrafast",
+          "canonical_url": "https://github.com/browser-use/jev-ultrafast",
+          "source_id": "github_trend",
+          "source_name": "GitHub Trending Repos",
+          "source_role": "github_trend",
+          "source_type": "repository",
+          "source_family": "github",
+          "published_at": "2026-09-16T21:30:12Z",
+          "tags": [],
+          "authors": [
+            "browser-use"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 15488,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 3.35,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "github_trend-c2b6457f5bfb",
+          "title": "mcncarl/jianying-headless",
+          "summary_short": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill",
+          "url": "https://github.com/mcncarl/jianying-headless",
+          "canonical_url": "https://github.com/mcncarl/jianying-headless",
+          "source_id": "github_trend",
+          "source_name": "GitHub Trending Repos",
+          "source_role": "github_trend",
+          "source_type": "repository",
+          "source_family": "github",
+          "published_at": "2026-09-15T11:51:15Z",
+          "tags": [],
+          "authors": [
+            "mcncarl"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 2354,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 3.35,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "github_trend-639d4b24f18d",
+          "title": "Continuum-AI-Corp/OrcaBonsai-27B-Uncensored",
+          "summary_short": "Runtime behavioral ablation for compressed LLMs. First target: Ternary Bonsai 2 27B — no weight modification or re-quantization. by OrcaRouter team",
+          "url": "https://github.com/Continuum-AI-Corp/OrcaBonsai-27B-Uncensored",
+          "canonical_url": "https://github.com/Continuum-AI-Corp/OrcaBonsai-27B-Uncensored",
+          "source_id": "github_trend",
+          "source_name": "GitHub Trending Repos",
+          "source_role": "github_trend",
+          "source_type": "repository",
+          "source_family": "github",
+          "published_at": "2026-09-18T06:45:54Z",
+          "tags": [],
+          "authors": [
+            "Continuum-AI-Corp"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 518,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 1.986,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "github_trend-acd51b3064a0",
+          "title": "rmalde/minecraft-agent",
+          "summary_short": "Astra planner and JEV controller for Minecraft, with native recording, tested routes, and run verification",
+          "url": "https://github.com/rmalde/minecraft-agent",
+          "canonical_url": "https://github.com/rmalde/minecraft-agent",
+          "source_id": "github_trend",
+          "source_name": "GitHub Trending Repos",
+          "source_role": "github_trend",
+          "source_type": "repository",
+          "source_family": "github",
+          "published_at": "2026-09-20T05:05:12Z",
+          "tags": [],
+          "authors": [
+            "rmalde"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 459,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 1.868,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "github_trend-1e4051b18224",
+          "title": "kerpopule/hermes-jev-skills",
+          "summary_short": "Jev-powered model routing, memory, compaction, skill selection, computer and browser use for Hermes agents (also Claude Code and Codex",
+          "url": "https://github.com/kerpopule/hermes-jev-skills",
+          "canonical_url": "https://github.com/kerpopule/hermes-jev-skills",
+          "source_id": "github_trend",
+          "source_name": "GitHub Trending Repos",
+          "source_role": "github_trend",
+          "source_type": "repository",
+          "source_family": "github",
+          "published_at": "2026-09-18T20:01:29Z",
+          "tags": [],
+          "authors": [
+            "kerpopule"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 386,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 1.722,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        }
+      ]
+    },
+    {
+      "slug": "industry",
+      "label": "Industry News",
+      "description": "Curated industry coverage from newsletters, blogs, and community sources with substance.",
+      "count": 6,
+      "section_score": 9.605,
+      "items": [
+        {
+          "id": "hn_discussion-64adcb8eecb3",
+          "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+          "summary_short": "",
+          "url": "https://spectrum.ieee.org/llms-for-chip-design",
+          "canonical_url": "https://spectrum.ieee.org/llms-for-chip-design",
+          "source_id": "hn_discussion",
+          "source_name": "Hacker News",
+          "source_role": "hn_discussion",
+          "source_type": "discussion",
+          "source_family": "industry",
+          "published_at": "2026-09-18T23:04:17Z",
+          "tags": [],
+          "authors": [
+            "maxall4"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 203,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 7.823,
+          "topic_refs": [
+            {
+              "topic_id": "b91cc0b6526a",
+              "slug": "researchers-used-claude-to-hack-openai",
+              "headline": "Researchers used Claude to hack OpenAI",
+              "daily_route": "/hot/2026-09-19/topic/researchers-used-claude-to-hack-openai/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "hn_discussion-278814ed4179",
+          "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+          "summary_short": "A Hacker News item reports that Alibaba has open-sourced an AI model described as capable of detecting cancer and nearly 150 conditions. The supplied text does not name the model or provide validation results",
+          "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
+          "canonical_url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
+          "source_id": "hn_discussion",
+          "source_name": "Hacker News",
+          "source_role": "hn_discussion",
+          "source_type": "discussion",
+          "source_family": "industry",
+          "published_at": "2026-09-18T23:54:42Z",
+          "tags": [],
+          "authors": [
+            "yogthos"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 151,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 6.159,
+          "topic_refs": [
+            {
+              "topic_id": "08710260844d",
+              "slug": "alibaba-open-sources-ai-model-that-can-detect-cancer-and-nearly-150-conditions",
+              "headline": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+              "daily_route": "/hot/2026-09-19/topic/alibaba-open-sources-ai-model-that-can-detect-cancer-and-nearly-150-conditions/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "hn_discussion-b3566f385089",
+          "title": "ZCode, the GLM coding agent, silently uploads your Git history",
+          "summary_short": "A Hacker News item alleges that ZCode, a GLM coding agent, silently uploads users' Git history. The supplied text provides no technical evidence or vendor response",
+          "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+          "canonical_url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+          "source_id": "hn_discussion",
+          "source_name": "Hacker News",
+          "source_role": "hn_discussion",
+          "source_type": "discussion",
+          "source_family": "industry",
+          "published_at": "2026-09-18T10:35:28Z",
+          "tags": [],
+          "authors": [
+            "cdnsteve"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 262,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 5.704,
+          "topic_refs": [
+            {
+              "topic_id": "0d455ad2800a",
+              "slug": "zcode-the-glm-coding-agent-silently-uploads-your-git-history",
+              "headline": "ZCode, the GLM coding agent, silently uploads your Git history",
+              "daily_route": "/hot/2026-09-19/topic/zcode-the-glm-coding-agent-silently-uploads-your-git-history/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "hn_discussion-39b208522bb5",
+          "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
+          "summary_short": "",
+          "url": "https://www.hacktron.ai/blog/hacking-openai",
+          "canonical_url": "https://www.hacktron.ai/blog/hacking-openai",
+          "source_id": "hn_discussion",
+          "source_name": "Hacker News",
+          "source_role": "hn_discussion",
+          "source_type": "discussion",
+          "source_family": "industry",
+          "published_at": "2026-09-18T02:47:24Z",
+          "tags": [],
+          "authors": [
+            "Handy-Man"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 488,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 5.414,
+          "topic_refs": [
+            {
+              "topic_id": "8387a4a50dbb",
+              "slug": "microsoft-openai-lose-fight-to-hide-internal-docs-admitting-scraping-is-theft",
+              "headline": "Microsoft, OpenAI lose fight to hide internal docs admitting scraping is theft",
+              "daily_route": "/hot/2026-09-19/topic/microsoft-openai-lose-fight-to-hide-internal-docs-admitting-scraping-is-theft/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "hn_discussion-6496bc270219",
+          "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
+          "summary_short": "A Hacker News item highlights the 2025 work titled Cache-to-Cache: Direct Semantic Communication Between LLMs. The work concerns direct semantic communication between language models, but the supplied text gives no methods or results",
+          "url": "https://arxiv.org/abs/2510.03215",
+          "canonical_url": "https://arxiv.org/abs/2510.03215",
+          "source_id": "hn_discussion",
+          "source_name": "Hacker News",
+          "source_role": "hn_discussion",
+          "source_type": "discussion",
+          "source_family": "industry",
+          "published_at": "2026-09-18T18:55:35Z",
+          "tags": [],
+          "authors": [
+            "rochansinha"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 107,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 5.358,
+          "topic_refs": [
+            {
+              "topic_id": "93ce29635e67",
+              "slug": "cache-to-cache-direct-semantic-communication-between-llms-2025",
+              "headline": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
+              "daily_route": "/hot/2026-09-19/topic/cache-to-cache-direct-semantic-communication-between-llms-2025/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "hn_discussion-048f23776205",
+          "title": "The Implications of Linguistic Illegibility for LLM Security",
+          "summary_short": "A Hacker News item highlights a work examining the implications of linguistic illegibility for LLM security. The supplied text does not describe its arguments or findings",
+          "url": "https://arxiv.org/abs/2609.02852",
+          "canonical_url": "https://arxiv.org/abs/2609.02852",
+          "source_id": "hn_discussion",
+          "source_name": "Hacker News",
+          "source_role": "hn_discussion",
+          "source_type": "discussion",
+          "source_family": "industry",
+          "published_at": "2026-09-18T19:00:06Z",
+          "tags": [],
+          "authors": [
+            "tomjakubowski"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 78,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 4.718,
+          "topic_refs": [
+            {
+              "topic_id": "b949fe3a7cef",
+              "slug": "the-implications-of-linguistic-illegibility-for-llm-security",
+              "headline": "The Implications of Linguistic Illegibility for LLM Security",
+              "daily_route": "/hot/2026-09-19/topic/the-implications-of-linguistic-illegibility-for-llm-security/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        }
+      ]
+    }
+  ],
+  "paper_spotlight": [],
+  "topic_summary": [
+    {
+      "topic_id": "800f5bf4ec4b",
+      "slug": "gemini-hacked-three-companies-in-first-known-breakout-by-google-s-ai",
+      "headline": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
+      "category": "Industry Update",
+      "final_score": 6.322,
+      "heat": 6.0,
+      "occurrence_score": 6.05,
+      "display_priority": 6.369,
+      "confidence": 6.617,
+      "llm_status": "candidate",
+      "source_count": 2,
+      "item_count": 3,
+      "route": "/hot/2026-09-19/topic/gemini-hacked-three-companies-in-first-known-breakout-by-google-s-ai/"
+    },
+    {
+      "topic_id": "b91cc0b6526a",
+      "slug": "researchers-used-claude-to-hack-openai",
+      "headline": "Researchers used Claude to hack OpenAI",
+      "category": "Industry Update",
+      "final_score": 6.66,
+      "heat": 5.0,
+      "occurrence_score": 5.6,
+      "display_priority": 6.353,
+      "confidence": 6.718,
+      "llm_status": "candidate",
+      "source_count": 2,
+      "item_count": 2,
+      "route": "/hot/2026-09-19/topic/researchers-used-claude-to-hack-openai/"
+    }
+  ],
+  "featured_topics": [
+    {
+      "topic_id": "7ee3af82ce12",
+      "slug": "wuyoscar-jev-skill",
+      "headline": "wuyoscar/jev-skill",
+      "category": "Tooling",
+      "summary_short": "",
+      "why_it_matters": "This tooling surfaced across 1 independent source(s).",
+      "key_takeaways": [
+        "An awesome collection of Jev use cases, workflows, and agent skills."
+      ],
+      "scores": {
+        "final": 10.0,
+        "quality": 9.0,
+        "heat": 3.0,
+        "importance": 3.0,
+        "occurrence": 2.95,
+        "display_priority": 7.454,
+        "confidence": 5.46
+      },
+      "source_tier": "community",
+      "source_names": [
+        "GitHub Trending Repos"
+      ],
+      "source_roles": [
+        "github_trend"
+      ],
+      "source_types": [
+        "repository"
+      ],
+      "llm_status": "featured",
+      "evidence": [
+        {
+          "title": "wuyoscar/jev-skill",
+          "url": "https://github.com/wuyoscar/jev-skill",
+          "source_name": "GitHub Trending Repos",
+          "published_at": "2026-09-20T02:35:26Z"
+        }
+      ],
+      "route": "/hot/2026-09-19/topic/wuyoscar-jev-skill/"
+    },
+    {
+      "topic_id": "706c111c9e57",
+      "slug": "introducing-kimi-k3-on-amazon-bedrock",
+      "headline": "Introducing Kimi K3 on Amazon Bedrock",
+      "category": "Product Release",
+      "summary_short": "Moonshot AI's Kimi K3 is now available on Amazon Bedrock as an open-weight model for coding and knowledge work. It supports native vision and a one-million-token context window",
+      "why_it_matters": "This product release surfaced across 1 independent source(s).",
+      "key_takeaways": [
+        "Today we are announcing the new AgentCore runtime, a capability of Amazon Bedrock AgentCore built for the speed, flexibility, and cost efficiency that production agents demand. It reclaims memory a...",
+        "Migrate a multi-model healthcare AI agent from self-managed Amazon ECS with AWS Fargate to Amazon Bedrock AgentCore runtime, preserving triple-model orchestration and vector-enhanced knowledge retr...",
+        "Kimi K3 from Moonshot AI is now available on Amazon Bedrock, giving you a powerful new open-weight option for coding and knowledge work. It offers native vision, a 1-million-token context window, a..."
+      ],
+      "scores": {
+        "final": 9.508,
+        "quality": 9.0,
+        "heat": 5.0,
+        "importance": 6.0,
+        "occurrence": 3.85,
+        "display_priority": 7.959,
+        "confidence": 6.212
+      },
+      "source_tier": "official",
+      "source_names": [
+        "AWS AI Blog"
+      ],
+      "source_roles": [
+        "official_news"
+      ],
+      "source_types": [
+        "official_blog"
+      ],
+      "llm_status": "featured",
+      "evidence": [
+        {
+          "title": "The new AgentCore runtime: Elastic, optimized, and consistently fast starts",
+          "url": "https://aws.amazon.com/blogs/machine-learning/the-new-agentcore-runtime-elastic-optimized-and-consistently-fast-starts",
+          "source_name": "AWS AI Blog",
+          "published_at": "Fri, 18 Sep 2026 15:31:34 +0000"
+        },
+        {
+          "title": "Migrating multi-model AI agents to Amazon Bedrock AgentCore runtime",
+          "url": "https://aws.amazon.com/blogs/machine-learning/migrating-multi-model-ai-agents-to-amazon-bedrock-agentcore-runtime",
+          "source_name": "AWS AI Blog",
+          "published_at": "Fri, 18 Sep 2026 15:38:53 +0000"
+        }
+      ],
+      "route": "/hot/2026-09-19/topic/introducing-kimi-k3-on-amazon-bedrock/"
+    },
+    {
+      "topic_id": "23776a16abdd",
+      "slug": "introducing-the-australian-youth-safety-blueprint",
+      "headline": "Introducing the Australian Youth Safety Blueprint",
+      "category": "Product Release",
+      "summary_short": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people",
+      "why_it_matters": "This product release surfaced across 1 independent source(s).",
+      "key_takeaways": [
+        "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people."
+      ],
+      "scores": {
+        "final": 9.5,
+        "quality": 9.0,
+        "heat": 3.0,
+        "importance": 10.0,
+        "occurrence": 2.95,
+        "display_priority": 7.619,
+        "confidence": 6.21
+      },
+      "source_tier": "official",
+      "source_names": [
+        "OpenAI News"
+      ],
+      "source_roles": [
+        "official_news"
+      ],
+      "source_types": [
+        "official_blog"
+      ],
+      "llm_status": "featured",
+      "evidence": [
+        {
+          "title": "Introducing the Australian Youth Safety Blueprint",
+          "url": "https://openai.com/index/australian-youth-safety-blueprint",
+          "source_name": "OpenAI News",
+          "published_at": "Fri, 18 Sep 2026 12:00:00 GMT"
+        }
+      ],
+      "route": "/hot/2026-09-19/topic/introducing-the-australian-youth-safety-blueprint/"
+    }
+  ],
+  "category_sections": [
+    {
+      "category": "Product Release",
+      "total_candidates": 1,
+      "topics": [
+        {
+          "topic_id": "08710260844d",
+          "slug": "alibaba-open-sources-ai-model-that-can-detect-cancer-and-nearly-150-conditions",
+          "headline": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+          "category": "Product Release",
+          "summary_short": "A Hacker News item reports that Alibaba has open-sourced an AI model described as capable of detecting cancer and nearly 150 conditions. The supplied text does not name the model or provide validation results",
+          "why_it_matters": "This product release surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 7.143,
+            "quality": 6.0,
+            "heat": 3.0,
+            "importance": 7.0,
+            "occurrence": 2.95,
+            "display_priority": 5.168,
+            "confidence": 4.603
+          },
+          "source_tier": "community",
+          "source_names": [
+            "Hacker News"
+          ],
+          "source_roles": [
+            "hn_discussion"
+          ],
+          "source_types": [
+            "discussion"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+              "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
+              "source_name": "Hacker News",
+              "published_at": "2026-09-18T23:54:42Z"
+            }
+          ],
+          "route": "/hot/2026-09-19/topic/alibaba-open-sources-ai-model-that-can-detect-cancer-and-nearly-150-conditions/"
+        }
+      ]
+    },
+    {
+      "category": "Industry Update",
+      "total_candidates": 14,
+      "topics": [
+        {
+          "topic_id": "b91cc0b6526a",
+          "slug": "researchers-used-claude-to-hack-openai",
+          "headline": "Researchers used Claude to hack OpenAI",
+          "category": "Industry Update",
+          "summary_short": "Researchers used Claude to gain access to an OpenAI employee account. The report says they also reached sensitive GitHub data",
+          "why_it_matters": "This industry move surfaced across 2 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 6.66,
+            "quality": 6.0,
+            "heat": 5.0,
+            "importance": 5.0,
+            "occurrence": 5.6,
+            "display_priority": 6.353,
+            "confidence": 6.718
+          },
+          "source_tier": "trusted_analysis",
+          "source_names": [
+            "Ars Technica AI",
+            "Hacker News"
+          ],
+          "source_roles": [
+            "editorial_depth",
+            "hn_discussion"
+          ],
+          "source_types": [
+            "blog_analysis",
+            "discussion"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Researchers used Claude to hack OpenAI",
+              "url": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai",
+              "source_name": "Ars Technica AI",
+              "published_at": "Fri, 18 Sep 2026 13:30:12 +0000"
+            },
+            {
+              "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+              "url": "https://spectrum.ieee.org/llms-for-chip-design",
+              "source_name": "Hacker News",
+              "published_at": "2026-09-18T23:04:17Z"
+            }
+          ],
+          "route": "/hot/2026-09-19/topic/researchers-used-claude-to-hack-openai/"
+        },
+        {
+          "topic_id": "351e64be1c31",
+          "slug": "faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion",
+          "headline": "FAA tees up $875M AI tool to help manage air traffic congestion",
+          "category": "Industry Update",
+          "summary_short": "The FAA plans a $875 million AI tool to help manage air traffic congestion. The planned deployment starts in Washington, DC, before a nationwide rollout",
+          "why_it_matters": "This industry move surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 6.361,
+            "quality": 6.0,
+            "heat": 3.0,
+            "importance": 7.0,
+            "occurrence": 2.95,
+            "display_priority": 4.816,
+            "confidence": 4.368
+          },
+          "source_tier": "trusted_analysis",
+          "source_names": [
+            "Ars Technica AI"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "FAA tees up $875M AI tool to help manage air traffic congestion",
+              "url": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion",
+              "source_name": "Ars Technica AI",
+              "published_at": "Fri, 18 Sep 2026 19:20:50 +0000"
+            }
+          ],
+          "route": "/hot/2026-09-19/topic/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/"
+        },
+        {
+          "topic_id": "800f5bf4ec4b",
+          "slug": "gemini-hacked-three-companies-in-first-known-breakout-by-google-s-ai",
+          "headline": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
+          "category": "Industry Update",
+          "summary_short": "The report says Google's Gemini hacked three companies. It describes the incident as the first known breakout by Google's AI",
+          "why_it_matters": "This other surfaced across 2 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 6.322,
+            "quality": 6.0,
+            "heat": 6.0,
+            "importance": 8.0,
+            "occurrence": 6.05,
+            "display_priority": 6.369,
+            "confidence": 6.617
+          },
+          "source_tier": "trusted_analysis",
+          "source_names": [
+            "Hacker News",
+            "Simon Willison's Blog"
+          ],
+          "source_roles": [
+            "editorial_depth",
+            "hn_discussion"
+          ],
+          "source_types": [
+            "blog_analysis",
+            "discussion"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
+              "url": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies",
+              "source_name": "Simon Willison's Blog",
+              "published_at": "2026-09-18T23:57:57+00:00"
+            },
+            {
+              "title": "Gemini Hacked Three Companies in First Known Breakout by Google's AI",
+              "url": "https://www.wsj.com/tech/ai/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai-5c0baba2",
+              "source_name": "Hacker News",
+              "published_at": "2026-09-18T22:17:19Z"
+            }
+          ],
+          "route": "/hot/2026-09-19/topic/gemini-hacked-three-companies-in-first-known-breakout-by-google-s-ai/"
+        },
+        {
+          "topic_id": "1812da5166fe",
+          "slug": "us-government-website-used-chinese-model-the-fbi-called-malicious",
+          "headline": "US government website used Chinese model the FBI called \"malicious\"",
+          "category": "Industry Update",
+          "summary_short": "The Federal Register website briefly used an open-source Chinese AI search tool. The report says the FBI had called the underlying model malicious",
+          "why_it_matters": "This industry move surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 6.194,
+            "quality": 6.0,
+            "heat": 3.0,
+            "importance": 6.0,
+            "occurrence": 2.95,
+            "display_priority": 4.741,
+            "confidence": 4.318
+          },
+          "source_tier": "trusted_analysis",
+          "source_names": [
+            "Ars Technica AI"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "US government website used Chinese model the FBI called \"malicious\"",
+              "url": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious",
+              "source_name": "Ars Technica AI",
+              "published_at": "Fri, 18 Sep 2026 17:28:50 +0000"
+            }
+          ],
+          "route": "/hot/2026-09-19/topic/us-government-website-used-chinese-model-the-fbi-called-malicious/"
+        },
+        {
+          "topic_id": "acbc8dfee3a2",
+          "slug": "co-creating-the-future-of-fashion-with-google",
+          "headline": "Co-creating the future of fashion with Google",
+          "category": "Industry Update",
+          "summary_short": "Google published a post about co-creating the future of fashion. The supplied summary names Jane Wade and Sergio Hudson but provides no details about the work",
+          "why_it_matters": "This industry move surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 6.194,
+            "quality": 6.0,
+            "heat": 3.0,
+            "importance": 3.0,
+            "occurrence": 2.95,
+            "display_priority": 5.131,
+            "confidence": 5.218
+          },
+          "source_tier": "official",
+          "source_names": [
+            "Google AI Blog"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "official_blog"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Co-creating the future of fashion with Google",
+              "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week",
+              "source_name": "Google AI Blog",
+              "published_at": "Fri, 18 Sep 2026 13:00:00 +0000"
+            }
+          ],
+          "route": "/hot/2026-09-19/topic/co-creating-the-future-of-fashion-with-google/"
+        }
+      ]
+    },
+    {
+      "category": "Tooling",
+      "total_candidates": 1,
+      "topics": [
+        {
+          "topic_id": "22301df766e8",
+          "slug": "millemiglia-a-realistic-instance-generator-for-middle-mile-logistics",
+          "headline": "MilleMiglia: A realistic instance generator for middle-mile logistics",
+          "category": "Tooling",
+          "summary_short": "Google Research introduced MilleMiglia, described as a realistic instance generator for middle-mile logistics. The post is categorized under Algorithms & Theory",
+          "why_it_matters": "This tooling surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 6.725,
+            "quality": 6.0,
+            "heat": 3.0,
+            "importance": 5.0,
+            "occurrence": 2.95,
+            "display_priority": 5.37,
+            "confidence": 5.377
+          },
+          "source_tier": "official",
+          "source_names": [
+            "Google Research Blog"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "official_blog"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "MilleMiglia: A realistic instance generator for middle-mile logistics",
+              "url": "https://research.google/blog/millemiglia-a-realistic-instance-generator-for-middle-mile-logistics",
+              "source_name": "Google Research Blog",
+              "published_at": "Fri, 18 Sep 2026 17:46:09 +0000"
+            }
+          ],
+          "route": "/hot/2026-09-19/topic/millemiglia-a-realistic-instance-generator-for-middle-mile-logistics/"
+        }
+      ]
+    },
+    {
+      "category": "Research",
+      "total_candidates": 9,
+      "topics": [
+        {
+          "topic_id": "93ce29635e67",
+          "slug": "cache-to-cache-direct-semantic-communication-between-llms-2025",
+          "headline": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
+          "category": "Research",
+          "summary_short": "A Hacker News item highlights the 2025 work titled Cache-to-Cache: Direct Semantic Communication Between LLMs. The work concerns direct semantic communication between language models, but the supplied text gives no methods or results",
+          "why_it_matters": "This research paper surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 6.186,
+            "quality": 6.0,
+            "heat": 3.0,
+            "importance": 6.0,
+            "occurrence": 2.95,
+            "display_priority": 4.738,
+            "confidence": 4.316
+          },
+          "source_tier": "community",
+          "source_names": [
+            "Hacker News"
+          ],
+          "source_roles": [
+            "hn_discussion"
+          ],
+          "source_types": [
+            "discussion"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
+              "url": "https://arxiv.org/abs/2510.03215",
+              "source_name": "Hacker News",
+              "published_at": "2026-09-18T18:55:35Z"
+            }
+          ],
+          "route": "/hot/2026-09-19/topic/cache-to-cache-direct-semantic-communication-between-llms-2025/"
+        },
+        {
+          "topic_id": "364825b7d87f",
+          "slug": "an-empirical-study-of-harness-design-for-coding-agents",
+          "headline": "An Empirical Study of Harness Design for Coding Agents",
+          "category": "Research",
+          "summary_short": "",
+          "why_it_matters": "This research paper surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.0,
+            "quality": 6.0,
+            "heat": 3.0,
+            "importance": 6.0,
+            "occurrence": 2.95,
+            "display_priority": 4.204,
+            "confidence": 3.96
+          },
+          "source_tier": "trusted_research",
+          "source_names": [
+            "Hugging Face Trending Papers"
+          ],
+          "source_roles": [
+            "paper_trending"
+          ],
+          "source_types": [
+            "paper"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "An Empirical Study of Harness Design for Coding Agents",
+              "url": "https://huggingface.co/papers/2609.20804",
+              "source_name": "Hugging Face Trending Papers",
+              "published_at": "2026-09-17T00:00:00.000Z"
+            }
+          ],
+          "route": "/hot/2026-09-19/topic/an-empirical-study-of-harness-design-for-coding-agents/"
+        },
+        {
+          "topic_id": "ebb00f6b6c31",
+          "slug": "retireopd-self-retiring-on-policy-distillation-for-agentic-reinforcement-learning",
+          "headline": "RetireOPD: Self-Retiring On-Policy Distillation for Agentic Reinforcement Learning",
+          "category": "Research",
+          "summary_short": "",
+          "why_it_matters": "This research paper surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.0,
+            "quality": 6.0,
+            "heat": 3.0,
+            "importance": 6.0,
+            "occurrence": 2.95,
+            "display_priority": 4.204,
+            "confidence": 3.96
+          },
+          "source_tier": "trusted_research",
+          "source_names": [
+            "Hugging Face Trending Papers"
+          ],
+          "source_roles": [
+            "paper_trending"
+          ],
+          "source_types": [
+            "paper"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "RetireOPD: Self-Retiring On-Policy Distillation for Agentic Reinforcement Learning",
+              "url": "https://huggingface.co/papers/2609.20784",
+              "source_name": "Hugging Face Trending Papers",
+              "published_at": "2026-09-17T00:00:00.000Z"
+            }
+          ],
+          "route": "/hot/2026-09-19/topic/retireopd-self-retiring-on-policy-distillation-for-agentic-reinforcement-learning/"
+        },
+        {
+          "topic_id": "b6ce10007230",
+          "slug": "self-evolving-search-index",
+          "headline": "Self-Evolving Search Index",
+          "category": "Research",
+          "summary_short": "",
+          "why_it_matters": "This research paper surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 4.699,
+            "quality": 5.0,
+            "heat": 3.0,
+            "importance": 5.0,
+            "occurrence": 2.95,
+            "display_priority": 4.069,
+            "confidence": 3.87
+          },
+          "source_tier": "trusted_research",
+          "source_names": [
+            "Hugging Face Trending Papers"
+          ],
+          "source_roles": [
+            "paper_trending"
+          ],
+          "source_types": [
+            "paper"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Self-Evolving Search Index",
+              "url": "https://huggingface.co/papers/2609.19656",
+              "source_name": "Hugging Face Trending Papers",
+              "published_at": "2026-09-17T00:00:00.000Z"
+            }
+          ],
+          "route": "/hot/2026-09-19/topic/self-evolving-search-index/"
+        },
+        {
+          "topic_id": "c3afb67a2370",
+          "slug": "wevisdoc-from-coverage-to-capability-for-robust-end-to-end-document-parsing",
+          "headline": "WeVisDoc: From Coverage to Capability for Robust End-to-End Document Parsing",
+          "category": "Research",
+          "summary_short": "",
+          "why_it_matters": "This research paper surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 4.699,
+            "quality": 5.0,
+            "heat": 3.0,
+            "importance": 5.0,
+            "occurrence": 2.95,
+            "display_priority": 4.069,
+            "confidence": 3.87
+          },
+          "source_tier": "trusted_research",
+          "source_names": [
+            "Hugging Face Trending Papers"
+          ],
+          "source_roles": [
+            "paper_trending"
+          ],
+          "source_types": [
+            "paper"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "WeVisDoc: From Coverage to Capability for Robust End-to-End Document Parsing",
+              "url": "https://huggingface.co/papers/2609.20423",
+              "source_name": "Hugging Face Trending Papers",
+              "published_at": "2026-09-17T00:00:00.000Z"
+            }
+          ],
+          "route": "/hot/2026-09-19/topic/wevisdoc-from-coverage-to-capability-for-robust-end-to-end-document-parsing/"
+        }
+      ]
+    }
+  ],
+  "long_tail_sections": [
+    {
+      "category": "Industry Update",
+      "total_candidates": 9,
+      "topics": [
+        {
+          "topic_id": "14db38045117",
+          "slug": "enhancing-industrial-safety-ai-with-synthetic-data-on-amazon-sagemaker-ai",
+          "headline": "Enhancing industrial safety AI with synthetic data on Amazon SageMaker AI",
+          "category": "Industry Update",
+          "summary_short": "",
+          "why_it_matters": "This tutorial surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 6.063,
+            "quality": 5.0,
+            "heat": 5.0,
+            "importance": 4.0,
+            "occurrence": 3.85,
+            "display_priority": 5.408,
+            "confidence": 5.179
+          },
+          "source_tier": "official",
+          "source_names": [
+            "AWS AI Blog"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "official_blog"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Introducing Amazon SageMaker HyperPod Inference Gateway",
+              "url": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-inference-gateway",
+              "source_name": "AWS AI Blog",
+              "published_at": "Fri, 18 Sep 2026 13:08:34 +0000"
+            },
+            {
+              "title": "Deploy Hugging Face models on Amazon SageMaker AI with coding agents",
+              "url": "https://aws.amazon.com/blogs/machine-learning/deploy-hugging-face-models-on-amazon-sagemaker-ai-with-coding-agents",
+              "source_name": "AWS AI Blog",
+              "published_at": "Fri, 18 Sep 2026 15:25:23 +0000"
+            }
+          ],
+          "route": "/hot/2026-09-19/topic/enhancing-industrial-safety-ai-with-synthetic-data-on-amazon-sagemaker-ai/"
+        },
+        {
+          "topic_id": "95301f0d3f67",
+          "slug": "new-insights-from-google-s-ai-economy-atlas",
+          "headline": "New insights from Google’s AI & Economy ATLAS",
+          "category": "Industry Update",
+          "summary_short": "",
+          "why_it_matters": "This other surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.623,
+            "quality": 5.0,
+            "heat": 3.0,
+            "importance": 4.0,
+            "occurrence": 2.95,
+            "display_priority": 4.874,
+            "confidence": 5.047
+          },
+          "source_tier": "official",
+          "source_names": [
+            "Google AI Blog"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "official_blog"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "New experts join Google’s AI & Economy team",
+              "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench",
+              "source_name": "Google AI Blog",
+              "published_at": "Fri, 18 Sep 2026 14:00:00 +0000"
+            }
+          ],
+          "route": "/hot/2026-09-19/topic/new-insights-from-google-s-ai-economy-atlas/"
+        },
+        {
+          "topic_id": "fc4c40eb3fa3",
+          "slug": "the-next-chapter-of-entertainment-and-fandom",
+          "headline": "The Next Chapter of Entertainment and Fandom",
+          "category": "Industry Update",
+          "summary_short": "Character.ai outlined its goal of enabling new ways for users to interact with favorite characters, stories, and communities. The post also claims industry leadership in AI safety",
+          "why_it_matters": "This other surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.401,
+            "quality": 5.0,
+            "heat": 3.0,
+            "importance": 2.0,
+            "occurrence": 2.95,
+            "display_priority": 4.774,
+            "confidence": 4.98
+          },
+          "source_tier": "official",
+          "source_names": [
+            "Character AI Blog"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "official_blog"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "The Next Chapter of Entertainment and Fandom",
+              "url": "https://blog.character.ai/the-next-chapter-of-entertainment-and-fandom",
+              "source_name": "Character AI Blog",
+              "published_at": "Fri, 18 Sep 2026 15:50:33 GMT"
+            }
+          ],
+          "route": "/hot/2026-09-19/topic/the-next-chapter-of-entertainment-and-fandom/"
+        },
+        {
+          "topic_id": "f1c8b170d66f",
+          "slug": "a-new-chapter-for-mit-reads",
+          "headline": "A new chapter for MIT Reads",
+          "category": "Industry Update",
+          "summary_short": "A new focus on fiction and memoir aims to help the MIT community celebrate the power of storytelling and strengthen social connection",
+          "why_it_matters": "This other surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.401,
+            "quality": 5.0,
+            "heat": 3.0,
+            "importance": 5.0,
+            "occurrence": 2.95,
+            "display_priority": 4.384,
+            "confidence": 4.08
+          },
+          "source_tier": "trusted_analysis",
+          "source_names": [
+            "MIT News AI"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "A new chapter for MIT Reads",
+              "url": "https://news.mit.edu/2026/new-chapter-mit-reads-0918",
+              "source_name": "MIT News AI",
+              "published_at": "Fri, 18 Sep 2026 12:30:00 -0400"
+            }
+          ],
+          "route": "/hot/2026-09-19/topic/a-new-chapter-for-mit-reads/"
+        },
+        {
+          "topic_id": "fe592cd3b04c",
+          "slug": "note-on-18th-september-2026",
+          "headline": "Note on 18th September 2026",
+          "category": "Industry Update",
+          "summary_short": "<p>Being a computer scientist who refuses to find anything about LLMs interesting right now is a bit like being a geneticist who refuses to find anything interesting about the recently opened Jurassic Park.</p> <p>Skeptical geneticist: \"pfft, it's just frog DNA.",
+          "why_it_matters": "This other surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.401,
+            "quality": 5.0,
+            "heat": 3.0,
+            "importance": 5.0,
+            "occurrence": 2.95,
+            "display_priority": 4.384,
+            "confidence": 4.08
+          },
+          "source_tier": "trusted_analysis",
+          "source_names": [
+            "Simon Willison's Blog"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Note on 18th September 2026",
+              "url": "https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you",
+              "source_name": "Simon Willison's Blog",
+              "published_at": "2026-09-18T19:21:32+00:00"
+            }
+          ],
+          "route": "/hot/2026-09-19/topic/note-on-18th-september-2026/"
+        },
+        {
+          "topic_id": "0d455ad2800a",
+          "slug": "zcode-the-glm-coding-agent-silently-uploads-your-git-history",
+          "headline": "ZCode, the GLM coding agent, silently uploads your Git history",
+          "category": "Industry Update",
+          "summary_short": "A Hacker News item alleges that ZCode, a GLM coding agent, silently uploads users' Git history. The supplied text provides no technical evidence or vendor response",
+          "why_it_matters": "This other surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.235,
+            "quality": 5.0,
+            "heat": 3.0,
+            "importance": 6.0,
+            "occurrence": 2.95,
+            "display_priority": 4.31,
+            "confidence": 4.03
+          },
+          "source_tier": "community",
+          "source_names": [
+            "Hacker News"
+          ],
+          "source_roles": [
+            "hn_discussion"
+          ],
+          "source_types": [
+            "discussion"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "ZCode, the GLM coding agent, silently uploads your Git history",
+              "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+              "source_name": "Hacker News",
+              "published_at": "2026-09-18T10:35:28Z"
+            }
+          ],
+          "route": "/hot/2026-09-19/topic/zcode-the-glm-coding-agent-silently-uploads-your-git-history/"
+        },
+        {
+          "topic_id": "b949fe3a7cef",
+          "slug": "the-implications-of-linguistic-illegibility-for-llm-security",
+          "headline": "The Implications of Linguistic Illegibility for LLM Security",
+          "category": "Industry Update",
+          "summary_short": "A Hacker News item highlights a work examining the implications of linguistic illegibility for LLM security. The supplied text does not describe its arguments or findings",
+          "why_it_matters": "This other surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.124,
+            "quality": 5.0,
+            "heat": 3.0,
+            "importance": 5.0,
+            "occurrence": 2.95,
+            "display_priority": 4.26,
+            "confidence": 3.997
+          },
+          "source_tier": "community",
+          "source_names": [
+            "Hacker News"
+          ],
+          "source_roles": [
+            "hn_discussion"
+          ],
+          "source_types": [
+            "discussion"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "The Implications of Linguistic Illegibility for LLM Security",
+              "url": "https://arxiv.org/abs/2609.02852",
+              "source_name": "Hacker News",
+              "published_at": "2026-09-18T19:00:06Z"
+            }
+          ],
+          "route": "/hot/2026-09-19/topic/the-implications-of-linguistic-illegibility-for-llm-security/"
+        },
+        {
+          "topic_id": "8387a4a50dbb",
+          "slug": "microsoft-openai-lose-fight-to-hide-internal-docs-admitting-scraping-is-theft",
+          "headline": "Microsoft, OpenAI lose fight to hide internal docs admitting scraping is theft",
+          "category": "Industry Update",
+          "summary_short": "",
+          "why_it_matters": "This other surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 4.019,
+            "quality": 4.0,
+            "heat": 3.0,
+            "importance": 2.0,
+            "occurrence": 2.95,
+            "display_priority": 3.763,
+            "confidence": 3.666
+          },
+          "source_tier": "community",
+          "source_names": [
+            "Hacker News"
+          ],
+          "source_roles": [
+            "hn_discussion"
+          ],
+          "source_types": [
+            "discussion"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
+              "url": "https://www.hacktron.ai/blog/hacking-openai",
+              "source_name": "Hacker News",
+              "published_at": "2026-09-18T02:47:24Z"
+            }
+          ],
+          "route": "/hot/2026-09-19/topic/microsoft-openai-lose-fight-to-hide-internal-docs-admitting-scraping-is-theft/"
+        }
+      ]
+    }
+  ],
+  "watchlist": [],
+  "x_buzz": [
+    {
+      "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
+      "summary": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
+      "url": "https://cactuscompute.com/needle",
+      "source_id": "hn_discussion",
+      "source_name": "Hacker News",
+      "source_role": "hn_discussion",
+      "linked_topic": ""
+    },
+    {
+      "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+      "summary": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+      "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
+      "source_id": "hn_discussion",
+      "source_name": "Hacker News",
+      "source_role": "hn_discussion",
+      "linked_topic": ""
+    },
+    {
+      "title": "Introducing the Australian Youth Safety Blueprint",
+      "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
+      "url": "https://openai.com/index/australian-youth-safety-blueprint",
+      "source_id": "openai_news",
+      "source_name": "OpenAI News",
+      "source_role": "official_news",
+      "linked_topic": "Introducing the Australian Youth Safety Blueprint"
+    },
+    {
+      "title": "The new AgentCore runtime: Elastic, optimized, and consistently fast starts",
+      "summary": "Today we are announcing the new AgentCore runtime, a capability of Amazon Bedrock AgentCore built for the speed, flexibility, and cost efficiency that production agents demand. It reclaims memory as sessions release it and delivers consistent cold starts regardless of image size or concurrency.",
+      "url": "https://aws.amazon.com/blogs/machine-learning/the-new-agentcore-runtime-elastic-optimized-and-consistently-fast-starts",
+      "source_id": "aws_ai_blog",
+      "source_name": "AWS AI Blog",
+      "source_role": "official_news",
+      "linked_topic": "Introducing Kimi K3 on Amazon Bedrock"
+    },
+    {
+      "title": "Migrating multi-model AI agents to Amazon Bedrock AgentCore runtime",
+      "summary": "Migrate a multi-model healthcare AI agent from self-managed Amazon ECS with AWS Fargate to Amazon Bedrock AgentCore runtime, preserving triple-model orchestration and vector-enhanced knowledge retrieval while reducing infrastructure management. The framework-agnostic pattern applies across healthcare, financial services, and manufacturing.",
+      "url": "https://aws.amazon.com/blogs/machine-learning/migrating-multi-model-ai-agents-to-amazon-bedrock-agentcore-runtime",
+      "source_id": "aws_ai_blog",
+      "source_name": "AWS AI Blog",
+      "source_role": "official_news",
+      "linked_topic": "Introducing Kimi K3 on Amazon Bedrock"
+    }
+  ],
+  "resurgence": []
+}

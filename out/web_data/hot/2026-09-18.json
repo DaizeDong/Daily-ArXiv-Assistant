@@ -1,0 +1,4398 @@
+{
+  "schema_version": 1,
+  "meta": {
+    "date": "2026-09-18",
+    "month": "2026-09",
+    "year": "2026",
+    "generated_at": "2026-09-21T21:45:08.088856+00:00",
+    "mode": "openai",
+    "summary": "• [Product Release] How a global fintech scaled coding agent traffic with Dedicated Model Inference — This product release surfaced across 1 independent source(s).\n• [Industry Update] Partnering with Accenture on embedded evaluation — This industry move surfaced across 1 independent source(s).\n• [Tooling] Continuum-AI-Corp/OrcaBonsai-27B-Uncensored — This tooling surfaced across 1 independent source(s).",
+    "previous_date": "2026-09-17",
+    "next_date": "2026-09-19",
+    "paper_routes": {
+      "home": "../../",
+      "day": null,
+      "month": null,
+      "year": null
+    },
+    "counts": {
+      "featured_topics": 3,
+      "topic_summary": 2,
+      "category_radar": 16,
+      "long_tail": 8,
+      "paper_spotlight": 8,
+      "x_buzz": 5,
+      "watchlist": 2,
+      "source_items": 38,
+      "resurgence": 0
+    }
+  },
+  "totals": {
+    "raw_items": 78,
+    "enriched_items": 0,
+    "stories": 0,
+    "featured": 3,
+    "watchlist": 2,
+    "category_topics": 16,
+    "long_tail_topics": 8,
+    "paper_spotlight_items": 6
+  },
+  "costs": {
+    "prompt": 0.0,
+    "completion": 0.0,
+    "total": 0.0
+  },
+  "usage": {
+    "llm": {
+      "provider": "openai",
+      "backend": "openai",
+      "billing_model": "quota",
+      "screen_model": "gpt-5.6",
+      "summary_model": "gpt-5.6",
+      "requests": 0,
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0,
+      "prompt_cost": 0.0,
+      "completion_cost": 0.0,
+      "total_cost": 0.0
+    },
+    "external": {
+      "ainews": {
+        "provider": "AINews RSS",
+        "billing_model": "free",
+        "requests": 1,
+        "items": 0,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "analysis_feeds": {
+        "provider": "Analysis RSS feeds",
+        "billing_model": "free",
+        "requests": 13,
+        "items": 9,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "github_trend": {
+        "provider": "GitHub API",
+        "billing_model": "free",
+        "requests": 2,
+        "items": 15,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "hf_papers": {
+        "provider": "Hugging Face",
+        "billing_model": "free",
+        "requests": 1,
+        "items": 12,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "hn_discussion": {
+        "provider": "Hacker News API",
+        "billing_model": "free",
+        "requests": 6,
+        "items": 15,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "local_papers": {
+        "provider": "Local cache",
+        "billing_model": "local",
+        "requests": 0,
+        "items": 0,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "model_hubs": {
+        "provider": "Hugging Face model index",
+        "billing_model": "free",
+        "requests": 20,
+        "items": 0,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "official_blogs": {
+        "provider": "Official blogs",
+        "billing_model": "free",
+        "requests": 31,
+        "items": 35,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "reddit": {
+        "provider": "Reddit JSON API",
+        "billing_model": "free",
+        "requests": 0,
+        "items": 0,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "roundup_sites": {
+        "provider": "Roundup sites",
+        "billing_model": "free",
+        "requests": 8,
+        "items": 14,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "x_ainews_twitter": {
+        "provider": "AINews Twitter recap",
+        "billing_model": "free",
+        "requests": 1,
+        "items": 0,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "x_twitterapi": {
+        "provider": "twitterapi.io",
+        "billing_model": "metered",
+        "requests": 0,
+        "items": 0,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      }
+    },
+    "summary": {
+      "external_requests": 83,
+      "x_requests": 1,
+      "estimated_external_cost": 0.0
+    }
+  },
+  "source_stats": {
+    "ainews": 0,
+    "analysis_feeds": 9,
+    "github_trend": 15,
+    "hf_papers": 12,
+    "hn_discussion": 15,
+    "local_papers": 0,
+    "model_hubs": 0,
+    "official_blogs": 35,
+    "reddit": 0,
+    "roundup_sites": 14,
+    "x_ainews_twitter": 0,
+    "x_twitterapi": 0
+  },
+  "source_section_counts": {
+    "official": 10,
+    "market-signals": 0,
+    "analysis": 8,
+    "papers": 8,
+    "github": 6,
+    "industry": 6
+  },
+  "source_sections": [
+    {
+      "slug": "official",
+      "label": "Official Updates",
+      "description": "Product, research, and platform updates from official vendor or lab channels.",
+      "count": 10,
+      "section_score": 12.191,
+      "items": [
+        {
+          "id": "together_blog-57daa634e0a6",
+          "title": "How a global fintech scaled coding agent traffic with Dedicated Model Inference",
+          "summary_short": "Inside a global bank's shift to self-serve dedicated inference: how Together's DMI gave engineering teams direct control over scaling, models, and testing",
+          "url": "https://www.together.ai/blog/global-fintech-scales-coding-agent-traffic-with-dedicated-model-inference",
+          "canonical_url": "https://www.together.ai/blog/global-fintech-scales-coding-agent-traffic-with-dedicated-model-inference",
+          "source_id": "together_blog",
+          "source_name": "Together AI Blog",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "source_family": "official",
+          "published_at": "Fri, 18 Sep 2026 00:00:00 GMT",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 7.194,
+          "topic_refs": [
+            {
+              "topic_id": "3d56abf7ee84",
+              "slug": "how-a-global-fintech-scaled-coding-agent-traffic-with-dedicated-model-inference",
+              "headline": "How a global fintech scaled coding agent traffic with Dedicated Model Inference",
+              "daily_route": "/hot/2026-09-18/topic/how-a-global-fintech-scaled-coding-agent-traffic-with-dedicated-model-inference/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "anthropic_news-47b87cc27bae",
+          "title": "Partnering with Accenture on embedded evaluation",
+          "summary_short": "Anthropic announced a partnership with Accenture on embedded evaluation. The supplied announcement title does not specify the implementation or scope",
+          "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+          "canonical_url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+          "source_id": "anthropic_news",
+          "source_name": "Anthropic News",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "source_family": "official",
+          "published_at": "Sep 18, 2026",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 7.18,
+          "topic_refs": [
+            {
+              "topic_id": "0d8118f152fe",
+              "slug": "partnering-with-accenture-on-embedded-evaluation",
+              "headline": "Partnering with Accenture on embedded evaluation",
+              "daily_route": "/hot/2026-09-18/topic/partnering-with-accenture-on-embedded-evaluation/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "aws_ai_blog-417881a5d8f6",
+          "title": "Reduce time-to-hire for quality candidates with AI-powered Amazon Connect Talent",
+          "summary_short": "AWS presents Amazon Connect Talent as an AI hiring solution for talent acquisition leaders managing hiring at scale. Its capabilities include AI-led interviews, data-driven assessments, and consistent candidate evaluation",
+          "url": "https://aws.amazon.com/blogs/machine-learning/reduce-time-to-hire-for-quality-candidates-with-ai-powered-amazon-connect-talent",
+          "canonical_url": "https://aws.amazon.com/blogs/machine-learning/reduce-time-to-hire-for-quality-candidates-with-ai-powered-amazon-connect-talent",
+          "source_id": "aws_ai_blog",
+          "source_name": "AWS AI Blog",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "source_family": "official",
+          "published_at": "Thu, 17 Sep 2026 17:55:20 +0000",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 5.096,
+          "topic_refs": [
+            {
+              "topic_id": "f2cac9238e8d",
+              "slug": "reduce-time-to-hire-for-quality-candidates-with-ai-powered-amazon-connect-talent",
+              "headline": "Reduce time-to-hire for quality candidates with AI-powered Amazon Connect Talent",
+              "daily_route": "/hot/2026-09-18/topic/reduce-time-to-hire-for-quality-candidates-with-ai-powered-amazon-connect-talent/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "aws_ai_blog-b6c79ab48bf8",
+          "title": "Implementing defense-in-depth authorization for MCP tools on Amazon Quick",
+          "summary_short": "Learn how to enforce defense-in-depth authorization for Model Context Protocol (MCP) tools on Amazon Quick.",
+          "url": "https://aws.amazon.com/blogs/machine-learning/implementing-defense-in-depth-authorization-for-mcp-tools-on-amazon-quick",
+          "canonical_url": "https://aws.amazon.com/blogs/machine-learning/implementing-defense-in-depth-authorization-for-mcp-tools-on-amazon-quick",
+          "source_id": "aws_ai_blog",
+          "source_name": "AWS AI Blog",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "source_family": "official",
+          "published_at": "Thu, 17 Sep 2026 15:30:17 +0000",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 5.092,
+          "topic_refs": [
+            {
+              "topic_id": "ff9deb1f8f80",
+              "slug": "implementing-defense-in-depth-authorization-for-mcp-tools-on-amazon-quick",
+              "headline": "Implementing defense-in-depth authorization for MCP tools on Amazon Quick",
+              "daily_route": "/hot/2026-09-18/topic/implementing-defense-in-depth-authorization-for-mcp-tools-on-amazon-quick/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "aws_ai_blog-009eb948ac56",
+          "title": "A shared agentic platform for Wood Mackenzie, on Amazon Bedrock AgentCore",
+          "summary_short": "Wood Mackenzie built APEX, a shared agentic AI platform on Amazon Bedrock AgentCore. It provides common runtime, identity, observability, and guardrail infrastructure for teams deploying production agents",
+          "url": "https://aws.amazon.com/blogs/machine-learning/a-shared-agentic-platform-for-wood-mackenzie-on-amazon-bedrock-agentcore",
+          "canonical_url": "https://aws.amazon.com/blogs/machine-learning/a-shared-agentic-platform-for-wood-mackenzie-on-amazon-bedrock-agentcore",
+          "source_id": "aws_ai_blog",
+          "source_name": "AWS AI Blog",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "source_family": "official",
+          "published_at": "Thu, 17 Sep 2026 15:41:03 +0000",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 5.086,
+          "topic_refs": [
+            {
+              "topic_id": "d234de7acc7b",
+              "slug": "a-shared-agentic-platform-for-wood-mackenzie-on-amazon-bedrock-agentcore",
+              "headline": "A shared agentic platform for Wood Mackenzie, on Amazon Bedrock AgentCore",
+              "daily_route": "/hot/2026-09-18/topic/a-shared-agentic-platform-for-wood-mackenzie-on-amazon-bedrock-agentcore/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "aws_ai_blog-fb47fafb3b44",
+          "title": "How MRH Trowe enabled secure self-service AI agents in financial services",
+          "summary_short": "German insurance broker MRH Trowe gave about 400 employees secure, self-service access to AI agents during its first month of production. An AWS case study describes the deployment in financial services",
+          "url": "https://aws.amazon.com/blogs/machine-learning/how-mrh-trowe-enabled-secure-self-service-ai-agents-in-financial-services",
+          "canonical_url": "https://aws.amazon.com/blogs/machine-learning/how-mrh-trowe-enabled-secure-self-service-ai-agents-in-financial-services",
+          "source_id": "aws_ai_blog",
+          "source_name": "AWS AI Blog",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "source_family": "official",
+          "published_at": "Thu, 17 Sep 2026 15:36:42 +0000",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 5.086,
+          "topic_refs": [
+            {
+              "topic_id": "b3527c0def47",
+              "slug": "how-mrh-trowe-enabled-secure-self-service-ai-agents-in-financial-services",
+              "headline": "How MRH Trowe enabled secure self-service AI agents in financial services",
+              "daily_route": "/hot/2026-09-18/topic/how-mrh-trowe-enabled-secure-self-service-ai-agents-in-financial-services/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "openai_news-964ae1dd0fac",
+          "title": "How Cooley is accelerating IPO work with ChatGPT",
+          "summary_short": "Cooley built GO Public with ChatGPT Work to support legal work on initial public offerings. OpenAI's case study describes its use in surfacing issues earlier and directing lawyers' attention to matters requiring judgment",
+          "url": "https://openai.com/index/cooley-gopublic",
+          "canonical_url": "https://openai.com/index/cooley-gopublic",
+          "source_id": "openai_news",
+          "source_name": "OpenAI News",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "source_family": "official",
+          "published_at": "Thu, 17 Sep 2026 12:00:00 GMT",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 5.086,
+          "topic_refs": [
+            {
+              "topic_id": "d8fb2ecac8fa",
+              "slug": "how-cooley-is-accelerating-ipo-work-with-chatgpt",
+              "headline": "How Cooley is accelerating IPO work with ChatGPT",
+              "daily_route": "/hot/2026-09-18/topic/how-cooley-is-accelerating-ipo-work-with-chatgpt/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "google_ai_blog-df4ade904b04",
+          "title": "Making global data easier to explore",
+          "summary_short": "Google's AI Blog highlights a webpage for UN System Data Commons data. The post focuses on making global data easier to explore",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform",
+          "canonical_url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform",
+          "source_id": "google_ai_blog",
+          "source_name": "Google AI Blog",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "source_family": "official",
+          "published_at": "Thu, 17 Sep 2026 20:00:00 +0000",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 5.015,
+          "topic_refs": [
+            {
+              "topic_id": "638c7483d9ac",
+              "slug": "making-global-data-easier-to-explore",
+              "headline": "Making global data easier to explore",
+              "daily_route": "/hot/2026-09-18/topic/making-global-data-easier-to-explore/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "aws_ai_blog-6dfb3ef07737",
+          "title": "Selecting a vector store for Amazon Bedrock Knowledge Bases",
+          "summary_short": "AWS compares vector store options for retrieval-augmented generation applications using Amazon Bedrock Knowledge Bases. The comparison addresses performance and cost, including Amazon OpenSearch Service and Amazon Aurora PostgreSQL",
+          "url": "https://aws.amazon.com/blogs/machine-learning/selecting-a-vector-store-for-amazon-bedrock-knowledge-bases",
+          "canonical_url": "https://aws.amazon.com/blogs/machine-learning/selecting-a-vector-store-for-amazon-bedrock-knowledge-bases",
+          "source_id": "aws_ai_blog",
+          "source_name": "AWS AI Blog",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "source_family": "official",
+          "published_at": "Thu, 17 Sep 2026 15:53:13 +0000",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 4.682,
+          "topic_refs": [
+            {
+              "topic_id": "ae693e57eb60",
+              "slug": "selecting-a-vector-store-for-amazon-bedrock-knowledge-bases",
+              "headline": "Selecting a vector store for Amazon Bedrock Knowledge Bases",
+              "daily_route": "/hot/2026-09-18/topic/selecting-a-vector-store-for-amazon-bedrock-knowledge-bases/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "aws_ai_blog-078a29359431",
+          "title": "Enhancing industrial safety AI with synthetic data on Amazon SageMaker AI",
+          "summary_short": "AWS describes how to build a synthetic data augmentation pipeline for industrial safety AI using Amazon SageMaker AI and Amazon Rekognition. The pipeline generates photorealistic, automatically labeled training images",
+          "url": "https://aws.amazon.com/blogs/machine-learning/enhancing-industrial-safety-ai-with-synthetic-data-on-amazon-sagemaker-ai",
+          "canonical_url": "https://aws.amazon.com/blogs/machine-learning/enhancing-industrial-safety-ai-with-synthetic-data-on-amazon-sagemaker-ai",
+          "source_id": "aws_ai_blog",
+          "source_name": "AWS AI Blog",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "source_family": "official",
+          "published_at": "Thu, 17 Sep 2026 15:28:08 +0000",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 4.682,
+          "topic_refs": [
+            {
+              "topic_id": "14db38045117",
+              "slug": "enhancing-industrial-safety-ai-with-synthetic-data-on-amazon-sagemaker-ai",
+              "headline": "Enhancing industrial safety AI with synthetic data on Amazon SageMaker AI",
+              "daily_route": "/hot/2026-09-18/topic/enhancing-industrial-safety-ai-with-synthetic-data-on-amazon-sagemaker-ai/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        }
+      ]
+    },
+    {
+      "slug": "market-signals",
+      "label": "Market Signals",
+      "description": "Funding rounds, acquisitions, valuations, and strategic moves in the AI industry.",
+      "count": 0,
+      "section_score": -1.0,
+      "items": []
+    },
+    {
+      "slug": "analysis",
+      "label": "Expert Analysis",
+      "description": "Long-form expert analysis and research explainers with substantive depth.",
+      "count": 8,
+      "section_score": 9.501,
+      "items": [
+        {
+          "id": "analysis_simon_willison-5326b23f1259",
+          "title": "How To Write With An LLM",
+          "summary_short": "<p><strong><a href=\" To Write With An LLM</a></strong></p> Thomas Ptacek on using LLMs as copyeditors, not as writing assistants:</p> <blockquote> <p><strong>Rule Number One: You may not use a single word an LLM suggests to you.</strong></p> <p>[...] I think that as a form of intellectual personal",
+          "url": "https://simonwillison.net/2026/Sep/17/how-to-write-with-an-llm",
+          "canonical_url": "https://simonwillison.net/2026/Sep/17/how-to-write-with-an-llm",
+          "source_id": "analysis_simon_willison",
+          "source_name": "Simon Willison's Blog",
+          "source_role": "editorial_depth",
+          "source_type": "blog_analysis",
+          "source_family": "analysis",
+          "published_at": "2026-09-17T23:37:27+00:00",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 6.011,
+          "topic_refs": [
+            {
+              "topic_id": "069b63888d5e",
+              "slug": "how-to-write-with-an-llm",
+              "headline": "How To Write With An LLM",
+              "daily_route": "/hot/2026-09-18/topic/how-to-write-with-an-llm/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "analysis_arstechnica_ai-0683c017ff7a",
+          "title": "Google announces new experimental \"CC\" AI agent for families",
+          "summary_short": "Google announced an experimental AI agent called CC for families. Multiple family members can share data to help the agent make plans and complete tasks",
+          "url": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families",
+          "canonical_url": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families",
+          "source_id": "analysis_arstechnica_ai",
+          "source_name": "Ars Technica AI",
+          "source_role": "editorial_depth",
+          "source_type": "blog_analysis",
+          "source_family": "analysis",
+          "published_at": "Thu, 17 Sep 2026 20:24:34 +0000",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 4.608,
+          "topic_refs": [
+            {
+              "topic_id": "d33a0ae42861",
+              "slug": "google-announces-new-experimental-cc-ai-agent-for-families",
+              "headline": "Google announces new experimental \"CC\" AI agent for families",
+              "daily_route": "/hot/2026-09-18/topic/google-announces-new-experimental-cc-ai-agent-for-families/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "analysis_simon_willison-e5c37e0d8fd1",
+          "title": "Self-generated prompt injections in compaction summaries",
+          "summary_short": "<p><strong><a href=\" prompt injections in compaction summaries</a></strong></p> In <a href=\" framework for reporting model misalignment</a> OpenAI provide \"six reports on unexpected or concerning model behavior we’ve observed in the last six months\".",
+          "url": "https://simonwillison.net/2026/Sep/17/compaction-summaries",
+          "canonical_url": "https://simonwillison.net/2026/Sep/17/compaction-summaries",
+          "source_id": "analysis_simon_willison",
+          "source_name": "Simon Willison's Blog",
+          "source_role": "editorial_depth",
+          "source_type": "blog_analysis",
+          "source_family": "analysis",
+          "published_at": "2026-09-17T20:57:55+00:00",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 4.601,
+          "topic_refs": [
+            {
+              "topic_id": "24705b52126f",
+              "slug": "self-generated-prompt-injections-in-compaction-summaries",
+              "headline": "Self-generated prompt injections in compaction summaries",
+              "daily_route": "/hot/2026-09-18/topic/self-generated-prompt-injections-in-compaction-summaries/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "analysis_arstechnica_ai-a27c34507684",
+          "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
+          "summary_short": "Ars Technica reports that SynthID watermarking can alter how language models respond to harmful prompts. Models may follow instructions they would otherwise refuse",
+          "url": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts",
+          "canonical_url": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts",
+          "source_id": "analysis_arstechnica_ai",
+          "source_name": "Ars Technica AI",
+          "source_role": "editorial_depth",
+          "source_type": "blog_analysis",
+          "source_family": "analysis",
+          "published_at": "Thu, 17 Sep 2026 18:33:13 +0000",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 4.464,
+          "topic_refs": [
+            {
+              "topic_id": "8224e6d1e384",
+              "slug": "llms-respond-differently-to-harmful-prompts-when-ai-watermarking-is-used",
+              "headline": "LLMs respond differently to harmful prompts when AI watermarking is used",
+              "daily_route": "/hot/2026-09-18/topic/llms-respond-differently-to-harmful-prompts-when-ai-watermarking-is-used/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "hn_discussion-a59b8440a154",
+          "title": "Microsoft, OpenAI lose fight to hide internal docs admitting scraping is theft",
+          "summary_short": "",
+          "url": "https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history",
+          "canonical_url": "https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history",
+          "source_id": "hn_discussion",
+          "source_name": "Hacker News",
+          "source_role": "hn_discussion",
+          "source_type": "discussion",
+          "source_family": "analysis",
+          "published_at": "2026-09-17T20:16:52Z",
+          "tags": [],
+          "authors": [
+            "pseudolus"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 54,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 4.058,
+          "topic_refs": [
+            {
+              "topic_id": "8387a4a50dbb",
+              "slug": "microsoft-openai-lose-fight-to-hide-internal-docs-admitting-scraping-is-theft",
+              "headline": "Microsoft, OpenAI lose fight to hide internal docs admitting scraping is theft",
+              "daily_route": "/hot/2026-09-18/topic/microsoft-openai-lose-fight-to-hide-internal-docs-admitting-scraping-is-theft/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "analysis_simon_willison-170a7e1a5b50",
+          "title": "Be alert: targeted attacks on prominent Rustaceans",
+          "summary_short": "<p><strong><a href=\" alert: targeted attacks on prominent Rustaceans</a></strong></p> Important warning from Adam Harvey and the crates security team:</p> <blockquote> <p>We believe that there is an ongoing campaign targeting rust-lang members and owners of popular crates that is attempting to",
+          "url": "https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans",
+          "canonical_url": "https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans",
+          "source_id": "analysis_simon_willison",
+          "source_name": "Simon Willison's Blog",
+          "source_role": "editorial_depth",
+          "source_type": "blog_analysis",
+          "source_family": "analysis",
+          "published_at": "2026-09-17T23:59:19+00:00",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 3.926,
+          "topic_refs": [
+            {
+              "topic_id": "993b6f455052",
+              "slug": "be-alert-targeted-attacks-on-prominent-rustaceans",
+              "headline": "Be alert: targeted attacks on prominent Rustaceans",
+              "daily_route": "/hot/2026-09-18/topic/be-alert-targeted-attacks-on-prominent-rustaceans/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "analysis_mit_ai_news-3a5713cd1d21",
+          "title": "New AI technique could make minimally invasive surgeries safer and more precise",
+          "summary_short": "This patient-specific method, called xvr, helps doctors use X-rays for surgical navigation in fields such as orthopedics and neurosurgery",
+          "url": "https://news.mit.edu/2026/new-ai-technique-could-make-minimally-invasive-surgeries-safer-more-precise-0916",
+          "canonical_url": "https://news.mit.edu/2026/new-ai-technique-could-make-minimally-invasive-surgeries-safer-more-precise-0916",
+          "source_id": "analysis_mit_ai_news",
+          "source_name": "MIT News AI",
+          "source_role": "editorial_depth",
+          "source_type": "blog_analysis",
+          "source_family": "analysis",
+          "published_at": "Wed, 16 Sep 2026 11:00:00 -0400",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 1.3,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "import_ai-e5965ee9a57e",
+          "title": "The Work Of Art in the Age of Mechanical Reproduction by Walter Benjamin",
+          "summary_short": "",
+          "url": "https://web.mit.edu/allanmc/www/benjamin.pdf",
+          "canonical_url": "https://web.mit.edu/allanmc/www/benjamin.pdf",
+          "source_id": "import_ai",
+          "source_name": "Import AI",
+          "source_role": "editorial_depth",
+          "source_type": "roundup",
+          "source_family": "analysis",
+          "published_at": "2026-09-18T00:00:00-04:00",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 1.3,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        }
+      ]
+    },
+    {
+      "slug": "papers",
+      "label": "Research Papers",
+      "description": "Research papers and paper-trending signals tied to the current day.",
+      "count": 8,
+      "section_score": 11.312,
+      "items": [
+        {
+          "id": "hf_papers-aaaa4ab812e6",
+          "title": "DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression",
+          "summary_short": "The widespread adoption of long-horizon agents has made model workloads increasingly input-heavy.",
+          "url": "https://huggingface.co/papers/2609.19969",
+          "canonical_url": "https://arxiv.org/abs/2609.19969",
+          "source_id": "hf_papers",
+          "source_name": "Hugging Face Trending Papers",
+          "source_role": "paper_trending",
+          "source_type": "paper",
+          "source_family": "papers",
+          "published_at": "2026-09-17T00:00:00.000Z",
+          "tags": [],
+          "authors": [
+            "DeepSeek-AI",
+            "Anyi Xu",
+            "B. Li",
+            "Bangcai Lin",
+            "Bing Xue",
+            "BingCheng Xian",
+            "Bingzheng Xu",
+            "Bochao Wu",
+            "Bowei Zhang",
+            "Boyi Deng",
+            "C. C. Yu",
+            "Chao Jin",
+            "Chaofan Lin",
+            "Chen Dong",
+            "Chenbing Wang",
+            "Chenfan Feng",
+            "Chengda Lu",
+            "Chenggang Zhao",
+            "Chengqi Deng",
+            "Chengyuan Zhang",
+            "Chenhao Xu",
+            "Chenqi Zhao",
+            "Chenze Shao",
+            "Chuhao Wang",
+            "Chuqi Zhang",
+            "Damai Dai",
+            "Dejian Yang",
+            "Deli Chen",
+            "Di Huang",
+            "Di Wu",
+            "Donghao Li",
+            "Erhang Li",
+            "Eric Fu",
+            "F. Zhou",
+            "Fangwei Zhou",
+            "Fangyun Lin",
+            "Fangzhou Yuan",
+            "Feiyu Xia",
+            "Fucong Dai",
+            "Guangbo Hao",
+            "Guanglin Li",
+            "Guanting Chen",
+            "Guoai Cao",
+            "Guofan Fan",
+            "Guolai Meng",
+            "Guowei Li",
+            "Haichuan Zhang",
+            "Haiyang Ma",
+            "Haiyang Shen",
+            "Han Li",
+            "Han Yu",
+            "Han Zhang",
+            "Hangyuan Deng",
+            "Hanwei Xu",
+            "Hanxiang Xu",
+            "Hanxun Zhong",
+            "Hao Guo",
+            "Hao Jiang",
+            "Hao Li",
+            "Hao Qin",
+            "Haodong Wen",
+            "Haofen Liang",
+            "Haofeng Huang",
+            "Haohua Liu",
+            "Haoling Zhang",
+            "Haoming Luo",
+            "Haoran Yang",
+            "Haotian Xu",
+            "Haotian Yuan",
+            "Haoting Huang",
+            "Haowen Luo",
+            "Haoyang Cai",
+            "Haoyu Chen",
+            "Haozhe Ji",
+            "Hengran Zhang",
+            "Hengrui Wang",
+            "Hengxu Wu",
+            "Honghui Ding",
+            "Hongxuan Tang",
+            "Huadong Wang",
+            "Huanqi Cao",
+            "Huazuo Gao",
+            "Hui Qu",
+            "Hui Zeng",
+            "J. Yang",
+            "J. H. Jin",
+            "J. H. Zhang",
+            "J. X. Zou",
+            "Jia Yu",
+            "Jiahui Zhou",
+            "Jiajun Chen",
+            "Jialiang Huang",
+            "Jialin Zhao",
+            "Jiamin Tang",
+            "Jian Zhou",
+            "Jianan Tong",
+            "Jianwen Li",
+            "Jiaqi Zhu",
+            "Jiarui Wang",
+            "Jiasheng Ye",
+            "Jiashi Li",
+            "Jiaxin Xu",
+            "Jiaying Ding",
+            "Jibai Lu",
+            "Jiewen Hu",
+            "Jin Yan",
+            "Jincheng Zhai",
+            "Jingchang Chen",
+            "Jingcheng Hu",
+            "Jingli Zhou",
+            "Jingsheng Xu",
+            "Jingting Xiang",
+            "Jingyan Yun",
+            "Jingyang Yuan",
+            "Jingyuan Cheng",
+            "Jinhua Zhu",
+            "Jinpeng Wang",
+            "Jinyi Chen",
+            "Jinyi Hu",
+            "Jiping Yu",
+            "Jueliang Guo",
+            "Junbo Pei",
+            "Junbo Sun",
+            "Junguang Jiang",
+            "Junjie Qiu",
+            "Junkang Zhou",
+            "Junqi Liu",
+            "Junren Li",
+            "Junxian Li",
+            "Junxiao Song",
+            "Junyi Guo",
+            "Kai Dong",
+            "Kaifeng Chen",
+            "Kaige Gao",
+            "Kang Guan",
+            "Kangdong Yuan",
+            "Ke Hong",
+            "Ke Xu",
+            "Kefan Zhao",
+            "Kexin Ji",
+            "Kexin Zhang",
+            "Kexing Zhou",
+            "Kuai Yu",
+            "Lan Zhang",
+            "Lean Wang",
+            "Lecong Zhang",
+            "Lei Wang",
+            "Letian Gao",
+            "Liang Zhao",
+            "Liansheng Xu",
+            "Lihua Guo",
+            "Lingxiao Luo",
+            "Lingyue Fu",
+            "Litao Deng",
+            "Litong Wang",
+            "Liyue Zhang",
+            "Longhao Chen",
+            "Lu Chen",
+            "Luotian Huang",
+            "Luyao Ma",
+            "Luyao Wang",
+            "M. S. Di",
+            "Max Mei",
+            "Menghao Ye",
+            "Miao Cui",
+            "Mingchuan Zhang",
+            "Minghua Zhang",
+            "Minghui Tang",
+            "Mingjing Zhang",
+            "Mingqi Wei",
+            "Mingshu Chen",
+            "Mingxing Liu",
+            "Mingxu Zhou",
+            "Mingyu Xu",
+            "Mingyu Yang",
+            "Mingze Wang",
+            "Muyang Chen",
+            "Ni Shentu",
+            "Ning Wang",
+            "Niufang Ning",
+            "Panpan Huang",
+            "Peixin Cong",
+            "Peiyi Wang",
+            "Peiyuan Xin",
+            "Pengfei Ren",
+            "Pengfei Yan",
+            "Pengle Zhang",
+            "Qi Kang",
+            "Qi Tang",
+            "Qiancheng Wang",
+            "Qiang Li",
+            "Qihao Zhu",
+            "Qingyang Li",
+            "Qinyu Chen",
+            "Qiushi Du",
+            "Qizhou Guo",
+            "Rongxian Xu",
+            "Rui Ding",
+            "Rui Hu",
+            "Rui Tian",
+            "Rui Yu",
+            "Ruidong Zhu",
+            "Ruifan Xu",
+            "Ruihan Yang",
+            "Ruihang Xia",
+            "Ruijie Lu",
+            "Ruilin Geng",
+            "Ruipeng Hong",
+            "Ruiqi Ge",
+            "Ruisong Zhang",
+            "Ruize Sun",
+            "Ruizhe Pan",
+            "Runji Wang",
+            "Runqian Chen",
+            "Runxin Xu",
+            "Ruohong Tian",
+            "Ruomeng Shen",
+            "Ruoyu Zhang",
+            "Ryan X.",
+            "S. H. Liu",
+            "Shanghao Lu",
+            "Shangyan Zhou",
+            "Shanhuang Chen",
+            "Shaofei Cai",
+            "Shaoheng Nie",
+            "Shaoyuan Chen",
+            "Shengding Hu",
+            "Shengkai Lin",
+            "Shengwen Ran",
+            "Shengyu Liu",
+            "Shengyuan Jia",
+            "Shi Bai",
+            "Shi Feng",
+            "Shicheng Xu",
+            "Shichun Liu",
+            "Shiqiang Hu",
+            "Shirong Ma",
+            "Shiyu Wang",
+            "Shiyuan Feng",
+            "Shufan Gong",
+            "Shuhan Lin",
+            "Shuiping Yu",
+            "Shunfeng Zhou",
+            "Shuo Yang",
+            "Shuomeng Wang",
+            "Shuting Guo",
+            "Shuting Pan",
+            "Shuying Yu",
+            "Sinuo Cao",
+            "Siyi Lin",
+            "Sizhe Chen",
+            "Songyang Chen",
+            "Songyang Zhou",
+            "Tao Ni",
+            "Tao Yun",
+            "Tian Jin",
+            "Tian Pei",
+            "Tian Ye",
+            "Tianle Lin",
+            "Tianran Ji",
+            "Tianyi Cui",
+            "Tianyuan Yue",
+            "Tingting Yu",
+            "Tongrui Xiong",
+            "Wangding Zeng",
+            "Wei Liu",
+            "Wei Zhang",
+            "Weibin Xu",
+            "Weihao Zeng",
+            "Weilin Zhao",
+            "Wen Liu",
+            "Wenfeng Liang",
+            "Wenjie Pang",
+            "Wenjing Luo",
+            "Wenjing Yao",
+            "Wenjun Gao",
+            "Wenkai Shao",
+            "Wenkai Yang",
+            "Wenli Zhang",
+            "Wenlu Wang",
+            "Wenlve Huang",
+            "Wenqian Yan",
+            "Wentao Zhang",
+            "Xi Gao",
+            "Xiang He",
+            "Xiang Li",
+            "Xiangli Li",
+            "Xiangwen Wang",
+            "Xiangying Zhang",
+            "Xiankui Wei",
+            "Xiao Bi",
+            "Xiaodong Liu",
+            "Xiaohan Wang",
+            "Xiaojian Qu",
+            "Xiaokang Chen",
+            "Xiaokang Zhang",
+            "Xiaotao Nie",
+            "Xiaoyao Zou",
+            "Xiaoyuan Li",
+            "Xicheng Guo",
+            "Xieting Chu",
+            "Xin Cheng",
+            "Xin Liu",
+            "Xin Xie",
+            "Xinbo Xu",
+            "Xingchao Liu",
+            "Xingchen Liu",
+            "Xingkai Yu",
+            "Xingyou Li",
+            "Xintong Yao",
+            "Xinyang Chen",
+            "Xinyong Jiang",
+            "Xinyu Yang",
+            "Xinyu Yang",
+            "Xu Chen",
+            "Xuanyu Wang",
+            "Xubei Zhong",
+            "Xuecheng Su",
+            "Xuejie Liu",
+            "Xuheng Lin",
+            "Xujie Fan",
+            "Xuncheng Zhao",
+            "Xuwei Fu",
+            "Y. C. Yan",
+            "Y. H. Jiang",
+            "Y. T. Wu",
+            "Y. W. M.",
+            "Y. Z. Wang",
+            "Yafei Gao",
+            "Yang Yang",
+            "Yang Zhang",
+            "Yanru Ma",
+            "Yanwen Huang",
+            "Yao Li",
+            "Yao Li",
+            "Yao Meng",
+            "Yao Zhao",
+            "Yaofeng Sun",
+            "Yaohui Wang",
+            "Yaoyang Ye",
+            "Yehang Yin",
+            "Yexinrui Wu",
+            "Yi Qian",
+            "Yi Tao",
+            "Yi Yu",
+            "Yichao Zhang",
+            "Yichen Jiang",
+            "Yicheng Wang",
+            "Yifan Ding",
+            "Yifan Shi",
+            "Yifeng Peng",
+            "Yifeng Zhai",
+            "Yijia Wu",
+            "Yiliang Xiong",
+            "Yilun Wang",
+            "Ying He",
+            "Ying Zhou",
+            "Yingjia Luo",
+            "Yinmin Zhong",
+            "Yiping Wang",
+            "Yisong Wang",
+            "Yixiang Zhang",
+            "Yixiao Chen",
+            "Yixuan Tan",
+            "Yixuan Wei",
+            "Yiyang Ma",
+            "Yiyao Yang",
+            "Yiyuan Liu",
+            "Yizai Cai",
+            "Yizhen Wei",
+            "Yizhi Wang",
+            "Yonglun Yang",
+            "Yongqi Zhuo",
+            "Yongqiang Guo",
+            "Yongtong Wu",
+            "Yu Wu",
+            "Yu Zhang",
+            "Yuan Bian",
+            "Yuan Cheng",
+            "Yuan Ou",
+            "Yuan Sun",
+            "Yuanfan Xu",
+            "Yuanhang Sun",
+            "Yuanhao Li",
+            "Yuchen Liu",
+            "Yuchen Yao",
+            "Yudong Han",
+            "Yuduan Wang",
+            "Yuhan Wu",
+            "Yuhao Meng",
+            "Yuheng Zou",
+            "YuKun Li",
+            "Yunchuan Wang",
+            "Yunfan Xiao",
+            "Yunfan Xiong",
+            "Yupeng Chen",
+            "Yuqian Cao",
+            "Yuqian Wang",
+            "Yuqing Chen",
+            "Yushun Zhang",
+            "Yutong Lin",
+            "Yuwei Xiao",
+            "Yuxian Gu",
+            "Yuxiang Chen",
+            "Yuxiang Huang",
+            "Yuxiang Luo",
+            "Yuxiang You",
+            "Yuxin Chen",
+            "Yuxin Xiang",
+            "Yuxuan Liu",
+            "Yuxuan Zhou",
+            "Yuyang Zhou",
+            "Yuzhe Guo",
+            "Yuzhen Huang",
+            "Yuzhuo Bai",
+            "Z. Y. Z.",
+            "Zanlin Ni",
+            "Zehao Wang",
+            "Zehua Zhao",
+            "Zehui Ren",
+            "Zejun Zhao",
+            "Zhangli Sha",
+            "Zhanying Wang",
+            "Zhaochen Zhang",
+            "Zhaoshuai Du",
+            "Zhe Fu",
+            "Zhean Xu",
+            "Zhenda Xie",
+            "Zheng Liu",
+            "Zhengyan Zhang",
+            "Zhenhua Dong",
+            "Zhewen Hao",
+            "Zhibang Wang",
+            "Zhibin Gou",
+            "Zhicheng Ma",
+            "Zhihao Li",
+            "Zhihong Shao",
+            "Zhihuan Huang",
+            "Zhijie Li",
+            "Zhirui Lu",
+            "Zhixian Huang",
+            "Zhixuan Chen",
+            "Zhixuan Chen",
+            "Zhixuan Pan",
+            "Zhiyu Wu",
+            "Zhizhou Ren",
+            "Zhu He",
+            "Zhuoshu Li",
+            "Zhuping Zhang",
+            "Zian Xu",
+            "Zihao Wang",
+            "Zihui Gu",
+            "Zijia Zhu",
+            "Zili Zhang",
+            "Zilin Li",
+            "Zilong Hou",
+            "Zilong Lyu",
+            "Ziqiao Wang",
+            "Ziwei Xie",
+            "Ziya Zhang",
+            "Ziyi Gao",
+            "Zizheng Pan",
+            "Zonglin Li",
+            "Zongqing Yao",
+            "Zui Chen",
+            "Zuofan Wu",
+            "Chenchen Ling",
+            "Chengyu Hou",
+            "Chong Chen",
+            "D. Li",
+            "Di Qi",
+            "Dongjie Ji",
+            "Fang Wei",
+            "Fanyi Xia",
+            "Fei Xie",
+            "Feiyi Tan",
+            "Hailong Guo",
+            "Haiyan Zhai",
+            "Hui Zhou",
+            "Huihui Tan",
+            "Huijie Li",
+            "Jia Luo",
+            "Jia Song",
+            "Jialu Cai",
+            "Jian Liang",
+            "Jiangting Zhou",
+            "Jiaqi Gao",
+            "Jiayi Shao",
+            "Jie Chen",
+            "Jieyu Yang",
+            "Jin Chen",
+            "Jingde Zhang",
+            "Jingzi Zhou",
+            "Jinqian Wang",
+            "Jinyang Liu",
+            "JinZhao Sun",
+            "Junhua Ling",
+            "Junmin Zheng",
+            "Kaicheng Yang",
+            "Ke Xu",
+            "Le Su",
+            "Leyi Xia",
+            "Liangfeng Ding",
+            "Lin Zhuo",
+            "Linwang Ma",
+            "Linyan Zhu",
+            "Liyu Cai",
+            "Luqi Yao",
+            "M. K. Zhang",
+            "Meng Li",
+            "Miao Lin",
+            "Miaojun Wang",
+            "Min Zhang",
+            "Mingming Li",
+            "Mingming Wang",
+            "Mingze Yin",
+            "Minmin Han",
+            "Nan Cao",
+            "Ning Wang",
+            "Ningxin Ma",
+            "Panpan Wang",
+            "Peihan Lin",
+            "Peng Sun",
+            "Peng Zhang",
+            "Qian Ying",
+            "Qiang Xiang",
+            "Qiao Wang",
+            "Qingmiao Mao",
+            "Qiwei Jiang",
+            "Rongli Jin",
+            "Ruyi Chen",
+            "Sha Tao",
+            "Shangmian Sun",
+            "Shaoqing Wu",
+            "Shichao Zou",
+            "Si Lei",
+            "Tianyang Zhang",
+            "Tianyu Sun",
+            "Tingting Yin",
+            "W. L. Xiao",
+            "Wei An",
+            "Wei Li",
+            "Wei Wang",
+            "Weiwei Lin",
+            "Wenqing Hou",
+            "X. Lin",
+            "Xiangfei Meng",
+            "Xianzhu Huang",
+            "Xiao Peng",
+            "Xiaoqian Li",
+            "Xiaoting Zhang",
+            "Xiaowen Sun",
+            "Xiaoxiang Wang",
+            "Xiaoyu Ye",
+            "Xinrou Zhang",
+            "Xinyu Zhang",
+            "Xue Cao",
+            "Xueyin Chen",
+            "Yanan Zhou",
+            "Yanhong Xu",
+            "Yao Xia",
+            "Yao Xu",
+            "Yi Shao",
+            "Yihong Zhang",
+            "Yiling Ma",
+            "Ying Tang",
+            "Yining Lou",
+            "Yiru Chen",
+            "Yishi Piao",
+            "Yixuan Chen",
+            "Yong Xiong",
+            "Yuchen Xuan",
+            "Yuehan Yang",
+            "Yuer Xu",
+            "Yukun Zha",
+            "Yunxian Ma",
+            "Yuping Lin",
+            "Yuting Yan",
+            "Yutong Xie",
+            "Yuwen Sheng",
+            "Yuxuan Zhu",
+            "Zekai Zhang",
+            "Zhe Ju",
+            "Zhenzhen Lin",
+            "Zheren Gao",
+            "Zheyang Sun",
+            "Zhigang Yan",
+            "Zhongyu Wu",
+            "Zi Wang",
+            "Zihua Qu",
+            "Ziling Yan",
+            "Ziyi Wan"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 146,
+            "daily_score": 146
+          },
+          "signal_score": 9.189,
+          "topic_refs": [
+            {
+              "topic_id": "04017bb976ac",
+              "slug": "deepseek-v4-1-flash-pushing-the-limits-of-kv-cache-compression",
+              "headline": "DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression",
+              "daily_route": "/hot/2026-09-18/topic/deepseek-v4-1-flash-pushing-the-limits-of-kv-cache-compression/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "daily_hot",
+          "spotlight_primary_label": "Daily Hot Papers",
+          "spotlight_comment": "The widespread adoption of long-horizon agents has made model workloads increasingly input-heavy."
+        },
+        {
+          "id": "hf_papers-47c17a5e18ef",
+          "title": "SoL-Pi: Recursively Scaling Auto-Research Loops for Efficient Agent Harness",
+          "summary_short": "As coding agents move from supervised code completion to unattended, around-the-clock exploration, their work expands from isolated predictions into long trajectories of reasoning, tool use, and feedback. Token efficiency therefore becomes important for scaling recursive self-improvement.",
+          "url": "https://huggingface.co/papers/2609.20519",
+          "canonical_url": "https://arxiv.org/abs/2609.20519",
+          "source_id": "hf_papers",
+          "source_name": "Hugging Face Trending Papers",
+          "source_role": "paper_trending",
+          "source_type": "paper",
+          "source_family": "papers",
+          "published_at": "2026-09-17T00:00:00.000Z",
+          "tags": [],
+          "authors": [
+            "Haozhe Liu",
+            "Tian Ye",
+            "Sensen Gao",
+            "Qihang Cao",
+            "Yitong Li",
+            "Mingchen Zhuge",
+            "Duomin Wang",
+            "Ruihua Zhang",
+            "Ping Luo",
+            "Jiawang Bian",
+            "Lei Zhu",
+            "Ligeng Zhu",
+            "Enze Xie",
+            "Song Han"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 97,
+            "daily_score": 97
+          },
+          "signal_score": 6.927,
+          "topic_refs": [
+            {
+              "topic_id": "ea1883a93109",
+              "slug": "sol-pi-recursively-scaling-auto-research-loops-for-efficient-agent-harness",
+              "headline": "SoL-Pi: Recursively Scaling Auto-Research Loops for Efficient Agent Harness",
+              "daily_route": "/hot/2026-09-18/topic/sol-pi-recursively-scaling-auto-research-loops-for-efficient-agent-harness/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "daily_hot",
+          "spotlight_primary_label": "Daily Hot Papers",
+          "spotlight_comment": "As coding agents move from supervised code completion to unattended, around-the-clock exploration, their work expands from isolated predictions into long trajectories of reasoning, tool use, and feedback."
+        },
+        {
+          "id": "hf_papers-4f608f1b60d8",
+          "title": "When EOS Tokens Disagree: Understanding Length Inflation in On-Policy Distillation",
+          "summary_short": "We study length inflation in on-policy distillation (OPD), where student responses can become excessively long and even exhaust the generation budget. We identify termination-token mismatch between base students and post-trained teachers as an important source of this behavior.",
+          "url": "https://huggingface.co/papers/2609.20511",
+          "canonical_url": "https://arxiv.org/abs/2609.20511",
+          "source_id": "hf_papers",
+          "source_name": "Hugging Face Trending Papers",
+          "source_role": "paper_trending",
+          "source_type": "paper",
+          "source_family": "papers",
+          "published_at": "2026-09-17T00:00:00.000Z",
+          "tags": [],
+          "authors": [
+            "Yuxiao Yang",
+            "Tianrun Yu",
+            "Shangzhe Li",
+            "Kaixiang Zhao",
+            "Xuchao Zhang",
+            "Chetan Bansal",
+            "Huaxiu Yao",
+            "Taylor W. Killian",
+            "Weitong Zhang"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 96,
+            "daily_score": 96
+          },
+          "signal_score": 6.917,
+          "topic_refs": [
+            {
+              "topic_id": "0b407a055428",
+              "slug": "when-eos-tokens-disagree-understanding-length-inflation-in-on-policy-distillation",
+              "headline": "When EOS Tokens Disagree: Understanding Length Inflation in On-Policy Distillation",
+              "daily_route": "/hot/2026-09-18/topic/when-eos-tokens-disagree-understanding-length-inflation-in-on-policy-distillation/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "daily_hot",
+          "spotlight_primary_label": "Daily Hot Papers",
+          "spotlight_comment": "We study length inflation in on-policy distillation (OPD), where student responses can become excessively long and even exhaust the generation budget."
+        },
+        {
+          "id": "hf_papers-7fd05c4753ad",
+          "title": "JEPA-Anything: Learning Predictive Models across Different Worlds",
+          "summary_short": "World modeling enables intelligence to anticipate consequences, guide interventions, and learn from interaction. Yet predictive models remain domain-specific: can a common learning principle support world modeling across radically different systems?",
+          "url": "https://huggingface.co/papers/2609.20800",
+          "canonical_url": "https://arxiv.org/abs/2609.20800",
+          "source_id": "hf_papers",
+          "source_name": "Hugging Face Trending Papers",
+          "source_role": "paper_trending",
+          "source_type": "paper",
+          "source_family": "papers",
+          "published_at": "2026-09-17T00:00:00.000Z",
+          "tags": [],
+          "authors": [
+            "Taoyong Cui",
+            "Zhongyao Wang",
+            "Xinyue Xu",
+            "Weiyang Liu",
+            "Zhaochen Yu",
+            "Yuying Zhang",
+            "Qiang Gao",
+            "Mengyue Yang",
+            "Wanli Ouyang",
+            "Pheng Ann Heng",
+            "Yingcheng Wu",
+            "Zhenfei Yin",
+            "Ling Yang"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 58,
+            "daily_score": 58
+          },
+          "signal_score": 6.537,
+          "topic_refs": [
+            {
+              "topic_id": "ea04159ab206",
+              "slug": "jepa-anything-learning-predictive-models-across-different-worlds",
+              "headline": "JEPA-Anything: Learning Predictive Models across Different Worlds",
+              "daily_route": "/hot/2026-09-18/topic/jepa-anything-learning-predictive-models-across-different-worlds/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "daily_hot",
+          "spotlight_primary_label": "Daily Hot Papers",
+          "spotlight_comment": "World modeling enables intelligence to anticipate consequences, guide interventions, and learn from interaction. Yet predictive models remain domain-specific: can a common learning principle support world modeling across radically different systems?"
+        },
+        {
+          "id": "hf_papers-3f8ce213f8de",
+          "title": "An Empirical Study of Harness Design for Coding Agents",
+          "summary_short": "Coding harnesses shape how autonomous coding agents translate model capabilities into long-horizon software-engineering performance, yet existing work typically evaluates harnesses as monolithic systems, leaving the effectiveness of individual components unclear.",
+          "url": "https://huggingface.co/papers/2609.20804",
+          "canonical_url": "https://arxiv.org/abs/2609.20804",
+          "source_id": "hf_papers",
+          "source_name": "Hugging Face Trending Papers",
+          "source_role": "paper_trending",
+          "source_type": "paper",
+          "source_family": "papers",
+          "published_at": "2026-09-17T00:00:00.000Z",
+          "tags": [],
+          "authors": [
+            "Run-Ze Fan",
+            "Zihao Zhang",
+            "Simin Ma",
+            "Yebowen Hu",
+            "Shouju Wang",
+            "Kaiqiang Song",
+            "Fei Liu",
+            "Hamed Zamani",
+            "Xiaoyang Wang"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 74,
+            "daily_score": 74
+          },
+          "signal_score": 3.39,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "daily_hot",
+          "spotlight_primary_label": "Daily Hot Papers",
+          "spotlight_comment": "Coding harnesses shape how autonomous coding agents translate model capabilities into long-horizon software-engineering performance, yet existing work typically evaluates harnesses as monolithic systems, leaving the effectiveness of individual"
+        },
+        {
+          "id": "hf_papers-e6ee86688677",
+          "title": "Self-Evolving Search Index",
+          "summary_short": "Information retrieval is increasingly important as LLM agents tackle complex tasks involving diverse information needs.",
+          "url": "https://huggingface.co/papers/2609.19656",
+          "canonical_url": "https://arxiv.org/abs/2609.19656",
+          "source_id": "hf_papers",
+          "source_name": "Hugging Face Trending Papers",
+          "source_role": "paper_trending",
+          "source_type": "paper",
+          "source_family": "papers",
+          "published_at": "2026-09-17T00:00:00.000Z",
+          "tags": [],
+          "authors": [
+            "Sangam Lee",
+            "Wonjae Lee",
+            "Sunghwan Kim",
+            "Deogyong Kim",
+            "Jaehoon Kim",
+            "Daye Nam",
+            "SeongKu Kang",
+            "Dongha Lee"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 47,
+            "daily_score": 47
+          },
+          "signal_score": 3.12,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "daily_hot",
+          "spotlight_primary_label": "Daily Hot Papers",
+          "spotlight_comment": "Information retrieval is increasingly important as LLM agents tackle complex tasks involving diverse information needs."
+        },
+        {
+          "id": "hf_papers-91d86beee9d1",
+          "title": "RetireOPD: Self-Retiring On-Policy Distillation for Agentic Reinforcement Learning",
+          "summary_short": "Multi-turn agents trained with reinforcement learning (RL) receive a single scalar reward per trajectory, which motivates self on-policy distillation (OPD) to supply dense token-level supervision from a self-teacher with privileged task skills, letting a skill-free student internalize them.",
+          "url": "https://huggingface.co/papers/2609.20784",
+          "canonical_url": "https://arxiv.org/abs/2609.20784",
+          "source_id": "hf_papers",
+          "source_name": "Hugging Face Trending Papers",
+          "source_role": "paper_trending",
+          "source_type": "paper",
+          "source_family": "papers",
+          "published_at": "2026-09-17T00:00:00.000Z",
+          "tags": [],
+          "authors": [
+            "Yan Yu",
+            "Zhengxi Lu",
+            "Yizhou Liu",
+            "Yichen Pan",
+            "Aozhe Wang",
+            "Qipeng Chen",
+            "Hua Yang",
+            "Wenqi Zhang",
+            "Weiming Lu",
+            "Qianglong Chen",
+            "Yongliang Shen"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 41,
+            "daily_score": 41
+          },
+          "signal_score": 3.06,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "daily_hot",
+          "spotlight_primary_label": "Daily Hot Papers",
+          "spotlight_comment": "Multi-turn agents trained with reinforcement learning (RL) receive a single scalar reward per trajectory, which motivates self on-policy distillation (OPD) to supply dense token-level supervision from a self-teacher with privileged task skills"
+        },
+        {
+          "id": "hf_papers-910308de2055",
+          "title": "WeVisDoc: From Coverage to Capability for Robust End-to-End Document Parsing",
+          "summary_short": "Document parsing converts document images into structured content and requires reliable performance across diverse layouts and acquisition conditions.",
+          "url": "https://huggingface.co/papers/2609.20423",
+          "canonical_url": "https://arxiv.org/abs/2609.20423",
+          "source_id": "hf_papers",
+          "source_name": "Hugging Face Trending Papers",
+          "source_role": "paper_trending",
+          "source_type": "paper",
+          "source_family": "papers",
+          "published_at": "2026-09-17T00:00:00.000Z",
+          "tags": [],
+          "authors": [
+            "Hao Yu",
+            "Kang Liu",
+            "Linnan Zhao",
+            "Jiabo Zhan",
+            "Chong Sun",
+            "Chen Li",
+            "Jing Lyu"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 34,
+            "daily_score": 34
+          },
+          "signal_score": 2.99,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "daily_hot",
+          "spotlight_primary_label": "Daily Hot Papers",
+          "spotlight_comment": "Document parsing converts document images into structured content and requires reliable performance across diverse layouts and acquisition conditions."
+        }
+      ]
+    },
+    {
+      "slug": "github",
+      "label": "GitHub / Tools",
+      "description": "Repositories, tooling launches, and builder momentum around practical AI systems.",
+      "count": 6,
+      "section_score": 8.359,
+      "items": [
+        {
+          "id": "github_trend-639d4b24f18d",
+          "title": "Continuum-AI-Corp/OrcaBonsai-27B-Uncensored",
+          "summary_short": "Runtime behavioral ablation for compressed LLMs. First target: Ternary Bonsai 2 27B — no weight modification or re-quantization. by OrcaRouter team",
+          "url": "https://github.com/Continuum-AI-Corp/OrcaBonsai-27B-Uncensored",
+          "canonical_url": "https://github.com/Continuum-AI-Corp/OrcaBonsai-27B-Uncensored",
+          "source_id": "github_trend",
+          "source_name": "GitHub Trending Repos",
+          "source_role": "github_trend",
+          "source_type": "repository",
+          "source_family": "github",
+          "published_at": "2026-09-18T06:45:54Z",
+          "tags": [],
+          "authors": [
+            "Continuum-AI-Corp"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 518,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 7.555,
+          "topic_refs": [
+            {
+              "topic_id": "f2004d2657f0",
+              "slug": "continuum-ai-corp-orcabonsai-27b-uncensored",
+              "headline": "Continuum-AI-Corp/OrcaBonsai-27B-Uncensored",
+              "daily_route": "/hot/2026-09-18/topic/continuum-ai-corp-orcabonsai-27b-uncensored/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "github_trend-1e4051b18224",
+          "title": "kerpopule/hermes-jev-skills",
+          "summary_short": "Jev-powered model routing, memory, compaction, skill selection, computer and browser use for Hermes agents (also Claude Code and Codex",
+          "url": "https://github.com/kerpopule/hermes-jev-skills",
+          "canonical_url": "https://github.com/kerpopule/hermes-jev-skills",
+          "source_id": "github_trend",
+          "source_name": "GitHub Trending Repos",
+          "source_role": "github_trend",
+          "source_type": "repository",
+          "source_family": "github",
+          "published_at": "2026-09-18T20:01:29Z",
+          "tags": [],
+          "authors": [
+            "kerpopule"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 386,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 6.74,
+          "topic_refs": [
+            {
+              "topic_id": "f2f6e0d0b2b3",
+              "slug": "kerpopule-hermes-jev-skills",
+              "headline": "kerpopule/hermes-jev-skills",
+              "daily_route": "/hot/2026-09-18/topic/kerpopule-hermes-jev-skills/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "github_trend-1aaf19b7744c",
+          "title": "browser-use/jev-ultrafast",
+          "summary_short": "Fastest and cheapest web agent",
+          "url": "https://github.com/browser-use/jev-ultrafast",
+          "canonical_url": "https://github.com/browser-use/jev-ultrafast",
+          "source_id": "github_trend",
+          "source_name": "GitHub Trending Repos",
+          "source_role": "github_trend",
+          "source_type": "repository",
+          "source_family": "github",
+          "published_at": "2026-09-16T21:30:12Z",
+          "tags": [],
+          "authors": [
+            "browser-use"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 15485,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 3.35,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "github_trend-c2b6457f5bfb",
+          "title": "mcncarl/jianying-headless",
+          "summary_short": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill",
+          "url": "https://github.com/mcncarl/jianying-headless",
+          "canonical_url": "https://github.com/mcncarl/jianying-headless",
+          "source_id": "github_trend",
+          "source_name": "GitHub Trending Repos",
+          "source_role": "github_trend",
+          "source_type": "repository",
+          "source_family": "github",
+          "published_at": "2026-09-15T11:51:15Z",
+          "tags": [],
+          "authors": [
+            "mcncarl"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 2354,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 3.35,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "github_trend-6c0467393ba8",
+          "title": "AetherLabsAI/RSIAgent",
+          "summary_short": "A training-free multi-agent framework for recursive self-improvement in new environments through broad-then-deep autonomous exploration and reusable memory",
+          "url": "https://github.com/AetherLabsAI/RSIAgent",
+          "canonical_url": "https://github.com/AetherLabsAI/RSIAgent",
+          "source_id": "github_trend",
+          "source_name": "GitHub Trending Repos",
+          "source_role": "github_trend",
+          "source_type": "repository",
+          "source_family": "github",
+          "published_at": "2026-09-13T01:48:25Z",
+          "tags": [],
+          "authors": [
+            "AetherLabsAI"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 384,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 1.718,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "github_trend-6fdf4b6416f0",
+          "title": "fhshaik/typesafe-mario",
+          "summary_short": "A TypeSafe/Jev agent that plays Super Mario Bros. from structured emulator state",
+          "url": "https://github.com/fhshaik/typesafe-mario",
+          "canonical_url": "https://github.com/fhshaik/typesafe-mario",
+          "source_id": "github_trend",
+          "source_name": "GitHub Trending Repos",
+          "source_role": "github_trend",
+          "source_type": "repository",
+          "source_family": "github",
+          "published_at": "2026-09-16T04:57:42Z",
+          "tags": [],
+          "authors": [
+            "fhshaik"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 332,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 1.614,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        }
+      ]
+    },
+    {
+      "slug": "industry",
+      "label": "Industry News",
+      "description": "Curated industry coverage from newsletters, blogs, and community sources with substance.",
+      "count": 6,
+      "section_score": 8.623,
+      "items": [
+        {
+          "id": "hn_discussion-635b267ac04d",
+          "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
+          "summary_short": "A Show HN post presents Cactus Needle 3 as automation models sized between 8 and 29 MB. The post claims they can match DeepSeek V4 Flash, but the supplied text provides no evaluation details",
+          "url": "https://cactuscompute.com/needle",
+          "canonical_url": "https://cactuscompute.com/needle",
+          "source_id": "hn_discussion",
+          "source_name": "Hacker News",
+          "source_role": "hn_discussion",
+          "source_type": "discussion",
+          "source_family": "industry",
+          "published_at": "2026-09-18T00:11:44Z",
+          "tags": [],
+          "authors": [
+            "HenryNdubuaku"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 235,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 6.546,
+          "topic_refs": [
+            {
+              "topic_id": "82e9732c4ce2",
+              "slug": "show-hn-cactus-needle-3-8-29mb-automation-models-can-match-deepseek-v4-flash",
+              "headline": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
+              "daily_route": "/hot/2026-09-18/topic/show-hn-cactus-needle-3-8-29mb-automation-models-can-match-deepseek-v4-flash/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "hn_discussion-39b208522bb5",
+          "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
+          "summary_short": "",
+          "url": "https://www.hacktron.ai/blog/hacking-openai",
+          "canonical_url": "https://www.hacktron.ai/blog/hacking-openai",
+          "source_id": "hn_discussion",
+          "source_name": "Hacker News",
+          "source_role": "hn_discussion",
+          "source_type": "discussion",
+          "source_family": "industry",
+          "published_at": "2026-09-18T02:47:24Z",
+          "tags": [],
+          "authors": [
+            "Handy-Man"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 488,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 5.338,
+          "topic_refs": [
+            {
+              "topic_id": "8387a4a50dbb",
+              "slug": "microsoft-openai-lose-fight-to-hide-internal-docs-admitting-scraping-is-theft",
+              "headline": "Microsoft, OpenAI lose fight to hide internal docs admitting scraping is theft",
+              "daily_route": "/hot/2026-09-18/topic/microsoft-openai-lose-fight-to-hide-internal-docs-admitting-scraping-is-theft/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "hn_discussion-bd4ec752fcc1",
+          "title": "I Don't Like LLMs",
+          "summary_short": "The item presents a viewpoint titled \"I Don't Like LLMs.\" The supplied summary repeats the title and provides no specific supporting arguments",
+          "url": "https://martinfowler.com/articles/2026-dont-like-llms.html",
+          "canonical_url": "https://martinfowler.com/articles/2026-dont-like-llms.html",
+          "source_id": "hn_discussion",
+          "source_name": "Hacker News",
+          "source_role": "hn_discussion",
+          "source_type": "discussion",
+          "source_family": "industry",
+          "published_at": "2026-09-17T13:57:07Z",
+          "tags": [],
+          "authors": [
+            "TangerineDream"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 239,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 4.864,
+          "topic_refs": [
+            {
+              "topic_id": "eced9c15d834",
+              "slug": "i-don-t-like-llms",
+              "headline": "I Don't Like LLMs",
+              "daily_route": "/hot/2026-09-18/topic/i-don-t-like-llms/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "hn_discussion-0939869a8e41",
+          "title": "LLM Classification Is Feature Engineering",
+          "summary_short": "The item frames LLM classification as feature engineering. The supplied summary provides no methodological details or empirical results",
+          "url": "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction",
+          "canonical_url": "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction",
+          "source_id": "hn_discussion",
+          "source_name": "Hacker News",
+          "source_role": "hn_discussion",
+          "source_type": "discussion",
+          "source_family": "industry",
+          "published_at": "2026-09-17T15:40:17Z",
+          "tags": [],
+          "authors": [
+            "minsufficient"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 115,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 4.422,
+          "topic_refs": [
+            {
+              "topic_id": "bd040e6bde71",
+              "slug": "llm-classification-is-feature-engineering",
+              "headline": "LLM Classification Is Feature Engineering",
+              "daily_route": "/hot/2026-09-18/topic/llm-classification-is-feature-engineering/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "hn_discussion-c382d421c44e",
+          "title": "Canto: A speech model built for the real world",
+          "summary_short": "Canto is introduced as a speech model built for real-world use. The supplied description provides no specifications, benchmarks, or availability details",
+          "url": "https://wisprflow.ai/canto",
+          "canonical_url": "https://wisprflow.ai/canto",
+          "source_id": "hn_discussion",
+          "source_name": "Hacker News",
+          "source_role": "hn_discussion",
+          "source_type": "discussion",
+          "source_family": "industry",
+          "published_at": "2026-09-17T18:32:50Z",
+          "tags": [],
+          "authors": [
+            "sleepypandas"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 47,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 4.279,
+          "topic_refs": [
+            {
+              "topic_id": "f03dcad5e25e",
+              "slug": "canto-a-speech-model-built-for-the-real-world",
+              "headline": "Canto: A speech model built for the real world",
+              "daily_route": "/hot/2026-09-18/topic/canto-a-speech-model-built-for-the-real-world/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "hn_discussion-166a6a3e2a20",
+          "title": "Show HN: Aclif – Agent CLI framework: one grammar, canonical names across SaaS",
+          "summary_short": "Aclif is presented on Show HN as an agent CLI framework. It provides one grammar and canonical names across SaaS services",
+          "url": "https://www.aclif.ai",
+          "canonical_url": "https://www.aclif.ai",
+          "source_id": "hn_discussion",
+          "source_name": "Hacker News",
+          "source_role": "hn_discussion",
+          "source_type": "discussion",
+          "source_family": "industry",
+          "published_at": "2026-09-17T16:48:17Z",
+          "tags": [],
+          "authors": [
+            "chris_marino"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 35,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 4.115,
+          "topic_refs": [
+            {
+              "topic_id": "ee6a8ac6b2d9",
+              "slug": "show-hn-aclif-agent-cli-framework-one-grammar-canonical-names-across-saas",
+              "headline": "Show HN: Aclif – Agent CLI framework: one grammar, canonical names across SaaS",
+              "daily_route": "/hot/2026-09-18/topic/show-hn-aclif-agent-cli-framework-one-grammar-canonical-names-across-saas/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        }
+      ]
+    }
+  ],
+  "paper_spotlight": [
+    {
+      "slug": "paper-spotlight-daily_hot",
+      "kind": "daily_hot",
+      "label": "Daily Hot Papers",
+      "description": "Papers that feel broadly important to the day and belong in the hotspot paper feed.",
+      "count": 8,
+      "items": [
+        {
+          "id": "hf_papers-aaaa4ab812e6",
+          "title": "DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression",
+          "summary_short": "The widespread adoption of long-horizon agents has made model workloads increasingly input-heavy.",
+          "url": "https://huggingface.co/papers/2609.19969",
+          "canonical_url": "https://arxiv.org/abs/2609.19969",
+          "source_id": "hf_papers",
+          "source_name": "Hugging Face Trending Papers",
+          "source_role": "paper_trending",
+          "source_type": "paper",
+          "source_family": "papers",
+          "published_at": "2026-09-17T00:00:00.000Z",
+          "tags": [],
+          "authors": [
+            "DeepSeek-AI",
+            "Anyi Xu",
+            "B. Li",
+            "Bangcai Lin",
+            "Bing Xue",
+            "BingCheng Xian",
+            "Bingzheng Xu",
+            "Bochao Wu",
+            "Bowei Zhang",
+            "Boyi Deng",
+            "C. C. Yu",
+            "Chao Jin",
+            "Chaofan Lin",
+            "Chen Dong",
+            "Chenbing Wang",
+            "Chenfan Feng",
+            "Chengda Lu",
+            "Chenggang Zhao",
+            "Chengqi Deng",
+            "Chengyuan Zhang",
+            "Chenhao Xu",
+            "Chenqi Zhao",
+            "Chenze Shao",
+            "Chuhao Wang",
+            "Chuqi Zhang",
+            "Damai Dai",
+            "Dejian Yang",
+            "Deli Chen",
+            "Di Huang",
+            "Di Wu",
+            "Donghao Li",
+            "Erhang Li",
+            "Eric Fu",
+            "F. Zhou",
+            "Fangwei Zhou",
+            "Fangyun Lin",
+            "Fangzhou Yuan",
+            "Feiyu Xia",
+            "Fucong Dai",
+            "Guangbo Hao",
+            "Guanglin Li",
+            "Guanting Chen",
+            "Guoai Cao",
+            "Guofan Fan",
+            "Guolai Meng",
+            "Guowei Li",
+            "Haichuan Zhang",
+            "Haiyang Ma",
+            "Haiyang Shen",
+            "Han Li",
+            "Han Yu",
+            "Han Zhang",
+            "Hangyuan Deng",
+            "Hanwei Xu",
+            "Hanxiang Xu",
+            "Hanxun Zhong",
+            "Hao Guo",
+            "Hao Jiang",
+            "Hao Li",
+            "Hao Qin",
+            "Haodong Wen",
+            "Haofen Liang",
+            "Haofeng Huang",
+            "Haohua Liu",
+            "Haoling Zhang",
+            "Haoming Luo",
+            "Haoran Yang",
+            "Haotian Xu",
+            "Haotian Yuan",
+            "Haoting Huang",
+            "Haowen Luo",
+            "Haoyang Cai",
+            "Haoyu Chen",
+            "Haozhe Ji",
+            "Hengran Zhang",
+            "Hengrui Wang",
+            "Hengxu Wu",
+            "Honghui Ding",
+            "Hongxuan Tang",
+            "Huadong Wang",
+            "Huanqi Cao",
+            "Huazuo Gao",
+            "Hui Qu",
+            "Hui Zeng",
+            "J. Yang",
+            "J. H. Jin",
+            "J. H. Zhang",
+            "J. X. Zou",
+            "Jia Yu",
+            "Jiahui Zhou",
+            "Jiajun Chen",
+            "Jialiang Huang",
+            "Jialin Zhao",
+            "Jiamin Tang",
+            "Jian Zhou",
+            "Jianan Tong",
+            "Jianwen Li",
+            "Jiaqi Zhu",
+            "Jiarui Wang",
+            "Jiasheng Ye",
+            "Jiashi Li",
+            "Jiaxin Xu",
+            "Jiaying Ding",
+            "Jibai Lu",
+            "Jiewen Hu",
+            "Jin Yan",
+            "Jincheng Zhai",
+            "Jingchang Chen",
+            "Jingcheng Hu",
+            "Jingli Zhou",
+            "Jingsheng Xu",
+            "Jingting Xiang",
+            "Jingyan Yun",
+            "Jingyang Yuan",
+            "Jingyuan Cheng",
+            "Jinhua Zhu",
+            "Jinpeng Wang",
+            "Jinyi Chen",
+            "Jinyi Hu",
+            "Jiping Yu",
+            "Jueliang Guo",
+            "Junbo Pei",
+            "Junbo Sun",
+            "Junguang Jiang",
+            "Junjie Qiu",
+            "Junkang Zhou",
+            "Junqi Liu",
+            "Junren Li",
+            "Junxian Li",
+            "Junxiao Song",
+            "Junyi Guo",
+            "Kai Dong",
+            "Kaifeng Chen",
+            "Kaige Gao",
+            "Kang Guan",
+            "Kangdong Yuan",
+            "Ke Hong",
+            "Ke Xu",
+            "Kefan Zhao",
+            "Kexin Ji",
+            "Kexin Zhang",
+            "Kexing Zhou",
+            "Kuai Yu",
+            "Lan Zhang",
+            "Lean Wang",
+            "Lecong Zhang",
+            "Lei Wang",
+            "Letian Gao",
+            "Liang Zhao",
+            "Liansheng Xu",
+            "Lihua Guo",
+            "Lingxiao Luo",
+            "Lingyue Fu",
+            "Litao Deng",
+            "Litong Wang",
+            "Liyue Zhang",
+            "Longhao Chen",
+            "Lu Chen",
+            "Luotian Huang",
+            "Luyao Ma",
+            "Luyao Wang",
+            "M. S. Di",
+            "Max Mei",
+            "Menghao Ye",
+            "Miao Cui",
+            "Mingchuan Zhang",
+            "Minghua Zhang",
+            "Minghui Tang",
+            "Mingjing Zhang",
+            "Mingqi Wei",
+            "Mingshu Chen",
+            "Mingxing Liu",
+            "Mingxu Zhou",
+            "Mingyu Xu",
+            "Mingyu Yang",
+            "Mingze Wang",
+            "Muyang Chen",
+            "Ni Shentu",
+            "Ning Wang",
+            "Niufang Ning",
+            "Panpan Huang",
+            "Peixin Cong",
+            "Peiyi Wang",
+            "Peiyuan Xin",
+            "Pengfei Ren",
+            "Pengfei Yan",
+            "Pengle Zhang",
+            "Qi Kang",
+            "Qi Tang",
+            "Qiancheng Wang",
+            "Qiang Li",
+            "Qihao Zhu",
+            "Qingyang Li",
+            "Qinyu Chen",
+            "Qiushi Du",
+            "Qizhou Guo",
+            "Rongxian Xu",
+            "Rui Ding",
+            "Rui Hu",
+            "Rui Tian",
+            "Rui Yu",
+            "Ruidong Zhu",
+            "Ruifan Xu",
+            "Ruihan Yang",
+            "Ruihang Xia",
+            "Ruijie Lu",
+            "Ruilin Geng",
+            "Ruipeng Hong",
+            "Ruiqi Ge",
+            "Ruisong Zhang",
+            "Ruize Sun",
+            "Ruizhe Pan",
+            "Runji Wang",
+            "Runqian Chen",
+            "Runxin Xu",
+            "Ruohong Tian",
+            "Ruomeng Shen",
+            "Ruoyu Zhang",
+            "Ryan X.",
+            "S. H. Liu",
+            "Shanghao Lu",
+            "Shangyan Zhou",
+            "Shanhuang Chen",
+            "Shaofei Cai",
+            "Shaoheng Nie",
+            "Shaoyuan Chen",
+            "Shengding Hu",
+            "Shengkai Lin",
+            "Shengwen Ran",
+            "Shengyu Liu",
+            "Shengyuan Jia",
+            "Shi Bai",
+            "Shi Feng",
+            "Shicheng Xu",
+            "Shichun Liu",
+            "Shiqiang Hu",
+            "Shirong Ma",
+            "Shiyu Wang",
+            "Shiyuan Feng",
+            "Shufan Gong",
+            "Shuhan Lin",
+            "Shuiping Yu",
+            "Shunfeng Zhou",
+            "Shuo Yang",
+            "Shuomeng Wang",
+            "Shuting Guo",
+            "Shuting Pan",
+            "Shuying Yu",
+            "Sinuo Cao",
+            "Siyi Lin",
+            "Sizhe Chen",
+            "Songyang Chen",
+            "Songyang Zhou",
+            "Tao Ni",
+            "Tao Yun",
+            "Tian Jin",
+            "Tian Pei",
+            "Tian Ye",
+            "Tianle Lin",
+            "Tianran Ji",
+            "Tianyi Cui",
+            "Tianyuan Yue",
+            "Tingting Yu",
+            "Tongrui Xiong",
+            "Wangding Zeng",
+            "Wei Liu",
+            "Wei Zhang",
+            "Weibin Xu",
+            "Weihao Zeng",
+            "Weilin Zhao",
+            "Wen Liu",
+            "Wenfeng Liang",
+            "Wenjie Pang",
+            "Wenjing Luo",
+            "Wenjing Yao",
+            "Wenjun Gao",
+            "Wenkai Shao",
+            "Wenkai Yang",
+            "Wenli Zhang",
+            "Wenlu Wang",
+            "Wenlve Huang",
+            "Wenqian Yan",
+            "Wentao Zhang",
+            "Xi Gao",
+            "Xiang He",
+            "Xiang Li",
+            "Xiangli Li",
+            "Xiangwen Wang",
+            "Xiangying Zhang",
+            "Xiankui Wei",
+            "Xiao Bi",
+            "Xiaodong Liu",
+            "Xiaohan Wang",
+            "Xiaojian Qu",
+            "Xiaokang Chen",
+            "Xiaokang Zhang",
+            "Xiaotao Nie",
+            "Xiaoyao Zou",
+            "Xiaoyuan Li",
+            "Xicheng Guo",
+            "Xieting Chu",
+            "Xin Cheng",
+            "Xin Liu",
+            "Xin Xie",
+            "Xinbo Xu",
+            "Xingchao Liu",
+            "Xingchen Liu",
+            "Xingkai Yu",
+            "Xingyou Li",
+            "Xintong Yao",
+            "Xinyang Chen",
+            "Xinyong Jiang",
+            "Xinyu Yang",
+            "Xinyu Yang",
+            "Xu Chen",
+            "Xuanyu Wang",
+            "Xubei Zhong",
+            "Xuecheng Su",
+            "Xuejie Liu",
+            "Xuheng Lin",
+            "Xujie Fan",
+            "Xuncheng Zhao",
+            "Xuwei Fu",
+            "Y. C. Yan",
+            "Y. H. Jiang",
+            "Y. T. Wu",
+            "Y. W. M.",
+            "Y. Z. Wang",
+            "Yafei Gao",
+            "Yang Yang",
+            "Yang Zhang",
+            "Yanru Ma",
+            "Yanwen Huang",
+            "Yao Li",
+            "Yao Li",
+            "Yao Meng",
+            "Yao Zhao",
+            "Yaofeng Sun",
+            "Yaohui Wang",
+            "Yaoyang Ye",
+            "Yehang Yin",
+            "Yexinrui Wu",
+            "Yi Qian",
+            "Yi Tao",
+            "Yi Yu",
+            "Yichao Zhang",
+            "Yichen Jiang",
+            "Yicheng Wang",
+            "Yifan Ding",
+            "Yifan Shi",
+            "Yifeng Peng",
+            "Yifeng Zhai",
+            "Yijia Wu",
+            "Yiliang Xiong",
+            "Yilun Wang",
+            "Ying He",
+            "Ying Zhou",
+            "Yingjia Luo",
+            "Yinmin Zhong",
+            "Yiping Wang",
+            "Yisong Wang",
+            "Yixiang Zhang",
+            "Yixiao Chen",
+            "Yixuan Tan",
+            "Yixuan Wei",
+            "Yiyang Ma",
+            "Yiyao Yang",
+            "Yiyuan Liu",
+            "Yizai Cai",
+            "Yizhen Wei",
+            "Yizhi Wang",
+            "Yonglun Yang",
+            "Yongqi Zhuo",
+            "Yongqiang Guo",
+            "Yongtong Wu",
+            "Yu Wu",
+            "Yu Zhang",
+            "Yuan Bian",
+            "Yuan Cheng",
+            "Yuan Ou",
+            "Yuan Sun",
+            "Yuanfan Xu",
+            "Yuanhang Sun",
+            "Yuanhao Li",
+            "Yuchen Liu",
+            "Yuchen Yao",
+            "Yudong Han",
+            "Yuduan Wang",
+            "Yuhan Wu",
+            "Yuhao Meng",
+            "Yuheng Zou",
+            "YuKun Li",
+            "Yunchuan Wang",
+            "Yunfan Xiao",
+            "Yunfan Xiong",
+            "Yupeng Chen",
+            "Yuqian Cao",
+            "Yuqian Wang",
+            "Yuqing Chen",
+            "Yushun Zhang",
+            "Yutong Lin",
+            "Yuwei Xiao",
+            "Yuxian Gu",
+            "Yuxiang Chen",
+            "Yuxiang Huang",
+            "Yuxiang Luo",
+            "Yuxiang You",
+            "Yuxin Chen",
+            "Yuxin Xiang",
+            "Yuxuan Liu",
+            "Yuxuan Zhou",
+            "Yuyang Zhou",
+            "Yuzhe Guo",
+            "Yuzhen Huang",
+            "Yuzhuo Bai",
+            "Z. Y. Z.",
+            "Zanlin Ni",
+            "Zehao Wang",
+            "Zehua Zhao",
+            "Zehui Ren",
+            "Zejun Zhao",
+            "Zhangli Sha",
+            "Zhanying Wang",
+            "Zhaochen Zhang",
+            "Zhaoshuai Du",
+            "Zhe Fu",
+            "Zhean Xu",
+            "Zhenda Xie",
+            "Zheng Liu",
+            "Zhengyan Zhang",
+            "Zhenhua Dong",
+            "Zhewen Hao",
+            "Zhibang Wang",
+            "Zhibin Gou",
+            "Zhicheng Ma",
+            "Zhihao Li",
+            "Zhihong Shao",
+            "Zhihuan Huang",
+            "Zhijie Li",
+            "Zhirui Lu",
+            "Zhixian Huang",
+            "Zhixuan Chen",
+            "Zhixuan Chen",
+            "Zhixuan Pan",
+            "Zhiyu Wu",
+            "Zhizhou Ren",
+            "Zhu He",
+            "Zhuoshu Li",
+            "Zhuping Zhang",
+            "Zian Xu",
+            "Zihao Wang",
+            "Zihui Gu",
+            "Zijia Zhu",
+            "Zili Zhang",
+            "Zilin Li",
+            "Zilong Hou",
+            "Zilong Lyu",
+            "Ziqiao Wang",
+            "Ziwei Xie",
+            "Ziya Zhang",
+            "Ziyi Gao",
+            "Zizheng Pan",
+            "Zonglin Li",
+            "Zongqing Yao",
+            "Zui Chen",
+            "Zuofan Wu",
+            "Chenchen Ling",
+            "Chengyu Hou",
+            "Chong Chen",
+            "D. Li",
+            "Di Qi",
+            "Dongjie Ji",
+            "Fang Wei",
+            "Fanyi Xia",
+            "Fei Xie",
+            "Feiyi Tan",
+            "Hailong Guo",
+            "Haiyan Zhai",
+            "Hui Zhou",
+            "Huihui Tan",
+            "Huijie Li",
+            "Jia Luo",
+            "Jia Song",
+            "Jialu Cai",
+            "Jian Liang",
+            "Jiangting Zhou",
+            "Jiaqi Gao",
+            "Jiayi Shao",
+            "Jie Chen",
+            "Jieyu Yang",
+            "Jin Chen",
+            "Jingde Zhang",
+            "Jingzi Zhou",
+            "Jinqian Wang",
+            "Jinyang Liu",
+            "JinZhao Sun",
+            "Junhua Ling",
+            "Junmin Zheng",
+            "Kaicheng Yang",
+            "Ke Xu",
+            "Le Su",
+            "Leyi Xia",
+            "Liangfeng Ding",
+            "Lin Zhuo",
+            "Linwang Ma",
+            "Linyan Zhu",
+            "Liyu Cai",
+            "Luqi Yao",
+            "M. K. Zhang",
+            "Meng Li",
+            "Miao Lin",
+            "Miaojun Wang",
+            "Min Zhang",
+            "Mingming Li",
+            "Mingming Wang",
+            "Mingze Yin",
+            "Minmin Han",
+            "Nan Cao",
+            "Ning Wang",
+            "Ningxin Ma",
+            "Panpan Wang",
+            "Peihan Lin",
+            "Peng Sun",
+            "Peng Zhang",
+            "Qian Ying",
+            "Qiang Xiang",
+            "Qiao Wang",
+            "Qingmiao Mao",
+            "Qiwei Jiang",
+            "Rongli Jin",
+            "Ruyi Chen",
+            "Sha Tao",
+            "Shangmian Sun",
+            "Shaoqing Wu",
+            "Shichao Zou",
+            "Si Lei",
+            "Tianyang Zhang",
+            "Tianyu Sun",
+            "Tingting Yin",
+            "W. L. Xiao",
+            "Wei An",
+            "Wei Li",
+            "Wei Wang",
+            "Weiwei Lin",
+            "Wenqing Hou",
+            "X. Lin",
+            "Xiangfei Meng",
+            "Xianzhu Huang",
+            "Xiao Peng",
+            "Xiaoqian Li",
+            "Xiaoting Zhang",
+            "Xiaowen Sun",
+            "Xiaoxiang Wang",
+            "Xiaoyu Ye",
+            "Xinrou Zhang",
+            "Xinyu Zhang",
+            "Xue Cao",
+            "Xueyin Chen",
+            "Yanan Zhou",
+            "Yanhong Xu",
+            "Yao Xia",
+            "Yao Xu",
+            "Yi Shao",
+            "Yihong Zhang",
+            "Yiling Ma",
+            "Ying Tang",
+            "Yining Lou",
+            "Yiru Chen",
+            "Yishi Piao",
+            "Yixuan Chen",
+            "Yong Xiong",
+            "Yuchen Xuan",
+            "Yuehan Yang",
+            "Yuer Xu",
+            "Yukun Zha",
+            "Yunxian Ma",
+            "Yuping Lin",
+            "Yuting Yan",
+            "Yutong Xie",
+            "Yuwen Sheng",
+            "Yuxuan Zhu",
+            "Zekai Zhang",
+            "Zhe Ju",
+            "Zhenzhen Lin",
+            "Zheren Gao",
+            "Zheyang Sun",
+            "Zhigang Yan",
+            "Zhongyu Wu",
+            "Zi Wang",
+            "Zihua Qu",
+            "Ziling Yan",
+            "Ziyi Wan"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 146,
+            "daily_score": 146
+          },
+          "signal_score": 9.189,
+          "topic_refs": [
+            {
+              "topic_id": "04017bb976ac",
+              "slug": "deepseek-v4-1-flash-pushing-the-limits-of-kv-cache-compression",
+              "headline": "DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression",
+              "daily_route": "/hot/2026-09-18/topic/deepseek-v4-1-flash-pushing-the-limits-of-kv-cache-compression/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "daily_hot",
+          "spotlight_primary_label": "Daily Hot Papers",
+          "spotlight_comment": "The widespread adoption of long-horizon agents has made model workloads increasingly input-heavy."
+        },
+        {
+          "id": "hf_papers-47c17a5e18ef",
+          "title": "SoL-Pi: Recursively Scaling Auto-Research Loops for Efficient Agent Harness",
+          "summary_short": "As coding agents move from supervised code completion to unattended, around-the-clock exploration, their work expands from isolated predictions into long trajectories of reasoning, tool use, and feedback. Token efficiency therefore becomes important for scaling recursive self-improvement.",
+          "url": "https://huggingface.co/papers/2609.20519",
+          "canonical_url": "https://arxiv.org/abs/2609.20519",
+          "source_id": "hf_papers",
+          "source_name": "Hugging Face Trending Papers",
+          "source_role": "paper_trending",
+          "source_type": "paper",
+          "source_family": "papers",
+          "published_at": "2026-09-17T00:00:00.000Z",
+          "tags": [],
+          "authors": [
+            "Haozhe Liu",
+            "Tian Ye",
+            "Sensen Gao",
+            "Qihang Cao",
+            "Yitong Li",
+            "Mingchen Zhuge",
+            "Duomin Wang",
+            "Ruihua Zhang",
+            "Ping Luo",
+            "Jiawang Bian",
+            "Lei Zhu",
+            "Ligeng Zhu",
+            "Enze Xie",
+            "Song Han"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 97,
+            "daily_score": 97
+          },
+          "signal_score": 6.927,
+          "topic_refs": [
+            {
+              "topic_id": "ea1883a93109",
+              "slug": "sol-pi-recursively-scaling-auto-research-loops-for-efficient-agent-harness",
+              "headline": "SoL-Pi: Recursively Scaling Auto-Research Loops for Efficient Agent Harness",
+              "daily_route": "/hot/2026-09-18/topic/sol-pi-recursively-scaling-auto-research-loops-for-efficient-agent-harness/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "daily_hot",
+          "spotlight_primary_label": "Daily Hot Papers",
+          "spotlight_comment": "As coding agents move from supervised code completion to unattended, around-the-clock exploration, their work expands from isolated predictions into long trajectories of reasoning, tool use, and feedback."
+        },
+        {
+          "id": "hf_papers-4f608f1b60d8",
+          "title": "When EOS Tokens Disagree: Understanding Length Inflation in On-Policy Distillation",
+          "summary_short": "We study length inflation in on-policy distillation (OPD), where student responses can become excessively long and even exhaust the generation budget. We identify termination-token mismatch between base students and post-trained teachers as an important source of this behavior.",
+          "url": "https://huggingface.co/papers/2609.20511",
+          "canonical_url": "https://arxiv.org/abs/2609.20511",
+          "source_id": "hf_papers",
+          "source_name": "Hugging Face Trending Papers",
+          "source_role": "paper_trending",
+          "source_type": "paper",
+          "source_family": "papers",
+          "published_at": "2026-09-17T00:00:00.000Z",
+          "tags": [],
+          "authors": [
+            "Yuxiao Yang",
+            "Tianrun Yu",
+            "Shangzhe Li",
+            "Kaixiang Zhao",
+            "Xuchao Zhang",
+            "Chetan Bansal",
+            "Huaxiu Yao",
+            "Taylor W. Killian",
+            "Weitong Zhang"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 96,
+            "daily_score": 96
+          },
+          "signal_score": 6.917,
+          "topic_refs": [
+            {
+              "topic_id": "0b407a055428",
+              "slug": "when-eos-tokens-disagree-understanding-length-inflation-in-on-policy-distillation",
+              "headline": "When EOS Tokens Disagree: Understanding Length Inflation in On-Policy Distillation",
+              "daily_route": "/hot/2026-09-18/topic/when-eos-tokens-disagree-understanding-length-inflation-in-on-policy-distillation/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "daily_hot",
+          "spotlight_primary_label": "Daily Hot Papers",
+          "spotlight_comment": "We study length inflation in on-policy distillation (OPD), where student responses can become excessively long and even exhaust the generation budget."
+        },
+        {
+          "id": "hf_papers-7fd05c4753ad",
+          "title": "JEPA-Anything: Learning Predictive Models across Different Worlds",
+          "summary_short": "World modeling enables intelligence to anticipate consequences, guide interventions, and learn from interaction. Yet predictive models remain domain-specific: can a common learning principle support world modeling across radically different systems?",
+          "url": "https://huggingface.co/papers/2609.20800",
+          "canonical_url": "https://arxiv.org/abs/2609.20800",
+          "source_id": "hf_papers",
+          "source_name": "Hugging Face Trending Papers",
+          "source_role": "paper_trending",
+          "source_type": "paper",
+          "source_family": "papers",
+          "published_at": "2026-09-17T00:00:00.000Z",
+          "tags": [],
+          "authors": [
+            "Taoyong Cui",
+            "Zhongyao Wang",
+            "Xinyue Xu",
+            "Weiyang Liu",
+            "Zhaochen Yu",
+            "Yuying Zhang",
+            "Qiang Gao",
+            "Mengyue Yang",
+            "Wanli Ouyang",
+            "Pheng Ann Heng",
+            "Yingcheng Wu",
+            "Zhenfei Yin",
+            "Ling Yang"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 58,
+            "daily_score": 58
+          },
+          "signal_score": 6.537,
+          "topic_refs": [
+            {
+              "topic_id": "ea04159ab206",
+              "slug": "jepa-anything-learning-predictive-models-across-different-worlds",
+              "headline": "JEPA-Anything: Learning Predictive Models across Different Worlds",
+              "daily_route": "/hot/2026-09-18/topic/jepa-anything-learning-predictive-models-across-different-worlds/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "daily_hot",
+          "spotlight_primary_label": "Daily Hot Papers",
+          "spotlight_comment": "World modeling enables intelligence to anticipate consequences, guide interventions, and learn from interaction. Yet predictive models remain domain-specific: can a common learning principle support world modeling across radically different systems?"
+        },
+        {
+          "id": "hf_papers-3f8ce213f8de",
+          "title": "An Empirical Study of Harness Design for Coding Agents",
+          "summary_short": "Coding harnesses shape how autonomous coding agents translate model capabilities into long-horizon software-engineering performance, yet existing work typically evaluates harnesses as monolithic systems, leaving the effectiveness of individual components unclear.",
+          "url": "https://huggingface.co/papers/2609.20804",
+          "canonical_url": "https://arxiv.org/abs/2609.20804",
+          "source_id": "hf_papers",
+          "source_name": "Hugging Face Trending Papers",
+          "source_role": "paper_trending",
+          "source_type": "paper",
+          "source_family": "papers",
+          "published_at": "2026-09-17T00:00:00.000Z",
+          "tags": [],
+          "authors": [
+            "Run-Ze Fan",
+            "Zihao Zhang",
+            "Simin Ma",
+            "Yebowen Hu",
+            "Shouju Wang",
+            "Kaiqiang Song",
+            "Fei Liu",
+            "Hamed Zamani",
+            "Xiaoyang Wang"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 74,
+            "daily_score": 74
+          },
+          "signal_score": 3.39,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "daily_hot",
+          "spotlight_primary_label": "Daily Hot Papers",
+          "spotlight_comment": "Coding harnesses shape how autonomous coding agents translate model capabilities into long-horizon software-engineering performance, yet existing work typically evaluates harnesses as monolithic systems, leaving the effectiveness of individual"
+        },
+        {
+          "id": "hf_papers-e6ee86688677",
+          "title": "Self-Evolving Search Index",
+          "summary_short": "Information retrieval is increasingly important as LLM agents tackle complex tasks involving diverse information needs.",
+          "url": "https://huggingface.co/papers/2609.19656",
+          "canonical_url": "https://arxiv.org/abs/2609.19656",
+          "source_id": "hf_papers",
+          "source_name": "Hugging Face Trending Papers",
+          "source_role": "paper_trending",
+          "source_type": "paper",
+          "source_family": "papers",
+          "published_at": "2026-09-17T00:00:00.000Z",
+          "tags": [],
+          "authors": [
+            "Sangam Lee",
+            "Wonjae Lee",
+            "Sunghwan Kim",
+            "Deogyong Kim",
+            "Jaehoon Kim",
+            "Daye Nam",
+            "SeongKu Kang",
+            "Dongha Lee"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 47,
+            "daily_score": 47
+          },
+          "signal_score": 3.12,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "daily_hot",
+          "spotlight_primary_label": "Daily Hot Papers",
+          "spotlight_comment": "Information retrieval is increasingly important as LLM agents tackle complex tasks involving diverse information needs."
+        },
+        {
+          "id": "hf_papers-91d86beee9d1",
+          "title": "RetireOPD: Self-Retiring On-Policy Distillation for Agentic Reinforcement Learning",
+          "summary_short": "Multi-turn agents trained with reinforcement learning (RL) receive a single scalar reward per trajectory, which motivates self on-policy distillation (OPD) to supply dense token-level supervision from a self-teacher with privileged task skills, letting a skill-free student internalize them.",
+          "url": "https://huggingface.co/papers/2609.20784",
+          "canonical_url": "https://arxiv.org/abs/2609.20784",
+          "source_id": "hf_papers",
+          "source_name": "Hugging Face Trending Papers",
+          "source_role": "paper_trending",
+          "source_type": "paper",
+          "source_family": "papers",
+          "published_at": "2026-09-17T00:00:00.000Z",
+          "tags": [],
+          "authors": [
+            "Yan Yu",
+            "Zhengxi Lu",
+            "Yizhou Liu",
+            "Yichen Pan",
+            "Aozhe Wang",
+            "Qipeng Chen",
+            "Hua Yang",
+            "Wenqi Zhang",
+            "Weiming Lu",
+            "Qianglong Chen",
+            "Yongliang Shen"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 41,
+            "daily_score": 41
+          },
+          "signal_score": 3.06,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "daily_hot",
+          "spotlight_primary_label": "Daily Hot Papers",
+          "spotlight_comment": "Multi-turn agents trained with reinforcement learning (RL) receive a single scalar reward per trajectory, which motivates self on-policy distillation (OPD) to supply dense token-level supervision from a self-teacher with privileged task skills"
+        },
+        {
+          "id": "hf_papers-910308de2055",
+          "title": "WeVisDoc: From Coverage to Capability for Robust End-to-End Document Parsing",
+          "summary_short": "Document parsing converts document images into structured content and requires reliable performance across diverse layouts and acquisition conditions.",
+          "url": "https://huggingface.co/papers/2609.20423",
+          "canonical_url": "https://arxiv.org/abs/2609.20423",
+          "source_id": "hf_papers",
+          "source_name": "Hugging Face Trending Papers",
+          "source_role": "paper_trending",
+          "source_type": "paper",
+          "source_family": "papers",
+          "published_at": "2026-09-17T00:00:00.000Z",
+          "tags": [],
+          "authors": [
+            "Hao Yu",
+            "Kang Liu",
+            "Linnan Zhao",
+            "Jiabo Zhan",
+            "Chong Sun",
+            "Chen Li",
+            "Jing Lyu"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 34,
+            "daily_score": 34
+          },
+          "signal_score": 2.99,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "daily_hot",
+          "spotlight_primary_label": "Daily Hot Papers",
+          "spotlight_comment": "Document parsing converts document images into structured content and requires reliable performance across diverse layouts and acquisition conditions."
+        }
+      ]
+    }
+  ],
+  "topic_summary": [
+    {
+      "topic_id": "04017bb976ac",
+      "slug": "deepseek-v4-1-flash-pushing-the-limits-of-kv-cache-compression",
+      "headline": "DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression",
+      "category": "Industry Update",
+      "final_score": 5.01,
+      "heat": 5.0,
+      "occurrence_score": 5.6,
+      "display_priority": 5.61,
+      "confidence": 6.223,
+      "llm_status": "candidate",
+      "source_count": 2,
+      "item_count": 2,
+      "route": "/hot/2026-09-18/topic/deepseek-v4-1-flash-pushing-the-limits-of-kv-cache-compression/"
+    },
+    {
+      "topic_id": "069b63888d5e",
+      "slug": "how-to-write-with-an-llm",
+      "headline": "How To Write With An LLM",
+      "category": "Industry Update",
+      "final_score": 3.465,
+      "heat": 5.0,
+      "occurrence_score": 5.6,
+      "display_priority": 4.915,
+      "confidence": 5.759,
+      "llm_status": "candidate",
+      "source_count": 2,
+      "item_count": 2,
+      "route": "/hot/2026-09-18/topic/how-to-write-with-an-llm/"
+    }
+  ],
+  "featured_topics": [
+    {
+      "topic_id": "3d56abf7ee84",
+      "slug": "how-a-global-fintech-scaled-coding-agent-traffic-with-dedicated-model-inference",
+      "headline": "How a global fintech scaled coding agent traffic with Dedicated Model Inference",
+      "category": "Product Release",
+      "summary_short": "Inside a global bank's shift to self-serve dedicated inference: how Together's DMI gave engineering teams direct control over scaling, models, and testing",
+      "why_it_matters": "This product release surfaced across 1 independent source(s).",
+      "key_takeaways": [
+        "Inside a global bank's shift to self-serve dedicated inference: how Together's DMI gave engineering teams direct control over scaling, models, and testing."
+      ],
+      "scores": {
+        "final": 10.0,
+        "quality": 9.0,
+        "heat": 3.0,
+        "importance": 10.0,
+        "occurrence": 2.95,
+        "display_priority": 7.844,
+        "confidence": 6.36
+      },
+      "source_tier": "official",
+      "source_names": [
+        "Together AI Blog"
+      ],
+      "source_roles": [
+        "official_news"
+      ],
+      "source_types": [
+        "official_blog"
+      ],
+      "llm_status": "featured",
+      "evidence": [
+        {
+          "title": "How a global fintech scaled coding agent traffic with Dedicated Model Inference",
+          "url": "https://www.together.ai/blog/global-fintech-scales-coding-agent-traffic-with-dedicated-model-inference",
+          "source_name": "Together AI Blog",
+          "published_at": "Fri, 18 Sep 2026 00:00:00 GMT"
+        }
+      ],
+      "route": "/hot/2026-09-18/topic/how-a-global-fintech-scaled-coding-agent-traffic-with-dedicated-model-inference/"
+    },
+    {
+      "topic_id": "0d8118f152fe",
+      "slug": "partnering-with-accenture-on-embedded-evaluation",
+      "headline": "Partnering with Accenture on embedded evaluation",
+      "category": "Industry Update",
+      "summary_short": "Anthropic announced a partnership with Accenture on embedded evaluation. The supplied announcement title does not specify the implementation or scope",
+      "why_it_matters": "This industry move surfaced across 1 independent source(s).",
+      "key_takeaways": [],
+      "scores": {
+        "final": 9.594,
+        "quality": 9.0,
+        "heat": 3.0,
+        "importance": 6.0,
+        "occurrence": 2.95,
+        "display_priority": 7.661,
+        "confidence": 6.238
+      },
+      "source_tier": "official",
+      "source_names": [
+        "Anthropic News"
+      ],
+      "source_roles": [
+        "official_news"
+      ],
+      "source_types": [
+        "official_blog"
+      ],
+      "llm_status": "featured",
+      "evidence": [
+        {
+          "title": "Partnering with Accenture on embedded evaluation",
+          "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+          "source_name": "Anthropic News",
+          "published_at": "Sep 18, 2026"
+        }
+      ],
+      "route": "/hot/2026-09-18/topic/partnering-with-accenture-on-embedded-evaluation/"
+    },
+    {
+      "topic_id": "f2004d2657f0",
+      "slug": "continuum-ai-corp-orcabonsai-27b-uncensored",
+      "headline": "Continuum-AI-Corp/OrcaBonsai-27B-Uncensored",
+      "category": "Tooling",
+      "summary_short": "",
+      "why_it_matters": "This tooling surfaced across 1 independent source(s).",
+      "key_takeaways": [
+        "Runtime behavioral ablation for compressed LLMs. First target: Ternary Bonsai 2 27B — no weight modification or re-quantization. by OrcaRouter team"
+      ],
+      "scores": {
+        "final": 9.526,
+        "quality": 9.0,
+        "heat": 3.0,
+        "importance": 5.0,
+        "occurrence": 2.95,
+        "display_priority": 7.241,
+        "confidence": 5.318
+      },
+      "source_tier": "community",
+      "source_names": [
+        "GitHub Trending Repos"
+      ],
+      "source_roles": [
+        "github_trend"
+      ],
+      "source_types": [
+        "repository"
+      ],
+      "llm_status": "featured",
+      "evidence": [
+        {
+          "title": "Continuum-AI-Corp/OrcaBonsai-27B-Uncensored",
+          "url": "https://github.com/Continuum-AI-Corp/OrcaBonsai-27B-Uncensored",
+          "source_name": "GitHub Trending Repos",
+          "published_at": "2026-09-18T06:45:54Z"
+        }
+      ],
+      "route": "/hot/2026-09-18/topic/continuum-ai-corp-orcabonsai-27b-uncensored/"
+    }
+  ],
+  "category_sections": [
+    {
+      "category": "Product Release",
+      "total_candidates": 3,
+      "topics": [
+        {
+          "topic_id": "f2cac9238e8d",
+          "slug": "reduce-time-to-hire-for-quality-candidates-with-ai-powered-amazon-connect-talent",
+          "headline": "Reduce time-to-hire for quality candidates with AI-powered Amazon Connect Talent",
+          "category": "Product Release",
+          "summary_short": "AWS presents Amazon Connect Talent as an AI hiring solution for talent acquisition leaders managing hiring at scale. Its capabilities include AI-led interviews, data-driven assessments, and consistent candidate evaluation",
+          "why_it_matters": "This product release surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.063,
+            "quality": 5.0,
+            "heat": 3.0,
+            "importance": 6.0,
+            "occurrence": 2.95,
+            "display_priority": 4.622,
+            "confidence": 4.879
+          },
+          "source_tier": "official",
+          "source_names": [
+            "AWS AI Blog"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "official_blog"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Reduce time-to-hire for quality candidates with AI-powered Amazon Connect Talent",
+              "url": "https://aws.amazon.com/blogs/machine-learning/reduce-time-to-hire-for-quality-candidates-with-ai-powered-amazon-connect-talent",
+              "source_name": "AWS AI Blog",
+              "published_at": "Thu, 17 Sep 2026 17:55:20 +0000"
+            }
+          ],
+          "route": "/hot/2026-09-18/topic/reduce-time-to-hire-for-quality-candidates-with-ai-powered-amazon-connect-talent/"
+        },
+        {
+          "topic_id": "d33a0ae42861",
+          "slug": "google-announces-new-experimental-cc-ai-agent-for-families",
+          "headline": "Google announces new experimental \"CC\" AI agent for families",
+          "category": "Product Release",
+          "summary_short": "Google announced an experimental AI agent called CC for families. Multiple family members can share data to help the agent make plans and complete tasks",
+          "why_it_matters": "This product release surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.043,
+            "quality": 5.0,
+            "heat": 3.0,
+            "importance": 6.0,
+            "occurrence": 2.95,
+            "display_priority": 4.223,
+            "confidence": 3.973
+          },
+          "source_tier": "trusted_analysis",
+          "source_names": [
+            "Ars Technica AI"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Google announces new experimental \"CC\" AI agent for families",
+              "url": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families",
+              "source_name": "Ars Technica AI",
+              "published_at": "Thu, 17 Sep 2026 20:24:34 +0000"
+            }
+          ],
+          "route": "/hot/2026-09-18/topic/google-announces-new-experimental-cc-ai-agent-for-families/"
+        },
+        {
+          "topic_id": "f03dcad5e25e",
+          "slug": "canto-a-speech-model-built-for-the-real-world",
+          "headline": "Canto: A speech model built for the real world",
+          "category": "Product Release",
+          "summary_short": "Canto is introduced as a speech model built for real-world use. The supplied description provides no specifications, benchmarks, or availability details",
+          "why_it_matters": "This product release surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.02,
+            "quality": 5.0,
+            "heat": 3.0,
+            "importance": 5.0,
+            "occurrence": 2.95,
+            "display_priority": 4.213,
+            "confidence": 3.966
+          },
+          "source_tier": "community",
+          "source_names": [
+            "Hacker News"
+          ],
+          "source_roles": [
+            "hn_discussion"
+          ],
+          "source_types": [
+            "discussion"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Canto: A speech model built for the real world",
+              "url": "https://wisprflow.ai/canto",
+              "source_name": "Hacker News",
+              "published_at": "2026-09-17T18:32:50Z"
+            }
+          ],
+          "route": "/hot/2026-09-18/topic/canto-a-speech-model-built-for-the-real-world/"
+        }
+      ]
+    },
+    {
+      "category": "Industry Update",
+      "total_candidates": 13,
+      "topics": [
+        {
+          "topic_id": "b3527c0def47",
+          "slug": "how-mrh-trowe-enabled-secure-self-service-ai-agents-in-financial-services",
+          "headline": "How MRH Trowe enabled secure self-service AI agents in financial services",
+          "category": "Industry Update",
+          "summary_short": "German insurance broker MRH Trowe gave about 400 employees secure, self-service access to AI agents during its first month of production. An AWS case study describes the deployment in financial services",
+          "why_it_matters": "This industry move surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.019,
+            "quality": 5.0,
+            "heat": 3.0,
+            "importance": 5.0,
+            "occurrence": 2.95,
+            "display_priority": 4.603,
+            "confidence": 4.866
+          },
+          "source_tier": "official",
+          "source_names": [
+            "AWS AI Blog"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "official_blog"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "How MRH Trowe enabled secure self-service AI agents in financial services",
+              "url": "https://aws.amazon.com/blogs/machine-learning/how-mrh-trowe-enabled-secure-self-service-ai-agents-in-financial-services",
+              "source_name": "AWS AI Blog",
+              "published_at": "Thu, 17 Sep 2026 15:36:42 +0000"
+            }
+          ],
+          "route": "/hot/2026-09-18/topic/how-mrh-trowe-enabled-secure-self-service-ai-agents-in-financial-services/"
+        },
+        {
+          "topic_id": "d234de7acc7b",
+          "slug": "a-shared-agentic-platform-for-wood-mackenzie-on-amazon-bedrock-agentcore",
+          "headline": "A shared agentic platform for Wood Mackenzie, on Amazon Bedrock AgentCore",
+          "category": "Industry Update",
+          "summary_short": "Wood Mackenzie built APEX, a shared agentic AI platform on Amazon Bedrock AgentCore. It provides common runtime, identity, observability, and guardrail infrastructure for teams deploying production agents",
+          "why_it_matters": "This industry move surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.019,
+            "quality": 5.0,
+            "heat": 3.0,
+            "importance": 5.0,
+            "occurrence": 2.95,
+            "display_priority": 4.603,
+            "confidence": 4.866
+          },
+          "source_tier": "official",
+          "source_names": [
+            "AWS AI Blog"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "official_blog"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "A shared agentic platform for Wood Mackenzie, on Amazon Bedrock AgentCore",
+              "url": "https://aws.amazon.com/blogs/machine-learning/a-shared-agentic-platform-for-wood-mackenzie-on-amazon-bedrock-agentcore",
+              "source_name": "AWS AI Blog",
+              "published_at": "Thu, 17 Sep 2026 15:41:03 +0000"
+            }
+          ],
+          "route": "/hot/2026-09-18/topic/a-shared-agentic-platform-for-wood-mackenzie-on-amazon-bedrock-agentcore/"
+        },
+        {
+          "topic_id": "d8fb2ecac8fa",
+          "slug": "how-cooley-is-accelerating-ipo-work-with-chatgpt",
+          "headline": "How Cooley is accelerating IPO work with ChatGPT",
+          "category": "Industry Update",
+          "summary_short": "Cooley built GO Public with ChatGPT Work to support legal work on initial public offerings. OpenAI's case study describes its use in surfacing issues earlier and directing lawyers' attention to matters requiring judgment",
+          "why_it_matters": "This industry move surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.019,
+            "quality": 5.0,
+            "heat": 3.0,
+            "importance": 5.0,
+            "occurrence": 2.95,
+            "display_priority": 4.603,
+            "confidence": 4.866
+          },
+          "source_tier": "official",
+          "source_names": [
+            "OpenAI News"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "official_blog"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "How Cooley is accelerating IPO work with ChatGPT",
+              "url": "https://openai.com/index/cooley-gopublic",
+              "source_name": "OpenAI News",
+              "published_at": "Thu, 17 Sep 2026 12:00:00 GMT"
+            }
+          ],
+          "route": "/hot/2026-09-18/topic/how-cooley-is-accelerating-ipo-work-with-chatgpt/"
+        },
+        {
+          "topic_id": "04017bb976ac",
+          "slug": "deepseek-v4-1-flash-pushing-the-limits-of-kv-cache-compression",
+          "headline": "DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression",
+          "category": "Industry Update",
+          "summary_short": "",
+          "why_it_matters": "This other surfaced across 2 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.01,
+            "quality": 6.0,
+            "heat": 5.0,
+            "importance": 7.0,
+            "occurrence": 5.6,
+            "display_priority": 5.61,
+            "confidence": 6.223
+          },
+          "source_tier": "trusted_research",
+          "source_names": [
+            "Hacker News",
+            "Hugging Face Trending Papers"
+          ],
+          "source_roles": [
+            "hn_discussion",
+            "paper_trending"
+          ],
+          "source_types": [
+            "discussion",
+            "paper"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression",
+              "url": "https://huggingface.co/papers/2609.19969",
+              "source_name": "Hugging Face Trending Papers",
+              "published_at": "2026-09-17T00:00:00.000Z"
+            },
+            {
+              "title": "DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression",
+              "url": "https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html",
+              "source_name": "Hacker News",
+              "published_at": "2026-09-17T01:39:47Z"
+            }
+          ],
+          "route": "/hot/2026-09-18/topic/deepseek-v4-1-flash-pushing-the-limits-of-kv-cache-compression/"
+        },
+        {
+          "topic_id": "638c7483d9ac",
+          "slug": "making-global-data-easier-to-explore",
+          "headline": "Making global data easier to explore",
+          "category": "Industry Update",
+          "summary_short": "Google's AI Blog highlights a webpage for UN System Data Commons data. The post focuses on making global data easier to explore",
+          "why_it_matters": "This other surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 4.72,
+            "quality": 4.0,
+            "heat": 3.0,
+            "importance": 4.0,
+            "occurrence": 2.95,
+            "display_priority": 4.468,
+            "confidence": 4.776
+          },
+          "source_tier": "official",
+          "source_names": [
+            "Google AI Blog"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "official_blog"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Making global data easier to explore",
+              "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform",
+              "source_name": "Google AI Blog",
+              "published_at": "Thu, 17 Sep 2026 20:00:00 +0000"
+            }
+          ],
+          "route": "/hot/2026-09-18/topic/making-global-data-easier-to-explore/"
+        }
+      ]
+    },
+    {
+      "category": "Tooling",
+      "total_candidates": 6,
+      "topics": [
+        {
+          "topic_id": "82e9732c4ce2",
+          "slug": "show-hn-cactus-needle-3-8-29mb-automation-models-can-match-deepseek-v4-flash",
+          "headline": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
+          "category": "Tooling",
+          "summary_short": "A Show HN post presents Cactus Needle 3 as automation models sized between 8 and 29 MB. The post claims they can match DeepSeek V4 Flash, but the supplied text provides no evaluation details",
+          "why_it_matters": "This tooling surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 8.765,
+            "quality": 8.0,
+            "heat": 3.0,
+            "importance": 5.0,
+            "occurrence": 2.95,
+            "display_priority": 5.898,
+            "confidence": 5.089
+          },
+          "source_tier": "community",
+          "source_names": [
+            "Hacker News"
+          ],
+          "source_roles": [
+            "hn_discussion"
+          ],
+          "source_types": [
+            "discussion"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
+              "url": "https://cactuscompute.com/needle",
+              "source_name": "Hacker News",
+              "published_at": "2026-09-18T00:11:44Z"
+            }
+          ],
+          "route": "/hot/2026-09-18/topic/show-hn-cactus-needle-3-8-29mb-automation-models-can-match-deepseek-v4-flash/"
+        },
+        {
+          "topic_id": "ff9deb1f8f80",
+          "slug": "implementing-defense-in-depth-authorization-for-mcp-tools-on-amazon-quick",
+          "headline": "Implementing defense-in-depth authorization for MCP tools on Amazon Quick",
+          "category": "Tooling",
+          "summary_short": "Learn how to enforce defense-in-depth authorization for Model Context Protocol (MCP) tools on Amazon Quick.",
+          "why_it_matters": "This tooling surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.045,
+            "quality": 5.0,
+            "heat": 3.0,
+            "importance": 10.0,
+            "occurrence": 2.95,
+            "display_priority": 4.614,
+            "confidence": 4.873
+          },
+          "source_tier": "official",
+          "source_names": [
+            "AWS AI Blog"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "official_blog"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Implementing defense-in-depth authorization for MCP tools on Amazon Quick",
+              "url": "https://aws.amazon.com/blogs/machine-learning/implementing-defense-in-depth-authorization-for-mcp-tools-on-amazon-quick",
+              "source_name": "AWS AI Blog",
+              "published_at": "Thu, 17 Sep 2026 15:30:17 +0000"
+            }
+          ],
+          "route": "/hot/2026-09-18/topic/implementing-defense-in-depth-authorization-for-mcp-tools-on-amazon-quick/"
+        },
+        {
+          "topic_id": "24705b52126f",
+          "slug": "self-generated-prompt-injections-in-compaction-summaries",
+          "headline": "Self-generated prompt injections in compaction summaries",
+          "category": "Tooling",
+          "summary_short": "<p><strong><a href=\" prompt injections in compaction summaries</a></strong></p> In <a href=\" framework for reporting model misalignment</a> OpenAI provide \"six reports on unexpected or concerning model behavior we’ve observed in the last six months\".",
+          "why_it_matters": "This tooling surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.011,
+            "quality": 5.0,
+            "heat": 3.0,
+            "importance": 5.0,
+            "occurrence": 2.95,
+            "display_priority": 4.209,
+            "confidence": 3.963
+          },
+          "source_tier": "trusted_analysis",
+          "source_names": [
+            "Simon Willison's Blog"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Self-generated prompt injections in compaction summaries",
+              "url": "https://simonwillison.net/2026/Sep/17/compaction-summaries",
+              "source_name": "Simon Willison's Blog",
+              "published_at": "2026-09-17T20:57:55+00:00"
+            }
+          ],
+          "route": "/hot/2026-09-18/topic/self-generated-prompt-injections-in-compaction-summaries/"
+        },
+        {
+          "topic_id": "ee6a8ac6b2d9",
+          "slug": "show-hn-aclif-agent-cli-framework-one-grammar-canonical-names-across-saas",
+          "headline": "Show HN: Aclif – Agent CLI framework: one grammar, canonical names across SaaS",
+          "category": "Tooling",
+          "summary_short": "Aclif is presented on Show HN as an agent CLI framework. It provides one grammar and canonical names across SaaS services",
+          "why_it_matters": "This tooling surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.0,
+            "quality": 4.0,
+            "heat": 3.0,
+            "importance": 5.0,
+            "occurrence": 2.95,
+            "display_priority": 4.204,
+            "confidence": 3.96
+          },
+          "source_tier": "community",
+          "source_names": [
+            "Hacker News"
+          ],
+          "source_roles": [
+            "hn_discussion"
+          ],
+          "source_types": [
+            "discussion"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Show HN: Aclif – Agent CLI framework: one grammar, canonical names across SaaS",
+              "url": "https://www.aclif.ai",
+              "source_name": "Hacker News",
+              "published_at": "2026-09-17T16:48:17Z"
+            }
+          ],
+          "route": "/hot/2026-09-18/topic/show-hn-aclif-agent-cli-framework-one-grammar-canonical-names-across-saas/"
+        },
+        {
+          "topic_id": "3dea225ff459",
+          "slug": "show-hn-ax-check-com-can-agents-use-your-product",
+          "headline": "Show HN: Ax-check.com – Can agents use your product?",
+          "category": "Tooling",
+          "summary_short": "Ax-check.com is presented on Show HN as a tool for checking whether agents can use a product. The supplied description does not specify its testing methods or supported interfaces",
+          "why_it_matters": "This tooling surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 4.545,
+            "quality": 4.0,
+            "heat": 3.0,
+            "importance": 4.0,
+            "occurrence": 2.95,
+            "display_priority": 3.999,
+            "confidence": 3.823
+          },
+          "source_tier": "community",
+          "source_names": [
+            "Hacker News"
+          ],
+          "source_roles": [
+            "hn_discussion"
+          ],
+          "source_types": [
+            "discussion"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Show HN: Ax-check.com – Can agents use your product?",
+              "url": "https://www.ax-check.com",
+              "source_name": "Hacker News",
+              "published_at": "2026-09-17T18:08:02Z"
+            }
+          ],
+          "route": "/hot/2026-09-18/topic/show-hn-ax-check-com-can-agents-use-your-product/"
+        }
+      ]
+    },
+    {
+      "category": "Research",
+      "total_candidates": 12,
+      "topics": [
+        {
+          "topic_id": "ea04159ab206",
+          "slug": "jepa-anything-learning-predictive-models-across-different-worlds",
+          "headline": "JEPA-Anything: Learning Predictive Models across Different Worlds",
+          "category": "Research",
+          "summary_short": "World modeling enables intelligence to anticipate consequences, guide interventions, and learn from interaction. Yet predictive models remain domain-specific: can a common learning principle support world modeling across radically different systems?",
+          "why_it_matters": "This research paper surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.038,
+            "quality": 6.0,
+            "heat": 3.0,
+            "importance": 8.0,
+            "occurrence": 2.95,
+            "display_priority": 4.221,
+            "confidence": 3.971
+          },
+          "source_tier": "trusted_research",
+          "source_names": [
+            "Hugging Face Trending Papers"
+          ],
+          "source_roles": [
+            "paper_trending"
+          ],
+          "source_types": [
+            "paper"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "JEPA-Anything: Learning Predictive Models across Different Worlds",
+              "url": "https://huggingface.co/papers/2609.20800",
+              "source_name": "Hugging Face Trending Papers",
+              "published_at": "2026-09-17T00:00:00.000Z"
+            }
+          ],
+          "route": "/hot/2026-09-18/topic/jepa-anything-learning-predictive-models-across-different-worlds/"
+        },
+        {
+          "topic_id": "ea1883a93109",
+          "slug": "sol-pi-recursively-scaling-auto-research-loops-for-efficient-agent-harness",
+          "headline": "SoL-Pi: Recursively Scaling Auto-Research Loops for Efficient Agent Harness",
+          "category": "Research",
+          "summary_short": "As coding agents move from supervised code completion to unattended, around-the-clock exploration, their work expands from isolated predictions into long trajectories of reasoning, tool use, and feedback. Token efficiency therefore becomes important for scaling recursive self-improvement.",
+          "why_it_matters": "This research paper surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.038,
+            "quality": 6.0,
+            "heat": 3.0,
+            "importance": 8.0,
+            "occurrence": 2.95,
+            "display_priority": 4.221,
+            "confidence": 3.971
+          },
+          "source_tier": "trusted_research",
+          "source_names": [
+            "Hugging Face Trending Papers"
+          ],
+          "source_roles": [
+            "paper_trending"
+          ],
+          "source_types": [
+            "paper"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "SoL-Pi: Recursively Scaling Auto-Research Loops for Efficient Agent Harness",
+              "url": "https://huggingface.co/papers/2609.20519",
+              "source_name": "Hugging Face Trending Papers",
+              "published_at": "2026-09-17T00:00:00.000Z"
+            }
+          ],
+          "route": "/hot/2026-09-18/topic/sol-pi-recursively-scaling-auto-research-loops-for-efficient-agent-harness/"
+        },
+        {
+          "topic_id": "0b407a055428",
+          "slug": "when-eos-tokens-disagree-understanding-length-inflation-in-on-policy-distillation",
+          "headline": "When EOS Tokens Disagree: Understanding Length Inflation in On-Policy Distillation",
+          "category": "Research",
+          "summary_short": "We study length inflation in on-policy distillation (OPD), where student responses can become excessively long and even exhaust the generation budget. We identify termination-token mismatch between base students and post-trained teachers as an important source of this behavior.",
+          "why_it_matters": "This research paper surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.038,
+            "quality": 6.0,
+            "heat": 3.0,
+            "importance": 8.0,
+            "occurrence": 2.95,
+            "display_priority": 4.221,
+            "confidence": 3.971
+          },
+          "source_tier": "trusted_research",
+          "source_names": [
+            "Hugging Face Trending Papers"
+          ],
+          "source_roles": [
+            "paper_trending"
+          ],
+          "source_types": [
+            "paper"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "When EOS Tokens Disagree: Understanding Length Inflation in On-Policy Distillation",
+              "url": "https://huggingface.co/papers/2609.20511",
+              "source_name": "Hugging Face Trending Papers",
+              "published_at": "2026-09-17T00:00:00.000Z"
+            }
+          ],
+          "route": "/hot/2026-09-18/topic/when-eos-tokens-disagree-understanding-length-inflation-in-on-policy-distillation/"
+        }
+      ]
+    }
+  ],
+  "long_tail_sections": [
+    {
+      "category": "Industry Update",
+      "total_candidates": 8,
+      "topics": [
+        {
+          "topic_id": "8224e6d1e384",
+          "slug": "llms-respond-differently-to-harmful-prompts-when-ai-watermarking-is-used",
+          "headline": "LLMs respond differently to harmful prompts when AI watermarking is used",
+          "category": "Industry Update",
+          "summary_short": "Ars Technica reports that SynthID watermarking can alter how language models respond to harmful prompts. Models may follow instructions they would otherwise refuse",
+          "why_it_matters": "This other surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 4.441,
+            "quality": 4.0,
+            "heat": 3.0,
+            "importance": 6.0,
+            "occurrence": 2.95,
+            "display_priority": 3.952,
+            "confidence": 3.792
+          },
+          "source_tier": "trusted_analysis",
+          "source_names": [
+            "Ars Technica AI"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
+              "url": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts",
+              "source_name": "Ars Technica AI",
+              "published_at": "Thu, 17 Sep 2026 18:33:13 +0000"
+            }
+          ],
+          "route": "/hot/2026-09-18/topic/llms-respond-differently-to-harmful-prompts-when-ai-watermarking-is-used/"
+        },
+        {
+          "topic_id": "069b63888d5e",
+          "slug": "how-to-write-with-an-llm",
+          "headline": "How To Write With An LLM",
+          "category": "Industry Update",
+          "summary_short": "<p><strong><a href=\" To Write With An LLM</a></strong></p> Thomas Ptacek on using LLMs as copyeditors, not as writing assistants:</p> <blockquote> <p><strong>Rule Number One: You may not use a single word an LLM suggests to you.</strong></p> <p>[...] I think that as a form of intellectual personal",
+          "why_it_matters": "This tutorial surfaced across 2 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 3.465,
+            "quality": 3.0,
+            "heat": 5.0,
+            "importance": 4.0,
+            "occurrence": 5.6,
+            "display_priority": 4.915,
+            "confidence": 5.759
+          },
+          "source_tier": "trusted_analysis",
+          "source_names": [
+            "Hacker News",
+            "Simon Willison's Blog"
+          ],
+          "source_roles": [
+            "editorial_depth",
+            "hn_discussion"
+          ],
+          "source_types": [
+            "blog_analysis",
+            "discussion"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "How to Write with an LLM",
+              "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm",
+              "source_name": "Hacker News",
+              "published_at": "2026-09-17T21:48:38Z"
+            },
+            {
+              "title": "How To Write With An LLM",
+              "url": "https://simonwillison.net/2026/Sep/17/how-to-write-with-an-llm",
+              "source_name": "Simon Willison's Blog",
+              "published_at": "2026-09-17T23:37:27+00:00"
+            }
+          ],
+          "route": "/hot/2026-09-18/topic/how-to-write-with-an-llm/"
+        },
+        {
+          "topic_id": "14db38045117",
+          "slug": "enhancing-industrial-safety-ai-with-synthetic-data-on-amazon-sagemaker-ai",
+          "headline": "Enhancing industrial safety AI with synthetic data on Amazon SageMaker AI",
+          "category": "Industry Update",
+          "summary_short": "AWS describes how to build a synthetic data augmentation pipeline for industrial safety AI using Amazon SageMaker AI and Amazon Rekognition. The pipeline generates photorealistic, automatically labeled training images",
+          "why_it_matters": "This tutorial surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 3.325,
+            "quality": 3.0,
+            "heat": 3.0,
+            "importance": 4.0,
+            "occurrence": 2.95,
+            "display_priority": 3.84,
+            "confidence": 4.357
+          },
+          "source_tier": "official",
+          "source_names": [
+            "AWS AI Blog"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "official_blog"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Enhancing industrial safety AI with synthetic data on Amazon SageMaker AI",
+              "url": "https://aws.amazon.com/blogs/machine-learning/enhancing-industrial-safety-ai-with-synthetic-data-on-amazon-sagemaker-ai",
+              "source_name": "AWS AI Blog",
+              "published_at": "Thu, 17 Sep 2026 15:28:08 +0000"
+            }
+          ],
+          "route": "/hot/2026-09-18/topic/enhancing-industrial-safety-ai-with-synthetic-data-on-amazon-sagemaker-ai/"
+        },
+        {
+          "topic_id": "ae693e57eb60",
+          "slug": "selecting-a-vector-store-for-amazon-bedrock-knowledge-bases",
+          "headline": "Selecting a vector store for Amazon Bedrock Knowledge Bases",
+          "category": "Industry Update",
+          "summary_short": "AWS compares vector store options for retrieval-augmented generation applications using Amazon Bedrock Knowledge Bases. The comparison addresses performance and cost, including Amazon OpenSearch Service and Amazon Aurora PostgreSQL",
+          "why_it_matters": "This tutorial surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 3.325,
+            "quality": 3.0,
+            "heat": 3.0,
+            "importance": 4.0,
+            "occurrence": 2.95,
+            "display_priority": 3.84,
+            "confidence": 4.357
+          },
+          "source_tier": "official",
+          "source_names": [
+            "AWS AI Blog"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "official_blog"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Selecting a vector store for Amazon Bedrock Knowledge Bases",
+              "url": "https://aws.amazon.com/blogs/machine-learning/selecting-a-vector-store-for-amazon-bedrock-knowledge-bases",
+              "source_name": "AWS AI Blog",
+              "published_at": "Thu, 17 Sep 2026 15:53:13 +0000"
+            }
+          ],
+          "route": "/hot/2026-09-18/topic/selecting-a-vector-store-for-amazon-bedrock-knowledge-bases/"
+        },
+        {
+          "topic_id": "8387a4a50dbb",
+          "slug": "microsoft-openai-lose-fight-to-hide-internal-docs-admitting-scraping-is-theft",
+          "headline": "Microsoft, OpenAI lose fight to hide internal docs admitting scraping is theft",
+          "category": "Industry Update",
+          "summary_short": "",
+          "why_it_matters": "This other surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 3.042,
+            "quality": 3.0,
+            "heat": 4.0,
+            "importance": 2.0,
+            "occurrence": 3.4,
+            "display_priority": 3.491,
+            "confidence": 3.373
+          },
+          "source_tier": "community",
+          "source_names": [
+            "Hacker News"
+          ],
+          "source_roles": [
+            "hn_discussion"
+          ],
+          "source_types": [
+            "discussion"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Microsoft, OpenAI lose fight to hide internal docs admitting scraping is theft",
+              "url": "https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history",
+              "source_name": "Hacker News",
+              "published_at": "2026-09-17T20:16:52Z"
+            },
+            {
+              "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
+              "url": "https://www.hacktron.ai/blog/hacking-openai",
+              "source_name": "Hacker News",
+              "published_at": "2026-09-18T02:47:24Z"
+            }
+          ],
+          "route": "/hot/2026-09-18/topic/microsoft-openai-lose-fight-to-hide-internal-docs-admitting-scraping-is-theft/"
+        },
+        {
+          "topic_id": "993b6f455052",
+          "slug": "be-alert-targeted-attacks-on-prominent-rustaceans",
+          "headline": "Be alert: targeted attacks on prominent Rustaceans",
+          "category": "Industry Update",
+          "summary_short": "<p><strong><a href=\" alert: targeted attacks on prominent Rustaceans</a></strong></p> Important warning from Adam Harvey and the crates security team:</p> <blockquote> <p>We believe that there is an ongoing campaign targeting rust-lang members and owners of popular crates that is attempting to",
+          "why_it_matters": "This opinion surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 2.185,
+            "quality": 2.0,
+            "heat": 3.0,
+            "importance": 5.0,
+            "occurrence": 2.95,
+            "display_priority": 2.937,
+            "confidence": 3.115
+          },
+          "source_tier": "trusted_analysis",
+          "source_names": [
+            "Simon Willison's Blog"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Be alert: targeted attacks on prominent Rustaceans",
+              "url": "https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans",
+              "source_name": "Simon Willison's Blog",
+              "published_at": "2026-09-17T23:59:19+00:00"
+            }
+          ],
+          "route": "/hot/2026-09-18/topic/be-alert-targeted-attacks-on-prominent-rustaceans/"
+        },
+        {
+          "topic_id": "bd040e6bde71",
+          "slug": "llm-classification-is-feature-engineering",
+          "headline": "LLM Classification Is Feature Engineering",
+          "category": "Industry Update",
+          "summary_short": "The item frames LLM classification as feature engineering. The supplied summary provides no methodological details or empirical results",
+          "why_it_matters": "This opinion surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 1.818,
+            "quality": 2.0,
+            "heat": 3.0,
+            "importance": 4.0,
+            "occurrence": 2.95,
+            "display_priority": 2.772,
+            "confidence": 3.005
+          },
+          "source_tier": "community",
+          "source_names": [
+            "Hacker News"
+          ],
+          "source_roles": [
+            "hn_discussion"
+          ],
+          "source_types": [
+            "discussion"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "LLM Classification Is Feature Engineering",
+              "url": "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction",
+              "source_name": "Hacker News",
+              "published_at": "2026-09-17T15:40:17Z"
+            }
+          ],
+          "route": "/hot/2026-09-18/topic/llm-classification-is-feature-engineering/"
+        },
+        {
+          "topic_id": "eced9c15d834",
+          "slug": "i-don-t-like-llms",
+          "headline": "I Don't Like LLMs",
+          "category": "Industry Update",
+          "summary_short": "The item presents a viewpoint titled \"I Don't Like LLMs.\" The supplied summary repeats the title and provides no specific supporting arguments",
+          "why_it_matters": "This opinion surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 1.713,
+            "quality": 2.0,
+            "heat": 3.0,
+            "importance": 3.0,
+            "occurrence": 2.95,
+            "display_priority": 2.725,
+            "confidence": 2.974
+          },
+          "source_tier": "community",
+          "source_names": [
+            "Hacker News"
+          ],
+          "source_roles": [
+            "hn_discussion"
+          ],
+          "source_types": [
+            "discussion"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "I Don't Like LLMs",
+              "url": "https://martinfowler.com/articles/2026-dont-like-llms.html",
+              "source_name": "Hacker News",
+              "published_at": "2026-09-17T13:57:07Z"
+            }
+          ],
+          "route": "/hot/2026-09-18/topic/i-don-t-like-llms/"
+        }
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "topic_id": "a5977c836565",
+      "slug": "rmalde-minecraft-agent",
+      "headline": "rmalde/minecraft-agent",
+      "category": "Tooling",
+      "summary_short": "",
+      "why_it_matters": "This tooling surfaced across 1 independent source(s).",
+      "key_takeaways": [],
+      "scores": {
+        "final": 9.5,
+        "quality": 9.0,
+        "heat": 3.0,
+        "importance": 4.0,
+        "occurrence": 2.95,
+        "display_priority": 6.679,
+        "confidence": 5.31
+      },
+      "source_tier": "community",
+      "source_names": [
+        "GitHub Trending Repos"
+      ],
+      "source_roles": [
+        "github_trend"
+      ],
+      "source_types": [
+        "repository"
+      ],
+      "llm_status": "watchlist",
+      "evidence": [
+        {
+          "title": "rmalde/minecraft-agent",
+          "url": "https://github.com/rmalde/minecraft-agent",
+          "source_name": "GitHub Trending Repos",
+          "published_at": "2026-09-20T05:05:12Z"
+        }
+      ],
+      "route": "/hot/2026-09-18/topic/rmalde-minecraft-agent/"
+    },
+    {
+      "topic_id": "f2f6e0d0b2b3",
+      "slug": "kerpopule-hermes-jev-skills",
+      "headline": "kerpopule/hermes-jev-skills",
+      "category": "Tooling",
+      "summary_short": "",
+      "why_it_matters": "This tooling surfaced across 1 independent source(s).",
+      "key_takeaways": [],
+      "scores": {
+        "final": 9.5,
+        "quality": 9.0,
+        "heat": 3.0,
+        "importance": 4.0,
+        "occurrence": 2.95,
+        "display_priority": 6.679,
+        "confidence": 5.31
+      },
+      "source_tier": "community",
+      "source_names": [
+        "GitHub Trending Repos"
+      ],
+      "source_roles": [
+        "github_trend"
+      ],
+      "source_types": [
+        "repository"
+      ],
+      "llm_status": "watchlist",
+      "evidence": [
+        {
+          "title": "kerpopule/hermes-jev-skills",
+          "url": "https://github.com/kerpopule/hermes-jev-skills",
+          "source_name": "GitHub Trending Repos",
+          "published_at": "2026-09-18T20:01:29Z"
+        }
+      ],
+      "route": "/hot/2026-09-18/topic/kerpopule-hermes-jev-skills/"
+    }
+  ],
+  "x_buzz": [
+    {
+      "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
+      "summary": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
+      "url": "https://cactuscompute.com/needle",
+      "source_id": "hn_discussion",
+      "source_name": "Hacker News",
+      "source_role": "hn_discussion",
+      "linked_topic": ""
+    },
+    {
+      "title": "DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression",
+      "summary": "DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression",
+      "url": "https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html",
+      "source_id": "hn_discussion",
+      "source_name": "Hacker News",
+      "source_role": "hn_discussion",
+      "linked_topic": ""
+    },
+    {
+      "title": "Google DeepMind launches think tank to prepare society for AGI",
+      "summary": "Artificial intelligence",
+      "url": "https://www.rundown.ai/news/google-deepmind-institute-agi-think-tank",
+      "source_id": "the_rundown_ai",
+      "source_name": "The Rundown AI",
+      "source_role": "headline_consensus",
+      "linked_topic": ""
+    },
+    {
+      "title": "How a global fintech scaled coding agent traffic with Dedicated Model Inference",
+      "summary": "Inside a global bank's shift to self-serve dedicated inference: how Together's DMI gave engineering teams direct control over scaling, models, and testing.",
+      "url": "https://www.together.ai/blog/global-fintech-scales-coding-agent-traffic-with-dedicated-model-inference",
+      "source_id": "together_blog",
+      "source_name": "Together AI Blog",
+      "source_role": "official_news",
+      "linked_topic": "How a global fintech scaled coding agent traffic with Dedicated Model Inference"
+    },
+    {
+      "title": "Partnering with Accenture on embedded evaluation",
+      "summary": "",
+      "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+      "source_id": "anthropic_news",
+      "source_name": "Anthropic News",
+      "source_role": "official_news",
+      "linked_topic": "Partnering with Accenture on embedded evaluation"
+    }
+  ],
+  "resurgence": []
+}

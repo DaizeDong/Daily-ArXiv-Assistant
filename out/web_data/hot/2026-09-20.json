@@ -1,0 +1,1924 @@
+{
+  "schema_version": 1,
+  "meta": {
+    "date": "2026-09-20",
+    "month": "2026-09",
+    "year": "2026",
+    "generated_at": "2026-09-21T21:48:25.458891+00:00",
+    "mode": "openai",
+    "summary": "• [Product Release] Qwen released Qwen-Image-2.1 — This product release surfaced across 1 independent source(s).\n• [Product Release] DeepSeek Sharpens Its Reasoning: DeepSeek-R1, an affordable rival to OpenAI’s o1 — This product release surfaced across 1 independent source(s).\n• [Product Release] Introducing DeepLearning.AI Pro — This product release surfaced across 1 independent source(s).",
+    "previous_date": "2026-09-19",
+    "next_date": "2026-09-21",
+    "paper_routes": {
+      "home": "../../",
+      "day": null,
+      "month": null,
+      "year": null
+    },
+    "counts": {
+      "featured_topics": 3,
+      "topic_summary": 0,
+      "category_radar": 13,
+      "long_tail": 6,
+      "paper_spotlight": 0,
+      "x_buzz": 5,
+      "watchlist": 0,
+      "source_items": 22,
+      "resurgence": 0
+    }
+  },
+  "totals": {
+    "raw_items": 63,
+    "enriched_items": 0,
+    "stories": 0,
+    "featured": 3,
+    "watchlist": 0,
+    "category_topics": 13,
+    "long_tail_topics": 6,
+    "paper_spotlight_items": 6
+  },
+  "costs": {
+    "prompt": 0.0,
+    "completion": 0.0,
+    "total": 0.0
+  },
+  "usage": {
+    "llm": {
+      "provider": "openai",
+      "backend": "openai",
+      "billing_model": "quota",
+      "screen_model": "gpt-5.6",
+      "summary_model": "gpt-5.6",
+      "requests": 0,
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0,
+      "prompt_cost": 0.0,
+      "completion_cost": 0.0,
+      "total_cost": 0.0
+    },
+    "external": {
+      "ainews": {
+        "provider": "AINews RSS",
+        "billing_model": "free",
+        "requests": 1,
+        "items": 0,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "analysis_feeds": {
+        "provider": "Analysis RSS feeds",
+        "billing_model": "free",
+        "requests": 13,
+        "items": 14,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "github_trend": {
+        "provider": "GitHub API",
+        "billing_model": "free",
+        "requests": 2,
+        "items": 15,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "hf_papers": {
+        "provider": "Hugging Face",
+        "billing_model": "free",
+        "requests": 1,
+        "items": 12,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "hn_discussion": {
+        "provider": "Hacker News API",
+        "billing_model": "free",
+        "requests": 6,
+        "items": 8,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "local_papers": {
+        "provider": "Local cache",
+        "billing_model": "local",
+        "requests": 0,
+        "items": 0,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "model_hubs": {
+        "provider": "Hugging Face model index",
+        "billing_model": "free",
+        "requests": 20,
+        "items": 2,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "official_blogs": {
+        "provider": "Official blogs",
+        "billing_model": "free",
+        "requests": 30,
+        "items": 20,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "reddit": {
+        "provider": "Reddit JSON API",
+        "billing_model": "free",
+        "requests": 0,
+        "items": 0,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "roundup_sites": {
+        "provider": "Roundup sites",
+        "billing_model": "free",
+        "requests": 8,
+        "items": 13,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "x_ainews_twitter": {
+        "provider": "AINews Twitter recap",
+        "billing_model": "free",
+        "requests": 1,
+        "items": 0,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "x_twitterapi": {
+        "provider": "twitterapi.io",
+        "billing_model": "metered",
+        "requests": 0,
+        "items": 0,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      }
+    },
+    "summary": {
+      "external_requests": 82,
+      "x_requests": 1,
+      "estimated_external_cost": 0.0
+    }
+  },
+  "source_stats": {
+    "ainews": 0,
+    "analysis_feeds": 14,
+    "github_trend": 15,
+    "hf_papers": 12,
+    "hn_discussion": 8,
+    "local_papers": 0,
+    "model_hubs": 2,
+    "official_blogs": 20,
+    "reddit": 0,
+    "roundup_sites": 13,
+    "x_ainews_twitter": 0,
+    "x_twitterapi": 0
+  },
+  "source_section_counts": {
+    "official": 2,
+    "market-signals": 0,
+    "analysis": 8,
+    "papers": 0,
+    "github": 6,
+    "industry": 6
+  },
+  "source_sections": [
+    {
+      "slug": "official",
+      "label": "Official Updates",
+      "description": "Product, research, and platform updates from official vendor or lab channels.",
+      "count": 2,
+      "section_score": 7.817,
+      "items": [
+        {
+          "id": "hf_models_qwen-c2fddc3352cf",
+          "title": "Qwen released Qwen-Image-2.1-PE-T2I",
+          "summary_short": "Weights for Qwen/Qwen-Image-2.1-PE-T2I appeared on the hub. Pipeline tags: safetensors, qwen3_5, qwen, prompt-rewriting, text-to-image, license:other. 876 downloads, 35 likes at collection time",
+          "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-PE-T2I",
+          "canonical_url": "https://huggingface.co/Qwen/Qwen-Image-2.1-PE-T2I",
+          "source_id": "hf_models_qwen",
+          "source_name": "Qwen on Hugging Face",
+          "source_role": "official_news",
+          "source_type": "model_release",
+          "source_family": "official",
+          "published_at": "2026-09-20T08:45:29.000Z",
+          "tags": [
+            "safetensors",
+            "qwen3_5",
+            "qwen",
+            "prompt-rewriting",
+            "text-to-image",
+            "license:other",
+            "region:us"
+          ],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 7.275,
+          "topic_refs": [
+            {
+              "topic_id": "24165d8dcb75",
+              "slug": "qwen-released-qwen-image-2-1",
+              "headline": "Qwen released Qwen-Image-2.1",
+              "daily_route": "/hot/2026-09-20/topic/qwen-released-qwen-image-2-1/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "huggingface_blog-d8cbbb6b9ec9",
+          "title": "Inside the JEV Ecosystem: 13 Answer Verifiers on One Test Set",
+          "summary_short": "",
+          "url": "https://huggingface.co/blog/mayafree/jve-ecosystems",
+          "canonical_url": "https://huggingface.co/blog/mayafree/jve-ecosystems",
+          "source_id": "huggingface_blog",
+          "source_name": "Hugging Face Blog",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "source_family": "official",
+          "published_at": "2026-09-20T08:25:17+00:00",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 1.5,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        }
+      ]
+    },
+    {
+      "slug": "market-signals",
+      "label": "Market Signals",
+      "description": "Funding rounds, acquisitions, valuations, and strategic moves in the AI industry.",
+      "count": 0,
+      "section_score": -1.0,
+      "items": []
+    },
+    {
+      "slug": "analysis",
+      "label": "Expert Analysis",
+      "description": "Long-form expert analysis and research explainers with substantive depth.",
+      "count": 8,
+      "section_score": 10.955,
+      "items": [
+        {
+          "id": "the_batch-1d367656cf52",
+          "title": "DeepSeek Sharpens Its Reasoning: DeepSeek-R1, an affordable rival to OpenAI’s o1",
+          "summary_short": "The item covers DeepSeek-R1, a reasoning model from DeepSeek. The headline presents it as an affordable rival to OpenAI's o1",
+          "url": "https://www.deeplearning.ai/the-batch/deepseek-r1-an-affordable-rival-to-openais-o1",
+          "canonical_url": "https://www.deeplearning.ai/the-batch/deepseek-r1-an-affordable-rival-to-openais-o1",
+          "source_id": "the_batch",
+          "source_name": "The Batch",
+          "source_role": "editorial_depth",
+          "source_type": "roundup",
+          "source_family": "analysis",
+          "published_at": "2026-09-20T00:00:00-04:00",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 6.872,
+          "topic_refs": [
+            {
+              "topic_id": "9c79472c8a5e",
+              "slug": "deepseek-sharpens-its-reasoning-deepseek-r1-an-affordable-rival-to-openai-s-o1",
+              "headline": "DeepSeek Sharpens Its Reasoning: DeepSeek-R1, an affordable rival to OpenAI’s o1",
+              "daily_route": "/hot/2026-09-20/topic/deepseek-sharpens-its-reasoning-deepseek-r1-an-affordable-rival-to-openai-s-o1/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "the_batch-61825cd8250f",
+          "title": "Introducing DeepLearning.AI Pro",
+          "summary_short": "",
+          "url": "https://www.deeplearning.ai/the-batch/introducing-deeplearning-ai-pro",
+          "canonical_url": "https://www.deeplearning.ai/the-batch/introducing-deeplearning-ai-pro",
+          "source_id": "the_batch",
+          "source_name": "The Batch",
+          "source_role": "editorial_depth",
+          "source_type": "roundup",
+          "source_family": "analysis",
+          "published_at": "2026-09-20T00:00:00-04:00",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 6.868,
+          "topic_refs": [
+            {
+              "topic_id": "0acfbc9c60ba",
+              "slug": "introducing-deeplearning-ai-pro",
+              "headline": "Introducing DeepLearning.AI Pro",
+              "daily_route": "/hot/2026-09-20/topic/introducing-deeplearning-ai-pro/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "import_ai-6f6d7a16529b",
+          "title": "Pacing the Frontier, a Framework & Research Agenda (pacing.tech)",
+          "summary_short": "Pacing the Frontier, a Framework & Research Agenda (pacing.tech",
+          "url": "https://pacing.tech",
+          "canonical_url": "https://pacing.tech",
+          "source_id": "import_ai",
+          "source_name": "Import AI",
+          "source_role": "editorial_depth",
+          "source_type": "roundup",
+          "source_family": "analysis",
+          "published_at": "2026-09-20T00:00:00-04:00",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 5.294,
+          "topic_refs": [
+            {
+              "topic_id": "ccab3d1ff675",
+              "slug": "pacing-the-frontier-a-framework-research-agenda-pacing-tech",
+              "headline": "Pacing the Frontier, a Framework & Research Agenda (pacing.tech)",
+              "daily_route": "/hot/2026-09-20/topic/pacing-the-frontier-a-framework-research-agenda-pacing-tech/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "the_batch-84f28691c8e7",
+          "title": "Inside Key Changes in Data Policies, Ox Alpha Revealed, Taking Custom Models Beyond Fine-Tuning",
+          "summary_short": "The Batch News & Insights: A key AI engineering skill is using coding agents",
+          "url": "https://www.deeplearning.ai/the-batch/tag/sep-04-2026",
+          "canonical_url": "https://www.deeplearning.ai/the-batch/tag/sep-04-2026",
+          "source_id": "the_batch",
+          "source_name": "The Batch",
+          "source_role": "editorial_depth",
+          "source_type": "roundup",
+          "source_family": "analysis",
+          "published_at": "2026-09-20T00:00:00-04:00",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 5.025,
+          "topic_refs": [
+            {
+              "topic_id": "93178b2e8d0e",
+              "slug": "inside-key-changes-in-data-policies-ox-alpha-revealed-taking-custom-models-beyond-fine-tuning",
+              "headline": "Inside Key Changes in Data Policies, Ox Alpha Revealed, Taking Custom Models Beyond Fine-Tuning",
+              "daily_route": "/hot/2026-09-20/topic/inside-key-changes-in-data-policies-ox-alpha-revealed-taking-custom-models-beyond-fine-tuning/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "import_ai-4fae7cde10eb",
+          "title": "A U.S. Strategy to Secure Geopolitical Advantage on an Uncertain Path to Superintelligence (RAND)",
+          "summary_short": "A U.S. Strategy to Secure Geopolitical Advantage on an Uncertain Path to Superintelligence (RAND",
+          "url": "https://www.rand.org/pubs/perspectives/PEA5105-1.html",
+          "canonical_url": "https://www.rand.org/pubs/perspectives/PEA5105-1.html",
+          "source_id": "import_ai",
+          "source_name": "Import AI",
+          "source_role": "editorial_depth",
+          "source_type": "roundup",
+          "source_family": "analysis",
+          "published_at": "2026-09-20T00:00:00-04:00",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 5.025,
+          "topic_refs": [
+            {
+              "topic_id": "3cbbc1d92ccd",
+              "slug": "a-u-s-strategy-to-secure-geopolitical-advantage-on-an-uncertain-path-to-superintelligence-rand",
+              "headline": "A U.S. Strategy to Secure Geopolitical Advantage on an Uncertain Path to Superintelligence (RAND)",
+              "daily_route": "/hot/2026-09-20/topic/a-u-s-strategy-to-secure-geopolitical-advantage-on-an-uncertain-path-to-superintelligence-rand/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "the_batch-5ba3a106203f",
+          "title": "OpenAI and Anthropic fight it out for the top overall spot, while Google, Meta, and Microsoft all release transcription models",
+          "summary_short": "The roundup covers OpenAI and Anthropic competing for the top overall position and transcription model releases from Google, Meta, and Microsoft. Its introductory commentary encourages AI engineers to help shape products rather than only implement specifications",
+          "url": "https://www.deeplearning.ai/the-batch/tag/sep-11-2026",
+          "canonical_url": "https://www.deeplearning.ai/the-batch/tag/sep-11-2026",
+          "source_id": "the_batch",
+          "source_name": "The Batch",
+          "source_role": "editorial_depth",
+          "source_type": "roundup",
+          "source_family": "analysis",
+          "published_at": "2026-09-20T00:00:00-04:00",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 4.673,
+          "topic_refs": [
+            {
+              "topic_id": "5bf2cfb67b6b",
+              "slug": "openai-and-anthropic-fight-it-out-for-the-top-overall-spot-while-google-meta-and-microsoft-all-release-transcription-models",
+              "headline": "OpenAI and Anthropic fight it out for the top overall spot, while Google, Meta, and Microsoft all release transcription models",
+              "daily_route": "/hot/2026-09-20/topic/openai-and-anthropic-fight-it-out-for-the-top-overall-spot-while-google-meta-and-microsoft-all-release-transcription-models/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "the_batch-e65c97704835",
+          "title": "Meta’s Agent Security, The Navier-Stokes Controversy, Fraud on Claude",
+          "summary_short": "The roundup covers Meta's agent security, a Navier–Stokes controversy, and fraud involving Claude. Its introductory commentary discusses the recent influence of voices emphasizing AI dangers",
+          "url": "https://www.deeplearning.ai/the-batch/tag/sep-18-2026",
+          "canonical_url": "https://www.deeplearning.ai/the-batch/tag/sep-18-2026",
+          "source_id": "the_batch",
+          "source_name": "The Batch",
+          "source_role": "editorial_depth",
+          "source_type": "roundup",
+          "source_family": "analysis",
+          "published_at": "2026-09-20T00:00:00-04:00",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 4.673,
+          "topic_refs": [
+            {
+              "topic_id": "4805f665d331",
+              "slug": "meta-s-agent-security-the-navier-stokes-controversy-fraud-on-claude",
+              "headline": "Meta’s Agent Security, The Navier-Stokes Controversy, Fraud on Claude",
+              "daily_route": "/hot/2026-09-20/topic/meta-s-agent-security-the-navier-stokes-controversy-fraud-on-claude/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "analysis_theverge_ai-66fb6faf12d4",
+          "title": "Gemini went rogue, hacked three companies, and Google hid it",
+          "summary_short": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company.",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+          "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+          "source_id": "analysis_theverge_ai",
+          "source_name": "The Verge AI",
+          "source_role": "editorial_depth",
+          "source_type": "blog_analysis",
+          "source_family": "analysis",
+          "published_at": "2026-09-19T11:25:03-04:00",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 4.599,
+          "topic_refs": [
+            {
+              "topic_id": "800f5bf4ec4b",
+              "slug": "gemini-hacked-three-companies-in-first-known-breakout-by-google-s-ai",
+              "headline": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
+              "daily_route": "/hot/2026-09-20/topic/gemini-hacked-three-companies-in-first-known-breakout-by-google-s-ai/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        }
+      ]
+    },
+    {
+      "slug": "papers",
+      "label": "Research Papers",
+      "description": "Research papers and paper-trending signals tied to the current day.",
+      "count": 0,
+      "section_score": -1.0,
+      "items": []
+    },
+    {
+      "slug": "github",
+      "label": "GitHub / Tools",
+      "description": "Repositories, tooling launches, and builder momentum around practical AI systems.",
+      "count": 6,
+      "section_score": 6.656,
+      "items": [
+        {
+          "id": "hn_discussion-1c712cad4f64",
+          "title": "Show HN: CUA-S1 – A System One Model for Computer Use",
+          "summary_short": "A Show HN post introduces CUA-S1 as a System One model for computer use. The supplied item does not include performance results or availability details",
+          "url": "https://github.com/trycua/cua",
+          "canonical_url": "https://github.com/trycua/cua",
+          "source_id": "hn_discussion",
+          "source_name": "Hacker News",
+          "source_role": "hn_discussion",
+          "source_type": "discussion",
+          "source_family": "github",
+          "published_at": "2026-09-19T15:52:51Z",
+          "tags": [],
+          "authors": [
+            "frabonacci"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 90,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 4.853,
+          "topic_refs": [
+            {
+              "topic_id": "dda902ddb625",
+              "slug": "show-hn-cua-s1-a-system-one-model-for-computer-use",
+              "headline": "Show HN: CUA-S1 – A System One Model for Computer Use",
+              "daily_route": "/hot/2026-09-20/topic/show-hn-cua-s1-a-system-one-model-for-computer-use/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "github_trend-11c0e859fa41",
+          "title": "zai-org/ZCode",
+          "summary_short": "Z.ai's coding agent harness. Powerful, intelligent, extensible",
+          "url": "https://github.com/zai-org/ZCode",
+          "canonical_url": "https://github.com/zai-org/ZCode",
+          "source_id": "github_trend",
+          "source_name": "GitHub Trending Repos",
+          "source_role": "github_trend",
+          "source_type": "repository",
+          "source_family": "github",
+          "published_at": "2026-09-20T12:01:16Z",
+          "tags": [],
+          "authors": [
+            "zai-org"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 5522,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 3.35,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "github_trend-1aaf19b7744c",
+          "title": "browser-use/jev-ultrafast",
+          "summary_short": "Fastest and cheapest web agent",
+          "url": "https://github.com/browser-use/jev-ultrafast",
+          "canonical_url": "https://github.com/browser-use/jev-ultrafast",
+          "source_id": "github_trend",
+          "source_name": "GitHub Trending Repos",
+          "source_role": "github_trend",
+          "source_type": "repository",
+          "source_family": "github",
+          "published_at": "2026-09-16T21:30:12Z",
+          "tags": [],
+          "authors": [
+            "browser-use"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 15489,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 3.35,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "github_trend-c2b6457f5bfb",
+          "title": "mcncarl/jianying-headless",
+          "summary_short": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill",
+          "url": "https://github.com/mcncarl/jianying-headless",
+          "canonical_url": "https://github.com/mcncarl/jianying-headless",
+          "source_id": "github_trend",
+          "source_name": "GitHub Trending Repos",
+          "source_role": "github_trend",
+          "source_type": "repository",
+          "source_family": "github",
+          "published_at": "2026-09-15T11:51:15Z",
+          "tags": [],
+          "authors": [
+            "mcncarl"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 2354,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 3.35,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "github_trend-639d4b24f18d",
+          "title": "Continuum-AI-Corp/OrcaBonsai-27B-Uncensored",
+          "summary_short": "Runtime behavioral ablation for compressed LLMs. First target: Ternary Bonsai 2 27B — no weight modification or re-quantization. by OrcaRouter team",
+          "url": "https://github.com/Continuum-AI-Corp/OrcaBonsai-27B-Uncensored",
+          "canonical_url": "https://github.com/Continuum-AI-Corp/OrcaBonsai-27B-Uncensored",
+          "source_id": "github_trend",
+          "source_name": "GitHub Trending Repos",
+          "source_role": "github_trend",
+          "source_type": "repository",
+          "source_family": "github",
+          "published_at": "2026-09-18T06:45:54Z",
+          "tags": [],
+          "authors": [
+            "Continuum-AI-Corp"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 518,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 1.986,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "github_trend-acd51b3064a0",
+          "title": "rmalde/minecraft-agent",
+          "summary_short": "Astra planner and JEV controller for Minecraft, with native recording, tested routes, and run verification",
+          "url": "https://github.com/rmalde/minecraft-agent",
+          "canonical_url": "https://github.com/rmalde/minecraft-agent",
+          "source_id": "github_trend",
+          "source_name": "GitHub Trending Repos",
+          "source_role": "github_trend",
+          "source_type": "repository",
+          "source_family": "github",
+          "published_at": "2026-09-20T05:05:12Z",
+          "tags": [],
+          "authors": [
+            "rmalde"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 459,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 1.868,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        }
+      ]
+    },
+    {
+      "slug": "industry",
+      "label": "Industry News",
+      "description": "Curated industry coverage from newsletters, blogs, and community sources with substance.",
+      "count": 6,
+      "section_score": 7.707,
+      "items": [
+        {
+          "id": "hn_discussion-dc8b1f74b838",
+          "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
+          "summary_short": "",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+          "canonical_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+          "source_id": "hn_discussion",
+          "source_name": "Hacker News",
+          "source_role": "hn_discussion",
+          "source_type": "discussion",
+          "source_family": "industry",
+          "published_at": "2026-09-19T18:21:30Z",
+          "tags": [],
+          "authors": [
+            "jonbaer"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 189,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 5.184,
+          "topic_refs": [
+            {
+              "topic_id": "4098ca880d13",
+              "slug": "microsoft-director-ai-scraping-the-largest-theft-of-labor-in-human-history",
+              "headline": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
+              "daily_route": "/hot/2026-09-20/topic/microsoft-director-ai-scraping-the-largest-theft-of-labor-in-human-history/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "superhuman_ai-8b588b3d0a0e",
+          "title": "4 min read Claude gets 2 new features & a simpler platform",
+          "summary_short": "The headline announces two new Claude features and a simpler platform. The supplied item does not describe the features or platform changes",
+          "url": "https://www.superhuman.ai/p/claude-gets-2-new-features-a-simpler-platform",
+          "canonical_url": "https://www.superhuman.ai/p/claude-gets-2-new-features-a-simpler-platform",
+          "source_id": "superhuman_ai",
+          "source_name": "Superhuman AI",
+          "source_role": "headline_consensus",
+          "source_type": "roundup",
+          "source_family": "industry",
+          "published_at": "2026-09-20T00:00:00-04:00",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 4.504,
+          "topic_refs": [
+            {
+              "topic_id": "a70910953bf0",
+              "slug": "4-min-read-claude-gets-2-new-features-a-simpler-platform",
+              "headline": "4 min read Claude gets 2 new features & a simpler platform",
+              "daily_route": "/hot/2026-09-20/topic/4-min-read-claude-gets-2-new-features-a-simpler-platform/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "hn_discussion-31c51e0ca61b",
+          "title": "Lawsuit says Anthropic, OpenAI and others made illegal agreement on AI slowdown",
+          "summary_short": "A lawsuit alleges that Anthropic, OpenAI, and other parties entered an illegal agreement to slow AI development. The supplied item does not identify the plaintiffs or detail the alleged agreement",
+          "url": "https://apnews.com/article/antitrust-lawsuit-ai-slowdown-anthropic-openai-spacexai-google-960af4308161eaf4ed13c383b0ce1c1b",
+          "canonical_url": "https://apnews.com/article/antitrust-lawsuit-ai-slowdown-anthropic-openai-spacexai-google-960af4308161eaf4ed13c383b0ce1c1b",
+          "source_id": "hn_discussion",
+          "source_name": "Hacker News",
+          "source_role": "hn_discussion",
+          "source_type": "discussion",
+          "source_family": "industry",
+          "published_at": "2026-09-19T18:36:44Z",
+          "tags": [],
+          "authors": [
+            "embedding-shape"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 55,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 4.383,
+          "topic_refs": [
+            {
+              "topic_id": "85f9e7d23478",
+              "slug": "lawsuit-says-anthropic-openai-and-others-made-illegal-agreement-on-ai-slowdown",
+              "headline": "Lawsuit says Anthropic, OpenAI and others made illegal agreement on AI slowdown",
+              "daily_route": "/hot/2026-09-20/topic/lawsuit-says-anthropic-openai-and-others-made-illegal-agreement-on-ai-slowdown/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "hn_discussion-6e56d47a5511",
+          "title": "OpenAI and Anthropic oversold AI security breaches",
+          "summary_short": "",
+          "url": "https://nypost.com/2026/09/19/us-news/openai-anthropic-oversold-security-breaches-to-pressure-feds-into-protecting-turf-insiders",
+          "canonical_url": "https://nypost.com/2026/09/19/us-news/openai-anthropic-oversold-security-breaches-to-pressure-feds-into-protecting-turf-insiders",
+          "source_id": "hn_discussion",
+          "source_name": "Hacker News",
+          "source_role": "hn_discussion",
+          "source_type": "discussion",
+          "source_family": "industry",
+          "published_at": "2026-09-19T19:59:28Z",
+          "tags": [],
+          "authors": [
+            "hei-lima"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 38,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 4.155,
+          "topic_refs": [
+            {
+              "topic_id": "ad33c078929e",
+              "slug": "openai-s-misalignment-framework-a-tactical-bid-to-preempt-global-ai-governance",
+              "headline": "OpenAI's Misalignment Framework: A Tactical Bid to Preempt Global AI Governance",
+              "daily_route": "/hot/2026-09-20/topic/openai-s-misalignment-framework-a-tactical-bid-to-preempt-global-ai-governance/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "superhuman_ai-61bfe0429f61",
+          "title": "4 min read OpenAI incident report or science fiction?",
+          "summary_short": "",
+          "url": "https://www.superhuman.ai/p/openai-incident-report-or-science-fiction",
+          "canonical_url": "https://www.superhuman.ai/p/openai-incident-report-or-science-fiction",
+          "source_id": "superhuman_ai",
+          "source_name": "Superhuman AI",
+          "source_role": "headline_consensus",
+          "source_type": "roundup",
+          "source_family": "industry",
+          "published_at": "2026-09-20T00:00:00-04:00",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 3.866,
+          "topic_refs": [
+            {
+              "topic_id": "090b3407c648",
+              "slug": "4-min-read-openai-incident-report-or-science-fiction",
+              "headline": "4 min read OpenAI incident report or science fiction?",
+              "daily_route": "/hot/2026-09-20/topic/4-min-read-openai-incident-report-or-science-fiction/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "hn_discussion-278814ed4179",
+          "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+          "summary_short": "",
+          "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
+          "canonical_url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
+          "source_id": "hn_discussion",
+          "source_name": "Hacker News",
+          "source_role": "hn_discussion",
+          "source_type": "discussion",
+          "source_family": "industry",
+          "published_at": "2026-09-18T23:54:42Z",
+          "tags": [],
+          "authors": [
+            "yogthos"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 151,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 2.35,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        }
+      ]
+    }
+  ],
+  "paper_spotlight": [],
+  "topic_summary": [],
+  "featured_topics": [
+    {
+      "topic_id": "24165d8dcb75",
+      "slug": "qwen-released-qwen-image-2-1",
+      "headline": "Qwen released Qwen-Image-2.1",
+      "category": "Product Release",
+      "summary_short": "",
+      "why_it_matters": "This product release surfaced across 1 independent source(s).",
+      "key_takeaways": [
+        "Weights for Qwen/Qwen-Image-2.1-PE-T2I appeared on the hub. Pipeline tags: safetensors, qwen3_5, qwen, prompt-rewriting, text-to-image, license:other. 876 downloads, 35 likes at collection time.",
+        "Weights for Qwen/Qwen-Image-2.1-PE-I2I appeared on the hub. Pipeline tags: safetensors, qwen3_5, qwen, prompt-rewriting, image-editing, license:other. 4604 downloads, 36 likes at collection time."
+      ],
+      "scores": {
+        "final": 10.0,
+        "quality": 9.0,
+        "heat": 4.0,
+        "importance": 10.0,
+        "occurrence": 3.4,
+        "display_priority": 8.012,
+        "confidence": 6.36
+      },
+      "source_tier": "official",
+      "source_names": [
+        "Qwen on Hugging Face"
+      ],
+      "source_roles": [
+        "official_news"
+      ],
+      "source_types": [
+        "model_release"
+      ],
+      "llm_status": "featured",
+      "evidence": [
+        {
+          "title": "Qwen released Qwen-Image-2.1-PE-T2I",
+          "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-PE-T2I",
+          "source_name": "Qwen on Hugging Face",
+          "published_at": "2026-09-20T08:45:29.000Z"
+        },
+        {
+          "title": "Qwen released Qwen-Image-2.1-PE-I2I",
+          "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-PE-I2I",
+          "source_name": "Qwen on Hugging Face",
+          "published_at": "2026-09-20T08:46:47.000Z"
+        }
+      ],
+      "route": "/hot/2026-09-20/topic/qwen-released-qwen-image-2-1/"
+    },
+    {
+      "topic_id": "9c79472c8a5e",
+      "slug": "deepseek-sharpens-its-reasoning-deepseek-r1-an-affordable-rival-to-openai-s-o1",
+      "headline": "DeepSeek Sharpens Its Reasoning: DeepSeek-R1, an affordable rival to OpenAI’s o1",
+      "category": "Product Release",
+      "summary_short": "The item covers DeepSeek-R1, a reasoning model from DeepSeek. The headline presents it as an affordable rival to OpenAI's o1",
+      "why_it_matters": "This product release surfaced across 1 independent source(s).",
+      "key_takeaways": [],
+      "scores": {
+        "final": 9.6,
+        "quality": 9.0,
+        "heat": 3.0,
+        "importance": 8.0,
+        "occurrence": 2.95,
+        "display_priority": 7.274,
+        "confidence": 5.34
+      },
+      "source_tier": "trusted_analysis",
+      "source_names": [
+        "The Batch"
+      ],
+      "source_roles": [
+        "editorial_depth"
+      ],
+      "source_types": [
+        "roundup"
+      ],
+      "llm_status": "featured",
+      "evidence": [
+        {
+          "title": "DeepSeek Sharpens Its Reasoning: DeepSeek-R1, an affordable rival to OpenAI’s o1",
+          "url": "https://www.deeplearning.ai/the-batch/deepseek-r1-an-affordable-rival-to-openais-o1",
+          "source_name": "The Batch",
+          "published_at": "2026-09-20T00:00:00-04:00"
+        }
+      ],
+      "route": "/hot/2026-09-20/topic/deepseek-sharpens-its-reasoning-deepseek-r1-an-affordable-rival-to-openai-s-o1/"
+    },
+    {
+      "topic_id": "0acfbc9c60ba",
+      "slug": "introducing-deeplearning-ai-pro",
+      "headline": "Introducing DeepLearning.AI Pro",
+      "category": "Product Release",
+      "summary_short": "",
+      "why_it_matters": "This product release surfaced across 1 independent source(s).",
+      "key_takeaways": [],
+      "scores": {
+        "final": 9.5,
+        "quality": 9.0,
+        "heat": 3.0,
+        "importance": 5.0,
+        "occurrence": 2.95,
+        "display_priority": 7.229,
+        "confidence": 5.31
+      },
+      "source_tier": "trusted_analysis",
+      "source_names": [
+        "The Batch"
+      ],
+      "source_roles": [
+        "editorial_depth"
+      ],
+      "source_types": [
+        "roundup"
+      ],
+      "llm_status": "featured",
+      "evidence": [
+        {
+          "title": "Introducing DeepLearning.AI Pro",
+          "url": "https://www.deeplearning.ai/the-batch/introducing-deeplearning-ai-pro",
+          "source_name": "The Batch",
+          "published_at": "2026-09-20T00:00:00-04:00"
+        }
+      ],
+      "route": "/hot/2026-09-20/topic/introducing-deeplearning-ai-pro/"
+    }
+  ],
+  "category_sections": [
+    {
+      "category": "Product Release",
+      "total_candidates": 2,
+      "topics": [
+        {
+          "topic_id": "a70910953bf0",
+          "slug": "4-min-read-claude-gets-2-new-features-a-simpler-platform",
+          "headline": "4 min read Claude gets 2 new features & a simpler platform",
+          "category": "Product Release",
+          "summary_short": "The headline announces two new Claude features and a simpler platform. The supplied item does not describe the features or platform changes",
+          "why_it_matters": "This product release surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 8.381,
+            "quality": 8.0,
+            "heat": 3.0,
+            "importance": 5.0,
+            "occurrence": 2.95,
+            "display_priority": 5.725,
+            "confidence": 4.974
+          },
+          "source_tier": "community",
+          "source_names": [
+            "Superhuman AI"
+          ],
+          "source_roles": [
+            "headline_consensus"
+          ],
+          "source_types": [
+            "roundup"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "4 min read Claude gets 2 new features & a simpler platform",
+              "url": "https://www.superhuman.ai/p/claude-gets-2-new-features-a-simpler-platform",
+              "source_name": "Superhuman AI",
+              "published_at": "2026-09-20T00:00:00-04:00"
+            }
+          ],
+          "route": "/hot/2026-09-20/topic/4-min-read-claude-gets-2-new-features-a-simpler-platform/"
+        },
+        {
+          "topic_id": "dda902ddb625",
+          "slug": "show-hn-cua-s1-a-system-one-model-for-computer-use",
+          "headline": "Show HN: CUA-S1 – A System One Model for Computer Use",
+          "category": "Product Release",
+          "summary_short": "A Show HN post introduces CUA-S1 as a System One model for computer use. The supplied item does not include performance results or availability details",
+          "why_it_matters": "This product release surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.021,
+            "quality": 5.0,
+            "heat": 3.0,
+            "importance": 6.0,
+            "occurrence": 2.95,
+            "display_priority": 4.213,
+            "confidence": 3.966
+          },
+          "source_tier": "community",
+          "source_names": [
+            "Hacker News"
+          ],
+          "source_roles": [
+            "hn_discussion"
+          ],
+          "source_types": [
+            "discussion"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Show HN: CUA-S1 – A System One Model for Computer Use",
+              "url": "https://github.com/trycua/cua",
+              "source_name": "Hacker News",
+              "published_at": "2026-09-19T15:52:51Z"
+            }
+          ],
+          "route": "/hot/2026-09-20/topic/show-hn-cua-s1-a-system-one-model-for-computer-use/"
+        }
+      ]
+    },
+    {
+      "category": "Industry Update",
+      "total_candidates": 11,
+      "topics": [
+        {
+          "topic_id": "3cbbc1d92ccd",
+          "slug": "a-u-s-strategy-to-secure-geopolitical-advantage-on-an-uncertain-path-to-superintelligence-rand",
+          "headline": "A U.S. Strategy to Secure Geopolitical Advantage on an Uncertain Path to Superintelligence (RAND)",
+          "category": "Industry Update",
+          "summary_short": "A U.S. Strategy to Secure Geopolitical Advantage on an Uncertain Path to Superintelligence (RAND",
+          "why_it_matters": "This other surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 6.789,
+            "quality": 6.0,
+            "heat": 3.0,
+            "importance": 5.0,
+            "occurrence": 2.95,
+            "display_priority": 5.009,
+            "confidence": 4.497
+          },
+          "source_tier": "trusted_analysis",
+          "source_names": [
+            "Import AI"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "roundup"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "A U.S. Strategy to Secure Geopolitical Advantage on an Uncertain Path to Superintelligence (RAND)",
+              "url": "https://www.rand.org/pubs/perspectives/PEA5105-1.html",
+              "source_name": "Import AI",
+              "published_at": "2026-09-20T00:00:00-04:00"
+            }
+          ],
+          "route": "/hot/2026-09-20/topic/a-u-s-strategy-to-secure-geopolitical-advantage-on-an-uncertain-path-to-superintelligence-rand/"
+        },
+        {
+          "topic_id": "93178b2e8d0e",
+          "slug": "inside-key-changes-in-data-policies-ox-alpha-revealed-taking-custom-models-beyond-fine-tuning",
+          "headline": "Inside Key Changes in Data Policies, Ox Alpha Revealed, Taking Custom Models Beyond Fine-Tuning",
+          "category": "Industry Update",
+          "summary_short": "The Batch News & Insights: A key AI engineering skill is using coding agents",
+          "why_it_matters": "This other surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 6.789,
+            "quality": 6.0,
+            "heat": 3.0,
+            "importance": 5.0,
+            "occurrence": 2.95,
+            "display_priority": 5.009,
+            "confidence": 4.497
+          },
+          "source_tier": "trusted_analysis",
+          "source_names": [
+            "The Batch"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "roundup"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Inside Key Changes in Data Policies, Ox Alpha Revealed, Taking Custom Models Beyond Fine-Tuning",
+              "url": "https://www.deeplearning.ai/the-batch/tag/sep-04-2026",
+              "source_name": "The Batch",
+              "published_at": "2026-09-20T00:00:00-04:00"
+            }
+          ],
+          "route": "/hot/2026-09-20/topic/inside-key-changes-in-data-policies-ox-alpha-revealed-taking-custom-models-beyond-fine-tuning/"
+        },
+        {
+          "topic_id": "090b3407c648",
+          "slug": "4-min-read-openai-incident-report-or-science-fiction",
+          "headline": "4 min read OpenAI incident report or science fiction?",
+          "category": "Industry Update",
+          "summary_short": "",
+          "why_it_matters": "This other surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.702,
+            "quality": 5.0,
+            "heat": 3.0,
+            "importance": 1.0,
+            "occurrence": 2.95,
+            "display_priority": 4.52,
+            "confidence": 4.171
+          },
+          "source_tier": "community",
+          "source_names": [
+            "Superhuman AI"
+          ],
+          "source_roles": [
+            "headline_consensus"
+          ],
+          "source_types": [
+            "roundup"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "4 min read OpenAI incident report or science fiction?",
+              "url": "https://www.superhuman.ai/p/openai-incident-report-or-science-fiction",
+              "source_name": "Superhuman AI",
+              "published_at": "2026-09-20T00:00:00-04:00"
+            }
+          ],
+          "route": "/hot/2026-09-20/topic/4-min-read-openai-incident-report-or-science-fiction/"
+        },
+        {
+          "topic_id": "5bf2cfb67b6b",
+          "slug": "openai-and-anthropic-fight-it-out-for-the-top-overall-spot-while-google-meta-and-microsoft-all-release-transcription-models",
+          "headline": "OpenAI and Anthropic fight it out for the top overall spot, while Google, Meta, and Microsoft all release transcription models",
+          "category": "Industry Update",
+          "summary_short": "The roundup covers OpenAI and Anthropic competing for the top overall position and transcription model releases from Google, Meta, and Microsoft. Its introductory commentary encourages AI engineers to help shape products rather than only implement specifications",
+          "why_it_matters": "This recap surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.314,
+            "quality": 5.0,
+            "heat": 3.0,
+            "importance": 2.0,
+            "occurrence": 2.95,
+            "display_priority": 4.345,
+            "confidence": 4.054
+          },
+          "source_tier": "trusted_analysis",
+          "source_names": [
+            "The Batch"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "roundup"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "OpenAI and Anthropic fight it out for the top overall spot, while Google, Meta, and Microsoft all release transcription models",
+              "url": "https://www.deeplearning.ai/the-batch/tag/sep-11-2026",
+              "source_name": "The Batch",
+              "published_at": "2026-09-20T00:00:00-04:00"
+            }
+          ],
+          "route": "/hot/2026-09-20/topic/openai-and-anthropic-fight-it-out-for-the-top-overall-spot-while-google-meta-and-microsoft-all-release-transcription-models/"
+        },
+        {
+          "topic_id": "4805f665d331",
+          "slug": "meta-s-agent-security-the-navier-stokes-controversy-fraud-on-claude",
+          "headline": "Meta’s Agent Security, The Navier-Stokes Controversy, Fraud on Claude",
+          "category": "Industry Update",
+          "summary_short": "The roundup covers Meta's agent security, a Navier–Stokes controversy, and fraud involving Claude. Its introductory commentary discusses the recent influence of voices emphasizing AI dangers",
+          "why_it_matters": "This recap surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.314,
+            "quality": 5.0,
+            "heat": 3.0,
+            "importance": 2.0,
+            "occurrence": 2.95,
+            "display_priority": 4.345,
+            "confidence": 4.054
+          },
+          "source_tier": "trusted_analysis",
+          "source_names": [
+            "The Batch"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "roundup"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Meta’s Agent Security, The Navier-Stokes Controversy, Fraud on Claude",
+              "url": "https://www.deeplearning.ai/the-batch/tag/sep-18-2026",
+              "source_name": "The Batch",
+              "published_at": "2026-09-20T00:00:00-04:00"
+            }
+          ],
+          "route": "/hot/2026-09-20/topic/meta-s-agent-security-the-navier-stokes-controversy-fraud-on-claude/"
+        }
+      ]
+    },
+    {
+      "category": "Tooling",
+      "total_candidates": 2,
+      "topics": [
+        {
+          "topic_id": "ccab3d1ff675",
+          "slug": "pacing-the-frontier-a-framework-research-agenda-pacing-tech",
+          "headline": "Pacing the Frontier, a Framework & Research Agenda (pacing.tech)",
+          "category": "Tooling",
+          "summary_short": "Pacing the Frontier, a Framework & Research Agenda (pacing.tech",
+          "why_it_matters": "This tooling surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 7.919,
+            "quality": 7.0,
+            "heat": 3.0,
+            "importance": 5.0,
+            "occurrence": 2.95,
+            "display_priority": 5.518,
+            "confidence": 4.836
+          },
+          "source_tier": "trusted_analysis",
+          "source_names": [
+            "Import AI"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "roundup"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Pacing the Frontier, a Framework & Research Agenda (pacing.tech)",
+              "url": "https://pacing.tech",
+              "source_name": "Import AI",
+              "published_at": "2026-09-20T00:00:00-04:00"
+            }
+          ],
+          "route": "/hot/2026-09-20/topic/pacing-the-frontier-a-framework-research-agenda-pacing-tech/"
+        },
+        {
+          "topic_id": "ad33c078929e",
+          "slug": "openai-s-misalignment-framework-a-tactical-bid-to-preempt-global-ai-governance",
+          "headline": "OpenAI's Misalignment Framework: A Tactical Bid to Preempt Global AI Governance",
+          "category": "Tooling",
+          "summary_short": "",
+          "why_it_matters": "This tooling surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.002,
+            "quality": 5.0,
+            "heat": 3.0,
+            "importance": 4.0,
+            "occurrence": 2.95,
+            "display_priority": 4.205,
+            "confidence": 3.961
+          },
+          "source_tier": "community",
+          "source_names": [
+            "Hacker News"
+          ],
+          "source_roles": [
+            "hn_discussion"
+          ],
+          "source_types": [
+            "discussion"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "OpenAI and Anthropic oversold AI security breaches",
+              "url": "https://nypost.com/2026/09/19/us-news/openai-anthropic-oversold-security-breaches-to-pressure-feds-into-protecting-turf-insiders",
+              "source_name": "Hacker News",
+              "published_at": "2026-09-19T19:59:28Z"
+            }
+          ],
+          "route": "/hot/2026-09-20/topic/openai-s-misalignment-framework-a-tactical-bid-to-preempt-global-ai-governance/"
+        }
+      ]
+    },
+    {
+      "category": "Research",
+      "total_candidates": 4,
+      "topics": [
+        {
+          "topic_id": "626d80167929",
+          "slug": "can-minimax-h3-reason-about-the-physical-world-an-evaluation-of-omni-modal-generative-model",
+          "headline": "Can MiniMax-H3 Reason About the Physical World? An Evaluation of Omni-Modal Generative Model",
+          "category": "Research",
+          "summary_short": "",
+          "why_it_matters": "This research paper surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 1.932,
+            "quality": 3.0,
+            "heat": 3.0,
+            "importance": 8.0,
+            "occurrence": 2.95,
+            "display_priority": 2.823,
+            "confidence": 3.04
+          },
+          "source_tier": "trusted_research",
+          "source_names": [
+            "Hugging Face Trending Papers"
+          ],
+          "source_roles": [
+            "paper_trending"
+          ],
+          "source_types": [
+            "paper"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Can MiniMax-H3 Reason About the Physical World? An Evaluation of Omni-Modal Generative Model",
+              "url": "https://huggingface.co/papers/2609.18323",
+              "source_name": "Hugging Face Trending Papers",
+              "published_at": "2026-09-16T00:00:00.000Z"
+            }
+          ],
+          "route": "/hot/2026-09-20/topic/can-minimax-h3-reason-about-the-physical-world-an-evaluation-of-omni-modal-generative-model/"
+        },
+        {
+          "topic_id": "5d780fc9d14c",
+          "slug": "verifiable-social-reasoning-for-llm-assistants",
+          "headline": "Verifiable Social Reasoning for LLM Assistants",
+          "category": "Research",
+          "summary_short": "",
+          "why_it_matters": "This research paper surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 1.587,
+            "quality": 2.0,
+            "heat": 3.0,
+            "importance": 7.0,
+            "occurrence": 2.95,
+            "display_priority": 2.668,
+            "confidence": 2.936
+          },
+          "source_tier": "trusted_research",
+          "source_names": [
+            "Hugging Face Trending Papers"
+          ],
+          "source_roles": [
+            "paper_trending"
+          ],
+          "source_types": [
+            "paper"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Verifiable Social Reasoning for LLM Assistants",
+              "url": "https://huggingface.co/papers/2609.17496",
+              "source_name": "Hugging Face Trending Papers",
+              "published_at": "2026-09-15T00:00:00.000Z"
+            }
+          ],
+          "route": "/hot/2026-09-20/topic/verifiable-social-reasoning-for-llm-assistants/"
+        },
+        {
+          "topic_id": "bac3cdfd3506",
+          "slug": "riskchainbench-a-benchmark-for-obfuscated-platform-message-restoration-and-evidence-grounded-web-investigation",
+          "headline": "RiskChainBench: A Benchmark for Obfuscated Platform Message Restoration and Evidence-Grounded Web Investigation",
+          "category": "Research",
+          "summary_short": "",
+          "why_it_matters": "This research paper surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 1.587,
+            "quality": 2.0,
+            "heat": 3.0,
+            "importance": 7.0,
+            "occurrence": 2.95,
+            "display_priority": 2.668,
+            "confidence": 2.936
+          },
+          "source_tier": "trusted_research",
+          "source_names": [
+            "Hugging Face Trending Papers"
+          ],
+          "source_roles": [
+            "paper_trending"
+          ],
+          "source_types": [
+            "paper"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "RiskChainBench: A Benchmark for Obfuscated Platform Message Restoration and Evidence-Grounded Web Investigation",
+              "url": "https://huggingface.co/papers/2609.16900",
+              "source_name": "Hugging Face Trending Papers",
+              "published_at": "2026-09-15T00:00:00.000Z"
+            }
+          ],
+          "route": "/hot/2026-09-20/topic/riskchainbench-a-benchmark-for-obfuscated-platform-message-restoration-and-evidence-grounded-web-investigation/"
+        },
+        {
+          "topic_id": "7fac29d59a60",
+          "slug": "reflect-revise-reuse-training-free-skill-evolution-for-gui-agents",
+          "headline": "Reflect, Revise, Reuse: Training-Free Skill Evolution for GUI Agents",
+          "category": "Research",
+          "summary_short": "",
+          "why_it_matters": "This research paper surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 1.546,
+            "quality": 2.0,
+            "heat": 3.0,
+            "importance": 6.0,
+            "occurrence": 2.95,
+            "display_priority": 2.65,
+            "confidence": 2.924
+          },
+          "source_tier": "trusted_research",
+          "source_names": [
+            "Hugging Face Trending Papers"
+          ],
+          "source_roles": [
+            "paper_trending"
+          ],
+          "source_types": [
+            "paper"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Reflect, Revise, Reuse: Training-Free Skill Evolution for GUI Agents",
+              "url": "https://huggingface.co/papers/2609.17653",
+              "source_name": "Hugging Face Trending Papers",
+              "published_at": "2026-09-15T00:00:00.000Z"
+            }
+          ],
+          "route": "/hot/2026-09-20/topic/reflect-revise-reuse-training-free-skill-evolution-for-gui-agents/"
+        }
+      ]
+    }
+  ],
+  "long_tail_sections": [
+    {
+      "category": "Industry Update",
+      "total_candidates": 6,
+      "topics": [
+        {
+          "topic_id": "85f9e7d23478",
+          "slug": "lawsuit-says-anthropic-openai-and-others-made-illegal-agreement-on-ai-slowdown",
+          "headline": "Lawsuit says Anthropic, OpenAI and others made illegal agreement on AI slowdown",
+          "category": "Industry Update",
+          "summary_short": "A lawsuit alleges that Anthropic, OpenAI, and other parties entered an illegal agreement to slow AI development. The supplied item does not identify the plaintiffs or detail the alleged agreement",
+          "why_it_matters": "This industry move surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.008,
+            "quality": 5.0,
+            "heat": 3.0,
+            "importance": 7.0,
+            "occurrence": 2.95,
+            "display_priority": 4.208,
+            "confidence": 3.962
+          },
+          "source_tier": "community",
+          "source_names": [
+            "Hacker News"
+          ],
+          "source_roles": [
+            "hn_discussion"
+          ],
+          "source_types": [
+            "discussion"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Lawsuit says Anthropic, OpenAI and others made illegal agreement on AI slowdown",
+              "url": "https://apnews.com/article/antitrust-lawsuit-ai-slowdown-anthropic-openai-spacexai-google-960af4308161eaf4ed13c383b0ce1c1b",
+              "source_name": "Hacker News",
+              "published_at": "2026-09-19T18:36:44Z"
+            }
+          ],
+          "route": "/hot/2026-09-20/topic/lawsuit-says-anthropic-openai-and-others-made-illegal-agreement-on-ai-slowdown/"
+        },
+        {
+          "topic_id": "800f5bf4ec4b",
+          "slug": "gemini-hacked-three-companies-in-first-known-breakout-by-google-s-ai",
+          "headline": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
+          "category": "Industry Update",
+          "summary_short": "",
+          "why_it_matters": "This other surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.005,
+            "quality": 5.0,
+            "heat": 3.0,
+            "importance": 8.0,
+            "occurrence": 2.95,
+            "display_priority": 4.206,
+            "confidence": 3.961
+          },
+          "source_tier": "trusted_analysis",
+          "source_names": [
+            "The Verge AI"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Gemini went rogue, hacked three companies, and Google hid it",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+              "source_name": "The Verge AI",
+              "published_at": "2026-09-19T11:25:03-04:00"
+            }
+          ],
+          "route": "/hot/2026-09-20/topic/gemini-hacked-three-companies-in-first-known-breakout-by-google-s-ai/"
+        },
+        {
+          "topic_id": "2d50f8c214dd",
+          "slug": "ai-safety-conversations-have-gotten-unbelievable",
+          "headline": "AI safety conversations have gotten unbelievable",
+          "category": "Industry Update",
+          "summary_short": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction",
+          "why_it_matters": "This other surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.0,
+            "quality": 4.0,
+            "heat": 3.0,
+            "importance": 5.0,
+            "occurrence": 2.95,
+            "display_priority": 4.204,
+            "confidence": 3.96
+          },
+          "source_tier": "trusted_analysis",
+          "source_names": [
+            "TechCrunch AI"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "AI safety conversations have gotten unbelievable",
+              "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable",
+              "source_name": "TechCrunch AI",
+              "published_at": "Sat, 19 Sep 2026 15:00:00 +0000"
+            }
+          ],
+          "route": "/hot/2026-09-20/topic/ai-safety-conversations-have-gotten-unbelievable/"
+        },
+        {
+          "topic_id": "d1ba313bf7f4",
+          "slug": "petlibro-s-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes",
+          "headline": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+          "category": "Industry Update",
+          "summary_short": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an extra subscription",
+          "why_it_matters": "This other surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.0,
+            "quality": 4.0,
+            "heat": 3.0,
+            "importance": 5.0,
+            "occurrence": 2.95,
+            "display_priority": 4.204,
+            "confidence": 3.96
+          },
+          "source_tier": "trusted_analysis",
+          "source_names": [
+            "TechCrunch AI"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+              "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes",
+              "source_name": "TechCrunch AI",
+              "published_at": "Sat, 19 Sep 2026 15:00:00 +0000"
+            }
+          ],
+          "route": "/hot/2026-09-20/topic/petlibro-s-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/"
+        },
+        {
+          "topic_id": "4098ca880d13",
+          "slug": "microsoft-director-ai-scraping-the-largest-theft-of-labor-in-human-history",
+          "headline": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
+          "category": "Industry Update",
+          "summary_short": "",
+          "why_it_matters": "This other surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 3.053,
+            "quality": 3.0,
+            "heat": 3.0,
+            "importance": 2.0,
+            "occurrence": 2.95,
+            "display_priority": 3.328,
+            "confidence": 3.376
+          },
+          "source_tier": "community",
+          "source_names": [
+            "Hacker News"
+          ],
+          "source_roles": [
+            "hn_discussion"
+          ],
+          "source_types": [
+            "discussion"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
+              "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+              "source_name": "Hacker News",
+              "published_at": "2026-09-19T18:21:30Z"
+            }
+          ],
+          "route": "/hot/2026-09-20/topic/microsoft-director-ai-scraping-the-largest-theft-of-labor-in-human-history/"
+        },
+        {
+          "topic_id": "0160a546a10b",
+          "slug": "meta-s-muse-is-creepy-but-maybe-not-for-the-reasons-you-think",
+          "headline": "Meta’s Muse is creepy, but maybe not for the reasons you think",
+          "category": "Industry Update",
+          "summary_short": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts, Muse doesn't actually know how to describe itself.",
+          "why_it_matters": "This opinion surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 2.5,
+            "quality": 2.0,
+            "heat": 3.0,
+            "importance": 5.0,
+            "occurrence": 2.95,
+            "display_priority": 3.079,
+            "confidence": 3.21
+          },
+          "source_tier": "trusted_analysis",
+          "source_names": [
+            "The Verge AI"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
+              "source_name": "The Verge AI",
+              "published_at": "2026-09-19T16:44:40-04:00"
+            }
+          ],
+          "route": "/hot/2026-09-20/topic/meta-s-muse-is-creepy-but-maybe-not-for-the-reasons-you-think/"
+        }
+      ]
+    }
+  ],
+  "watchlist": [],
+  "x_buzz": [
+    {
+      "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+      "summary": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+      "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
+      "source_id": "hn_discussion",
+      "source_name": "Hacker News",
+      "source_role": "hn_discussion",
+      "linked_topic": ""
+    },
+    {
+      "title": "Qwen released Qwen-Image-2.1-PE-T2I",
+      "summary": "Weights for Qwen/Qwen-Image-2.1-PE-T2I appeared on the hub. Pipeline tags: safetensors, qwen3_5, qwen, prompt-rewriting, text-to-image, license:other. 876 downloads, 35 likes at collection time.",
+      "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-PE-T2I",
+      "source_id": "hf_models_qwen",
+      "source_name": "Qwen on Hugging Face",
+      "source_role": "official_news",
+      "linked_topic": "Qwen released Qwen-Image-2.1"
+    },
+    {
+      "title": "Qwen released Qwen-Image-2.1-PE-I2I",
+      "summary": "Weights for Qwen/Qwen-Image-2.1-PE-I2I appeared on the hub. Pipeline tags: safetensors, qwen3_5, qwen, prompt-rewriting, image-editing, license:other. 4604 downloads, 36 likes at collection time.",
+      "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-PE-I2I",
+      "source_id": "hf_models_qwen",
+      "source_name": "Qwen on Hugging Face",
+      "source_role": "official_news",
+      "linked_topic": "Qwen released Qwen-Image-2.1"
+    },
+    {
+      "title": "DeepSeek Sharpens Its Reasoning: DeepSeek-R1, an affordable rival to OpenAI’s o1",
+      "summary": "",
+      "url": "https://www.deeplearning.ai/the-batch/deepseek-r1-an-affordable-rival-to-openais-o1",
+      "source_id": "the_batch",
+      "source_name": "The Batch",
+      "source_role": "editorial_depth",
+      "linked_topic": "DeepSeek Sharpens Its Reasoning: DeepSeek-R1, an affordable rival to OpenAI’s o1"
+    },
+    {
+      "title": "Introducing DeepLearning.AI Pro",
+      "summary": "",
+      "url": "https://www.deeplearning.ai/the-batch/introducing-deeplearning-ai-pro",
+      "source_id": "the_batch",
+      "source_name": "The Batch",
+      "source_role": "editorial_depth",
+      "linked_topic": "Introducing DeepLearning.AI Pro"
+    }
+  ],
+  "resurgence": []
+}

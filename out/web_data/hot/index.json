@@ -3,19 +3,163 @@
   "latest_date": "2026-09-21",
   "dates": [
     {
+      "date": "2026-09-15",
+      "month": "2026-09",
+      "year": "2026",
+      "summary": "• [Product Release] NVIDIA released c-foundationstereo-s — This product release surfaced across 1 independent source(s).\n• [Product Release] Production-Ready W4A8: vLLM Integration Explained | Cohere — This product release surfaced across 1 independent source(s).\n• [Product Release] Cohere Parse | Enterprise Intelligence at Scale — This product release surfaced across 1 independent source(s).",
+      "featured_topics": 3,
+      "source_items": 38,
+      "topic_summary": 1,
+      "source_section_counts": {
+        "official": 10,
+        "market-signals": 0,
+        "analysis": 8,
+        "papers": 8,
+        "github": 6,
+        "industry": 6
+      },
+      "route": "/hot/2026-09-15/",
+      "paper_routes": {
+        "home": "../../",
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    {
+      "date": "2026-09-16",
+      "month": "2026-09",
+      "year": "2026",
+      "summary": "• [Product Release] Tencent Hunyuan released Simple-Attention-Sparsification — This product release surfaced across 1 independent source(s).\n• [Industry Update] Cohere & Aleph Alpha : IA sous votre contrôle transatlantique | Cohere — This industry move surfaced across 1 independent source(s).\n• [Product Release] Mistral and Mozilla are bringing open, private and multilingual AI to your web browser — This product release surfaced across 1 independent source(s).",
+      "featured_topics": 3,
+      "source_items": 33,
+      "topic_summary": 1,
+      "source_section_counts": {
+        "official": 10,
+        "market-signals": 0,
+        "analysis": 8,
+        "papers": 3,
+        "github": 6,
+        "industry": 6
+      },
+      "route": "/hot/2026-09-16/",
+      "paper_routes": {
+        "home": "../../",
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    {
+      "date": "2026-09-17",
+      "month": "2026-09",
+      "year": "2026",
+      "summary": "• [Product Release] Evolution of LLMs: Omni-World Models — This product release surfaced across 1 independent source(s).\n• [Product Release] Introducing North Small Translate: A leading sovereign open-weight machine translation model — This product release surfaced across 1 independent source(s).\n• [Industry Update] Introducing the Life Sciences Verification Program — This industry move surfaced across 1 independent source(s).",
+      "featured_topics": 3,
+      "source_items": 35,
+      "topic_summary": 1,
+      "source_section_counts": {
+        "official": 10,
+        "market-signals": 0,
+        "analysis": 8,
+        "papers": 5,
+        "github": 6,
+        "industry": 6
+      },
+      "route": "/hot/2026-09-17/",
+      "paper_routes": {
+        "home": "../../",
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    {
+      "date": "2026-09-18",
+      "month": "2026-09",
+      "year": "2026",
+      "summary": "• [Product Release] How a global fintech scaled coding agent traffic with Dedicated Model Inference — This product release surfaced across 1 independent source(s).\n• [Industry Update] Partnering with Accenture on embedded evaluation — This industry move surfaced across 1 independent source(s).\n• [Tooling] Continuum-AI-Corp/OrcaBonsai-27B-Uncensored — This tooling surfaced across 1 independent source(s).",
+      "featured_topics": 3,
+      "source_items": 38,
+      "topic_summary": 2,
+      "source_section_counts": {
+        "official": 10,
+        "market-signals": 0,
+        "analysis": 8,
+        "papers": 8,
+        "github": 6,
+        "industry": 6
+      },
+      "route": "/hot/2026-09-18/",
+      "paper_routes": {
+        "home": "../../",
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    {
+      "date": "2026-09-19",
+      "month": "2026-09",
+      "year": "2026",
+      "summary": "• [Tooling] wuyoscar/jev-skill — This tooling surfaced across 1 independent source(s).\n• [Product Release] Introducing Kimi K3 on Amazon Bedrock — This product release surfaced across 1 independent source(s).\n• [Product Release] Introducing the Australian Youth Safety Blueprint — This product release surfaced across 1 independent source(s).",
+      "featured_topics": 3,
+      "source_items": 30,
+      "topic_summary": 2,
+      "source_section_counts": {
+        "official": 10,
+        "market-signals": 0,
+        "analysis": 8,
+        "papers": 0,
+        "github": 6,
+        "industry": 6
+      },
+      "route": "/hot/2026-09-19/",
+      "paper_routes": {
+        "home": "../../",
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    {
+      "date": "2026-09-20",
+      "month": "2026-09",
+      "year": "2026",
+      "summary": "• [Product Release] Qwen released Qwen-Image-2.1 — This product release surfaced across 1 independent source(s).\n• [Product Release] DeepSeek Sharpens Its Reasoning: DeepSeek-R1, an affordable rival to OpenAI’s o1 — This product release surfaced across 1 independent source(s).\n• [Product Release] Introducing DeepLearning.AI Pro — This product release surfaced across 1 independent source(s).",
+      "featured_topics": 3,
+      "source_items": 22,
+      "topic_summary": 0,
+      "source_section_counts": {
+        "official": 2,
+        "market-signals": 0,
+        "analysis": 8,
+        "papers": 0,
+        "github": 6,
+        "industry": 6
+      },
+      "route": "/hot/2026-09-20/",
+      "paper_routes": {
+        "home": "../../",
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    {
       "date": "2026-09-21",
       "month": "2026-09",
       "year": "2026",
-      "summary": "• [Product Release] Grok Bot for Enterprise — This product release surfaced across 1 independent source(s).\n• [Product Release] Biosecurity at the frontier — This product release surfaced across 1 independent source(s).\n• [Product Release] DeepSeek Sharpens Its Reasoning: DeepSeek-R1, an affordable rival to OpenAI’s o1 — This product release surfaced across 1 independent source(s).",
+      "summary": "• [Product Release] How V7 gives AI agents institutional memory — This product release surfaced across 1 independent source(s).\n• [Product Release] Building standards for the next phase of AI — This product release surfaced across 1 independent source(s).\n• [Industry Update] Amazon blocks Meta’s Muse AI agent — This other surfaced across 1 independent source(s).",
       "featured_topics": 3,
-      "source_items": 27,
+      "source_items": 31,
       "topic_summary": 0,
       "source_section_counts": {
         "official": 10,
         "market-signals": 1,
         "analysis": 8,
         "papers": 0,
-        "github": 2,
+        "github": 6,
         "industry": 6
       },
       "route": "/hot/2026-09-21/",
@@ -30,18 +174,18 @@
   "months": [
     {
       "month": "2026-09",
-      "days": 1,
-      "featured_topics": 3,
-      "source_items": 27,
+      "days": 7,
+      "featured_topics": 21,
+      "source_items": 227,
       "route": "/hot/2026-09/"
     }
   ],
   "years": [
     {
       "year": "2026",
-      "days": 1,
-      "featured_topics": 3,
-      "source_items": 27,
+      "days": 7,
+      "featured_topics": 21,
+      "source_items": 227,
       "route": "/hot/2026/"
     }
   ]
