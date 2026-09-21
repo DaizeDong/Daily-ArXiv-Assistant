@@ -33,7 +33,7 @@ done
 
 say() { printf '\n== %s\n' "$*"; }
 
-say "1/6 checking out $BRANCH into $TARGET"
+say "1/7 checking out $BRANCH into $TARGET"
 if [ -d "$TARGET/.git" ]; then
   git -C "$TARGET" fetch --quiet origin "$BRANCH"
   git -C "$TARGET" checkout --quiet "$BRANCH"
@@ -46,22 +46,7 @@ cd "$TARGET"
 STATE="$TARGET/deploy-state"
 mkdir -p "$STATE"
 
-say "2/6 what this host can do"
-PY0="$(command -v python3 || command -v python)"
-"$PY0" deploy/detect_target.py || {
-  echo "refusing to install: the blockers above have to be fixed first" >&2
-  exit 1
-}
-SCHEDULER="$("$PY0" -c "import json,subprocess,sys; print(json.loads(subprocess.run([sys.executable,'deploy/detect_target.py','--json'],capture_output=True,text=True).stdout)['scheduler'])")"
-BACKEND="$("$PY0" -c "import json,subprocess,sys; print(json.loads(subprocess.run([sys.executable,'deploy/detect_target.py','--json'],capture_output=True,text=True).stdout)['backend'])")"
-
-say "3/6 python environment"
-[ -d .venv ] || "$PY0" -m venv .venv
-PY="$TARGET/.venv/bin/python"
-"$PY" -m pip install --quiet --upgrade pip
-"$PY" -m pip install --quiet -r requirements.txt
-
-say "4/6 configuration"
+say "2/7 configuration"
 ENV_FILE="$STATE/hotspot.env"
 if [ -n "$ENV_SRC" ]; then
   # Copied, not symlinked: the source may live somewhere only this install can
@@ -75,14 +60,40 @@ else
   install -m 600 deploy/hotspot.env.example "$ENV_FILE"
   echo "env template written to $ENV_FILE -- fill it in before the first slot"
 fi
+# Sourced BEFORE detection, not after. Backend detection reads OPENAI_API_KEY
+# and OPENAI_BASE_URL from the environment, so detecting first would report
+# "no model transport" on a host whose credentials are sitting right there and
+# refuse an install that was going to work.
+set -a; . "$ENV_FILE"; set +a
+
+say "3/7 what this host can do"
+PY0="$(command -v python3 || command -v python)"
+"$PY0" deploy/detect_target.py || {
+  echo "refusing to install: the blockers above have to be fixed first" >&2
+  exit 1
+}
+SCHEDULER="$("$PY0" -c "import json,subprocess,sys; print(json.loads(subprocess.run([sys.executable,'deploy/detect_target.py','--json'],capture_output=True,text=True).stdout)['scheduler'])")"
+BACKEND="$("$PY0" -c "import json,subprocess,sys; print(json.loads(subprocess.run([sys.executable,'deploy/detect_target.py','--json'],capture_output=True,text=True).stdout)['backend'])")"
+
+say "4/7 pinning the backend"
 # The gateway's `auto` resolves to llmcall whenever the PACKAGE imports, and
 # llmcall then shells out to CLIs a bare host does not have. Pin what detection
 # actually found instead of letting auto guess wrong.
 grep -q '^ARXIV_ASSISTANT_LLM_BACKEND=' "$ENV_FILE" 2>/dev/null \
   || echo "ARXIV_ASSISTANT_LLM_BACKEND=$BACKEND" >> "$ENV_FILE"
-
-say "5/6 proving the model transport answers"
+# Re-sourced, because the line above was appended AFTER the file was read. Skip
+# this and the selftest runs on whatever `auto` resolves to rather than on the
+# backend this install just pinned, and passes or fails for the wrong reason.
 set -a; . "$ENV_FILE"; set +a
+echo "backend pinned: ${ARXIV_ASSISTANT_LLM_BACKEND:-unset}"
+
+say "5/7 python environment"
+[ -d .venv ] || "$PY0" -m venv .venv
+PY="$TARGET/.venv/bin/python"
+"$PY" -m pip install --quiet --upgrade pip
+"$PY" -m pip install --quiet -r requirements.txt
+
+say "6/7 proving the model transport answers"
 if ! "$PY" - <<'PY'
 import sys
 from arxiv_assistant.utils import llm_gateway
@@ -100,7 +111,7 @@ then
   exit 1
 fi
 
-say "6/6 scheduling ($SCHEDULER)"
+say "7/7 scheduling ($SCHEDULER)"
 chmod +x deploy/*.sh
 case "$SCHEDULER" in
   systemd)

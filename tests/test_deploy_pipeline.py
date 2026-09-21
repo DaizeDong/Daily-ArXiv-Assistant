@@ -153,6 +153,29 @@ class DeployScriptTests(unittest.TestCase):
         self.assertIn("exit 1", scheduling,
                       "a failed selftest does not stop the install")
 
+    def test_the_env_is_loaded_before_the_host_is_judged(self):
+        # Backend detection reads OPENAI_API_KEY and OPENAI_BASE_URL from the
+        # environment. Detecting first reports "no model transport" on a host
+        # whose credentials are sitting in the env file two lines away, and the
+        # installer then refuses an install that was going to work.
+        text = (DEPLOY / "install.sh").read_text(encoding="utf-8")
+        source_env = text.index('. "$ENV_FILE"')
+        detect = text.index("detect_target.py")
+        self.assertLess(source_env, detect,
+                        "the host is judged before its credentials are loaded")
+
+    def test_the_pinned_backend_reaches_the_selftest(self):
+        # The pin is APPENDED to the env file after it was sourced. Without a
+        # re-source the selftest runs on whatever `auto` resolves to, so it
+        # passes or fails for a different reason than the one being installed.
+        text = (DEPLOY / "install.sh").read_text(encoding="utf-8")
+        pin = text.index("ARXIV_ASSISTANT_LLM_BACKEND=$BACKEND")
+        selftest = text.index("llm_gateway.call")
+        between = text[pin:selftest]
+        self.assertIn('. "$ENV_FILE"', between,
+                      "the backend is pinned but never re-read, so the "
+                      "selftest does not exercise it")
+
     def test_run_once_records_evidence_even_when_it_fails(self):
         # A timer swallows exit codes and the supervisor outlives the run, so
         # artifacts are the only place a failure can be seen afterwards.
