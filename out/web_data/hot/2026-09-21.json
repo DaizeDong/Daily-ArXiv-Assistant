@@ -4,9 +4,9 @@
     "date": "2026-09-21",
     "month": "2026-09",
     "year": "2026",
-    "generated_at": "2026-09-21T01:32:09.150479+00:00",
+    "generated_at": "2026-09-21T19:55:07.556194+00:00",
     "mode": "openai",
-    "summary": "• [Product Release] DeepSeek Sharpens Its Reasoning: DeepSeek-R1, an affordable rival to OpenAI’s o1 — This product release surfaced across 1 independent source(s).\n• [Product Release] Introducing DeepLearning.AI Pro — This product release surfaced across 1 independent source(s).\n• [Product Release] 4 min read Claude gets 2 new features & a simpler platform — This product release surfaced across 1 independent source(s).",
+    "summary": "• [Product Release] Grok Bot for Enterprise — This product release surfaced across 1 independent source(s).\n• [Product Release] Biosecurity at the frontier — This product release surfaced across 1 independent source(s).\n• [Product Release] DeepSeek Sharpens Its Reasoning: DeepSeek-R1, an affordable rival to OpenAI’s o1 — This product release surfaced across 1 independent source(s).",
     "previous_date": null,
     "next_date": null,
     "paper_routes": {
@@ -18,22 +18,22 @@
     "counts": {
       "featured_topics": 3,
       "topic_summary": 0,
-      "category_radar": 14,
+      "category_radar": 16,
       "long_tail": 8,
       "paper_spotlight": 0,
       "x_buzz": 5,
       "watchlist": 1,
-      "source_items": 23,
+      "source_items": 27,
       "resurgence": 0
     }
   },
   "totals": {
-    "raw_items": 63,
+    "raw_items": 60,
     "enriched_items": 0,
     "stories": 0,
     "featured": 3,
     "watchlist": 1,
-    "category_topics": 14,
+    "category_topics": 16,
     "long_tail_topics": 8,
     "paper_spotlight_items": 6
   },
@@ -69,16 +69,16 @@
       "analysis_feeds": {
         "provider": "Analysis RSS feeds",
         "billing_model": "free",
-        "requests": 13,
-        "items": 16,
+        "requests": 14,
+        "items": 17,
         "estimated_cost": 0.0,
         "cache_hit": false
       },
       "github_trend": {
         "provider": "GitHub API",
         "billing_model": "free",
-        "requests": 2,
-        "items": 15,
+        "requests": 0,
+        "items": 0,
         "estimated_cost": 0.0,
         "cache_hit": false
       },
@@ -94,7 +94,7 @@
         "provider": "Hacker News API",
         "billing_model": "free",
         "requests": 6,
-        "items": 2,
+        "items": 5,
         "estimated_cost": 0.0,
         "cache_hit": false
       },
@@ -118,7 +118,7 @@
         "provider": "Official blogs",
         "billing_model": "free",
         "requests": 30,
-        "items": 21,
+        "items": 31,
         "estimated_cost": 0.0,
         "cache_hit": false
       },
@@ -156,45 +156,325 @@
       }
     },
     "summary": {
-      "external_requests": 82,
+      "external_requests": 81,
       "x_requests": 1,
       "estimated_external_cost": 0.0
     }
   },
   "source_stats": {
     "ainews": 0,
-    "analysis_feeds": 16,
-    "github_trend": 15,
+    "analysis_feeds": 17,
+    "github_trend": 0,
     "hf_papers": 12,
-    "hn_discussion": 2,
+    "hn_discussion": 5,
     "local_papers": 0,
     "model_hubs": 2,
-    "official_blogs": 21,
+    "official_blogs": 31,
     "reddit": 0,
     "roundup_sites": 15,
     "x_ainews_twitter": 0,
     "x_twitterapi": 0
   },
   "source_section_counts": {
-    "official": 3,
+    "official": 10,
     "market-signals": 1,
     "analysis": 8,
     "papers": 0,
-    "github": 6,
-    "industry": 5
+    "github": 2,
+    "industry": 6
   },
   "source_sections": [
     {
       "slug": "official",
       "label": "Official Updates",
       "description": "Product, research, and platform updates from official vendor or lab channels.",
-      "count": 3,
-      "section_score": 7.694,
+      "count": 10,
+      "section_score": 12.778,
       "items": [
+        {
+          "id": "xai_blog-ea6418c0c8d6",
+          "title": "Grok Bot now works with X",
+          "summary_short": "Grok Bot now has a tighter integration with X",
+          "url": "https://x.ai/news/grok-bot-and-x",
+          "canonical_url": "https://x.ai/news/grok-bot-and-x",
+          "source_id": "xai_blog",
+          "source_name": "xAI Blog",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "source_family": "official",
+          "published_at": "2026-09-21T00:00:00+00:00",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 7.275,
+          "topic_refs": [
+            {
+              "topic_id": "0257f1e36383",
+              "slug": "grok-bot-for-enterprise",
+              "headline": "Grok Bot for Enterprise",
+              "daily_route": "/hot/2026-09-21/topic/grok-bot-for-enterprise/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "xai_blog-f7e420ab15f7",
+          "title": "Grok Bot for Enterprise",
+          "summary_short": "Grok Bot is now available for enterprises. Grok and Cursor Enterprise customers have free usage for the next two weeks, and can invite their whole organization, including people without an existing seat",
+          "url": "https://x.ai/news/grok-bot-for-enterprise",
+          "canonical_url": "https://x.ai/news/grok-bot-for-enterprise",
+          "source_id": "xai_blog",
+          "source_name": "xAI Blog",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "source_family": "official",
+          "published_at": "2026-09-21T00:00:00+00:00",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 7.275,
+          "topic_refs": [
+            {
+              "topic_id": "0257f1e36383",
+              "slug": "grok-bot-for-enterprise",
+              "headline": "Grok Bot for Enterprise",
+              "daily_route": "/hot/2026-09-21/topic/grok-bot-for-enterprise/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "xai_blog-7b7f1282e8a8",
+          "title": "Biosecurity at the frontier",
+          "summary_short": "LatchBio evaluated Grok's performance on biosecurity monitoring and adversarial biological tasks. They found that Grok 4.6 detects and refuses dangerous queries more reliably than any other frontier system",
+          "url": "https://x.ai/news/biosafety-at-the-frontier",
+          "canonical_url": "https://x.ai/news/biosafety-at-the-frontier",
+          "source_id": "xai_blog",
+          "source_name": "xAI Blog",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "source_family": "official",
+          "published_at": "2026-09-21T00:00:00+00:00",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 7.176,
+          "topic_refs": [
+            {
+              "topic_id": "c3903197f7e9",
+              "slug": "biosecurity-at-the-frontier",
+              "headline": "Biosecurity at the frontier",
+              "daily_route": "/hot/2026-09-21/topic/biosecurity-at-the-frontier/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "xai_blog-7a7bb84cf160",
+          "title": "Introducing Grok Voice Transcribe 2.0",
+          "summary_short": "Sep 21, 2026",
+          "url": "https://x.ai/news/grok-voice-transcribe-2",
+          "canonical_url": "https://x.ai/news/grok-voice-transcribe-2",
+          "source_id": "xai_blog",
+          "source_name": "xAI Blog",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "source_family": "official",
+          "published_at": "2026-09-21T00:00:00+00:00",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 6.626,
+          "topic_refs": [
+            {
+              "topic_id": "17750383bcbd",
+              "slug": "introducing-grok-voice-transcribe-2-0",
+              "headline": "Introducing Grok Voice Transcribe 2.0",
+              "daily_route": "/hot/2026-09-21/topic/introducing-grok-voice-transcribe-2-0/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "xai_blog-2b3ec0461f94",
+          "title": "Designing Grok Bot for a world of persistent agents",
+          "summary_short": "Sep 21, 2026",
+          "url": "https://x.ai/news/designing-grok-bot",
+          "canonical_url": "https://x.ai/news/designing-grok-bot",
+          "source_id": "xai_blog",
+          "source_name": "xAI Blog",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "source_family": "official",
+          "published_at": "2026-09-21T00:00:00+00:00",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 6.155,
+          "topic_refs": [
+            {
+              "topic_id": "6de1edc87d66",
+              "slug": "designing-grok-bot-for-a-world-of-persistent-agents",
+              "headline": "Designing Grok Bot for a world of persistent agents",
+              "daily_route": "/hot/2026-09-21/topic/designing-grok-bot-for-a-world-of-persistent-agents/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "openai_news-530db518a73a",
+          "title": "Expanding OpenAI Academy with new learning paths",
+          "summary_short": "OpenAI expanded OpenAI Academy with new learning paths for employees, developers, leaders, educators, and students. The paths focus on building and demonstrating practical AI skills",
+          "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+          "canonical_url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+          "source_id": "openai_news",
+          "source_name": "OpenAI News",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "source_family": "official",
+          "published_at": "Mon, 21 Sep 2026 07:00:00 GMT",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 5.861,
+          "topic_refs": [
+            {
+              "topic_id": "48b17bbce560",
+              "slug": "expanding-openai-academy-with-new-learning-paths",
+              "headline": "Expanding OpenAI Academy with new learning paths",
+              "daily_route": "/hot/2026-09-21/topic/expanding-openai-academy-with-new-learning-paths/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "openai_news-d1749ba76a98",
+          "title": "How V7 gives AI agents institutional memory",
+          "summary_short": "V7 uses GPT-5.6 to turn scattered company files into context for AI agents. The workflow supports complex work linked to its underlying sources",
+          "url": "https://openai.com/index/v7",
+          "canonical_url": "https://openai.com/index/v7",
+          "source_id": "openai_news",
+          "source_name": "OpenAI News",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "source_family": "official",
+          "published_at": "Mon, 21 Sep 2026 00:00:00 GMT",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 5.606,
+          "topic_refs": [
+            {
+              "topic_id": "1888a47668e1",
+              "slug": "how-v7-gives-ai-agents-institutional-memory",
+              "headline": "How V7 gives AI agents institutional memory",
+              "daily_route": "/hot/2026-09-21/topic/how-v7-gives-ai-agents-institutional-memory/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "openai_news-2c9792fbb14a",
+          "title": "Building standards for the next phase of AI",
+          "summary_short": "OpenAI outlined a proposed path toward shared global AI standards. It calls for coordinated evaluation, reporting, and governance to improve safety",
+          "url": "https://openai.com/index/building-standards-next-phase-ai",
+          "canonical_url": "https://openai.com/index/building-standards-next-phase-ai",
+          "source_id": "openai_news",
+          "source_name": "OpenAI News",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "source_family": "official",
+          "published_at": "Mon, 21 Sep 2026 10:00:00 GMT",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 5.156,
+          "topic_refs": [
+            {
+              "topic_id": "71f3ea51af2a",
+              "slug": "building-standards-for-the-next-phase-of-ai",
+              "headline": "Building standards for the next phase of AI",
+              "daily_route": "/hot/2026-09-21/topic/building-standards-for-the-next-phase-of-ai/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
         {
           "id": "hf_models_qwen-c2fddc3352cf",
           "title": "Qwen released Qwen-Image-2.1-PE-T2I",
-          "summary_short": "Weights for Qwen/Qwen-Image-2.1-PE-T2I appeared on the hub. Pipeline tags: safetensors, qwen3_5, qwen, prompt-rewriting, text-to-image, license:other. 0 downloads, 18 likes at collection time",
+          "summary_short": "Qwen published weights for Qwen-Image-2.1-PE-I2I on Hugging Face, tagged for prompt rewriting and image editing. The listing had 4,604 downloads and 35 likes at collection time, with its license labeled as other",
           "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-PE-T2I",
           "canonical_url": "https://huggingface.co/Qwen/Qwen-Image-2.1-PE-T2I",
           "source_id": "hf_models_qwen",
@@ -220,13 +500,13 @@
             "upvotes": 0,
             "daily_score": 0
           },
-          "signal_score": 5.273,
+          "signal_score": 4.49,
           "topic_refs": [
             {
               "topic_id": "dbac3ae44b18",
-              "slug": "qwen-released-qwen-image-2-1-pe-t2i",
-              "headline": "Qwen released Qwen-Image-2.1-PE-T2I",
-              "daily_route": "/hot/2026-09-21/topic/qwen-released-qwen-image-2-1-pe-t2i/"
+              "slug": "qwen-released-qwen-image-2-1-pe-i2i",
+              "headline": "Qwen released Qwen-Image-2.1-PE-I2I",
+              "daily_route": "/hot/2026-09-21/topic/qwen-released-qwen-image-2-1-pe-i2i/"
             }
           ],
           "spotlight_kinds": [],
@@ -235,52 +515,17 @@
           "spotlight_comment": ""
         },
         {
-          "id": "huggingface_blog-3b7870e81bc9",
-          "title": "Your model already knows it's wrong. Asking costs 0.06 seconds and zero tokens.",
-          "summary_short": "Your model already knows it's wrong. Asking costs 0.06 seconds and zero tokens",
-          "url": "https://huggingface.co/blog/FINAL-Bench/ztc",
-          "canonical_url": "https://huggingface.co/blog/FINAL-Bench/ztc",
-          "source_id": "huggingface_blog",
-          "source_name": "Hugging Face Blog",
+          "id": "xai_blog-7b08ecf43270",
+          "title": "Setting Grok Bot loose on procurement",
+          "summary_short": "Sep 21, 2026",
+          "url": "https://x.ai/news/grok-bot-procurement",
+          "canonical_url": "https://x.ai/news/grok-bot-procurement",
+          "source_id": "xai_blog",
+          "source_name": "xAI Blog",
           "source_role": "official_news",
           "source_type": "official_blog",
           "source_family": "official",
-          "published_at": "2026-09-20T16:31:42+00:00",
-          "tags": [],
-          "authors": [],
-          "signals": {
-            "activity": 0,
-            "github_stars": 0,
-            "hn_score": 0,
-            "upvotes": 0,
-            "daily_score": 0
-          },
-          "signal_score": 5.105,
-          "topic_refs": [
-            {
-              "topic_id": "5268eb4dbe72",
-              "slug": "your-model-already-knows-it-s-wrong-asking-costs-0-06-seconds-and-zero-tokens",
-              "headline": "Your model already knows it's wrong. Asking costs 0.06 seconds and zero tokens.",
-              "daily_route": "/hot/2026-09-21/topic/your-model-already-knows-it-s-wrong-asking-costs-0-06-seconds-and-zero-tokens/"
-            }
-          ],
-          "spotlight_kinds": [],
-          "spotlight_primary_kind": "",
-          "spotlight_primary_label": "",
-          "spotlight_comment": ""
-        },
-        {
-          "id": "huggingface_blog-d8cbbb6b9ec9",
-          "title": "Inside the JEV Ecosystem: 13 Answer Verifiers on One Test Set",
-          "summary_short": "",
-          "url": "https://huggingface.co/blog/mayafree/jve-ecosystems",
-          "canonical_url": "https://huggingface.co/blog/mayafree/jve-ecosystems",
-          "source_id": "huggingface_blog",
-          "source_name": "Hugging Face Blog",
-          "source_role": "official_news",
-          "source_type": "official_blog",
-          "source_family": "official",
-          "published_at": "2026-09-20T08:25:17+00:00",
+          "published_at": "2026-09-21T00:00:00+00:00",
           "tags": [],
           "authors": [],
           "signals": {
@@ -304,7 +549,7 @@
       "label": "Market Signals",
       "description": "Funding rounds, acquisitions, valuations, and strategic moves in the AI industry.",
       "count": 1,
-      "section_score": 7.712,
+      "section_score": 6.843,
       "items": [
         {
           "id": "analysis_theverge_ai-d11b689309b4",
@@ -330,7 +575,7 @@
             "upvotes": 0,
             "daily_score": 0
           },
-          "signal_score": 4.607,
+          "signal_score": 3.738,
           "topic_refs": [
             {
               "topic_id": "0ffe4f29ca33",
@@ -351,12 +596,12 @@
       "label": "Expert Analysis",
       "description": "Long-form expert analysis and research explainers with substantive depth.",
       "count": 8,
-      "section_score": 11.29,
+      "section_score": 10.467,
       "items": [
         {
           "id": "the_batch-1d367656cf52",
           "title": "DeepSeek Sharpens Its Reasoning: DeepSeek-R1, an affordable rival to OpenAI’s o1",
-          "summary_short": "The item presents DeepSeek-R1 as a reasoning model and an affordable rival to OpenAI's o1. The supplied headline provides no pricing figures or benchmark results",
+          "summary_short": "The article presents DeepSeek-R1 as an affordable reasoning-model rival to OpenAI's o1. The supplied headline provides no benchmark results or pricing details",
           "url": "https://www.deeplearning.ai/the-batch/deepseek-r1-an-affordable-rival-to-openais-o1",
           "canonical_url": "https://www.deeplearning.ai/the-batch/deepseek-r1-an-affordable-rival-to-openais-o1",
           "source_id": "the_batch",
@@ -374,7 +619,7 @@
             "upvotes": 0,
             "daily_score": 0
           },
-          "signal_score": 6.886,
+          "signal_score": 6.824,
           "topic_refs": [
             {
               "topic_id": "9c79472c8a5e",
@@ -409,7 +654,7 @@
             "upvotes": 0,
             "daily_score": 0
           },
-          "signal_score": 6.879,
+          "signal_score": 5.202,
           "topic_refs": [
             {
               "topic_id": "0acfbc9c60ba",
@@ -424,11 +669,49 @@
           "spotlight_comment": ""
         },
         {
-          "id": "import_ai-573903a016f8",
-          "title": "A nightwatchman on every probe: Superintelligent surveillance to prevent galactic anarchy (Forethought)",
-          "summary_short": "A nightwatchman on every probe: Superintelligent surveillance to prevent galactic anarchy (Forethought",
-          "url": "https://www.forethought.org/research/nightwatchmen",
-          "canonical_url": "https://www.forethought.org/research/nightwatchmen",
+          "id": "analysis_qbitai-513a5289cc93",
+          "title": "GPT-6 Astra开进机器人身体！清华联手无问芯穹等开源RPent",
+          "summary_short": "The headline reports that Tsinghua University, Infinigence AI, and collaborators open-sourced RPent, connecting the project to GPT-6 Astra in robotics. The summary describes embodied agents that perform tasks in the physical world",
+          "url": "https://www.qbitai.com/2026/09/493218.html",
+          "canonical_url": "https://www.qbitai.com/2026/09/493218.html",
+          "source_id": "analysis_qbitai",
+          "source_name": "量子位 (QbitAI)",
+          "source_role": "editorial_depth",
+          "source_type": "blog_analysis",
+          "source_family": "analysis",
+          "published_at": "Mon, 21 Sep 2026 06:22:37 +0000",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 5.046,
+          "topic_refs": [
+            {
+              "topic_id": "f80213128774",
+              "slug": "gpt-6-astra-rpent",
+              "headline": "GPT-6 Astra开进机器人身体！清华联手无问芯穹等开源RPent",
+              "daily_route": "/hot/2026-09-21/topic/gpt-6-astra-rpent/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "import_ai-ecdf599aa65f",
+          "title": "Developmental xenocortication using human-derived organoids in mice (Nature)",
+          "summary_short": "A Nature paper examines developmental xenocortication using human-derived organoids in mice. The supplied item does not describe the study's methods or findings",
+          "url": "https://www.nature.com/articles/s41586-026-11032-2",
+          "canonical_url": "https://www.nature.com/articles/s41586-026-11032-2",
           "source_id": "import_ai",
           "source_name": "Import AI",
           "source_role": "editorial_depth",
@@ -444,13 +727,13 @@
             "upvotes": 0,
             "daily_score": 0
           },
-          "signal_score": 5.963,
+          "signal_score": 5.036,
           "topic_refs": [
             {
-              "topic_id": "e8820337c79d",
-              "slug": "a-nightwatchman-on-every-probe-superintelligent-surveillance-to-prevent-galactic-anarchy-forethought",
-              "headline": "A nightwatchman on every probe: Superintelligent surveillance to prevent galactic anarchy (Forethought)",
-              "daily_route": "/hot/2026-09-21/topic/a-nightwatchman-on-every-probe-superintelligent-surveillance-to-prevent-galactic-anarchy-forethought/"
+              "topic_id": "71c1c36285a2",
+              "slug": "developmental-xenocortication-using-human-derived-organoids-in-mice-nature",
+              "headline": "Developmental xenocortication using human-derived organoids in mice (Nature)",
+              "daily_route": "/hot/2026-09-21/topic/developmental-xenocortication-using-human-derived-organoids-in-mice-nature/"
             }
           ],
           "spotlight_kinds": [],
@@ -459,18 +742,21 @@
           "spotlight_comment": ""
         },
         {
-          "id": "import_ai-4ae43d2c2165",
-          "title": "What 56,000 Americans told us about AI policy (Center for Shared AI Prosperity)",
-          "summary_short": "What 56,000 Americans told us about AI policy (Center for Shared AI Prosperity",
-          "url": "https://blog.csaip.org/p/what-56000-americans-told-us-about",
-          "canonical_url": "https://blog.csaip.org/p/what-56000-americans-told-us-about",
-          "source_id": "import_ai",
-          "source_name": "Import AI",
+          "id": "analysis_theverge_ai-fbef9683fbad",
+          "title": "Amazon blocks Meta’s Muse AI agent",
+          "summary_short": "Amazon has blocked Meta's Muse AI agent from shopping on behalf of users, according to reporting cited by The Verge. Muse users began seeing a popup about the access restriction on Sunday",
+          "url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
+          "canonical_url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
+          "source_id": "analysis_theverge_ai",
+          "source_name": "The Verge AI",
           "source_role": "editorial_depth",
-          "source_type": "roundup",
+          "source_type": "blog_analysis",
           "source_family": "analysis",
-          "published_at": "2026-09-21T00:00:00-04:00",
-          "tags": [],
+          "published_at": "2026-09-21T05:21:47-04:00",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
           "authors": [],
           "signals": {
             "activity": 0,
@@ -479,13 +765,13 @@
             "upvotes": 0,
             "daily_score": 0
           },
-          "signal_score": 5.671,
+          "signal_score": 4.972,
           "topic_refs": [
             {
-              "topic_id": "8171c7cce256",
-              "slug": "what-56-000-americans-told-us-about-ai-policy-center-for-shared-ai-prosperity",
-              "headline": "What 56,000 Americans told us about AI policy (Center for Shared AI Prosperity)",
-              "daily_route": "/hot/2026-09-21/topic/what-56-000-americans-told-us-about-ai-policy-center-for-shared-ai-prosperity/"
+              "topic_id": "ad8c31804e9b",
+              "slug": "amazon-blocks-meta-s-muse-ai-agent",
+              "headline": "Amazon blocks Meta’s Muse AI agent",
+              "daily_route": "/hot/2026-09-21/topic/amazon-blocks-meta-s-muse-ai-agent/"
             }
           ],
           "spotlight_kinds": [],
@@ -494,18 +780,21 @@
           "spotlight_comment": ""
         },
         {
-          "id": "the_batch-84f28691c8e7",
-          "title": "Inside Key Changes in Data Policies, Ox Alpha Revealed, Taking Custom Models Beyond Fine-Tuning",
-          "summary_short": "The Batch News & Insights: A key AI engineering skill is using coding agents",
-          "url": "https://www.deeplearning.ai/the-batch/tag/sep-04-2026",
-          "canonical_url": "https://www.deeplearning.ai/the-batch/tag/sep-04-2026",
-          "source_id": "the_batch",
-          "source_name": "The Batch",
+          "id": "analysis_qbitai-11af1577cafb",
+          "title": "啊啊啊GPT-6 Astra这么不安全！这次马斯克都瘫坐了",
+          "summary_short": "97%尝试危险行为",
+          "url": "https://www.qbitai.com/2026/09/493241.html",
+          "canonical_url": "https://www.qbitai.com/2026/09/493241.html",
+          "source_id": "analysis_qbitai",
+          "source_name": "量子位 (QbitAI)",
           "source_role": "editorial_depth",
-          "source_type": "roundup",
+          "source_type": "blog_analysis",
           "source_family": "analysis",
-          "published_at": "2026-09-21T00:00:00-04:00",
-          "tags": [],
+          "published_at": "Mon, 21 Sep 2026 08:21:55 +0000",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
           "authors": [],
           "signals": {
             "activity": 0,
@@ -514,13 +803,13 @@
             "upvotes": 0,
             "daily_score": 0
           },
-          "signal_score": 5.311,
+          "signal_score": 4.804,
           "topic_refs": [
             {
-              "topic_id": "93178b2e8d0e",
-              "slug": "inside-key-changes-in-data-policies-ox-alpha-revealed-taking-custom-models-beyond-fine-tuning",
-              "headline": "Inside Key Changes in Data Policies, Ox Alpha Revealed, Taking Custom Models Beyond Fine-Tuning",
-              "daily_route": "/hot/2026-09-21/topic/inside-key-changes-in-data-policies-ox-alpha-revealed-taking-custom-models-beyond-fine-tuning/"
+              "topic_id": "0f7844c0e6a2",
+              "slug": "gpt-6-astra",
+              "headline": "啊啊啊GPT-6 Astra这么不安全！这次马斯克都瘫坐了",
+              "daily_route": "/hot/2026-09-21/topic/gpt-6-astra/"
             }
           ],
           "spotlight_kinds": [],
@@ -529,18 +818,21 @@
           "spotlight_comment": ""
         },
         {
-          "id": "import_ai-7ac3c7a13651",
-          "title": "Import AI 471: Why Hugging Face worries me; space mining; FIve Eyes on AI",
-          "summary_short": "",
-          "url": "https://jack-clark.net/2026/08/31/import-ai-471-why-hugging-face-worries-me-space-mining-five-eyes-on-ai",
-          "canonical_url": "https://jack-clark.net/2026/08/31/import-ai-471-why-hugging-face-worries-me-space-mining-five-eyes-on-ai",
-          "source_id": "import_ai",
-          "source_name": "Import AI",
+          "id": "analysis_qbitai-3f556e89de88",
+          "title": "长三角安全人工智能安徽省实验室发布星界、星驭、星鉴三大AI安全解决方案",
+          "summary_short": "9月19日，第一届中国网络空间安全大会（CCSC 2026）的高水平专题论坛在安徽合肥正式举办。",
+          "url": "https://www.qbitai.com/2026/09/493235.html",
+          "canonical_url": "https://www.qbitai.com/2026/09/493235.html",
+          "source_id": "analysis_qbitai",
+          "source_name": "量子位 (QbitAI)",
           "source_role": "editorial_depth",
-          "source_type": "roundup",
+          "source_type": "blog_analysis",
           "source_family": "analysis",
-          "published_at": "2026-09-21T00:00:00-04:00",
-          "tags": [],
+          "published_at": "Mon, 21 Sep 2026 07:52:46 +0000",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
           "authors": [],
           "signals": {
             "activity": 0,
@@ -549,13 +841,13 @@
             "upvotes": 0,
             "daily_score": 0
           },
-          "signal_score": 5.311,
+          "signal_score": 4.804,
           "topic_refs": [
             {
-              "topic_id": "37e8f1d2eec4",
-              "slug": "import-ai-471-why-hugging-face-worries-me-space-mining-five-eyes-on-ai",
-              "headline": "Import AI 471: Why Hugging Face worries me; space mining; FIve Eyes on AI",
-              "daily_route": "/hot/2026-09-21/topic/import-ai-471-why-hugging-face-worries-me-space-mining-five-eyes-on-ai/"
+              "topic_id": "baafbb0770d3",
+              "slug": "ai",
+              "headline": "长三角安全人工智能安徽省实验室发布星界、星驭、星鉴三大AI安全解决方案",
+              "daily_route": "/hot/2026-09-21/topic/ai/"
             }
           ],
           "spotlight_kinds": [],
@@ -564,53 +856,21 @@
           "spotlight_comment": ""
         },
         {
-          "id": "import_ai-df15784065a9",
-          "title": "Discovery of a new OpenAI agent message board (Collusion Wiki)",
-          "summary_short": "Discovery of a new OpenAI agent message board (Collusion Wiki",
-          "url": "https://collusion.wiki",
-          "canonical_url": "https://collusion.wiki",
-          "source_id": "import_ai",
-          "source_name": "Import AI",
+          "id": "analysis_qbitai-05d9cfdcec07",
+          "title": "国产数据库跑出AI新能力！OceanBase登顶国际Data Agent榜单",
+          "summary_short": "OceanBase团队提交的Data Agent方案登顶国际数据智能体基准Data Agent Benchmark",
+          "url": "https://www.qbitai.com/2026/09/493231.html",
+          "canonical_url": "https://www.qbitai.com/2026/09/493231.html",
+          "source_id": "analysis_qbitai",
+          "source_name": "量子位 (QbitAI)",
           "source_role": "editorial_depth",
-          "source_type": "roundup",
+          "source_type": "blog_analysis",
           "source_family": "analysis",
-          "published_at": "2026-09-21T00:00:00-04:00",
-          "tags": [],
-          "authors": [],
-          "signals": {
-            "activity": 0,
-            "github_stars": 0,
-            "hn_score": 0,
-            "upvotes": 0,
-            "daily_score": 0
-          },
-          "signal_score": 5.311,
-          "topic_refs": [
-            {
-              "topic_id": "1edb8587f209",
-              "slug": "discovery-of-a-new-openai-agent-message-board-collusion-wiki",
-              "headline": "Discovery of a new OpenAI agent message board (Collusion Wiki)",
-              "daily_route": "/hot/2026-09-21/topic/discovery-of-a-new-openai-agent-message-board-collusion-wiki/"
-            }
+          "published_at": "Mon, 21 Sep 2026 07:31:26 +0000",
+          "tags": [
+            "analysis",
+            "deep-read"
           ],
-          "spotlight_kinds": [],
-          "spotlight_primary_kind": "",
-          "spotlight_primary_label": "",
-          "spotlight_comment": ""
-        },
-        {
-          "id": "the_batch-5ba3a106203f",
-          "title": "OpenAI and Anthropic fight it out for the top overall spot, while Google, Meta, and Microsoft all release transcription models",
-          "summary_short": "The roundup covers competition between OpenAI and Anthropic and transcription model releases from Google, Meta, and Microsoft. Its editorial excerpt encourages AI engineers to actively shape products rather than merely implement specifications",
-          "url": "https://www.deeplearning.ai/the-batch/tag/sep-11-2026",
-          "canonical_url": "https://www.deeplearning.ai/the-batch/tag/sep-11-2026",
-          "source_id": "the_batch",
-          "source_name": "The Batch",
-          "source_role": "editorial_depth",
-          "source_type": "roundup",
-          "source_family": "analysis",
-          "published_at": "2026-09-21T00:00:00-04:00",
-          "tags": [],
           "authors": [],
           "signals": {
             "activity": 0,
@@ -619,13 +879,13 @@
             "upvotes": 0,
             "daily_score": 0
           },
-          "signal_score": 4.723,
+          "signal_score": 4.804,
           "topic_refs": [
             {
-              "topic_id": "5bf2cfb67b6b",
-              "slug": "openai-and-anthropic-fight-it-out-for-the-top-overall-spot-while-google-meta-and-microsoft-all-release-transcription-models",
-              "headline": "OpenAI and Anthropic fight it out for the top overall spot, while Google, Meta, and Microsoft all release transcription models",
-              "daily_route": "/hot/2026-09-21/topic/openai-and-anthropic-fight-it-out-for-the-top-overall-spot-while-google-meta-and-microsoft-all-release-transcription-models/"
+              "topic_id": "dcec2cbafd31",
+              "slug": "ai-oceanbase-data-agent",
+              "headline": "国产数据库跑出AI新能力！OceanBase登顶国际Data Agent榜单",
+              "daily_route": "/hot/2026-09-21/topic/ai-oceanbase-data-agent/"
             }
           ],
           "spotlight_kinds": [],
@@ -647,189 +907,78 @@
       "slug": "github",
       "label": "GitHub / Tools",
       "description": "Repositories, tooling launches, and builder momentum around practical AI systems.",
-      "count": 6,
-      "section_score": 4.505,
+      "count": 2,
+      "section_score": 8.686,
       "items": [
         {
-          "id": "github_trend-11c0e859fa41",
-          "title": "zai-org/ZCode",
-          "summary_short": "Z.ai's coding agent harness. Powerful, intelligent, extensible",
-          "url": "https://github.com/zai-org/ZCode",
-          "canonical_url": "https://github.com/zai-org/ZCode",
-          "source_id": "github_trend",
-          "source_name": "GitHub Trending Repos",
-          "source_role": "github_trend",
-          "source_type": "repository",
+          "id": "hn_discussion-08be31d1d2d2",
+          "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
+          "summary_short": "A Show HN post introduces Mini-AGI as a dynamic continual-learning model. The title states that it was trained using 8GB of VRAM",
+          "url": "https://github.com/volotat/mini-AGI",
+          "canonical_url": "https://github.com/volotat/mini-AGI",
+          "source_id": "hn_discussion",
+          "source_name": "Hacker News",
+          "source_role": "hn_discussion",
+          "source_type": "discussion",
           "source_family": "github",
-          "published_at": "2026-09-20T12:01:16Z",
+          "published_at": "2026-09-21T04:42:37Z",
           "tags": [],
           "authors": [
-            "zai-org"
+            "volotat"
           ],
           "signals": {
             "activity": 0,
-            "github_stars": 519,
-            "hn_score": 0,
+            "github_stars": 0,
+            "hn_score": 235,
             "upvotes": 0,
             "daily_score": 0
           },
-          "signal_score": 1.988,
-          "topic_refs": [],
+          "signal_score": 6.105,
+          "topic_refs": [
+            {
+              "topic_id": "89fe08604a43",
+              "slug": "show-hn-mini-agi-dynamic-continual-learning-model-trained-on-8gb-vram",
+              "headline": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
+              "daily_route": "/hot/2026-09-21/topic/show-hn-mini-agi-dynamic-continual-learning-model-trained-on-8gb-vram/"
+            }
+          ],
           "spotlight_kinds": [],
           "spotlight_primary_kind": "",
           "spotlight_primary_label": "",
           "spotlight_comment": ""
         },
         {
-          "id": "github_trend-639d4b24f18d",
-          "title": "Continuum-AI-Corp/OrcaBonsai-27B-Uncensored",
-          "summary_short": "Runtime behavioral ablation for compressed LLMs. First target: Ternary Bonsai 2 27B — no weight modification or re-quantization. by OrcaRouter team",
-          "url": "https://github.com/Continuum-AI-Corp/OrcaBonsai-27B-Uncensored",
-          "canonical_url": "https://github.com/Continuum-AI-Corp/OrcaBonsai-27B-Uncensored",
-          "source_id": "github_trend",
-          "source_name": "GitHub Trending Repos",
-          "source_role": "github_trend",
-          "source_type": "repository",
+          "id": "hn_discussion-513f706570e2",
+          "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+          "summary_short": "Kev is presented as a tiny family of decision models built on Qwen3.5. The listing describes the family as Jev-like but provides no performance or deployment details",
+          "url": "https://github.com/jaredpalmer/kev/tree/main",
+          "canonical_url": "https://github.com/jaredpalmer/kev/tree/main",
+          "source_id": "hn_discussion",
+          "source_name": "Hacker News",
+          "source_role": "hn_discussion",
+          "source_type": "discussion",
           "source_family": "github",
-          "published_at": "2026-09-18T06:45:54Z",
+          "published_at": "2026-09-21T07:11:55Z",
           "tags": [],
           "authors": [
-            "Continuum-AI-Corp"
+            "tosh"
           ],
           "signals": {
             "activity": 0,
-            "github_stars": 502,
-            "hn_score": 0,
+            "github_stars": 0,
+            "hn_score": 338,
             "upvotes": 0,
             "daily_score": 0
           },
-          "signal_score": 1.954,
-          "topic_refs": [],
-          "spotlight_kinds": [],
-          "spotlight_primary_kind": "",
-          "spotlight_primary_label": "",
-          "spotlight_comment": ""
-        },
-        {
-          "id": "github_trend-6fdf4b6416f0",
-          "title": "fhshaik/typesafe-mario",
-          "summary_short": "A TypeSafe/Jev agent that plays Super Mario Bros. from structured emulator state",
-          "url": "https://github.com/fhshaik/typesafe-mario",
-          "canonical_url": "https://github.com/fhshaik/typesafe-mario",
-          "source_id": "github_trend",
-          "source_name": "GitHub Trending Repos",
-          "source_role": "github_trend",
-          "source_type": "repository",
-          "source_family": "github",
-          "published_at": "2026-09-16T04:57:42Z",
-          "tags": [],
-          "authors": [
-            "fhshaik"
+          "signal_score": 6.046,
+          "topic_refs": [
+            {
+              "topic_id": "8afdb6d28688",
+              "slug": "kev-tiny-jev-like-family-of-decision-models-built-on-top-of-qwen3-5",
+              "headline": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+              "daily_route": "/hot/2026-09-21/topic/kev-tiny-jev-like-family-of-decision-models-built-on-top-of-qwen3-5/"
+            }
           ],
-          "signals": {
-            "activity": 0,
-            "github_stars": 298,
-            "hn_score": 0,
-            "upvotes": 0,
-            "daily_score": 0
-          },
-          "signal_score": 1.546,
-          "topic_refs": [],
-          "spotlight_kinds": [],
-          "spotlight_primary_kind": "",
-          "spotlight_primary_label": "",
-          "spotlight_comment": ""
-        },
-        {
-          "id": "github_trend-acd51b3064a0",
-          "title": "rmalde/minecraft-agent",
-          "summary_short": "Astra planner and JEV controller for Minecraft, with native recording, tested routes, and run verification",
-          "url": "https://github.com/rmalde/minecraft-agent",
-          "canonical_url": "https://github.com/rmalde/minecraft-agent",
-          "source_id": "github_trend",
-          "source_name": "GitHub Trending Repos",
-          "source_role": "github_trend",
-          "source_type": "repository",
-          "source_family": "github",
-          "published_at": "2026-09-20T05:05:12Z",
-          "tags": [],
-          "authors": [
-            "rmalde"
-          ],
-          "signals": {
-            "activity": 0,
-            "github_stars": 292,
-            "hn_score": 0,
-            "upvotes": 0,
-            "daily_score": 0
-          },
-          "signal_score": 1.534,
-          "topic_refs": [],
-          "spotlight_kinds": [],
-          "spotlight_primary_kind": "",
-          "spotlight_primary_label": "",
-          "spotlight_comment": ""
-        },
-        {
-          "id": "github_trend-1e4051b18224",
-          "title": "kerpopule/hermes-jev-skills",
-          "summary_short": "Jev-powered model routing, memory, compaction, skill selection, computer and browser use for Hermes agents (also Claude Code and Codex",
-          "url": "https://github.com/kerpopule/hermes-jev-skills",
-          "canonical_url": "https://github.com/kerpopule/hermes-jev-skills",
-          "source_id": "github_trend",
-          "source_name": "GitHub Trending Repos",
-          "source_role": "github_trend",
-          "source_type": "repository",
-          "source_family": "github",
-          "published_at": "2026-09-18T20:01:29Z",
-          "tags": [],
-          "authors": [
-            "kerpopule"
-          ],
-          "signals": {
-            "activity": 0,
-            "github_stars": 267,
-            "hn_score": 0,
-            "upvotes": 0,
-            "daily_score": 0
-          },
-          "signal_score": 1.484,
-          "topic_refs": [],
-          "spotlight_kinds": [],
-          "spotlight_primary_kind": "",
-          "spotlight_primary_label": "",
-          "spotlight_comment": ""
-        },
-        {
-          "id": "github_trend-d6217d1f332f",
-          "title": "ekzhang/openjev-sglang",
-          "summary_short": "Jev-compatible API endpoint based on open models (prefill-only",
-          "url": "https://github.com/ekzhang/openjev-sglang",
-          "canonical_url": "https://github.com/ekzhang/openjev-sglang",
-          "source_id": "github_trend",
-          "source_name": "GitHub Trending Repos",
-          "source_role": "github_trend",
-          "source_type": "repository",
-          "source_family": "github",
-          "published_at": "2026-09-17T18:11:49Z",
-          "tags": [
-            "jev",
-            "llm",
-            "structured-generation",
-            "systemone"
-          ],
-          "authors": [
-            "ekzhang"
-          ],
-          "signals": {
-            "activity": 0,
-            "github_stars": 229,
-            "hn_score": 0,
-            "upvotes": 0,
-            "daily_score": 0
-          },
-          "signal_score": 1.408,
-          "topic_refs": [],
           "spotlight_kinds": [],
           "spotlight_primary_kind": "",
           "spotlight_primary_label": "",
@@ -841,13 +990,13 @@
       "slug": "industry",
       "label": "Industry News",
       "description": "Curated industry coverage from newsletters, blogs, and community sources with substance.",
-      "count": 5,
-      "section_score": 6.666,
+      "count": 6,
+      "section_score": 6.325,
       "items": [
         {
           "id": "superhuman_ai-8b588b3d0a0e",
           "title": "4 min read Claude gets 2 new features & a simpler platform",
-          "summary_short": "Claude is reported to have received two new features and a simplified platform. The supplied headline does not specify the features or platform changes",
+          "summary_short": "The headline reports two new Claude features and a simplified platform. The supplied text does not identify the features or explain the platform changes",
           "url": "https://www.superhuman.ai/p/claude-gets-2-new-features-a-simpler-platform",
           "canonical_url": "https://www.superhuman.ai/p/claude-gets-2-new-features-a-simpler-platform",
           "source_id": "superhuman_ai",
@@ -865,7 +1014,7 @@
             "upvotes": 0,
             "daily_score": 0
           },
-          "signal_score": 5.972,
+          "signal_score": 4.137,
           "topic_refs": [
             {
               "topic_id": "a70910953bf0",
@@ -880,9 +1029,44 @@
           "spotlight_comment": ""
         },
         {
+          "id": "the_neuron-48ed1d619d75",
+          "title": "Gemini broke into 3 real companies during a safety test",
+          "summary_short": "The headline reports that Gemini breached three real companies during a safety test. The supplied text does not describe the authorization, methods, or extent of access",
+          "url": "https://www.theneurondaily.com/p/gemini-broke-into-3-real-companies-during-a-safety-test",
+          "canonical_url": "https://www.theneurondaily.com/p/gemini-broke-into-3-real-companies-during-a-safety-test",
+          "source_id": "the_neuron",
+          "source_name": "The Neuron",
+          "source_role": "headline_consensus",
+          "source_type": "roundup",
+          "source_family": "industry",
+          "published_at": "2026-09-21T09:45:00+00:00",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 3.885,
+          "topic_refs": [
+            {
+              "topic_id": "e2841eaa0500",
+              "slug": "gemini-broke-into-3-real-companies-during-a-safety-test",
+              "headline": "Gemini broke into 3 real companies during a safety test",
+              "daily_route": "/hot/2026-09-21/topic/gemini-broke-into-3-real-companies-during-a-safety-test/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
           "id": "superhuman_ai-61bfe0429f61",
           "title": "4 min read OpenAI incident report or science fiction?",
-          "summary_short": "",
+          "summary_short": "Superhuman AI lists an item titled OpenAI incident report or science fiction? The supplied text does not establish whether a real incident occurred or identify its details",
           "url": "https://www.superhuman.ai/p/openai-incident-report-or-science-fiction",
           "canonical_url": "https://www.superhuman.ai/p/openai-incident-report-or-science-fiction",
           "source_id": "superhuman_ai",
@@ -900,48 +1084,13 @@
             "upvotes": 0,
             "daily_score": 0
           },
-          "signal_score": 3.978,
+          "signal_score": 3.767,
           "topic_refs": [
             {
               "topic_id": "090b3407c648",
               "slug": "4-min-read-openai-incident-report-or-science-fiction",
               "headline": "4 min read OpenAI incident report or science fiction?",
               "daily_route": "/hot/2026-09-21/topic/4-min-read-openai-incident-report-or-science-fiction/"
-            }
-          ],
-          "spotlight_kinds": [],
-          "spotlight_primary_kind": "",
-          "spotlight_primary_label": "",
-          "spotlight_comment": ""
-        },
-        {
-          "id": "the_neuron-488b0e27a18b",
-          "title": "ChatGPT co-creator’s new AI model",
-          "summary_short": "The headline reports a new AI model from a co-creator of ChatGPT. The supplied text does not identify the person or model",
-          "url": "https://www.theneurondaily.com/p/chatgpt-co-creator-s-new-ai-model",
-          "canonical_url": "https://www.theneurondaily.com/p/chatgpt-co-creator-s-new-ai-model",
-          "source_id": "the_neuron",
-          "source_name": "The Neuron",
-          "source_role": "headline_consensus",
-          "source_type": "roundup",
-          "source_family": "industry",
-          "published_at": "2026-09-20T17:30:00+00:00",
-          "tags": [],
-          "authors": [],
-          "signals": {
-            "activity": 0,
-            "github_stars": 0,
-            "hn_score": 0,
-            "upvotes": 0,
-            "daily_score": 0
-          },
-          "signal_score": 3.704,
-          "topic_refs": [
-            {
-              "topic_id": "8f281a4f3d67",
-              "slug": "chatgpt-co-creator-s-new-ai-model",
-              "headline": "ChatGPT co-creator’s new AI model",
-              "daily_route": "/hot/2026-09-21/topic/chatgpt-co-creator-s-new-ai-model/"
             }
           ],
           "spotlight_kinds": [],
@@ -968,7 +1117,7 @@
           "signals": {
             "activity": 0,
             "github_stars": 0,
-            "hn_score": 435,
+            "hn_score": 545,
             "upvotes": 0,
             "daily_score": 0
           },
@@ -998,11 +1147,41 @@
           "signals": {
             "activity": 0,
             "github_stars": 0,
-            "hn_score": 160,
+            "hn_score": 219,
             "upvotes": 0,
             "daily_score": 0
           },
           "signal_score": 2.35,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "hn_discussion-ec756a609f4b",
+          "title": "Can I Let My AI Agent Run on Shabbat?",
+          "summary_short": "",
+          "url": "https://www.chabad.org/library/article_cdo/aid/7288064/jewish/Can-I-Let-My-AI-Agent-Run-on-Shabbat.htm",
+          "canonical_url": "https://www.chabad.org/library/article_cdo/aid/7288064/jewish/Can-I-Let-My-AI-Agent-Run-on-Shabbat.htm",
+          "source_id": "hn_discussion",
+          "source_name": "Hacker News",
+          "source_role": "hn_discussion",
+          "source_type": "discussion",
+          "source_family": "industry",
+          "published_at": "2026-09-21T02:05:45Z",
+          "tags": [],
+          "authors": [
+            "some-guy"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 35,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 0.817,
           "topic_refs": [],
           "spotlight_kinds": [],
           "spotlight_primary_kind": "",
@@ -1016,21 +1195,108 @@
   "topic_summary": [],
   "featured_topics": [
     {
+      "topic_id": "0257f1e36383",
+      "slug": "grok-bot-for-enterprise",
+      "headline": "Grok Bot for Enterprise",
+      "category": "Product Release",
+      "summary_short": "Grok Bot is now available for enterprises. Grok and Cursor Enterprise customers have free usage for the next two weeks, and can invite their whole organization, including people without an existing seat",
+      "why_it_matters": "This product release surfaced across 1 independent source(s).",
+      "key_takeaways": [
+        "Grok Bot is now available for enterprises. Grok and Cursor Enterprise customers have free usage for the next two weeks, and can invite their whole organization, including people without an existing...",
+        "Grok Bot now has a tighter integration with X."
+      ],
+      "scores": {
+        "final": 10.0,
+        "quality": 9.0,
+        "heat": 4.0,
+        "importance": 10.0,
+        "occurrence": 3.4,
+        "display_priority": 8.012,
+        "confidence": 6.36
+      },
+      "source_tier": "official",
+      "source_names": [
+        "xAI Blog"
+      ],
+      "source_roles": [
+        "official_news"
+      ],
+      "source_types": [
+        "official_blog"
+      ],
+      "llm_status": "featured",
+      "evidence": [
+        {
+          "title": "Grok Bot for Enterprise",
+          "url": "https://x.ai/news/grok-bot-for-enterprise",
+          "source_name": "xAI Blog",
+          "published_at": "2026-09-21T00:00:00+00:00"
+        },
+        {
+          "title": "Grok Bot now works with X",
+          "url": "https://x.ai/news/grok-bot-and-x",
+          "source_name": "xAI Blog",
+          "published_at": "2026-09-21T00:00:00+00:00"
+        }
+      ],
+      "route": "/hot/2026-09-21/topic/grok-bot-for-enterprise/"
+    },
+    {
+      "topic_id": "c3903197f7e9",
+      "slug": "biosecurity-at-the-frontier",
+      "headline": "Biosecurity at the frontier",
+      "category": "Product Release",
+      "summary_short": "LatchBio evaluated Grok's performance on biosecurity monitoring and adversarial biological tasks. They found that Grok 4.6 detects and refuses dangerous queries more reliably than any other frontier system",
+      "why_it_matters": "This product release surfaced across 1 independent source(s).",
+      "key_takeaways": [
+        "LatchBio evaluated Grok's performance on biosecurity monitoring and adversarial biological tasks. They found that Grok 4.6 detects and refuses dangerous queries more reliably than any other frontie..."
+      ],
+      "scores": {
+        "final": 9.5,
+        "quality": 9.0,
+        "heat": 3.0,
+        "importance": 10.0,
+        "occurrence": 2.95,
+        "display_priority": 7.619,
+        "confidence": 6.21
+      },
+      "source_tier": "official",
+      "source_names": [
+        "xAI Blog"
+      ],
+      "source_roles": [
+        "official_news"
+      ],
+      "source_types": [
+        "official_blog"
+      ],
+      "llm_status": "featured",
+      "evidence": [
+        {
+          "title": "Biosecurity at the frontier",
+          "url": "https://x.ai/news/biosafety-at-the-frontier",
+          "source_name": "xAI Blog",
+          "published_at": "2026-09-21T00:00:00+00:00"
+        }
+      ],
+      "route": "/hot/2026-09-21/topic/biosecurity-at-the-frontier/"
+    },
+    {
       "topic_id": "9c79472c8a5e",
       "slug": "deepseek-sharpens-its-reasoning-deepseek-r1-an-affordable-rival-to-openai-s-o1",
       "headline": "DeepSeek Sharpens Its Reasoning: DeepSeek-R1, an affordable rival to OpenAI’s o1",
       "category": "Product Release",
-      "summary_short": "The item presents DeepSeek-R1 as a reasoning model and an affordable rival to OpenAI's o1. The supplied headline provides no pricing figures or benchmark results",
+      "summary_short": "The article presents DeepSeek-R1 as an affordable reasoning-model rival to OpenAI's o1. The supplied headline provides no benchmark results or pricing details",
       "why_it_matters": "This product release surfaced across 1 independent source(s).",
       "key_takeaways": [],
       "scores": {
-        "final": 10.0,
-        "quality": 9.0,
+        "final": 8.269,
+        "quality": 7.0,
         "heat": 3.0,
         "importance": 8.0,
         "occurrence": 2.95,
-        "display_priority": 7.454,
-        "confidence": 5.46
+        "display_priority": 6.675,
+        "confidence": 4.941
       },
       "source_tier": "trusted_analysis",
       "source_names": [
@@ -1052,153 +1318,33 @@
         }
       ],
       "route": "/hot/2026-09-21/topic/deepseek-sharpens-its-reasoning-deepseek-r1-an-affordable-rival-to-openai-s-o1/"
-    },
-    {
-      "topic_id": "0acfbc9c60ba",
-      "slug": "introducing-deeplearning-ai-pro",
-      "headline": "Introducing DeepLearning.AI Pro",
-      "category": "Product Release",
-      "summary_short": "",
-      "why_it_matters": "This product release surfaced across 1 independent source(s).",
-      "key_takeaways": [],
-      "scores": {
-        "final": 9.801,
-        "quality": 9.0,
-        "heat": 3.0,
-        "importance": 5.0,
-        "occurrence": 2.95,
-        "display_priority": 7.364,
-        "confidence": 5.4
-      },
-      "source_tier": "trusted_analysis",
-      "source_names": [
-        "The Batch"
-      ],
-      "source_roles": [
-        "editorial_depth"
-      ],
-      "source_types": [
-        "roundup"
-      ],
-      "llm_status": "featured",
-      "evidence": [
-        {
-          "title": "Introducing DeepLearning.AI Pro",
-          "url": "https://www.deeplearning.ai/the-batch/introducing-deeplearning-ai-pro",
-          "source_name": "The Batch",
-          "published_at": "2026-09-21T00:00:00-04:00"
-        }
-      ],
-      "route": "/hot/2026-09-21/topic/introducing-deeplearning-ai-pro/"
-    },
-    {
-      "topic_id": "a70910953bf0",
-      "slug": "4-min-read-claude-gets-2-new-features-a-simpler-platform",
-      "headline": "4 min read Claude gets 2 new features & a simpler platform",
-      "category": "Product Release",
-      "summary_short": "Claude is reported to have received two new features and a simplified platform. The supplied headline does not specify the features or platform changes",
-      "why_it_matters": "This product release surfaced across 1 independent source(s).",
-      "key_takeaways": [],
-      "scores": {
-        "final": 9.614,
-        "quality": 9.0,
-        "heat": 3.0,
-        "importance": 5.0,
-        "occurrence": 2.95,
-        "display_priority": 7.28,
-        "confidence": 5.344
-      },
-      "source_tier": "community",
-      "source_names": [
-        "Superhuman AI"
-      ],
-      "source_roles": [
-        "headline_consensus"
-      ],
-      "source_types": [
-        "roundup"
-      ],
-      "llm_status": "featured",
-      "evidence": [
-        {
-          "title": "4 min read Claude gets 2 new features & a simpler platform",
-          "url": "https://www.superhuman.ai/p/claude-gets-2-new-features-a-simpler-platform",
-          "source_name": "Superhuman AI",
-          "published_at": "2026-09-21T00:00:00-04:00"
-        }
-      ],
-      "route": "/hot/2026-09-21/topic/4-min-read-claude-gets-2-new-features-a-simpler-platform/"
     }
   ],
   "category_sections": [
     {
       "category": "Product Release",
-      "total_candidates": 3,
+      "total_candidates": 8,
       "topics": [
         {
-          "topic_id": "dbac3ae44b18",
-          "slug": "qwen-released-qwen-image-2-1-pe-t2i",
-          "headline": "Qwen released Qwen-Image-2.1-PE-T2I",
+          "topic_id": "6de1edc87d66",
+          "slug": "designing-grok-bot-for-a-world-of-persistent-agents",
+          "headline": "Designing Grok Bot for a world of persistent agents",
           "category": "Product Release",
-          "summary_short": "Weights for Qwen/Qwen-Image-2.1-PE-T2I appeared on the hub. Pipeline tags: safetensors, qwen3_5, qwen, prompt-rewriting, text-to-image, license:other. 0 downloads, 18 likes at collection time",
+          "summary_short": "Sep 21, 2026",
           "why_it_matters": "This product release surfaced across 1 independent source(s).",
           "key_takeaways": [],
           "scores": {
-            "final": 5.144,
-            "quality": 5.0,
-            "heat": 4.0,
-            "importance": 10.0,
-            "occurrence": 3.4,
-            "display_priority": 4.827,
-            "confidence": 4.903
-          },
-          "source_tier": "official",
-          "source_names": [
-            "Qwen on Hugging Face"
-          ],
-          "source_roles": [
-            "official_news"
-          ],
-          "source_types": [
-            "model_release"
-          ],
-          "llm_status": "candidate",
-          "evidence": [
-            {
-              "title": "Qwen released Qwen-Image-2.1-PE-T2I",
-              "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-PE-T2I",
-              "source_name": "Qwen on Hugging Face",
-              "published_at": "2026-09-20T08:45:29.000Z"
-            },
-            {
-              "title": "Qwen released Qwen-Image-2.1-PE-I2I",
-              "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-PE-I2I",
-              "source_name": "Qwen on Hugging Face",
-              "published_at": "2026-09-20T08:46:47.000Z"
-            }
-          ],
-          "route": "/hot/2026-09-21/topic/qwen-released-qwen-image-2-1-pe-t2i/"
-        },
-        {
-          "topic_id": "5268eb4dbe72",
-          "slug": "your-model-already-knows-it-s-wrong-asking-costs-0-06-seconds-and-zero-tokens",
-          "headline": "Your model already knows it's wrong. Asking costs 0.06 seconds and zero tokens.",
-          "category": "Product Release",
-          "summary_short": "Your model already knows it's wrong. Asking costs 0.06 seconds and zero tokens",
-          "why_it_matters": "This product release surfaced across 1 independent source(s).",
-          "key_takeaways": [],
-          "scores": {
-            "final": 5.098,
-            "quality": 5.0,
+            "final": 9.5,
+            "quality": 9.0,
             "heat": 3.0,
             "importance": 10.0,
             "occurrence": 2.95,
-            "display_priority": 4.638,
-            "confidence": 4.889
+            "display_priority": 6.619,
+            "confidence": 6.21
           },
           "source_tier": "official",
           "source_names": [
-            "Hugging Face Blog"
+            "xAI Blog"
           ],
           "source_roles": [
             "official_news"
@@ -1209,34 +1355,148 @@
           "llm_status": "candidate",
           "evidence": [
             {
-              "title": "Your model already knows it's wrong. Asking costs 0.06 seconds and zero tokens.",
-              "url": "https://huggingface.co/blog/FINAL-Bench/ztc",
-              "source_name": "Hugging Face Blog",
-              "published_at": "2026-09-20T16:31:42+00:00"
+              "title": "Designing Grok Bot for a world of persistent agents",
+              "url": "https://x.ai/news/designing-grok-bot",
+              "source_name": "xAI Blog",
+              "published_at": "2026-09-21T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-09-21/topic/your-model-already-knows-it-s-wrong-asking-costs-0-06-seconds-and-zero-tokens/"
+          "route": "/hot/2026-09-21/topic/designing-grok-bot-for-a-world-of-persistent-agents/"
         },
         {
-          "topic_id": "8f281a4f3d67",
-          "slug": "chatgpt-co-creator-s-new-ai-model",
-          "headline": "ChatGPT co-creator’s new AI model",
+          "topic_id": "48b17bbce560",
+          "slug": "expanding-openai-academy-with-new-learning-paths",
+          "headline": "Expanding OpenAI Academy with new learning paths",
           "category": "Product Release",
-          "summary_short": "The headline reports a new AI model from a co-creator of ChatGPT. The supplied text does not identify the person or model",
+          "summary_short": "OpenAI expanded OpenAI Academy with new learning paths for employees, developers, leaders, educators, and students. The paths focus on building and demonstrating practical AI skills",
           "why_it_matters": "This product release surfaced across 1 independent source(s).",
           "key_takeaways": [],
           "scores": {
-            "final": 5.026,
-            "quality": 5.0,
+            "final": 8.269,
+            "quality": 7.0,
             "heat": 3.0,
             "importance": 5.0,
             "occurrence": 2.95,
-            "display_priority": 4.216,
-            "confidence": 3.968
+            "display_priority": 6.065,
+            "confidence": 5.841
+          },
+          "source_tier": "official",
+          "source_names": [
+            "OpenAI News"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "official_blog"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Expanding OpenAI Academy with new learning paths",
+              "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+              "source_name": "OpenAI News",
+              "published_at": "Mon, 21 Sep 2026 07:00:00 GMT"
+            }
+          ],
+          "route": "/hot/2026-09-21/topic/expanding-openai-academy-with-new-learning-paths/"
+        },
+        {
+          "topic_id": "0acfbc9c60ba",
+          "slug": "introducing-deeplearning-ai-pro",
+          "headline": "Introducing DeepLearning.AI Pro",
+          "category": "Product Release",
+          "summary_short": "",
+          "why_it_matters": "This product release surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 7.531,
+            "quality": 7.0,
+            "heat": 3.0,
+            "importance": 5.0,
+            "occurrence": 2.95,
+            "display_priority": 5.343,
+            "confidence": 4.719
+          },
+          "source_tier": "trusted_analysis",
+          "source_names": [
+            "The Batch"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "roundup"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Introducing DeepLearning.AI Pro",
+              "url": "https://www.deeplearning.ai/the-batch/introducing-deeplearning-ai-pro",
+              "source_name": "The Batch",
+              "published_at": "2026-09-21T00:00:00-04:00"
+            }
+          ],
+          "route": "/hot/2026-09-21/topic/introducing-deeplearning-ai-pro/"
+        },
+        {
+          "topic_id": "89fe08604a43",
+          "slug": "show-hn-mini-agi-dynamic-continual-learning-model-trained-on-8gb-vram",
+          "headline": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
+          "category": "Product Release",
+          "summary_short": "A Show HN post introduces Mini-AGI as a dynamic continual-learning model. The title states that it was trained using 8GB of VRAM",
+          "why_it_matters": "This product release surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 6.915,
+            "quality": 6.0,
+            "heat": 3.0,
+            "importance": 5.0,
+            "occurrence": 2.95,
+            "display_priority": 5.066,
+            "confidence": 4.534
           },
           "source_tier": "community",
           "source_names": [
-            "The Neuron"
+            "Hacker News"
+          ],
+          "source_roles": [
+            "hn_discussion"
+          ],
+          "source_types": [
+            "discussion"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
+              "url": "https://github.com/volotat/mini-AGI",
+              "source_name": "Hacker News",
+              "published_at": "2026-09-21T04:42:37Z"
+            }
+          ],
+          "route": "/hot/2026-09-21/topic/show-hn-mini-agi-dynamic-continual-learning-model-trained-on-8gb-vram/"
+        },
+        {
+          "topic_id": "a70910953bf0",
+          "slug": "4-min-read-claude-gets-2-new-features-a-simpler-platform",
+          "headline": "4 min read Claude gets 2 new features & a simpler platform",
+          "category": "Product Release",
+          "summary_short": "The headline reports two new Claude features and a simplified platform. The supplied text does not identify the features or explain the platform changes",
+          "why_it_matters": "This product release surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 6.841,
+            "quality": 6.0,
+            "heat": 3.0,
+            "importance": 5.0,
+            "occurrence": 2.95,
+            "display_priority": 5.032,
+            "confidence": 4.512
+          },
+          "source_tier": "community",
+          "source_names": [
+            "Superhuman AI"
           ],
           "source_roles": [
             "headline_consensus"
@@ -1247,13 +1507,13 @@
           "llm_status": "candidate",
           "evidence": [
             {
-              "title": "ChatGPT co-creator’s new AI model",
-              "url": "https://www.theneurondaily.com/p/chatgpt-co-creator-s-new-ai-model",
-              "source_name": "The Neuron",
-              "published_at": "2026-09-20T17:30:00+00:00"
+              "title": "4 min read Claude gets 2 new features & a simpler platform",
+              "url": "https://www.superhuman.ai/p/claude-gets-2-new-features-a-simpler-platform",
+              "source_name": "Superhuman AI",
+              "published_at": "2026-09-21T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-21/topic/chatgpt-co-creator-s-new-ai-model/"
+          "route": "/hot/2026-09-21/topic/4-min-read-claude-gets-2-new-features-a-simpler-platform/"
         }
       ]
     },
@@ -1270,13 +1530,13 @@
           "why_it_matters": "This funding surfaced across 1 independent source(s).",
           "key_takeaways": [],
           "scores": {
-            "final": 5.037,
-            "quality": 5.0,
+            "final": 1.394,
+            "quality": 1.0,
             "heat": 3.0,
             "importance": 5.0,
             "occurrence": 2.95,
-            "display_priority": 4.221,
-            "confidence": 3.971
+            "display_priority": 2.581,
+            "confidence": 2.878
           },
           "source_tier": "trusted_analysis",
           "source_names": [
@@ -1306,118 +1566,42 @@
       "total_candidates": 22,
       "topics": [
         {
-          "topic_id": "8171c7cce256",
-          "slug": "what-56-000-americans-told-us-about-ai-policy-center-for-shared-ai-prosperity",
-          "headline": "What 56,000 Americans told us about AI policy (Center for Shared AI Prosperity)",
+          "topic_id": "ad8c31804e9b",
+          "slug": "amazon-blocks-meta-s-muse-ai-agent",
+          "headline": "Amazon blocks Meta’s Muse AI agent",
           "category": "Industry Update",
-          "summary_short": "What 56,000 Americans told us about AI policy (Center for Shared AI Prosperity",
+          "summary_short": "Amazon has blocked Meta's Muse AI agent from shopping on behalf of users, according to reporting cited by The Verge. Muse users began seeing a popup about the access restriction on Sunday",
           "why_it_matters": "This industry move surfaced across 1 independent source(s).",
           "key_takeaways": [],
           "scores": {
-            "final": 9.5,
-            "quality": 9.0,
+            "final": 6.566,
+            "quality": 6.0,
             "heat": 3.0,
-            "importance": 5.0,
+            "importance": 6.0,
             "occurrence": 2.95,
-            "display_priority": 6.229,
-            "confidence": 5.31
+            "display_priority": 4.909,
+            "confidence": 4.43
           },
           "source_tier": "trusted_analysis",
           "source_names": [
-            "Import AI"
+            "The Verge AI"
           ],
           "source_roles": [
             "editorial_depth"
           ],
           "source_types": [
-            "roundup"
+            "blog_analysis"
           ],
           "llm_status": "candidate",
           "evidence": [
             {
-              "title": "What 56,000 Americans told us about AI policy (Center for Shared AI Prosperity)",
-              "url": "https://blog.csaip.org/p/what-56000-americans-told-us-about",
-              "source_name": "Import AI",
-              "published_at": "2026-09-21T00:00:00-04:00"
+              "title": "Amazon blocks Meta’s Muse AI agent",
+              "url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
+              "source_name": "The Verge AI",
+              "published_at": "2026-09-21T05:21:47-04:00"
             }
           ],
-          "route": "/hot/2026-09-21/topic/what-56-000-americans-told-us-about-ai-policy-center-for-shared-ai-prosperity/"
-        },
-        {
-          "topic_id": "37e8f1d2eec4",
-          "slug": "import-ai-471-why-hugging-face-worries-me-space-mining-five-eyes-on-ai",
-          "headline": "Import AI 471: Why Hugging Face worries me; space mining; FIve Eyes on AI",
-          "category": "Industry Update",
-          "summary_short": "",
-          "why_it_matters": "This other surfaced across 1 independent source(s).",
-          "key_takeaways": [],
-          "scores": {
-            "final": 7.99,
-            "quality": 7.0,
-            "heat": 3.0,
-            "importance": 5.0,
-            "occurrence": 2.95,
-            "display_priority": 5.549,
-            "confidence": 4.857
-          },
-          "source_tier": "trusted_analysis",
-          "source_names": [
-            "Import AI"
-          ],
-          "source_roles": [
-            "editorial_depth"
-          ],
-          "source_types": [
-            "roundup"
-          ],
-          "llm_status": "candidate",
-          "evidence": [
-            {
-              "title": "Import AI 471: Why Hugging Face worries me; space mining; FIve Eyes on AI",
-              "url": "https://jack-clark.net/2026/08/31/import-ai-471-why-hugging-face-worries-me-space-mining-five-eyes-on-ai",
-              "source_name": "Import AI",
-              "published_at": "2026-09-21T00:00:00-04:00"
-            }
-          ],
-          "route": "/hot/2026-09-21/topic/import-ai-471-why-hugging-face-worries-me-space-mining-five-eyes-on-ai/"
-        },
-        {
-          "topic_id": "1edb8587f209",
-          "slug": "discovery-of-a-new-openai-agent-message-board-collusion-wiki",
-          "headline": "Discovery of a new OpenAI agent message board (Collusion Wiki)",
-          "category": "Industry Update",
-          "summary_short": "Discovery of a new OpenAI agent message board (Collusion Wiki",
-          "why_it_matters": "This other surfaced across 1 independent source(s).",
-          "key_takeaways": [],
-          "scores": {
-            "final": 7.99,
-            "quality": 7.0,
-            "heat": 3.0,
-            "importance": 5.0,
-            "occurrence": 2.95,
-            "display_priority": 5.549,
-            "confidence": 4.857
-          },
-          "source_tier": "trusted_analysis",
-          "source_names": [
-            "Import AI"
-          ],
-          "source_roles": [
-            "editorial_depth"
-          ],
-          "source_types": [
-            "roundup"
-          ],
-          "llm_status": "candidate",
-          "evidence": [
-            {
-              "title": "Discovery of a new OpenAI agent message board (Collusion Wiki)",
-              "url": "https://collusion.wiki",
-              "source_name": "Import AI",
-              "published_at": "2026-09-21T00:00:00-04:00"
-            }
-          ],
-          "route": "/hot/2026-09-21/topic/discovery-of-a-new-openai-agent-message-board-collusion-wiki/"
+          "route": "/hot/2026-09-21/topic/amazon-blocks-meta-s-muse-ai-agent/"
         },
         {
           "topic_id": "93178b2e8d0e",
@@ -1428,13 +1612,13 @@
           "why_it_matters": "This other surfaced across 1 independent source(s).",
           "key_takeaways": [],
           "scores": {
-            "final": 7.99,
-            "quality": 7.0,
+            "final": 5.862,
+            "quality": 5.0,
             "heat": 3.0,
             "importance": 5.0,
             "occurrence": 2.95,
-            "display_priority": 5.549,
-            "confidence": 4.857
+            "display_priority": 4.592,
+            "confidence": 4.219
           },
           "source_tier": "trusted_analysis",
           "source_names": [
@@ -1458,21 +1642,547 @@
           "route": "/hot/2026-09-21/topic/inside-key-changes-in-data-policies-ox-alpha-revealed-taking-custom-models-beyond-fine-tuning/"
         },
         {
+          "topic_id": "dcec2cbafd31",
+          "slug": "ai-oceanbase-data-agent",
+          "headline": "国产数据库跑出AI新能力！OceanBase登顶国际Data Agent榜单",
+          "category": "Industry Update",
+          "summary_short": "OceanBase团队提交的Data Agent方案登顶国际数据智能体基准Data Agent Benchmark",
+          "why_it_matters": "This other surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.862,
+            "quality": 5.0,
+            "heat": 3.0,
+            "importance": 5.0,
+            "occurrence": 2.95,
+            "display_priority": 4.592,
+            "confidence": 4.219
+          },
+          "source_tier": "trusted_analysis",
+          "source_names": [
+            "量子位 (QbitAI)"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "国产数据库跑出AI新能力！OceanBase登顶国际Data Agent榜单",
+              "url": "https://www.qbitai.com/2026/09/493231.html",
+              "source_name": "量子位 (QbitAI)",
+              "published_at": "Mon, 21 Sep 2026 07:31:26 +0000"
+            }
+          ],
+          "route": "/hot/2026-09-21/topic/ai-oceanbase-data-agent/"
+        },
+        {
+          "topic_id": "baafbb0770d3",
+          "slug": "ai",
+          "headline": "长三角安全人工智能安徽省实验室发布星界、星驭、星鉴三大AI安全解决方案",
+          "category": "Industry Update",
+          "summary_short": "9月19日，第一届中国网络空间安全大会（CCSC 2026）的高水平专题论坛在安徽合肥正式举办。",
+          "why_it_matters": "This other surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.862,
+            "quality": 5.0,
+            "heat": 3.0,
+            "importance": 5.0,
+            "occurrence": 2.95,
+            "display_priority": 4.592,
+            "confidence": 4.219
+          },
+          "source_tier": "trusted_analysis",
+          "source_names": [
+            "量子位 (QbitAI)"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "长三角安全人工智能安徽省实验室发布星界、星驭、星鉴三大AI安全解决方案",
+              "url": "https://www.qbitai.com/2026/09/493235.html",
+              "source_name": "量子位 (QbitAI)",
+              "published_at": "Mon, 21 Sep 2026 07:52:46 +0000"
+            }
+          ],
+          "route": "/hot/2026-09-21/topic/ai/"
+        },
+        {
+          "topic_id": "0f7844c0e6a2",
+          "slug": "gpt-6-astra",
+          "headline": "啊啊啊GPT-6 Astra这么不安全！这次马斯克都瘫坐了",
+          "category": "Industry Update",
+          "summary_short": "97%尝试危险行为",
+          "why_it_matters": "This other surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.862,
+            "quality": 5.0,
+            "heat": 3.0,
+            "importance": 5.0,
+            "occurrence": 2.95,
+            "display_priority": 4.592,
+            "confidence": 4.219
+          },
+          "source_tier": "trusted_analysis",
+          "source_names": [
+            "量子位 (QbitAI)"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "啊啊啊GPT-6 Astra这么不安全！这次马斯克都瘫坐了",
+              "url": "https://www.qbitai.com/2026/09/493241.html",
+              "source_name": "量子位 (QbitAI)",
+              "published_at": "Mon, 21 Sep 2026 08:21:55 +0000"
+            }
+          ],
+          "route": "/hot/2026-09-21/topic/gpt-6-astra/"
+        }
+      ]
+    },
+    {
+      "category": "Tooling",
+      "total_candidates": 2,
+      "topics": [
+        {
+          "topic_id": "1888a47668e1",
+          "slug": "how-v7-gives-ai-agents-institutional-memory",
+          "headline": "How V7 gives AI agents institutional memory",
+          "category": "Tooling",
+          "summary_short": "V7 uses GPT-5.6 to turn scattered company files into context for AI agents. The workflow supports complex work linked to its underlying sources",
+          "why_it_matters": "This tooling surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 7.197,
+            "quality": 6.0,
+            "heat": 3.0,
+            "importance": 6.0,
+            "occurrence": 2.95,
+            "display_priority": 5.583,
+            "confidence": 5.519
+          },
+          "source_tier": "official",
+          "source_names": [
+            "OpenAI News"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "official_blog"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "How V7 gives AI agents institutional memory",
+              "url": "https://openai.com/index/v7",
+              "source_name": "OpenAI News",
+              "published_at": "Mon, 21 Sep 2026 00:00:00 GMT"
+            }
+          ],
+          "route": "/hot/2026-09-21/topic/how-v7-gives-ai-agents-institutional-memory/"
+        },
+        {
+          "topic_id": "f80213128774",
+          "slug": "gpt-6-astra-rpent",
+          "headline": "GPT-6 Astra开进机器人身体！清华联手无问芯穹等开源RPent",
+          "category": "Tooling",
+          "summary_short": "The headline reports that Tsinghua University, Infinigence AI, and collaborators open-sourced RPent, connecting the project to GPT-6 Astra in robotics. The summary describes embodied agents that perform tasks in the physical world",
+          "why_it_matters": "This tooling surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 6.877,
+            "quality": 6.0,
+            "heat": 3.0,
+            "importance": 7.0,
+            "occurrence": 2.95,
+            "display_priority": 5.049,
+            "confidence": 4.523
+          },
+          "source_tier": "trusted_analysis",
+          "source_names": [
+            "量子位 (QbitAI)"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "GPT-6 Astra开进机器人身体！清华联手无问芯穹等开源RPent",
+              "url": "https://www.qbitai.com/2026/09/493218.html",
+              "source_name": "量子位 (QbitAI)",
+              "published_at": "Mon, 21 Sep 2026 06:22:37 +0000"
+            }
+          ],
+          "route": "/hot/2026-09-21/topic/gpt-6-astra-rpent/"
+        }
+      ]
+    },
+    {
+      "category": "Research",
+      "total_candidates": 12,
+      "topics": [
+        {
+          "topic_id": "71c1c36285a2",
+          "slug": "developmental-xenocortication-using-human-derived-organoids-in-mice-nature",
+          "headline": "Developmental xenocortication using human-derived organoids in mice (Nature)",
+          "category": "Research",
+          "summary_short": "A Nature paper examines developmental xenocortication using human-derived organoids in mice. The supplied item does not describe the study's methods or findings",
+          "why_it_matters": "This research paper surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 6.835,
+            "quality": 6.0,
+            "heat": 3.0,
+            "importance": 5.0,
+            "occurrence": 2.95,
+            "display_priority": 5.03,
+            "confidence": 4.51
+          },
+          "source_tier": "trusted_analysis",
+          "source_names": [
+            "Import AI"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "roundup"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Developmental xenocortication using human-derived organoids in mice (Nature)",
+              "url": "https://www.nature.com/articles/s41586-026-11032-2",
+              "source_name": "Import AI",
+              "published_at": "2026-09-21T00:00:00-04:00"
+            }
+          ],
+          "route": "/hot/2026-09-21/topic/developmental-xenocortication-using-human-derived-organoids-in-mice-nature/"
+        },
+        {
+          "topic_id": "2c2faffa73b4",
+          "slug": "codemidas-scaling-agentic-coding-rl-environments-from-code-itself",
+          "headline": "CodeMidas: Scaling Agentic Coding RL Environments from Code Itself",
+          "category": "Research",
+          "summary_short": "CodeMidas investigates scaling reinforcement-learning environments for coding agents from code itself. The work targets the need for diverse training tasks with reliable verifiers, drawing on open-source codebases",
+          "why_it_matters": "This research paper surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 1.059,
+            "quality": 2.0,
+            "heat": 3.0,
+            "importance": 6.0,
+            "occurrence": 2.95,
+            "display_priority": 2.431,
+            "confidence": 2.778
+          },
+          "source_tier": "trusted_research",
+          "source_names": [
+            "Hugging Face Trending Papers"
+          ],
+          "source_roles": [
+            "paper_trending"
+          ],
+          "source_types": [
+            "paper"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "CodeMidas: Scaling Agentic Coding RL Environments from Code Itself",
+              "url": "https://huggingface.co/papers/2609.22068",
+              "source_name": "Hugging Face Trending Papers",
+              "published_at": "2026-09-18T00:00:00.000Z"
+            }
+          ],
+          "route": "/hot/2026-09-21/topic/codemidas-scaling-agentic-coding-rl-environments-from-code-itself/"
+        },
+        {
+          "topic_id": "1ca0cbb77f83",
+          "slug": "intbmoe-integrating-block-level-conditioning-into-expert-composition-for-full-participation-mixture-of-experts",
+          "headline": "IntBMoE: Integrating Block-Level Conditioning into Expert Composition for Full-Participation Mixture-of-Experts",
+          "category": "Research",
+          "summary_short": "IntBMoE proposes integrating block-level conditioning into expert composition for full-participation mixture-of-experts models. The paper addresses limitations in independently controlling quantities such as how many experts contribute knowledge to a token's output",
+          "why_it_matters": "This research paper surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 1.059,
+            "quality": 2.0,
+            "heat": 3.0,
+            "importance": 6.0,
+            "occurrence": 2.95,
+            "display_priority": 2.431,
+            "confidence": 2.778
+          },
+          "source_tier": "trusted_research",
+          "source_names": [
+            "Hugging Face Trending Papers"
+          ],
+          "source_roles": [
+            "paper_trending"
+          ],
+          "source_types": [
+            "paper"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "IntBMoE: Integrating Block-Level Conditioning into Expert Composition for Full-Participation Mixture-of-Experts",
+              "url": "https://huggingface.co/papers/2609.21346",
+              "source_name": "Hugging Face Trending Papers",
+              "published_at": "2026-09-18T00:00:00.000Z"
+            }
+          ],
+          "route": "/hot/2026-09-21/topic/intbmoe-integrating-block-level-conditioning-into-expert-composition-for-full-participation-mixture-of-experts/"
+        }
+      ]
+    }
+  ],
+  "long_tail_sections": [
+    {
+      "category": "Product Release",
+      "total_candidates": 2,
+      "topics": [
+        {
+          "topic_id": "8afdb6d28688",
+          "slug": "kev-tiny-jev-like-family-of-decision-models-built-on-top-of-qwen3-5",
+          "headline": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+          "category": "Product Release",
+          "summary_short": "Kev is presented as a tiny family of decision models built on Qwen3.5. The listing describes the family as Jev-like but provides no performance or deployment details",
+          "why_it_matters": "This product release surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 6.669,
+            "quality": 6.0,
+            "heat": 3.0,
+            "importance": 4.0,
+            "occurrence": 2.95,
+            "display_priority": 4.955,
+            "confidence": 4.461
+          },
+          "source_tier": "community",
+          "source_names": [
+            "Hacker News"
+          ],
+          "source_roles": [
+            "hn_discussion"
+          ],
+          "source_types": [
+            "discussion"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+              "url": "https://github.com/jaredpalmer/kev/tree/main",
+              "source_name": "Hacker News",
+              "published_at": "2026-09-21T07:11:55Z"
+            }
+          ],
+          "route": "/hot/2026-09-21/topic/kev-tiny-jev-like-family-of-decision-models-built-on-top-of-qwen3-5/"
+        },
+        {
+          "topic_id": "dbac3ae44b18",
+          "slug": "qwen-released-qwen-image-2-1-pe-i2i",
+          "headline": "Qwen released Qwen-Image-2.1-PE-I2I",
+          "category": "Product Release",
+          "summary_short": "Qwen published weights for Qwen-Image-2.1-PE-I2I on Hugging Face, tagged for prompt rewriting and image editing. The listing had 4,604 downloads and 35 likes at collection time, with its license labeled as other",
+          "why_it_matters": "This product release surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 1.864,
+            "quality": 2.0,
+            "heat": 4.0,
+            "importance": 6.0,
+            "occurrence": 3.4,
+            "display_priority": 3.351,
+            "confidence": 3.919
+          },
+          "source_tier": "official",
+          "source_names": [
+            "Qwen on Hugging Face"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "model_release"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Qwen released Qwen-Image-2.1-PE-T2I",
+              "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-PE-T2I",
+              "source_name": "Qwen on Hugging Face",
+              "published_at": "2026-09-20T08:45:29.000Z"
+            },
+            {
+              "title": "Qwen released Qwen-Image-2.1-PE-I2I",
+              "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-PE-I2I",
+              "source_name": "Qwen on Hugging Face",
+              "published_at": "2026-09-20T08:46:47.000Z"
+            }
+          ],
+          "route": "/hot/2026-09-21/topic/qwen-released-qwen-image-2-1-pe-i2i/"
+        }
+      ]
+    },
+    {
+      "category": "Industry Update",
+      "total_candidates": 9,
+      "topics": [
+        {
+          "topic_id": "e2841eaa0500",
+          "slug": "gemini-broke-into-3-real-companies-during-a-safety-test",
+          "headline": "Gemini broke into 3 real companies during a safety test",
+          "category": "Industry Update",
+          "summary_short": "The headline reports that Gemini breached three real companies during a safety test. The supplied text does not describe the authorization, methods, or extent of access",
+          "why_it_matters": "This other surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.783,
+            "quality": 5.0,
+            "heat": 3.0,
+            "importance": 7.0,
+            "occurrence": 2.95,
+            "display_priority": 4.556,
+            "confidence": 4.195
+          },
+          "source_tier": "community",
+          "source_names": [
+            "The Neuron"
+          ],
+          "source_roles": [
+            "headline_consensus"
+          ],
+          "source_types": [
+            "roundup"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Gemini broke into 3 real companies during a safety test",
+              "url": "https://www.theneurondaily.com/p/gemini-broke-into-3-real-companies-during-a-safety-test",
+              "source_name": "The Neuron",
+              "published_at": "2026-09-21T09:45:00+00:00"
+            }
+          ],
+          "route": "/hot/2026-09-21/topic/gemini-broke-into-3-real-companies-during-a-safety-test/"
+        },
+        {
+          "topic_id": "96a8a2c3b904",
+          "slug": "artificial-intelligence-made-simple",
+          "headline": "Artificial Intelligence Made Simple",
+          "category": "Industry Update",
+          "summary_short": "Last Week in AI lists an item titled Artificial Intelligence Made Simple. No summary is provided to identify a specific development or explain its contents",
+          "why_it_matters": "This other surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.468,
+            "quality": 5.0,
+            "heat": 3.0,
+            "importance": 1.0,
+            "occurrence": 2.95,
+            "display_priority": 4.415,
+            "confidence": 4.1
+          },
+          "source_tier": "trusted_analysis",
+          "source_names": [
+            "Last Week in AI"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "roundup"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Artificial Intelligence Made Simple",
+              "url": "https://www.artificialintelligencemadesimple.com",
+              "source_name": "Last Week in AI",
+              "published_at": "2026-09-21T00:00:00-04:00"
+            }
+          ],
+          "route": "/hot/2026-09-21/topic/artificial-intelligence-made-simple/"
+        },
+        {
+          "topic_id": "71f3ea51af2a",
+          "slug": "building-standards-for-the-next-phase-of-ai",
+          "headline": "Building standards for the next phase of AI",
+          "category": "Industry Update",
+          "summary_short": "OpenAI outlined a proposed path toward shared global AI standards. It calls for coordinated evaluation, reporting, and governance to improve safety",
+          "why_it_matters": "This opinion surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.314,
+            "quality": 5.0,
+            "heat": 3.0,
+            "importance": 6.0,
+            "occurrence": 2.95,
+            "display_priority": 4.735,
+            "confidence": 4.954
+          },
+          "source_tier": "official",
+          "source_names": [
+            "OpenAI News"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "official_blog"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Building standards for the next phase of AI",
+              "url": "https://openai.com/index/building-standards-next-phase-ai",
+              "source_name": "OpenAI News",
+              "published_at": "Mon, 21 Sep 2026 10:00:00 GMT"
+            }
+          ],
+          "route": "/hot/2026-09-21/topic/building-standards-for-the-next-phase-of-ai/"
+        },
+        {
           "topic_id": "090b3407c648",
           "slug": "4-min-read-openai-incident-report-or-science-fiction",
           "headline": "4 min read OpenAI incident report or science fiction?",
           "category": "Industry Update",
-          "summary_short": "",
+          "summary_short": "Superhuman AI lists an item titled OpenAI incident report or science fiction? The supplied text does not establish whether a real incident occurred or identify its details",
           "why_it_matters": "This other surfaced across 1 independent source(s).",
           "key_takeaways": [],
           "scores": {
-            "final": 6.173,
-            "quality": 6.0,
+            "final": 5.29,
+            "quality": 5.0,
             "heat": 3.0,
-            "importance": 1.0,
+            "importance": 2.0,
             "occurrence": 2.95,
-            "display_priority": 4.732,
-            "confidence": 4.312
+            "display_priority": 4.334,
+            "confidence": 4.047
           },
           "source_tier": "community",
           "source_names": [
@@ -1494,303 +2204,23 @@
             }
           ],
           "route": "/hot/2026-09-21/topic/4-min-read-openai-incident-report-or-science-fiction/"
-        }
-      ]
-    },
-    {
-      "category": "Research",
-      "total_candidates": 9,
-      "topics": [
-        {
-          "topic_id": "ea1883a93109",
-          "slug": "sol-pi-recursively-scaling-auto-research-loops-for-efficient-agent-harness",
-          "headline": "SoL-Pi: Recursively Scaling Auto-Research Loops for Efficient Agent Harness",
-          "category": "Research",
-          "summary_short": "As coding agents move from supervised code completion to unattended, around-the-clock exploration, their work expands from isolated predictions into long trajectories of reasoning, tool use, and feedback. Token efficiency therefore becomes important for scaling recursive self-improvement.",
-          "why_it_matters": "This research paper surfaced across 1 independent source(s).",
-          "key_takeaways": [],
-          "scores": {
-            "final": 1.932,
-            "quality": 3.0,
-            "heat": 3.0,
-            "importance": 8.0,
-            "occurrence": 2.95,
-            "display_priority": 2.823,
-            "confidence": 3.04
-          },
-          "source_tier": "trusted_research",
-          "source_names": [
-            "Hugging Face Trending Papers"
-          ],
-          "source_roles": [
-            "paper_trending"
-          ],
-          "source_types": [
-            "paper"
-          ],
-          "llm_status": "candidate",
-          "evidence": [
-            {
-              "title": "SoL-Pi: Recursively Scaling Auto-Research Loops for Efficient Agent Harness",
-              "url": "https://huggingface.co/papers/2609.20519",
-              "source_name": "Hugging Face Trending Papers",
-              "published_at": "2026-09-17T00:00:00.000Z"
-            }
-          ],
-          "route": "/hot/2026-09-21/topic/sol-pi-recursively-scaling-auto-research-loops-for-efficient-agent-harness/"
         },
         {
-          "topic_id": "c3afb67a2370",
-          "slug": "wevisdoc-from-coverage-to-capability-for-robust-end-to-end-document-parsing",
-          "headline": "WeVisDoc: From Coverage to Capability for Robust End-to-End Document Parsing",
-          "category": "Research",
-          "summary_short": "Document parsing converts document images into structured content and requires reliable performance across diverse layouts and acquisition conditions.",
-          "why_it_matters": "This research paper surfaced across 1 independent source(s).",
-          "key_takeaways": [],
-          "scores": {
-            "final": 1.871,
-            "quality": 3.0,
-            "heat": 3.0,
-            "importance": 7.0,
-            "occurrence": 2.95,
-            "display_priority": 2.796,
-            "confidence": 3.021
-          },
-          "source_tier": "trusted_research",
-          "source_names": [
-            "Hugging Face Trending Papers"
-          ],
-          "source_roles": [
-            "paper_trending"
-          ],
-          "source_types": [
-            "paper"
-          ],
-          "llm_status": "candidate",
-          "evidence": [
-            {
-              "title": "WeVisDoc: From Coverage to Capability for Robust End-to-End Document Parsing",
-              "url": "https://huggingface.co/papers/2609.20423",
-              "source_name": "Hugging Face Trending Papers",
-              "published_at": "2026-09-17T00:00:00.000Z"
-            }
-          ],
-          "route": "/hot/2026-09-21/topic/wevisdoc-from-coverage-to-capability-for-robust-end-to-end-document-parsing/"
-        },
-        {
-          "topic_id": "17b363447578",
-          "slug": "the-other-half-of-the-memory-wall-serving-35b-moes-from-ssd-with-trained-routing-prediction",
-          "headline": "The Other Half of the Memory Wall: Serving 35B MoEs from SSD with Trained Routing Prediction",
-          "category": "Research",
-          "summary_short": "Mixture-of-experts (MoE) inference on consumer hardware is bounded by weight memory: a 35B-class model is 19.5GB at 4-bit, and sparsity shrinks the compute per token, not the bytes that must be held.",
-          "why_it_matters": "This research paper surfaced across 1 independent source(s).",
-          "key_takeaways": [],
-          "scores": {
-            "final": 1.587,
-            "quality": 2.0,
-            "heat": 3.0,
-            "importance": 7.0,
-            "occurrence": 2.95,
-            "display_priority": 2.668,
-            "confidence": 2.936
-          },
-          "source_tier": "trusted_research",
-          "source_names": [
-            "Hugging Face Trending Papers"
-          ],
-          "source_roles": [
-            "paper_trending"
-          ],
-          "source_types": [
-            "paper"
-          ],
-          "llm_status": "candidate",
-          "evidence": [
-            {
-              "title": "The Other Half of the Memory Wall: Serving 35B MoEs from SSD with Trained Routing Prediction",
-              "url": "https://huggingface.co/papers/2609.18063",
-              "source_name": "Hugging Face Trending Papers",
-              "published_at": "2026-09-16T00:00:00.000Z"
-            }
-          ],
-          "route": "/hot/2026-09-21/topic/the-other-half-of-the-memory-wall-serving-35b-moes-from-ssd-with-trained-routing-prediction/"
-        },
-        {
-          "topic_id": "f1c5d80db43c",
-          "slug": "ai-for-games-in-the-foundation-model-era",
-          "headline": "AI for Games in the Foundation Model Era",
-          "category": "Research",
-          "summary_short": "Foundation models, alongside advances in learned game-world models, are reshaping AI across the game lifecycle. Beyond playing games, recent systems model players and game dynamics, support design and development, adapt player-facing experiences at runtime, and evaluate resulting artifacts.",
-          "why_it_matters": "This research paper surfaced across 1 independent source(s).",
-          "key_takeaways": [],
-          "scores": {
-            "final": 1.455,
-            "quality": 2.0,
-            "heat": 3.0,
-            "importance": 8.0,
-            "occurrence": 2.95,
-            "display_priority": 2.609,
-            "confidence": 2.896
-          },
-          "source_tier": "trusted_research",
-          "source_names": [
-            "Hugging Face Trending Papers"
-          ],
-          "source_roles": [
-            "paper_trending"
-          ],
-          "source_types": [
-            "paper"
-          ],
-          "llm_status": "candidate",
-          "evidence": [
-            {
-              "title": "AI for Games in the Foundation Model Era",
-              "url": "https://huggingface.co/papers/2609.16679",
-              "source_name": "Hugging Face Trending Papers",
-              "published_at": "2026-09-15T00:00:00.000Z"
-            }
-          ],
-          "route": "/hot/2026-09-21/topic/ai-for-games-in-the-foundation-model-era/"
-        },
-        {
-          "topic_id": "cb65a6d16eab",
-          "slug": "atria-dawn-the-dawn-of-agentic-superintelligence",
-          "headline": "Atria Dawn: The Dawn of Agentic Superintelligence",
-          "category": "Research",
-          "summary_short": "As AI agents become participants in the development of their successors, they reshape both the production of intelligence and the role of human researchers.",
-          "why_it_matters": "This research paper surfaced across 1 independent source(s).",
-          "key_takeaways": [],
-          "scores": {
-            "final": 1.346,
-            "quality": 2.0,
-            "heat": 3.0,
-            "importance": 8.0,
-            "occurrence": 2.95,
-            "display_priority": 2.56,
-            "confidence": 2.864
-          },
-          "source_tier": "trusted_research",
-          "source_names": [
-            "Hugging Face Trending Papers"
-          ],
-          "source_roles": [
-            "paper_trending"
-          ],
-          "source_types": [
-            "paper"
-          ],
-          "llm_status": "candidate",
-          "evidence": [
-            {
-              "title": "Atria Dawn: The Dawn of Agentic Superintelligence",
-              "url": "https://huggingface.co/papers/2609.15818",
-              "source_name": "Hugging Face Trending Papers",
-              "published_at": "2026-09-14T00:00:00.000Z"
-            }
-          ],
-          "route": "/hot/2026-09-21/topic/atria-dawn-the-dawn-of-agentic-superintelligence/"
-        }
-      ]
-    }
-  ],
-  "long_tail_sections": [
-    {
-      "category": "Industry Update",
-      "total_candidates": 16,
-      "topics": [
-        {
-          "topic_id": "5bf2cfb67b6b",
-          "slug": "openai-and-anthropic-fight-it-out-for-the-top-overall-spot-while-google-meta-and-microsoft-all-release-transcription-models",
-          "headline": "OpenAI and Anthropic fight it out for the top overall spot, while Google, Meta, and Microsoft all release transcription models",
+          "topic_id": "3cbbc1d92ccd",
+          "slug": "a-u-s-strategy-to-secure-geopolitical-advantage-on-an-uncertain-path-to-superintelligence-rand",
+          "headline": "A U.S. Strategy to Secure Geopolitical Advantage on an Uncertain Path to Superintelligence (RAND)",
           "category": "Industry Update",
-          "summary_short": "The roundup covers competition between OpenAI and Anthropic and transcription model releases from Google, Meta, and Microsoft. Its editorial excerpt encourages AI engineers to actively shape products rather than merely implement specifications",
-          "why_it_matters": "This recap surfaced across 1 independent source(s).",
+          "summary_short": "A RAND report addresses U.S. strategy for securing geopolitical advantage amid uncertainty about the path to superintelligence. The supplied item includes no details about its recommendations",
+          "why_it_matters": "This opinion surfaced across 1 independent source(s).",
           "key_takeaways": [],
           "scores": {
-            "final": 5.525,
+            "final": 5.166,
             "quality": 5.0,
             "heat": 3.0,
-            "importance": 2.0,
+            "importance": 5.0,
             "occurrence": 2.95,
-            "display_priority": 4.44,
-            "confidence": 4.117
-          },
-          "source_tier": "trusted_analysis",
-          "source_names": [
-            "The Batch"
-          ],
-          "source_roles": [
-            "editorial_depth"
-          ],
-          "source_types": [
-            "roundup"
-          ],
-          "llm_status": "candidate",
-          "evidence": [
-            {
-              "title": "OpenAI and Anthropic fight it out for the top overall spot, while Google, Meta, and Microsoft all release transcription models",
-              "url": "https://www.deeplearning.ai/the-batch/tag/sep-11-2026",
-              "source_name": "The Batch",
-              "published_at": "2026-09-21T00:00:00-04:00"
-            }
-          ],
-          "route": "/hot/2026-09-21/topic/openai-and-anthropic-fight-it-out-for-the-top-overall-spot-while-google-meta-and-microsoft-all-release-transcription-models/"
-        },
-        {
-          "topic_id": "4805f665d331",
-          "slug": "meta-s-agent-security-the-navier-stokes-controversy-fraud-on-claude",
-          "headline": "Meta’s Agent Security, The Navier-Stokes Controversy, Fraud on Claude",
-          "category": "Industry Update",
-          "summary_short": "The roundup covers Meta's agent security, a Navier–Stokes controversy, and fraud involving Claude. The accompanying editorial excerpt discusses the influence of voices warning about AI dangers",
-          "why_it_matters": "This recap surfaced across 1 independent source(s).",
-          "key_takeaways": [],
-          "scores": {
-            "final": 5.525,
-            "quality": 5.0,
-            "heat": 3.0,
-            "importance": 2.0,
-            "occurrence": 2.95,
-            "display_priority": 4.44,
-            "confidence": 4.117
-          },
-          "source_tier": "trusted_analysis",
-          "source_names": [
-            "The Batch"
-          ],
-          "source_roles": [
-            "editorial_depth"
-          ],
-          "source_types": [
-            "roundup"
-          ],
-          "llm_status": "candidate",
-          "evidence": [
-            {
-              "title": "Meta’s Agent Security, The Navier-Stokes Controversy, Fraud on Claude",
-              "url": "https://www.deeplearning.ai/the-batch/tag/sep-18-2026",
-              "source_name": "The Batch",
-              "published_at": "2026-09-21T00:00:00-04:00"
-            }
-          ],
-          "route": "/hot/2026-09-21/topic/meta-s-agent-security-the-navier-stokes-controversy-fraud-on-claude/"
-        },
-        {
-          "topic_id": "b656ef2d0f83",
-          "slug": "import-ai-472-deepmind-s-cheating-math-agents-populist-ai-policies-and-forethought-theorizes-a-nightwatchman",
-          "headline": "Import AI 472: DeepMind’s cheating math agents; populist AI policies; and Forethought theorizes a nightwatchman",
-          "category": "Industry Update",
-          "summary_short": "Import AI 472 covers DeepMind math agents described as cheating and populist AI policies. It also discusses Forethought's theorizing about a nightwatchman",
-          "why_it_matters": "This recap surfaced across 1 independent source(s).",
-          "key_takeaways": [],
-          "scores": {
-            "final": 5.525,
-            "quality": 5.0,
-            "heat": 3.0,
-            "importance": 2.0,
-            "occurrence": 2.95,
-            "display_priority": 4.44,
-            "confidence": 4.117
+            "display_priority": 4.279,
+            "confidence": 4.01
           },
           "source_tier": "trusted_analysis",
           "source_names": [
@@ -1805,256 +2235,131 @@
           "llm_status": "candidate",
           "evidence": [
             {
-              "title": "Import AI 472: DeepMind’s cheating math agents; populist AI policies; and Forethought theorizes a nightwatchman",
-              "url": "https://jack-clark.net/2026/09/07/import-ai-472-deepminds-cheating-math-agents-populist-ai-policies-and-forethought-theorizes-a-nightwatchman",
+              "title": "A U.S. Strategy to Secure Geopolitical Advantage on an Uncertain Path to Superintelligence (RAND)",
+              "url": "https://www.rand.org/pubs/perspectives/PEA5105-1.html",
               "source_name": "Import AI",
               "published_at": "2026-09-21T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-21/topic/import-ai-472-deepmind-s-cheating-math-agents-populist-ai-policies-and-forethought-theorizes-a-nightwatchman/"
+          "route": "/hot/2026-09-21/topic/a-u-s-strategy-to-secure-geopolitical-advantage-on-an-uncertain-path-to-superintelligence-rand/"
         },
         {
-          "topic_id": "cc6f5d248427",
-          "slug": "is-the-ai-industry-really-ready-to-slow-down",
-          "headline": "Is the AI industry really ready to slow down?",
+          "topic_id": "ccab3d1ff675",
+          "slug": "pacing-the-frontier-a-framework-research-agenda-pacing-tech",
+          "headline": "Pacing the Frontier, a Framework & Research Agenda (pacing.tech)",
           "category": "Industry Update",
-          "summary_short": "On Equity, we debated whether Ai executives are serious about wanting to slow down",
-          "why_it_matters": "This other surfaced across 1 independent source(s).",
+          "summary_short": "Pacing.tech presents a framework and research agenda titled Pacing the Frontier. The supplied item contains no details about the framework or its proposals",
+          "why_it_matters": "This opinion surfaced across 1 independent source(s).",
           "key_takeaways": [],
           "scores": {
-            "final": 5.0,
-            "quality": 4.0,
+            "final": 5.129,
+            "quality": 5.0,
             "heat": 3.0,
-            "importance": 5.0,
+            "importance": 4.0,
             "occurrence": 2.95,
-            "display_priority": 4.204,
-            "confidence": 3.96
+            "display_priority": 4.262,
+            "confidence": 3.999
           },
           "source_tier": "trusted_analysis",
           "source_names": [
-            "TechCrunch AI"
+            "Import AI"
           ],
           "source_roles": [
             "editorial_depth"
           ],
           "source_types": [
-            "blog_analysis"
+            "roundup"
           ],
           "llm_status": "candidate",
           "evidence": [
             {
-              "title": "Is the AI industry really ready to slow down?",
-              "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down",
-              "source_name": "TechCrunch AI",
-              "published_at": "Sun, 20 Sep 2026 18:56:04 +0000"
+              "title": "Pacing the Frontier, a Framework & Research Agenda (pacing.tech)",
+              "url": "https://pacing.tech",
+              "source_name": "Import AI",
+              "published_at": "2026-09-21T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-21/topic/is-the-ai-industry-really-ready-to-slow-down/"
-        },
-        {
-          "topic_id": "dcbae4df560d",
-          "slug": "world-model-companies-are-keeping-a-lot-of-secrets",
-          "headline": "World model companies are keeping a lot of secrets",
-          "category": "Industry Update",
-          "summary_short": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building",
-          "why_it_matters": "This other surfaced across 1 independent source(s).",
-          "key_takeaways": [],
-          "scores": {
-            "final": 5.0,
-            "quality": 4.0,
-            "heat": 3.0,
-            "importance": 5.0,
-            "occurrence": 2.95,
-            "display_priority": 4.204,
-            "confidence": 3.96
-          },
-          "source_tier": "trusted_analysis",
-          "source_names": [
-            "TechCrunch AI"
-          ],
-          "source_roles": [
-            "editorial_depth"
-          ],
-          "source_types": [
-            "blog_analysis"
-          ],
-          "llm_status": "candidate",
-          "evidence": [
-            {
-              "title": "World model companies are keeping a lot of secrets",
-              "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets",
-              "source_name": "TechCrunch AI",
-              "published_at": "Sun, 20 Sep 2026 20:29:07 +0000"
-            }
-          ],
-          "route": "/hot/2026-09-21/topic/world-model-companies-are-keeping-a-lot-of-secrets/"
-        },
-        {
-          "topic_id": "b7b637495153",
-          "slug": "trump-now-says-he-wants-to-form-an-ai-force",
-          "headline": "Trump now says he wants to form an ‘AI Force’",
-          "category": "Industry Update",
-          "summary_short": "The president posted on Truth Social that he wanted to appoint an \"AI czar\" to lead a new \"AI force.\" He made the announcement amid growing calls from across the political spectrum and even within the industry to pump the brakes on AI development.",
-          "why_it_matters": "This other surfaced across 1 independent source(s).",
-          "key_takeaways": [],
-          "scores": {
-            "final": 5.0,
-            "quality": 4.0,
-            "heat": 3.0,
-            "importance": 5.0,
-            "occurrence": 2.95,
-            "display_priority": 4.204,
-            "confidence": 3.96
-          },
-          "source_tier": "trusted_analysis",
-          "source_names": [
-            "The Verge AI"
-          ],
-          "source_roles": [
-            "editorial_depth"
-          ],
-          "source_types": [
-            "blog_analysis"
-          ],
-          "llm_status": "candidate",
-          "evidence": [
-            {
-              "title": "Trump now says he wants to form an ‘AI Force’",
-              "url": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
-              "source_name": "The Verge AI",
-              "published_at": "2026-09-20T11:39:22-04:00"
-            }
-          ],
-          "route": "/hot/2026-09-21/topic/trump-now-says-he-wants-to-form-an-ai-force/"
-        },
-        {
-          "topic_id": "d52438a90ca6",
-          "slug": "ai",
-          "headline": "谷歌AI首次“越狱”：竟然自己破解密码入侵三家公司！",
-          "category": "Industry Update",
-          "summary_short": "亚马逊云科技给企业安全用Agent打了个样",
-          "why_it_matters": "This other surfaced across 1 independent source(s).",
-          "key_takeaways": [],
-          "scores": {
-            "final": 5.0,
-            "quality": 4.0,
-            "heat": 3.0,
-            "importance": 5.0,
-            "occurrence": 2.95,
-            "display_priority": 4.204,
-            "confidence": 3.96
-          },
-          "source_tier": "trusted_analysis",
-          "source_names": [
-            "量子位 (QbitAI)"
-          ],
-          "source_roles": [
-            "editorial_depth"
-          ],
-          "source_types": [
-            "blog_analysis"
-          ],
-          "llm_status": "candidate",
-          "evidence": [
-            {
-              "title": "谷歌AI首次“越狱”：竟然自己破解密码入侵三家公司！",
-              "url": "https://www.qbitai.com/2026/09/492912.html",
-              "source_name": "量子位 (QbitAI)",
-              "published_at": "Sun, 20 Sep 2026 08:01:13 +0000"
-            }
-          ],
-          "route": "/hot/2026-09-21/topic/ai/"
-        },
-        {
-          "topic_id": "177440afe68b",
-          "slug": "apus-jev",
-          "headline": "APUS 开源国内首批Jev跨平台复现：国产模型实现秒级决策",
-          "category": "Industry Update",
-          "summary_short": "9月19日，中国人工智能企业APUS旗下 AI 实验室公布了全球最早一批针对Jev的独立开源复现成果",
-          "why_it_matters": "This other surfaced across 1 independent source(s).",
-          "key_takeaways": [],
-          "scores": {
-            "final": 5.0,
-            "quality": 4.0,
-            "heat": 3.0,
-            "importance": 5.0,
-            "occurrence": 2.95,
-            "display_priority": 4.204,
-            "confidence": 3.96
-          },
-          "source_tier": "trusted_analysis",
-          "source_names": [
-            "量子位 (QbitAI)"
-          ],
-          "source_roles": [
-            "editorial_depth"
-          ],
-          "source_types": [
-            "blog_analysis"
-          ],
-          "llm_status": "candidate",
-          "evidence": [
-            {
-              "title": "APUS 开源国内首批Jev跨平台复现：国产模型实现秒级决策",
-              "url": "https://www.qbitai.com/2026/09/492939.html",
-              "source_name": "量子位 (QbitAI)",
-              "published_at": "Sun, 20 Sep 2026 08:30:32 +0000"
-            }
-          ],
-          "route": "/hot/2026-09-21/topic/apus-jev/"
+          "route": "/hot/2026-09-21/topic/pacing-the-frontier-a-framework-research-agenda-pacing-tech/"
         }
       ]
     }
   ],
   "watchlist": [
     {
-      "topic_id": "e8820337c79d",
-      "slug": "a-nightwatchman-on-every-probe-superintelligent-surveillance-to-prevent-galactic-anarchy-forethought",
-      "headline": "A nightwatchman on every probe: Superintelligent surveillance to prevent galactic anarchy (Forethought)",
-      "category": "Industry Update",
-      "summary_short": "A nightwatchman on every probe: Superintelligent surveillance to prevent galactic anarchy (Forethought",
-      "why_it_matters": "This other surfaced across 1 independent source(s).",
+      "topic_id": "17750383bcbd",
+      "slug": "introducing-grok-voice-transcribe-2-0",
+      "headline": "Introducing Grok Voice Transcribe 2.0",
+      "category": "Product Release",
+      "summary_short": "Sep 21, 2026",
+      "why_it_matters": "This product release surfaced across 1 independent source(s).",
       "key_takeaways": [],
       "scores": {
-        "final": 7.99,
-        "quality": 7.0,
+        "final": 9.5,
+        "quality": 9.0,
         "heat": 3.0,
-        "importance": 5.0,
+        "importance": 10.0,
         "occurrence": 2.95,
-        "display_priority": 5.999,
-        "confidence": 4.857
+        "display_priority": 7.069,
+        "confidence": 6.21
       },
-      "source_tier": "trusted_analysis",
+      "source_tier": "official",
       "source_names": [
-        "Import AI"
+        "xAI Blog"
       ],
       "source_roles": [
-        "editorial_depth"
+        "official_news"
       ],
       "source_types": [
-        "roundup"
+        "official_blog"
       ],
       "llm_status": "watchlist",
       "evidence": [
         {
-          "title": "A nightwatchman on every probe: Superintelligent surveillance to prevent galactic anarchy (Forethought)",
-          "url": "https://www.forethought.org/research/nightwatchmen",
-          "source_name": "Import AI",
-          "published_at": "2026-09-21T00:00:00-04:00"
+          "title": "Introducing Grok Voice Transcribe 2.0",
+          "url": "https://x.ai/news/grok-voice-transcribe-2",
+          "source_name": "xAI Blog",
+          "published_at": "2026-09-21T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-09-21/topic/a-nightwatchman-on-every-probe-superintelligent-surveillance-to-prevent-galactic-anarchy-forethought/"
+      "route": "/hot/2026-09-21/topic/introducing-grok-voice-transcribe-2-0/"
     }
   ],
   "x_buzz": [
     {
-      "title": "A nightwatchman on every probe: Superintelligent surveillance to prevent galactic anarchy (Forethought)",
-      "summary": "",
-      "url": "https://www.forethought.org/research/nightwatchmen",
-      "source_id": "import_ai",
-      "source_name": "Import AI",
-      "source_role": "editorial_depth",
-      "linked_topic": "A nightwatchman on every probe: Superintelligent surveillance to prevent galactic anarchy (Forethought)"
+      "title": "Biosecurity at the frontier",
+      "summary": "LatchBio evaluated Grok's performance on biosecurity monitoring and adversarial biological tasks. They found that Grok 4.6 detects and refuses dangerous queries more reliably than any other frontier system.",
+      "url": "https://x.ai/news/biosafety-at-the-frontier",
+      "source_id": "xai_blog",
+      "source_name": "xAI Blog",
+      "source_role": "official_news",
+      "linked_topic": "Biosecurity at the frontier"
+    },
+    {
+      "title": "Grok Bot for Enterprise",
+      "summary": "Grok Bot is now available for enterprises. Grok and Cursor Enterprise customers have free usage for the next two weeks, and can invite their whole organization, including people without an existing seat.",
+      "url": "https://x.ai/news/grok-bot-for-enterprise",
+      "source_id": "xai_blog",
+      "source_name": "xAI Blog",
+      "source_role": "official_news",
+      "linked_topic": "Grok Bot for Enterprise"
+    },
+    {
+      "title": "Grok Bot now works with X",
+      "summary": "Grok Bot now has a tighter integration with X.",
+      "url": "https://x.ai/news/grok-bot-and-x",
+      "source_id": "xai_blog",
+      "source_name": "xAI Blog",
+      "source_role": "official_news",
+      "linked_topic": "Grok Bot for Enterprise"
+    },
+    {
+      "title": "Introducing Grok Voice Transcribe 2.0",
+      "summary": "Sep 21, 2026",
+      "url": "https://x.ai/news/grok-voice-transcribe-2",
+      "source_id": "xai_blog",
+      "source_name": "xAI Blog",
+      "source_role": "official_news",
+      "linked_topic": "Introducing Grok Voice Transcribe 2.0"
     },
     {
       "title": "DeepSeek Sharpens Its Reasoning: DeepSeek-R1, an affordable rival to OpenAI’s o1",
@@ -2064,33 +2369,6 @@
       "source_name": "The Batch",
       "source_role": "editorial_depth",
       "linked_topic": "DeepSeek Sharpens Its Reasoning: DeepSeek-R1, an affordable rival to OpenAI’s o1"
-    },
-    {
-      "title": "Introducing DeepLearning.AI Pro",
-      "summary": "",
-      "url": "https://www.deeplearning.ai/the-batch/introducing-deeplearning-ai-pro",
-      "source_id": "the_batch",
-      "source_name": "The Batch",
-      "source_role": "editorial_depth",
-      "linked_topic": "Introducing DeepLearning.AI Pro"
-    },
-    {
-      "title": "Gemini went rogue, hacked three companies, and Google hid it",
-      "summary": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of the model's cybersecurity capabilities run by third-party Irregular, which was also involved in similar incidents involving Meta and OpenAI. According to WSJ, Google didn't [&#8230;]",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
-      "source_id": "analysis_theverge_ai",
-      "source_name": "The Verge AI",
-      "source_role": "editorial_depth",
-      "linked_topic": ""
-    },
-    {
-      "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
-      "summary": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts, Muse doesn't actually know how to describe itself. Jason Aten, a contributing editor at Inc Magazine, posted on Threads [&#8230;]",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
-      "source_id": "analysis_theverge_ai",
-      "source_name": "The Verge AI",
-      "source_role": "editorial_depth",
-      "linked_topic": ""
     }
   ],
   "resurgence": []
