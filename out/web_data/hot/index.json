@@ -1,29 +1,29 @@
 {
   "schema_version": 1,
-  "latest_date": "2026-09-14",
+  "latest_date": "2026-09-21",
   "dates": [
     {
-      "date": "2026-09-14",
+      "date": "2026-09-21",
       "month": "2026-09",
       "year": "2026",
-      "summary": "• [Product Release] Perplexity trusts GPT-6 Astra with end-to-end systems — This product release surfaced across 2 independent source(s).\n• [Product Release] Same bytes, closer to the original: two lines of AutoRound we had wrong — This product release surfaced across 1 independent source(s).\n• [Product Release] New API Features 2024/07/25 — This product release surfaced across 1 independent source(s).\n• [Product Release] Thinking Mode — This product release surfaced across 1 independent source(s).\n• [Product Release] agent-launch/agent-launcher — This product release surfaced across 1 independent source(s).",
-      "featured_topics": 5,
-      "source_items": 26,
-      "topic_summary": 1,
+      "summary": "• [Product Release] DeepSeek Sharpens Its Reasoning: DeepSeek-R1, an affordable rival to OpenAI’s o1 — This product release surfaced across 1 independent source(s).\n• [Product Release] Introducing DeepLearning.AI Pro — This product release surfaced across 1 independent source(s).\n• [Product Release] 4 min read Claude gets 2 new features & a simpler platform — This product release surfaced across 1 independent source(s).",
+      "featured_topics": 3,
+      "source_items": 23,
+      "topic_summary": 0,
       "source_section_counts": {
-        "official": 7,
-        "market-signals": 0,
+        "official": 3,
+        "market-signals": 1,
         "analysis": 8,
         "papers": 0,
         "github": 6,
         "industry": 5
       },
-      "route": "/hot/2026-09-14/",
+      "route": "/hot/2026-09-21/",
       "paper_routes": {
         "home": "../../",
-        "day": "../../archive/2026-09/14/",
-        "month": "../../archive/2026-09/",
-        "year": "../../archive/2026/"
+        "day": null,
+        "month": null,
+        "year": null
       }
     }
   ],
@@ -31,8 +31,8 @@
     {
       "month": "2026-09",
       "days": 1,
-      "featured_topics": 5,
-      "source_items": 26,
+      "featured_topics": 3,
+      "source_items": 23,
       "route": "/hot/2026-09/"
     }
   ],
@@ -40,8 +40,8 @@
     {
       "year": "2026",
       "days": 1,
-      "featured_topics": 5,
-      "source_items": 26,
+      "featured_topics": 3,
+      "source_items": 23,
       "route": "/hot/2026/"
     }
   ]
