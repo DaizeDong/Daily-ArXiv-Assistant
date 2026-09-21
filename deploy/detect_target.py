@@ -55,7 +55,15 @@ def detect_backend(which=shutil.which, environ=os.environ) -> str:
     bare container it imports fine and then every call fails. Importability is
     not availability. This asks for the CLIs.
     """
-    if which("codexg") or which("codex") or which("cc") or which("claude"):
+    # Deliberately NOT "cc". It is the llmcall chain's alias for Claude Code,
+    # and it is also the C compiler that POSIX requires on every Unix. Probing
+    # it reported a working model transport on the first host this ran against
+    # -- a container with no model CLI at all, where /usr/bin/cc is gcc 14 --
+    # which would have pinned the backend to llmcall and made every call fail.
+    # That is the same "present is not usable" mistake this function exists to
+    # prevent, one level up. A host that really does have cc as Claude Code can
+    # say so with ARXIV_ASSISTANT_LLM_BACKEND in the env file.
+    if which("codexg") or which("codex") or which("claude"):
         return "auto"
     if environ.get("OPENAI_API_KEY") and environ.get("OPENAI_BASE_URL"):
         return "openai"

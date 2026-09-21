@@ -87,6 +87,18 @@ class BackendDetectionTests(unittest.TestCase):
     def test_a_provider_cli_means_auto_is_safe(self):
         self.assertEqual(dt.detect_backend(fake_which("claude"), {}), "auto")
 
+    def test_the_c_compiler_is_not_a_model_transport(self):
+        # `cc` is the llmcall chain's alias for Claude Code and also the C
+        # compiler POSIX requires on every Unix. Probing the name reported a
+        # working transport on the first host this ran against: a container
+        # with no model CLI at all, where /usr/bin/cc is gcc 14. The backend
+        # would have been pinned to llmcall and every call would have failed.
+        self.assertEqual(
+            dt.detect_backend(fake_which("cc", "gcc", "make"), {}), "none",
+            "a host with a C compiler and no model CLI was reported as able "
+            "to reach a model",
+        )
+
     def test_no_transport_at_all_is_a_blocker(self):
         data = dt.report(fake_which("python3", "git"), Path("/nonexistent"), {})
         self.assertEqual(data["backend"], "none")
