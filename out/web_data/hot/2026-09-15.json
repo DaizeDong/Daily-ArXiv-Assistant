@@ -3044,7 +3044,8 @@
               "published_at": "2026-09-15T03:30:08+00:00"
             }
           ],
-          "route": "/hot/2026-09-15/topic/shadowpeft-peft/"
+          "route": "/hot/2026-09-15/topic/shadowpeft-peft/",
+          "headline_zh": "适配器即模型 —— ShadowPEFT 现已集成到 🤗 PEFT 库"
         },
         {
           "topic_id": "c9f9d57ed4dc",
