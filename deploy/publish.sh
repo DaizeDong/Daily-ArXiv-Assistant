@@ -83,12 +83,41 @@ for attempt in 1 2 3; do
   git -C "$WORK" fetch origin auto_update --quiet
   git -C "$WORK" reset --hard origin/auto_update --quiet
 
-  mkdir -p "$WORK/out/web_data/hot"
+  mkdir -p "$WORK/out/web_data/hot" "$WORK/out/hot/reports" "$WORK/out/hot/normalized"
   # Whole files here, not a field merge: this host GENERATED the day, so it owns
   # the content. The Pages build merges only _zh because it owns only that.
   cp -f out/web_data/hot/*.json "$WORK/out/web_data/hot/" 2>/dev/null || true
 
-  git -C "$WORK" add -f out/web_data/hot/
+  # reports/ and normalized/ are not optional extras, and publishing only
+  # web_data looked like it worked for a week. The Pages build's first hotspot
+  # step is rebuild_hotspot_web_data.py, which does `shutil.rmtree(web_data)`
+  # and regenerates every day from reports/ plus normalized/. A day published
+  # as web_data alone therefore exists on the branch, survives every later
+  # commit, and is deleted inside each build before the translator or the site
+  # ever sees it: seven backfilled days sat on auto_update while the site
+  # showed a gap, the translator listed 2026-09-01 through 09-14 and then
+  # stopped, and every step of that build reported success.
+  cp -f out/hot/reports/*.json "$WORK/out/hot/reports/" 2>/dev/null || true
+  cp -f out/hot/normalized/*.json "$WORK/out/hot/normalized/" 2>/dev/null || true
+
+  # Refuse to publish a day whose inputs are missing, rather than publishing a
+  # payload that every build will quietly drop.
+  missing=""
+  for f in "$WORK"/out/web_data/hot/20*.json; do
+    [ -e "$f" ] || continue
+    d="$(basename "$f" .json)"
+    case "$d" in *-*-*) ;; *) continue ;; esac
+    [ -f "$WORK/out/hot/reports/$d.json" ] && [ -f "$WORK/out/hot/normalized/$d.json" ] \
+      || missing="$missing $d"
+  done
+  if [ -n "$missing" ]; then
+    echo "publish: these days have web_data but no reports/normalized, so every"
+    echo "publish: site build would regenerate them away:$missing"
+    echo "publish: generate them on this host, or remove their web_data."
+    exit 1
+  fi
+
+  git -C "$WORK" add -f out/web_data/hot/ out/hot/reports/ out/hot/normalized/
   if git -C "$WORK" diff --cached --quiet; then
     echo "publish: nothing new"
     exit 0
