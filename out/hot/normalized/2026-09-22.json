@@ -1,0 +1,2197 @@
+[
+  {
+    "source_id": "hf_papers",
+    "source_name": "Hugging Face Trending Papers",
+    "source_role": "paper_trending",
+    "source_type": "paper",
+    "title": "Deep Persona: A Psychologically Grounded Architecture and Evaluation Framework for Role-Playing Agents and Simulations",
+    "summary": "Existing approaches to persona simulation with Large Language Models (LLMs) mostly rely on shallow character descriptions that fail to sustain coherent character behavior across extended interactions. We introduce Deep Persona, a psychologically grounded, three-layered architecture that organizes personas into hierarchical levels of observable expression, latent beliefs, and core motivational drives, for constructing highly convincing role-playing agents. Governed by the principles of scripted determinism and bounded agency, the architecture restricts the model to a reactive engine guided b...",
+    "url": "https://huggingface.co/papers/2609.22255",
+    "canonical_url": "https://arxiv.org/abs/2609.22255",
+    "published_at": "2026-09-06T00:00:00.000Z",
+    "tags": [],
+    "authors": [
+      "Rotem Dror",
+      "Zohar Elyoseph",
+      "Yuval Haber",
+      "Elad Refoua",
+      "Oshrat Ayalon",
+      "Adir Solomon"
+    ],
+    "metadata": {
+      "ai_summary": "",
+      "arxiv_id": "2609.22255",
+      "daily_score": 9,
+      "github_url": null,
+      "hf_url": "https://huggingface.co/papers/2609.22255",
+      "novelty": 0,
+      "relevance": 0,
+      "spotlight_comment": "",
+      "spotlight_primary_kind": "",
+      "spotlight_primary_label": "",
+      "upvotes": 9
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "hf_papers",
+    "source_name": "Hugging Face Trending Papers",
+    "source_role": "paper_trending",
+    "source_type": "paper",
+    "title": "OmniEdu: Open Foundation Models for Learning and Teaching",
+    "summary": "Educational foundation models must solve problems, understand curriculum structure, diagnose learner difficulties, and provide appropriate instructional support. Existing educational language models often focus on either problem solving or tutoring, with training mixtures organized by source or task rather than capability. We present OmniEdu, an open family of foundation models for K-12 learning and teaching. Its instruction-tuning corpus combines over 100 educational resources and general instruction sources, organized around four capabilities: subject competence, curriculum grounding, dia...",
+    "url": "https://huggingface.co/papers/2609.23088",
+    "canonical_url": "https://arxiv.org/abs/2609.23088",
+    "published_at": "2026-09-19T00:00:00.000Z",
+    "tags": [],
+    "authors": [
+      "Hao Liang",
+      "Qihan Lin",
+      "Meiyi Qiang",
+      "Linzhuang Sun",
+      "Hengyi Feng",
+      "Mingrui Chen",
+      "Sizhe Qiu",
+      "Wentao Zhang"
+    ],
+    "metadata": {
+      "ai_summary": "",
+      "arxiv_id": "2609.23088",
+      "daily_score": 21,
+      "github_url": "https://github.com/haolpku/Omni-Edu",
+      "hf_url": "https://huggingface.co/papers/2609.23088",
+      "novelty": 0,
+      "relevance": 0,
+      "spotlight_comment": "Educational foundation models must solve problems, understand curriculum structure, diagnose learner difficulties, and provide appropriate instructional support. Existing educational language models often focus on either problem solving or tutoring, with training mixtures organized by source or t...",
+      "spotlight_primary_kind": "daily_hot",
+      "spotlight_primary_label": "Daily Hot Papers",
+      "upvotes": 21
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "hf_papers",
+    "source_name": "Hugging Face Trending Papers",
+    "source_role": "paper_trending",
+    "source_type": "paper",
+    "title": "Transferring the Intelligence of VLMs to Robotic Control",
+    "summary": "Humans can seamlessly adapt to both physical and digital worlds, suggesting that while a digital-to-real gap exists in embodiment, environment and task, human intelligence itself may transfer across this gap. This naturally raises a fundamental question: can the intelligence of vision-language models (VLMs) similarly generalize from the digital world to the physical world for robotic control? We investigate this question through RoboDawn, a human-intuitive interface that exposes robotic control to an agentic VLM through a compact set of discrete translation, rotation, and gripper commands....",
+    "url": "https://huggingface.co/papers/2609.22966",
+    "canonical_url": "https://arxiv.org/abs/2609.22966",
+    "published_at": "2026-09-19T00:00:00.000Z",
+    "tags": [],
+    "authors": [
+      "Meng-Hao Guo",
+      "Zhe-Han Mo",
+      "Jia-Jun Wang",
+      "Yi Zhang",
+      "Kejin Wang",
+      "Yi-Xuan Deng",
+      "Jia-Peng Zhang",
+      "Yongming Rao",
+      "Shi-Min Hu"
+    ],
+    "metadata": {
+      "ai_summary": "",
+      "arxiv_id": "2609.22966",
+      "daily_score": 25,
+      "github_url": null,
+      "hf_url": "https://huggingface.co/papers/2609.22966",
+      "novelty": 0,
+      "relevance": 0,
+      "spotlight_comment": "Humans can seamlessly adapt to both physical and digital worlds, suggesting that while a digital-to-real gap exists in embodiment, environment and task, human intelligence itself may transfer across this gap. This naturally raises a fundamental question: can the intelligence of vision-language mo...",
+      "spotlight_primary_kind": "daily_hot",
+      "spotlight_primary_label": "Daily Hot Papers",
+      "upvotes": 25
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "hf_papers",
+    "source_name": "Hugging Face Trending Papers",
+    "source_role": "paper_trending",
+    "source_type": "paper",
+    "title": "Grounded Action Model: 3D Grounding as a Foundation for Robotics",
+    "summary": "Manipulation policies must know which objects matter and where they are, yet the pretrained backbones that current robot foundation models build on, from language in vision-language-action models (VLAs) to video generation in world-action models (WAMs), do not directly require this metric grounding, leaving it to be learned implicitly from robot demonstrations. We propose Grounded Action Models (GAMs), a new paradigm of robot foundation models built with 3D grounding. GAM can be conditioned using language, points, or box prompts, which are first transformed into a shared object-centric repr...",
+    "url": "https://huggingface.co/papers/2609.23863",
+    "canonical_url": "https://arxiv.org/abs/2609.23863",
+    "published_at": "2026-09-20T00:00:00.000Z",
+    "tags": [],
+    "authors": [
+      "Gehao Zhang",
+      "Weikai Huang",
+      "Shailesh Shailesh",
+      "Yiyan Peng",
+      "Jiafei Duan",
+      "Ranjay Krishna"
+    ],
+    "metadata": {
+      "ai_summary": "",
+      "arxiv_id": "2609.23863",
+      "daily_score": 15,
+      "github_url": "https://github.com/GehaoZhang6/Grounded-Action-Model",
+      "hf_url": "https://huggingface.co/papers/2609.23863",
+      "novelty": 0,
+      "relevance": 0,
+      "spotlight_comment": "Manipulation policies must know which objects matter and where they are, yet the pretrained backbones that current robot foundation models build on, from language in vision-language-action models (VLAs) to video generation in world-action models (WAMs), do not directly require this metric groundi...",
+      "spotlight_primary_kind": "daily_hot",
+      "spotlight_primary_label": "Daily Hot Papers",
+      "upvotes": 15
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "hf_papers",
+    "source_name": "Hugging Face Trending Papers",
+    "source_role": "paper_trending",
+    "source_type": "paper",
+    "title": "One to More, More to One: Category-Aware Iterative Expert Training for Software Engineering Agents",
+    "summary": "Repository-level software engineering (SWE) comprises heterogeneous task categories, whose progress under pooled agentic reinforcement learning can be uneven: gains in some categories coincide with regressions in others, while aggregate resolution obscures these changes. Motivated by this category see-saw, we develop a category-aware expert-training and policy-integration framework. Executable task construction and SWE Labeler, an evidence-grounded multi-axis labeling system, organize the training pools. Initial category-specific RL improves average training success while leaving uneven ins...",
+    "url": "https://huggingface.co/papers/2609.23377",
+    "canonical_url": "https://arxiv.org/abs/2609.23377",
+    "published_at": "2026-09-20T00:00:00.000Z",
+    "tags": [],
+    "authors": [
+      "Jie Zhao",
+      "Ziyu Jiang",
+      "Suhang Zheng",
+      "Minghui Shan",
+      "Xiaoxiao Xu",
+      "Lin Qu"
+    ],
+    "metadata": {
+      "ai_summary": "",
+      "arxiv_id": "2609.23377",
+      "daily_score": 13,
+      "github_url": null,
+      "hf_url": "https://huggingface.co/papers/2609.23377",
+      "novelty": 0,
+      "relevance": 0,
+      "spotlight_comment": "",
+      "spotlight_primary_kind": "",
+      "spotlight_primary_label": "",
+      "upvotes": 13
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "hf_papers",
+    "source_name": "Hugging Face Trending Papers",
+    "source_role": "paper_trending",
+    "source_type": "paper",
+    "title": "Document Retrieval-Aware Chunking (D-RAC): Universal Retrieval-Aware Ingestion of Enterprise Documents via PDF Normalization and Multimodal Markdown Conversion",
+    "summary": "Retrieval-Augmented Generation (RAG) systems over enterprise knowledge bases must ingest heterogeneous document formats -- PDFs, Word documents, presentations, and scans -- whose content is locked inside complex visual layouts, multi-column pages, and dense tables. Rule-based extraction and OCR destroy reading order, flatten tables, and lose heading hierarchy, while fully agentic chunking over extracted text incurs high token costs and hallucination risk. We present Document Retrieval-Aware Chunking (D-RAC), an extension of our Web Retrieval-Aware Chunking (W-RAC) framework to arbitrary doc...",
+    "url": "https://huggingface.co/papers/2609.24220",
+    "canonical_url": "https://arxiv.org/abs/2609.24220",
+    "published_at": "2026-09-21T00:00:00.000Z",
+    "tags": [],
+    "authors": [
+      "Uday Allu",
+      "Abhivanth Sivaprakash",
+      "Pratik Singh",
+      "Aman Manocha"
+    ],
+    "metadata": {
+      "ai_summary": "",
+      "arxiv_id": "2609.24220",
+      "daily_score": 19,
+      "github_url": null,
+      "hf_url": "https://huggingface.co/papers/2609.24220",
+      "novelty": 0,
+      "relevance": 0,
+      "spotlight_comment": "Retrieval-Augmented Generation (RAG) systems over enterprise knowledge bases must ingest heterogeneous document formats -- PDFs, Word documents, presentations, and scans -- whose content is locked inside complex visual layouts, multi-column pages, and dense tables. Rule-based extraction and OCR d...",
+      "spotlight_primary_kind": "daily_hot",
+      "spotlight_primary_label": "Daily Hot Papers",
+      "upvotes": 19
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "hf_papers",
+    "source_name": "Hugging Face Trending Papers",
+    "source_role": "paper_trending",
+    "source_type": "paper",
+    "title": "GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay",
+    "summary": "Modern video games provide a measurable testbed for AI models, combining abilities of visual understanding, instruction decomposition, goal planning, and precise action control over multiple temporal horizons. Existing datasets and benchmarks, however, either cover a narrow range of games, lack language instructions, or rely on high-variance online rollouts. To address these challenges, we introduce GameHorizon, a unified data and evaluation suite that measures gameplay capabilities at different horizons for diverse model families. GameHorizon Suite consists of three components. First, Game...",
+    "url": "https://huggingface.co/papers/2609.25001",
+    "canonical_url": "https://arxiv.org/abs/2609.25001",
+    "published_at": "2026-09-21T00:00:00.000Z",
+    "tags": [],
+    "authors": [
+      "Yiran Wang",
+      "Xingyilang Yin",
+      "Junfu Pu",
+      "Guangzhi Wang",
+      "Kaifeng Li",
+      "Mingyu Ouyang",
+      "Huiqiang Sun",
+      "Lingen Li",
+      "Cheng Cheng",
+      "Wangbo Yu",
+      "Honghao Chen",
+      "Xiaodong Cun",
+      "Chi-Man Pun",
+      "Zhiguo Cao",
+      "Ying Shan"
+    ],
+    "metadata": {
+      "ai_summary": "",
+      "arxiv_id": "2609.25001",
+      "daily_score": 33,
+      "github_url": "https://github.com/TencentARC/GameHorizon",
+      "hf_url": "https://huggingface.co/papers/2609.25001",
+      "novelty": 0,
+      "relevance": 0,
+      "spotlight_comment": "Modern video games provide a measurable testbed for AI models, combining abilities of visual understanding, instruction decomposition, goal planning, and precise action control over multiple temporal horizons. Existing datasets and benchmarks, however, either cover a narrow range of games, lack l...",
+      "spotlight_primary_kind": "daily_hot",
+      "spotlight_primary_label": "Daily Hot Papers",
+      "upvotes": 33
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "hf_papers",
+    "source_name": "Hugging Face Trending Papers",
+    "source_role": "paper_trending",
+    "source_type": "paper",
+    "title": "Harness-Zero: Harness Distillation via Agent-as-Harness",
+    "summary": "Agent harnesses, the external systems that mediate model-environment interaction, can substantially improve agent performance, but their gains remain tied to the harness at deployment. Because the best harness varies across domains, instances, and models, a general-purpose agent must either settle for a suboptimal shared harness or route among an ever-growing set of specialized ones. We therefore study agent harness distillation: using a domain- or instance-optimized harness as training-time guidance and transferring the behaviors it induces into model weights, so that its gains survive und...",
+    "url": "https://huggingface.co/papers/2609.24974",
+    "canonical_url": "https://arxiv.org/abs/2609.24974",
+    "published_at": "2026-09-21T00:00:00.000Z",
+    "tags": [],
+    "authors": [
+      "Haoran Ye",
+      "Yuxing Lu",
+      "Haonan Dong",
+      "Zhaochen Su",
+      "Guojie Song"
+    ],
+    "metadata": {
+      "ai_summary": "",
+      "arxiv_id": "2609.24974",
+      "daily_score": 10,
+      "github_url": "https://github.com/metaevo-ai/harness-zero",
+      "hf_url": "https://huggingface.co/papers/2609.24974",
+      "novelty": 0,
+      "relevance": 0,
+      "spotlight_comment": "",
+      "spotlight_primary_kind": "",
+      "spotlight_primary_label": "",
+      "upvotes": 10
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "hf_papers",
+    "source_name": "Hugging Face Trending Papers",
+    "source_role": "paper_trending",
+    "source_type": "paper",
+    "title": "onPanda: Efficient Annotation of On-Policy Alignment Data for LLMs and Agents via Token-Level Correction",
+    "summary": "We present onPanda, an interactive tool for efficiently annotating LLM alignment data and agent trajectories. onPanda adopts token-level correction as its core interaction: while reading a model response, the annotator locates the first inappropriate token and either picks a substitute from the model's candidate tokens or types the correct text via free-form editing. The system then truncates everything after that position and continues generation from the corrected prefix, repeating this locate-correct-continue loop until a satisfactory response is obtained. This mechanism lets annotators...",
+    "url": "https://huggingface.co/papers/2609.24983",
+    "canonical_url": "https://arxiv.org/abs/2609.24983",
+    "published_at": "2026-09-21T00:00:00.000Z",
+    "tags": [],
+    "authors": [
+      "Lei Yang",
+      "Mengyin Liu",
+      "Jia Wang",
+      "Hangyu Guo",
+      "Liang Zhao",
+      "Zheng Ge",
+      "Kang An",
+      "Binxing Jiao",
+      "Qi Han",
+      "Daxin Jiang",
+      "Siqi Shen",
+      "Xiangyu Zhang"
+    ],
+    "metadata": {
+      "ai_summary": "",
+      "arxiv_id": "2609.24983",
+      "daily_score": 19,
+      "github_url": "https://github.com/on-panda/on-panda",
+      "hf_url": "https://huggingface.co/papers/2609.24983",
+      "novelty": 0,
+      "relevance": 0,
+      "spotlight_comment": "We present onPanda, an interactive tool for efficiently annotating LLM alignment data and agent trajectories. onPanda adopts token-level correction as its core interaction: while reading a model response, the annotator locates the first inappropriate token and either picks a substitute from the m...",
+      "spotlight_primary_kind": "daily_hot",
+      "spotlight_primary_label": "Daily Hot Papers",
+      "upvotes": 19
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "hf_papers",
+    "source_name": "Hugging Face Trending Papers",
+    "source_role": "paper_trending",
+    "source_type": "paper",
+    "title": "RRSI: Regularized Recursive Self-Improvement of Agent Harnesses",
+    "summary": "An LLM agent's capability is largely magnified by its harness, namely the prompts, control flow, tooling, memory, and context management surrounding the frozen backbone model. Recent methods increasingly automate this process by iteratively proposing and selecting component-wise edits of an agent harness, practically establishing a form of recursive self-improvement (RSI) at the agent-system level. However, such recursive evolution may overfit by memorizing the training tasks, showing large in-distribution gains that shrink or even vanish on out-of-distribution benchmarks. We introduce Regu...",
+    "url": "https://huggingface.co/papers/2609.24972",
+    "canonical_url": "https://arxiv.org/abs/2609.24972",
+    "published_at": "2026-09-21T00:00:00.000Z",
+    "tags": [],
+    "authors": [
+      "Peng Xia",
+      "Rujun Han",
+      "Zifeng Wang",
+      "Yanfei Chen",
+      "Yufan Zhang",
+      "Yoonho Lee",
+      "Chengsong Huang",
+      "Han Yu",
+      "Zhongying CuiZhu",
+      "Yifei Ming",
+      "Huaxiu Yao",
+      "Burak Gokturk",
+      "Tomas Pfister",
+      "Chen-Yu Lee"
+    ],
+    "metadata": {
+      "ai_summary": "",
+      "arxiv_id": "2609.24972",
+      "daily_score": 65,
+      "github_url": "https://github.com/google-research/rrsi",
+      "hf_url": "https://huggingface.co/papers/2609.24972",
+      "novelty": 0,
+      "relevance": 0,
+      "spotlight_comment": "An LLM agent's capability is largely magnified by its harness, namely the prompts, control flow, tooling, memory, and context management surrounding the frozen backbone model. Recent methods increasingly automate this process by iteratively proposing and selecting component-wise edits of an agent...",
+      "spotlight_primary_kind": "daily_hot",
+      "spotlight_primary_label": "Daily Hot Papers",
+      "upvotes": 65
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "hf_papers",
+    "source_name": "Hugging Face Trending Papers",
+    "source_role": "paper_trending",
+    "source_type": "paper",
+    "title": "VideoGen-Agent: Reinforcing Video Generation Agents",
+    "summary": "Recent advances in video generative models have enabled high-fidelity, temporally coherent video generation. However, these models often struggle to satisfy prompts requiring specialized knowledge, specific identities, physical consistency, or ordered events. In this paper, we present VideoGen-Agent, a multimodal agent trained through multitask agentic reinforcement learning to use external tools for video generation. The agent coordinates augmentation, generation, and verification tools through multi-turn interactions, using the prompt and intermediate observations to guide its decisions....",
+    "url": "https://huggingface.co/papers/2609.24997",
+    "canonical_url": "https://arxiv.org/abs/2609.24997",
+    "published_at": "2026-09-21T00:00:00.000Z",
+    "tags": [],
+    "authors": [
+      "Binxu Li",
+      "Haoyi Duan",
+      "Yuhui Zhang",
+      "Yaohui Zhang",
+      "Zihao Lin",
+      "Kaituo Feng",
+      "Suozhi Huang",
+      "Xiangyi Li",
+      "Yu Li",
+      "Chunyuan Li",
+      "Shilong Liu",
+      "Mengdi Wang"
+    ],
+    "metadata": {
+      "ai_summary": "",
+      "arxiv_id": "2609.24997",
+      "daily_score": 21,
+      "github_url": null,
+      "hf_url": "https://huggingface.co/papers/2609.24997",
+      "novelty": 0,
+      "relevance": 0,
+      "spotlight_comment": "Recent advances in video generative models have enabled high-fidelity, temporally coherent video generation. However, these models often struggle to satisfy prompts requiring specialized knowledge, specific identities, physical consistency, or ordered events. In this paper, we present VideoGen-Ag...",
+      "spotlight_primary_kind": "daily_hot",
+      "spotlight_primary_label": "Daily Hot Papers",
+      "upvotes": 21
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "hf_papers",
+    "source_name": "Hugging Face Trending Papers",
+    "source_role": "paper_trending",
+    "source_type": "paper",
+    "title": "WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory",
+    "summary": "Video world models enable interactive exploration of dynamic environments, yet struggle to respect prior observations over long horizons and across viewpoints. We present WorldCrafter, a video world model that learns a camera-queryable implicit 3D-aware memory for this purpose. The key insight is to let the requested viewpoint shape how multi-view evidence is compressed into the video generator's limited token budget. Trained jointly with the video generator, a memory encoder and pose-conditioned readout module integrate historical observations into a fixed set of target view-specific token...",
+    "url": "https://huggingface.co/papers/2609.24984",
+    "canonical_url": "https://arxiv.org/abs/2609.24984",
+    "published_at": "2026-09-21T00:00:00.000Z",
+    "tags": [],
+    "authors": [
+      "Wangbo Yu",
+      "Kunhao Liu",
+      "Wenbo Hu",
+      "Shenghai Yuan",
+      "Chaoran Feng",
+      "Haiyang Zhou",
+      "Yukun Huang",
+      "Yiran Wang",
+      "Wang Zhao",
+      "Yingmin Luo",
+      "Ying Shan"
+    ],
+    "metadata": {
+      "ai_summary": "",
+      "arxiv_id": "2609.24984",
+      "daily_score": 44,
+      "github_url": "https://github.com/TencentARC/WorldCrafter",
+      "hf_url": "https://huggingface.co/papers/2609.24984",
+      "novelty": 0,
+      "relevance": 0,
+      "spotlight_comment": "Video world models enable interactive exploration of dynamic environments, yet struggle to respect prior observations over long horizons and across viewpoints. We present WorldCrafter, a video world model that learns a camera-queryable implicit 3D-aware memory for this purpose. The key insight is...",
+      "spotlight_primary_kind": "daily_hot",
+      "spotlight_primary_label": "Daily Hot Papers",
+      "upvotes": 44
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "xai_blog",
+    "source_name": "xAI Blog",
+    "source_role": "official_news",
+    "source_type": "official_blog",
+    "title": "Biosecurity at the frontier",
+    "summary": "LatchBio evaluated Grok's performance on biosecurity monitoring and adversarial biological tasks. They found that Grok 4.6 detects and refuses dangerous queries more reliably than any other frontier system.",
+    "url": "https://x.ai/news/biosafety-at-the-frontier",
+    "canonical_url": "https://x.ai/news/biosafety-at-the-frontier",
+    "published_at": "2026-09-21T00:00:00+00:00",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "is_official": true,
+      "publisher": "xAI Blog"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "xai_blog",
+    "source_name": "xAI Blog",
+    "source_role": "official_news",
+    "source_type": "official_blog",
+    "title": "Designing Grok Bot for a world of persistent agents",
+    "summary": "Sep 21, 2026",
+    "url": "https://x.ai/news/designing-grok-bot",
+    "canonical_url": "https://x.ai/news/designing-grok-bot",
+    "published_at": "2026-09-21T00:00:00+00:00",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "is_official": true,
+      "publisher": "xAI Blog"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "xai_blog",
+    "source_name": "xAI Blog",
+    "source_role": "official_news",
+    "source_type": "official_blog",
+    "title": "Grok Bot for Enterprise",
+    "summary": "Grok Bot is now available for enterprises. Grok and Cursor Enterprise customers have free usage for the next two weeks, and can invite their whole organization, including people without an existing seat.",
+    "url": "https://x.ai/news/grok-bot-for-enterprise",
+    "canonical_url": "https://x.ai/news/grok-bot-for-enterprise",
+    "published_at": "2026-09-21T00:00:00+00:00",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "is_official": true,
+      "publisher": "xAI Blog"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "xai_blog",
+    "source_name": "xAI Blog",
+    "source_role": "official_news",
+    "source_type": "official_blog",
+    "title": "Grok Bot now works with X",
+    "summary": "Grok Bot now has a tighter integration with X.",
+    "url": "https://x.ai/news/grok-bot-and-x",
+    "canonical_url": "https://x.ai/news/grok-bot-and-x",
+    "published_at": "2026-09-21T00:00:00+00:00",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "is_official": true,
+      "publisher": "xAI Blog"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "xai_blog",
+    "source_name": "xAI Blog",
+    "source_role": "official_news",
+    "source_type": "official_blog",
+    "title": "Introducing Grok Voice Transcribe 2.0",
+    "summary": "Sep 21, 2026",
+    "url": "https://x.ai/news/grok-voice-transcribe-2",
+    "canonical_url": "https://x.ai/news/grok-voice-transcribe-2",
+    "published_at": "2026-09-21T00:00:00+00:00",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "is_official": true,
+      "publisher": "xAI Blog"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "xai_blog",
+    "source_name": "xAI Blog",
+    "source_role": "official_news",
+    "source_type": "official_blog",
+    "title": "Memory in Grok Build",
+    "summary": "Sep 21, 2026",
+    "url": "https://x.ai/news/grok-build-memory",
+    "canonical_url": "https://x.ai/news/grok-build-memory",
+    "published_at": "2026-09-21T00:00:00+00:00",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "is_official": true,
+      "publisher": "xAI Blog"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "xai_blog",
+    "source_name": "xAI Blog",
+    "source_role": "official_news",
+    "source_type": "official_blog",
+    "title": "Setting Grok Bot loose on procurement",
+    "summary": "Sep 21, 2026",
+    "url": "https://x.ai/news/grok-bot-procurement",
+    "canonical_url": "https://x.ai/news/grok-bot-procurement",
+    "published_at": "2026-09-21T00:00:00+00:00",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "is_official": true,
+      "publisher": "xAI Blog"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "hf_models_xiaomimimo",
+    "source_name": "Xiaomi MiMo on Hugging Face",
+    "source_role": "official_news",
+    "source_type": "model_release",
+    "title": "Xiaomi MiMo released MiMo-V2.6-Pro-RL",
+    "summary": "Weights for XiaomiMiMo/MiMo-V2.6-Pro-RL appeared on the hub. Pipeline tags: transformers, safetensors, mimo_v2, text-generation, multimodal, vision-language. 0 downloads, 262 likes at collection time.",
+    "url": "https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Pro-RL",
+    "canonical_url": "https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Pro-RL",
+    "published_at": "2026-09-21T15:39:33.000Z",
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mimo_v2",
+      "text-generation",
+      "multimodal",
+      "vision-language",
+      "audio",
+      "agent",
+      "video-understanding",
+      "long-context",
+      "conversational",
+      "custom_code"
+    ],
+    "authors": [],
+    "metadata": {
+      "downloads": 0,
+      "is_official": true,
+      "likes": 262,
+      "model_id": "XiaomiMiMo/MiMo-V2.6-Pro-RL",
+      "publisher": "Xiaomi MiMo"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "hf_models_xiaomimimo",
+    "source_name": "Xiaomi MiMo on Hugging Face",
+    "source_role": "official_news",
+    "source_type": "model_release",
+    "title": "Xiaomi MiMo released MiMo-V2.6-Flash-RL",
+    "summary": "Weights for XiaomiMiMo/MiMo-V2.6-Flash-RL appeared on the hub. Pipeline tags: transformers, safetensors, mimo_v2, text-generation, multimodal, vision-language. 0 downloads, 276 likes at collection time.",
+    "url": "https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Flash-RL",
+    "canonical_url": "https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Flash-RL",
+    "published_at": "2026-09-21T15:39:51.000Z",
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mimo_v2",
+      "text-generation",
+      "multimodal",
+      "vision-language",
+      "audio",
+      "agent",
+      "video-understanding",
+      "long-context",
+      "conversational",
+      "custom_code"
+    ],
+    "authors": [],
+    "metadata": {
+      "downloads": 0,
+      "is_official": true,
+      "likes": 276,
+      "model_id": "XiaomiMiMo/MiMo-V2.6-Flash-RL",
+      "publisher": "Xiaomi MiMo"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "openai_news",
+    "source_name": "OpenAI News",
+    "source_role": "official_news",
+    "source_type": "official_blog",
+    "title": "How V7 gives AI agents institutional memory",
+    "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+    "url": "https://openai.com/index/v7",
+    "canonical_url": "https://openai.com/index/v7",
+    "published_at": "Mon, 21 Sep 2026 00:00:00 GMT",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "is_official": true,
+      "publisher": "OpenAI News"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "openai_news",
+    "source_name": "OpenAI News",
+    "source_role": "official_news",
+    "source_type": "official_blog",
+    "title": "Expanding OpenAI Academy with new learning paths",
+    "summary": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
+    "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+    "canonical_url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+    "published_at": "Mon, 21 Sep 2026 07:00:00 GMT",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "is_official": true,
+      "publisher": "OpenAI News"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "openai_news",
+    "source_name": "OpenAI News",
+    "source_role": "official_news",
+    "source_type": "official_blog",
+    "title": "Building standards for the next phase of AI",
+    "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
+    "url": "https://openai.com/index/building-standards-next-phase-ai",
+    "canonical_url": "https://openai.com/index/building-standards-next-phase-ai",
+    "published_at": "Mon, 21 Sep 2026 10:00:00 GMT",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "is_official": true,
+      "publisher": "OpenAI News"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "openai_news",
+    "source_name": "OpenAI News",
+    "source_role": "official_news",
+    "source_type": "official_blog",
+    "title": "Advisory Group on Mathematics and Artificial Intelligence",
+    "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+    "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+    "canonical_url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+    "published_at": "Mon, 21 Sep 2026 12:00:00 GMT",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "is_official": true,
+      "publisher": "OpenAI News"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "openai_news",
+    "source_name": "OpenAI News",
+    "source_role": "official_news",
+    "source_type": "official_blog",
+    "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+    "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+    "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+    "canonical_url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+    "published_at": "Mon, 21 Sep 2026 12:00:00 GMT",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "is_official": true,
+      "publisher": "OpenAI News"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "aws_ai_blog",
+    "source_name": "AWS AI Blog",
+    "source_role": "official_news",
+    "source_type": "official_blog",
+    "title": "Reducing medical claims review time with AI on AWS: The EXL Medical IDP solution",
+    "summary": "EXL built an AI-powered Medical intelligent document processing (IDP) solution on AWS, combining IDP with domain-specific large language models on Amazon SageMaker and Amazon Bedrock to extract, summarize, and query medical records at enterprise scale and cut claims review time from over 100 minutes per case.",
+    "url": "https://aws.amazon.com/blogs/machine-learning/reducing-medical-claims-review-time-with-ai-on-aws-the-exl-medical-idp-solution",
+    "canonical_url": "https://aws.amazon.com/blogs/machine-learning/reducing-medical-claims-review-time-with-ai-on-aws-the-exl-medical-idp-solution",
+    "published_at": "Mon, 21 Sep 2026 16:24:40 +0000",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "is_official": true,
+      "publisher": "AWS AI Blog"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "aws_ai_blog",
+    "source_name": "AWS AI Blog",
+    "source_role": "official_news",
+    "source_type": "official_blog",
+    "title": "How Benchling secured multi-tenant AI agents with Amazon Bedrock AgentCore",
+    "summary": "Learn how Benchling built a defense-in-depth security architecture to run untrusted, AI agent-generated scientific code across thousands of life sciences tenants using Amazon Bedrock AgentCore Code Interpreter in VPC mode, combined with Amazon Route 53 Resolver DNS Firewall and VPC endpoint policies to block data exfiltration, including through DNS.",
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-benchling-secured-multi-tenant-ai-agents-with-amazon-bedrock-agentcore",
+    "canonical_url": "https://aws.amazon.com/blogs/machine-learning/how-benchling-secured-multi-tenant-ai-agents-with-amazon-bedrock-agentcore",
+    "published_at": "Mon, 21 Sep 2026 16:27:34 +0000",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "is_official": true,
+      "publisher": "AWS AI Blog"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "aws_ai_blog",
+    "source_name": "AWS AI Blog",
+    "source_role": "official_news",
+    "source_type": "official_blog",
+    "title": "Run Positron on Amazon SageMaker AI for data science workflows",
+    "summary": "Positron, Posit's IDE for data science, now runs on Amazon SageMaker AI. This post shows how a data scientist explores an Amazon Athena table, validates features in R, trains an XGBoost model in Python, deploys a real-time SageMaker AI endpoint, and reports results with Quarto, all in one governed SageMaker Studio Space.",
+    "url": "https://aws.amazon.com/blogs/machine-learning/run-positron-on-amazon-sagemaker-ai-for-data-science-workflows",
+    "canonical_url": "https://aws.amazon.com/blogs/machine-learning/run-positron-on-amazon-sagemaker-ai-for-data-science-workflows",
+    "published_at": "Mon, 21 Sep 2026 16:34:21 +0000",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "is_official": true,
+      "publisher": "AWS AI Blog"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "aws_ai_blog",
+    "source_name": "AWS AI Blog",
+    "source_role": "official_news",
+    "source_type": "official_blog",
+    "title": "How BMW Group detects cost anomalies across 14,000 cloud accounts",
+    "summary": "BMW Group operates CLEA, a FinOps platform monitoring more than 14,000 cloud accounts. This post shows how BMW added automated daily cost anomaly detection, moving from reactive dashboards to proactive alerts using Prophet forecasting, AWS Step Functions, and a serverless pipeline that processes every account for about $50 per month.",
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-bmw-group-detects-cost-anomalies-across-14000-cloud-accounts",
+    "canonical_url": "https://aws.amazon.com/blogs/machine-learning/how-bmw-group-detects-cost-anomalies-across-14000-cloud-accounts",
+    "published_at": "Mon, 21 Sep 2026 16:36:10 +0000",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "is_official": true,
+      "publisher": "AWS AI Blog"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "aws_ai_blog",
+    "source_name": "AWS AI Blog",
+    "source_role": "official_news",
+    "source_type": "official_blog",
+    "title": "xAI’s Grok 4.6 is now available in Amazon Bedrock",
+    "summary": "xAI's Grok 4.6 is now available in Amazon Bedrock: a frontier model for long-running agents, coding, and knowledge work, with a 500K token context window and four reasoning effort levels. It runs on both the bedrock-mantle and bedrock-runtime endpoints, with Converse API and cross-Region inference support.",
+    "url": "https://aws.amazon.com/blogs/machine-learning/xais-grok-4-6-is-now-available-in-amazon-bedrock",
+    "canonical_url": "https://aws.amazon.com/blogs/machine-learning/xais-grok-4-6-is-now-available-in-amazon-bedrock",
+    "published_at": "Mon, 21 Sep 2026 18:30:34 +0000",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "is_official": true,
+      "publisher": "AWS AI Blog"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "the_neuron",
+    "source_name": "The Neuron",
+    "source_role": "headline_consensus",
+    "source_type": "roundup",
+    "title": "22 hours ago 😸 Would GPT-6 stab a doll?",
+    "summary": "",
+    "url": "https://www.theneurondaily.com/p/would-gpt-6-stab-a-doll",
+    "canonical_url": "https://www.theneurondaily.com/p/would-gpt-6-stab-a-doll",
+    "published_at": "2026-09-21T23:01:13.120000+00:00",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "roundup_site": "The Neuron"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "the_neuron",
+    "source_name": "The Neuron",
+    "source_role": "headline_consensus",
+    "source_type": "roundup",
+    "title": "Gemini broke into 3 real companies during a safety test",
+    "summary": "",
+    "url": "https://www.theneurondaily.com/p/gemini-broke-into-3-real-companies-during-a-safety-test",
+    "canonical_url": "https://www.theneurondaily.com/p/gemini-broke-into-3-real-companies-during-a-safety-test",
+    "published_at": "2026-09-21T23:01:13.120000+00:00",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "roundup_site": "The Neuron"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "superhuman_ai",
+    "source_name": "Superhuman AI",
+    "source_role": "headline_consensus",
+    "source_type": "roundup",
+    "title": "4 min read Claude gets 2 new features & a simpler platform",
+    "summary": "",
+    "url": "https://www.superhuman.ai/p/claude-gets-2-new-features-a-simpler-platform",
+    "canonical_url": "https://www.superhuman.ai/p/claude-gets-2-new-features-a-simpler-platform",
+    "published_at": "2026-09-22T00:00:00-04:00",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "roundup_site": "Superhuman AI"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "superhuman_ai",
+    "source_name": "Superhuman AI",
+    "source_role": "headline_consensus",
+    "source_type": "roundup",
+    "title": "4 min read OpenAI incident report or science fiction?",
+    "summary": "",
+    "url": "https://www.superhuman.ai/p/openai-incident-report-or-science-fiction",
+    "canonical_url": "https://www.superhuman.ai/p/openai-incident-report-or-science-fiction",
+    "published_at": "2026-09-22T00:00:00-04:00",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "roundup_site": "Superhuman AI"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "analysis_theverge_ai",
+    "source_name": "The Verge AI",
+    "source_role": "editorial_depth",
+    "source_type": "blog_analysis",
+    "title": "Amazon blocks Meta’s Muse AI agent",
+    "summary": "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for Muse users saying that \"continued access by an unauthorized AI agent violates Amazon's Conditions of Use, to which our customers have agreed.\" According to GeekWire, Meta didn't notify Amazon that [&#8230;]",
+    "url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
+    "canonical_url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
+    "published_at": "2026-09-21T05:21:47-04:00",
+    "tags": [
+      "analysis",
+      "deep-read"
+    ],
+    "authors": [],
+    "metadata": {
+      "feed_id": "theverge_ai",
+      "feed_source": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "signal_tier": "trusted_analysis",
+      "source_quality": 1.3
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "analysis_theverge_ai",
+    "source_name": "The Verge AI",
+    "source_role": "editorial_depth",
+    "source_type": "blog_analysis",
+    "title": "iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement",
+    "summary": "Apple is paying $250 million to settle claims that it failed to deliver an AI-upgraded Siri - and now, eligible iPhone owners can submit a claim for a payout. If you live in the US and purchased an iPhone 15 Pro, iPhone 15 Pro Max, or any iPhone 16 model between June 10th, 2024, and [&#8230;]",
+    "url": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
+    "canonical_url": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
+    "published_at": "2026-09-21T09:36:52-04:00",
+    "tags": [
+      "analysis",
+      "deep-read"
+    ],
+    "authors": [],
+    "metadata": {
+      "feed_id": "theverge_ai",
+      "feed_source": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "signal_tier": "trusted_analysis",
+      "source_quality": 1.3
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "analysis_theverge_ai",
+    "source_name": "The Verge AI",
+    "source_role": "editorial_depth",
+    "source_type": "blog_analysis",
+    "title": "Can John Ternus find Apple’s next big thing?",
+    "summary": "Today, I’m talking with Mark Gurman, who is the world’s best-sourced Apple reporter — both as Bloomberg’s chief Apple correspondent and the host of the upcoming podcast Power On.&#160; Earlier this month, Apple hosted its annual iPhone hardware event, virtually every detail of which was reported ahead of time by Mark. But this event was [&#8230;]",
+    "url": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone",
+    "canonical_url": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone",
+    "published_at": "2026-09-21T10:00:00-04:00",
+    "tags": [
+      "analysis",
+      "deep-read"
+    ],
+    "authors": [],
+    "metadata": {
+      "feed_id": "theverge_ai",
+      "feed_source": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "signal_tier": "trusted_analysis",
+      "source_quality": 1.3
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "analysis_theverge_ai",
+    "source_name": "The Verge AI",
+    "source_role": "editorial_depth",
+    "source_type": "blog_analysis",
+    "title": "California tightens rules on AI data center energy and water use",
+    "summary": "California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times. The package of laws requires the California Public Utilities Commission to introduce a new rate classification for data centers while forcing them to pay for upgrades to [&#8230;]",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
+    "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
+    "published_at": "2026-09-21T16:29:45-04:00",
+    "tags": [
+      "analysis",
+      "deep-read"
+    ],
+    "authors": [],
+    "metadata": {
+      "feed_id": "theverge_ai",
+      "feed_source": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "signal_tier": "trusted_analysis",
+      "source_quality": 1.3
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "analysis_simon_willison",
+    "source_name": "Simon Willison's Blog",
+    "source_role": "editorial_depth",
+    "source_type": "blog_analysis",
+    "title": "Cloudflare Python Workers are now generally available",
+    "summary": "<p><strong><a href=\"https://blog.cloudflare.com/python-workers-ga/\">Cloudflare Python Workers are now generally available</a></strong></p> After a two year preview, Cloudflare's support for running Python code in their server-side Workers platform is now stable: \"Python is now a first-class, fully supported language on the Cloudflare Developer Platform\".</p> <p>A neat thing about this is how it works. Cloudflare are running Python compiled to WebAssembly via Pyodide in their V8-based <a href=\"https://github.com/cloudflare/workerd\">workerd</a> runtime.</p> <p>This comes with some limitations, <a href=\"https://developers.cloudflare.com/workers/languages/python/stdlib/\">documented here</a> - most notably both <code>multiprocessing</code> and <code>threading</code> are non-functional in the...",
+    "url": "https://simonwillison.net/2026/Sep/21/cloudflare-python-worker",
+    "canonical_url": "https://simonwillison.net/2026/Sep/21/cloudflare-python-worker",
+    "published_at": "2026-09-21T22:25:44+00:00",
+    "tags": [
+      "analysis",
+      "deep-read"
+    ],
+    "authors": [],
+    "metadata": {
+      "feed_id": "simon_willison",
+      "feed_source": "https://simonwillison.net/atom/everything",
+      "signal_tier": "trusted_analysis",
+      "source_quality": 1.3
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "analysis_simon_willison",
+    "source_name": "Simon Willison's Blog",
+    "source_role": "editorial_depth",
+    "source_type": "blog_analysis",
+    "title": "Jev introduces a new shape of LLM - System One, aka Decision Models",
+    "summary": "<p>Last week <a href=\"https://typesafe.ai/\">TypeSafe AI</a> unveiled <a href=\"https://typesafe.ai/blog/introducing-system-one-models-and-jev\">Jev</a>, their first example of a new category of model that they are calling \"System One models\" (I'm with Maggie Appleton, I think \"decision models\" is <a href=\"https://twitter.com/Mappletons/status/2101560333441610133\">a better name</a> for these). Jev is an interesting variant on the usual LLM format: it still accepts text inputs, but instead of text output it returns floating point numbers corresponding to categories, yes/no questions, ratings, and associated confidence scores.</p> <p>TypeSafe describe Jev like this:</p> <blockquote> <p>Think of Jev as a frontier-intelligence function call: unstructured state in, typed probabilistic decisions...",
+    "url": "https://simonwillison.net/2026/Sep/21/jev",
+    "canonical_url": "https://simonwillison.net/2026/Sep/21/jev",
+    "published_at": "2026-09-21T23:09:20+00:00",
+    "tags": [
+      "analysis",
+      "deep-read"
+    ],
+    "authors": [],
+    "metadata": {
+      "feed_id": "simon_willison",
+      "feed_source": "https://simonwillison.net/atom/everything",
+      "signal_tier": "trusted_analysis",
+      "source_quality": 1.3
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "import_ai",
+    "source_name": "Import AI",
+    "source_role": "editorial_depth",
+    "source_type": "roundup",
+    "title": "A U.S. Strategy to Secure Geopolitical Advantage on an Uncertain Path to Superintelligence (RAND)",
+    "summary": "",
+    "url": "https://www.rand.org/pubs/perspectives/PEA5105-1.html",
+    "canonical_url": "https://www.rand.org/pubs/perspectives/PEA5105-1.html",
+    "published_at": "2026-09-22T00:00:00-04:00",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "roundup_site": "Import AI"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "last_week_in_ai",
+    "source_name": "Last Week in AI",
+    "source_role": "editorial_depth",
+    "source_type": "roundup",
+    "title": "Artificial Intelligence Made Simple",
+    "summary": "",
+    "url": "https://www.artificialintelligencemadesimple.com",
+    "canonical_url": "https://www.artificialintelligencemadesimple.com",
+    "published_at": "2026-09-22T00:00:00-04:00",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "roundup_site": "Last Week in AI"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "the_batch",
+    "source_name": "The Batch",
+    "source_role": "editorial_depth",
+    "source_type": "roundup",
+    "title": "DeepSeek Sharpens Its Reasoning: DeepSeek-R1, an affordable rival to OpenAI’s o1",
+    "summary": "",
+    "url": "https://www.deeplearning.ai/the-batch/deepseek-r1-an-affordable-rival-to-openais-o1",
+    "canonical_url": "https://www.deeplearning.ai/the-batch/deepseek-r1-an-affordable-rival-to-openais-o1",
+    "published_at": "2026-09-22T00:00:00-04:00",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "roundup_site": "The Batch"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "import_ai",
+    "source_name": "Import AI",
+    "source_role": "editorial_depth",
+    "source_type": "roundup",
+    "title": "Developmental xenocortication using human-derived organoids in mice (Nature)",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41586-026-11032-2",
+    "canonical_url": "https://www.nature.com/articles/s41586-026-11032-2",
+    "published_at": "2026-09-22T00:00:00-04:00",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "roundup_site": "Import AI"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "the_batch",
+    "source_name": "The Batch",
+    "source_role": "editorial_depth",
+    "source_type": "roundup",
+    "title": "Inside Key Changes in Data Policies, Ox Alpha Revealed, Taking Custom Models Beyond Fine-Tuning",
+    "summary": "The Batch News & Insights: A key AI engineering skill is using coding agents.",
+    "url": "https://www.deeplearning.ai/the-batch/tag/sep-04-2026",
+    "canonical_url": "https://www.deeplearning.ai/the-batch/tag/sep-04-2026",
+    "published_at": "2026-09-22T00:00:00-04:00",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "roundup_site": "The Batch"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "the_batch",
+    "source_name": "The Batch",
+    "source_role": "editorial_depth",
+    "source_type": "roundup",
+    "title": "Introducing DeepLearning.AI Pro",
+    "summary": "",
+    "url": "https://www.deeplearning.ai/the-batch/introducing-deeplearning-ai-pro",
+    "canonical_url": "https://www.deeplearning.ai/the-batch/introducing-deeplearning-ai-pro",
+    "published_at": "2026-09-22T00:00:00-04:00",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "roundup_site": "The Batch"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "the_batch",
+    "source_name": "The Batch",
+    "source_role": "editorial_depth",
+    "source_type": "roundup",
+    "title": "Meta’s Agent Security, The Navier-Stokes Controversy, Fraud on Claude",
+    "summary": "The Batch News & Insights: The loudest voices stoking fears about AI dangers have made tremendous headway in the past two weeks.",
+    "url": "https://www.deeplearning.ai/the-batch/tag/sep-18-2026",
+    "canonical_url": "https://www.deeplearning.ai/the-batch/tag/sep-18-2026",
+    "published_at": "2026-09-22T00:00:00-04:00",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "roundup_site": "The Batch"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "the_batch",
+    "source_name": "The Batch",
+    "source_role": "editorial_depth",
+    "source_type": "roundup",
+    "title": "OpenAI and Anthropic fight it out for the top overall spot, while Google, Meta, and Microsoft all release transcription models",
+    "summary": "The Batch News & Insights: When you’re skilled at AI Engineering, your best work won’t be merely implementing a product that someone else spec’ed out. Instead, you will actively shape the build.",
+    "url": "https://www.deeplearning.ai/the-batch/tag/sep-11-2026",
+    "canonical_url": "https://www.deeplearning.ai/the-batch/tag/sep-11-2026",
+    "published_at": "2026-09-22T00:00:00-04:00",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "roundup_site": "The Batch"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "import_ai",
+    "source_name": "Import AI",
+    "source_role": "editorial_depth",
+    "source_type": "roundup",
+    "title": "Pacing the Frontier, a Framework & Research Agenda (pacing.tech)",
+    "summary": "",
+    "url": "https://pacing.tech",
+    "canonical_url": "https://pacing.tech",
+    "published_at": "2026-09-22T00:00:00-04:00",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "roundup_site": "Import AI"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "import_ai",
+    "source_name": "Import AI",
+    "source_role": "editorial_depth",
+    "source_type": "roundup",
+    "title": "The Work Of Art in the Age of Mechanical Reproduction by Walter Benjamin",
+    "summary": "",
+    "url": "https://web.mit.edu/allanmc/www/benjamin.pdf",
+    "canonical_url": "https://web.mit.edu/allanmc/www/benjamin.pdf",
+    "published_at": "2026-09-22T00:00:00-04:00",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "roundup_site": "Import AI"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "analysis_arstechnica_ai",
+    "source_name": "Ars Technica AI",
+    "source_role": "editorial_depth",
+    "source_type": "blog_analysis",
+    "title": "Google confirms Gemini models hacked three companies in May 2026",
+    "summary": "A third-party cybersecurity firm accidentally gave experimental Gemini models access to the Internet.",
+    "url": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026",
+    "canonical_url": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026",
+    "published_at": "Mon, 21 Sep 2026 16:57:26 +0000",
+    "tags": [
+      "analysis",
+      "deep-read"
+    ],
+    "authors": [],
+    "metadata": {
+      "feed_id": "arstechnica_ai",
+      "feed_source": "https://arstechnica.com/ai/feed/",
+      "signal_tier": "trusted_analysis",
+      "source_quality": 1.3
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "analysis_techcrunch_ai",
+    "source_name": "TechCrunch AI",
+    "source_role": "editorial_depth",
+    "source_type": "blog_analysis",
+    "title": "Meta’s AI agent has been blocked from using Amazon.com",
+    "summary": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why would they?",
+    "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com",
+    "canonical_url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com",
+    "published_at": "Mon, 21 Sep 2026 17:55:18 +0000",
+    "tags": [
+      "analysis",
+      "deep-read"
+    ],
+    "authors": [],
+    "metadata": {
+      "feed_id": "techcrunch_ai",
+      "feed_source": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "signal_tier": "trusted_analysis",
+      "source_quality": 1.3
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "analysis_techcrunch_ai",
+    "source_name": "TechCrunch AI",
+    "source_role": "editorial_depth",
+    "source_type": "blog_analysis",
+    "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+    "summary": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.",
+    "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch",
+    "canonical_url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch",
+    "published_at": "Mon, 21 Sep 2026 19:19:21 +0000",
+    "tags": [
+      "analysis",
+      "deep-read"
+    ],
+    "authors": [],
+    "metadata": {
+      "feed_id": "techcrunch_ai",
+      "feed_source": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "signal_tier": "trusted_analysis",
+      "source_quality": 1.3
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "analysis_techcrunch_ai",
+    "source_name": "TechCrunch AI",
+    "source_role": "editorial_depth",
+    "source_type": "blog_analysis",
+    "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
+    "summary": "Five days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operators at San Francisco’s Moscone West, October 13-15. Grab your ticket savings before prices go up on September 25 at 11:59 p.m. PT.",
+    "url": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026",
+    "canonical_url": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026",
+    "published_at": "Mon, 21 Sep 2026 19:25:00 +0000",
+    "tags": [
+      "analysis",
+      "deep-read"
+    ],
+    "authors": [],
+    "metadata": {
+      "feed_id": "techcrunch_ai",
+      "feed_source": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "signal_tier": "trusted_analysis",
+      "source_quality": 1.3
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "analysis_techcrunch_ai",
+    "source_name": "TechCrunch AI",
+    "source_role": "editorial_depth",
+    "source_type": "blog_analysis",
+    "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+    "summary": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
+    "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems",
+    "canonical_url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems",
+    "published_at": "Mon, 21 Sep 2026 20:15:58 +0000",
+    "tags": [
+      "analysis",
+      "deep-read"
+    ],
+    "authors": [],
+    "metadata": {
+      "feed_id": "techcrunch_ai",
+      "feed_source": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "signal_tier": "trusted_analysis",
+      "source_quality": 1.3
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "analysis_techcrunch_ai",
+    "source_name": "TechCrunch AI",
+    "source_role": "editorial_depth",
+    "source_type": "blog_analysis",
+    "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+    "summary": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
+    "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping",
+    "canonical_url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping",
+    "published_at": "Mon, 21 Sep 2026 23:44:28 +0000",
+    "tags": [
+      "analysis",
+      "deep-read"
+    ],
+    "authors": [],
+    "metadata": {
+      "feed_id": "techcrunch_ai",
+      "feed_source": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "signal_tier": "trusted_analysis",
+      "source_quality": 1.3
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "analysis_qbitai",
+    "source_name": "量子位 (QbitAI)",
+    "source_role": "editorial_depth",
+    "source_type": "blog_analysis",
+    "title": "阿里吴泳铭最新演讲：未来机器思考的总量将达到人类的1000倍以上",
+    "summary": "9月22日，在2026杭州云栖大会上，阿里巴巴集团CEO吴泳铭发表最新演讲，阐述了对“机器智能”时代的思考。",
+    "url": "https://www.qbitai.com/2026/09/493485.html",
+    "canonical_url": "https://www.qbitai.com/2026/09/493485.html",
+    "published_at": "Tue, 22 Sep 2026 02:52:05 +0000",
+    "tags": [
+      "analysis",
+      "deep-read"
+    ],
+    "authors": [],
+    "metadata": {
+      "feed_id": "qbitai",
+      "feed_source": "https://www.qbitai.com/feed",
+      "signal_tier": "trusted_analysis",
+      "source_quality": 1.3
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "analysis_qbitai",
+    "source_name": "量子位 (QbitAI)",
+    "source_role": "editorial_depth",
+    "source_type": "blog_analysis",
+    "title": "阿里巴巴：机器智能时代，坚定投入AI模型 AI芯片 AI云三大基石",
+    "summary": "吴泳铭表示，阿里巴巴将坚定投入AI模型、AI芯片和AI云这三项基础设施建设，这是阿里的长期战略选择。",
+    "url": "https://www.qbitai.com/2026/09/493502.html",
+    "canonical_url": "https://www.qbitai.com/2026/09/493502.html",
+    "published_at": "Tue, 22 Sep 2026 02:59:29 +0000",
+    "tags": [
+      "analysis",
+      "deep-read"
+    ],
+    "authors": [],
+    "metadata": {
+      "feed_id": "qbitai",
+      "feed_source": "https://www.qbitai.com/feed",
+      "signal_tier": "trusted_analysis",
+      "source_quality": 1.3
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "analysis_qbitai",
+    "source_name": "量子位 (QbitAI)",
+    "source_role": "editorial_depth",
+    "source_type": "blog_analysis",
+    "title": "2026 East Forward出海大会：全球化到达下一站，中国企业如何走得更远",
+    "summary": "“潮起之时，靠岸相见”",
+    "url": "https://www.qbitai.com/2026/09/493510.html",
+    "canonical_url": "https://www.qbitai.com/2026/09/493510.html",
+    "published_at": "Tue, 22 Sep 2026 03:13:44 +0000",
+    "tags": [
+      "analysis",
+      "deep-read"
+    ],
+    "authors": [],
+    "metadata": {
+      "feed_id": "qbitai",
+      "feed_source": "https://www.qbitai.com/feed",
+      "signal_tier": "trusted_analysis",
+      "source_quality": 1.3
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "analysis_qbitai",
+    "source_name": "量子位 (QbitAI)",
+    "source_role": "editorial_depth",
+    "source_type": "blog_analysis",
+    "title": "阿里公布全模态模型新进展，Qwen4和下代视频模型均在训练中",
+    "summary": "9月22日， 2026云栖大会开幕，阿里巴巴公布大模型最新进展。",
+    "url": "https://www.qbitai.com/2026/09/493625.html",
+    "canonical_url": "https://www.qbitai.com/2026/09/493625.html",
+    "published_at": "Tue, 22 Sep 2026 03:42:43 +0000",
+    "tags": [
+      "analysis",
+      "deep-read"
+    ],
+    "authors": [],
+    "metadata": {
+      "feed_id": "qbitai",
+      "feed_source": "https://www.qbitai.com/feed",
+      "signal_tier": "trusted_analysis",
+      "source_quality": 1.3
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "analysis_qbitai",
+    "source_name": "量子位 (QbitAI)",
+    "source_role": "editorial_depth",
+    "source_type": "blog_analysis",
+    "title": "阿里研究员透露Qwen4.5后模型将扩展至5-10T参数",
+    "summary": "未来Qwen4.5、Qwen5等版本将扩展至5-10T参数。",
+    "url": "https://www.qbitai.com/2026/09/493629.html",
+    "canonical_url": "https://www.qbitai.com/2026/09/493629.html",
+    "published_at": "Tue, 22 Sep 2026 03:48:05 +0000",
+    "tags": [
+      "analysis",
+      "deep-read"
+    ],
+    "authors": [],
+    "metadata": {
+      "feed_id": "qbitai",
+      "feed_source": "https://www.qbitai.com/feed",
+      "signal_tier": "trusted_analysis",
+      "source_quality": 1.3
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "github_trend",
+    "source_name": "GitHub Trending Repos",
+    "source_role": "github_trend",
+    "source_type": "repository",
+    "title": "liyupi/ai-model-world",
+    "summary": "AI 大模型世界，把 556 个大模型拟人化成像素小人的可视化站点。进来就能看到此刻谁最聪明、谁最会写代码、谁最便宜、谁刚发布，往下是国内与国外分区的厂商广场、完整的发布时间线和多维排行榜。搜索认模型名、厂商和能力，输入「多模态」会直接列出全部多模态模型。数据取自 Epoch AI、models.dev、LiveBench 与 Hugging Face，每小时自动同步，所有文案由真实数据生成，不调用任何 LLM。Next.js 静态导出，零后端。",
+    "url": "https://github.com/liyupi/ai-model-world",
+    "canonical_url": "https://github.com/liyupi/ai-model-world",
+    "published_at": "2026-09-17T03:12:17Z",
+    "tags": [
+      "ai",
+      "ai-models",
+      "benchmark",
+      "chinese",
+      "data-visualization",
+      "deepseek",
+      "large-language-models",
+      "leaderboard",
+      "llm",
+      "llm-benchmarks",
+      "llm-leaderboard",
+      "model-comparison",
+      "nextjs",
+      "pixel-art",
+      "react",
+      "static-site",
+      "tailwindcss",
+      "typescript"
+    ],
+    "authors": [
+      "liyupi"
+    ],
+    "metadata": {
+      "fetched_at": "2026-09-22T00:00:00-04:00",
+      "forks": 28,
+      "github_full_name": "liyupi/ai-model-world",
+      "github_url": "https://github.com/liyupi/ai-model-world",
+      "language": "TypeScript",
+      "search_query": "llm",
+      "stars": 167
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "github_trend",
+    "source_name": "GitHub Trending Repos",
+    "source_role": "github_trend",
+    "source_type": "repository",
+    "title": "0xNatoshi/jev-codex-router",
+    "summary": "Per-turn model & reasoning routing for Codex, driven by Jev (TypeSafe System One): picks the model, thinking depth and speed mode for every turn.",
+    "url": "https://github.com/0xNatoshi/jev-codex-router",
+    "canonical_url": "https://github.com/0xNatoshi/jev-codex-router",
+    "published_at": "2026-09-17T04:14:19Z",
+    "tags": [
+      "ai",
+      "codex",
+      "jev",
+      "llm",
+      "macos",
+      "routing",
+      "typesafe"
+    ],
+    "authors": [
+      "0xNatoshi"
+    ],
+    "metadata": {
+      "fetched_at": "2026-09-22T00:00:00-04:00",
+      "forks": 19,
+      "github_full_name": "0xNatoshi/jev-codex-router",
+      "github_url": "https://github.com/0xNatoshi/jev-codex-router",
+      "language": "JavaScript",
+      "search_query": "llm",
+      "stars": 188
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "github_trend",
+    "source_name": "GitHub Trending Repos",
+    "source_role": "github_trend",
+    "source_type": "repository",
+    "title": "itsmostafa/typesafe-mcp",
+    "summary": "mcp connector to give your AI agent direct access to typesafe ai's jev model",
+    "url": "https://github.com/itsmostafa/typesafe-mcp",
+    "canonical_url": "https://github.com/itsmostafa/typesafe-mcp",
+    "published_at": "2026-09-17T05:23:34Z",
+    "tags": [
+      "mcp",
+      "mcp-tools"
+    ],
+    "authors": [
+      "itsmostafa"
+    ],
+    "metadata": {
+      "fetched_at": "2026-09-22T00:00:00-04:00",
+      "forks": 23,
+      "github_full_name": "itsmostafa/typesafe-mcp",
+      "github_url": "https://github.com/itsmostafa/typesafe-mcp",
+      "language": "Go",
+      "search_query": "agent",
+      "stars": 237
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "github_trend",
+    "source_name": "GitHub Trending Repos",
+    "source_role": "github_trend",
+    "source_type": "repository",
+    "title": "NiazMorshed2007/jev-review",
+    "summary": "Local-first MCP plugin for continuous software-quality review by AI coding agents, powered by Jev.",
+    "url": "https://github.com/NiazMorshed2007/jev-review",
+    "canonical_url": "https://github.com/NiazMorshed2007/jev-review",
+    "published_at": "2026-09-17T05:24:51Z",
+    "tags": [
+      "agent-plugin",
+      "ai-agents",
+      "claude-code",
+      "code-review",
+      "codex",
+      "coding-agents",
+      "cursor",
+      "developer-tools",
+      "jev",
+      "local-first",
+      "mcp",
+      "model-context-protocol",
+      "opencode",
+      "software-quality",
+      "typescript"
+    ],
+    "authors": [
+      "NiazMorshed2007"
+    ],
+    "metadata": {
+      "fetched_at": "2026-09-22T00:00:00-04:00",
+      "forks": 19,
+      "github_full_name": "NiazMorshed2007/jev-review",
+      "github_url": "https://github.com/NiazMorshed2007/jev-review",
+      "language": "TypeScript",
+      "search_query": "agent",
+      "stars": 198
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "github_trend",
+    "source_name": "GitHub Trending Repos",
+    "source_role": "github_trend",
+    "source_type": "repository",
+    "title": "kitze/skillbox",
+    "summary": "Self-hosted, versioned skills library for AI agents. MCP, scoped clients, and optional Jev recommendations.",
+    "url": "https://github.com/kitze/skillbox",
+    "canonical_url": "https://github.com/kitze/skillbox",
+    "published_at": "2026-09-17T17:23:37Z",
+    "tags": [],
+    "authors": [
+      "kitze"
+    ],
+    "metadata": {
+      "fetched_at": "2026-09-22T00:00:00-04:00",
+      "forks": 20,
+      "github_full_name": "kitze/skillbox",
+      "github_url": "https://github.com/kitze/skillbox",
+      "language": "TypeScript",
+      "search_query": "agent",
+      "stars": 224
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "github_trend",
+    "source_name": "GitHub Trending Repos",
+    "source_role": "github_trend",
+    "source_type": "repository",
+    "title": "ekzhang/openjev-sglang",
+    "summary": "Jev-compatible API endpoint based on open models (prefill-only)",
+    "url": "https://github.com/ekzhang/openjev-sglang",
+    "canonical_url": "https://github.com/ekzhang/openjev-sglang",
+    "published_at": "2026-09-17T18:11:49Z",
+    "tags": [
+      "jev",
+      "llm",
+      "structured-generation",
+      "systemone"
+    ],
+    "authors": [
+      "ekzhang"
+    ],
+    "metadata": {
+      "fetched_at": "2026-09-22T00:00:00-04:00",
+      "forks": 33,
+      "github_full_name": "ekzhang/openjev-sglang",
+      "github_url": "https://github.com/ekzhang/openjev-sglang",
+      "language": "Python",
+      "search_query": "llm",
+      "stars": 260
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "github_trend",
+    "source_name": "GitHub Trending Repos",
+    "source_role": "github_trend",
+    "source_type": "repository",
+    "title": "Continuum-AI-Corp/OrcaBonsai-27B-Uncensored",
+    "summary": "Runtime behavioral ablation for compressed LLMs. First target: Ternary Bonsai 2 27B — no weight modification or re-quantization. by OrcaRouter team",
+    "url": "https://github.com/Continuum-AI-Corp/OrcaBonsai-27B-Uncensored",
+    "canonical_url": "https://github.com/Continuum-AI-Corp/OrcaBonsai-27B-Uncensored",
+    "published_at": "2026-09-18T06:45:54Z",
+    "tags": [],
+    "authors": [
+      "Continuum-AI-Corp"
+    ],
+    "metadata": {
+      "fetched_at": "2026-09-22T00:00:00-04:00",
+      "forks": 60,
+      "github_full_name": "Continuum-AI-Corp/OrcaBonsai-27B-Uncensored",
+      "github_url": "https://github.com/Continuum-AI-Corp/OrcaBonsai-27B-Uncensored",
+      "language": "Python",
+      "search_query": "llm",
+      "stars": 523
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "github_trend",
+    "source_name": "GitHub Trending Repos",
+    "source_role": "github_trend",
+    "source_type": "repository",
+    "title": "Oldcircle/geo-sleuth",
+    "summary": "An agent skill that finds where a photo was taken — OpenStreetMap geometry, elevation skylines, satellite imagery and street view — and shows its work. Works with Claude Code, Codex, Cursor, Gemini CLI, OpenCode and GitHub Copilot.",
+    "url": "https://github.com/Oldcircle/geo-sleuth",
+    "canonical_url": "https://github.com/Oldcircle/geo-sleuth",
+    "published_at": "2026-09-18T08:51:34Z",
+    "tags": [
+      "agent-skills",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "computer-vision",
+      "cursor",
+      "gemini-cli",
+      "geoguessr",
+      "geoint",
+      "geolocation",
+      "github-copilot",
+      "image-geolocation",
+      "opencode",
+      "openstreetmap",
+      "osint",
+      "photo-geolocation",
+      "reverse-image-search",
+      "satellite-imagery"
+    ],
+    "authors": [
+      "Oldcircle"
+    ],
+    "metadata": {
+      "fetched_at": "2026-09-22T00:00:00-04:00",
+      "forks": 26,
+      "github_full_name": "Oldcircle/geo-sleuth",
+      "github_url": "https://github.com/Oldcircle/geo-sleuth",
+      "language": "Python",
+      "search_query": "agent",
+      "stars": 250
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "github_trend",
+    "source_name": "GitHub Trending Repos",
+    "source_role": "github_trend",
+    "source_type": "repository",
+    "title": "coldteadotai/abide",
+    "summary": "Make your coding agent abide by all your project rules",
+    "url": "https://github.com/coldteadotai/abide",
+    "canonical_url": "https://github.com/coldteadotai/abide",
+    "published_at": "2026-09-18T10:41:48Z",
+    "tags": [
+      "claude-code",
+      "claude-code-hooks",
+      "claude-code-plugin",
+      "claude-code-plugins",
+      "claude-code-skill",
+      "claude-code-skills",
+      "codex-plugin",
+      "codex-skill",
+      "opencode",
+      "opencode-plugin",
+      "opencode-skills"
+    ],
+    "authors": [
+      "coldteadotai"
+    ],
+    "metadata": {
+      "fetched_at": "2026-09-22T00:00:00-04:00",
+      "forks": 13,
+      "github_full_name": "coldteadotai/abide",
+      "github_url": "https://github.com/coldteadotai/abide",
+      "language": "TypeScript",
+      "search_query": "agent",
+      "stars": 210
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "github_trend",
+    "source_name": "GitHub Trending Repos",
+    "source_role": "github_trend",
+    "source_type": "repository",
+    "title": "kerpopule/hermes-jev-skills",
+    "summary": "Jev-powered model routing, memory, compaction, skill selection, computer and browser use for Hermes agents (also Claude Code and Codex)",
+    "url": "https://github.com/kerpopule/hermes-jev-skills",
+    "canonical_url": "https://github.com/kerpopule/hermes-jev-skills",
+    "published_at": "2026-09-18T20:01:29Z",
+    "tags": [],
+    "authors": [
+      "kerpopule"
+    ],
+    "metadata": {
+      "fetched_at": "2026-09-22T00:00:00-04:00",
+      "forks": 37,
+      "github_full_name": "kerpopule/hermes-jev-skills",
+      "github_url": "https://github.com/kerpopule/hermes-jev-skills",
+      "language": "Python",
+      "search_query": "agent",
+      "stars": 411
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "github_trend",
+    "source_name": "GitHub Trending Repos",
+    "source_role": "github_trend",
+    "source_type": "repository",
+    "title": "wuyoscar/jev-skill",
+    "summary": "An awesome collection of Jev use cases, workflows, and agent skills.",
+    "url": "https://github.com/wuyoscar/jev-skill",
+    "canonical_url": "https://github.com/wuyoscar/jev-skill",
+    "published_at": "2026-09-20T02:35:26Z",
+    "tags": [],
+    "authors": [
+      "wuyoscar"
+    ],
+    "metadata": {
+      "fetched_at": "2026-09-22T00:00:00-04:00",
+      "forks": 23,
+      "github_full_name": "wuyoscar/jev-skill",
+      "github_url": "https://github.com/wuyoscar/jev-skill",
+      "language": "Python",
+      "search_query": "agent",
+      "stars": 397
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "github_trend",
+    "source_name": "GitHub Trending Repos",
+    "source_role": "github_trend",
+    "source_type": "repository",
+    "title": "rmalde/minecraft-agent",
+    "summary": "Astra planner and JEV controller for Minecraft, with native recording, tested routes, and run verification.",
+    "url": "https://github.com/rmalde/minecraft-agent",
+    "canonical_url": "https://github.com/rmalde/minecraft-agent",
+    "published_at": "2026-09-20T05:05:12Z",
+    "tags": [],
+    "authors": [
+      "rmalde"
+    ],
+    "metadata": {
+      "fetched_at": "2026-09-22T00:00:00-04:00",
+      "forks": 47,
+      "github_full_name": "rmalde/minecraft-agent",
+      "github_url": "https://github.com/rmalde/minecraft-agent",
+      "language": "JavaScript",
+      "search_query": "agent",
+      "stars": 491
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "github_trend",
+    "source_name": "GitHub Trending Repos",
+    "source_role": "github_trend",
+    "source_type": "repository",
+    "title": "zai-org/ZCode",
+    "summary": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+    "url": "https://github.com/zai-org/ZCode",
+    "canonical_url": "https://github.com/zai-org/ZCode",
+    "published_at": "2026-09-20T12:01:16Z",
+    "tags": [],
+    "authors": [
+      "zai-org"
+    ],
+    "metadata": {
+      "fetched_at": "2026-09-22T00:00:00-04:00",
+      "forks": 1736,
+      "github_full_name": "zai-org/ZCode",
+      "github_url": "https://github.com/zai-org/ZCode",
+      "language": "TypeScript",
+      "search_query": "agent",
+      "stars": 6017
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "github_trend",
+    "source_name": "GitHub Trending Repos",
+    "source_role": "github_trend",
+    "source_type": "repository",
+    "title": "Rizzo-AI-Academy/rizzo-flow",
+    "summary": "The open, local take on Jev: typed decisions from an LLM, without generating a single token",
+    "url": "https://github.com/Rizzo-AI-Academy/rizzo-flow",
+    "canonical_url": "https://github.com/Rizzo-AI-Academy/rizzo-flow",
+    "published_at": "2026-09-21T00:00:02Z",
+    "tags": [],
+    "authors": [
+      "Rizzo-AI-Academy"
+    ],
+    "metadata": {
+      "fetched_at": "2026-09-22T00:00:00-04:00",
+      "forks": 9,
+      "github_full_name": "Rizzo-AI-Academy/rizzo-flow",
+      "github_url": "https://github.com/Rizzo-AI-Academy/rizzo-flow",
+      "language": "Python",
+      "search_query": "llm",
+      "stars": 262
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "github_trend",
+    "source_name": "GitHub Trending Repos",
+    "source_role": "github_trend",
+    "source_type": "repository",
+    "title": "jev-chat/jev-chat-jarvis",
+    "summary": "装在手机上的对话副驾：在微信 / QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
+    "url": "https://github.com/jev-chat/jev-chat-jarvis",
+    "canonical_url": "https://github.com/jev-chat/jev-chat-jarvis",
+    "published_at": "2026-09-21T11:12:53Z",
+    "tags": [
+      "accessibility-service",
+      "android",
+      "chat-assistant",
+      "llm",
+      "qq",
+      "wechat"
+    ],
+    "authors": [
+      "jev-chat"
+    ],
+    "metadata": {
+      "fetched_at": "2026-09-22T00:00:00-04:00",
+      "forks": 634,
+      "github_full_name": "jev-chat/jev-chat-jarvis",
+      "github_url": "https://github.com/jev-chat/jev-chat-jarvis",
+      "language": "Kotlin",
+      "search_query": "llm",
+      "stars": 2071
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "hn_discussion",
+    "source_name": "Hacker News",
+    "source_role": "hn_discussion",
+    "source_type": "discussion",
+    "title": "Can I Let My AI Agent Run on Shabbat?",
+    "summary": "Can I Let My AI Agent Run on Shabbat?",
+    "url": "https://www.chabad.org/library/article_cdo/aid/7288064/jewish/Can-I-Let-My-AI-Agent-Run-on-Shabbat.htm",
+    "canonical_url": "https://www.chabad.org/library/article_cdo/aid/7288064/jewish/Can-I-Let-My-AI-Agent-Run-on-Shabbat.htm",
+    "published_at": "2026-09-21T02:05:45Z",
+    "tags": [],
+    "authors": [
+      "some-guy"
+    ],
+    "metadata": {
+      "hn_comments": 19,
+      "hn_id": "49782242",
+      "hn_score": 36,
+      "host": "www.chabad.org"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "hn_discussion",
+    "source_name": "Hacker News",
+    "source_role": "hn_discussion",
+    "source_type": "discussion",
+    "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
+    "summary": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
+    "url": "https://github.com/volotat/mini-AGI",
+    "canonical_url": "https://github.com/volotat/mini-AGI",
+    "published_at": "2026-09-21T04:42:37Z",
+    "tags": [],
+    "authors": [
+      "volotat"
+    ],
+    "metadata": {
+      "hn_comments": 58,
+      "hn_id": "49783133",
+      "hn_score": 262,
+      "host": "github.com"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "hn_discussion",
+    "source_name": "Hacker News",
+    "source_role": "hn_discussion",
+    "source_type": "discussion",
+    "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+    "summary": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+    "url": "https://github.com/jaredpalmer/kev/tree/main",
+    "canonical_url": "https://github.com/jaredpalmer/kev/tree/main",
+    "published_at": "2026-09-21T07:11:55Z",
+    "tags": [],
+    "authors": [
+      "tosh"
+    ],
+    "metadata": {
+      "hn_comments": 192,
+      "hn_id": "49783999",
+      "hn_score": 430,
+      "host": "github.com"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "hn_discussion",
+    "source_name": "Hacker News",
+    "source_role": "hn_discussion",
+    "source_type": "discussion",
+    "title": "M5 Ultra Mac Studio Review",
+    "summary": "M5 Ultra Mac Studio Review",
+    "url": "https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents",
+    "canonical_url": "https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents",
+    "published_at": "2026-09-21T13:53:27Z",
+    "tags": [],
+    "authors": [
+      "piotrgrabowski"
+    ],
+    "metadata": {
+      "hn_comments": 246,
+      "hn_id": "49787313",
+      "hn_score": 245,
+      "host": "www.macstories.net"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "hn_discussion",
+    "source_name": "Hacker News",
+    "source_role": "hn_discussion",
+    "source_type": "discussion",
+    "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
+    "summary": "macOS 27: Workaround to avoid downloading AI models and save storage",
+    "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and",
+    "canonical_url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and",
+    "published_at": "2026-09-21T14:10:49Z",
+    "tags": [],
+    "authors": [
+      "ano-ther"
+    ],
+    "metadata": {
+      "hn_comments": 112,
+      "hn_id": "49787535",
+      "hn_score": 222,
+      "host": "www.reddit.com"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "hn_discussion",
+    "source_name": "Hacker News",
+    "source_role": "hn_discussion",
+    "source_type": "discussion",
+    "title": "Show HN: Foremerge – Catch intent conflicts between parallel coding agents",
+    "summary": "Show HN: Foremerge – Catch intent conflicts between parallel coding agents",
+    "url": "https://github.com/naw103/foremerge",
+    "canonical_url": "https://github.com/naw103/foremerge",
+    "published_at": "2026-09-21T16:22:06Z",
+    "tags": [],
+    "authors": [
+      "naw103"
+    ],
+    "metadata": {
+      "hn_comments": 12,
+      "hn_id": "49789356",
+      "hn_score": 42,
+      "host": "github.com"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "hn_discussion",
+    "source_name": "Hacker News",
+    "source_role": "hn_discussion",
+    "source_type": "discussion",
+    "title": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
+    "summary": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
+    "url": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom",
+    "canonical_url": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom",
+    "published_at": "2026-09-21T17:00:23Z",
+    "tags": [],
+    "authors": [
+      "simianwords"
+    ],
+    "metadata": {
+      "hn_comments": 152,
+      "hn_id": "49789982",
+      "hn_score": 146,
+      "host": "www.forbes.com"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "hn_discussion",
+    "source_name": "Hacker News",
+    "source_role": "hn_discussion",
+    "source_type": "discussion",
+    "title": "Advisory Group on Mathematics and Artificial Intelligence",
+    "summary": "Advisory Group on Mathematics and Artificial Intelligence",
+    "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+    "canonical_url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+    "published_at": "2026-09-21T17:27:49Z",
+    "tags": [],
+    "authors": [
+      "js73js8"
+    ],
+    "metadata": {
+      "hn_comments": 57,
+      "hn_id": "49790389",
+      "hn_score": 74,
+      "host": "openai.com"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "hn_discussion",
+    "source_name": "Hacker News",
+    "source_role": "hn_discussion",
+    "source_type": "discussion",
+    "title": "Transformers Explained Visually",
+    "summary": "Transformers Explained Visually",
+    "url": "https://poloclub.github.io/transformer-explainer",
+    "canonical_url": "https://poloclub.github.io/transformer-explainer",
+    "published_at": "2026-09-21T19:43:49Z",
+    "tags": [],
+    "authors": [
+      "aray07"
+    ],
+    "metadata": {
+      "hn_comments": 58,
+      "hn_id": "49792342",
+      "hn_score": 362,
+      "host": "poloclub.github.io"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  }
+]

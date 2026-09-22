@@ -1,0 +1,2936 @@
+{
+  "date": "2026-09-17",
+  "generated_at": "2026-09-21T21:42:49.098140+00:00",
+  "mode": "openai",
+  "enrichment": {
+    "backend": "openai",
+    "batches": 3,
+    "batches_failed": 0,
+    "batches_llm": 3,
+    "errors": [],
+    "items": 57,
+    "items_heuristic": 17,
+    "items_llm": 40,
+    "llm_ok": true,
+    "mode_requested": "openai",
+    "path": "mixed",
+    "provider": "openai"
+  },
+  "summary": "• [Product Release] Evolution of LLMs: Omni-World Models — This product release surfaced across 1 independent source(s).\n• [Product Release] Introducing North Small Translate: A leading sovereign open-weight machine translation model — This product release surfaced across 1 independent source(s).\n• [Industry Update] Introducing the Life Sciences Verification Program — This industry move surfaced across 1 independent source(s).",
+  "source_stats": {
+    "ainews": 0,
+    "analysis_feeds": 6,
+    "github_trend": 15,
+    "hf_papers": 12,
+    "hn_discussion": 13,
+    "local_papers": 0,
+    "model_hubs": 3,
+    "official_blogs": 42,
+    "reddit": 0,
+    "roundup_sites": 14,
+    "x_ainews_twitter": 0,
+    "x_twitterapi": 0
+  },
+  "manifest": {
+    "synthesize_model": "claude-sonnet-5",
+    "synthesize_rejected": [
+      "aef5d6e22a60",
+      "ca0273108f34",
+      "03b1c78f151d"
+    ],
+    "synthesize_temperature": 0
+  },
+  "totals": {
+    "raw_items": 83,
+    "enriched_items": 0,
+    "stories": 0,
+    "featured": 3,
+    "watchlist": 2,
+    "category_topics": 16,
+    "long_tail_topics": 8,
+    "paper_spotlight_items": 6
+  },
+  "costs": {
+    "prompt": 0.0,
+    "completion": 0.0,
+    "total": 0.0
+  },
+  "usage": {
+    "llm": {
+      "provider": "openai",
+      "backend": "openai",
+      "billing_model": "quota",
+      "screen_model": "gpt-5.6",
+      "summary_model": "gpt-5.6",
+      "requests": 0,
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0,
+      "prompt_cost": 0.0,
+      "completion_cost": 0.0,
+      "total_cost": 0.0
+    },
+    "external": {
+      "ainews": {
+        "provider": "AINews RSS",
+        "billing_model": "free",
+        "requests": 1,
+        "items": 0,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "analysis_feeds": {
+        "provider": "Analysis RSS feeds",
+        "billing_model": "free",
+        "requests": 13,
+        "items": 6,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "github_trend": {
+        "provider": "GitHub API",
+        "billing_model": "free",
+        "requests": 2,
+        "items": 15,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "hf_papers": {
+        "provider": "Hugging Face",
+        "billing_model": "free",
+        "requests": 1,
+        "items": 12,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "hn_discussion": {
+        "provider": "Hacker News API",
+        "billing_model": "free",
+        "requests": 6,
+        "items": 13,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "local_papers": {
+        "provider": "Local cache",
+        "billing_model": "local",
+        "requests": 0,
+        "items": 0,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "model_hubs": {
+        "provider": "Hugging Face model index",
+        "billing_model": "free",
+        "requests": 20,
+        "items": 3,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "official_blogs": {
+        "provider": "Official blogs",
+        "billing_model": "free",
+        "requests": 37,
+        "items": 42,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "reddit": {
+        "provider": "Reddit JSON API",
+        "billing_model": "free",
+        "requests": 0,
+        "items": 0,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "roundup_sites": {
+        "provider": "Roundup sites",
+        "billing_model": "free",
+        "requests": 8,
+        "items": 14,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "x_ainews_twitter": {
+        "provider": "AINews Twitter recap",
+        "billing_model": "free",
+        "requests": 1,
+        "items": 0,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "x_twitterapi": {
+        "provider": "twitterapi.io",
+        "billing_model": "metered",
+        "requests": 0,
+        "items": 0,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      }
+    },
+    "summary": {
+      "external_requests": 89,
+      "x_requests": 1,
+      "estimated_external_cost": 0.0
+    }
+  },
+  "top_topics": [
+    {
+      "ACTIONABILITY": 4.0,
+      "ARTIFACT_BOOST": 0.5,
+      "CONFIDENCE": 6.36,
+      "CROSS_SOURCE_RESONANCE": 1.5,
+      "DISPLAY_PRIORITY": 7.844,
+      "ENGINEERING_PENALTY": 0.0,
+      "EVIDENCE_STRENGTH": 5.6,
+      "FINAL_SCORE": 10.0,
+      "FRONTIERNESS": 10.0,
+      "HEADLINE": "Evolution of LLMs: Omni-World Models",
+      "HEAT": 3,
+      "HYPE_PENALTY": 0.3,
+      "IMPORTANCE": 10,
+      "KEEP_IN_DAILY_HOTSPOTS": true,
+      "KEY_TAKEAWAYS": [
+        "Reka Labs on omni-world models: one architecture that takes text, images, video and actions in, and returns text, images, video and actions - unifying VLA and world-model approaches for physical AI."
+      ],
+      "LLM_STATUS": "featured",
+      "OCCURRENCE_SCORE": 2.95,
+      "PRIMARY_CATEGORY": "Product Release",
+      "QUALITY": 9,
+      "SECONDARY_CATEGORIES": [],
+      "SHORT_COMMENT": "Reka Labs on omni-world models: one architecture that takes text, images, video and actions in, and returns text, images, video and actions - unifying VLA and world-model approaches for physical AI.",
+      "SUBSTANCE_PENALTY": 0.0,
+      "TECHNICAL_DEPTH": 7.0,
+      "TOPIC_ID": "aef5d6e22a60",
+      "WATCHLIST": false,
+      "WHY_IT_MATTERS": "This product release surfaced across 1 independent source(s).",
+      "cluster_id": "aef5d6e22a60",
+      "event_type": "product_release",
+      "items": [
+        {
+          "authors": [],
+          "canonical_url": "https://reka.ai/news/evolution-of-llms-omni-world-models",
+          "metadata": {
+            "is_official": true,
+            "publisher": "Reka AI Blog"
+          },
+          "provenance": "",
+          "published_at": "2026-09-17T00:00:00+00:00",
+          "source_id": "reka_blog",
+          "source_name": "Reka AI Blog",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "summary": "Reka Labs on omni-world models: one architecture that takes text, images, video and actions in, and returns text, images, video and actions - unifying VLA and world-model approaches for physical AI.",
+          "tags": [],
+          "title": "Evolution of LLMs: Omni-World Models",
+          "url": "https://reka.ai/news/evolution-of-llms-omni-world-models",
+          "verified_first_date": "2026-09-17T00:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-09-17T00:00:00+00:00",
+      "source_ids": [
+        "reka_blog"
+      ],
+      "source_names": [
+        "Reka AI Blog"
+      ],
+      "source_roles": [
+        "official_news"
+      ],
+      "source_types": [
+        "official_blog"
+      ],
+      "summary": "Reka Labs on omni-world models: one architecture that takes text, images, video and actions in, and returns text, images, video and actions - unifying VLA and world-model approaches for physical AI.",
+      "tags": [],
+      "title": "Evolution of LLMs: Omni-World Models"
+    },
+    {
+      "ACTIONABILITY": 4.0,
+      "ARTIFACT_BOOST": 0.5,
+      "CONFIDENCE": 6.32,
+      "CROSS_SOURCE_RESONANCE": 1.5,
+      "DISPLAY_PRIORITY": 7.784,
+      "ENGINEERING_PENALTY": 0.0,
+      "EVIDENCE_STRENGTH": 5.6,
+      "FINAL_SCORE": 9.866,
+      "FRONTIERNESS": 9.933,
+      "HEADLINE": "Introducing North Small Translate: A leading sovereign open-weight machine translation model",
+      "HEAT": 3,
+      "HYPE_PENALTY": 0.3,
+      "IMPORTANCE": 7,
+      "KEEP_IN_DAILY_HOTSPOTS": true,
+      "KEY_TAKEAWAYS": [
+        "Outsized performance, right-sized footprint — translation built for speed and cost efficiency."
+      ],
+      "LLM_STATUS": "featured",
+      "OCCURRENCE_SCORE": 2.95,
+      "PRIMARY_CATEGORY": "Product Release",
+      "QUALITY": 9,
+      "SECONDARY_CATEGORIES": [],
+      "SHORT_COMMENT": "Cohere introduced North Small Translate, a sovereign open-weight machine translation model. The announcement emphasizes speed, cost efficiency, and a compact footprint.",
+      "SUBSTANCE_PENALTY": 0.0,
+      "TECHNICAL_DEPTH": 6.933,
+      "TOPIC_ID": "ca0273108f34",
+      "WATCHLIST": false,
+      "WHY_IT_MATTERS": "This product release surfaced across 1 independent source(s).",
+      "cluster_id": "ca0273108f34",
+      "event_type": "product_release",
+      "items": [
+        {
+          "authors": [],
+          "canonical_url": "https://cohere.com/blog/north-small-translate",
+          "metadata": {
+            "is_official": true,
+            "publisher": "Cohere Blog"
+          },
+          "provenance": "",
+          "published_at": "2026-09-17T00:00:00+00:00",
+          "source_id": "cohere_blog",
+          "source_name": "Cohere Blog",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "summary": "Outsized performance, right-sized footprint — translation built for speed and cost efficiency.",
+          "tags": [],
+          "title": "Introducing North Small Translate: A leading sovereign open-weight machine translation model",
+          "url": "https://cohere.com/blog/north-small-translate",
+          "verified_first_date": "2026-09-17T00:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-09-17T00:00:00+00:00",
+      "source_ids": [
+        "cohere_blog"
+      ],
+      "source_names": [
+        "Cohere Blog"
+      ],
+      "source_roles": [
+        "official_news"
+      ],
+      "source_types": [
+        "official_blog"
+      ],
+      "summary": "Cohere introduced North Small Translate, a sovereign open-weight machine translation model. The announcement emphasizes speed, cost efficiency, and a compact footprint.",
+      "tags": [],
+      "title": "Introducing North Small Translate: A leading sovereign open-weight machine translation model"
+    },
+    {
+      "ACTIONABILITY": 4.0,
+      "ARTIFACT_BOOST": 0.0,
+      "CONFIDENCE": 6.216,
+      "CROSS_SOURCE_RESONANCE": 1.5,
+      "DISPLAY_PRIORITY": 7.628,
+      "ENGINEERING_PENALTY": 0.0,
+      "EVIDENCE_STRENGTH": 5.6,
+      "FINAL_SCORE": 9.52,
+      "FRONTIERNESS": 9.76,
+      "HEADLINE": "Introducing the Life Sciences Verification Program",
+      "HEAT": 3,
+      "HYPE_PENALTY": 0.3,
+      "IMPORTANCE": 5,
+      "KEEP_IN_DAILY_HOTSPOTS": true,
+      "KEY_TAKEAWAYS": [],
+      "LLM_STATUS": "featured",
+      "OCCURRENCE_SCORE": 2.95,
+      "PRIMARY_CATEGORY": "Industry Update",
+      "QUALITY": 9,
+      "SECONDARY_CATEGORIES": [],
+      "SHORT_COMMENT": "Anthropic announced the Life Sciences Verification Program. The supplied item does not describe its scope or requirements.",
+      "SUBSTANCE_PENALTY": 0.0,
+      "TECHNICAL_DEPTH": 6.76,
+      "TOPIC_ID": "03b1c78f151d",
+      "WATCHLIST": false,
+      "WHY_IT_MATTERS": "This industry move surfaced across 1 independent source(s).",
+      "cluster_id": "03b1c78f151d",
+      "event_type": "industry_move",
+      "items": [
+        {
+          "authors": [],
+          "canonical_url": "https://www.anthropic.com/news/life-sciences-verification-program",
+          "metadata": {
+            "is_official": true,
+            "publisher": "Anthropic News"
+          },
+          "provenance": "",
+          "published_at": "Sep 17, 2026",
+          "source_id": "anthropic_news",
+          "source_name": "Anthropic News",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "summary": "",
+          "tags": [],
+          "title": "Introducing the Life Sciences Verification Program",
+          "url": "https://www.anthropic.com/news/life-sciences-verification-program",
+          "verified_first_date": "Sep 17, 2026"
+        }
+      ],
+      "published_at": "Sep 17, 2026",
+      "source_ids": [
+        "anthropic_news"
+      ],
+      "source_names": [
+        "Anthropic News"
+      ],
+      "source_roles": [
+        "official_news"
+      ],
+      "source_types": [
+        "official_blog"
+      ],
+      "summary": "Anthropic announced the Life Sciences Verification Program. The supplied item does not describe its scope or requirements.",
+      "tags": [],
+      "title": "Introducing the Life Sciences Verification Program"
+    }
+  ],
+  "featured_topics": [
+    {
+      "ACTIONABILITY": 4.0,
+      "ARTIFACT_BOOST": 0.5,
+      "CONFIDENCE": 6.36,
+      "CROSS_SOURCE_RESONANCE": 1.5,
+      "DISPLAY_PRIORITY": 7.844,
+      "ENGINEERING_PENALTY": 0.0,
+      "EVIDENCE_STRENGTH": 5.6,
+      "FINAL_SCORE": 10.0,
+      "FRONTIERNESS": 10.0,
+      "HEADLINE": "Evolution of LLMs: Omni-World Models",
+      "HEAT": 3,
+      "HYPE_PENALTY": 0.3,
+      "IMPORTANCE": 10,
+      "KEEP_IN_DAILY_HOTSPOTS": true,
+      "KEY_TAKEAWAYS": [
+        "Reka Labs on omni-world models: one architecture that takes text, images, video and actions in, and returns text, images, video and actions - unifying VLA and world-model approaches for physical AI."
+      ],
+      "LLM_STATUS": "featured",
+      "OCCURRENCE_SCORE": 2.95,
+      "PRIMARY_CATEGORY": "Product Release",
+      "QUALITY": 9,
+      "SECONDARY_CATEGORIES": [],
+      "SHORT_COMMENT": "Reka Labs on omni-world models: one architecture that takes text, images, video and actions in, and returns text, images, video and actions - unifying VLA and world-model approaches for physical AI.",
+      "SUBSTANCE_PENALTY": 0.0,
+      "TECHNICAL_DEPTH": 7.0,
+      "TOPIC_ID": "aef5d6e22a60",
+      "WATCHLIST": false,
+      "WHY_IT_MATTERS": "This product release surfaced across 1 independent source(s).",
+      "cluster_id": "aef5d6e22a60",
+      "event_type": "product_release",
+      "items": [
+        {
+          "authors": [],
+          "canonical_url": "https://reka.ai/news/evolution-of-llms-omni-world-models",
+          "metadata": {
+            "is_official": true,
+            "publisher": "Reka AI Blog"
+          },
+          "provenance": "",
+          "published_at": "2026-09-17T00:00:00+00:00",
+          "source_id": "reka_blog",
+          "source_name": "Reka AI Blog",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "summary": "Reka Labs on omni-world models: one architecture that takes text, images, video and actions in, and returns text, images, video and actions - unifying VLA and world-model approaches for physical AI.",
+          "tags": [],
+          "title": "Evolution of LLMs: Omni-World Models",
+          "url": "https://reka.ai/news/evolution-of-llms-omni-world-models",
+          "verified_first_date": "2026-09-17T00:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-09-17T00:00:00+00:00",
+      "source_ids": [
+        "reka_blog"
+      ],
+      "source_names": [
+        "Reka AI Blog"
+      ],
+      "source_roles": [
+        "official_news"
+      ],
+      "source_types": [
+        "official_blog"
+      ],
+      "summary": "Reka Labs on omni-world models: one architecture that takes text, images, video and actions in, and returns text, images, video and actions - unifying VLA and world-model approaches for physical AI.",
+      "tags": [],
+      "title": "Evolution of LLMs: Omni-World Models"
+    },
+    {
+      "ACTIONABILITY": 4.0,
+      "ARTIFACT_BOOST": 0.5,
+      "CONFIDENCE": 6.32,
+      "CROSS_SOURCE_RESONANCE": 1.5,
+      "DISPLAY_PRIORITY": 7.784,
+      "ENGINEERING_PENALTY": 0.0,
+      "EVIDENCE_STRENGTH": 5.6,
+      "FINAL_SCORE": 9.866,
+      "FRONTIERNESS": 9.933,
+      "HEADLINE": "Introducing North Small Translate: A leading sovereign open-weight machine translation model",
+      "HEAT": 3,
+      "HYPE_PENALTY": 0.3,
+      "IMPORTANCE": 7,
+      "KEEP_IN_DAILY_HOTSPOTS": true,
+      "KEY_TAKEAWAYS": [
+        "Outsized performance, right-sized footprint — translation built for speed and cost efficiency."
+      ],
+      "LLM_STATUS": "featured",
+      "OCCURRENCE_SCORE": 2.95,
+      "PRIMARY_CATEGORY": "Product Release",
+      "QUALITY": 9,
+      "SECONDARY_CATEGORIES": [],
+      "SHORT_COMMENT": "Cohere introduced North Small Translate, a sovereign open-weight machine translation model. The announcement emphasizes speed, cost efficiency, and a compact footprint.",
+      "SUBSTANCE_PENALTY": 0.0,
+      "TECHNICAL_DEPTH": 6.933,
+      "TOPIC_ID": "ca0273108f34",
+      "WATCHLIST": false,
+      "WHY_IT_MATTERS": "This product release surfaced across 1 independent source(s).",
+      "cluster_id": "ca0273108f34",
+      "event_type": "product_release",
+      "items": [
+        {
+          "authors": [],
+          "canonical_url": "https://cohere.com/blog/north-small-translate",
+          "metadata": {
+            "is_official": true,
+            "publisher": "Cohere Blog"
+          },
+          "provenance": "",
+          "published_at": "2026-09-17T00:00:00+00:00",
+          "source_id": "cohere_blog",
+          "source_name": "Cohere Blog",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "summary": "Outsized performance, right-sized footprint — translation built for speed and cost efficiency.",
+          "tags": [],
+          "title": "Introducing North Small Translate: A leading sovereign open-weight machine translation model",
+          "url": "https://cohere.com/blog/north-small-translate",
+          "verified_first_date": "2026-09-17T00:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-09-17T00:00:00+00:00",
+      "source_ids": [
+        "cohere_blog"
+      ],
+      "source_names": [
+        "Cohere Blog"
+      ],
+      "source_roles": [
+        "official_news"
+      ],
+      "source_types": [
+        "official_blog"
+      ],
+      "summary": "Cohere introduced North Small Translate, a sovereign open-weight machine translation model. The announcement emphasizes speed, cost efficiency, and a compact footprint.",
+      "tags": [],
+      "title": "Introducing North Small Translate: A leading sovereign open-weight machine translation model"
+    },
+    {
+      "ACTIONABILITY": 4.0,
+      "ARTIFACT_BOOST": 0.0,
+      "CONFIDENCE": 6.216,
+      "CROSS_SOURCE_RESONANCE": 1.5,
+      "DISPLAY_PRIORITY": 7.628,
+      "ENGINEERING_PENALTY": 0.0,
+      "EVIDENCE_STRENGTH": 5.6,
+      "FINAL_SCORE": 9.52,
+      "FRONTIERNESS": 9.76,
+      "HEADLINE": "Introducing the Life Sciences Verification Program",
+      "HEAT": 3,
+      "HYPE_PENALTY": 0.3,
+      "IMPORTANCE": 5,
+      "KEEP_IN_DAILY_HOTSPOTS": true,
+      "KEY_TAKEAWAYS": [],
+      "LLM_STATUS": "featured",
+      "OCCURRENCE_SCORE": 2.95,
+      "PRIMARY_CATEGORY": "Industry Update",
+      "QUALITY": 9,
+      "SECONDARY_CATEGORIES": [],
+      "SHORT_COMMENT": "Anthropic announced the Life Sciences Verification Program. The supplied item does not describe its scope or requirements.",
+      "SUBSTANCE_PENALTY": 0.0,
+      "TECHNICAL_DEPTH": 6.76,
+      "TOPIC_ID": "03b1c78f151d",
+      "WATCHLIST": false,
+      "WHY_IT_MATTERS": "This industry move surfaced across 1 independent source(s).",
+      "cluster_id": "03b1c78f151d",
+      "event_type": "industry_move",
+      "items": [
+        {
+          "authors": [],
+          "canonical_url": "https://www.anthropic.com/news/life-sciences-verification-program",
+          "metadata": {
+            "is_official": true,
+            "publisher": "Anthropic News"
+          },
+          "provenance": "",
+          "published_at": "Sep 17, 2026",
+          "source_id": "anthropic_news",
+          "source_name": "Anthropic News",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "summary": "",
+          "tags": [],
+          "title": "Introducing the Life Sciences Verification Program",
+          "url": "https://www.anthropic.com/news/life-sciences-verification-program",
+          "verified_first_date": "Sep 17, 2026"
+        }
+      ],
+      "published_at": "Sep 17, 2026",
+      "source_ids": [
+        "anthropic_news"
+      ],
+      "source_names": [
+        "Anthropic News"
+      ],
+      "source_roles": [
+        "official_news"
+      ],
+      "source_types": [
+        "official_blog"
+      ],
+      "summary": "Anthropic announced the Life Sciences Verification Program. The supplied item does not describe its scope or requirements.",
+      "tags": [],
+      "title": "Introducing the Life Sciences Verification Program"
+    }
+  ],
+  "category_sections": [
+    {
+      "category": "Product Release",
+      "total_candidates": 5,
+      "topics": [
+        {
+          "ACTIONABILITY": 4.0,
+          "ARTIFACT_BOOST": 0.5,
+          "CONFIDENCE": 4.892,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 4.81,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 5.6,
+          "FINAL_SCORE": 5.106,
+          "FRONTIERNESS": 7.553,
+          "HEADLINE": "Introducing Astra for Law",
+          "HEAT": 4,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 8,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 3.4,
+          "PRIMARY_CATEGORY": "Product Release",
+          "QUALITY": 5,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 4.553,
+          "TOPIC_ID": "c37dfc184517",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This product release surfaced across 1 independent source(s).",
+          "cluster_id": "c37dfc184517",
+          "event_type": "product_release",
+          "items": [
+            {
+              "authors": [],
+              "canonical_url": "https://openai.com/index/hex-gpt-6-astra",
+              "metadata": {
+                "is_official": true,
+                "publisher": "OpenAI News"
+              },
+              "provenance": "",
+              "published_at": "Wed, 16 Sep 2026 12:00:00 GMT",
+              "source_id": "openai_news",
+              "source_name": "OpenAI News",
+              "source_role": "official_news",
+              "source_type": "official_blog",
+              "summary": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share.",
+              "tags": [],
+              "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+              "url": "https://openai.com/index/hex-gpt-6-astra",
+              "verified_first_date": "Wed, 16 Sep 2026 12:00:00 GMT"
+            },
+            {
+              "authors": [],
+              "canonical_url": "https://openai.com/index/astra-for-law",
+              "metadata": {
+                "is_official": true,
+                "publisher": "OpenAI News"
+              },
+              "provenance": "",
+              "published_at": "Thu, 17 Sep 2026 00:00:00 GMT",
+              "source_id": "openai_news",
+              "source_name": "OpenAI News",
+              "source_role": "official_news",
+              "source_type": "official_blog",
+              "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
+              "tags": [],
+              "title": "Introducing Astra for Law",
+              "url": "https://openai.com/index/astra-for-law",
+              "verified_first_date": "Thu, 17 Sep 2026 00:00:00 GMT"
+            }
+          ],
+          "published_at": "Wed, 16 Sep 2026 12:00:00 GMT",
+          "source_ids": [
+            "openai_news"
+          ],
+          "source_names": [
+            "OpenAI News"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "official_blog"
+          ],
+          "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
+          "tags": [],
+          "title": "Introducing Astra for Law"
+        },
+        {
+          "ACTIONABILITY": 4.0,
+          "ARTIFACT_BOOST": 0.5,
+          "CONFIDENCE": 7.147,
+          "CROSS_SOURCE_RESONANCE": 3.9,
+          "DISPLAY_PRIORITY": 6.037,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 7.7,
+          "FINAL_SCORE": 5.091,
+          "FRONTIERNESS": 7.546,
+          "HEADLINE": "Reimagining advertising with AI",
+          "HEAT": 5,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 8,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 5.6,
+          "PRIMARY_CATEGORY": "Product Release",
+          "QUALITY": 5,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 4.546,
+          "TOPIC_ID": "c6d1a2b0373c",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This product release surfaced across 2 independent source(s).",
+          "cluster_id": "c6d1a2b0373c",
+          "event_type": "product_release",
+          "items": [
+            {
+              "authors": [
+                "vertigoruntime"
+              ],
+              "canonical_url": "https://openai.com/index/reimagining-advertising-with-ai",
+              "metadata": {
+                "hn_comments": 180,
+                "hn_id": "49727041",
+                "hn_score": 157,
+                "host": "openai.com"
+              },
+              "provenance": "",
+              "published_at": "2026-09-16T13:51:15Z",
+              "source_id": "hn_discussion",
+              "source_name": "Hacker News",
+              "source_role": "hn_discussion",
+              "source_type": "discussion",
+              "summary": "OpenAI expands ChatGPT ads with Sponsored Agents",
+              "tags": [],
+              "title": "OpenAI expands ChatGPT ads with Sponsored Agents",
+              "url": "https://openai.com/index/reimagining-advertising-with-ai",
+              "verified_first_date": "Wed, 16 Sep 2026 13:00:00 GMT"
+            },
+            {
+              "authors": [],
+              "canonical_url": "https://openai.com/index/reimagining-advertising-with-ai",
+              "metadata": {
+                "is_official": true,
+                "publisher": "OpenAI News"
+              },
+              "provenance": "",
+              "published_at": "Wed, 16 Sep 2026 13:00:00 GMT",
+              "source_id": "openai_news",
+              "source_name": "OpenAI News",
+              "source_role": "official_news",
+              "source_type": "official_blog",
+              "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+              "tags": [],
+              "title": "Reimagining advertising with AI",
+              "url": "https://openai.com/index/reimagining-advertising-with-ai",
+              "verified_first_date": "Wed, 16 Sep 2026 13:00:00 GMT"
+            }
+          ],
+          "published_at": "Wed, 16 Sep 2026 13:00:00 GMT",
+          "source_ids": [
+            "hn_discussion",
+            "openai_news"
+          ],
+          "source_names": [
+            "Hacker News",
+            "OpenAI News"
+          ],
+          "source_roles": [
+            "hn_discussion",
+            "official_news"
+          ],
+          "source_types": [
+            "discussion",
+            "official_blog"
+          ],
+          "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+          "tags": [],
+          "title": "Reimagining advertising with AI"
+        },
+        {
+          "ACTIONABILITY": 4.0,
+          "ARTIFACT_BOOST": 0.5,
+          "CONFIDENCE": 4.883,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 4.629,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 5.6,
+          "FINAL_SCORE": 5.078,
+          "FRONTIERNESS": 7.539,
+          "HEADLINE": "Fault tolerant distributed training on Amazon EKS using NVRx",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 10,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Product Release",
+          "QUALITY": 5,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "Integrate NVIDIA Resiliency Extension (NVRx) into PyTorch FSDP training on Amazon EKS to overlap checkpoint I/O with training and recover from GPU faults in seconds. This post covers async checkpointing, in-process restart, and ft_launcher in-job restart, with H100 benchmarks at 2 to 8 nodes showing 99%+ training efficiency and second-scale recovery.",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 4.539,
+          "TOPIC_ID": "afaaee7007dc",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This product release surfaced across 1 independent source(s).",
+          "cluster_id": "afaaee7007dc",
+          "event_type": "product_release",
+          "items": [
+            {
+              "authors": [],
+              "canonical_url": "https://aws.amazon.com/blogs/machine-learning/fault-tolerant-distributed-training-on-amazon-eks-using-nvrx",
+              "metadata": {
+                "is_official": true,
+                "publisher": "AWS AI Blog"
+              },
+              "provenance": "",
+              "published_at": "Wed, 16 Sep 2026 18:59:25 +0000",
+              "source_id": "aws_ai_blog",
+              "source_name": "AWS AI Blog",
+              "source_role": "official_news",
+              "source_type": "official_blog",
+              "summary": "Integrate NVIDIA Resiliency Extension (NVRx) into PyTorch FSDP training on Amazon EKS to overlap checkpoint I/O with training and recover from GPU faults in seconds. This post covers async checkpointing, in-process restart, and ft_launcher in-job restart, with H100 benchmarks at 2 to 8 nodes showing 99%+ training efficiency and second-scale recovery.",
+              "tags": [],
+              "title": "Fault tolerant distributed training on Amazon EKS using NVRx",
+              "url": "https://aws.amazon.com/blogs/machine-learning/fault-tolerant-distributed-training-on-amazon-eks-using-nvrx",
+              "verified_first_date": "Wed, 16 Sep 2026 18:59:25 +0000"
+            }
+          ],
+          "published_at": "Wed, 16 Sep 2026 18:59:25 +0000",
+          "source_ids": [
+            "aws_ai_blog"
+          ],
+          "source_names": [
+            "AWS AI Blog"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "official_blog"
+          ],
+          "summary": "Integrate NVIDIA Resiliency Extension (NVRx) into PyTorch FSDP training on Amazon EKS to overlap checkpoint I/O with training and recover from GPU faults in seconds. This post covers async checkpointing, in-process restart, and ft_launcher in-job restart, with H100 benchmarks at 2 to 8 nodes showing 99%+ training efficiency and second-scale recovery.",
+          "tags": [],
+          "title": "Fault tolerant distributed training on Amazon EKS using NVRx"
+        },
+        {
+          "ACTIONABILITY": 4.0,
+          "ARTIFACT_BOOST": 0.5,
+          "CONFIDENCE": 4.883,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 4.629,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 5.6,
+          "FINAL_SCORE": 5.078,
+          "FRONTIERNESS": 7.539,
+          "HEADLINE": "Post-training image models for fandom",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 10,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Product Release",
+          "QUALITY": 5,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "<figure class=\"kg-card kg-image-card\"><img alt=\"alt\" class=\"kg-image\" height=\"1125\" src=\"https://storage.ghost.io/c/ad/34/ad34888f-5b63-4d5f-a358-18cf16489b83/content/images/2026/09/Image-Model-Example-Blog-Header-1.png\" width=\"2000\" /></figure><p>The best open-source image models make great pictures. Character.ai needed more: the same Character, recognizable through every style, scene, and page a story asks for.</p><p>So we made our own. The <strong>CAI-Image family is our line of image models</strong>, post-trained versions of the open-source Qwen-</p>",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 4.539,
+          "TOPIC_ID": "1149dabe063b",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This product release surfaced across 1 independent source(s).",
+          "cluster_id": "1149dabe063b",
+          "event_type": "product_release",
+          "items": [
+            {
+              "authors": [],
+              "canonical_url": "https://blog.character.ai/cai-image-models",
+              "metadata": {
+                "is_official": true,
+                "publisher": "Character AI Blog"
+              },
+              "provenance": "",
+              "published_at": "Wed, 16 Sep 2026 17:00:27 GMT",
+              "source_id": "character_blog",
+              "source_name": "Character AI Blog",
+              "source_role": "official_news",
+              "source_type": "official_blog",
+              "summary": "<figure class=\"kg-card kg-image-card\"><img alt=\"alt\" class=\"kg-image\" height=\"1125\" src=\"https://storage.ghost.io/c/ad/34/ad34888f-5b63-4d5f-a358-18cf16489b83/content/images/2026/09/Image-Model-Example-Blog-Header-1.png\" width=\"2000\" /></figure><p>The best open-source image models make great pictures. Character.ai needed more: the same Character, recognizable through every style, scene, and page a story asks for.</p><p>So we made our own. The <strong>CAI-Image family is our line of image models</strong>, post-trained versions of the open-source Qwen-</p>",
+              "tags": [],
+              "title": "Post-training image models for fandom",
+              "url": "https://blog.character.ai/cai-image-models",
+              "verified_first_date": "Wed, 16 Sep 2026 17:00:27 GMT"
+            }
+          ],
+          "published_at": "Wed, 16 Sep 2026 17:00:27 GMT",
+          "source_ids": [
+            "character_blog"
+          ],
+          "source_names": [
+            "Character AI Blog"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "official_blog"
+          ],
+          "summary": "<figure class=\"kg-card kg-image-card\"><img alt=\"alt\" class=\"kg-image\" height=\"1125\" src=\"https://storage.ghost.io/c/ad/34/ad34888f-5b63-4d5f-a358-18cf16489b83/content/images/2026/09/Image-Model-Example-Blog-Header-1.png\" width=\"2000\" /></figure><p>The best open-source image models make great pictures. Character.ai needed more: the same Character, recognizable through every style, scene, and page a story asks for.</p><p>So we made our own. The <strong>CAI-Image family is our line of image models</strong>, post-trained versions of the open-source Qwen-</p>",
+          "tags": [],
+          "title": "Post-training image models for fandom"
+        },
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.5,
+          "CONFIDENCE": 3.972,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 4.222,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 5.04,
+          "FRONTIERNESS": 5.52,
+          "HEADLINE": "Claude Cowork and chat are now one Claude",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 6,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Product Release",
+          "QUALITY": 5,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "Claude Cowork and chat have been unified as one Claude experience. Simon Willison's Blog linked to the announcement and commented on the change.",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 4.52,
+          "TOPIC_ID": "522e0d4ce2c3",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This product release surfaced across 1 independent source(s).",
+          "cluster_id": "522e0d4ce2c3",
+          "event_type": "product_release",
+          "items": [
+            {
+              "authors": [],
+              "canonical_url": "https://simonwillison.net/2026/Sep/16/one-claude",
+              "metadata": {
+                "feed_id": "simon_willison",
+                "feed_source": "https://simonwillison.net/atom/everything",
+                "signal_tier": "trusted_analysis",
+                "source_quality": 1.3
+              },
+              "provenance": "",
+              "published_at": "2026-09-16T18:09:49+00:00",
+              "source_id": "analysis_simon_willison",
+              "source_name": "Simon Willison's Blog",
+              "source_role": "editorial_depth",
+              "source_type": "blog_analysis",
+              "summary": "<p><strong><a href=\"https://claude.com/blog/cowork-is-now-claude\">Claude Cowork and chat are now one Claude</a></strong></p> In hopefully good news for anyone who, like me, was increasingly confused at Cowork v.s. Claude v.s. Claude Code:</p> <blockquote> <p>Starting today, Claude Cowork and chat are merging into one Claude. Bring a quick question, or hand over a report due at noon, and Claude takes it from there, even after you’ve closed your laptop. [...]</p> <p>This is rolling out to Pro and Max plans first, in the Claude app on web, desktop, and mobile over the coming weeks to existing and new users on these plans.</p> </blockquote> <p>I guess this means Claude is becoming a <strong>general agent</strong> in its own right. Echoes of OpenAI renaming their Codex desktop app to ChatGPT...",
+              "tags": [
+                "analysis",
+                "deep-read"
+              ],
+              "title": "Claude Cowork and chat are now one Claude",
+              "url": "https://simonwillison.net/2026/Sep/16/one-claude",
+              "verified_first_date": "2026-09-16T18:09:49+00:00"
+            }
+          ],
+          "published_at": "2026-09-16T18:09:49+00:00",
+          "source_ids": [
+            "analysis_simon_willison"
+          ],
+          "source_names": [
+            "Simon Willison's Blog"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "summary": "Claude Cowork and chat have been unified as one Claude experience. Simon Willison's Blog linked to the announcement and commented on the change.",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "title": "Claude Cowork and chat are now one Claude"
+        }
+      ]
+    },
+    {
+      "category": "Industry Update",
+      "total_candidates": 12,
+      "topics": [
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 4.339,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 4.773,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 6.265,
+          "FRONTIERNESS": 6.133,
+          "HEADLINE": "OpenAI discloses six new AI safety incidents",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 2,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Industry Update",
+          "QUALITY": 6,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "OpenAI discloses six new AI safety incidents",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 5.133,
+          "TOPIC_ID": "9ebcb6afd5b8",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This other surfaced across 1 independent source(s).",
+          "cluster_id": "9ebcb6afd5b8",
+          "event_type": "other",
+          "items": [
+            {
+              "authors": [
+                "toomuchtodo"
+              ],
+              "canonical_url": "https://www.axios.com/2026/09/16/openai-testing-safety-incidents-disclosure",
+              "metadata": {
+                "hn_comments": 11,
+                "hn_id": "49734970",
+                "hn_score": 33,
+                "host": "www.axios.com"
+              },
+              "provenance": "",
+              "published_at": "2026-09-17T00:33:03Z",
+              "source_id": "hn_discussion",
+              "source_name": "Hacker News",
+              "source_role": "hn_discussion",
+              "source_type": "discussion",
+              "summary": "OpenAI discloses six new AI safety incidents",
+              "tags": [],
+              "title": "OpenAI discloses six new AI safety incidents",
+              "url": "https://www.axios.com/2026/09/16/openai-testing-safety-incidents-disclosure",
+              "verified_first_date": "2026-09-17T00:33:03Z"
+            }
+          ],
+          "published_at": "2026-09-17T00:33:03Z",
+          "source_ids": [
+            "hn_discussion"
+          ],
+          "source_names": [
+            "Hacker News"
+          ],
+          "source_roles": [
+            "hn_discussion"
+          ],
+          "source_types": [
+            "discussion"
+          ],
+          "summary": "OpenAI discloses six new AI safety incidents",
+          "tags": [],
+          "title": "OpenAI discloses six new AI safety incidents"
+        },
+        {
+          "ACTIONABILITY": 4.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 4.865,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 4.601,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 5.6,
+          "FINAL_SCORE": 5.016,
+          "FRONTIERNESS": 7.508,
+          "HEADLINE": "Helping older adults use AI in everyday life",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 4,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Industry Update",
+          "QUALITY": 5,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "OpenAI and AARP are offering free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities. The workshops focus on building practical AI skills safely.",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 4.508,
+          "TOPIC_ID": "811ae8e77171",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This industry move surfaced across 1 independent source(s).",
+          "cluster_id": "811ae8e77171",
+          "event_type": "industry_move",
+          "items": [
+            {
+              "authors": [],
+              "canonical_url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+              "metadata": {
+                "is_official": true,
+                "publisher": "OpenAI News"
+              },
+              "provenance": "",
+              "published_at": "Wed, 16 Sep 2026 16:00:00 GMT",
+              "source_id": "openai_news",
+              "source_name": "OpenAI News",
+              "source_role": "official_news",
+              "source_type": "official_blog",
+              "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+              "tags": [],
+              "title": "Helping older adults use AI in everyday life",
+              "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+              "verified_first_date": "Wed, 16 Sep 2026 16:00:00 GMT"
+            }
+          ],
+          "published_at": "Wed, 16 Sep 2026 16:00:00 GMT",
+          "source_ids": [
+            "openai_news"
+          ],
+          "source_names": [
+            "OpenAI News"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "official_blog"
+          ],
+          "summary": "OpenAI and AARP are offering free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities. The workshops focus on building practical AI skills safely.",
+          "tags": [],
+          "title": "Helping older adults use AI in everyday life"
+        },
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 3.961,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 4.205,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 5.003,
+          "FRONTIERNESS": 5.502,
+          "HEADLINE": "Salesforce introduces Koa while expanding its Claude partnership",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 6,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Industry Update",
+          "QUALITY": 5,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "Salesforce introduced Koa while expanding its Claude partnership. The supplied item does not describe Koa's capabilities or the partnership terms.",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 4.502,
+          "TOPIC_ID": "eedbb1cdfa05",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This industry move surfaced across 1 independent source(s).",
+          "cluster_id": "eedbb1cdfa05",
+          "event_type": "industry_move",
+          "items": [
+            {
+              "authors": [],
+              "canonical_url": "https://www.rundown.ai/news/salesforce-koa-reasoning-model-claudeforce",
+              "metadata": {
+                "roundup_site": "The Rundown AI"
+              },
+              "provenance": "",
+              "published_at": "2026-09-16T12:31:09.120Z",
+              "source_id": "the_rundown_ai",
+              "source_name": "The Rundown AI",
+              "source_role": "headline_consensus",
+              "source_type": "roundup",
+              "summary": "Artificial intelligence",
+              "tags": [],
+              "title": "Salesforce introduces Koa while expanding its Claude partnership",
+              "url": "https://www.rundown.ai/news/salesforce-koa-reasoning-model-claudeforce",
+              "verified_first_date": "2026-09-16T12:31:09.120Z"
+            }
+          ],
+          "published_at": "2026-09-16T12:31:09.120Z",
+          "source_ids": [
+            "the_rundown_ai"
+          ],
+          "source_names": [
+            "The Rundown AI"
+          ],
+          "source_roles": [
+            "headline_consensus"
+          ],
+          "source_types": [
+            "roundup"
+          ],
+          "summary": "Salesforce introduced Koa while expanding its Claude partnership. The supplied item does not describe Koa's capabilities or the partnership terms.",
+          "tags": [],
+          "title": "Salesforce introduces Koa while expanding its Claude partnership"
+        },
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 3.868,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 4.065,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 4.692,
+          "FRONTIERNESS": 5.346,
+          "HEADLINE": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 4,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Industry Update",
+          "QUALITY": 4,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "The headline reports that the PS5 Linux project lead has quit. It quotes the lead criticizing contributors for using language models they do not understand.",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 4.346,
+          "TOPIC_ID": "e90cb109edfd",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This industry move surfaced across 1 independent source(s).",
+          "cluster_id": "e90cb109edfd",
+          "event_type": "industry_move",
+          "items": [
+            {
+              "authors": [
+                "alexjplant"
+              ],
+              "canonical_url": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand",
+              "metadata": {
+                "hn_comments": 225,
+                "hn_id": "49727627",
+                "hn_score": 330,
+                "host": "frvr.com"
+              },
+              "provenance": "",
+              "published_at": "2026-09-16T14:30:36Z",
+              "source_id": "hn_discussion",
+              "source_name": "Hacker News",
+              "source_role": "hn_discussion",
+              "source_type": "discussion",
+              "summary": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
+              "tags": [],
+              "title": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
+              "url": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand",
+              "verified_first_date": "2026-09-16T14:30:36Z"
+            }
+          ],
+          "published_at": "2026-09-16T14:30:36Z",
+          "source_ids": [
+            "hn_discussion"
+          ],
+          "source_names": [
+            "Hacker News"
+          ],
+          "source_roles": [
+            "hn_discussion"
+          ],
+          "source_types": [
+            "discussion"
+          ],
+          "summary": "The headline reports that the PS5 Linux project lead has quit. It quotes the lead criticizing contributors for using language models they do not understand.",
+          "tags": [],
+          "title": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\""
+        },
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 3.83,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 4.009,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 4.566,
+          "FRONTIERNESS": 5.283,
+          "HEADLINE": "New AI technique could make minimally invasive surgeries safer and more precise",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 5,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Industry Update",
+          "QUALITY": 4,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "This patient-specific method, called xvr, helps doctors use X-rays for surgical navigation in fields such as orthopedics and neurosurgery.",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 4.283,
+          "TOPIC_ID": "7007dce80b41",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This other surfaced across 1 independent source(s).",
+          "cluster_id": "7007dce80b41",
+          "event_type": "other",
+          "items": [
+            {
+              "authors": [],
+              "canonical_url": "https://news.mit.edu/2026/new-ai-technique-could-make-minimally-invasive-surgeries-safer-more-precise-0916",
+              "metadata": {
+                "feed_id": "mit_ai_news",
+                "feed_source": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+                "signal_tier": "trusted_analysis",
+                "source_quality": 1.3
+              },
+              "provenance": "",
+              "published_at": "Wed, 16 Sep 2026 11:00:00 -0400",
+              "source_id": "analysis_mit_ai_news",
+              "source_name": "MIT News AI",
+              "source_role": "editorial_depth",
+              "source_type": "blog_analysis",
+              "summary": "This patient-specific method, called xvr, helps doctors use X-rays for surgical navigation in fields such as orthopedics and neurosurgery.",
+              "tags": [
+                "analysis",
+                "deep-read"
+              ],
+              "title": "New AI technique could make minimally invasive surgeries safer and more precise",
+              "url": "https://news.mit.edu/2026/new-ai-technique-could-make-minimally-invasive-surgeries-safer-more-precise-0916",
+              "verified_first_date": "Wed, 16 Sep 2026 11:00:00 -0400"
+            }
+          ],
+          "published_at": "Wed, 16 Sep 2026 11:00:00 -0400",
+          "source_ids": [
+            "analysis_mit_ai_news"
+          ],
+          "source_names": [
+            "MIT News AI"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "summary": "This patient-specific method, called xvr, helps doctors use X-rays for surgical navigation in fields such as orthopedics and neurosurgery.",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "title": "New AI technique could make minimally invasive surgeries safer and more precise"
+        }
+      ]
+    },
+    {
+      "category": "Tooling",
+      "total_candidates": 4,
+      "topics": [
+        {
+          "ACTIONABILITY": 4.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 4.872,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 4.612,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 5.6,
+          "FINAL_SCORE": 5.041,
+          "FRONTIERNESS": 7.521,
+          "HEADLINE": "Our framework for reporting model misalignment",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 10,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Tooling",
+          "QUALITY": 5,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 4.521,
+          "TOPIC_ID": "c90932f65bb6",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This tooling surfaced across 1 independent source(s).",
+          "cluster_id": "c90932f65bb6",
+          "event_type": "tooling",
+          "items": [
+            {
+              "authors": [],
+              "canonical_url": "https://openai.com/index/model-misalignment-reporting-framework",
+              "metadata": {
+                "is_official": true,
+                "publisher": "OpenAI News"
+              },
+              "provenance": "",
+              "published_at": "Wed, 16 Sep 2026 17:00:00 GMT",
+              "source_id": "openai_news",
+              "source_name": "OpenAI News",
+              "source_role": "official_news",
+              "source_type": "official_blog",
+              "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+              "tags": [],
+              "title": "Our framework for reporting model misalignment",
+              "url": "https://openai.com/index/model-misalignment-reporting-framework",
+              "verified_first_date": "Wed, 16 Sep 2026 17:00:00 GMT"
+            }
+          ],
+          "published_at": "Wed, 16 Sep 2026 17:00:00 GMT",
+          "source_ids": [
+            "openai_news"
+          ],
+          "source_names": [
+            "OpenAI News"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "official_blog"
+          ],
+          "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+          "tags": [],
+          "title": "Our framework for reporting model misalignment"
+        },
+        {
+          "ACTIONABILITY": 4.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 4.868,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 4.606,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 5.6,
+          "FINAL_SCORE": 5.027,
+          "FRONTIERNESS": 7.514,
+          "HEADLINE": "Improving HCLS AI reasoning with open-source agent skills",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 6,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Tooling",
+          "QUALITY": 5,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "AWS shared 38 open-source agent skills aimed at improving healthcare and life sciences reasoning. The post addresses agents that cite appropriate guidelines but apply decision frameworks incorrectly.",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 4.514,
+          "TOPIC_ID": "e41c0ca98bd3",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This tooling surfaced across 1 independent source(s).",
+          "cluster_id": "e41c0ca98bd3",
+          "event_type": "tooling",
+          "items": [
+            {
+              "authors": [],
+              "canonical_url": "https://aws.amazon.com/blogs/machine-learning/improving-hcls-ai-reasoning-with-open-source-agent-skills",
+              "metadata": {
+                "is_official": true,
+                "publisher": "AWS AI Blog"
+              },
+              "provenance": "",
+              "published_at": "Wed, 16 Sep 2026 19:00:00 +0000",
+              "source_id": "aws_ai_blog",
+              "source_name": "AWS AI Blog",
+              "source_role": "official_news",
+              "source_type": "official_blog",
+              "summary": "AI agents on foundation models often misapply healthcare and life sciences decision frameworks, citing the right guideline but applying it incorrectly. This post shares 38 open-source agent skills across 11 HCLS domains that close this gap, with installation steps, three worked use cases, and a 410-prompt evaluation showing a 70-86% win rate.",
+              "tags": [],
+              "title": "Improving HCLS AI reasoning with open-source agent skills",
+              "url": "https://aws.amazon.com/blogs/machine-learning/improving-hcls-ai-reasoning-with-open-source-agent-skills",
+              "verified_first_date": "Wed, 16 Sep 2026 19:00:00 +0000"
+            }
+          ],
+          "published_at": "Wed, 16 Sep 2026 19:00:00 +0000",
+          "source_ids": [
+            "aws_ai_blog"
+          ],
+          "source_names": [
+            "AWS AI Blog"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "official_blog"
+          ],
+          "summary": "AWS shared 38 open-source agent skills aimed at improving healthcare and life sciences reasoning. The post addresses agents that cite appropriate guidelines but apply decision frameworks incorrectly.",
+          "tags": [],
+          "title": "Improving HCLS AI reasoning with open-source agent skills"
+        },
+        {
+          "ACTIONABILITY": 4.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 4.867,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 4.604,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 5.6,
+          "FINAL_SCORE": 5.023,
+          "FRONTIERNESS": 7.511,
+          "HEADLINE": "OpenRouter Leaderboard: 425 Models by Price, Measured Speed and Korean Quality",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 5,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Tooling",
+          "QUALITY": 5,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "A Hugging Face blog item presents an OpenRouter leaderboard covering 425 models. It compares models by price, measured speed, and Korean-language quality.",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 4.511,
+          "TOPIC_ID": "93b6e8bfd8da",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This tooling surfaced across 1 independent source(s).",
+          "cluster_id": "93b6e8bfd8da",
+          "event_type": "tooling",
+          "items": [
+            {
+              "authors": [],
+              "canonical_url": "https://huggingface.co/blog/ginigen-ai/openrouter-leaderboard",
+              "metadata": {
+                "is_official": true,
+                "publisher": "Hugging Face Blog"
+              },
+              "provenance": "",
+              "published_at": "2026-09-16T10:07:24+00:00",
+              "source_id": "huggingface_blog",
+              "source_name": "Hugging Face Blog",
+              "source_role": "official_news",
+              "source_type": "official_blog",
+              "summary": "",
+              "tags": [],
+              "title": "OpenRouter Leaderboard: 425 Models by Price, Measured Speed and Korean Quality",
+              "url": "https://huggingface.co/blog/ginigen-ai/openrouter-leaderboard",
+              "verified_first_date": "2026-09-16T10:07:24+00:00"
+            }
+          ],
+          "published_at": "2026-09-16T10:07:24+00:00",
+          "source_ids": [
+            "huggingface_blog"
+          ],
+          "source_names": [
+            "Hugging Face Blog"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "official_blog"
+          ],
+          "summary": "A Hugging Face blog item presents an OpenRouter leaderboard covering 425 models. It compares models by price, measured speed, and Korean-language quality.",
+          "tags": [],
+          "title": "OpenRouter Leaderboard: 425 Models by Price, Measured Speed and Korean Quality"
+        },
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 3.96,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 4.204,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 5.0,
+          "FRONTIERNESS": 5.5,
+          "HEADLINE": "Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 4,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Tooling",
+          "QUALITY": 4,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "A Show HN post presents How Stale Is Your AI?, a resource comparing 20 AI models. It reports their release ages and training cutoffs.",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 4.5,
+          "TOPIC_ID": "4d1951f4face",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This tooling surfaced across 1 independent source(s).",
+          "cluster_id": "4d1951f4face",
+          "event_type": "tooling",
+          "items": [
+            {
+              "authors": [
+                "joozio"
+              ],
+              "canonical_url": "https://stale.jock.pl",
+              "metadata": {
+                "hn_comments": 50,
+                "hn_id": "49726343",
+                "hn_score": 81,
+                "host": "stale.jock.pl"
+              },
+              "provenance": "",
+              "published_at": "2026-09-16T13:01:52Z",
+              "source_id": "hn_discussion",
+              "source_name": "Hacker News",
+              "source_role": "hn_discussion",
+              "source_type": "discussion",
+              "summary": "Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models",
+              "tags": [],
+              "title": "Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models",
+              "url": "https://stale.jock.pl",
+              "verified_first_date": "2026-09-16T13:01:52Z"
+            }
+          ],
+          "published_at": "2026-09-16T13:01:52Z",
+          "source_ids": [
+            "hn_discussion"
+          ],
+          "source_names": [
+            "Hacker News"
+          ],
+          "source_roles": [
+            "hn_discussion"
+          ],
+          "source_types": [
+            "discussion"
+          ],
+          "summary": "A Show HN post presents How Stale Is Your AI?, a resource comparing 20 AI models. It reports their release ages and training cutoffs.",
+          "tags": [],
+          "title": "Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models"
+        }
+      ]
+    },
+    {
+      "category": "Research",
+      "total_candidates": 13,
+      "topics": [
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 3.97,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 4.22,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 5.035,
+          "FRONTIERNESS": 6.518,
+          "HEADLINE": "Agora: Git as Shared Memory for Collective AutoResearch",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 8,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Research",
+          "QUALITY": 6,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "Autonomous research loops such as AutoResearch show that one coding agent can improve a training setup unattended. Run several of them and each session starts from scratch, so more agents tend to mean more duplicated search rather than more discovery. Agora is a shared memory for such agents: research is recorded as an append-only directed acyclic graph (DAG) stored in Git, so that every claim is a commit anyone can check out and rerun. Each result, insight, hypothesis, verification, and report is an immutable commit whose parent edges say what it builds on; a derived index exposes the fron...",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 4.518,
+          "TOPIC_ID": "aff024d9255a",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This research paper surfaced across 1 independent source(s).",
+          "cluster_id": "aff024d9255a",
+          "event_type": "research_paper",
+          "items": [
+            {
+              "authors": [
+                "Yifan Zhang",
+                "Yunheng Zou",
+                "Shaokun Zhang",
+                "Jian Hu",
+                "Hao Zhang",
+                "Binfeng Xu",
+                "Jan Kautz",
+                "Yi Dong"
+              ],
+              "canonical_url": "https://arxiv.org/abs/2609.18094",
+              "metadata": {
+                "ai_summary": "",
+                "arxiv_id": "2609.18094",
+                "daily_score": 51,
+                "github_url": "https://github.com/yifanzhang-pro/Agora",
+                "hf_url": "https://huggingface.co/papers/2609.18094",
+                "novelty": 0,
+                "relevance": 0,
+                "spotlight_comment": "Autonomous research loops such as AutoResearch show that one coding agent can improve a training setup unattended. Run several of them and each session starts from scratch, so more agents tend to mean more duplicated search rather than more discovery. Agora is a shared memory for such agents: res...",
+                "spotlight_primary_kind": "daily_hot",
+                "spotlight_primary_label": "Daily Hot Papers",
+                "upvotes": 51
+              },
+              "provenance": "",
+              "published_at": "2026-09-16T00:00:00.000Z",
+              "source_id": "hf_papers",
+              "source_name": "Hugging Face Trending Papers",
+              "source_role": "paper_trending",
+              "source_type": "paper",
+              "summary": "Autonomous research loops such as AutoResearch show that one coding agent can improve a training setup unattended. Run several of them and each session starts from scratch, so more agents tend to mean more duplicated search rather than more discovery. Agora is a shared memory for such agents: research is recorded as an append-only directed acyclic graph (DAG) stored in Git, so that every claim is a commit anyone can check out and rerun. Each result, insight, hypothesis, verification, and report is an immutable commit whose parent edges say what it builds on; a derived index exposes the fron...",
+              "tags": [],
+              "title": "Agora: Git as Shared Memory for Collective AutoResearch",
+              "url": "https://huggingface.co/papers/2609.18094",
+              "verified_first_date": "2026-09-16T00:00:00.000Z"
+            }
+          ],
+          "published_at": "2026-09-16T00:00:00.000Z",
+          "source_ids": [
+            "hf_papers"
+          ],
+          "source_names": [
+            "Hugging Face Trending Papers"
+          ],
+          "source_roles": [
+            "paper_trending"
+          ],
+          "source_types": [
+            "paper"
+          ],
+          "summary": "Autonomous research loops such as AutoResearch show that one coding agent can improve a training setup unattended. Run several of them and each session starts from scratch, so more agents tend to mean more duplicated search rather than more discovery. Agora is a shared memory for such agents: research is recorded as an append-only directed acyclic graph (DAG) stored in Git, so that every claim is a commit anyone can check out and rerun. Each result, insight, hypothesis, verification, and report is an immutable commit whose parent edges say what it builds on; a derived index exposes the fron...",
+          "tags": [],
+          "title": "Agora: Git as Shared Memory for Collective AutoResearch"
+        },
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 3.97,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 4.22,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 5.035,
+          "FRONTIERNESS": 6.518,
+          "HEADLINE": "Rethinking Critic Learning in PPO: Understanding and Mitigating Value Flattening",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 8,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Research",
+          "QUALITY": 6,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "In reinforcement learning for large language models, Proximal Policy Optimization (PPO) commonly uses a critic to estimate state values and reduce the variance of policy updates. However, we uncover a systematic failure mode in PPO critics, which we call Value Flattening: state values, estimated from multiple Monte Carlo continuations, change sharply across intermediate states while critic predictions remain comparatively flat. We further observe this phenomenon in a controlled FrozenLake environment and find that it becomes more pronounced as the state space grows. Our theoretical and empi...",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 4.518,
+          "TOPIC_ID": "6db5f546cc02",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This research paper surfaced across 1 independent source(s).",
+          "cluster_id": "6db5f546cc02",
+          "event_type": "research_paper",
+          "items": [
+            {
+              "authors": [
+                "Yizhuo Li",
+                "Jianhao Yan",
+                "Yun Luo",
+                "Zhi Wang",
+                "Futing Wang",
+                "Rong-Xi Tan",
+                "Kanghui Tian",
+                "Ganqu Cui",
+                "Ning Ding",
+                "Peilin Zhao",
+                "Yafu Li",
+                "Yu Cheng"
+              ],
+              "canonical_url": "https://arxiv.org/abs/2609.18708",
+              "metadata": {
+                "ai_summary": "",
+                "arxiv_id": "2609.18708",
+                "daily_score": 73,
+                "github_url": "https://github.com/Dodojordi/SP3O",
+                "hf_url": "https://huggingface.co/papers/2609.18708",
+                "novelty": 0,
+                "relevance": 0,
+                "spotlight_comment": "In reinforcement learning for large language models, Proximal Policy Optimization (PPO) commonly uses a critic to estimate state values and reduce the variance of policy updates. However, we uncover a systematic failure mode in PPO critics, which we call Value Flattening: state values, estimated...",
+                "spotlight_primary_kind": "daily_hot",
+                "spotlight_primary_label": "Daily Hot Papers",
+                "upvotes": 73
+              },
+              "provenance": "",
+              "published_at": "2026-09-16T00:00:00.000Z",
+              "source_id": "hf_papers",
+              "source_name": "Hugging Face Trending Papers",
+              "source_role": "paper_trending",
+              "source_type": "paper",
+              "summary": "In reinforcement learning for large language models, Proximal Policy Optimization (PPO) commonly uses a critic to estimate state values and reduce the variance of policy updates. However, we uncover a systematic failure mode in PPO critics, which we call Value Flattening: state values, estimated from multiple Monte Carlo continuations, change sharply across intermediate states while critic predictions remain comparatively flat. We further observe this phenomenon in a controlled FrozenLake environment and find that it becomes more pronounced as the state space grows. Our theoretical and empi...",
+              "tags": [],
+              "title": "Rethinking Critic Learning in PPO: Understanding and Mitigating Value Flattening",
+              "url": "https://huggingface.co/papers/2609.18708",
+              "verified_first_date": "2026-09-16T00:00:00.000Z"
+            }
+          ],
+          "published_at": "2026-09-16T00:00:00.000Z",
+          "source_ids": [
+            "hf_papers"
+          ],
+          "source_names": [
+            "Hugging Face Trending Papers"
+          ],
+          "source_roles": [
+            "paper_trending"
+          ],
+          "source_types": [
+            "paper"
+          ],
+          "summary": "In reinforcement learning for large language models, Proximal Policy Optimization (PPO) commonly uses a critic to estimate state values and reduce the variance of policy updates. However, we uncover a systematic failure mode in PPO critics, which we call Value Flattening: state values, estimated from multiple Monte Carlo continuations, change sharply across intermediate states while critic predictions remain comparatively flat. We further observe this phenomenon in a controlled FrozenLake environment and find that it becomes more pronounced as the state space grows. Our theoretical and empi...",
+          "tags": [],
+          "title": "Rethinking Critic Learning in PPO: Understanding and Mitigating Value Flattening"
+        }
+      ]
+    }
+  ],
+  "long_tail_sections": [
+    {
+      "category": "Industry Update",
+      "total_candidates": 7,
+      "topics": [
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 3.735,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 4.034,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 4.25,
+          "FRONTIERNESS": 5.125,
+          "HEADLINE": "DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression",
+          "HEAT": 4,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 5,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 3.4,
+          "PRIMARY_CATEGORY": "Industry Update",
+          "QUALITY": 4,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "A Hacker News item highlights KV cache compression in DeepSeek v4.1 Flash. The supplied text provides no technical details or performance measurements.",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 4.125,
+          "TOPIC_ID": "04017bb976ac",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This other surfaced across 1 independent source(s).",
+          "cluster_id": "04017bb976ac",
+          "event_type": "other",
+          "items": [
+            {
+              "authors": [
+                "talhof8"
+              ],
+              "canonical_url": "https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model",
+              "metadata": {
+                "hn_comments": 67,
+                "hn_id": "49725800",
+                "hn_score": 175,
+                "host": "enclave.ai"
+              },
+              "provenance": "",
+              "published_at": "2026-09-16T12:19:55Z",
+              "source_id": "hn_discussion",
+              "source_name": "Hacker News",
+              "source_role": "hn_discussion",
+              "source_type": "discussion",
+              "summary": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
+              "tags": [],
+              "title": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
+              "url": "https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model",
+              "verified_first_date": "2026-09-16T12:19:55Z"
+            },
+            {
+              "authors": [
+                "mfiguiere"
+              ],
+              "canonical_url": "https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html",
+              "metadata": {
+                "hn_comments": 10,
+                "hn_id": "49735410",
+                "hn_score": 130,
+                "host": "zartbot.github.io"
+              },
+              "provenance": "",
+              "published_at": "2026-09-17T01:39:47Z",
+              "source_id": "hn_discussion",
+              "source_name": "Hacker News",
+              "source_role": "hn_discussion",
+              "source_type": "discussion",
+              "summary": "DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression",
+              "tags": [],
+              "title": "DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression",
+              "url": "https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html",
+              "verified_first_date": "2026-09-17T01:39:47Z"
+            }
+          ],
+          "published_at": "2026-09-17T01:39:47Z",
+          "source_ids": [
+            "hn_discussion"
+          ],
+          "source_names": [
+            "Hacker News"
+          ],
+          "source_roles": [
+            "hn_discussion"
+          ],
+          "source_types": [
+            "discussion"
+          ],
+          "summary": "A Hacker News item highlights KV cache compression in DeepSeek v4.1 Flash. The supplied text provides no technical details or performance measurements.",
+          "tags": [],
+          "title": "DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression"
+        },
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 3.593,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 3.654,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 3.777,
+          "FRONTIERNESS": 4.889,
+          "HEADLINE": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 5,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Industry Update",
+          "QUALITY": 3,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "The item discusses breaking the 1.58-bit barrier for ternary language models. The supplied title does not explain the method or provide measurements.",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 3.889,
+          "TOPIC_ID": "73cb1f409e2b",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This other surfaced across 1 independent source(s).",
+          "cluster_id": "73cb1f409e2b",
+          "event_type": "other",
+          "items": [
+            {
+              "authors": [
+                "matt_d"
+              ],
+              "canonical_url": "https://arxiv.org/abs/2609.16338",
+              "metadata": {
+                "hn_comments": 41,
+                "hn_id": "49732931",
+                "hn_score": 244,
+                "host": "arxiv.org"
+              },
+              "provenance": "",
+              "published_at": "2026-09-16T20:59:24Z",
+              "source_id": "hn_discussion",
+              "source_name": "Hacker News",
+              "source_role": "hn_discussion",
+              "source_type": "discussion",
+              "summary": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+              "tags": [],
+              "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+              "url": "https://arxiv.org/abs/2609.16338",
+              "verified_first_date": "2026-09-16T20:59:24Z"
+            }
+          ],
+          "published_at": "2026-09-16T20:59:24Z",
+          "source_ids": [
+            "hn_discussion"
+          ],
+          "source_names": [
+            "Hacker News"
+          ],
+          "source_roles": [
+            "hn_discussion"
+          ],
+          "source_types": [
+            "discussion"
+          ],
+          "summary": "The item discusses breaking the 1.58-bit barrier for ternary language models. The supplied title does not explain the method or provide measurements.",
+          "tags": [],
+          "title": "Breaking the 1.58-bit Barrier for Ternary LLMs"
+        },
+        {
+          "ACTIONABILITY": 4.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 4.447,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 3.974,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 5.6,
+          "FINAL_SCORE": 3.623,
+          "FRONTIERNESS": 6.812,
+          "HEADLINE": "How to connect AI usage to business value",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 4,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Industry Update",
+          "QUALITY": 3,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "OpenAI published guidance on using ChatGPT Work and Codex analytics to understand AI usage and spending. The guidance covers identifying training needs and connecting adoption to business outcomes.",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 3.812,
+          "TOPIC_ID": "4d630c79f486",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This tutorial surfaced across 1 independent source(s).",
+          "cluster_id": "4d630c79f486",
+          "event_type": "tutorial",
+          "items": [
+            {
+              "authors": [],
+              "canonical_url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+              "metadata": {
+                "is_official": true,
+                "publisher": "OpenAI News"
+              },
+              "provenance": "",
+              "published_at": "Wed, 16 Sep 2026 12:00:00 GMT",
+              "source_id": "openai_news",
+              "source_name": "OpenAI News",
+              "source_role": "official_news",
+              "source_type": "official_blog",
+              "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
+              "tags": [],
+              "title": "How to connect AI usage to business value",
+              "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+              "verified_first_date": "Wed, 16 Sep 2026 12:00:00 GMT"
+            }
+          ],
+          "published_at": "Wed, 16 Sep 2026 12:00:00 GMT",
+          "source_ids": [
+            "openai_news"
+          ],
+          "source_names": [
+            "OpenAI News"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "official_blog"
+          ],
+          "summary": "OpenAI published guidance on using ChatGPT Work and Codex analytics to understand AI usage and spending. The guidance covers identifying training needs and connecting adoption to business outcomes.",
+          "tags": [],
+          "title": "How to connect AI usage to business value"
+        },
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 3.309,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 3.227,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 2.83,
+          "FRONTIERNESS": 4.415,
+          "HEADLINE": "Anatomy of a Texture",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 2,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Industry Update",
+          "QUALITY": 3,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "An item titled Anatomy of a Texture appears on Hacker News. No additional description is supplied to establish its specific subject or AI relevance.",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 3.415,
+          "TOPIC_ID": "6448ad9c41ad",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This other surfaced across 1 independent source(s).",
+          "cluster_id": "6448ad9c41ad",
+          "event_type": "other",
+          "items": [
+            {
+              "authors": [
+                "Agentlien"
+              ],
+              "canonical_url": "https://agentlien.github.io/texture",
+              "metadata": {
+                "hn_comments": 17,
+                "hn_id": "49727592",
+                "hn_score": 111,
+                "host": "agentlien.github.io"
+              },
+              "provenance": "",
+              "published_at": "2026-09-16T14:28:28Z",
+              "source_id": "hn_discussion",
+              "source_name": "Hacker News",
+              "source_role": "hn_discussion",
+              "source_type": "discussion",
+              "summary": "Anatomy of a Texture",
+              "tags": [],
+              "title": "Anatomy of a Texture",
+              "url": "https://agentlien.github.io/texture",
+              "verified_first_date": "2026-09-16T14:28:28Z"
+            }
+          ],
+          "published_at": "2026-09-16T14:28:28Z",
+          "source_ids": [
+            "hn_discussion"
+          ],
+          "source_names": [
+            "Hacker News"
+          ],
+          "source_roles": [
+            "hn_discussion"
+          ],
+          "source_types": [
+            "discussion"
+          ],
+          "summary": "An item titled Anatomy of a Texture appears on Hacker News. No additional description is supplied to establish its specific subject or AI relevance.",
+          "tags": [],
+          "title": "Anatomy of a Texture"
+        },
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 3.309,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 3.227,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 2.83,
+          "FRONTIERNESS": 4.415,
+          "HEADLINE": "Show HN: Swift-Qwen3.8-27B, -58.3% thinking, x1.95 speed, accuracy of xhigh",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 2,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Industry Update",
+          "QUALITY": 3,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "Show HN: Swift-Qwen3.8-27B, -58.3% thinking, x1.95 speed, accuracy of xhigh",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 3.415,
+          "TOPIC_ID": "4b84515f4826",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This other surfaced across 1 independent source(s).",
+          "cluster_id": "4b84515f4826",
+          "event_type": "other",
+          "items": [
+            {
+              "authors": [
+                "kisjovan"
+              ],
+              "canonical_url": "https://huggingface.co/ukisai/Swift-Qwen3.8-27b",
+              "metadata": {
+                "hn_comments": 17,
+                "hn_id": "49727511",
+                "hn_score": 32,
+                "host": "huggingface.co"
+              },
+              "provenance": "",
+              "published_at": "2026-09-16T14:24:05Z",
+              "source_id": "hn_discussion",
+              "source_name": "Hacker News",
+              "source_role": "hn_discussion",
+              "source_type": "discussion",
+              "summary": "Show HN: Swift-Qwen3.8-27B, -58.3% thinking, x1.95 speed, accuracy of xhigh",
+              "tags": [],
+              "title": "Show HN: Swift-Qwen3.8-27B, -58.3% thinking, x1.95 speed, accuracy of xhigh",
+              "url": "https://huggingface.co/ukisai/Swift-Qwen3.8-27b",
+              "verified_first_date": "2026-09-16T14:24:05Z"
+            }
+          ],
+          "published_at": "2026-09-16T14:24:05Z",
+          "source_ids": [
+            "hn_discussion"
+          ],
+          "source_names": [
+            "Hacker News"
+          ],
+          "source_roles": [
+            "hn_discussion"
+          ],
+          "source_types": [
+            "discussion"
+          ],
+          "summary": "Show HN: Swift-Qwen3.8-27B, -58.3% thinking, x1.95 speed, accuracy of xhigh",
+          "tags": [],
+          "title": "Show HN: Swift-Qwen3.8-27B, -58.3% thinking, x1.95 speed, accuracy of xhigh"
+        },
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 3.148,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 2.986,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 2.294,
+          "FRONTIERNESS": 4.147,
+          "HEADLINE": "Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 7,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Industry Update",
+          "QUALITY": 2,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": " ",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 3.147,
+          "TOPIC_ID": "15086c026027",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This other surfaced across 1 independent source(s).",
+          "cluster_id": "15086c026027",
+          "event_type": "other",
+          "items": [
+            {
+              "authors": [],
+              "canonical_url": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models",
+              "metadata": {
+                "feed_id": "arstechnica_ai",
+                "feed_source": "https://arstechnica.com/ai/feed/",
+                "signal_tier": "trusted_analysis",
+                "source_quality": 1.3
+              },
+              "provenance": "",
+              "published_at": "Tue, 15 Sep 2026 12:00:41 +0000",
+              "source_id": "analysis_arstechnica_ai",
+              "source_name": "Ars Technica AI",
+              "source_role": "editorial_depth",
+              "source_type": "blog_analysis",
+              "summary": "Ars previewed Mozilla’s report on how cheap open models caught up on capability.",
+              "tags": [
+                "analysis",
+                "deep-read"
+              ],
+              "title": "Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost",
+              "url": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models",
+              "verified_first_date": "Tue, 15 Sep 2026 12:00:41 +0000"
+            }
+          ],
+          "published_at": "Tue, 15 Sep 2026 12:00:41 +0000",
+          "source_ids": [
+            "analysis_arstechnica_ai"
+          ],
+          "source_names": [
+            "Ars Technica AI"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "summary": " ",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "title": "Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost"
+        },
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 3.001,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 2.766,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 1.805,
+          "FRONTIERNESS": 3.902,
+          "HEADLINE": "A warning about 'model welfare'",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 3,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Industry Update",
+          "QUALITY": 2,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "The item presents a warning about model welfare. The supplied information does not identify its specific arguments or author.",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 2.902,
+          "TOPIC_ID": "6739d46d6ffc",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This opinion surfaced across 1 independent source(s).",
+          "cluster_id": "6739d46d6ffc",
+          "event_type": "opinion",
+          "items": [
+            {
+              "authors": [
+                "andsoitis"
+              ],
+              "canonical_url": "https://mustafa-suleyman.ai/a-warning-about-model-welfare",
+              "metadata": {
+                "hn_comments": 697,
+                "hn_id": "49727580",
+                "hn_score": 240,
+                "host": "mustafa-suleyman.ai"
+              },
+              "provenance": "",
+              "published_at": "2026-09-16T14:27:47Z",
+              "source_id": "hn_discussion",
+              "source_name": "Hacker News",
+              "source_role": "hn_discussion",
+              "source_type": "discussion",
+              "summary": "A warning about 'model welfare'",
+              "tags": [],
+              "title": "A warning about 'model welfare'",
+              "url": "https://mustafa-suleyman.ai/a-warning-about-model-welfare",
+              "verified_first_date": "2026-09-16T14:27:47Z"
+            }
+          ],
+          "published_at": "2026-09-16T14:27:47Z",
+          "source_ids": [
+            "hn_discussion"
+          ],
+          "source_names": [
+            "Hacker News"
+          ],
+          "source_roles": [
+            "hn_discussion"
+          ],
+          "source_types": [
+            "discussion"
+          ],
+          "summary": "The item presents a warning about model welfare. The supplied information does not identify its specific arguments or author.",
+          "tags": [],
+          "title": "A warning about 'model welfare'"
+        }
+      ]
+    },
+    {
+      "category": "Research",
+      "total_candidates": 10,
+      "topics": [
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 3.97,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 4.22,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 5.035,
+          "FRONTIERNESS": 6.518,
+          "HEADLINE": "ScienceIDE: Turning World's Scientific Codebase into Agent Learnable Environments",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 8,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Research",
+          "QUALITY": 6,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "Scientific code repositories encode decades of human knowledge in executable models, methods, and tools. Yet fragmented toolchains, implicit domain conventions, and specialized correctness criteria make this knowledge difficult to convert into reliable learning experience-a challenge we call the scientific experience bottleneck. We introduce ScienceIDE, infrastructure for turning the world's scientific code into programmable environments for scientific agents. Guided by expert-defined scientific cases and acceptance criteria, agents transform repositories into executable environments that s...",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 4.518,
+          "TOPIC_ID": "b724edd43236",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This research paper surfaced across 1 independent source(s).",
+          "cluster_id": "b724edd43236",
+          "event_type": "research_paper",
+          "items": [
+            {
+              "authors": [
+                "Hejia Geng",
+                "Zesen Huang",
+                "Haoyang Li",
+                "Wenbin Li",
+                "Koutian Wu",
+                "Zihan Zhou",
+                "Yuanbo Pang",
+                "Weihao Liu",
+                "Zigong Xu",
+                "Zhiping Li",
+                "Zongzheng Zhang",
+                "Chuanfei Dong",
+                "Jiankai Sun",
+                "Tianzhe Zheng",
+                "Fengyu Xie",
+                "Yue Ma",
+                "Yueheng Shi",
+                "Tong Xie",
+                "Zonglin Di",
+                "Xianrong Liu",
+                "Qucheng Gao",
+                "Yimin Liu",
+                "Jiaming Pan",
+                "Sheng Huang",
+                "Xiao-Han Ma",
+                "Lanqing Yuan",
+                "Zhenlin Zhu",
+                "Ziang Liu",
+                "Ziyang Xu",
+                "Junkai Wang",
+                "Kangkai Liang",
+                "Jiayi Xian",
+                "Zehong Zhao",
+                "Liuwei Xu",
+                "Jingxu Xie",
+                "Peijin Zhang",
+                "Qiang Gao",
+                "Chengyi Xing",
+                "Zhe Zhao",
+                "Xi Wang",
+                "Yaopeng Xing",
+                "Xing Meng",
+                "Zhenfei Yin",
+                "Yingcheng Wu",
+                "Ling Yang"
+              ],
+              "canonical_url": "https://arxiv.org/abs/2609.19134",
+              "metadata": {
+                "ai_summary": "",
+                "arxiv_id": "2609.19134",
+                "daily_score": 94,
+                "github_url": "https://github.com/aitofound/ScienceIDE",
+                "hf_url": "https://huggingface.co/papers/2609.19134",
+                "novelty": 0,
+                "relevance": 0,
+                "spotlight_comment": "Scientific code repositories encode decades of human knowledge in executable models, methods, and tools. Yet fragmented toolchains, implicit domain conventions, and specialized correctness criteria make this knowledge difficult to convert into reliable learning experience-a challenge we call the...",
+                "spotlight_primary_kind": "daily_hot",
+                "spotlight_primary_label": "Daily Hot Papers",
+                "upvotes": 94
+              },
+              "provenance": "",
+              "published_at": "2026-09-16T00:00:00.000Z",
+              "source_id": "hf_papers",
+              "source_name": "Hugging Face Trending Papers",
+              "source_role": "paper_trending",
+              "source_type": "paper",
+              "summary": "Scientific code repositories encode decades of human knowledge in executable models, methods, and tools. Yet fragmented toolchains, implicit domain conventions, and specialized correctness criteria make this knowledge difficult to convert into reliable learning experience-a challenge we call the scientific experience bottleneck. We introduce ScienceIDE, infrastructure for turning the world's scientific code into programmable environments for scientific agents. Guided by expert-defined scientific cases and acceptance criteria, agents transform repositories into executable environments that s...",
+              "tags": [],
+              "title": "ScienceIDE: Turning World's Scientific Codebase into Agent Learnable Environments",
+              "url": "https://huggingface.co/papers/2609.19134",
+              "verified_first_date": "2026-09-16T00:00:00.000Z"
+            }
+          ],
+          "published_at": "2026-09-16T00:00:00.000Z",
+          "source_ids": [
+            "hf_papers"
+          ],
+          "source_names": [
+            "Hugging Face Trending Papers"
+          ],
+          "source_roles": [
+            "paper_trending"
+          ],
+          "source_types": [
+            "paper"
+          ],
+          "summary": "Scientific code repositories encode decades of human knowledge in executable models, methods, and tools. Yet fragmented toolchains, implicit domain conventions, and specialized correctness criteria make this knowledge difficult to convert into reliable learning experience-a challenge we call the scientific experience bottleneck. We introduce ScienceIDE, infrastructure for turning the world's scientific code into programmable environments for scientific agents. Guided by expert-defined scientific cases and acceptance criteria, agents transform repositories into executable environments that s...",
+          "tags": [],
+          "title": "ScienceIDE: Turning World's Scientific Codebase into Agent Learnable Environments"
+        }
+      ]
+    }
+  ],
+  "paper_spotlight": [
+    {
+      "kind": "daily_hot",
+      "label": "Daily Hot Papers",
+      "description": "Papers that feel broadly important to the day and belong in the hotspot paper feed.",
+      "items": [
+        {
+          "title": "LimiX-2: A Contextual Mechanism Network Towards General Structured-Data Intelligence",
+          "summary": "We introduce LimiX-2, a new model in the LimiX family, developed through model and data scaling guided by our previously established scaling laws. LimiX-2 adopts the Contextual Mechanism Networks (CMNs) paradigm and is pretrained with Context-Conditional Masked Modeling (CCMM). CMNs shifts the organizing principle of in-context learning from target-centric prediction to mechanism-oriented joint modeling. Rather than centering the network on the p(y mid x, D_{context}) objective of conventional tabular PFNs, it is designed around learning p(x, y mid D_{context}), a context-dependent represen...",
+          "url": "https://huggingface.co/papers/2609.17488",
+          "canonical_url": "https://arxiv.org/abs/2609.17488",
+          "source_id": "hf_papers",
+          "source_name": "Hugging Face Trending Papers",
+          "source_role": "paper_trending",
+          "arxiv_id": "2609.17488",
+          "authors": [
+            "Xingxuan Zhang",
+            "Gang Ren",
+            "Hao Yuan",
+            "Hao Zou",
+            "Hongze Tan",
+            "Hui Wang",
+            "Jianhao Song",
+            "Jiansheng Li",
+            "Jiayao Zhang",
+            "Jinghan Zhang",
+            "Kaifang Li",
+            "Lang Mo",
+            "Li Mao",
+            "Mingchao Hao",
+            "Nuo Xu",
+            "Rui Ding",
+            "Ruiji Zhang",
+            "Shuyang Li",
+            "Siyu Mei",
+            "Tianyang Zhang",
+            "Weiyang Mu",
+            "Yancheng Dong",
+            "Yongxian Wei",
+            "Yuan Xue",
+            "Yuanrui Wang",
+            "Yue He",
+            "Zijia Yang",
+            "Ziyun Li",
+            "Dongzhe Li",
+            "Fuqiang Wang",
+            "Jiandong Liu",
+            "Jiawei Chen",
+            "Jiaxin Du",
+            "Kaijie Cheng",
+            "Kehan Li",
+            "Lei Sun",
+            "Linjun Zhou",
+            "Ningbo Dai",
+            "Qi Wang",
+            "Renzhe Xu",
+            "Shaoxing Du",
+            "Shumeng Yang",
+            "Wang Lu",
+            "Wenjing Chu",
+            "Xiannan Huang",
+            "Xiaoyu Lin",
+            "Xing Ai",
+            "Xinyan Han",
+            "Xuanyue Li",
+            "Xuanyue Su",
+            "Xukun Zhang",
+            "Yan Lu",
+            "Yaxin Zhang",
+            "Yi Qin",
+            "Yifei Huang",
+            "Yihan Xu",
+            "Yongle Lv",
+            "Yuanyuan Jiang",
+            "Yushan Han",
+            "Peng Cui"
+          ],
+          "primary_topic_id": "",
+          "primary_topic_label": "",
+          "spotlight_primary_kind": "daily_hot",
+          "spotlight_primary_label": "Daily Hot Papers",
+          "spotlight_comment": "We introduce LimiX-2, a new model in the LimiX family, developed through model and data scaling guided by our previously established scaling laws. LimiX-2 adopts the Contextual Mechanism Networks (CMNs) paradigm and is pretrained with Context-Conditional Masked Modeling (CCMM). CMNs shifts the or...",
+          "daily_score": 468,
+          "relevance": 0,
+          "novelty": 0,
+          "s2_influential_citations": 0,
+          "s2_citations": 0
+        },
+        {
+          "title": "ScienceIDE: Turning World's Scientific Codebase into Agent Learnable Environments",
+          "summary": "Scientific code repositories encode decades of human knowledge in executable models, methods, and tools. Yet fragmented toolchains, implicit domain conventions, and specialized correctness criteria make this knowledge difficult to convert into reliable learning experience-a challenge we call the scientific experience bottleneck. We introduce ScienceIDE, infrastructure for turning the world's scientific code into programmable environments for scientific agents. Guided by expert-defined scientific cases and acceptance criteria, agents transform repositories into executable environments that s...",
+          "url": "https://huggingface.co/papers/2609.19134",
+          "canonical_url": "https://arxiv.org/abs/2609.19134",
+          "source_id": "hf_papers",
+          "source_name": "Hugging Face Trending Papers",
+          "source_role": "paper_trending",
+          "arxiv_id": "2609.19134",
+          "authors": [
+            "Hejia Geng",
+            "Zesen Huang",
+            "Haoyang Li",
+            "Wenbin Li",
+            "Koutian Wu",
+            "Zihan Zhou",
+            "Yuanbo Pang",
+            "Weihao Liu",
+            "Zigong Xu",
+            "Zhiping Li",
+            "Zongzheng Zhang",
+            "Chuanfei Dong",
+            "Jiankai Sun",
+            "Tianzhe Zheng",
+            "Fengyu Xie",
+            "Yue Ma",
+            "Yueheng Shi",
+            "Tong Xie",
+            "Zonglin Di",
+            "Xianrong Liu",
+            "Qucheng Gao",
+            "Yimin Liu",
+            "Jiaming Pan",
+            "Sheng Huang",
+            "Xiao-Han Ma",
+            "Lanqing Yuan",
+            "Zhenlin Zhu",
+            "Ziang Liu",
+            "Ziyang Xu",
+            "Junkai Wang",
+            "Kangkai Liang",
+            "Jiayi Xian",
+            "Zehong Zhao",
+            "Liuwei Xu",
+            "Jingxu Xie",
+            "Peijin Zhang",
+            "Qiang Gao",
+            "Chengyi Xing",
+            "Zhe Zhao",
+            "Xi Wang",
+            "Yaopeng Xing",
+            "Xing Meng",
+            "Zhenfei Yin",
+            "Yingcheng Wu",
+            "Ling Yang"
+          ],
+          "primary_topic_id": "",
+          "primary_topic_label": "",
+          "spotlight_primary_kind": "daily_hot",
+          "spotlight_primary_label": "Daily Hot Papers",
+          "spotlight_comment": "Scientific code repositories encode decades of human knowledge in executable models, methods, and tools. Yet fragmented toolchains, implicit domain conventions, and specialized correctness criteria make this knowledge difficult to convert into reliable learning experience-a challenge we call the...",
+          "daily_score": 94,
+          "relevance": 0,
+          "novelty": 0,
+          "s2_influential_citations": 0,
+          "s2_citations": 1
+        },
+        {
+          "title": "Rethinking Critic Learning in PPO: Understanding and Mitigating Value Flattening",
+          "summary": "In reinforcement learning for large language models, Proximal Policy Optimization (PPO) commonly uses a critic to estimate state values and reduce the variance of policy updates. However, we uncover a systematic failure mode in PPO critics, which we call Value Flattening: state values, estimated from multiple Monte Carlo continuations, change sharply across intermediate states while critic predictions remain comparatively flat. We further observe this phenomenon in a controlled FrozenLake environment and find that it becomes more pronounced as the state space grows. Our theoretical and empi...",
+          "url": "https://huggingface.co/papers/2609.18708",
+          "canonical_url": "https://arxiv.org/abs/2609.18708",
+          "source_id": "hf_papers",
+          "source_name": "Hugging Face Trending Papers",
+          "source_role": "paper_trending",
+          "arxiv_id": "2609.18708",
+          "authors": [
+            "Yizhuo Li",
+            "Jianhao Yan",
+            "Yun Luo",
+            "Zhi Wang",
+            "Futing Wang",
+            "Rong-Xi Tan",
+            "Kanghui Tian",
+            "Ganqu Cui",
+            "Ning Ding",
+            "Peilin Zhao",
+            "Yafu Li",
+            "Yu Cheng"
+          ],
+          "primary_topic_id": "",
+          "primary_topic_label": "",
+          "spotlight_primary_kind": "daily_hot",
+          "spotlight_primary_label": "Daily Hot Papers",
+          "spotlight_comment": "In reinforcement learning for large language models, Proximal Policy Optimization (PPO) commonly uses a critic to estimate state values and reduce the variance of policy updates. However, we uncover a systematic failure mode in PPO critics, which we call Value Flattening: state values, estimated...",
+          "daily_score": 73,
+          "relevance": 0,
+          "novelty": 0,
+          "s2_influential_citations": 0,
+          "s2_citations": 0
+        },
+        {
+          "title": "Confidence Comes from Experience: Experiential Confidence Estimation from Reasoning to Agents",
+          "summary": "Reliable confidence estimation is increasingly central to the trustworthy deployment of language models: a calibrated estimate of the probability that an output is correct decides what to ship, what to escalate, and what to retry. Existing confidence estimators, however, share one design premise: they only read the current inference process, either by introspecting on it, scoring its token probabilities, or resampling it. We argue that the current inference is not a sufficient basis for confidence. We propose XConf (eXperiential Confidence): estimating confidence together with the model's a...",
+          "url": "https://huggingface.co/papers/2609.17708",
+          "canonical_url": "https://arxiv.org/abs/2609.17708",
+          "source_id": "hf_papers",
+          "source_name": "Hugging Face Trending Papers",
+          "source_role": "paper_trending",
+          "arxiv_id": "2609.17708",
+          "authors": [
+            "Caiqi Zhang",
+            "Xiaochen Zhu",
+            "Chengzu Li",
+            "Yulong Chen",
+            "Dharshan Kumaran",
+            "Nigel Collier"
+          ],
+          "primary_topic_id": "",
+          "primary_topic_label": "",
+          "spotlight_primary_kind": "daily_hot",
+          "spotlight_primary_label": "Daily Hot Papers",
+          "spotlight_comment": "Reliable confidence estimation is increasingly central to the trustworthy deployment of language models: a calibrated estimate of the probability that an output is correct decides what to ship, what to escalate, and what to retry. Existing confidence estimators, however, share one design premise:...",
+          "daily_score": 67,
+          "relevance": 0,
+          "novelty": 0,
+          "s2_influential_citations": 0,
+          "s2_citations": 0
+        },
+        {
+          "title": "ProgramDistill: From Interactive Web Apps to Verifiable Reference-Guided SWE Tasks",
+          "summary": "Coding agents are typically evaluated with desired behavior specified through issues or instructions. In practical web development, however, agents may need to infer behavior from working software and implement it in an incomplete application. We introduce ProgramDistill, a benchmark evaluating coding agents on features discovered through interaction with fully functional reference applications. We build ProgramDistill by factorizing applications into features of different granularities, each associated with replayable behaviors executable via its gold patch. Our pipeline, mine-craft-patch,...",
+          "url": "https://huggingface.co/papers/2609.18805",
+          "canonical_url": "https://arxiv.org/abs/2609.18805",
+          "source_id": "hf_papers",
+          "source_name": "Hugging Face Trending Papers",
+          "source_role": "paper_trending",
+          "arxiv_id": "2609.18805",
+          "authors": [
+            "Jeonghye Kim",
+            "Minseon Kim",
+            "Young Jin Kim",
+            "Matheus Pereira",
+            "Marc-Alexandre Côté",
+            "Alessandro Sordoni",
+            "Xingdi Yuan",
+            "Zhengyan Shi"
+          ],
+          "primary_topic_id": "",
+          "primary_topic_label": "",
+          "spotlight_primary_kind": "daily_hot",
+          "spotlight_primary_label": "Daily Hot Papers",
+          "spotlight_comment": "Coding agents are typically evaluated with desired behavior specified through issues or instructions. In practical web development, however, agents may need to infer behavior from working software and implement it in an incomplete application. We introduce ProgramDistill, a benchmark evaluating c...",
+          "daily_score": 58,
+          "relevance": 0,
+          "novelty": 0,
+          "s2_influential_citations": 0,
+          "s2_citations": 0
+        },
+        {
+          "title": "Agora: Git as Shared Memory for Collective AutoResearch",
+          "summary": "Autonomous research loops such as AutoResearch show that one coding agent can improve a training setup unattended. Run several of them and each session starts from scratch, so more agents tend to mean more duplicated search rather than more discovery. Agora is a shared memory for such agents: research is recorded as an append-only directed acyclic graph (DAG) stored in Git, so that every claim is a commit anyone can check out and rerun. Each result, insight, hypothesis, verification, and report is an immutable commit whose parent edges say what it builds on; a derived index exposes the fron...",
+          "url": "https://huggingface.co/papers/2609.18094",
+          "canonical_url": "https://arxiv.org/abs/2609.18094",
+          "source_id": "hf_papers",
+          "source_name": "Hugging Face Trending Papers",
+          "source_role": "paper_trending",
+          "arxiv_id": "2609.18094",
+          "authors": [
+            "Yifan Zhang",
+            "Yunheng Zou",
+            "Shaokun Zhang",
+            "Jian Hu",
+            "Hao Zhang",
+            "Binfeng Xu",
+            "Jan Kautz",
+            "Yi Dong"
+          ],
+          "primary_topic_id": "",
+          "primary_topic_label": "",
+          "spotlight_primary_kind": "daily_hot",
+          "spotlight_primary_label": "Daily Hot Papers",
+          "spotlight_comment": "Autonomous research loops such as AutoResearch show that one coding agent can improve a training setup unattended. Run several of them and each session starts from scratch, so more agents tend to mean more duplicated search rather than more discovery. Agora is a shared memory for such agents: res...",
+          "daily_score": 51,
+          "relevance": 0,
+          "novelty": 0,
+          "s2_influential_citations": 0,
+          "s2_citations": 0
+        }
+      ]
+    }
+  ],
+  "x_buzz": [
+    {
+      "title": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
+      "summary": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
+      "url": "https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model",
+      "source_id": "hn_discussion",
+      "source_name": "Hacker News",
+      "source_role": "hn_discussion",
+      "linked_topic": ""
+    },
+    {
+      "title": "DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression",
+      "summary": "DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression",
+      "url": "https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html",
+      "source_id": "hn_discussion",
+      "source_name": "Hacker News",
+      "source_role": "hn_discussion",
+      "linked_topic": ""
+    },
+    {
+      "title": "Evolution of LLMs: Omni-World Models",
+      "summary": "Reka Labs on omni-world models: one architecture that takes text, images, video and actions in, and returns text, images, video and actions - unifying VLA and world-model approaches for physical AI.",
+      "url": "https://reka.ai/news/evolution-of-llms-omni-world-models",
+      "source_id": "reka_blog",
+      "source_name": "Reka AI Blog",
+      "source_role": "official_news",
+      "linked_topic": "Evolution of LLMs: Omni-World Models"
+    },
+    {
+      "title": "Introducing North Small Translate: A leading sovereign open-weight machine translation model",
+      "summary": "Outsized performance, right-sized footprint — translation built for speed and cost efficiency.",
+      "url": "https://cohere.com/blog/north-small-translate",
+      "source_id": "cohere_blog",
+      "source_name": "Cohere Blog",
+      "source_role": "official_news",
+      "linked_topic": "Introducing North Small Translate: A leading sovereign open-weight machine translation model"
+    },
+    {
+      "title": "Introducing the Life Sciences Verification Program",
+      "summary": "",
+      "url": "https://www.anthropic.com/news/life-sciences-verification-program",
+      "source_id": "anthropic_news",
+      "source_name": "Anthropic News",
+      "source_role": "official_news",
+      "linked_topic": "Introducing the Life Sciences Verification Program"
+    }
+  ],
+  "watchlist": [
+    {
+      "ACTIONABILITY": 2.0,
+      "ARTIFACT_BOOST": 0.0,
+      "CONFIDENCE": 5.31,
+      "CROSS_SOURCE_RESONANCE": 1.5,
+      "DISPLAY_PRIORITY": 6.679,
+      "ENGINEERING_PENALTY": 0.0,
+      "EVIDENCE_STRENGTH": 4.1,
+      "FINAL_SCORE": 9.5,
+      "FRONTIERNESS": 7.75,
+      "HEADLINE": "zai-org/ZCode",
+      "HEAT": 3,
+      "HYPE_PENALTY": 0.3,
+      "IMPORTANCE": 6,
+      "KEEP_IN_DAILY_HOTSPOTS": false,
+      "KEY_TAKEAWAYS": [],
+      "LLM_STATUS": "watchlist",
+      "OCCURRENCE_SCORE": 2.95,
+      "PRIMARY_CATEGORY": "Tooling",
+      "QUALITY": 9,
+      "SECONDARY_CATEGORIES": [],
+      "SHORT_COMMENT": " ",
+      "SUBSTANCE_PENALTY": 0.0,
+      "TECHNICAL_DEPTH": 6.75,
+      "TOPIC_ID": "86c013ca01c0",
+      "WATCHLIST": true,
+      "WHY_IT_MATTERS": "This tooling surfaced across 1 independent source(s).",
+      "cluster_id": "86c013ca01c0",
+      "event_type": "tooling",
+      "items": [
+        {
+          "authors": [
+            "zai-org"
+          ],
+          "canonical_url": "https://github.com/zai-org/ZCode",
+          "metadata": {
+            "fetched_at": "2026-09-17T00:00:00-04:00",
+            "forks": 1570,
+            "github_full_name": "zai-org/ZCode",
+            "github_url": "https://github.com/zai-org/ZCode",
+            "language": "TypeScript",
+            "search_query": "agent",
+            "stars": 5518
+          },
+          "provenance": "",
+          "published_at": "2026-09-20T12:01:16Z",
+          "source_id": "github_trend",
+          "source_name": "GitHub Trending Repos",
+          "source_role": "github_trend",
+          "source_type": "repository",
+          "summary": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+          "tags": [],
+          "title": "zai-org/ZCode",
+          "url": "https://github.com/zai-org/ZCode",
+          "verified_first_date": "2026-09-20T12:01:16Z"
+        }
+      ],
+      "published_at": "2026-09-20T12:01:16Z",
+      "source_ids": [
+        "github_trend"
+      ],
+      "source_names": [
+        "GitHub Trending Repos"
+      ],
+      "source_roles": [
+        "github_trend"
+      ],
+      "source_types": [
+        "repository"
+      ],
+      "summary": " ",
+      "tags": [],
+      "title": "zai-org/ZCode"
+    },
+    {
+      "ACTIONABILITY": 2.0,
+      "ARTIFACT_BOOST": 0.0,
+      "CONFIDENCE": 5.201,
+      "CROSS_SOURCE_RESONANCE": 1.5,
+      "DISPLAY_PRIORITY": 6.516,
+      "ENGINEERING_PENALTY": 0.0,
+      "EVIDENCE_STRENGTH": 4.1,
+      "FINAL_SCORE": 9.138,
+      "FRONTIERNESS": 7.569,
+      "HEADLINE": "Rizzo-AI-Academy/rizzo-flow",
+      "HEAT": 3,
+      "HYPE_PENALTY": 0.3,
+      "IMPORTANCE": 5,
+      "KEEP_IN_DAILY_HOTSPOTS": false,
+      "KEY_TAKEAWAYS": [],
+      "LLM_STATUS": "watchlist",
+      "OCCURRENCE_SCORE": 2.95,
+      "PRIMARY_CATEGORY": "Tooling",
+      "QUALITY": 8,
+      "SECONDARY_CATEGORIES": [],
+      "SHORT_COMMENT": " ",
+      "SUBSTANCE_PENALTY": 0.0,
+      "TECHNICAL_DEPTH": 6.569,
+      "TOPIC_ID": "21cf6bc7f772",
+      "WATCHLIST": true,
+      "WHY_IT_MATTERS": "This tooling surfaced across 1 independent source(s).",
+      "cluster_id": "21cf6bc7f772",
+      "event_type": "tooling",
+      "items": [
+        {
+          "authors": [
+            "Rizzo-AI-Academy"
+          ],
+          "canonical_url": "https://github.com/Rizzo-AI-Academy/rizzo-flow",
+          "metadata": {
+            "fetched_at": "2026-09-17T00:00:00-04:00",
+            "forks": 6,
+            "github_full_name": "Rizzo-AI-Academy/rizzo-flow",
+            "github_url": "https://github.com/Rizzo-AI-Academy/rizzo-flow",
+            "language": "Python",
+            "search_query": "llm",
+            "stars": 217
+          },
+          "provenance": "",
+          "published_at": "2026-09-21T00:00:02Z",
+          "source_id": "github_trend",
+          "source_name": "GitHub Trending Repos",
+          "source_role": "github_trend",
+          "source_type": "repository",
+          "summary": "The open, local take on Jev: typed decisions from an LLM, without generating a single token",
+          "tags": [],
+          "title": "Rizzo-AI-Academy/rizzo-flow",
+          "url": "https://github.com/Rizzo-AI-Academy/rizzo-flow",
+          "verified_first_date": "2026-09-21T00:00:02Z"
+        }
+      ],
+      "published_at": "2026-09-21T00:00:02Z",
+      "source_ids": [
+        "github_trend"
+      ],
+      "source_names": [
+        "GitHub Trending Repos"
+      ],
+      "source_roles": [
+        "github_trend"
+      ],
+      "source_types": [
+        "repository"
+      ],
+      "summary": " ",
+      "tags": [],
+      "title": "Rizzo-AI-Academy/rizzo-flow"
+    }
+  ],
+  "resurgence": []
+}

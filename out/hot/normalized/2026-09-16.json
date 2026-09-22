@@ -1,0 +1,2318 @@
+[
+  {
+    "source_id": "hf_papers",
+    "source_name": "Hugging Face Trending Papers",
+    "source_role": "paper_trending",
+    "source_type": "paper",
+    "title": "Continual Learning Mechanisms Compose for Long-Horizon Memorization",
+    "summary": "Language models may need to internalize information that arrives over time and retain it through many subsequent updates. To study this challenge, we introduce long-horizon memorization, a setting in which a model learns 100 query-answer tasks through continual supervised fine-tuning without retaining earlier training examples or receiving task identifiers at inference. Sequential updates cause catastrophic forgetting, and no single continual learning mechanism we evaluate maintains strong retention at this horizon. We hypothesize that mechanisms addressing complementary sources of forgetti...",
+    "url": "https://huggingface.co/papers/2609.06986",
+    "canonical_url": "https://arxiv.org/abs/2609.06986",
+    "published_at": "2026-09-07T00:00:00.000Z",
+    "tags": [
+      "catastrophic forgetting",
+      "continual supervised fine-tuning",
+      "long-horizon memorization",
+      "data anchor",
+      "function anchor",
+      "weight anchor",
+      "low-rank allocation",
+      "LoRA",
+      "merged LoRA",
+      "successive halving",
+      "factorial experiment"
+    ],
+    "authors": [
+      "Zheyuan Zhang",
+      "Alvin Zhang",
+      "Daniel Khashabi",
+      "Tianmin Shu"
+    ],
+    "metadata": {
+      "ai_summary": "Composing complementary continual learning mechanisms substantially improves long-horizon memorization in language models by combining data, function, and weight anchors with merged low-rank updates.",
+      "arxiv_id": "2609.06986",
+      "daily_score": 367,
+      "github_url": "https://github.com/cozheyuanzhangde/compose-cl",
+      "hf_url": "https://huggingface.co/papers/2609.06986",
+      "novelty": 0,
+      "relevance": 0,
+      "spotlight_comment": "Language models may need to internalize information that arrives over time and retain it through many subsequent updates. To study this challenge, we introduce long-horizon memorization, a setting in which a model learns 100 query-answer tasks through continual supervised fine-tuning without reta...",
+      "spotlight_primary_kind": "daily_hot",
+      "spotlight_primary_label": "Daily Hot Papers",
+      "upvotes": 367
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "hf_papers",
+    "source_name": "Hugging Face Trending Papers",
+    "source_role": "paper_trending",
+    "source_type": "paper",
+    "title": "The Last AI Built by Humans: Toward Genuine Recursive Self-Improvement",
+    "summary": "Recursive self-improvement (RSI) enables AI systems to turn experience and feedback into persistent changes that improve both their capabilities and the process of future improvement. We first use the Headroom-Closed Index (HCI) to reveal the problems of existing LLMs, then introduce the RSI concept and its development roadmap: from improvement-execution autonomy, improvement-strategy autonomy, experience-acquisition autonomy, and environment-adaptation autonomy, to recursive meta-improvement. Next we examine RSI across scenarios (e.g., scientific discovery, embodied intelligence, software...",
+    "url": "https://huggingface.co/papers/2609.11873",
+    "canonical_url": "https://arxiv.org/abs/2609.11873",
+    "published_at": "2026-09-10T00:00:00.000Z",
+    "tags": [
+      "recursive self-improvement",
+      "Headroom-Closed Index",
+      "LLMs",
+      "improvement-execution autonomy",
+      "improvement-strategy autonomy",
+      "experience-acquisition autonomy",
+      "environment-adaptation autonomy",
+      "recursive meta-improvement",
+      "scientific discovery",
+      "embodied intelligence",
+      "software engineering"
+    ],
+    "authors": [
+      "Yi Duan",
+      "Ying Liu",
+      "Zirui Tang",
+      "Haodong Chen",
+      "Jun Zhou",
+      "Yumou Liu",
+      "Bangrui Xu",
+      "Yukai Wu",
+      "Sidi Chen",
+      "Yuhan Zhou",
+      "Haoyu Wang",
+      "Xiaoyou Yu",
+      "Shaokun Han",
+      "Xuzhou Zhu",
+      "Le Zhou",
+      "Bolin Lu",
+      "Wei Zhou",
+      "Jiachen Liu",
+      "Nuozhou Fang",
+      "Jiaxin Tian",
+      "Ruoyu Chen",
+      "Yuxuan Li",
+      "Kai Zuo",
+      "Kaiyan Zhang",
+      "Jiantao Qiu",
+      "Conghui He",
+      "Guoliang Li",
+      "Bowen Zhou",
+      "Zhiyuan Liu",
+      "Zhoufutu Wen",
+      "Jihua Kang",
+      "Xuanhe Zhou",
+      "Fan Wu"
+    ],
+    "metadata": {
+      "ai_summary": "The abstract outlines a roadmap for recursive self-improvement in AI, from autonomy stages to meta-improvement, across domains like scientific discovery and software engineering, while identifying practical challenges.",
+      "arxiv_id": "2609.11873",
+      "daily_score": 17,
+      "github_url": "https://github.com/theseus-labs-rsi/awesome-rsi",
+      "hf_url": "https://huggingface.co/papers/2609.11873",
+      "novelty": 0,
+      "relevance": 0,
+      "spotlight_comment": "Recursive self-improvement (RSI) enables AI systems to turn experience and feedback into persistent changes that improve both their capabilities and the process of future improvement. We first use the Headroom-Closed Index (HCI) to reveal the problems of existing LLMs, then introduce the RSI conc...",
+      "spotlight_primary_kind": "daily_hot",
+      "spotlight_primary_label": "Daily Hot Papers",
+      "upvotes": 17
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "hf_papers",
+    "source_name": "Hugging Face Trending Papers",
+    "source_role": "paper_trending",
+    "source_type": "paper",
+    "title": "Generalized Agent Iteration: One Formal Framework for Iterative Policy Improvement and Recursive Self-Improvement",
+    "summary": "When we speak of recursive self-improvement (RSI), are we speaking of a phenomenon, a mechanism, or a prospect? Towards autonomous and evolving intelligence, RSI is being claimed at many scales, while no single framework that formally describes these emerging instances exists. Its counterpart in the classical realm, iterative policy improvement, is characterized by generalized policy iteration (GPI), a framework of broad applicability with well-understood theoretical properties, but only where the update principle and the evaluation base lie outside the agent. In this paper, we propose Gene...",
+    "url": "https://huggingface.co/papers/2609.13406",
+    "canonical_url": "https://arxiv.org/abs/2609.13406",
+    "published_at": "2026-09-11T00:00:00.000Z",
+    "tags": [
+      "recursive self-improvement",
+      "generalized agent iteration",
+      "generalized policy iteration",
+      "iterative policy improvement",
+      "agent evaluation",
+      "agent improvement",
+      "goal drift",
+      "self-referential"
+    ],
+    "authors": [
+      "Hongyao Tang",
+      "Yi Ma",
+      "Pengyi Li",
+      "Yifu Yuan"
+    ],
+    "metadata": {
+      "ai_summary": "The paper proposes Generalized Agent Iteration as a unified formal framework for iterative policy improvement and recursive self-improvement, defining key axes that distinguish external versus internal improvement and evaluation standards.",
+      "arxiv_id": "2609.13406",
+      "daily_score": 81,
+      "github_url": null,
+      "hf_url": "https://huggingface.co/papers/2609.13406",
+      "novelty": 0,
+      "relevance": 0,
+      "spotlight_comment": "When we speak of recursive self-improvement (RSI), are we speaking of a phenomenon, a mechanism, or a prospect? Towards autonomous and evolving intelligence, RSI is being claimed at many scales, while no single framework that formally describes these emerging instances exists. Its counterpart in...",
+      "spotlight_primary_kind": "daily_hot",
+      "spotlight_primary_label": "Daily Hot Papers",
+      "upvotes": 81
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "hf_papers",
+    "source_name": "Hugging Face Trending Papers",
+    "source_role": "paper_trending",
+    "source_type": "paper",
+    "title": "StepAudio 3 Music Technical Report",
+    "summary": "We introduce StepAudio 3 Music, a large-scale, long-form music generation model that supports explicit musical planning and open-domain text-controlled generation. The StepAudio Music Tokenizer represents audio as a 50-Hz stream from a 65536-entry single codebook, using semantically informed self-supervised and multi-task training to preserve musical structure and reconstruction-relevant information. A flow-matching diffusion Transformer (DiT) predicts continuous StepAudio VAE latents, which our VAE decoder converts into 48-kHz audio. This discrete-continuous design is guided by comparisons...",
+    "url": "https://huggingface.co/papers/2609.16034",
+    "canonical_url": "https://arxiv.org/abs/2609.16034",
+    "published_at": "2026-09-11T00:00:00.000Z",
+    "tags": [],
+    "authors": [
+      "Chengli Feng",
+      "Zhiyue Wu",
+      "Jiahao Song",
+      "Zheqi Dai",
+      "Boyang Wang",
+      "Ruibin Yuan",
+      "Junming Gong",
+      "Wenxiao Zhao",
+      "Jing Guo",
+      "Gang Yu",
+      "Xiangyu Zhang",
+      "Xuerui Yang",
+      "Chao Yan"
+    ],
+    "metadata": {
+      "ai_summary": "",
+      "arxiv_id": "2609.16034",
+      "daily_score": 107,
+      "github_url": null,
+      "hf_url": "https://huggingface.co/papers/2609.16034",
+      "novelty": 0,
+      "relevance": 0,
+      "spotlight_comment": "We introduce StepAudio 3 Music, a large-scale, long-form music generation model that supports explicit musical planning and open-domain text-controlled generation. The StepAudio Music Tokenizer represents audio as a 50-Hz stream from a 65536-entry single codebook, using semantically informed self...",
+      "spotlight_primary_kind": "daily_hot",
+      "spotlight_primary_label": "Daily Hot Papers",
+      "upvotes": 107
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "hf_papers",
+    "source_name": "Hugging Face Trending Papers",
+    "source_role": "paper_trending",
+    "source_type": "paper",
+    "title": "Drift-Constrained Optimization: Only Direction Matters in Fine-Tuning Instruct Models",
+    "summary": "Fine-tuning instruct models often improves target performance while inducing behavioral drift from the reference model, which can degrade existing capabilities. Rather than treating this drift as an uncontrolled consequence of optimization, we specify a behavioral drift budget before optimization and ask how to boost the target-task performance within it. Locally, behavioral drift induces a shared geometry anchored at the reference model, with the drift budget defining a boundary within this space. In this space, drift determines distance from the reference, leaving update direction as the...",
+    "url": "https://huggingface.co/papers/2609.13680",
+    "canonical_url": "https://arxiv.org/abs/2609.13680",
+    "published_at": "2026-09-12T00:00:00.000Z",
+    "tags": [],
+    "authors": [
+      "Fei Yuan",
+      "Changjiang Gao",
+      "Yilei Tu",
+      "Yifeng Liu",
+      "Shujian Huang",
+      "Yu Qiao"
+    ],
+    "metadata": {
+      "ai_summary": "",
+      "arxiv_id": "2609.13680",
+      "daily_score": 13,
+      "github_url": null,
+      "hf_url": "https://huggingface.co/papers/2609.13680",
+      "novelty": 0,
+      "relevance": 0,
+      "spotlight_comment": "",
+      "spotlight_primary_kind": "",
+      "spotlight_primary_label": "",
+      "upvotes": 13
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "hf_papers",
+    "source_name": "Hugging Face Trending Papers",
+    "source_role": "paper_trending",
+    "source_type": "paper",
+    "title": "StepAudio 3 Realtime Technical Report",
+    "summary": "Realtime spoken interaction demands deep reasoning, prompt responses, and fluid turn-taking. We present StepAudio 3 Realtime, an audio-language foundation model organized around a continuous listen-converse-think-act loop. Deep Perception captures rich acoustic cues to interpret user intent, while Seamless Duplex models synchronized audio streams to handle pauses, backchannels, and interruptions naturally. Crucially, we resolve the tension between deep deliberation and latency via Think-While-Speaking, executing private reasoning in parallel with spoken delivery. In reasoning mode, StepAudi...",
+    "url": "https://huggingface.co/papers/2609.14005",
+    "canonical_url": "https://arxiv.org/abs/2609.14005",
+    "published_at": "2026-09-12T00:00:00.000Z",
+    "tags": [],
+    "authors": [
+      "Bin Lin",
+      "Bo Zhao",
+      "Boyang Zhang",
+      "Boyong Wu",
+      "Chao Yan",
+      "Chen Geng",
+      "Chen Wu",
+      "Cheng Yi",
+      "Chengli Feng",
+      "Chenglin Zhu",
+      "Chengting Feng",
+      "Chengyuan Yao",
+      "Daijiao Liu",
+      "DanNi Wan",
+      "Daxin Jiang",
+      "Dongjian Li",
+      "Dongqing Pang",
+      "Fei Tian",
+      "Feng Tian",
+      "Future Li",
+      "Gang Yu",
+      "Guanglong Yang",
+      "Haoyang Zhang",
+      "Hongyuan Wang",
+      "Jia Peng",
+      "Jiahao Song",
+      "Jialong Xue",
+      "Jiamin Fan",
+      "Jiangjie Zhen",
+      "Jianzheng Gao",
+      "Jincheng Wen",
+      "Jinghua Liang",
+      "Jinglan Gong",
+      "Jun Chen",
+      "Li Xie",
+      "Liang Zhao",
+      "Lifang Zhang",
+      "Lingli Ji",
+      "Lun Cai",
+      "Min Xu",
+      "Peilin Li",
+      "Peng Yang",
+      "Pengfei Tan",
+      "Qingjian Lin",
+      "Qinxin Du",
+      "Ruijie Xiong",
+      "Runze Li",
+      "Shenghua Hu",
+      "Shengqian Qin",
+      "Shi Qiu",
+      "Siqi Tu",
+      "Siyi Zhou",
+      "Tianjiao Deng",
+      "Wanying Lu",
+      "Weiming Niu",
+      "Wen Sun",
+      "WenWen Qu",
+      "Xiangyu Zhang",
+      "Xianwei Zhang",
+      "Xiaosu Su",
+      "Xing Chen",
+      "Xinyu Liu",
+      "Xuerui Yang",
+      "Yan Wu",
+      "Yang Li",
+      "Yang Yang",
+      "Yechang Huang",
+      "Yibo Zhu",
+      "Yifan Zhang",
+      "Yinuo Yan",
+      "Youjun Chen",
+      "Yu Fu",
+      "Yu Luo",
+      "Yu Zhou",
+      "Yujie Chen",
+      "Yumang Wang",
+      "Yunzhou Ju",
+      "Yuxiang Yang",
+      "Yuxin Li",
+      "Yuxin Zhang",
+      "Zekai Liu",
+      "Zengwei Yao",
+      "Zhaoxin Yuan",
+      "Zhenwei Mou",
+      "Zhiquan Zhang",
+      "Zhiyue Wu",
+      "Zichao Li",
+      "Zichao Zhou",
+      "Ziqi Ren",
+      "Zixuan Wang"
+    ],
+    "metadata": {
+      "ai_summary": "",
+      "arxiv_id": "2609.14005",
+      "daily_score": 125,
+      "github_url": null,
+      "hf_url": "https://huggingface.co/papers/2609.14005",
+      "novelty": 0,
+      "relevance": 0,
+      "spotlight_comment": "Realtime spoken interaction demands deep reasoning, prompt responses, and fluid turn-taking. We present StepAudio 3 Realtime, an audio-language foundation model organized around a continuous listen-converse-think-act loop. Deep Perception captures rich acoustic cues to interpret user intent, whil...",
+      "spotlight_primary_kind": "daily_hot",
+      "spotlight_primary_label": "Daily Hot Papers",
+      "upvotes": 125
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "hf_papers",
+    "source_name": "Hugging Face Trending Papers",
+    "source_role": "paper_trending",
+    "source_type": "paper",
+    "title": "Another Blueprint In The Wall: How to Ask Frontier AI Like a Kid?",
+    "summary": "This paper reports experiments across six frontier model types from OpenAI, Anthropic, xAI, and Google DeepMind. Ten independent sessions per model type used the same three stage prompt sequence, progressing from architectural preference to a full ASCII backbone. Under the school audience framing, responses repeatedly converged on a shared architectural pattern built around persistent latent state, adaptive computation, memory, specialist routing, verification, stopping control, and delayed decoding. Most runs remained close to this common structure, while a small number developed markedly...",
+    "url": "https://huggingface.co/papers/2609.14803",
+    "canonical_url": "https://arxiv.org/abs/2609.14803",
+    "published_at": "2026-09-13T00:00:00.000Z",
+    "tags": [],
+    "authors": [
+      "Afshin Khadangi"
+    ],
+    "metadata": {
+      "ai_summary": "",
+      "arxiv_id": "2609.14803",
+      "daily_score": 12,
+      "github_url": null,
+      "hf_url": "https://huggingface.co/papers/2609.14803",
+      "novelty": 0,
+      "relevance": 0,
+      "spotlight_comment": "",
+      "spotlight_primary_kind": "",
+      "spotlight_primary_label": "",
+      "upvotes": 12
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "hf_papers",
+    "source_name": "Hugging Face Trending Papers",
+    "source_role": "paper_trending",
+    "source_type": "paper",
+    "title": "HarnessVLN: Unifying Training-Free Embodied Navigation through an Agent Harness",
+    "summary": "Embodied navigation requires agents to interpret visual observations, accumulate spatial knowledge, and execute actions to follow instructions or locate objects. Training-based methods face generalization challenges, while training-free methods exploit multimodal large language models (MLLMs) but often lack mechanisms to reconcile proposed actions with spatial evidence, task progress, and execution failures. We present HarnessVLN, a zero-shot, training-free framework whose Agent Harness coordinates perception, retrieval, grounding, navigation, recovery, and termination through a unified too...",
+    "url": "https://huggingface.co/papers/2609.15195",
+    "canonical_url": "https://arxiv.org/abs/2609.15195",
+    "published_at": "2026-09-14T00:00:00.000Z",
+    "tags": [],
+    "authors": [
+      "Yang Chen",
+      "Lirong Che",
+      "Zhenyu Huang",
+      "Wenbo Fu",
+      "Chuang Wang",
+      "Xu Cao",
+      "Daqi Liu",
+      "Yuzhe Yang",
+      "Jian Su",
+      "Lan-Zhe Guo"
+    ],
+    "metadata": {
+      "ai_summary": "",
+      "arxiv_id": "2609.15195",
+      "daily_score": 20,
+      "github_url": null,
+      "hf_url": "https://huggingface.co/papers/2609.15195",
+      "novelty": 0,
+      "relevance": 0,
+      "spotlight_comment": "Embodied navigation requires agents to interpret visual observations, accumulate spatial knowledge, and execute actions to follow instructions or locate objects. Training-based methods face generalization challenges, while training-free methods exploit multimodal large language models (MLLMs) but...",
+      "spotlight_primary_kind": "daily_hot",
+      "spotlight_primary_label": "Daily Hot Papers",
+      "upvotes": 20
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "hf_papers",
+    "source_name": "Hugging Face Trending Papers",
+    "source_role": "paper_trending",
+    "source_type": "paper",
+    "title": "ModularRSI: Modular and Generalizable Recursive Harness Self-Improvement",
+    "summary": "Recent work extends recursive self-improvement (RSI) to agent harnesses for long-horizon coding and terminal tasks, enabling agents to improve execution mechanisms from experience. However, generalizable harness RSI remains challenging. First, evolving harnesses on evaluation benchmarks or their subsets makes it difficult to distinguish reusable improvements from benchmark-specific adaptation. Second, single-trajectory updates can conflate systematic harness deficiencies with instance-specific reasoning and solution details, producing modifications that transfer poorly to unseen tasks. Thir...",
+    "url": "https://huggingface.co/papers/2609.14857",
+    "canonical_url": "https://arxiv.org/abs/2609.14857",
+    "published_at": "2026-09-14T00:00:00.000Z",
+    "tags": [],
+    "authors": [
+      "Siwei Wu",
+      "Jincheng Ren",
+      "Yizhi Li",
+      "Haau-Sing Li",
+      "Chengran Yang",
+      "Yuxuan Zhang",
+      "Weicheng Gu",
+      "Jian Yang",
+      "Riza Batista-Navarro",
+      "Chuanyi Zhang",
+      "Xianglong Liu",
+      "Ming Zhou",
+      "Bryan Dai",
+      "Chenghua Lin"
+    ],
+    "metadata": {
+      "ai_summary": "",
+      "arxiv_id": "2609.14857",
+      "daily_score": 208,
+      "github_url": "https://github.com/IQuestLab/ModularRSI",
+      "hf_url": "https://huggingface.co/papers/2609.14857",
+      "novelty": 0,
+      "relevance": 0,
+      "spotlight_comment": "Recent work extends recursive self-improvement (RSI) to agent harnesses for long-horizon coding and terminal tasks, enabling agents to improve execution mechanisms from experience. However, generalizable harness RSI remains challenging. First, evolving harnesses on evaluation benchmarks or their...",
+      "spotlight_primary_kind": "daily_hot",
+      "spotlight_primary_label": "Daily Hot Papers",
+      "upvotes": 208
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "hf_papers",
+    "source_name": "Hugging Face Trending Papers",
+    "source_role": "paper_trending",
+    "source_type": "paper",
+    "title": "AI for Games in the Foundation Model Era",
+    "summary": "Foundation models, alongside advances in learned game-world models, are reshaping AI across the game lifecycle. Beyond playing games, recent systems model players and game dynamics, support design and development, adapt player-facing experiences at runtime, and evaluate resulting artifacts. Yet these directions have evolved largely separately, obscuring which capabilities transfer across settings and which remain tied to particular games, engines, interfaces, or player populations. We organize the literature into six roles according to the immediate use of AI output: playing and acting; mod...",
+    "url": "https://huggingface.co/papers/2609.16679",
+    "canonical_url": "https://arxiv.org/abs/2609.16679",
+    "published_at": "2026-09-15T00:00:00.000Z",
+    "tags": [],
+    "authors": [
+      "Meng Luo",
+      "Yanlin Li",
+      "Hao Li",
+      "Hongzhan Lin",
+      "Pengfei Zhou",
+      "Tianjie Ju",
+      "Ran Zhang",
+      "Yeying Jin",
+      "Mong-Li Lee",
+      "Wynne Hsu"
+    ],
+    "metadata": {
+      "ai_summary": "",
+      "arxiv_id": "2609.16679",
+      "daily_score": 145,
+      "github_url": "https://github.com/Eurekaleo/awesome-ai-for-games",
+      "hf_url": "https://huggingface.co/papers/2609.16679",
+      "novelty": 0,
+      "relevance": 0,
+      "spotlight_comment": "Foundation models, alongside advances in learned game-world models, are reshaping AI across the game lifecycle. Beyond playing games, recent systems model players and game dynamics, support design and development, adapt player-facing experiences at runtime, and evaluate resulting artifacts. Yet t...",
+      "spotlight_primary_kind": "daily_hot",
+      "spotlight_primary_label": "Daily Hot Papers",
+      "upvotes": 145
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "hf_papers",
+    "source_name": "Hugging Face Trending Papers",
+    "source_role": "paper_trending",
+    "source_type": "paper",
+    "title": "FLAT: Resampling Image and Text into 1D Flexible-Length Aligned Transmodal Tokens for Retrieval and Generation",
+    "summary": "Traditional multimodal representation learning and generation are two stages: a contrastive or self-supervised visual encoder is trained first, followed by a separate downstream generative model. This setup bottlenecks generative performance behind frozen embeddings. To bridge this gap, we revisit joint multimodal representation learning and generation to produce linearly interpolatable embeddings that are directly consumable by generative decoders. We present FLAT (Flexible-Length Aligned Transmodal representations), a representation pre-training framework that jointly optimizes a shared m...",
+    "url": "https://huggingface.co/papers/2609.16591",
+    "canonical_url": "https://arxiv.org/abs/2609.16591",
+    "published_at": "2026-09-15T00:00:00.000Z",
+    "tags": [],
+    "authors": [
+      "Guangyu Sun",
+      "Shlok Kumar Mishra",
+      "Wentao Bao",
+      "Robert Zhenheng Yang",
+      "Xiao Wang",
+      "Xiyuan Wang",
+      "Yujunrong Ma",
+      "Chen Yuan",
+      "Max Xiangjun Fan",
+      "Jun Xiao",
+      "Jianpeng Cheng"
+    ],
+    "metadata": {
+      "ai_summary": "",
+      "arxiv_id": "2609.16591",
+      "daily_score": 16,
+      "github_url": null,
+      "hf_url": "https://huggingface.co/papers/2609.16591",
+      "novelty": 0,
+      "relevance": 0,
+      "spotlight_comment": "Traditional multimodal representation learning and generation are two stages: a contrastive or self-supervised visual encoder is trained first, followed by a separate downstream generative model. This setup bottlenecks generative performance behind frozen embeddings. To bridge this gap, we revisi...",
+      "spotlight_primary_kind": "daily_hot",
+      "spotlight_primary_label": "Daily Hot Papers",
+      "upvotes": 16
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "hf_papers",
+    "source_name": "Hugging Face Trending Papers",
+    "source_role": "paper_trending",
+    "source_type": "paper",
+    "title": "ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents",
+    "summary": "We introduce and release ScienceBuddy, an interactive scientific research workspace that brings continually improving scientific agents into researchers' everyday workflows. ScienceBuddy supports researchers in carrying out scientific tasks while transforming their requests, feedback, and execution evidence into tasks and evaluation rubrics for continual learning. At its core is recursive-in-recursive self-improvement, a paradigm that couples harness evolution with model reinforcement learning: the inner recursion improves the harness with the model fixed, while the outer recursion trains t...",
+    "url": "https://huggingface.co/papers/2609.17523",
+    "canonical_url": "https://arxiv.org/abs/2609.17523",
+    "published_at": "2026-09-15T00:00:00.000Z",
+    "tags": [],
+    "authors": [
+      "Shuhan Xue",
+      "Jianyuan Zhong",
+      "Ziyuan Nan",
+      "Wenbin Li",
+      "Zhaochen Yu",
+      "Jinchao Ding",
+      "Qiang Gao",
+      "Pengyu Zhan",
+      "Yuntong Zhang",
+      "Tian Cheng",
+      "Zhenfei Yin",
+      "Yingcheng Wu",
+      "Ling Yang"
+    ],
+    "metadata": {
+      "ai_summary": "",
+      "arxiv_id": "2609.17523",
+      "daily_score": 30,
+      "github_url": "https://github.com/Gen-Verse/ScienceBuddy",
+      "hf_url": "https://huggingface.co/papers/2609.17523",
+      "novelty": 0,
+      "relevance": 0,
+      "spotlight_comment": "We introduce and release ScienceBuddy, an interactive scientific research workspace that brings continually improving scientific agents into researchers' everyday workflows. ScienceBuddy supports researchers in carrying out scientific tasks while transforming their requests, feedback, and executi...",
+      "spotlight_primary_kind": "daily_hot",
+      "spotlight_primary_label": "Daily Hot Papers",
+      "upvotes": 30
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "cohere_blog",
+    "source_name": "Cohere Blog",
+    "source_role": "official_news",
+    "source_type": "official_blog",
+    "title": "Automating Fork Maintenance with AI Agents | Cohere",
+    "summary": "AI agents automate vLLM fork maintenance, cutting upstream sync time from weeks to days by auto-rebasing, testing, and fixing conflicts.",
+    "url": "https://cohere.com/blog/automating-fork-maintenance-with-ai-agents",
+    "canonical_url": "https://cohere.com/blog/automating-fork-maintenance-with-ai-agents",
+    "published_at": "2026-09-15T00:00:00+00:00",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "is_official": true,
+      "publisher": "Cohere Blog"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "cohere_blog",
+    "source_name": "Cohere Blog",
+    "source_role": "official_news",
+    "source_type": "official_blog",
+    "title": "Cohere Parse | Enterprise Intelligence at Scale",
+    "summary": "Parse converts complex documents, tables, and images into structured data your AI can search or act on.",
+    "url": "https://cohere.com/blog/parse",
+    "canonical_url": "https://cohere.com/blog/parse",
+    "published_at": "2026-09-15T00:00:00+00:00",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "is_official": true,
+      "publisher": "Cohere Blog"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "hf_models_nvidia",
+    "source_name": "NVIDIA on Hugging Face",
+    "source_role": "official_news",
+    "source_type": "model_release",
+    "title": "NVIDIA released foundationpose",
+    "summary": "Weights for nvidia/foundationpose appeared on the hub. Pipeline tags: tensorrt, onnx, TAO Toolkit, computer-vision, pose-estimation, 6dof-pose-estimation. 194 downloads, 9 likes at collection time.",
+    "url": "https://huggingface.co/nvidia/foundationpose",
+    "canonical_url": "https://huggingface.co/nvidia/foundationpose",
+    "published_at": "2026-09-15T01:25:12.000Z",
+    "tags": [
+      "tensorrt",
+      "onnx",
+      "TAO Toolkit",
+      "computer-vision",
+      "pose-estimation",
+      "6dof-pose-estimation",
+      "object-pose-estimation",
+      "object-tracking",
+      "robotics",
+      "foundation-model",
+      "zero-shot",
+      "transformer"
+    ],
+    "authors": [],
+    "metadata": {
+      "downloads": 194,
+      "is_official": true,
+      "likes": 9,
+      "model_id": "nvidia/foundationpose",
+      "publisher": "NVIDIA"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "hf_models_nvidia",
+    "source_name": "NVIDIA on Hugging Face",
+    "source_role": "official_news",
+    "source_type": "model_release",
+    "title": "NVIDIA released c-foundationstereo-s",
+    "summary": "Weights for nvidia/c-foundationstereo-s appeared on the hub. Pipeline tags: tensorrt, onnx, TAO Toolkit, computer-vision, depth-estimation, stereo-matching. 180 downloads, 7 likes at collection time.",
+    "url": "https://huggingface.co/nvidia/c-foundationstereo-s",
+    "canonical_url": "https://huggingface.co/nvidia/c-foundationstereo-s",
+    "published_at": "2026-09-15T01:25:18.000Z",
+    "tags": [
+      "tensorrt",
+      "onnx",
+      "TAO Toolkit",
+      "computer-vision",
+      "depth-estimation",
+      "stereo-matching",
+      "disparity-estimation",
+      "stereo-depth",
+      "foundation-model",
+      "zero-shot",
+      "transformer",
+      "pytorch"
+    ],
+    "authors": [],
+    "metadata": {
+      "downloads": 180,
+      "is_official": true,
+      "likes": 7,
+      "model_id": "nvidia/c-foundationstereo-s",
+      "publisher": "NVIDIA"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "huggingface_blog",
+    "source_name": "Hugging Face Blog",
+    "source_role": "official_news",
+    "source_type": "official_blog",
+    "title": "适配器即模型 —— ShadowPEFT 现已集成到 🤗 PEFT 库",
+    "summary": "",
+    "url": "https://huggingface.co/blog/shadow-llm/shadowpeft-peft-cn",
+    "canonical_url": "https://huggingface.co/blog/shadow-llm/shadowpeft-peft-cn",
+    "published_at": "2026-09-15T03:21:08+00:00",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "is_official": true,
+      "publisher": "Hugging Face Blog"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "huggingface_blog",
+    "source_name": "Hugging Face Blog",
+    "source_role": "official_news",
+    "source_type": "official_blog",
+    "title": "What If the Adaptation Were a Model? ShadowPEFT in 🤗 PEFT library",
+    "summary": "",
+    "url": "https://huggingface.co/blog/shadow-llm/shadowpeft-peft",
+    "canonical_url": "https://huggingface.co/blog/shadow-llm/shadowpeft-peft",
+    "published_at": "2026-09-15T03:30:08+00:00",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "is_official": true,
+      "publisher": "Hugging Face Blog"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "huggingface_blog",
+    "source_name": "Hugging Face Blog",
+    "source_role": "official_news",
+    "source_type": "official_blog",
+    "title": "Your Inference Server is Secretly a Learner: Reef Infrastructure for Continual Self-Improving Agents",
+    "summary": "",
+    "url": "https://huggingface.co/blog/quao627/your-inference-server-is-secretly-a-learner-reef",
+    "canonical_url": "https://huggingface.co/blog/quao627/your-inference-server-is-secretly-a-learner-reef",
+    "published_at": "2026-09-15T14:42:18+00:00",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "is_official": true,
+      "publisher": "Hugging Face Blog"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "hf_models_nvidia",
+    "source_name": "NVIDIA on Hugging Face",
+    "source_role": "official_news",
+    "source_type": "model_release",
+    "title": "NVIDIA released RT-DETR-Hand-Detector-v1",
+    "summary": "Weights for nvidia/RT-DETR-Hand-Detector-v1 appeared on the hub. Pipeline tags: onnx, arxiv:2603.16858, license:other, region:us. 0 downloads, 1 likes at collection time.",
+    "url": "https://huggingface.co/nvidia/RT-DETR-Hand-Detector-v1",
+    "canonical_url": "https://huggingface.co/nvidia/RT-DETR-Hand-Detector-v1",
+    "published_at": "2026-09-15T16:58:11.000Z",
+    "tags": [
+      "onnx",
+      "arxiv:2603.16858",
+      "license:other",
+      "region:us"
+    ],
+    "authors": [],
+    "metadata": {
+      "downloads": 0,
+      "is_official": true,
+      "likes": 1,
+      "model_id": "nvidia/RT-DETR-Hand-Detector-v1",
+      "publisher": "NVIDIA"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "cohere_blog",
+    "source_name": "Cohere Blog",
+    "source_role": "official_news",
+    "source_type": "official_blog",
+    "title": "Cohere & Aleph Alpha : IA sous votre contrôle transatlantique | Cohere",
+    "summary": "Cohere et Aleph Alpha s’associent pour lancer la première solution d’IA sous votre contrôle transatlantique, avec des sièges sociaux à Berlin et Toronto, offrant une IA sécurisée et contrôlable.",
+    "url": "https://cohere.com/fr/blog/cohere-and-aleph-alpha-sign-agreement",
+    "canonical_url": "https://cohere.com/fr/blog/cohere-and-aleph-alpha-sign-agreement",
+    "published_at": "2026-09-16T00:00:00+00:00",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "is_official": true,
+      "publisher": "Cohere Blog"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "cohere_blog",
+    "source_name": "Cohere Blog",
+    "source_role": "official_news",
+    "source_type": "official_blog",
+    "title": "Cohere & Aleph Alpha: Transatlantic Sovereign AI | Cohere",
+    "summary": "Cohere and Aleph Alpha partner to launch the first transatlantic sovereign AI solution with dual headquarters in Berlin and Toronto, providing secure and governable AI.",
+    "url": "https://cohere.com/blog/cohere-and-aleph-alpha-sign-agreement",
+    "canonical_url": "https://cohere.com/blog/cohere-and-aleph-alpha-sign-agreement",
+    "published_at": "2026-09-16T00:00:00+00:00",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "is_official": true,
+      "publisher": "Cohere Blog"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "cohere_blog",
+    "source_name": "Cohere Blog",
+    "source_role": "official_news",
+    "source_type": "official_blog",
+    "title": "Cohere & Aleph Alpha: Transatlantische Souveränität in KI | Cohere",
+    "summary": "Cohere und Aleph Alpha gründen das erste transatlantische Unternehmen für souveräne KI mit Hauptsitzen in Berlin und Toronto – für sichere und kontrollierbare KI-Lösungen.",
+    "url": "https://cohere.com/de/blog/cohere-and-aleph-alpha-sign-agreement",
+    "canonical_url": "https://cohere.com/de/blog/cohere-and-aleph-alpha-sign-agreement",
+    "published_at": "2026-09-16T00:00:00+00:00",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "is_official": true,
+      "publisher": "Cohere Blog"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "cohere_blog",
+    "source_name": "Cohere Blog",
+    "source_role": "official_news",
+    "source_type": "official_blog",
+    "title": "Cohere & Aleph Alpha: 대서양 횡단 주권 AI | Cohere",
+    "summary": "Cohere와 Aleph Alpha가 베를린과 토론토에 공동 본사를 둔 대서양 횡단 주권 AI 솔루션을 출시하기 위해 파트너십을 체결했습니다. 이를 통해 안전하고 관리 가능한 AI를 제공합니다.",
+    "url": "https://cohere.com/ko/blog/cohere-and-aleph-alpha-sign-agreement",
+    "canonical_url": "https://cohere.com/ko/blog/cohere-and-aleph-alpha-sign-agreement",
+    "published_at": "2026-09-16T00:00:00+00:00",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "is_official": true,
+      "publisher": "Cohere Blog"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "cohere_blog",
+    "source_name": "Cohere Blog",
+    "source_role": "official_news",
+    "source_type": "official_blog",
+    "title": "Cohere & Aleph Alpha：大西洋をまたぐ主権型AI | Cohere",
+    "summary": "CohereとAleph Alphaが提携し、ベルリンとトロントに本社を置く、大西洋をまたいだ初の主権型AIソリューションを提供します。安全で管理可能なAIを実現します。",
+    "url": "https://cohere.com/ja/blog/cohere-and-aleph-alpha-sign-agreement",
+    "canonical_url": "https://cohere.com/ja/blog/cohere-and-aleph-alpha-sign-agreement",
+    "published_at": "2026-09-16T00:00:00+00:00",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "is_official": true,
+      "publisher": "Cohere Blog"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "cohere_blog",
+    "source_name": "Cohere Blog",
+    "source_role": "official_news",
+    "source_type": "official_blog",
+    "title": "Cohere and OpenText partner to bring trusted agentic AI to governments and regulated industries",
+    "summary": "Cohere and OpenText partner to bring trusted agentic AI to governments and regulated industries",
+    "url": "https://cohere.com/blog/cohere-and-open-text-partner-to-bring-trusted-ai",
+    "canonical_url": "https://cohere.com/blog/cohere-and-open-text-partner-to-bring-trusted-ai",
+    "published_at": "2026-09-16T00:00:00+00:00",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "is_official": true,
+      "publisher": "Cohere Blog"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "mistral_blog",
+    "source_name": "Mistral AI Blog",
+    "source_role": "official_news",
+    "source_type": "official_blog",
+    "title": "Mistral and Mozilla are bringing open, private and multilingual AI to your web browser",
+    "summary": "Company",
+    "url": "https://mistral.ai/news/mistral-x-mozilla",
+    "canonical_url": "https://mistral.ai/news/mistral-x-mozilla",
+    "published_at": "2026-09-16T00:00:00+00:00",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "is_official": true,
+      "publisher": "Mistral AI Blog"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "reka_blog",
+    "source_name": "Reka AI Blog",
+    "source_role": "official_news",
+    "source_type": "official_blog",
+    "title": "Reka EdgeQ, On-Device",
+    "summary": "EdgeQ brings Reka Edge to Qualcommâs Hexagon NPU. On a Samsung S25 it holds frontier visual understanding at real-time latency, and stays thermally flat under sustained load where Gemma 4 E4B throttles.",
+    "url": "https://reka.ai/news/reka-edgeq",
+    "canonical_url": "https://reka.ai/news/reka-edgeq",
+    "published_at": "2026-09-16T00:00:00+00:00",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "is_official": true,
+      "publisher": "Reka AI Blog"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "hf_models_tencent",
+    "source_name": "Tencent Hunyuan on Hugging Face",
+    "source_role": "official_news",
+    "source_type": "model_release",
+    "title": "Tencent Hunyuan released WeVisDoc-2B",
+    "summary": "Weights for tencent/WeVisDoc-2B appeared on the hub. Pipeline tags: safetensors, qwen3_vl, en, zh, arxiv:2609.20423, license:apache-2.0. 732 downloads, 16 likes at collection time.",
+    "url": "https://huggingface.co/tencent/WeVisDoc-2B",
+    "canonical_url": "https://huggingface.co/tencent/WeVisDoc-2B",
+    "published_at": "2026-09-16T03:06:43.000Z",
+    "tags": [
+      "safetensors",
+      "qwen3_vl",
+      "en",
+      "zh",
+      "arxiv:2609.20423",
+      "license:apache-2.0",
+      "eval-results",
+      "region:us"
+    ],
+    "authors": [],
+    "metadata": {
+      "downloads": 732,
+      "is_official": true,
+      "likes": 16,
+      "model_id": "tencent/WeVisDoc-2B",
+      "publisher": "Tencent Hunyuan"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "hf_models_tencent",
+    "source_name": "Tencent Hunyuan on Hugging Face",
+    "source_role": "official_news",
+    "source_type": "model_release",
+    "title": "Tencent Hunyuan released WeVisDoc-4B",
+    "summary": "Weights for tencent/WeVisDoc-4B appeared on the hub. Pipeline tags: safetensors, qwen3_vl, en, zh, arxiv:2609.20423, license:apache-2.0. 493 downloads, 38 likes at collection time.",
+    "url": "https://huggingface.co/tencent/WeVisDoc-4B",
+    "canonical_url": "https://huggingface.co/tencent/WeVisDoc-4B",
+    "published_at": "2026-09-16T03:07:01.000Z",
+    "tags": [
+      "safetensors",
+      "qwen3_vl",
+      "en",
+      "zh",
+      "arxiv:2609.20423",
+      "license:apache-2.0",
+      "eval-results",
+      "region:us"
+    ],
+    "authors": [],
+    "metadata": {
+      "downloads": 493,
+      "is_official": true,
+      "likes": 38,
+      "model_id": "tencent/WeVisDoc-4B",
+      "publisher": "Tencent Hunyuan"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "hf_models_inclusionai",
+    "source_name": "Ant Ling on Hugging Face",
+    "source_role": "official_news",
+    "source_type": "model_release",
+    "title": "Ant Ling released Realtime-Venus",
+    "summary": "Weights for inclusionAI/Realtime-Venus appeared on the hub. Pipeline tags: transformers, onnx, safetensors, multimodal, audio, video. 0 downloads, 55 likes at collection time.",
+    "url": "https://huggingface.co/inclusionAI/Realtime-Venus",
+    "canonical_url": "https://huggingface.co/inclusionAI/Realtime-Venus",
+    "published_at": "2026-09-16T08:02:28.000Z",
+    "tags": [
+      "transformers",
+      "onnx",
+      "safetensors",
+      "multimodal",
+      "audio",
+      "video",
+      "speech",
+      "streaming",
+      "full-duplex",
+      "long-video",
+      "custom-code",
+      "any-to-any"
+    ],
+    "authors": [],
+    "metadata": {
+      "downloads": 0,
+      "is_official": true,
+      "likes": 55,
+      "model_id": "inclusionAI/Realtime-Venus",
+      "publisher": "Ant Ling"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "google_ai_blog",
+    "source_name": "Google AI Blog",
+    "source_role": "official_news",
+    "source_type": "official_blog",
+    "title": "New insights from Google’s AI & Economy ATLAS",
+    "summary": "Text \"AI & Economy Atlas v1.0 2026\" with the Google G and a spinning globe illustration",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026",
+    "canonical_url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026",
+    "published_at": "Tue, 15 Sep 2026 13:00:00 +0000",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "is_official": true,
+      "publisher": "Google AI Blog"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "google_ai_blog",
+    "source_name": "Google AI Blog",
+    "source_role": "official_news",
+    "source_type": "official_blog",
+    "title": "AI for everyone in every language",
+    "summary": "Animation of several words in different languages slowly zooming past",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language",
+    "canonical_url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language",
+    "published_at": "Tue, 15 Sep 2026 16:00:00 +0000",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "is_official": true,
+      "publisher": "Google AI Blog"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "google_ai_blog",
+    "source_name": "Google AI Blog",
+    "source_role": "official_news",
+    "source_type": "official_blog",
+    "title": "AI for Societal Impact",
+    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Health_Header.gif\" />Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact",
+    "canonical_url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact",
+    "published_at": "Tue, 15 Sep 2026 16:00:00 +0000",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "is_official": true,
+      "publisher": "Google AI Blog"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "google_ai_blog",
+    "source_name": "Google AI Blog",
+    "source_role": "official_news",
+    "source_type": "official_blog",
+    "title": "Building AI to accelerate science and improve lives",
+    "summary": "B-roll showing diverse environments and people, including a teacher and students in a classroom and a patient with a doctor",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people",
+    "canonical_url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people",
+    "published_at": "Tue, 15 Sep 2026 16:00:00 +0000",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "is_official": true,
+      "publisher": "Google AI Blog"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "deepmind_blog",
+    "source_name": "DeepMind Blog",
+    "source_role": "official_news",
+    "source_type": "official_blog",
+    "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+    "summary": "",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking",
+    "canonical_url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking",
+    "published_at": "Tue, 15 Sep 2026 17:05:57 +0000",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "is_official": true,
+      "publisher": "DeepMind Blog"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "google_research_blog",
+    "source_name": "Google Research Blog",
+    "source_role": "official_news",
+    "source_type": "official_blog",
+    "title": "Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train",
+    "summary": "Algorithms & Theory",
+    "url": "https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train",
+    "canonical_url": "https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train",
+    "published_at": "Tue, 15 Sep 2026 20:00:00 +0000",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "is_official": true,
+      "publisher": "Google Research Blog"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "together_blog",
+    "source_name": "Together AI Blog",
+    "source_role": "official_news",
+    "source_type": "official_blog",
+    "title": "Migrating from closed to open source models, Together",
+    "summary": "Moving from closed to open source models can take weeks, not years. A five-stage playbook: discover, evaluate, adapt, decide, and production.",
+    "url": "https://www.together.ai/blog/migrating-from-closed-to-open-source-models",
+    "canonical_url": "https://www.together.ai/blog/migrating-from-closed-to-open-source-models",
+    "published_at": "Wed, 16 Sep 2026 00:00:00 GMT",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "is_official": true,
+      "publisher": "Together AI Blog"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "openai_news",
+    "source_name": "OpenAI News",
+    "source_role": "official_news",
+    "source_type": "official_blog",
+    "title": "How workers are unlocking new ways of working",
+    "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
+    "url": "https://openai.com/index/unlocking-new-ways-of-working",
+    "canonical_url": "https://openai.com/index/unlocking-new-ways-of-working",
+    "published_at": "Wed, 16 Sep 2026 09:00:00 GMT",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "is_official": true,
+      "publisher": "OpenAI News"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "superhuman_ai",
+    "source_name": "Superhuman AI",
+    "source_role": "headline_consensus",
+    "source_type": "roundup",
+    "title": "4 min read Claude gets 2 new features & a simpler platform",
+    "summary": "",
+    "url": "https://www.superhuman.ai/p/claude-gets-2-new-features-a-simpler-platform",
+    "canonical_url": "https://www.superhuman.ai/p/claude-gets-2-new-features-a-simpler-platform",
+    "published_at": "2026-09-16T00:00:00-04:00",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "roundup_site": "Superhuman AI"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "superhuman_ai",
+    "source_name": "Superhuman AI",
+    "source_role": "headline_consensus",
+    "source_type": "roundup",
+    "title": "4 min read OpenAI incident report or science fiction?",
+    "summary": "",
+    "url": "https://www.superhuman.ai/p/openai-incident-report-or-science-fiction",
+    "canonical_url": "https://www.superhuman.ai/p/openai-incident-report-or-science-fiction",
+    "published_at": "2026-09-16T00:00:00-04:00",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "roundup_site": "Superhuman AI"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "analysis_simon_willison",
+    "source_name": "Simon Willison's Blog",
+    "source_role": "editorial_depth",
+    "source_type": "blog_analysis",
+    "title": "Quoting Laurie Voss",
+    "summary": "<blockquote cite=\"https://seldo.com/posts/we-are-all-product-engineers-now/\"><p>The cost of writing code collapsed, and the cost of reviewing, fixing and operating it is following, and I'm assuming it gets there. What's left of making software is finding out what people actually want, defining it precisely, and making it pleasant to use. That cost is per piece of software and doesn't transfer, so as the amount of software goes to infinity, which it will because there's no ceiling on demand, that cost becomes the whole job.</p></blockquote> <p class=\"cite\">&mdash; <a href=\"https://seldo.com/posts/we-are-all-product-engineers-now/\">Laurie Voss</a>, We are all Product Engineers now</p> <p>Tags: <a href=\"https://simonwillison.net/tags/laurie-voss\">laurie-voss</a>, <a href=\"https://simonwill...",
+    "url": "https://simonwillison.net/2026/Sep/14/laurie-voss",
+    "canonical_url": "https://simonwillison.net/2026/Sep/14/laurie-voss",
+    "published_at": "2026-09-14T14:34:29+00:00",
+    "tags": [
+      "analysis",
+      "deep-read"
+    ],
+    "authors": [],
+    "metadata": {
+      "feed_id": "simon_willison",
+      "feed_source": "https://simonwillison.net/atom/everything",
+      "signal_tier": "trusted_analysis",
+      "source_quality": 1.3
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "analysis_simon_willison",
+    "source_name": "Simon Willison's Blog",
+    "source_role": "editorial_depth",
+    "source_type": "blog_analysis",
+    "title": "The contagion of fear",
+    "summary": "<p><strong><a href=\"https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/\">The contagion of fear</a></strong></p> Bryan Cantrill responds to the <a href=\"https://x.com/hilbertspaess/status/2097476203863224394\">tweet by former Anthropic employee Jacob Coxon</a> confirming that many Anthropic researchers believe AI \"could kill us all by the end of the decade\".</p> <p>Bryan shares a story of his own youthful mistakes causing unjustified panic among less technical peers, and warns against doing the same:</p> <blockquote> <p>These ghoulish claims strike brazenly at the hearth, and given the obvious importance of AI, it is unsurprising that they have leapt into the mainstream, with people asking the natural question: <a href=\"https://www.youtube.com/watch?v=kwPxjBJamVs\">how would tha...",
+    "url": "https://simonwillison.net/2026/Sep/14/the-contagion-of-fear",
+    "canonical_url": "https://simonwillison.net/2026/Sep/14/the-contagion-of-fear",
+    "published_at": "2026-09-14T21:18:13+00:00",
+    "tags": [
+      "analysis",
+      "deep-read"
+    ],
+    "authors": [],
+    "metadata": {
+      "feed_id": "simon_willison",
+      "feed_source": "https://simonwillison.net/atom/everything",
+      "signal_tier": "trusted_analysis",
+      "source_quality": 1.3
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "analysis_simon_willison",
+    "source_name": "Simon Willison's Blog",
+    "source_role": "editorial_depth",
+    "source_type": "blog_analysis",
+    "title": "Gemini Live audio",
+    "summary": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/gemini-live\">Gemini Live audio</a></p> <p>Google released <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/\">Gemini 3.8 Live and 3.8 Live Extended Thinking</a> today - two new speech-to-speech models that are a similar shape to OpenAI's <a href=\"https://openai.com/index/introducing-gpt-live/\">GPT-Live</a> family.</p> <p>I pointed GPT-6 Astra Extra High at the documentation and <a href=\"https://gist.github.com/simonw/067b7430c5b1f743af9419b0184c38ef\">had it build me this web UI</a> for trying out the new models. You can select a model and voice preset, enter an optional system prompt and then start a voice conversation through your browser,...",
+    "url": "https://simonwillison.net/2026/Sep/15/gemini-live",
+    "canonical_url": "https://simonwillison.net/2026/Sep/15/gemini-live",
+    "published_at": "2026-09-15T22:47:07+00:00",
+    "tags": [
+      "analysis",
+      "deep-read"
+    ],
+    "authors": [],
+    "metadata": {
+      "feed_id": "simon_willison",
+      "feed_source": "https://simonwillison.net/atom/everything",
+      "signal_tier": "trusted_analysis",
+      "source_quality": 1.3
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "import_ai",
+    "source_name": "Import AI",
+    "source_role": "editorial_depth",
+    "source_type": "roundup",
+    "title": "A U.S. Strategy to Secure Geopolitical Advantage on an Uncertain Path to Superintelligence (RAND)",
+    "summary": "",
+    "url": "https://www.rand.org/pubs/perspectives/PEA5105-1.html",
+    "canonical_url": "https://www.rand.org/pubs/perspectives/PEA5105-1.html",
+    "published_at": "2026-09-16T00:00:00-04:00",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "roundup_site": "Import AI"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "last_week_in_ai",
+    "source_name": "Last Week in AI",
+    "source_role": "editorial_depth",
+    "source_type": "roundup",
+    "title": "Artificial Intelligence Made Simple",
+    "summary": "",
+    "url": "https://www.artificialintelligencemadesimple.com",
+    "canonical_url": "https://www.artificialintelligencemadesimple.com",
+    "published_at": "2026-09-16T00:00:00-04:00",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "roundup_site": "Last Week in AI"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "the_batch",
+    "source_name": "The Batch",
+    "source_role": "editorial_depth",
+    "source_type": "roundup",
+    "title": "DeepSeek Sharpens Its Reasoning: DeepSeek-R1, an affordable rival to OpenAI’s o1",
+    "summary": "",
+    "url": "https://www.deeplearning.ai/the-batch/deepseek-r1-an-affordable-rival-to-openais-o1",
+    "canonical_url": "https://www.deeplearning.ai/the-batch/deepseek-r1-an-affordable-rival-to-openais-o1",
+    "published_at": "2026-09-16T00:00:00-04:00",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "roundup_site": "The Batch"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "import_ai",
+    "source_name": "Import AI",
+    "source_role": "editorial_depth",
+    "source_type": "roundup",
+    "title": "Developmental xenocortication using human-derived organoids in mice (Nature)",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41586-026-11032-2",
+    "canonical_url": "https://www.nature.com/articles/s41586-026-11032-2",
+    "published_at": "2026-09-16T00:00:00-04:00",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "roundup_site": "Import AI"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "the_batch",
+    "source_name": "The Batch",
+    "source_role": "editorial_depth",
+    "source_type": "roundup",
+    "title": "Inside Key Changes in Data Policies, Ox Alpha Revealed, Taking Custom Models Beyond Fine-Tuning",
+    "summary": "The Batch News & Insights: A key AI engineering skill is using coding agents.",
+    "url": "https://www.deeplearning.ai/the-batch/tag/sep-04-2026",
+    "canonical_url": "https://www.deeplearning.ai/the-batch/tag/sep-04-2026",
+    "published_at": "2026-09-16T00:00:00-04:00",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "roundup_site": "The Batch"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "the_batch",
+    "source_name": "The Batch",
+    "source_role": "editorial_depth",
+    "source_type": "roundup",
+    "title": "Introducing DeepLearning.AI Pro",
+    "summary": "",
+    "url": "https://www.deeplearning.ai/the-batch/introducing-deeplearning-ai-pro",
+    "canonical_url": "https://www.deeplearning.ai/the-batch/introducing-deeplearning-ai-pro",
+    "published_at": "2026-09-16T00:00:00-04:00",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "roundup_site": "The Batch"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "the_batch",
+    "source_name": "The Batch",
+    "source_role": "editorial_depth",
+    "source_type": "roundup",
+    "title": "Meta’s Agent Security, The Navier-Stokes Controversy, Fraud on Claude",
+    "summary": "The Batch News & Insights: The loudest voices stoking fears about AI dangers have made tremendous headway in the past two weeks.",
+    "url": "https://www.deeplearning.ai/the-batch/tag/sep-18-2026",
+    "canonical_url": "https://www.deeplearning.ai/the-batch/tag/sep-18-2026",
+    "published_at": "2026-09-16T00:00:00-04:00",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "roundup_site": "The Batch"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "the_batch",
+    "source_name": "The Batch",
+    "source_role": "editorial_depth",
+    "source_type": "roundup",
+    "title": "OpenAI and Anthropic fight it out for the top overall spot, while Google, Meta, and Microsoft all release transcription models",
+    "summary": "The Batch News & Insights: When you’re skilled at AI Engineering, your best work won’t be merely implementing a product that someone else spec’ed out. Instead, you will actively shape the build.",
+    "url": "https://www.deeplearning.ai/the-batch/tag/sep-11-2026",
+    "canonical_url": "https://www.deeplearning.ai/the-batch/tag/sep-11-2026",
+    "published_at": "2026-09-16T00:00:00-04:00",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "roundup_site": "The Batch"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "import_ai",
+    "source_name": "Import AI",
+    "source_role": "editorial_depth",
+    "source_type": "roundup",
+    "title": "Pacing the Frontier, a Framework & Research Agenda (pacing.tech)",
+    "summary": "",
+    "url": "https://pacing.tech",
+    "canonical_url": "https://pacing.tech",
+    "published_at": "2026-09-16T00:00:00-04:00",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "roundup_site": "Import AI"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "import_ai",
+    "source_name": "Import AI",
+    "source_role": "editorial_depth",
+    "source_type": "roundup",
+    "title": "The Work Of Art in the Age of Mechanical Reproduction by Walter Benjamin",
+    "summary": "",
+    "url": "https://web.mit.edu/allanmc/www/benjamin.pdf",
+    "canonical_url": "https://web.mit.edu/allanmc/www/benjamin.pdf",
+    "published_at": "2026-09-16T00:00:00-04:00",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "roundup_site": "Import AI"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "analysis_mit_ai_news",
+    "source_name": "MIT News AI",
+    "source_role": "editorial_depth",
+    "source_type": "blog_analysis",
+    "title": "MIT spinout turns plastic waste into resilient building materials",
+    "summary": "Atlas Building Composites is commercializing MIT research to turn plastic waste into parts for buildings and other infrastructure.",
+    "url": "https://news.mit.edu/2026/mit-spinout-turns-plastic-waste-into-resilient-building-materials-0914",
+    "canonical_url": "https://news.mit.edu/2026/mit-spinout-turns-plastic-waste-into-resilient-building-materials-0914",
+    "published_at": "Mon, 14 Sep 2026 00:00:00 -0400",
+    "tags": [
+      "analysis",
+      "deep-read"
+    ],
+    "authors": [],
+    "metadata": {
+      "feed_id": "mit_ai_news",
+      "feed_source": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "signal_tier": "trusted_analysis",
+      "source_quality": 1.3
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "analysis_mit_ai_news",
+    "source_name": "MIT News AI",
+    "source_role": "editorial_depth",
+    "source_type": "blog_analysis",
+    "title": "New method enables AI for safety-critical situations",
+    "summary": "The “HardFlow” algorithm could help generative AI models produce high-quality outputs that obey strict requirements when “pretty close” doesn’t cut it.",
+    "url": "https://news.mit.edu/2026/new-method-enables-ai-safety-critical-situations-0914",
+    "canonical_url": "https://news.mit.edu/2026/new-method-enables-ai-safety-critical-situations-0914",
+    "published_at": "Mon, 14 Sep 2026 00:00:00 -0400",
+    "tags": [
+      "analysis",
+      "deep-read"
+    ],
+    "authors": [],
+    "metadata": {
+      "feed_id": "mit_ai_news",
+      "feed_source": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "signal_tier": "trusted_analysis",
+      "source_quality": 1.3
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "analysis_arstechnica_ai",
+    "source_name": "Ars Technica AI",
+    "source_role": "editorial_depth",
+    "source_type": "blog_analysis",
+    "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
+    "summary": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”",
+    "url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam",
+    "canonical_url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam",
+    "published_at": "Mon, 14 Sep 2026 21:04:32 +0000",
+    "tags": [
+      "analysis",
+      "deep-read"
+    ],
+    "authors": [],
+    "metadata": {
+      "feed_id": "arstechnica_ai",
+      "feed_source": "https://arstechnica.com/ai/feed/",
+      "signal_tier": "trusted_analysis",
+      "source_quality": 1.3
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "analysis_arstechnica_ai",
+    "source_name": "Ars Technica AI",
+    "source_role": "editorial_depth",
+    "source_type": "blog_analysis",
+    "title": "Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost",
+    "summary": "Ars previewed Mozilla’s report on how cheap open models caught up on capability.",
+    "url": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models",
+    "canonical_url": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models",
+    "published_at": "Tue, 15 Sep 2026 12:00:41 +0000",
+    "tags": [
+      "analysis",
+      "deep-read"
+    ],
+    "authors": [],
+    "metadata": {
+      "feed_id": "arstechnica_ai",
+      "feed_source": "https://arstechnica.com/ai/feed/",
+      "signal_tier": "trusted_analysis",
+      "source_quality": 1.3
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "analysis_mit_ai_news",
+    "source_name": "MIT News AI",
+    "source_role": "editorial_depth",
+    "source_type": "blog_analysis",
+    "title": "Measure by measure, studying society accurately",
+    "summary": "Naoki Egami has become a standout in political methodology, helping refine tools that give scholars durable results.",
+    "url": "https://news.mit.edu/2026/studying-society-accurately-naoki-egami-0916",
+    "canonical_url": "https://news.mit.edu/2026/studying-society-accurately-naoki-egami-0916",
+    "published_at": "Wed, 16 Sep 2026 00:00:00 -0400",
+    "tags": [
+      "analysis",
+      "deep-read"
+    ],
+    "authors": [],
+    "metadata": {
+      "feed_id": "mit_ai_news",
+      "feed_source": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "signal_tier": "trusted_analysis",
+      "source_quality": 1.3
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "github_trend",
+    "source_name": "GitHub Trending Repos",
+    "source_role": "github_trend",
+    "source_type": "repository",
+    "title": "modelscope/ms-cookbook",
+    "summary": "魔搭紫皮书｜ModelScope Cookbook：面向开发者的开源模型应用实战指南，覆盖模型选型、推理、微调、评测、RAG、Agent 与 AIGC，从跑通第一个模型到构建实际应用。",
+    "url": "https://github.com/modelscope/ms-cookbook",
+    "canonical_url": "https://github.com/modelscope/ms-cookbook",
+    "published_at": "2026-09-11T14:27:35Z",
+    "tags": [
+      "ai-agents",
+      "cookbook",
+      "diffusion-models",
+      "fine-tuning",
+      "generative-ai",
+      "llm",
+      "mcp",
+      "model-evaluation",
+      "modelscope",
+      "rag"
+    ],
+    "authors": [
+      "modelscope"
+    ],
+    "metadata": {
+      "fetched_at": "2026-09-16T00:00:00-04:00",
+      "forks": 63,
+      "github_full_name": "modelscope/ms-cookbook",
+      "github_url": "https://github.com/modelscope/ms-cookbook",
+      "language": "HTML",
+      "search_query": "llm",
+      "stars": 378
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "github_trend",
+    "source_name": "GitHub Trending Repos",
+    "source_role": "github_trend",
+    "source_type": "repository",
+    "title": "youngyangyang04/llm-master",
+    "summary": "大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI Agent、MCP、微调、模型部署、Transformer、AI 编程与大厂面试，从入门到生产实践。",
+    "url": "https://github.com/youngyangyang04/llm-master",
+    "canonical_url": "https://github.com/youngyangyang04/llm-master",
+    "published_at": "2026-09-12T07:33:31Z",
+    "tags": [
+      "agent",
+      "large-language-models",
+      "llm",
+      "llm-learning",
+      "llm-tutorial",
+      "rag"
+    ],
+    "authors": [
+      "youngyangyang04"
+    ],
+    "metadata": {
+      "fetched_at": "2026-09-16T00:00:00-04:00",
+      "forks": 88,
+      "github_full_name": "youngyangyang04/llm-master",
+      "github_url": "https://github.com/youngyangyang04/llm-master",
+      "language": null,
+      "search_query": "llm",
+      "stars": 871
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "github_trend",
+    "source_name": "GitHub Trending Repos",
+    "source_role": "github_trend",
+    "source_type": "repository",
+    "title": "atria-asi/Atria-Dawn-Preview",
+    "summary": "",
+    "url": "https://github.com/atria-asi/Atria-Dawn-Preview",
+    "canonical_url": "https://github.com/atria-asi/Atria-Dawn-Preview",
+    "published_at": "2026-09-12T10:32:29Z",
+    "tags": [
+      "llm",
+      "llm-agent"
+    ],
+    "authors": [
+      "atria-asi"
+    ],
+    "metadata": {
+      "fetched_at": "2026-09-16T00:00:00-04:00",
+      "forks": 26,
+      "github_full_name": "atria-asi/Atria-Dawn-Preview",
+      "github_url": "https://github.com/atria-asi/Atria-Dawn-Preview",
+      "language": null,
+      "search_query": "llm",
+      "stars": 535
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "github_trend",
+    "source_name": "GitHub Trending Repos",
+    "source_role": "github_trend",
+    "source_type": "repository",
+    "title": "shinthink/blitzstrike",
+    "summary": "⚡ Blitz Strike — a universal MCP penetration-testing toolbelt. Structured methodology: reconnaissance & attack-surface mapping, source-to-sink analysis, and live validation. 57 escalation chains, 130-tool catalog, intelligence data layer. One server, every agent.",
+    "url": "https://github.com/shinthink/blitzstrike",
+    "canonical_url": "https://github.com/shinthink/blitzstrike",
+    "published_at": "2026-09-12T12:13:09Z",
+    "tags": [
+      "active-directory",
+      "blue-team",
+      "bug-bounty",
+      "cve",
+      "defensive-security",
+      "exploit",
+      "mcp",
+      "mcp-server",
+      "nuclei",
+      "offensive-security",
+      "payloads",
+      "pentest",
+      "reconnaissance",
+      "red-team",
+      "reverse-engineering",
+      "security",
+      "security-tools",
+      "vulnerability-scanning",
+      "wordpress"
+    ],
+    "authors": [
+      "shinthink"
+    ],
+    "metadata": {
+      "fetched_at": "2026-09-16T00:00:00-04:00",
+      "forks": 1,
+      "github_full_name": "shinthink/blitzstrike",
+      "github_url": "https://github.com/shinthink/blitzstrike",
+      "language": "TypeScript",
+      "search_query": "agent",
+      "stars": 642
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "github_trend",
+    "source_name": "GitHub Trending Repos",
+    "source_role": "github_trend",
+    "source_type": "repository",
+    "title": "rizqinrr/viserys-agent",
+    "summary": "",
+    "url": "https://github.com/rizqinrr/viserys-agent",
+    "canonical_url": "https://github.com/rizqinrr/viserys-agent",
+    "published_at": "2026-09-12T16:51:29Z",
+    "tags": [],
+    "authors": [
+      "rizqinrr"
+    ],
+    "metadata": {
+      "fetched_at": "2026-09-16T00:00:00-04:00",
+      "forks": 12,
+      "github_full_name": "rizqinrr/viserys-agent",
+      "github_url": "https://github.com/rizqinrr/viserys-agent",
+      "language": "JavaScript",
+      "search_query": "agent",
+      "stars": 697
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "github_trend",
+    "source_name": "GitHub Trending Repos",
+    "source_role": "github_trend",
+    "source_type": "repository",
+    "title": "agentverse-os/AgentVerse-OS",
+    "summary": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
+    "url": "https://github.com/agentverse-os/AgentVerse-OS",
+    "canonical_url": "https://github.com/agentverse-os/AgentVerse-OS",
+    "published_at": "2026-09-12T18:20:00Z",
+    "tags": [],
+    "authors": [
+      "agentverse-os"
+    ],
+    "metadata": {
+      "fetched_at": "2026-09-16T00:00:00-04:00",
+      "forks": 26,
+      "github_full_name": "agentverse-os/AgentVerse-OS",
+      "github_url": "https://github.com/agentverse-os/AgentVerse-OS",
+      "language": "Rust",
+      "search_query": "agent",
+      "stars": 969
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "github_trend",
+    "source_name": "GitHub Trending Repos",
+    "source_role": "github_trend",
+    "source_type": "repository",
+    "title": "ruc-datalab/EvoOntology",
+    "summary": "EvoOntology: A Self-Evolving Ontology Layer for Data Agents ⚙️ EvoOntology插件为Claude Code/Codex 建立&进化本体层",
+    "url": "https://github.com/ruc-datalab/EvoOntology",
+    "canonical_url": "https://github.com/ruc-datalab/EvoOntology",
+    "published_at": "2026-09-15T01:57:40Z",
+    "tags": [
+      "agent",
+      "agentic-ai",
+      "claude-code",
+      "codex",
+      "data-analysis",
+      "data-science",
+      "harness",
+      "llm",
+      "llm-agents",
+      "ontology",
+      "plugin",
+      "self-evolving"
+    ],
+    "authors": [
+      "ruc-datalab"
+    ],
+    "metadata": {
+      "fetched_at": "2026-09-16T00:00:00-04:00",
+      "forks": 23,
+      "github_full_name": "ruc-datalab/EvoOntology",
+      "github_url": "https://github.com/ruc-datalab/EvoOntology",
+      "language": "Python",
+      "search_query": "llm",
+      "stars": 269
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "github_trend",
+    "source_name": "GitHub Trending Repos",
+    "source_role": "github_trend",
+    "source_type": "repository",
+    "title": "mcncarl/jianying-headless",
+    "summary": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
+    "url": "https://github.com/mcncarl/jianying-headless",
+    "canonical_url": "https://github.com/mcncarl/jianying-headless",
+    "published_at": "2026-09-15T11:51:15Z",
+    "tags": [],
+    "authors": [
+      "mcncarl"
+    ],
+    "metadata": {
+      "fetched_at": "2026-09-16T00:00:00-04:00",
+      "forks": 1773,
+      "github_full_name": "mcncarl/jianying-headless",
+      "github_url": "https://github.com/mcncarl/jianying-headless",
+      "language": "Python",
+      "search_query": "agent",
+      "stars": 2354
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "github_trend",
+    "source_name": "GitHub Trending Repos",
+    "source_role": "github_trend",
+    "source_type": "repository",
+    "title": "browser-use/jev-ultrafast",
+    "summary": "Fastest and cheapest web agent",
+    "url": "https://github.com/browser-use/jev-ultrafast",
+    "canonical_url": "https://github.com/browser-use/jev-ultrafast",
+    "published_at": "2026-09-16T21:30:12Z",
+    "tags": [],
+    "authors": [
+      "browser-use"
+    ],
+    "metadata": {
+      "fetched_at": "2026-09-16T00:00:00-04:00",
+      "forks": 963,
+      "github_full_name": "browser-use/jev-ultrafast",
+      "github_url": "https://github.com/browser-use/jev-ultrafast",
+      "language": "Python",
+      "search_query": "agent",
+      "stars": 15476
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "github_trend",
+    "source_name": "GitHub Trending Repos",
+    "source_role": "github_trend",
+    "source_type": "repository",
+    "title": "ekzhang/openjev-sglang",
+    "summary": "Jev-compatible API endpoint based on open models (prefill-only)",
+    "url": "https://github.com/ekzhang/openjev-sglang",
+    "canonical_url": "https://github.com/ekzhang/openjev-sglang",
+    "published_at": "2026-09-17T18:11:49Z",
+    "tags": [
+      "jev",
+      "llm",
+      "structured-generation",
+      "systemone"
+    ],
+    "authors": [
+      "ekzhang"
+    ],
+    "metadata": {
+      "fetched_at": "2026-09-16T00:00:00-04:00",
+      "forks": 32,
+      "github_full_name": "ekzhang/openjev-sglang",
+      "github_url": "https://github.com/ekzhang/openjev-sglang",
+      "language": "Python",
+      "search_query": "llm",
+      "stars": 252
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "github_trend",
+    "source_name": "GitHub Trending Repos",
+    "source_role": "github_trend",
+    "source_type": "repository",
+    "title": "Continuum-AI-Corp/OrcaBonsai-27B-Uncensored",
+    "summary": "Runtime behavioral ablation for compressed LLMs. First target: Ternary Bonsai 2 27B — no weight modification or re-quantization. by OrcaRouter team",
+    "url": "https://github.com/Continuum-AI-Corp/OrcaBonsai-27B-Uncensored",
+    "canonical_url": "https://github.com/Continuum-AI-Corp/OrcaBonsai-27B-Uncensored",
+    "published_at": "2026-09-18T06:45:54Z",
+    "tags": [],
+    "authors": [
+      "Continuum-AI-Corp"
+    ],
+    "metadata": {
+      "fetched_at": "2026-09-16T00:00:00-04:00",
+      "forks": 59,
+      "github_full_name": "Continuum-AI-Corp/OrcaBonsai-27B-Uncensored",
+      "github_url": "https://github.com/Continuum-AI-Corp/OrcaBonsai-27B-Uncensored",
+      "language": "Python",
+      "search_query": "llm",
+      "stars": 518
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "github_trend",
+    "source_name": "GitHub Trending Repos",
+    "source_role": "github_trend",
+    "source_type": "repository",
+    "title": "kerpopule/hermes-jev-skills",
+    "summary": "Jev-powered model routing, memory, compaction, skill selection, computer and browser use for Hermes agents (also Claude Code and Codex)",
+    "url": "https://github.com/kerpopule/hermes-jev-skills",
+    "canonical_url": "https://github.com/kerpopule/hermes-jev-skills",
+    "published_at": "2026-09-18T20:01:29Z",
+    "tags": [],
+    "authors": [
+      "kerpopule"
+    ],
+    "metadata": {
+      "fetched_at": "2026-09-16T00:00:00-04:00",
+      "forks": 35,
+      "github_full_name": "kerpopule/hermes-jev-skills",
+      "github_url": "https://github.com/kerpopule/hermes-jev-skills",
+      "language": "Python",
+      "search_query": "agent",
+      "stars": 386
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "github_trend",
+    "source_name": "GitHub Trending Repos",
+    "source_role": "github_trend",
+    "source_type": "repository",
+    "title": "rmalde/minecraft-agent",
+    "summary": "Astra planner and JEV controller for Minecraft, with native recording, tested routes, and run verification.",
+    "url": "https://github.com/rmalde/minecraft-agent",
+    "canonical_url": "https://github.com/rmalde/minecraft-agent",
+    "published_at": "2026-09-20T05:05:12Z",
+    "tags": [],
+    "authors": [
+      "rmalde"
+    ],
+    "metadata": {
+      "fetched_at": "2026-09-16T00:00:00-04:00",
+      "forks": 43,
+      "github_full_name": "rmalde/minecraft-agent",
+      "github_url": "https://github.com/rmalde/minecraft-agent",
+      "language": "JavaScript",
+      "search_query": "agent",
+      "stars": 458
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "github_trend",
+    "source_name": "GitHub Trending Repos",
+    "source_role": "github_trend",
+    "source_type": "repository",
+    "title": "zai-org/ZCode",
+    "summary": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+    "url": "https://github.com/zai-org/ZCode",
+    "canonical_url": "https://github.com/zai-org/ZCode",
+    "published_at": "2026-09-20T12:01:16Z",
+    "tags": [],
+    "authors": [
+      "zai-org"
+    ],
+    "metadata": {
+      "fetched_at": "2026-09-16T00:00:00-04:00",
+      "forks": 1570,
+      "github_full_name": "zai-org/ZCode",
+      "github_url": "https://github.com/zai-org/ZCode",
+      "language": "TypeScript",
+      "search_query": "agent",
+      "stars": 5517
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "github_trend",
+    "source_name": "GitHub Trending Repos",
+    "source_role": "github_trend",
+    "source_type": "repository",
+    "title": "Rizzo-AI-Academy/rizzo-flow",
+    "summary": "The open, local take on Jev: typed decisions from an LLM, without generating a single token",
+    "url": "https://github.com/Rizzo-AI-Academy/rizzo-flow",
+    "canonical_url": "https://github.com/Rizzo-AI-Academy/rizzo-flow",
+    "published_at": "2026-09-21T00:00:02Z",
+    "tags": [],
+    "authors": [
+      "Rizzo-AI-Academy"
+    ],
+    "metadata": {
+      "fetched_at": "2026-09-16T00:00:00-04:00",
+      "forks": 6,
+      "github_full_name": "Rizzo-AI-Academy/rizzo-flow",
+      "github_url": "https://github.com/Rizzo-AI-Academy/rizzo-flow",
+      "language": "Python",
+      "search_query": "llm",
+      "stars": 217
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "hn_discussion",
+    "source_name": "Hacker News",
+    "source_role": "hn_discussion",
+    "source_type": "discussion",
+    "title": "Show HN: Sunk Cost – How long until a local LLM rig pays for itself?",
+    "summary": "Show HN: Sunk Cost – How long until a local LLM rig pays for itself?",
+    "url": "https://sunkcost.ai",
+    "canonical_url": "https://sunkcost.ai",
+    "published_at": "2026-09-15T01:37:43Z",
+    "tags": [],
+    "authors": [
+      "rlindsey123"
+    ],
+    "metadata": {
+      "hn_comments": 99,
+      "hn_id": "49706656",
+      "hn_score": 47,
+      "host": "sunkcost.ai"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "hn_discussion",
+    "source_name": "Hacker News",
+    "source_role": "hn_discussion",
+    "source_type": "discussion",
+    "title": "I worked at Google DeepMind. You should listen to the warnings about AI",
+    "summary": "I worked at Google DeepMind. You should listen to the warnings about AI",
+    "url": "https://www.theguardian.com/technology/2026/sep/14/google-deepmind-ai-warnings",
+    "canonical_url": "https://www.theguardian.com/technology/2026/sep/14/google-deepmind-ai-warnings",
+    "published_at": "2026-09-15T02:25:41Z",
+    "tags": [],
+    "authors": [
+      "gibspaulding"
+    ],
+    "metadata": {
+      "hn_comments": 32,
+      "hn_id": "49706941",
+      "hn_score": 42,
+      "host": "www.theguardian.com"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "hn_discussion",
+    "source_name": "Hacker News",
+    "source_role": "hn_discussion",
+    "source_type": "discussion",
+    "title": "How much of F-Droid is LLM generated?",
+    "summary": "How much of F-Droid is LLM generated?",
+    "url": "https://tintotint.eu/whacky-corner/f-droid_slop",
+    "canonical_url": "https://tintotint.eu/whacky-corner/f-droid_slop",
+    "published_at": "2026-09-15T09:47:48Z",
+    "tags": [],
+    "authors": [
+      "_ZeD_"
+    ],
+    "metadata": {
+      "hn_comments": 182,
+      "hn_id": "49710015",
+      "hn_score": 146,
+      "host": "tintotint.eu"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "hn_discussion",
+    "source_name": "Hacker News",
+    "source_role": "hn_discussion",
+    "source_type": "discussion",
+    "title": "1Password's AI patching benchmark is misleading",
+    "summary": "1Password's AI patching benchmark is misleading",
+    "url": "https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading",
+    "canonical_url": "https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading",
+    "published_at": "2026-09-15T11:54:11Z",
+    "tags": [],
+    "authors": [
+      "darkamaul"
+    ],
+    "metadata": {
+      "hn_comments": 9,
+      "hn_id": "49711157",
+      "hn_score": 37,
+      "host": "blog.trailofbits.com"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "hn_discussion",
+    "source_name": "Hacker News",
+    "source_role": "hn_discussion",
+    "source_type": "discussion",
+    "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
+    "summary": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
+    "url": "https://www.bbc.com/news/articles/cqgk5e2j0gg8o",
+    "canonical_url": "https://www.bbc.com/news/articles/cqgk5e2j0gg8o",
+    "published_at": "2026-09-15T13:41:28Z",
+    "tags": [],
+    "authors": [
+      "Betelbuddy"
+    ],
+    "metadata": {
+      "hn_comments": 138,
+      "hn_id": "49712409",
+      "hn_score": 65,
+      "host": "www.bbc.com"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "hn_discussion",
+    "source_name": "Hacker News",
+    "source_role": "hn_discussion",
+    "source_type": "discussion",
+    "title": "What we have learned at OpenShell applying formal methods to control AI agents",
+    "summary": "What we have learned at OpenShell applying formal methods to control AI agents",
+    "url": "https://nvidia.github.io/OpenShell-Research/dev-notes/posts/2026-09-10-learning-formal-methods-agent-policy-prover",
+    "canonical_url": "https://nvidia.github.io/OpenShell-Research/dev-notes/posts/2026-09-10-learning-formal-methods-agent-policy-prover",
+    "published_at": "2026-09-15T14:40:05Z",
+    "tags": [],
+    "authors": [
+      "alexwatson405"
+    ],
+    "metadata": {
+      "hn_comments": 11,
+      "hn_id": "49713261",
+      "hn_score": 40,
+      "host": "nvidia.github.io"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "hn_discussion",
+    "source_name": "Hacker News",
+    "source_role": "hn_discussion",
+    "source_type": "discussion",
+    "title": "Show HN: Pizza Bot – An inbox for AI agents that work in the background",
+    "summary": "Show HN: Pizza Bot – An inbox for AI agents that work in the background",
+    "url": "https://github.com/pizza-bot-app/pizza-bot",
+    "canonical_url": "https://github.com/pizza-bot-app/pizza-bot",
+    "published_at": "2026-09-15T15:20:26Z",
+    "tags": [],
+    "authors": [
+      "jd_"
+    ],
+    "metadata": {
+      "hn_comments": 37,
+      "hn_id": "49713894",
+      "hn_score": 61,
+      "host": "github.com"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "hn_discussion",
+    "source_name": "Hacker News",
+    "source_role": "hn_discussion",
+    "source_type": "discussion",
+    "title": "Cartesian – AI 3D Modeling for Design",
+    "summary": "Cartesian – AI 3D Modeling for Design",
+    "url": "https://www.formas.ai/cartesian",
+    "canonical_url": "https://www.formas.ai/cartesian",
+    "published_at": "2026-09-15T15:26:45Z",
+    "tags": [],
+    "authors": [
+      "eustoria"
+    ],
+    "metadata": {
+      "hn_comments": 81,
+      "hn_id": "49713999",
+      "hn_score": 116,
+      "host": "www.formas.ai"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "hn_discussion",
+    "source_name": "Hacker News",
+    "source_role": "hn_discussion",
+    "source_type": "discussion",
+    "title": "There's a 100% Chance AI Agents Are Ruining the Internet",
+    "summary": "There's a 100% Chance AI Agents Are Ruining the Internet",
+    "url": "https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet",
+    "canonical_url": "https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet",
+    "published_at": "2026-09-15T16:38:45Z",
+    "tags": [],
+    "authors": [
+      "pavel_lishin"
+    ],
+    "metadata": {
+      "hn_comments": 171,
+      "hn_id": "49715113",
+      "hn_score": 232,
+      "host": "www.404media.co"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "hn_discussion",
+    "source_name": "Hacker News",
+    "source_role": "hn_discussion",
+    "source_type": "discussion",
+    "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+    "summary": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking",
+    "canonical_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking",
+    "published_at": "2026-09-15T17:38:18Z",
+    "tags": [],
+    "authors": [
+      "leumon"
+    ],
+    "metadata": {
+      "hn_comments": 327,
+      "hn_id": "49715947",
+      "hn_score": 490,
+      "host": "blog.google"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "hn_discussion",
+    "source_name": "Hacker News",
+    "source_role": "hn_discussion",
+    "source_type": "discussion",
+    "title": "Introducing System One Models and Jev",
+    "summary": "Introducing System One Models and Jev",
+    "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+    "canonical_url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+    "published_at": "2026-09-15T19:25:03Z",
+    "tags": [],
+    "authors": [
+      "albelfio"
+    ],
+    "metadata": {
+      "hn_comments": 510,
+      "hn_id": "49717558",
+      "hn_score": 1942,
+      "host": "typesafe.ai"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "hn_discussion",
+    "source_name": "Hacker News",
+    "source_role": "hn_discussion",
+    "source_type": "discussion",
+    "title": "Learning Programming in an Age of LLMs",
+    "summary": "Learning Programming in an Age of LLMs",
+    "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms",
+    "canonical_url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms",
+    "published_at": "2026-09-16T09:12:34Z",
+    "tags": [],
+    "authors": [
+      "moneroloop2018"
+    ],
+    "metadata": {
+      "hn_comments": 195,
+      "hn_id": "49723873",
+      "hn_score": 256,
+      "host": "blog.ploeh.dk"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  }
+]

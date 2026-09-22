@@ -1,0 +1,2619 @@
+{
+  "date": "2026-09-21",
+  "generated_at": "2026-09-21T21:50:36.263515+00:00",
+  "mode": "openai",
+  "enrichment": {
+    "backend": "openai",
+    "batches": 3,
+    "batches_failed": 0,
+    "batches_llm": 3,
+    "errors": [],
+    "items": 57,
+    "items_heuristic": 17,
+    "items_llm": 40,
+    "llm_ok": true,
+    "mode_requested": "openai",
+    "path": "mixed",
+    "provider": "openai"
+  },
+  "summary": "• [Product Release] How V7 gives AI agents institutional memory — This product release surfaced across 1 independent source(s).\n• [Product Release] Building standards for the next phase of AI — This product release surfaced across 1 independent source(s).\n• [Industry Update] Amazon blocks Meta’s Muse AI agent — This other surfaced across 1 independent source(s).",
+  "source_stats": {
+    "ainews": 0,
+    "analysis_feeds": 17,
+    "github_trend": 15,
+    "hf_papers": 12,
+    "hn_discussion": 5,
+    "local_papers": 0,
+    "model_hubs": 2,
+    "official_blogs": 31,
+    "reddit": 0,
+    "roundup_sites": 15,
+    "x_ainews_twitter": 0,
+    "x_twitterapi": 0
+  },
+  "manifest": {
+    "synthesize_model": "claude-sonnet-5",
+    "synthesize_rejected": [
+      "1888a47668e1",
+      "71f3ea51af2a",
+      "c6ff4b971dfb"
+    ],
+    "synthesize_temperature": 0
+  },
+  "totals": {
+    "raw_items": 75,
+    "enriched_items": 0,
+    "stories": 0,
+    "featured": 3,
+    "watchlist": 0,
+    "category_topics": 14,
+    "long_tail_topics": 8,
+    "paper_spotlight_items": 6
+  },
+  "costs": {
+    "prompt": 0.0,
+    "completion": 0.0,
+    "total": 0.0
+  },
+  "usage": {
+    "llm": {
+      "provider": "openai",
+      "backend": "openai",
+      "billing_model": "quota",
+      "screen_model": "gpt-5.6",
+      "summary_model": "gpt-5.6",
+      "requests": 0,
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0,
+      "prompt_cost": 0.0,
+      "completion_cost": 0.0,
+      "total_cost": 0.0
+    },
+    "external": {
+      "ainews": {
+        "provider": "AINews RSS",
+        "billing_model": "free",
+        "requests": 0,
+        "items": 0,
+        "estimated_cost": 0.0,
+        "cache_hit": true
+      },
+      "analysis_feeds": {
+        "provider": "Analysis RSS feeds",
+        "billing_model": "free",
+        "requests": 0,
+        "items": 17,
+        "estimated_cost": 0.0,
+        "cache_hit": true
+      },
+      "github_trend": {
+        "provider": "GitHub API",
+        "billing_model": "free",
+        "requests": 0,
+        "items": 15,
+        "estimated_cost": 0.0,
+        "cache_hit": true
+      },
+      "hf_papers": {
+        "provider": "Hugging Face",
+        "billing_model": "free",
+        "requests": 0,
+        "items": 12,
+        "estimated_cost": 0.0,
+        "cache_hit": true
+      },
+      "hn_discussion": {
+        "provider": "Hacker News API",
+        "billing_model": "free",
+        "requests": 0,
+        "items": 5,
+        "estimated_cost": 0.0,
+        "cache_hit": true
+      },
+      "local_papers": {
+        "provider": "Local cache",
+        "billing_model": "local",
+        "requests": 0,
+        "items": 0,
+        "estimated_cost": 0.0,
+        "cache_hit": true
+      },
+      "model_hubs": {
+        "provider": "Hugging Face model index",
+        "billing_model": "free",
+        "requests": 0,
+        "items": 2,
+        "estimated_cost": 0.0,
+        "cache_hit": true
+      },
+      "official_blogs": {
+        "provider": "Official blogs",
+        "billing_model": "free",
+        "requests": 0,
+        "items": 31,
+        "estimated_cost": 0.0,
+        "cache_hit": true
+      },
+      "reddit": {
+        "provider": "Reddit JSON API",
+        "billing_model": "free",
+        "requests": 0,
+        "items": 0,
+        "estimated_cost": 0.0,
+        "cache_hit": true
+      },
+      "roundup_sites": {
+        "provider": "Roundup sites",
+        "billing_model": "free",
+        "requests": 0,
+        "items": 15,
+        "estimated_cost": 0.0,
+        "cache_hit": true
+      },
+      "x_ainews_twitter": {
+        "provider": "AINews Twitter recap",
+        "billing_model": "free",
+        "requests": 0,
+        "items": 0,
+        "estimated_cost": 0.0,
+        "cache_hit": true
+      },
+      "x_twitterapi": {
+        "provider": "twitterapi.io",
+        "billing_model": "metered",
+        "requests": 0,
+        "items": 0,
+        "estimated_cost": 0.0,
+        "cache_hit": true
+      }
+    },
+    "summary": {
+      "external_requests": 0,
+      "x_requests": 0,
+      "estimated_external_cost": 0.0
+    }
+  },
+  "top_topics": [
+    {
+      "ACTIONABILITY": 4.0,
+      "ARTIFACT_BOOST": 0.5,
+      "CONFIDENCE": 5.929,
+      "CROSS_SOURCE_RESONANCE": 1.5,
+      "DISPLAY_PRIORITY": 7.198,
+      "ENGINEERING_PENALTY": 0.0,
+      "EVIDENCE_STRENGTH": 5.6,
+      "FINAL_SCORE": 8.565,
+      "FRONTIERNESS": 9.282,
+      "HEADLINE": "How V7 gives AI agents institutional memory",
+      "HEAT": 3,
+      "HYPE_PENALTY": 0.3,
+      "IMPORTANCE": 6,
+      "KEEP_IN_DAILY_HOTSPOTS": true,
+      "KEY_TAKEAWAYS": [
+        "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work."
+      ],
+      "LLM_STATUS": "featured",
+      "OCCURRENCE_SCORE": 2.95,
+      "PRIMARY_CATEGORY": "Product Release",
+      "QUALITY": 8,
+      "SECONDARY_CATEGORIES": [],
+      "SHORT_COMMENT": " ",
+      "SUBSTANCE_PENALTY": 0.0,
+      "TECHNICAL_DEPTH": 6.282,
+      "TOPIC_ID": "1888a47668e1",
+      "WATCHLIST": false,
+      "WHY_IT_MATTERS": "This product release surfaced across 1 independent source(s).",
+      "cluster_id": "1888a47668e1",
+      "event_type": "product_release",
+      "items": [
+        {
+          "authors": [],
+          "canonical_url": "https://openai.com/index/v7",
+          "metadata": {
+            "is_official": true,
+            "publisher": "OpenAI News"
+          },
+          "provenance": "",
+          "published_at": "Mon, 21 Sep 2026 00:00:00 GMT",
+          "source_id": "openai_news",
+          "source_name": "OpenAI News",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+          "tags": [],
+          "title": "How V7 gives AI agents institutional memory",
+          "url": "https://openai.com/index/v7",
+          "verified_first_date": "Mon, 21 Sep 2026 00:00:00 GMT"
+        }
+      ],
+      "published_at": "Mon, 21 Sep 2026 00:00:00 GMT",
+      "source_ids": [
+        "openai_news"
+      ],
+      "source_names": [
+        "OpenAI News"
+      ],
+      "source_roles": [
+        "official_news"
+      ],
+      "source_types": [
+        "official_blog"
+      ],
+      "summary": " ",
+      "tags": [],
+      "title": "How V7 gives AI agents institutional memory"
+    },
+    {
+      "ACTIONABILITY": 4.0,
+      "ARTIFACT_BOOST": 0.5,
+      "CONFIDENCE": 5.929,
+      "CROSS_SOURCE_RESONANCE": 1.5,
+      "DISPLAY_PRIORITY": 7.198,
+      "ENGINEERING_PENALTY": 0.0,
+      "EVIDENCE_STRENGTH": 5.6,
+      "FINAL_SCORE": 8.565,
+      "FRONTIERNESS": 9.282,
+      "HEADLINE": "Building standards for the next phase of AI",
+      "HEAT": 3,
+      "HYPE_PENALTY": 0.3,
+      "IMPORTANCE": 6,
+      "KEEP_IN_DAILY_HOTSPOTS": true,
+      "KEY_TAKEAWAYS": [
+        "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety."
+      ],
+      "LLM_STATUS": "featured",
+      "OCCURRENCE_SCORE": 2.95,
+      "PRIMARY_CATEGORY": "Product Release",
+      "QUALITY": 8,
+      "SECONDARY_CATEGORIES": [],
+      "SHORT_COMMENT": " ",
+      "SUBSTANCE_PENALTY": 0.0,
+      "TECHNICAL_DEPTH": 6.282,
+      "TOPIC_ID": "71f3ea51af2a",
+      "WATCHLIST": false,
+      "WHY_IT_MATTERS": "This product release surfaced across 1 independent source(s).",
+      "cluster_id": "71f3ea51af2a",
+      "event_type": "product_release",
+      "items": [
+        {
+          "authors": [],
+          "canonical_url": "https://openai.com/index/building-standards-next-phase-ai",
+          "metadata": {
+            "is_official": true,
+            "publisher": "OpenAI News"
+          },
+          "provenance": "",
+          "published_at": "Mon, 21 Sep 2026 10:00:00 GMT",
+          "source_id": "openai_news",
+          "source_name": "OpenAI News",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
+          "tags": [],
+          "title": "Building standards for the next phase of AI",
+          "url": "https://openai.com/index/building-standards-next-phase-ai",
+          "verified_first_date": "Mon, 21 Sep 2026 10:00:00 GMT"
+        }
+      ],
+      "published_at": "Mon, 21 Sep 2026 10:00:00 GMT",
+      "source_ids": [
+        "openai_news"
+      ],
+      "source_names": [
+        "OpenAI News"
+      ],
+      "source_roles": [
+        "official_news"
+      ],
+      "source_types": [
+        "official_blog"
+      ],
+      "summary": " ",
+      "tags": [],
+      "title": "Building standards for the next phase of AI"
+    },
+    {
+      "ACTIONABILITY": 2.0,
+      "ARTIFACT_BOOST": 0.0,
+      "CONFIDENCE": 4.302,
+      "CROSS_SOURCE_RESONANCE": 1.5,
+      "DISPLAY_PRIORITY": 5.717,
+      "ENGINEERING_PENALTY": 0.0,
+      "EVIDENCE_STRENGTH": 4.1,
+      "FINAL_SCORE": 6.139,
+      "FRONTIERNESS": 6.069,
+      "HEADLINE": "Amazon blocks Meta’s Muse AI agent",
+      "HEAT": 3,
+      "HYPE_PENALTY": 0.3,
+      "IMPORTANCE": 6,
+      "KEEP_IN_DAILY_HOTSPOTS": true,
+      "KEY_TAKEAWAYS": [
+        "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for Muse users saying that \"continued access by an u..."
+      ],
+      "LLM_STATUS": "featured",
+      "OCCURRENCE_SCORE": 2.95,
+      "PRIMARY_CATEGORY": "Industry Update",
+      "QUALITY": 6,
+      "SECONDARY_CATEGORIES": [],
+      "SHORT_COMMENT": " ",
+      "SUBSTANCE_PENALTY": 0.0,
+      "TECHNICAL_DEPTH": 5.069,
+      "TOPIC_ID": "c6ff4b971dfb",
+      "WATCHLIST": false,
+      "WHY_IT_MATTERS": "This other surfaced across 1 independent source(s).",
+      "cluster_id": "c6ff4b971dfb",
+      "event_type": "other",
+      "items": [
+        {
+          "authors": [],
+          "canonical_url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
+          "metadata": {
+            "feed_id": "theverge_ai",
+            "feed_source": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+            "signal_tier": "trusted_analysis",
+            "source_quality": 1.3
+          },
+          "provenance": "",
+          "published_at": "2026-09-21T05:21:47-04:00",
+          "source_id": "analysis_theverge_ai",
+          "source_name": "The Verge AI",
+          "source_role": "editorial_depth",
+          "source_type": "blog_analysis",
+          "summary": "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for Muse users saying that \"continued access by an unauthorized AI agent violates Amazon's Conditions of Use, to which our customers have agreed.\" According to GeekWire, Meta didn't notify Amazon that [&#8230;]",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "title": "Amazon blocks Meta’s Muse AI agent",
+          "url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
+          "verified_first_date": "2026-09-21T05:21:47-04:00"
+        }
+      ],
+      "published_at": "2026-09-21T05:21:47-04:00",
+      "source_ids": [
+        "analysis_theverge_ai"
+      ],
+      "source_names": [
+        "The Verge AI"
+      ],
+      "source_roles": [
+        "editorial_depth"
+      ],
+      "source_types": [
+        "blog_analysis"
+      ],
+      "summary": " ",
+      "tags": [
+        "analysis",
+        "deep-read"
+      ],
+      "title": "Amazon blocks Meta’s Muse AI agent"
+    }
+  ],
+  "featured_topics": [
+    {
+      "ACTIONABILITY": 4.0,
+      "ARTIFACT_BOOST": 0.5,
+      "CONFIDENCE": 5.929,
+      "CROSS_SOURCE_RESONANCE": 1.5,
+      "DISPLAY_PRIORITY": 7.198,
+      "ENGINEERING_PENALTY": 0.0,
+      "EVIDENCE_STRENGTH": 5.6,
+      "FINAL_SCORE": 8.565,
+      "FRONTIERNESS": 9.282,
+      "HEADLINE": "How V7 gives AI agents institutional memory",
+      "HEAT": 3,
+      "HYPE_PENALTY": 0.3,
+      "IMPORTANCE": 6,
+      "KEEP_IN_DAILY_HOTSPOTS": true,
+      "KEY_TAKEAWAYS": [
+        "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work."
+      ],
+      "LLM_STATUS": "featured",
+      "OCCURRENCE_SCORE": 2.95,
+      "PRIMARY_CATEGORY": "Product Release",
+      "QUALITY": 8,
+      "SECONDARY_CATEGORIES": [],
+      "SHORT_COMMENT": " ",
+      "SUBSTANCE_PENALTY": 0.0,
+      "TECHNICAL_DEPTH": 6.282,
+      "TOPIC_ID": "1888a47668e1",
+      "WATCHLIST": false,
+      "WHY_IT_MATTERS": "This product release surfaced across 1 independent source(s).",
+      "cluster_id": "1888a47668e1",
+      "event_type": "product_release",
+      "items": [
+        {
+          "authors": [],
+          "canonical_url": "https://openai.com/index/v7",
+          "metadata": {
+            "is_official": true,
+            "publisher": "OpenAI News"
+          },
+          "provenance": "",
+          "published_at": "Mon, 21 Sep 2026 00:00:00 GMT",
+          "source_id": "openai_news",
+          "source_name": "OpenAI News",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+          "tags": [],
+          "title": "How V7 gives AI agents institutional memory",
+          "url": "https://openai.com/index/v7",
+          "verified_first_date": "Mon, 21 Sep 2026 00:00:00 GMT"
+        }
+      ],
+      "published_at": "Mon, 21 Sep 2026 00:00:00 GMT",
+      "source_ids": [
+        "openai_news"
+      ],
+      "source_names": [
+        "OpenAI News"
+      ],
+      "source_roles": [
+        "official_news"
+      ],
+      "source_types": [
+        "official_blog"
+      ],
+      "summary": " ",
+      "tags": [],
+      "title": "How V7 gives AI agents institutional memory"
+    },
+    {
+      "ACTIONABILITY": 4.0,
+      "ARTIFACT_BOOST": 0.5,
+      "CONFIDENCE": 5.929,
+      "CROSS_SOURCE_RESONANCE": 1.5,
+      "DISPLAY_PRIORITY": 7.198,
+      "ENGINEERING_PENALTY": 0.0,
+      "EVIDENCE_STRENGTH": 5.6,
+      "FINAL_SCORE": 8.565,
+      "FRONTIERNESS": 9.282,
+      "HEADLINE": "Building standards for the next phase of AI",
+      "HEAT": 3,
+      "HYPE_PENALTY": 0.3,
+      "IMPORTANCE": 6,
+      "KEEP_IN_DAILY_HOTSPOTS": true,
+      "KEY_TAKEAWAYS": [
+        "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety."
+      ],
+      "LLM_STATUS": "featured",
+      "OCCURRENCE_SCORE": 2.95,
+      "PRIMARY_CATEGORY": "Product Release",
+      "QUALITY": 8,
+      "SECONDARY_CATEGORIES": [],
+      "SHORT_COMMENT": " ",
+      "SUBSTANCE_PENALTY": 0.0,
+      "TECHNICAL_DEPTH": 6.282,
+      "TOPIC_ID": "71f3ea51af2a",
+      "WATCHLIST": false,
+      "WHY_IT_MATTERS": "This product release surfaced across 1 independent source(s).",
+      "cluster_id": "71f3ea51af2a",
+      "event_type": "product_release",
+      "items": [
+        {
+          "authors": [],
+          "canonical_url": "https://openai.com/index/building-standards-next-phase-ai",
+          "metadata": {
+            "is_official": true,
+            "publisher": "OpenAI News"
+          },
+          "provenance": "",
+          "published_at": "Mon, 21 Sep 2026 10:00:00 GMT",
+          "source_id": "openai_news",
+          "source_name": "OpenAI News",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
+          "tags": [],
+          "title": "Building standards for the next phase of AI",
+          "url": "https://openai.com/index/building-standards-next-phase-ai",
+          "verified_first_date": "Mon, 21 Sep 2026 10:00:00 GMT"
+        }
+      ],
+      "published_at": "Mon, 21 Sep 2026 10:00:00 GMT",
+      "source_ids": [
+        "openai_news"
+      ],
+      "source_names": [
+        "OpenAI News"
+      ],
+      "source_roles": [
+        "official_news"
+      ],
+      "source_types": [
+        "official_blog"
+      ],
+      "summary": " ",
+      "tags": [],
+      "title": "Building standards for the next phase of AI"
+    },
+    {
+      "ACTIONABILITY": 2.0,
+      "ARTIFACT_BOOST": 0.0,
+      "CONFIDENCE": 4.302,
+      "CROSS_SOURCE_RESONANCE": 1.5,
+      "DISPLAY_PRIORITY": 5.717,
+      "ENGINEERING_PENALTY": 0.0,
+      "EVIDENCE_STRENGTH": 4.1,
+      "FINAL_SCORE": 6.139,
+      "FRONTIERNESS": 6.069,
+      "HEADLINE": "Amazon blocks Meta’s Muse AI agent",
+      "HEAT": 3,
+      "HYPE_PENALTY": 0.3,
+      "IMPORTANCE": 6,
+      "KEEP_IN_DAILY_HOTSPOTS": true,
+      "KEY_TAKEAWAYS": [
+        "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for Muse users saying that \"continued access by an u..."
+      ],
+      "LLM_STATUS": "featured",
+      "OCCURRENCE_SCORE": 2.95,
+      "PRIMARY_CATEGORY": "Industry Update",
+      "QUALITY": 6,
+      "SECONDARY_CATEGORIES": [],
+      "SHORT_COMMENT": " ",
+      "SUBSTANCE_PENALTY": 0.0,
+      "TECHNICAL_DEPTH": 5.069,
+      "TOPIC_ID": "c6ff4b971dfb",
+      "WATCHLIST": false,
+      "WHY_IT_MATTERS": "This other surfaced across 1 independent source(s).",
+      "cluster_id": "c6ff4b971dfb",
+      "event_type": "other",
+      "items": [
+        {
+          "authors": [],
+          "canonical_url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
+          "metadata": {
+            "feed_id": "theverge_ai",
+            "feed_source": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+            "signal_tier": "trusted_analysis",
+            "source_quality": 1.3
+          },
+          "provenance": "",
+          "published_at": "2026-09-21T05:21:47-04:00",
+          "source_id": "analysis_theverge_ai",
+          "source_name": "The Verge AI",
+          "source_role": "editorial_depth",
+          "source_type": "blog_analysis",
+          "summary": "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for Muse users saying that \"continued access by an unauthorized AI agent violates Amazon's Conditions of Use, to which our customers have agreed.\" According to GeekWire, Meta didn't notify Amazon that [&#8230;]",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "title": "Amazon blocks Meta’s Muse AI agent",
+          "url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
+          "verified_first_date": "2026-09-21T05:21:47-04:00"
+        }
+      ],
+      "published_at": "2026-09-21T05:21:47-04:00",
+      "source_ids": [
+        "analysis_theverge_ai"
+      ],
+      "source_names": [
+        "The Verge AI"
+      ],
+      "source_roles": [
+        "editorial_depth"
+      ],
+      "source_types": [
+        "blog_analysis"
+      ],
+      "summary": " ",
+      "tags": [
+        "analysis",
+        "deep-read"
+      ],
+      "title": "Amazon blocks Meta’s Muse AI agent"
+    }
+  ],
+  "category_sections": [
+    {
+      "category": "Product Release",
+      "total_candidates": 3,
+      "topics": [
+        {
+          "ACTIONABILITY": 4.0,
+          "ARTIFACT_BOOST": 0.5,
+          "CONFIDENCE": 6.21,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 6.619,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 5.6,
+          "FINAL_SCORE": 9.5,
+          "FRONTIERNESS": 9.75,
+          "HEADLINE": "Designing Grok Bot for a world of persistent agents",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 10,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Product Release",
+          "QUALITY": 9,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": " ",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 6.75,
+          "TOPIC_ID": "6de1edc87d66",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This product release surfaced across 1 independent source(s).",
+          "cluster_id": "6de1edc87d66",
+          "event_type": "product_release",
+          "items": [
+            {
+              "authors": [],
+              "canonical_url": "https://x.ai/news/designing-grok-bot",
+              "metadata": {
+                "is_official": true,
+                "publisher": "xAI Blog"
+              },
+              "provenance": "",
+              "published_at": "2026-09-21T00:00:00+00:00",
+              "source_id": "xai_blog",
+              "source_name": "xAI Blog",
+              "source_role": "official_news",
+              "source_type": "official_blog",
+              "summary": "Sep 21, 2026",
+              "tags": [],
+              "title": "Designing Grok Bot for a world of persistent agents",
+              "url": "https://x.ai/news/designing-grok-bot",
+              "verified_first_date": "2026-09-21T00:00:00+00:00"
+            }
+          ],
+          "published_at": "2026-09-21T00:00:00+00:00",
+          "source_ids": [
+            "xai_blog"
+          ],
+          "source_names": [
+            "xAI Blog"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "official_blog"
+          ],
+          "summary": " ",
+          "tags": [],
+          "title": "Designing Grok Bot for a world of persistent agents"
+        },
+        {
+          "ACTIONABILITY": 4.0,
+          "ARTIFACT_BOOST": 0.5,
+          "CONFIDENCE": 5.859,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 6.093,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 5.6,
+          "FINAL_SCORE": 8.331,
+          "FRONTIERNESS": 9.165,
+          "HEADLINE": "Expanding OpenAI Academy with new learning paths",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 5,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Product Release",
+          "QUALITY": 7,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": " ",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 6.165,
+          "TOPIC_ID": "48b17bbce560",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This product release surfaced across 1 independent source(s).",
+          "cluster_id": "48b17bbce560",
+          "event_type": "product_release",
+          "items": [
+            {
+              "authors": [],
+              "canonical_url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+              "metadata": {
+                "is_official": true,
+                "publisher": "OpenAI News"
+              },
+              "provenance": "",
+              "published_at": "Mon, 21 Sep 2026 07:00:00 GMT",
+              "source_id": "openai_news",
+              "source_name": "OpenAI News",
+              "source_role": "official_news",
+              "source_type": "official_blog",
+              "summary": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
+              "tags": [],
+              "title": "Expanding OpenAI Academy with new learning paths",
+              "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+              "verified_first_date": "Mon, 21 Sep 2026 07:00:00 GMT"
+            }
+          ],
+          "published_at": "Mon, 21 Sep 2026 07:00:00 GMT",
+          "source_ids": [
+            "openai_news"
+          ],
+          "source_names": [
+            "OpenAI News"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "official_blog"
+          ],
+          "summary": " ",
+          "tags": [],
+          "title": "Expanding OpenAI Academy with new learning paths"
+        },
+        {
+          "ACTIONABILITY": 4.0,
+          "ARTIFACT_BOOST": 0.5,
+          "CONFIDENCE": 4.867,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 4.604,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 5.6,
+          "FINAL_SCORE": 5.023,
+          "FRONTIERNESS": 7.511,
+          "HEADLINE": "Your model already knows it's wrong. Asking costs 0.06 seconds and zero tokens.",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 5,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Product Release",
+          "QUALITY": 5,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": " ",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 4.511,
+          "TOPIC_ID": "5268eb4dbe72",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This product release surfaced across 1 independent source(s).",
+          "cluster_id": "5268eb4dbe72",
+          "event_type": "product_release",
+          "items": [
+            {
+              "authors": [],
+              "canonical_url": "https://huggingface.co/blog/FINAL-Bench/ztc",
+              "metadata": {
+                "is_official": true,
+                "publisher": "Hugging Face Blog"
+              },
+              "provenance": "",
+              "published_at": "2026-09-20T16:31:42+00:00",
+              "source_id": "huggingface_blog",
+              "source_name": "Hugging Face Blog",
+              "source_role": "official_news",
+              "source_type": "official_blog",
+              "summary": "",
+              "tags": [],
+              "title": "Your model already knows it's wrong. Asking costs 0.06 seconds and zero tokens.",
+              "url": "https://huggingface.co/blog/FINAL-Bench/ztc",
+              "verified_first_date": "2026-09-20T16:31:42+00:00"
+            }
+          ],
+          "published_at": "2026-09-20T16:31:42+00:00",
+          "source_ids": [
+            "huggingface_blog"
+          ],
+          "source_names": [
+            "Hugging Face Blog"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "official_blog"
+          ],
+          "summary": " ",
+          "tags": [],
+          "title": "Your model already knows it's wrong. Asking costs 0.06 seconds and zero tokens."
+        }
+      ]
+    },
+    {
+      "category": "Market Signal",
+      "total_candidates": 1,
+      "topics": [
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.5,
+          "CONFIDENCE": 3.964,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 4.21,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 5.013,
+          "FRONTIERNESS": 5.506,
+          "HEADLINE": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 5,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Market Signal",
+          "QUALITY": 5,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": " ",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 4.506,
+          "TOPIC_ID": "0ffe4f29ca33",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This funding surfaced across 1 independent source(s).",
+          "cluster_id": "0ffe4f29ca33",
+          "event_type": "funding",
+          "items": [
+            {
+              "authors": [],
+              "canonical_url": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
+              "metadata": {
+                "feed_id": "theverge_ai",
+                "feed_source": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+                "signal_tier": "trusted_analysis",
+                "source_quality": 1.3
+              },
+              "provenance": "",
+              "published_at": "2026-09-20T08:00:00-04:00",
+              "source_id": "analysis_theverge_ai",
+              "source_name": "The Verge AI",
+              "source_role": "editorial_depth",
+              "source_type": "blog_analysis",
+              "summary": "Before recent high-profile hacks raised the specter of AI possibly \"killing all humans,\" our energy systems were already disturbingly vulnerable to cyberattack - and the risk is growing. \"We were always prey. We were just kind of surviving at the appetite of our predators,\" Joshua Corman, executive in residence for public safety and resilience at [&#8230;]",
+              "tags": [
+                "analysis",
+                "deep-read"
+              ],
+              "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
+              "url": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
+              "verified_first_date": "2026-09-20T08:00:00-04:00"
+            }
+          ],
+          "published_at": "2026-09-20T08:00:00-04:00",
+          "source_ids": [
+            "analysis_theverge_ai"
+          ],
+          "source_names": [
+            "The Verge AI"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "summary": " ",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems"
+        }
+      ]
+    },
+    {
+      "category": "Industry Update",
+      "total_candidates": 15,
+      "topics": [
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 4.302,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 4.717,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 6.139,
+          "FRONTIERNESS": 6.069,
+          "HEADLINE": "GPT-6 Astra开进机器人身体！清华联手无问芯穹等开源RPent",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 6,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Industry Update",
+          "QUALITY": 6,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": " ",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 5.069,
+          "TOPIC_ID": "f80213128774",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This other surfaced across 1 independent source(s).",
+          "cluster_id": "f80213128774",
+          "event_type": "other",
+          "items": [
+            {
+              "authors": [],
+              "canonical_url": "https://www.qbitai.com/2026/09/493218.html",
+              "metadata": {
+                "feed_id": "qbitai",
+                "feed_source": "https://www.qbitai.com/feed",
+                "signal_tier": "trusted_analysis",
+                "source_quality": 1.3
+              },
+              "provenance": "",
+              "published_at": "Mon, 21 Sep 2026 06:22:37 +0000",
+              "source_id": "analysis_qbitai",
+              "source_name": "量子位 (QbitAI)",
+              "source_role": "editorial_depth",
+              "source_type": "blog_analysis",
+              "summary": "在物理世界真正干活的具身智能体",
+              "tags": [
+                "analysis",
+                "deep-read"
+              ],
+              "title": "GPT-6 Astra开进机器人身体！清华联手无问芯穹等开源RPent",
+              "url": "https://www.qbitai.com/2026/09/493218.html",
+              "verified_first_date": "Mon, 21 Sep 2026 06:22:37 +0000"
+            }
+          ],
+          "published_at": "Mon, 21 Sep 2026 06:22:37 +0000",
+          "source_ids": [
+            "analysis_qbitai"
+          ],
+          "source_names": [
+            "量子位 (QbitAI)"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "summary": " ",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "title": "GPT-6 Astra开进机器人身体！清华联手无问芯穹等开源RPent"
+        },
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 4.274,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 4.675,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 6.046,
+          "FRONTIERNESS": 6.023,
+          "HEADLINE": "啊啊啊GPT-6 Astra这么不安全！这次马斯克都瘫坐了",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 5,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Industry Update",
+          "QUALITY": 5,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": " ",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 5.023,
+          "TOPIC_ID": "0f7844c0e6a2",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This other surfaced across 1 independent source(s).",
+          "cluster_id": "0f7844c0e6a2",
+          "event_type": "other",
+          "items": [
+            {
+              "authors": [],
+              "canonical_url": "https://www.qbitai.com/2026/09/493241.html",
+              "metadata": {
+                "feed_id": "qbitai",
+                "feed_source": "https://www.qbitai.com/feed",
+                "signal_tier": "trusted_analysis",
+                "source_quality": 1.3
+              },
+              "provenance": "",
+              "published_at": "Mon, 21 Sep 2026 08:21:55 +0000",
+              "source_id": "analysis_qbitai",
+              "source_name": "量子位 (QbitAI)",
+              "source_role": "editorial_depth",
+              "source_type": "blog_analysis",
+              "summary": "97%尝试危险行为",
+              "tags": [
+                "analysis",
+                "deep-read"
+              ],
+              "title": "啊啊啊GPT-6 Astra这么不安全！这次马斯克都瘫坐了",
+              "url": "https://www.qbitai.com/2026/09/493241.html",
+              "verified_first_date": "Mon, 21 Sep 2026 08:21:55 +0000"
+            }
+          ],
+          "published_at": "Mon, 21 Sep 2026 08:21:55 +0000",
+          "source_ids": [
+            "analysis_qbitai"
+          ],
+          "source_names": [
+            "量子位 (QbitAI)"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "summary": " ",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "title": "啊啊啊GPT-6 Astra这么不安全！这次马斯克都瘫坐了"
+        },
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 4.274,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 4.675,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 6.046,
+          "FRONTIERNESS": 6.023,
+          "HEADLINE": "长三角安全人工智能安徽省实验室发布星界、星驭、星鉴三大AI安全解决方案",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 5,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Industry Update",
+          "QUALITY": 5,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": " ",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 5.023,
+          "TOPIC_ID": "baafbb0770d3",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This other surfaced across 1 independent source(s).",
+          "cluster_id": "baafbb0770d3",
+          "event_type": "other",
+          "items": [
+            {
+              "authors": [],
+              "canonical_url": "https://www.qbitai.com/2026/09/493235.html",
+              "metadata": {
+                "feed_id": "qbitai",
+                "feed_source": "https://www.qbitai.com/feed",
+                "signal_tier": "trusted_analysis",
+                "source_quality": 1.3
+              },
+              "provenance": "",
+              "published_at": "Mon, 21 Sep 2026 07:52:46 +0000",
+              "source_id": "analysis_qbitai",
+              "source_name": "量子位 (QbitAI)",
+              "source_role": "editorial_depth",
+              "source_type": "blog_analysis",
+              "summary": "9月19日，第一届中国网络空间安全大会（CCSC 2026）的高水平专题论坛在安徽合肥正式举办。",
+              "tags": [
+                "analysis",
+                "deep-read"
+              ],
+              "title": "长三角安全人工智能安徽省实验室发布星界、星驭、星鉴三大AI安全解决方案",
+              "url": "https://www.qbitai.com/2026/09/493235.html",
+              "verified_first_date": "Mon, 21 Sep 2026 07:52:46 +0000"
+            }
+          ],
+          "published_at": "Mon, 21 Sep 2026 07:52:46 +0000",
+          "source_ids": [
+            "analysis_qbitai"
+          ],
+          "source_names": [
+            "量子位 (QbitAI)"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "summary": " ",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "title": "长三角安全人工智能安徽省实验室发布星界、星驭、星鉴三大AI安全解决方案"
+        },
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 4.274,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 4.675,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 6.046,
+          "FRONTIERNESS": 6.023,
+          "HEADLINE": "国产数据库跑出AI新能力！OceanBase登顶国际Data Agent榜单",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 5,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Industry Update",
+          "QUALITY": 5,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": " ",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 5.023,
+          "TOPIC_ID": "dcec2cbafd31",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This other surfaced across 1 independent source(s).",
+          "cluster_id": "dcec2cbafd31",
+          "event_type": "other",
+          "items": [
+            {
+              "authors": [],
+              "canonical_url": "https://www.qbitai.com/2026/09/493231.html",
+              "metadata": {
+                "feed_id": "qbitai",
+                "feed_source": "https://www.qbitai.com/feed",
+                "signal_tier": "trusted_analysis",
+                "source_quality": 1.3
+              },
+              "provenance": "",
+              "published_at": "Mon, 21 Sep 2026 07:31:26 +0000",
+              "source_id": "analysis_qbitai",
+              "source_name": "量子位 (QbitAI)",
+              "source_role": "editorial_depth",
+              "source_type": "blog_analysis",
+              "summary": "OceanBase团队提交的Data Agent方案登顶国际数据智能体基准Data Agent Benchmark",
+              "tags": [
+                "analysis",
+                "deep-read"
+              ],
+              "title": "国产数据库跑出AI新能力！OceanBase登顶国际Data Agent榜单",
+              "url": "https://www.qbitai.com/2026/09/493231.html",
+              "verified_first_date": "Mon, 21 Sep 2026 07:31:26 +0000"
+            }
+          ],
+          "published_at": "Mon, 21 Sep 2026 07:31:26 +0000",
+          "source_ids": [
+            "analysis_qbitai"
+          ],
+          "source_names": [
+            "量子位 (QbitAI)"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "summary": " ",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "title": "国产数据库跑出AI新能力！OceanBase登顶国际Data Agent榜单"
+        },
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 4.251,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 4.641,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 5.971,
+          "FRONTIERNESS": 5.986,
+          "HEADLINE": "Gemini broke into 3 real companies during a safety test",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 7,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Industry Update",
+          "QUALITY": 5,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": " ",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 4.986,
+          "TOPIC_ID": "e2841eaa0500",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This other surfaced across 1 independent source(s).",
+          "cluster_id": "e2841eaa0500",
+          "event_type": "other",
+          "items": [
+            {
+              "authors": [],
+              "canonical_url": "https://www.theneurondaily.com/p/gemini-broke-into-3-real-companies-during-a-safety-test",
+              "metadata": {
+                "roundup_site": "The Neuron"
+              },
+              "provenance": "",
+              "published_at": "2026-09-21T09:45:00+00:00",
+              "source_id": "the_neuron",
+              "source_name": "The Neuron",
+              "source_role": "headline_consensus",
+              "source_type": "roundup",
+              "summary": "",
+              "tags": [],
+              "title": "Gemini broke into 3 real companies during a safety test",
+              "url": "https://www.theneurondaily.com/p/gemini-broke-into-3-real-companies-during-a-safety-test",
+              "verified_first_date": "2026-09-21T09:45:00+00:00"
+            }
+          ],
+          "published_at": "2026-09-21T09:45:00+00:00",
+          "source_ids": [
+            "the_neuron"
+          ],
+          "source_names": [
+            "The Neuron"
+          ],
+          "source_roles": [
+            "headline_consensus"
+          ],
+          "source_types": [
+            "roundup"
+          ],
+          "summary": " ",
+          "tags": [],
+          "title": "Gemini broke into 3 real companies during a safety test"
+        }
+      ]
+    },
+    {
+      "category": "Research",
+      "total_candidates": 11,
+      "topics": [
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 3.163,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 3.008,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 2.343,
+          "FRONTIERNESS": 5.171,
+          "HEADLINE": "IntBMoE: Integrating Block-Level Conditioning into Expert Composition for Full-Participation Mixture-of-Experts",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 6,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Research",
+          "QUALITY": 3,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": " ",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 3.171,
+          "TOPIC_ID": "1ca0cbb77f83",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This research paper surfaced across 1 independent source(s).",
+          "cluster_id": "1ca0cbb77f83",
+          "event_type": "research_paper",
+          "items": [
+            {
+              "authors": [
+                "Ran Cheng",
+                "Longfei Xu",
+                "Zheng Liu",
+                "Kaikui Liu",
+                "Xiangxiang Chu"
+              ],
+              "canonical_url": "https://arxiv.org/abs/2609.21346",
+              "metadata": {
+                "ai_summary": "",
+                "arxiv_id": "2609.21346",
+                "daily_score": 33,
+                "github_url": null,
+                "hf_url": "https://huggingface.co/papers/2609.21346",
+                "novelty": 0,
+                "relevance": 0,
+                "spotlight_comment": "Mixture-of-Experts (MoE) scales capacity, but existing designs cannot set three quantities independently. For a single token, participation is how many experts contribute knowledge to its output, execution is how many are actually computed (compute cost), and materialization is how many expert-si...",
+                "spotlight_primary_kind": "daily_hot",
+                "spotlight_primary_label": "Daily Hot Papers",
+                "upvotes": 33
+              },
+              "provenance": "",
+              "published_at": "2026-09-18T00:00:00.000Z",
+              "source_id": "hf_papers",
+              "source_name": "Hugging Face Trending Papers",
+              "source_role": "paper_trending",
+              "source_type": "paper",
+              "summary": "Mixture-of-Experts (MoE) scales capacity, but existing designs cannot set three quantities independently. For a single token, participation is how many experts contribute knowledge to its output, execution is how many are actually computed (compute cost), and materialization is how many expert-sized parameter sets must be built and stored (memory cost). Sparse routing keeps execution and materialization low, but shrinks participation: for each token, only a few experts contribute. Dense output-mixing restores full participation, but its execution grows with the number of experts. Parameter-...",
+              "tags": [],
+              "title": "IntBMoE: Integrating Block-Level Conditioning into Expert Composition for Full-Participation Mixture-of-Experts",
+              "url": "https://huggingface.co/papers/2609.21346",
+              "verified_first_date": "2026-09-18T00:00:00.000Z"
+            }
+          ],
+          "published_at": "2026-09-18T00:00:00.000Z",
+          "source_ids": [
+            "hf_papers"
+          ],
+          "source_names": [
+            "Hugging Face Trending Papers"
+          ],
+          "source_roles": [
+            "paper_trending"
+          ],
+          "source_types": [
+            "paper"
+          ],
+          "summary": " ",
+          "tags": [],
+          "title": "IntBMoE: Integrating Block-Level Conditioning into Expert Composition for Full-Participation Mixture-of-Experts"
+        },
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 3.163,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 3.008,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 2.343,
+          "FRONTIERNESS": 5.171,
+          "HEADLINE": "CodeMidas: Scaling Agentic Coding RL Environments from Code Itself",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 6,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Research",
+          "QUALITY": 3,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": " ",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 3.171,
+          "TOPIC_ID": "2c2faffa73b4",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This research paper surfaced across 1 independent source(s).",
+          "cluster_id": "2c2faffa73b4",
+          "event_type": "research_paper",
+          "items": [
+            {
+              "authors": [
+                "Bowen Ye",
+                "Lei Li",
+                "Shicheng Li",
+                "Zihao Yue",
+                "Linghao Zhang",
+                "Hanglong Lv",
+                "Yuanxin Liu",
+                "Wenhan Ma",
+                "Hao Tian",
+                "Rang Li",
+                "Jinhao Dong",
+                "Yikai Zhao",
+                "Xiangwei Deng",
+                "Hailin Zhang",
+                "Liang Zhao",
+                "Qi Liu",
+                "Lingpeng Kong",
+                "Tong Yang",
+                "Fuli Luo"
+              ],
+              "canonical_url": "https://arxiv.org/abs/2609.22068",
+              "metadata": {
+                "ai_summary": "",
+                "arxiv_id": "2609.22068",
+                "daily_score": 86,
+                "github_url": null,
+                "hf_url": "https://huggingface.co/papers/2609.22068",
+                "novelty": 0,
+                "relevance": 0,
+                "spotlight_comment": "Training capable coding agents via reinforcement learning (RL) requires diverse tasks with reliable verifiers. Open-source codebases offer a rich source of such tasks, while existing methods typically rely on development artifacts such as issues and commits, limiting the range of tasks that can b...",
+                "spotlight_primary_kind": "daily_hot",
+                "spotlight_primary_label": "Daily Hot Papers",
+                "upvotes": 86
+              },
+              "provenance": "",
+              "published_at": "2026-09-18T00:00:00.000Z",
+              "source_id": "hf_papers",
+              "source_name": "Hugging Face Trending Papers",
+              "source_role": "paper_trending",
+              "source_type": "paper",
+              "summary": "Training capable coding agents via reinforcement learning (RL) requires diverse tasks with reliable verifiers. Open-source codebases offer a rich source of such tasks, while existing methods typically rely on development artifacts such as issues and commits, limiting the range of tasks that can be extracted. To better scale RL environments, we present CodeMidas, an agentic pipeline that turns implemented functionality in existing codebases into executable RL environments using source code as its only task-specific input. CodeMidas allocates agentic compute to every stage of environment cons...",
+              "tags": [],
+              "title": "CodeMidas: Scaling Agentic Coding RL Environments from Code Itself",
+              "url": "https://huggingface.co/papers/2609.22068",
+              "verified_first_date": "2026-09-18T00:00:00.000Z"
+            }
+          ],
+          "published_at": "2026-09-18T00:00:00.000Z",
+          "source_ids": [
+            "hf_papers"
+          ],
+          "source_names": [
+            "Hugging Face Trending Papers"
+          ],
+          "source_roles": [
+            "paper_trending"
+          ],
+          "source_types": [
+            "paper"
+          ],
+          "summary": " ",
+          "tags": [],
+          "title": "CodeMidas: Scaling Agentic Coding RL Environments from Code Itself"
+        },
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 3.163,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 3.008,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 2.343,
+          "FRONTIERNESS": 5.171,
+          "HEADLINE": "MintAct: A Unified Visual Agent for Digital Environments",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 6,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Research",
+          "QUALITY": 3,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": " ",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 3.171,
+          "TOPIC_ID": "2f77197d4325",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This research paper surfaced across 1 independent source(s).",
+          "cluster_id": "2f77197d4325",
+          "event_type": "research_paper",
+          "items": [
+            {
+              "authors": [
+                "Mingfei Gao",
+                "Rui Tian",
+                "Haiming Gang",
+                "Bohan Zhai",
+                "Le Zhang",
+                "Yuanzheng Gong",
+                "Di Feng",
+                "Ege Özsoy",
+                "Kaixin Ma",
+                "Vishwesh Kirthivasan",
+                "Oğuzhan Fatih Kar",
+                "Roman Bachmann",
+                "Anders Boesen Lindbo Larsen",
+                "Afshin Dehghan"
+              ],
+              "canonical_url": "https://arxiv.org/abs/2609.22083",
+              "metadata": {
+                "ai_summary": "",
+                "arxiv_id": "2609.22083",
+                "daily_score": 12,
+                "github_url": null,
+                "hf_url": "https://huggingface.co/papers/2609.22083",
+                "novelty": 0,
+                "relevance": 0,
+                "spotlight_comment": "",
+                "spotlight_primary_kind": "",
+                "spotlight_primary_label": "",
+                "upvotes": 12
+              },
+              "provenance": "",
+              "published_at": "2026-09-18T00:00:00.000Z",
+              "source_id": "hf_papers",
+              "source_name": "Hugging Face Trending Papers",
+              "source_role": "paper_trending",
+              "source_type": "paper",
+              "summary": "We present MintAct, a family of vision-language models that unifies UI grounding, multi-step navigation across mobile, desktop, and web, and visual tool use, trained at 2B, 4B, and 8B scales. Through careful design of our environments, data, and training recipes, MintAct models match the performance of per-domain specialists across all of these capabilities. To enable this, we develop a scalable environment and reinforcement learning (RL) infrastructure. On the environment side, we host hundreds of concurrent instances across heterogeneous per-domain backends, serving both trajectory data c...",
+              "tags": [],
+              "title": "MintAct: A Unified Visual Agent for Digital Environments",
+              "url": "https://huggingface.co/papers/2609.22083",
+              "verified_first_date": "2026-09-18T00:00:00.000Z"
+            }
+          ],
+          "published_at": "2026-09-18T00:00:00.000Z",
+          "source_ids": [
+            "hf_papers"
+          ],
+          "source_names": [
+            "Hugging Face Trending Papers"
+          ],
+          "source_roles": [
+            "paper_trending"
+          ],
+          "source_types": [
+            "paper"
+          ],
+          "summary": " ",
+          "tags": [],
+          "title": "MintAct: A Unified Visual Agent for Digital Environments"
+        },
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 3.163,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 3.008,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 2.343,
+          "FRONTIERNESS": 5.171,
+          "HEADLINE": "OmniVChat: Synthesizing, Benchmarking, and Training for Native Audio-Visual Dialogue",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 6,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Research",
+          "QUALITY": 3,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": " ",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 3.171,
+          "TOPIC_ID": "814ee6fb0369",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This research paper surfaced across 1 independent source(s).",
+          "cluster_id": "814ee6fb0369",
+          "event_type": "research_paper",
+          "items": [
+            {
+              "authors": [
+                "Haolin He",
+                "Yunfei Chu",
+                "Qi Chen",
+                "Wen Huang",
+                "Yuan Feng",
+                "Muzhi Zhu",
+                "Zheqi Dai",
+                "Haoning Xu",
+                "Dongchao Yang",
+                "Chunyat Wu",
+                "Zining Liang",
+                "Zhengxi Liu",
+                "Xiquan Li",
+                "Xie Chen",
+                "Xize Cheng",
+                "Qize Yang",
+                "Jin Xu",
+                "Qiuqiang Kong"
+              ],
+              "canonical_url": "https://arxiv.org/abs/2609.21465",
+              "metadata": {
+                "ai_summary": "",
+                "arxiv_id": "2609.21465",
+                "daily_score": 30,
+                "github_url": "https://github.com/HarlandZZC/OmniVChat",
+                "hf_url": "https://huggingface.co/papers/2609.21465",
+                "novelty": 0,
+                "relevance": 0,
+                "spotlight_comment": "We define OmniVChat (Omni Video Chat) as the task of native audio-visual dialogue between a user and an omni model. In OmniVChat, omni models directly and simultaneously receive audio and video from a user and return text. The user's query is embedded in the audio and video, without a separate te...",
+                "spotlight_primary_kind": "daily_hot",
+                "spotlight_primary_label": "Daily Hot Papers",
+                "upvotes": 30
+              },
+              "provenance": "",
+              "published_at": "2026-09-18T00:00:00.000Z",
+              "source_id": "hf_papers",
+              "source_name": "Hugging Face Trending Papers",
+              "source_role": "paper_trending",
+              "source_type": "paper",
+              "summary": "We define OmniVChat (Omni Video Chat) as the task of native audio-visual dialogue between a user and an omni model. In OmniVChat, omni models directly and simultaneously receive audio and video from a user and return text. The user's query is embedded in the audio and video, without a separate text question, external captioning, or speech recognition. Direct audio-visual input reduces external latency and computation while preserving perceptual cues. However, research on OmniVChat faces two constraints: data availability and evaluation. Recordings of people using their own devices are scarc...",
+              "tags": [],
+              "title": "OmniVChat: Synthesizing, Benchmarking, and Training for Native Audio-Visual Dialogue",
+              "url": "https://huggingface.co/papers/2609.21465",
+              "verified_first_date": "2026-09-18T00:00:00.000Z"
+            }
+          ],
+          "published_at": "2026-09-18T00:00:00.000Z",
+          "source_ids": [
+            "hf_papers"
+          ],
+          "source_names": [
+            "Hugging Face Trending Papers"
+          ],
+          "source_roles": [
+            "paper_trending"
+          ],
+          "source_types": [
+            "paper"
+          ],
+          "summary": " ",
+          "tags": [],
+          "title": "OmniVChat: Synthesizing, Benchmarking, and Training for Native Audio-Visual Dialogue"
+        },
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 3.163,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 3.008,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 2.343,
+          "FRONTIERNESS": 5.171,
+          "HEADLINE": "RecreationWorld: Scalable and Verifiable Environments for Hybrid Computer-Use Agents",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 6,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Research",
+          "QUALITY": 3,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": " ",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 3.171,
+          "TOPIC_ID": "f37d3acb3871",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This research paper surfaced across 1 independent source(s).",
+          "cluster_id": "f37d3acb3871",
+          "event_type": "research_paper",
+          "items": [
+            {
+              "authors": [
+                "Shuai Bai",
+                "Jiayong Deng",
+                "Yikun Fu",
+                "Chang Gao",
+                "Xuhao Hu",
+                "Mianqiu Huang",
+                "Yizhen Jiang",
+                "Yuheng Jing",
+                "Dehui Kong",
+                "Keliang Li",
+                "Ning Li",
+                "Wanli Li",
+                "Dayiheng Liu",
+                "Dunjie Lu",
+                "Changwei Luo",
+                "Que Shen",
+                "Zheyuan Wang",
+                "Zijian Wang",
+                "Jie Wu",
+                "Gao Wu",
+                "Zhihui Xie",
+                "Rui Xie",
+                "Haiyang Xu",
+                "An Yang",
+                "Jiakang Yuan",
+                "Yanming Zhang",
+                "Jiajun Zhang",
+                "Xi Zhang",
+                "Zhenru Zhang",
+                "Zhuo Zhen",
+                "Mingkang Zhu",
+                "Bowen Zhou"
+              ],
+              "canonical_url": "https://arxiv.org/abs/2609.22000",
+              "metadata": {
+                "ai_summary": "",
+                "arxiv_id": "2609.22000",
+                "daily_score": 60,
+                "github_url": "https://github.com/QwenLM/RecreationWorld",
+                "hf_url": "https://huggingface.co/papers/2609.22000",
+                "novelty": 0,
+                "relevance": 0,
+                "spotlight_comment": "Computer-use agents (CUAs) have advanced along two separate lines: graphical interaction and software development through code and the command line. Real digital work requires both, interleaved rather than stacked end to end. We study hybrid CUAs that autonomously decide when to explore an interf...",
+                "spotlight_primary_kind": "daily_hot",
+                "spotlight_primary_label": "Daily Hot Papers",
+                "upvotes": 60
+              },
+              "provenance": "",
+              "published_at": "2026-09-18T00:00:00.000Z",
+              "source_id": "hf_papers",
+              "source_name": "Hugging Face Trending Papers",
+              "source_role": "paper_trending",
+              "source_type": "paper",
+              "summary": "Computer-use agents (CUAs) have advanced along two separate lines: graphical interaction and software development through code and the command line. Real digital work requires both, interleaved rather than stacked end to end. We study hybrid CUAs that autonomously decide when to explore an interface, implement software, and run and visually verify their artifacts. We introduce RecreationWorld, a five-platform framework built around recreation: given a running reference, an agent must discover its behavior and build a faithful implementation with no prescribed workflow. RecreationWorld provi...",
+              "tags": [],
+              "title": "RecreationWorld: Scalable and Verifiable Environments for Hybrid Computer-Use Agents",
+              "url": "https://huggingface.co/papers/2609.22000",
+              "verified_first_date": "2026-09-18T00:00:00.000Z"
+            }
+          ],
+          "published_at": "2026-09-18T00:00:00.000Z",
+          "source_ids": [
+            "hf_papers"
+          ],
+          "source_names": [
+            "Hugging Face Trending Papers"
+          ],
+          "source_roles": [
+            "paper_trending"
+          ],
+          "source_types": [
+            "paper"
+          ],
+          "summary": " ",
+          "tags": [],
+          "title": "RecreationWorld: Scalable and Verifiable Environments for Hybrid Computer-Use Agents"
+        }
+      ]
+    }
+  ],
+  "long_tail_sections": [
+    {
+      "category": "Industry Update",
+      "total_candidates": 10,
+      "topics": [
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 4.204,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 4.569,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 5.812,
+          "FRONTIERNESS": 5.906,
+          "HEADLINE": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 5,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Industry Update",
+          "QUALITY": 5,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": " ",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 4.906,
+          "TOPIC_ID": "89fe08604a43",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This other surfaced across 1 independent source(s).",
+          "cluster_id": "89fe08604a43",
+          "event_type": "other",
+          "items": [
+            {
+              "authors": [
+                "volotat"
+              ],
+              "canonical_url": "https://github.com/volotat/mini-AGI",
+              "metadata": {
+                "hn_comments": 51,
+                "hn_id": "49783133",
+                "hn_score": 242,
+                "host": "github.com"
+              },
+              "provenance": "",
+              "published_at": "2026-09-21T04:42:37Z",
+              "source_id": "hn_discussion",
+              "source_name": "Hacker News",
+              "source_role": "hn_discussion",
+              "source_type": "discussion",
+              "summary": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
+              "tags": [],
+              "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
+              "url": "https://github.com/volotat/mini-AGI",
+              "verified_first_date": "2026-09-21T04:42:37Z"
+            }
+          ],
+          "published_at": "2026-09-21T04:42:37Z",
+          "source_ids": [
+            "hn_discussion"
+          ],
+          "source_names": [
+            "Hacker News"
+          ],
+          "source_roles": [
+            "hn_discussion"
+          ],
+          "source_types": [
+            "discussion"
+          ],
+          "summary": " ",
+          "tags": [],
+          "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM"
+        },
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 4.176,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 4.528,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 5.719,
+          "FRONTIERNESS": 5.86,
+          "HEADLINE": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 4,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Industry Update",
+          "QUALITY": 5,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": " ",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 4.86,
+          "TOPIC_ID": "8afdb6d28688",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This other surfaced across 1 independent source(s).",
+          "cluster_id": "8afdb6d28688",
+          "event_type": "other",
+          "items": [
+            {
+              "authors": [
+                "tosh"
+              ],
+              "canonical_url": "https://github.com/jaredpalmer/kev/tree/main",
+              "metadata": {
+                "hn_comments": 164,
+                "hn_id": "49783999",
+                "hn_score": 368,
+                "host": "github.com"
+              },
+              "provenance": "",
+              "published_at": "2026-09-21T07:11:55Z",
+              "source_id": "hn_discussion",
+              "source_name": "Hacker News",
+              "source_role": "hn_discussion",
+              "source_type": "discussion",
+              "summary": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+              "tags": [],
+              "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+              "url": "https://github.com/jaredpalmer/kev/tree/main",
+              "verified_first_date": "2026-09-21T07:11:55Z"
+            }
+          ],
+          "published_at": "2026-09-21T07:11:55Z",
+          "source_ids": [
+            "hn_discussion"
+          ],
+          "source_names": [
+            "Hacker News"
+          ],
+          "source_roles": [
+            "hn_discussion"
+          ],
+          "source_types": [
+            "discussion"
+          ],
+          "summary": " ",
+          "tags": [],
+          "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5"
+        },
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 4.147,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 4.485,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 5.625,
+          "FRONTIERNESS": 5.812,
+          "HEADLINE": "Can I Let My AI Agent Run on Shabbat?",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 3,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Industry Update",
+          "QUALITY": 5,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": " ",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 4.812,
+          "TOPIC_ID": "a09a2725d669",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This other surfaced across 1 independent source(s).",
+          "cluster_id": "a09a2725d669",
+          "event_type": "other",
+          "items": [
+            {
+              "authors": [
+                "some-guy"
+              ],
+              "canonical_url": "https://www.chabad.org/library/article_cdo/aid/7288064/jewish/Can-I-Let-My-AI-Agent-Run-on-Shabbat.htm",
+              "metadata": {
+                "hn_comments": 18,
+                "hn_id": "49782242",
+                "hn_score": 36,
+                "host": "www.chabad.org"
+              },
+              "provenance": "",
+              "published_at": "2026-09-21T02:05:45Z",
+              "source_id": "hn_discussion",
+              "source_name": "Hacker News",
+              "source_role": "hn_discussion",
+              "source_type": "discussion",
+              "summary": "Can I Let My AI Agent Run on Shabbat?",
+              "tags": [],
+              "title": "Can I Let My AI Agent Run on Shabbat?",
+              "url": "https://www.chabad.org/library/article_cdo/aid/7288064/jewish/Can-I-Let-My-AI-Agent-Run-on-Shabbat.htm",
+              "verified_first_date": "2026-09-21T02:05:45Z"
+            }
+          ],
+          "published_at": "2026-09-21T02:05:45Z",
+          "source_ids": [
+            "hn_discussion"
+          ],
+          "source_names": [
+            "Hacker News"
+          ],
+          "source_roles": [
+            "hn_discussion"
+          ],
+          "source_types": [
+            "discussion"
+          ],
+          "summary": " ",
+          "tags": [],
+          "title": "Can I Let My AI Agent Run on Shabbat?"
+        },
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 3.961,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 4.206,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 5.004,
+          "FRONTIERNESS": 5.502,
+          "HEADLINE": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 4,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Industry Update",
+          "QUALITY": 5,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": " ",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 4.502,
+          "TOPIC_ID": "039e75719e2f",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This opinion surfaced across 1 independent source(s).",
+          "cluster_id": "039e75719e2f",
+          "event_type": "opinion",
+          "items": [
+            {
+              "authors": [],
+              "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+              "metadata": {
+                "feed_id": "theverge_ai",
+                "feed_source": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+                "signal_tier": "trusted_analysis",
+                "source_quality": 1.3
+              },
+              "provenance": "",
+              "published_at": "2026-09-20T14:50:18-04:00",
+              "source_id": "analysis_theverge_ai",
+              "source_name": "The Verge AI",
+              "source_role": "editorial_depth",
+              "source_type": "blog_analysis",
+              "summary": "The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who have studied and worked on AI for decades. In an interview with CBS Sunday Morning, he claimed there was a \"0% chance\" of AI being the end of the [&#8230;]",
+              "tags": [
+                "analysis",
+                "deep-read"
+              ],
+              "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+              "verified_first_date": "2026-09-20T14:50:18-04:00"
+            }
+          ],
+          "published_at": "2026-09-20T14:50:18-04:00",
+          "source_ids": [
+            "analysis_theverge_ai"
+          ],
+          "source_names": [
+            "The Verge AI"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "summary": " ",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown"
+        },
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 3.96,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 4.204,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 5.0,
+          "FRONTIERNESS": 5.5,
+          "HEADLINE": "Trump now says he wants to form an ‘AI Force’",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 5,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Industry Update",
+          "QUALITY": 4,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": " ",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 4.5,
+          "TOPIC_ID": "b7b637495153",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This other surfaced across 1 independent source(s).",
+          "cluster_id": "b7b637495153",
+          "event_type": "other",
+          "items": [
+            {
+              "authors": [],
+              "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
+              "metadata": {
+                "feed_id": "theverge_ai",
+                "feed_source": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+                "signal_tier": "trusted_analysis",
+                "source_quality": 1.3
+              },
+              "provenance": "",
+              "published_at": "2026-09-20T11:39:22-04:00",
+              "source_id": "analysis_theverge_ai",
+              "source_name": "The Verge AI",
+              "source_role": "editorial_depth",
+              "source_type": "blog_analysis",
+              "summary": "The president posted on Truth Social that he wanted to appoint an \"AI czar\" to lead a new \"AI force.\" He made the announcement amid growing calls from across the political spectrum and even within the industry to pump the brakes on AI development. He posted that his administration \"will not in any way hinder [&#8230;]",
+              "tags": [
+                "analysis",
+                "deep-read"
+              ],
+              "title": "Trump now says he wants to form an ‘AI Force’",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
+              "verified_first_date": "2026-09-20T11:39:22-04:00"
+            }
+          ],
+          "published_at": "2026-09-20T11:39:22-04:00",
+          "source_ids": [
+            "analysis_theverge_ai"
+          ],
+          "source_names": [
+            "The Verge AI"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "summary": " ",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "title": "Trump now says he wants to form an ‘AI Force’"
+        },
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 3.96,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 4.204,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 5.0,
+          "FRONTIERNESS": 5.5,
+          "HEADLINE": "Is the AI industry really ready to slow down?",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 5,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Industry Update",
+          "QUALITY": 4,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": " ",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 4.5,
+          "TOPIC_ID": "cc6f5d248427",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This other surfaced across 1 independent source(s).",
+          "cluster_id": "cc6f5d248427",
+          "event_type": "other",
+          "items": [
+            {
+              "authors": [],
+              "canonical_url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down",
+              "metadata": {
+                "feed_id": "techcrunch_ai",
+                "feed_source": "https://techcrunch.com/category/artificial-intelligence/feed/",
+                "signal_tier": "trusted_analysis",
+                "source_quality": 1.3
+              },
+              "provenance": "",
+              "published_at": "Sun, 20 Sep 2026 18:56:04 +0000",
+              "source_id": "analysis_techcrunch_ai",
+              "source_name": "TechCrunch AI",
+              "source_role": "editorial_depth",
+              "source_type": "blog_analysis",
+              "summary": "On Equity, we debated whether AI executives are serious about wanting to slow down.",
+              "tags": [
+                "analysis",
+                "deep-read"
+              ],
+              "title": "Is the AI industry really ready to slow down?",
+              "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down",
+              "verified_first_date": "Sun, 20 Sep 2026 18:56:04 +0000"
+            }
+          ],
+          "published_at": "Sun, 20 Sep 2026 18:56:04 +0000",
+          "source_ids": [
+            "analysis_techcrunch_ai"
+          ],
+          "source_names": [
+            "TechCrunch AI"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "summary": " ",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "title": "Is the AI industry really ready to slow down?"
+        },
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 3.96,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 4.204,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 5.0,
+          "FRONTIERNESS": 5.5,
+          "HEADLINE": "World model companies are keeping a lot of secrets",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 5,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Industry Update",
+          "QUALITY": 4,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": " ",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 4.5,
+          "TOPIC_ID": "dcbae4df560d",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This other surfaced across 1 independent source(s).",
+          "cluster_id": "dcbae4df560d",
+          "event_type": "other",
+          "items": [
+            {
+              "authors": [],
+              "canonical_url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets",
+              "metadata": {
+                "feed_id": "techcrunch_ai",
+                "feed_source": "https://techcrunch.com/category/artificial-intelligence/feed/",
+                "signal_tier": "trusted_analysis",
+                "source_quality": 1.3
+              },
+              "provenance": "",
+              "published_at": "Sun, 20 Sep 2026 20:29:07 +0000",
+              "source_id": "analysis_techcrunch_ai",
+              "source_name": "TechCrunch AI",
+              "source_role": "editorial_depth",
+              "source_type": "blog_analysis",
+              "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
+              "tags": [
+                "analysis",
+                "deep-read"
+              ],
+              "title": "World model companies are keeping a lot of secrets",
+              "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets",
+              "verified_first_date": "Sun, 20 Sep 2026 20:29:07 +0000"
+            }
+          ],
+          "published_at": "Sun, 20 Sep 2026 20:29:07 +0000",
+          "source_ids": [
+            "analysis_techcrunch_ai"
+          ],
+          "source_names": [
+            "TechCrunch AI"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "summary": " ",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "title": "World model companies are keeping a lot of secrets"
+        },
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 3.482,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 3.487,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 3.407,
+          "FRONTIERNESS": 4.704,
+          "HEADLINE": "The LLMentalist Effect (2023)",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 3,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Industry Update",
+          "QUALITY": 3,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": " ",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 3.704,
+          "TOPIC_ID": "610e6f9a9a21",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This other surfaced across 1 independent source(s).",
+          "cluster_id": "610e6f9a9a21",
+          "event_type": "other",
+          "items": [
+            {
+              "authors": [
+                "jalev"
+              ],
+              "canonical_url": "https://softwarecrisis.dev/letters/llmentalist",
+              "metadata": {
+                "hn_comments": 304,
+                "hn_id": "49775104",
+                "hn_score": 222,
+                "host": "softwarecrisis.dev"
+              },
+              "provenance": "",
+              "published_at": "2026-09-20T12:20:13Z",
+              "source_id": "hn_discussion",
+              "source_name": "Hacker News",
+              "source_role": "hn_discussion",
+              "source_type": "discussion",
+              "summary": "The LLMentalist Effect (2023)",
+              "tags": [],
+              "title": "The LLMentalist Effect (2023)",
+              "url": "https://softwarecrisis.dev/letters/llmentalist",
+              "verified_first_date": "2026-09-20T12:20:13Z"
+            }
+          ],
+          "published_at": "2026-09-20T12:20:13Z",
+          "source_ids": [
+            "hn_discussion"
+          ],
+          "source_names": [
+            "Hacker News"
+          ],
+          "source_roles": [
+            "hn_discussion"
+          ],
+          "source_types": [
+            "discussion"
+          ],
+          "summary": " ",
+          "tags": [],
+          "title": "The LLMentalist Effect (2023)"
+        }
+      ]
+    }
+  ],
+  "paper_spotlight": [
+    {
+      "kind": "daily_hot",
+      "label": "Daily Hot Papers",
+      "description": "Papers that feel broadly important to the day and belong in the hotspot paper feed.",
+      "items": [
+        {
+          "title": "CodeMidas: Scaling Agentic Coding RL Environments from Code Itself",
+          "summary": "Training capable coding agents via reinforcement learning (RL) requires diverse tasks with reliable verifiers. Open-source codebases offer a rich source of such tasks, while existing methods typically rely on development artifacts such as issues and commits, limiting the range of tasks that can be extracted. To better scale RL environments, we present CodeMidas, an agentic pipeline that turns implemented functionality in existing codebases into executable RL environments using source code as its only task-specific input. CodeMidas allocates agentic compute to every stage of environment cons...",
+          "url": "https://huggingface.co/papers/2609.22068",
+          "canonical_url": "https://arxiv.org/abs/2609.22068",
+          "source_id": "hf_papers",
+          "source_name": "Hugging Face Trending Papers",
+          "source_role": "paper_trending",
+          "arxiv_id": "2609.22068",
+          "authors": [
+            "Bowen Ye",
+            "Lei Li",
+            "Shicheng Li",
+            "Zihao Yue",
+            "Linghao Zhang",
+            "Hanglong Lv",
+            "Yuanxin Liu",
+            "Wenhan Ma",
+            "Hao Tian",
+            "Rang Li",
+            "Jinhao Dong",
+            "Yikai Zhao",
+            "Xiangwei Deng",
+            "Hailin Zhang",
+            "Liang Zhao",
+            "Qi Liu",
+            "Lingpeng Kong",
+            "Tong Yang",
+            "Fuli Luo"
+          ],
+          "primary_topic_id": "",
+          "primary_topic_label": "",
+          "spotlight_primary_kind": "daily_hot",
+          "spotlight_primary_label": "Daily Hot Papers",
+          "spotlight_comment": "Training capable coding agents via reinforcement learning (RL) requires diverse tasks with reliable verifiers. Open-source codebases offer a rich source of such tasks, while existing methods typically rely on development artifacts such as issues and commits, limiting the range of tasks that can b...",
+          "daily_score": 86,
+          "relevance": 0,
+          "novelty": 0,
+          "s2_influential_citations": 0,
+          "s2_citations": 0
+        },
+        {
+          "title": "Grounded Skill Synthesis from Code at Scale for Agentic Intelligence",
+          "summary": "Reusable skills give agents transferable procedural knowledge, making scalable acquisition essential for extending agents beyond prior experience. Existing methods face two limitations: trajectory-based synthesis requires interactions with specific environments, while document-derived skills may lack executable evidence and verification. Source code offers a complementary path: it requires no prior agent experience yet provides executable evidence for grounding abstractions. We present Code2Skill, a fully automated pipeline that transforms selected code units into implementation-anchored re...",
+          "url": "https://huggingface.co/papers/2609.05571",
+          "canonical_url": "https://arxiv.org/abs/2609.05571",
+          "source_id": "hf_papers",
+          "source_name": "Hugging Face Trending Papers",
+          "source_role": "paper_trending",
+          "arxiv_id": "2609.05571",
+          "authors": [
+            "Yongqi Tong",
+            "Pan Wang",
+            "Hang Wang",
+            "Jianshe Li",
+            "Xin Zhang",
+            "Jiang-Ming Yang",
+            "Wei Wu"
+          ],
+          "primary_topic_id": "",
+          "primary_topic_label": "",
+          "spotlight_primary_kind": "daily_hot",
+          "spotlight_primary_label": "Daily Hot Papers",
+          "spotlight_comment": "Reusable skills give agents transferable procedural knowledge, making scalable acquisition essential for extending agents beyond prior experience. Existing methods face two limitations: trajectory-based synthesis requires interactions with specific environments, while document-derived skills may...",
+          "daily_score": 85,
+          "relevance": 0,
+          "novelty": 0,
+          "s2_influential_citations": 0,
+          "s2_citations": 0
+        },
+        {
+          "title": "EvoOntology: A Self-Evolving Ontology Layer for Data Agents",
+          "summary": "Data agents aim to fulfill natural-language instructions over heterogeneous data, including tables, files, and databases. However, data agents face a challenging agent-data gap: heterogeneous data resides outside the agent, while the agent can access it (e.g., column names and file paths) only through generic tools. Existing approaches either let agents directly explore raw data sources or inject manually constructed semantic layers into prompts. However, neither scales well to large heterogeneous data sources nor adapts to different agent behaviors. In this paper, we introduce EvoOntology,...",
+          "url": "https://huggingface.co/papers/2609.15779",
+          "canonical_url": "https://arxiv.org/abs/2609.15779",
+          "source_id": "hf_papers",
+          "source_name": "Hugging Face Trending Papers",
+          "source_role": "paper_trending",
+          "arxiv_id": "2609.15779",
+          "authors": [
+            "Meiduo Chong",
+            "Shaolei Zhang",
+            "Ju Fan",
+            "Xiaoyong Du"
+          ],
+          "primary_topic_id": "",
+          "primary_topic_label": "",
+          "spotlight_primary_kind": "daily_hot",
+          "spotlight_primary_label": "Daily Hot Papers",
+          "spotlight_comment": "Data agents aim to fulfill natural-language instructions over heterogeneous data, including tables, files, and databases. However, data agents face a challenging agent-data gap: heterogeneous data resides outside the agent, while the agent can access it (e.g., column names and file paths) only th...",
+          "daily_score": 68,
+          "relevance": 0,
+          "novelty": 0,
+          "s2_influential_citations": 0,
+          "s2_citations": 0
+        },
+        {
+          "title": "RecreationWorld: Scalable and Verifiable Environments for Hybrid Computer-Use Agents",
+          "summary": "Computer-use agents (CUAs) have advanced along two separate lines: graphical interaction and software development through code and the command line. Real digital work requires both, interleaved rather than stacked end to end. We study hybrid CUAs that autonomously decide when to explore an interface, implement software, and run and visually verify their artifacts. We introduce RecreationWorld, a five-platform framework built around recreation: given a running reference, an agent must discover its behavior and build a faithful implementation with no prescribed workflow. RecreationWorld provi...",
+          "url": "https://huggingface.co/papers/2609.22000",
+          "canonical_url": "https://arxiv.org/abs/2609.22000",
+          "source_id": "hf_papers",
+          "source_name": "Hugging Face Trending Papers",
+          "source_role": "paper_trending",
+          "arxiv_id": "2609.22000",
+          "authors": [
+            "Shuai Bai",
+            "Jiayong Deng",
+            "Yikun Fu",
+            "Chang Gao",
+            "Xuhao Hu",
+            "Mianqiu Huang",
+            "Yizhen Jiang",
+            "Yuheng Jing",
+            "Dehui Kong",
+            "Keliang Li",
+            "Ning Li",
+            "Wanli Li",
+            "Dayiheng Liu",
+            "Dunjie Lu",
+            "Changwei Luo",
+            "Que Shen",
+            "Zheyuan Wang",
+            "Zijian Wang",
+            "Jie Wu",
+            "Gao Wu",
+            "Zhihui Xie",
+            "Rui Xie",
+            "Haiyang Xu",
+            "An Yang",
+            "Jiakang Yuan",
+            "Yanming Zhang",
+            "Jiajun Zhang",
+            "Xi Zhang",
+            "Zhenru Zhang",
+            "Zhuo Zhen",
+            "Mingkang Zhu",
+            "Bowen Zhou"
+          ],
+          "primary_topic_id": "",
+          "primary_topic_label": "",
+          "spotlight_primary_kind": "daily_hot",
+          "spotlight_primary_label": "Daily Hot Papers",
+          "spotlight_comment": "Computer-use agents (CUAs) have advanced along two separate lines: graphical interaction and software development through code and the command line. Real digital work requires both, interleaved rather than stacked end to end. We study hybrid CUAs that autonomously decide when to explore an interf...",
+          "daily_score": 60,
+          "relevance": 0,
+          "novelty": 0,
+          "s2_influential_citations": 0,
+          "s2_citations": 0
+        },
+        {
+          "title": "IntBMoE: Integrating Block-Level Conditioning into Expert Composition for Full-Participation Mixture-of-Experts",
+          "summary": "Mixture-of-Experts (MoE) scales capacity, but existing designs cannot set three quantities independently. For a single token, participation is how many experts contribute knowledge to its output, execution is how many are actually computed (compute cost), and materialization is how many expert-sized parameter sets must be built and stored (memory cost). Sparse routing keeps execution and materialization low, but shrinks participation: for each token, only a few experts contribute. Dense output-mixing restores full participation, but its execution grows with the number of experts. Parameter-...",
+          "url": "https://huggingface.co/papers/2609.21346",
+          "canonical_url": "https://arxiv.org/abs/2609.21346",
+          "source_id": "hf_papers",
+          "source_name": "Hugging Face Trending Papers",
+          "source_role": "paper_trending",
+          "arxiv_id": "2609.21346",
+          "authors": [
+            "Ran Cheng",
+            "Longfei Xu",
+            "Zheng Liu",
+            "Kaikui Liu",
+            "Xiangxiang Chu"
+          ],
+          "primary_topic_id": "",
+          "primary_topic_label": "",
+          "spotlight_primary_kind": "daily_hot",
+          "spotlight_primary_label": "Daily Hot Papers",
+          "spotlight_comment": "Mixture-of-Experts (MoE) scales capacity, but existing designs cannot set three quantities independently. For a single token, participation is how many experts contribute knowledge to its output, execution is how many are actually computed (compute cost), and materialization is how many expert-si...",
+          "daily_score": 33,
+          "relevance": 0,
+          "novelty": 0,
+          "s2_influential_citations": 0,
+          "s2_citations": 0
+        },
+        {
+          "title": "OmniVChat: Synthesizing, Benchmarking, and Training for Native Audio-Visual Dialogue",
+          "summary": "We define OmniVChat (Omni Video Chat) as the task of native audio-visual dialogue between a user and an omni model. In OmniVChat, omni models directly and simultaneously receive audio and video from a user and return text. The user's query is embedded in the audio and video, without a separate text question, external captioning, or speech recognition. Direct audio-visual input reduces external latency and computation while preserving perceptual cues. However, research on OmniVChat faces two constraints: data availability and evaluation. Recordings of people using their own devices are scarc...",
+          "url": "https://huggingface.co/papers/2609.21465",
+          "canonical_url": "https://arxiv.org/abs/2609.21465",
+          "source_id": "hf_papers",
+          "source_name": "Hugging Face Trending Papers",
+          "source_role": "paper_trending",
+          "arxiv_id": "2609.21465",
+          "authors": [
+            "Haolin He",
+            "Yunfei Chu",
+            "Qi Chen",
+            "Wen Huang",
+            "Yuan Feng",
+            "Muzhi Zhu",
+            "Zheqi Dai",
+            "Haoning Xu",
+            "Dongchao Yang",
+            "Chunyat Wu",
+            "Zining Liang",
+            "Zhengxi Liu",
+            "Xiquan Li",
+            "Xie Chen",
+            "Xize Cheng",
+            "Qize Yang",
+            "Jin Xu",
+            "Qiuqiang Kong"
+          ],
+          "primary_topic_id": "",
+          "primary_topic_label": "",
+          "spotlight_primary_kind": "daily_hot",
+          "spotlight_primary_label": "Daily Hot Papers",
+          "spotlight_comment": "We define OmniVChat (Omni Video Chat) as the task of native audio-visual dialogue between a user and an omni model. In OmniVChat, omni models directly and simultaneously receive audio and video from a user and return text. The user's query is embedded in the audio and video, without a separate te...",
+          "daily_score": 30,
+          "relevance": 0,
+          "novelty": 0,
+          "s2_influential_citations": 0,
+          "s2_citations": 0
+        }
+      ]
+    }
+  ],
+  "x_buzz": [
+    {
+      "title": "Amazon blocks Meta’s Muse AI agent",
+      "summary": "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for Muse users saying that \"continued access by an unauthorized AI agent violates Amazon's Conditions of Use, to which our customers have agreed.\" According to GeekWire, Meta didn't notify Amazon that [&#8230;]",
+      "url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
+      "source_id": "analysis_theverge_ai",
+      "source_name": "The Verge AI",
+      "source_role": "editorial_depth",
+      "linked_topic": "Amazon blocks Meta’s Muse AI agent"
+    },
+    {
+      "title": "How V7 gives AI agents institutional memory",
+      "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+      "url": "https://openai.com/index/v7",
+      "source_id": "openai_news",
+      "source_name": "OpenAI News",
+      "source_role": "official_news",
+      "linked_topic": "How V7 gives AI agents institutional memory"
+    },
+    {
+      "title": "Building standards for the next phase of AI",
+      "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
+      "url": "https://openai.com/index/building-standards-next-phase-ai",
+      "source_id": "openai_news",
+      "source_name": "OpenAI News",
+      "source_role": "official_news",
+      "linked_topic": "Building standards for the next phase of AI"
+    },
+    {
+      "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
+      "summary": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts, Muse doesn't actually know how to describe itself. Jason Aten, a contributing editor at Inc Magazine, posted on Threads [&#8230;]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
+      "source_id": "analysis_theverge_ai",
+      "source_name": "The Verge AI",
+      "source_role": "editorial_depth",
+      "linked_topic": ""
+    },
+    {
+      "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
+      "summary": "Before recent high-profile hacks raised the specter of AI possibly \"killing all humans,\" our energy systems were already disturbingly vulnerable to cyberattack - and the risk is growing. \"We were always prey. We were just kind of surviving at the appetite of our predators,\" Joshua Corman, executive in residence for public safety and resilience at [&#8230;]",
+      "url": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
+      "source_id": "analysis_theverge_ai",
+      "source_name": "The Verge AI",
+      "source_role": "editorial_depth",
+      "linked_topic": ""
+    }
+  ],
+  "watchlist": [],
+  "resurgence": []
+}

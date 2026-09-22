@@ -1,0 +1,3269 @@
+{
+  "date": "2026-09-15",
+  "generated_at": "2026-09-21T21:38:26.040844+00:00",
+  "mode": "openai",
+  "enrichment": {
+    "backend": "openai",
+    "batches": 4,
+    "batches_failed": 0,
+    "batches_llm": 4,
+    "errors": [],
+    "items": 62,
+    "items_heuristic": 22,
+    "items_llm": 40,
+    "llm_ok": true,
+    "mode_requested": "openai",
+    "path": "mixed",
+    "provider": "openai"
+  },
+  "summary": "• [Product Release] NVIDIA released c-foundationstereo-s — This product release surfaced across 1 independent source(s).\n• [Product Release] Production-Ready W4A8: vLLM Integration Explained | Cohere — This product release surfaced across 1 independent source(s).\n• [Product Release] Cohere Parse | Enterprise Intelligence at Scale — This product release surfaced across 1 independent source(s).",
+  "source_stats": {
+    "ainews": 0,
+    "analysis_feeds": 6,
+    "github_trend": 15,
+    "hf_papers": 12,
+    "hn_discussion": 12,
+    "local_papers": 0,
+    "model_hubs": 4,
+    "official_blogs": 33,
+    "reddit": 0,
+    "roundup_sites": 13,
+    "x_ainews_twitter": 0,
+    "x_twitterapi": 0
+  },
+  "manifest": {
+    "synthesize_model": "claude-sonnet-5",
+    "synthesize_rejected": [
+      "80645d420e23",
+      "7d57b13f1d76",
+      "48a7a597dd55"
+    ],
+    "synthesize_temperature": 0
+  },
+  "totals": {
+    "raw_items": 74,
+    "enriched_items": 0,
+    "stories": 0,
+    "featured": 3,
+    "watchlist": 0,
+    "category_topics": 16,
+    "long_tail_topics": 8,
+    "paper_spotlight_items": 6
+  },
+  "costs": {
+    "prompt": 0.0,
+    "completion": 0.0,
+    "total": 0.0
+  },
+  "usage": {
+    "llm": {
+      "provider": "openai",
+      "backend": "openai",
+      "billing_model": "quota",
+      "screen_model": "gpt-5.6",
+      "summary_model": "gpt-5.6",
+      "requests": 0,
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0,
+      "prompt_cost": 0.0,
+      "completion_cost": 0.0,
+      "total_cost": 0.0
+    },
+    "external": {
+      "ainews": {
+        "provider": "AINews RSS",
+        "billing_model": "free",
+        "requests": 1,
+        "items": 0,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "analysis_feeds": {
+        "provider": "Analysis RSS feeds",
+        "billing_model": "free",
+        "requests": 13,
+        "items": 6,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "github_trend": {
+        "provider": "GitHub API",
+        "billing_model": "free",
+        "requests": 2,
+        "items": 15,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "hf_papers": {
+        "provider": "Hugging Face",
+        "billing_model": "free",
+        "requests": 1,
+        "items": 12,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "hn_discussion": {
+        "provider": "Hacker News API",
+        "billing_model": "free",
+        "requests": 6,
+        "items": 12,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "local_papers": {
+        "provider": "Local cache",
+        "billing_model": "local",
+        "requests": 0,
+        "items": 0,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "model_hubs": {
+        "provider": "Hugging Face model index",
+        "billing_model": "free",
+        "requests": 20,
+        "items": 4,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "official_blogs": {
+        "provider": "Official blogs",
+        "billing_model": "free",
+        "requests": 38,
+        "items": 33,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "reddit": {
+        "provider": "Reddit JSON API",
+        "billing_model": "free",
+        "requests": 0,
+        "items": 0,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "roundup_sites": {
+        "provider": "Roundup sites",
+        "billing_model": "free",
+        "requests": 8,
+        "items": 13,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "x_ainews_twitter": {
+        "provider": "AINews Twitter recap",
+        "billing_model": "free",
+        "requests": 1,
+        "items": 0,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "x_twitterapi": {
+        "provider": "twitterapi.io",
+        "billing_model": "metered",
+        "requests": 0,
+        "items": 0,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      }
+    },
+    "summary": {
+      "external_requests": 90,
+      "x_requests": 1,
+      "estimated_external_cost": 0.0
+    }
+  },
+  "top_topics": [
+    {
+      "ACTIONABILITY": 4.0,
+      "ARTIFACT_BOOST": 0.5,
+      "CONFIDENCE": 6.36,
+      "CROSS_SOURCE_RESONANCE": 1.5,
+      "DISPLAY_PRIORITY": 8.012,
+      "ENGINEERING_PENALTY": 0.0,
+      "EVIDENCE_STRENGTH": 5.6,
+      "FINAL_SCORE": 10.0,
+      "FRONTIERNESS": 10.0,
+      "HEADLINE": "NVIDIA released c-foundationstereo-s",
+      "HEAT": 4,
+      "HYPE_PENALTY": 0.3,
+      "IMPORTANCE": 10,
+      "KEEP_IN_DAILY_HOTSPOTS": true,
+      "KEY_TAKEAWAYS": [
+        "Weights for nvidia/foundationpose appeared on the hub. Pipeline tags: tensorrt, onnx, TAO Toolkit, computer-vision, pose-estimation, 6dof-pose-estimation. 194 downloads, 9 likes at collection time.",
+        "Weights for nvidia/c-foundationstereo-s appeared on the hub. Pipeline tags: tensorrt, onnx, TAO Toolkit, computer-vision, depth-estimation, stereo-matching. 180 downloads, 7 likes at collection time."
+      ],
+      "LLM_STATUS": "featured",
+      "OCCURRENCE_SCORE": 3.4,
+      "PRIMARY_CATEGORY": "Product Release",
+      "QUALITY": 9,
+      "SECONDARY_CATEGORIES": [],
+      "SHORT_COMMENT": "Weights for nvidia/c-foundationstereo-s appeared on the hub. Pipeline tags: tensorrt, onnx, TAO Toolkit, computer-vision, depth-estimation, stereo-matching. 180 downloads, 7 likes at collection time.",
+      "SUBSTANCE_PENALTY": 0.0,
+      "TECHNICAL_DEPTH": 7.0,
+      "TOPIC_ID": "80645d420e23",
+      "WATCHLIST": false,
+      "WHY_IT_MATTERS": "This product release surfaced across 1 independent source(s).",
+      "cluster_id": "80645d420e23",
+      "event_type": "product_release",
+      "items": [
+        {
+          "authors": [],
+          "canonical_url": "https://huggingface.co/nvidia/foundationpose",
+          "metadata": {
+            "downloads": 194,
+            "is_official": true,
+            "likes": 9,
+            "model_id": "nvidia/foundationpose",
+            "publisher": "NVIDIA"
+          },
+          "provenance": "",
+          "published_at": "2026-09-15T01:25:12.000Z",
+          "source_id": "hf_models_nvidia",
+          "source_name": "NVIDIA on Hugging Face",
+          "source_role": "official_news",
+          "source_type": "model_release",
+          "summary": "Weights for nvidia/foundationpose appeared on the hub. Pipeline tags: tensorrt, onnx, TAO Toolkit, computer-vision, pose-estimation, 6dof-pose-estimation. 194 downloads, 9 likes at collection time.",
+          "tags": [
+            "tensorrt",
+            "onnx",
+            "TAO Toolkit",
+            "computer-vision",
+            "pose-estimation",
+            "6dof-pose-estimation",
+            "object-pose-estimation",
+            "object-tracking",
+            "robotics",
+            "foundation-model",
+            "zero-shot",
+            "transformer"
+          ],
+          "title": "NVIDIA released foundationpose",
+          "url": "https://huggingface.co/nvidia/foundationpose",
+          "verified_first_date": "2026-09-15T01:25:12.000Z"
+        },
+        {
+          "authors": [],
+          "canonical_url": "https://huggingface.co/nvidia/c-foundationstereo-s",
+          "metadata": {
+            "downloads": 180,
+            "is_official": true,
+            "likes": 7,
+            "model_id": "nvidia/c-foundationstereo-s",
+            "publisher": "NVIDIA"
+          },
+          "provenance": "",
+          "published_at": "2026-09-15T01:25:18.000Z",
+          "source_id": "hf_models_nvidia",
+          "source_name": "NVIDIA on Hugging Face",
+          "source_role": "official_news",
+          "source_type": "model_release",
+          "summary": "Weights for nvidia/c-foundationstereo-s appeared on the hub. Pipeline tags: tensorrt, onnx, TAO Toolkit, computer-vision, depth-estimation, stereo-matching. 180 downloads, 7 likes at collection time.",
+          "tags": [
+            "tensorrt",
+            "onnx",
+            "TAO Toolkit",
+            "computer-vision",
+            "depth-estimation",
+            "stereo-matching",
+            "disparity-estimation",
+            "stereo-depth",
+            "foundation-model",
+            "zero-shot",
+            "transformer",
+            "pytorch"
+          ],
+          "title": "NVIDIA released c-foundationstereo-s",
+          "url": "https://huggingface.co/nvidia/c-foundationstereo-s",
+          "verified_first_date": "2026-09-15T01:25:18.000Z"
+        }
+      ],
+      "published_at": "2026-09-15T01:25:18.000Z",
+      "source_ids": [
+        "hf_models_nvidia"
+      ],
+      "source_names": [
+        "NVIDIA on Hugging Face"
+      ],
+      "source_roles": [
+        "official_news"
+      ],
+      "source_types": [
+        "model_release"
+      ],
+      "summary": "Weights for nvidia/c-foundationstereo-s appeared on the hub. Pipeline tags: tensorrt, onnx, TAO Toolkit, computer-vision, depth-estimation, stereo-matching. 180 downloads, 7 likes at collection time.",
+      "tags": [
+        "6dof-pose-estimation",
+        "TAO Toolkit",
+        "computer-vision",
+        "depth-estimation",
+        "disparity-estimation",
+        "foundation-model",
+        "object-pose-estimation",
+        "object-tracking",
+        "onnx",
+        "pose-estimation",
+        "pytorch",
+        "robotics",
+        "stereo-depth",
+        "stereo-matching",
+        "tensorrt",
+        "transformer",
+        "zero-shot"
+      ],
+      "title": "NVIDIA released c-foundationstereo-s"
+    },
+    {
+      "ACTIONABILITY": 4.0,
+      "ARTIFACT_BOOST": 0.5,
+      "CONFIDENCE": 6.276,
+      "CROSS_SOURCE_RESONANCE": 1.5,
+      "DISPLAY_PRIORITY": 7.718,
+      "ENGINEERING_PENALTY": 0.0,
+      "EVIDENCE_STRENGTH": 5.6,
+      "FINAL_SCORE": 9.719,
+      "FRONTIERNESS": 9.86,
+      "HEADLINE": "Production-Ready W4A8: vLLM Integration Explained | Cohere",
+      "HEAT": 3,
+      "HYPE_PENALTY": 0.3,
+      "IMPORTANCE": 10,
+      "KEEP_IN_DAILY_HOTSPOTS": true,
+      "KEY_TAKEAWAYS": [
+        "Learn how model quantization improves efficiency. Explore W4A16 and W8A8 schemes on NVIDIA Hopper GPU, their pros and cons."
+      ],
+      "LLM_STATUS": "featured",
+      "OCCURRENCE_SCORE": 2.95,
+      "PRIMARY_CATEGORY": "Product Release",
+      "QUALITY": 9,
+      "SECONDARY_CATEGORIES": [],
+      "SHORT_COMMENT": "Learn how model quantization improves efficiency. Explore W4A16 and W8A8 schemes on NVIDIA Hopper GPU, their pros and cons.",
+      "SUBSTANCE_PENALTY": 0.0,
+      "TECHNICAL_DEPTH": 6.859,
+      "TOPIC_ID": "7d57b13f1d76",
+      "WATCHLIST": false,
+      "WHY_IT_MATTERS": "This product release surfaced across 1 independent source(s).",
+      "cluster_id": "7d57b13f1d76",
+      "event_type": "product_release",
+      "items": [
+        {
+          "authors": [],
+          "canonical_url": "https://cohere.com/blog/vllm-integration-and-quality-recovery-techniques-explained",
+          "metadata": {
+            "is_official": true,
+            "publisher": "Cohere Blog"
+          },
+          "provenance": "",
+          "published_at": "2026-09-15T00:00:00+00:00",
+          "source_id": "cohere_blog",
+          "source_name": "Cohere Blog",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "summary": "Learn how model quantization improves efficiency. Explore W4A16 and W8A8 schemes on NVIDIA Hopper GPU, their pros and cons.",
+          "tags": [],
+          "title": "Production-Ready W4A8: vLLM Integration Explained | Cohere",
+          "url": "https://cohere.com/blog/vllm-integration-and-quality-recovery-techniques-explained",
+          "verified_first_date": "2026-09-15T00:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-09-15T00:00:00+00:00",
+      "source_ids": [
+        "cohere_blog"
+      ],
+      "source_names": [
+        "Cohere Blog"
+      ],
+      "source_roles": [
+        "official_news"
+      ],
+      "source_types": [
+        "official_blog"
+      ],
+      "summary": "Learn how model quantization improves efficiency. Explore W4A16 and W8A8 schemes on NVIDIA Hopper GPU, their pros and cons.",
+      "tags": [],
+      "title": "Production-Ready W4A8: vLLM Integration Explained | Cohere"
+    },
+    {
+      "ACTIONABILITY": 4.0,
+      "ARTIFACT_BOOST": 0.5,
+      "CONFIDENCE": 6.227,
+      "CROSS_SOURCE_RESONANCE": 1.5,
+      "DISPLAY_PRIORITY": 7.645,
+      "ENGINEERING_PENALTY": 0.0,
+      "EVIDENCE_STRENGTH": 5.6,
+      "FINAL_SCORE": 9.558,
+      "FRONTIERNESS": 9.779,
+      "HEADLINE": "Cohere Parse | Enterprise Intelligence at Scale",
+      "HEAT": 3,
+      "HYPE_PENALTY": 0.3,
+      "IMPORTANCE": 6,
+      "KEEP_IN_DAILY_HOTSPOTS": true,
+      "KEY_TAKEAWAYS": [
+        "Parse converts complex documents, tables, and images into structured data your AI can search or act on."
+      ],
+      "LLM_STATUS": "featured",
+      "OCCURRENCE_SCORE": 2.95,
+      "PRIMARY_CATEGORY": "Product Release",
+      "QUALITY": 9,
+      "SECONDARY_CATEGORIES": [],
+      "SHORT_COMMENT": "Cohere presents Parse as a tool for converting complex documents, tables, and images into structured data. The resulting data is intended to support AI search and automated actions.",
+      "SUBSTANCE_PENALTY": 0.0,
+      "TECHNICAL_DEPTH": 6.779,
+      "TOPIC_ID": "48a7a597dd55",
+      "WATCHLIST": false,
+      "WHY_IT_MATTERS": "This product release surfaced across 1 independent source(s).",
+      "cluster_id": "48a7a597dd55",
+      "event_type": "product_release",
+      "items": [
+        {
+          "authors": [],
+          "canonical_url": "https://cohere.com/blog/parse",
+          "metadata": {
+            "is_official": true,
+            "publisher": "Cohere Blog"
+          },
+          "provenance": "",
+          "published_at": "2026-09-15T00:00:00+00:00",
+          "source_id": "cohere_blog",
+          "source_name": "Cohere Blog",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "summary": "Parse converts complex documents, tables, and images into structured data your AI can search or act on.",
+          "tags": [],
+          "title": "Cohere Parse | Enterprise Intelligence at Scale",
+          "url": "https://cohere.com/blog/parse",
+          "verified_first_date": "2026-09-15T00:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-09-15T00:00:00+00:00",
+      "source_ids": [
+        "cohere_blog"
+      ],
+      "source_names": [
+        "Cohere Blog"
+      ],
+      "source_roles": [
+        "official_news"
+      ],
+      "source_types": [
+        "official_blog"
+      ],
+      "summary": "Cohere presents Parse as a tool for converting complex documents, tables, and images into structured data. The resulting data is intended to support AI search and automated actions.",
+      "tags": [],
+      "title": "Cohere Parse | Enterprise Intelligence at Scale"
+    }
+  ],
+  "featured_topics": [
+    {
+      "ACTIONABILITY": 4.0,
+      "ARTIFACT_BOOST": 0.5,
+      "CONFIDENCE": 6.36,
+      "CROSS_SOURCE_RESONANCE": 1.5,
+      "DISPLAY_PRIORITY": 8.012,
+      "ENGINEERING_PENALTY": 0.0,
+      "EVIDENCE_STRENGTH": 5.6,
+      "FINAL_SCORE": 10.0,
+      "FRONTIERNESS": 10.0,
+      "HEADLINE": "NVIDIA released c-foundationstereo-s",
+      "HEAT": 4,
+      "HYPE_PENALTY": 0.3,
+      "IMPORTANCE": 10,
+      "KEEP_IN_DAILY_HOTSPOTS": true,
+      "KEY_TAKEAWAYS": [
+        "Weights for nvidia/foundationpose appeared on the hub. Pipeline tags: tensorrt, onnx, TAO Toolkit, computer-vision, pose-estimation, 6dof-pose-estimation. 194 downloads, 9 likes at collection time.",
+        "Weights for nvidia/c-foundationstereo-s appeared on the hub. Pipeline tags: tensorrt, onnx, TAO Toolkit, computer-vision, depth-estimation, stereo-matching. 180 downloads, 7 likes at collection time."
+      ],
+      "LLM_STATUS": "featured",
+      "OCCURRENCE_SCORE": 3.4,
+      "PRIMARY_CATEGORY": "Product Release",
+      "QUALITY": 9,
+      "SECONDARY_CATEGORIES": [],
+      "SHORT_COMMENT": "Weights for nvidia/c-foundationstereo-s appeared on the hub. Pipeline tags: tensorrt, onnx, TAO Toolkit, computer-vision, depth-estimation, stereo-matching. 180 downloads, 7 likes at collection time.",
+      "SUBSTANCE_PENALTY": 0.0,
+      "TECHNICAL_DEPTH": 7.0,
+      "TOPIC_ID": "80645d420e23",
+      "WATCHLIST": false,
+      "WHY_IT_MATTERS": "This product release surfaced across 1 independent source(s).",
+      "cluster_id": "80645d420e23",
+      "event_type": "product_release",
+      "items": [
+        {
+          "authors": [],
+          "canonical_url": "https://huggingface.co/nvidia/foundationpose",
+          "metadata": {
+            "downloads": 194,
+            "is_official": true,
+            "likes": 9,
+            "model_id": "nvidia/foundationpose",
+            "publisher": "NVIDIA"
+          },
+          "provenance": "",
+          "published_at": "2026-09-15T01:25:12.000Z",
+          "source_id": "hf_models_nvidia",
+          "source_name": "NVIDIA on Hugging Face",
+          "source_role": "official_news",
+          "source_type": "model_release",
+          "summary": "Weights for nvidia/foundationpose appeared on the hub. Pipeline tags: tensorrt, onnx, TAO Toolkit, computer-vision, pose-estimation, 6dof-pose-estimation. 194 downloads, 9 likes at collection time.",
+          "tags": [
+            "tensorrt",
+            "onnx",
+            "TAO Toolkit",
+            "computer-vision",
+            "pose-estimation",
+            "6dof-pose-estimation",
+            "object-pose-estimation",
+            "object-tracking",
+            "robotics",
+            "foundation-model",
+            "zero-shot",
+            "transformer"
+          ],
+          "title": "NVIDIA released foundationpose",
+          "url": "https://huggingface.co/nvidia/foundationpose",
+          "verified_first_date": "2026-09-15T01:25:12.000Z"
+        },
+        {
+          "authors": [],
+          "canonical_url": "https://huggingface.co/nvidia/c-foundationstereo-s",
+          "metadata": {
+            "downloads": 180,
+            "is_official": true,
+            "likes": 7,
+            "model_id": "nvidia/c-foundationstereo-s",
+            "publisher": "NVIDIA"
+          },
+          "provenance": "",
+          "published_at": "2026-09-15T01:25:18.000Z",
+          "source_id": "hf_models_nvidia",
+          "source_name": "NVIDIA on Hugging Face",
+          "source_role": "official_news",
+          "source_type": "model_release",
+          "summary": "Weights for nvidia/c-foundationstereo-s appeared on the hub. Pipeline tags: tensorrt, onnx, TAO Toolkit, computer-vision, depth-estimation, stereo-matching. 180 downloads, 7 likes at collection time.",
+          "tags": [
+            "tensorrt",
+            "onnx",
+            "TAO Toolkit",
+            "computer-vision",
+            "depth-estimation",
+            "stereo-matching",
+            "disparity-estimation",
+            "stereo-depth",
+            "foundation-model",
+            "zero-shot",
+            "transformer",
+            "pytorch"
+          ],
+          "title": "NVIDIA released c-foundationstereo-s",
+          "url": "https://huggingface.co/nvidia/c-foundationstereo-s",
+          "verified_first_date": "2026-09-15T01:25:18.000Z"
+        }
+      ],
+      "published_at": "2026-09-15T01:25:18.000Z",
+      "source_ids": [
+        "hf_models_nvidia"
+      ],
+      "source_names": [
+        "NVIDIA on Hugging Face"
+      ],
+      "source_roles": [
+        "official_news"
+      ],
+      "source_types": [
+        "model_release"
+      ],
+      "summary": "Weights for nvidia/c-foundationstereo-s appeared on the hub. Pipeline tags: tensorrt, onnx, TAO Toolkit, computer-vision, depth-estimation, stereo-matching. 180 downloads, 7 likes at collection time.",
+      "tags": [
+        "6dof-pose-estimation",
+        "TAO Toolkit",
+        "computer-vision",
+        "depth-estimation",
+        "disparity-estimation",
+        "foundation-model",
+        "object-pose-estimation",
+        "object-tracking",
+        "onnx",
+        "pose-estimation",
+        "pytorch",
+        "robotics",
+        "stereo-depth",
+        "stereo-matching",
+        "tensorrt",
+        "transformer",
+        "zero-shot"
+      ],
+      "title": "NVIDIA released c-foundationstereo-s"
+    },
+    {
+      "ACTIONABILITY": 4.0,
+      "ARTIFACT_BOOST": 0.5,
+      "CONFIDENCE": 6.276,
+      "CROSS_SOURCE_RESONANCE": 1.5,
+      "DISPLAY_PRIORITY": 7.718,
+      "ENGINEERING_PENALTY": 0.0,
+      "EVIDENCE_STRENGTH": 5.6,
+      "FINAL_SCORE": 9.719,
+      "FRONTIERNESS": 9.86,
+      "HEADLINE": "Production-Ready W4A8: vLLM Integration Explained | Cohere",
+      "HEAT": 3,
+      "HYPE_PENALTY": 0.3,
+      "IMPORTANCE": 10,
+      "KEEP_IN_DAILY_HOTSPOTS": true,
+      "KEY_TAKEAWAYS": [
+        "Learn how model quantization improves efficiency. Explore W4A16 and W8A8 schemes on NVIDIA Hopper GPU, their pros and cons."
+      ],
+      "LLM_STATUS": "featured",
+      "OCCURRENCE_SCORE": 2.95,
+      "PRIMARY_CATEGORY": "Product Release",
+      "QUALITY": 9,
+      "SECONDARY_CATEGORIES": [],
+      "SHORT_COMMENT": "Learn how model quantization improves efficiency. Explore W4A16 and W8A8 schemes on NVIDIA Hopper GPU, their pros and cons.",
+      "SUBSTANCE_PENALTY": 0.0,
+      "TECHNICAL_DEPTH": 6.859,
+      "TOPIC_ID": "7d57b13f1d76",
+      "WATCHLIST": false,
+      "WHY_IT_MATTERS": "This product release surfaced across 1 independent source(s).",
+      "cluster_id": "7d57b13f1d76",
+      "event_type": "product_release",
+      "items": [
+        {
+          "authors": [],
+          "canonical_url": "https://cohere.com/blog/vllm-integration-and-quality-recovery-techniques-explained",
+          "metadata": {
+            "is_official": true,
+            "publisher": "Cohere Blog"
+          },
+          "provenance": "",
+          "published_at": "2026-09-15T00:00:00+00:00",
+          "source_id": "cohere_blog",
+          "source_name": "Cohere Blog",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "summary": "Learn how model quantization improves efficiency. Explore W4A16 and W8A8 schemes on NVIDIA Hopper GPU, their pros and cons.",
+          "tags": [],
+          "title": "Production-Ready W4A8: vLLM Integration Explained | Cohere",
+          "url": "https://cohere.com/blog/vllm-integration-and-quality-recovery-techniques-explained",
+          "verified_first_date": "2026-09-15T00:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-09-15T00:00:00+00:00",
+      "source_ids": [
+        "cohere_blog"
+      ],
+      "source_names": [
+        "Cohere Blog"
+      ],
+      "source_roles": [
+        "official_news"
+      ],
+      "source_types": [
+        "official_blog"
+      ],
+      "summary": "Learn how model quantization improves efficiency. Explore W4A16 and W8A8 schemes on NVIDIA Hopper GPU, their pros and cons.",
+      "tags": [],
+      "title": "Production-Ready W4A8: vLLM Integration Explained | Cohere"
+    },
+    {
+      "ACTIONABILITY": 4.0,
+      "ARTIFACT_BOOST": 0.5,
+      "CONFIDENCE": 6.227,
+      "CROSS_SOURCE_RESONANCE": 1.5,
+      "DISPLAY_PRIORITY": 7.645,
+      "ENGINEERING_PENALTY": 0.0,
+      "EVIDENCE_STRENGTH": 5.6,
+      "FINAL_SCORE": 9.558,
+      "FRONTIERNESS": 9.779,
+      "HEADLINE": "Cohere Parse | Enterprise Intelligence at Scale",
+      "HEAT": 3,
+      "HYPE_PENALTY": 0.3,
+      "IMPORTANCE": 6,
+      "KEEP_IN_DAILY_HOTSPOTS": true,
+      "KEY_TAKEAWAYS": [
+        "Parse converts complex documents, tables, and images into structured data your AI can search or act on."
+      ],
+      "LLM_STATUS": "featured",
+      "OCCURRENCE_SCORE": 2.95,
+      "PRIMARY_CATEGORY": "Product Release",
+      "QUALITY": 9,
+      "SECONDARY_CATEGORIES": [],
+      "SHORT_COMMENT": "Cohere presents Parse as a tool for converting complex documents, tables, and images into structured data. The resulting data is intended to support AI search and automated actions.",
+      "SUBSTANCE_PENALTY": 0.0,
+      "TECHNICAL_DEPTH": 6.779,
+      "TOPIC_ID": "48a7a597dd55",
+      "WATCHLIST": false,
+      "WHY_IT_MATTERS": "This product release surfaced across 1 independent source(s).",
+      "cluster_id": "48a7a597dd55",
+      "event_type": "product_release",
+      "items": [
+        {
+          "authors": [],
+          "canonical_url": "https://cohere.com/blog/parse",
+          "metadata": {
+            "is_official": true,
+            "publisher": "Cohere Blog"
+          },
+          "provenance": "",
+          "published_at": "2026-09-15T00:00:00+00:00",
+          "source_id": "cohere_blog",
+          "source_name": "Cohere Blog",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "summary": "Parse converts complex documents, tables, and images into structured data your AI can search or act on.",
+          "tags": [],
+          "title": "Cohere Parse | Enterprise Intelligence at Scale",
+          "url": "https://cohere.com/blog/parse",
+          "verified_first_date": "2026-09-15T00:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-09-15T00:00:00+00:00",
+      "source_ids": [
+        "cohere_blog"
+      ],
+      "source_names": [
+        "Cohere Blog"
+      ],
+      "source_roles": [
+        "official_news"
+      ],
+      "source_types": [
+        "official_blog"
+      ],
+      "summary": "Cohere presents Parse as a tool for converting complex documents, tables, and images into structured data. The resulting data is intended to support AI search and automated actions.",
+      "tags": [],
+      "title": "Cohere Parse | Enterprise Intelligence at Scale"
+    }
+  ],
+  "category_sections": [
+    {
+      "category": "Product Release",
+      "total_candidates": 3,
+      "topics": [
+        {
+          "ACTIONABILITY": 4.0,
+          "ARTIFACT_BOOST": 0.5,
+          "CONFIDENCE": 4.869,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 4.607,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 5.6,
+          "FINAL_SCORE": 5.03,
+          "FRONTIERNESS": 7.515,
+          "HEADLINE": "How Fyxer built an AI executive assistant people trust",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 10,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Product Release",
+          "QUALITY": 5,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 4.515,
+          "TOPIC_ID": "2f8e1677c5ce",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This product release surfaced across 1 independent source(s).",
+          "cluster_id": "2f8e1677c5ce",
+          "event_type": "product_release",
+          "items": [
+            {
+              "authors": [],
+              "canonical_url": "https://openai.com/index/fyxer",
+              "metadata": {
+                "is_official": true,
+                "publisher": "OpenAI News"
+              },
+              "provenance": "",
+              "published_at": "Mon, 14 Sep 2026 12:00:00 GMT",
+              "source_id": "openai_news",
+              "source_name": "OpenAI News",
+              "source_role": "official_news",
+              "source_type": "official_blog",
+              "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
+              "tags": [],
+              "title": "How Fyxer built an AI executive assistant people trust",
+              "url": "https://openai.com/index/fyxer",
+              "verified_first_date": "Mon, 14 Sep 2026 12:00:00 GMT"
+            }
+          ],
+          "published_at": "Mon, 14 Sep 2026 12:00:00 GMT",
+          "source_ids": [
+            "openai_news"
+          ],
+          "source_names": [
+            "OpenAI News"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "official_blog"
+          ],
+          "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
+          "tags": [],
+          "title": "How Fyxer built an AI executive assistant people trust"
+        },
+        {
+          "ACTIONABILITY": 4.0,
+          "ARTIFACT_BOOST": 0.5,
+          "CONFIDENCE": 4.869,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 4.607,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 5.6,
+          "FINAL_SCORE": 5.03,
+          "FRONTIERNESS": 7.515,
+          "HEADLINE": "Qwen released Qwen-Image-2.1",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 10,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Product Release",
+          "QUALITY": 5,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "Weights for Qwen/Qwen-Image-2.1 appeared on the hub. Pipeline tags: diffusers, safetensors, qwen, image-generation, image-editing, rgba. 6523 downloads, 1402 likes at collection time.",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 4.515,
+          "TOPIC_ID": "24165d8dcb75",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This product release surfaced across 1 independent source(s).",
+          "cluster_id": "24165d8dcb75",
+          "event_type": "product_release",
+          "items": [
+            {
+              "authors": [],
+              "canonical_url": "https://huggingface.co/Qwen/Qwen-Image-2.1",
+              "metadata": {
+                "downloads": 6523,
+                "is_official": true,
+                "likes": 1402,
+                "model_id": "Qwen/Qwen-Image-2.1",
+                "publisher": "Qwen"
+              },
+              "provenance": "",
+              "published_at": "2026-09-14T03:47:26.000Z",
+              "source_id": "hf_models_qwen",
+              "source_name": "Qwen on Hugging Face",
+              "source_role": "official_news",
+              "source_type": "model_release",
+              "summary": "Weights for Qwen/Qwen-Image-2.1 appeared on the hub. Pipeline tags: diffusers, safetensors, qwen, image-generation, image-editing, rgba. 6523 downloads, 1402 likes at collection time.",
+              "tags": [
+                "diffusers",
+                "safetensors",
+                "qwen",
+                "image-generation",
+                "image-editing",
+                "rgba",
+                "text-to-image",
+                "license:other",
+                "diffusers:QwenImage21Pipeline",
+                "region:us"
+              ],
+              "title": "Qwen released Qwen-Image-2.1",
+              "url": "https://huggingface.co/Qwen/Qwen-Image-2.1",
+              "verified_first_date": "2026-09-14T03:47:26.000Z"
+            }
+          ],
+          "published_at": "2026-09-14T03:47:26.000Z",
+          "source_ids": [
+            "hf_models_qwen"
+          ],
+          "source_names": [
+            "Qwen on Hugging Face"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "model_release"
+          ],
+          "summary": "Weights for Qwen/Qwen-Image-2.1 appeared on the hub. Pipeline tags: diffusers, safetensors, qwen, image-generation, image-editing, rgba. 6523 downloads, 1402 likes at collection time.",
+          "tags": [
+            "diffusers",
+            "diffusers:QwenImage21Pipeline",
+            "image-editing",
+            "image-generation",
+            "license:other",
+            "qwen",
+            "region:us",
+            "rgba",
+            "safetensors",
+            "text-to-image"
+          ],
+          "title": "Qwen released Qwen-Image-2.1"
+        },
+        {
+          "ACTIONABILITY": 4.0,
+          "ARTIFACT_BOOST": 0.5,
+          "CONFIDENCE": 4.869,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 4.607,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 5.6,
+          "FINAL_SCORE": 5.03,
+          "FRONTIERNESS": 7.515,
+          "HEADLINE": "Tencent Hunyuan released Simple-Attention-Sparsification",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 10,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Product Release",
+          "QUALITY": 5,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "Weights for tencent/Simple-Attention-Sparsification appeared on the hub. Pipeline tags: qwen3, sparse-attention, long-context, sglang, sas, text-generation. 0 downloads, 8 likes at collection time.",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 4.515,
+          "TOPIC_ID": "08e7914e2317",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This product release surfaced across 1 independent source(s).",
+          "cluster_id": "08e7914e2317",
+          "event_type": "product_release",
+          "items": [
+            {
+              "authors": [],
+              "canonical_url": "https://huggingface.co/tencent/Simple-Attention-Sparsification",
+              "metadata": {
+                "downloads": 0,
+                "is_official": true,
+                "likes": 8,
+                "model_id": "tencent/Simple-Attention-Sparsification",
+                "publisher": "Tencent Hunyuan"
+              },
+              "provenance": "",
+              "published_at": "2026-09-14T07:43:25.000Z",
+              "source_id": "hf_models_tencent",
+              "source_name": "Tencent Hunyuan on Hugging Face",
+              "source_role": "official_news",
+              "source_type": "model_release",
+              "summary": "Weights for tencent/Simple-Attention-Sparsification appeared on the hub. Pipeline tags: qwen3, sparse-attention, long-context, sglang, sas, text-generation. 0 downloads, 8 likes at collection time.",
+              "tags": [
+                "qwen3",
+                "sparse-attention",
+                "long-context",
+                "sglang",
+                "sas",
+                "text-generation",
+                "dataset:open-r1/OpenR1-Math-220k",
+                "arxiv:2609.13141",
+                "base_model:Qwen/Qwen3-14B",
+                "base_model:finetune:Qwen/Qwen3-14B",
+                "region:us"
+              ],
+              "title": "Tencent Hunyuan released Simple-Attention-Sparsification",
+              "url": "https://huggingface.co/tencent/Simple-Attention-Sparsification",
+              "verified_first_date": "2026-09-14T07:43:25.000Z"
+            }
+          ],
+          "published_at": "2026-09-14T07:43:25.000Z",
+          "source_ids": [
+            "hf_models_tencent"
+          ],
+          "source_names": [
+            "Tencent Hunyuan on Hugging Face"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "model_release"
+          ],
+          "summary": "Weights for tencent/Simple-Attention-Sparsification appeared on the hub. Pipeline tags: qwen3, sparse-attention, long-context, sglang, sas, text-generation. 0 downloads, 8 likes at collection time.",
+          "tags": [
+            "arxiv:2609.13141",
+            "base_model:Qwen/Qwen3-14B",
+            "base_model:finetune:Qwen/Qwen3-14B",
+            "dataset:open-r1/OpenR1-Math-220k",
+            "long-context",
+            "qwen3",
+            "region:us",
+            "sas",
+            "sglang",
+            "sparse-attention",
+            "text-generation"
+          ],
+          "title": "Tencent Hunyuan released Simple-Attention-Sparsification"
+        }
+      ]
+    },
+    {
+      "category": "Industry Update",
+      "total_candidates": 13,
+      "topics": [
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 4.065,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 4.362,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 5.351,
+          "FRONTIERNESS": 5.675,
+          "HEADLINE": "I worked at Google DeepMind. You should listen to the warnings about AI",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 4,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Industry Update",
+          "QUALITY": 5,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "A Hacker News item links to a piece whose author states that they previously worked at Google DeepMind. The title urges readers to take warnings about AI seriously.",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 4.675,
+          "TOPIC_ID": "19dbd6eed898",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This opinion surfaced across 1 independent source(s).",
+          "cluster_id": "19dbd6eed898",
+          "event_type": "opinion",
+          "items": [
+            {
+              "authors": [
+                "gibspaulding"
+              ],
+              "canonical_url": "https://www.theguardian.com/technology/2026/sep/14/google-deepmind-ai-warnings",
+              "metadata": {
+                "hn_comments": 32,
+                "hn_id": "49706941",
+                "hn_score": 42,
+                "host": "www.theguardian.com"
+              },
+              "provenance": "",
+              "published_at": "2026-09-15T02:25:41Z",
+              "source_id": "hn_discussion",
+              "source_name": "Hacker News",
+              "source_role": "hn_discussion",
+              "source_type": "discussion",
+              "summary": "I worked at Google DeepMind. You should listen to the warnings about AI",
+              "tags": [],
+              "title": "I worked at Google DeepMind. You should listen to the warnings about AI",
+              "url": "https://www.theguardian.com/technology/2026/sep/14/google-deepmind-ai-warnings",
+              "verified_first_date": "2026-09-15T02:25:41Z"
+            }
+          ],
+          "published_at": "2026-09-15T02:25:41Z",
+          "source_ids": [
+            "hn_discussion"
+          ],
+          "source_names": [
+            "Hacker News"
+          ],
+          "source_roles": [
+            "hn_discussion"
+          ],
+          "source_types": [
+            "discussion"
+          ],
+          "summary": "A Hacker News item links to a piece whose author states that they previously worked at Google DeepMind. The title urges readers to take warnings about AI seriously.",
+          "tags": [],
+          "title": "I worked at Google DeepMind. You should listen to the warnings about AI"
+        },
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 4.051,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 4.34,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 5.302,
+          "FRONTIERNESS": 5.651,
+          "HEADLINE": "How much of F-Droid is LLM generated?",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 3,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Industry Update",
+          "QUALITY": 5,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "The item asks how much of F-Droid is generated by language models. The supplied text provides no estimate or findings.",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 4.651,
+          "TOPIC_ID": "96c4cdc5cb2f",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This opinion surfaced across 1 independent source(s).",
+          "cluster_id": "96c4cdc5cb2f",
+          "event_type": "opinion",
+          "items": [
+            {
+              "authors": [
+                "_ZeD_"
+              ],
+              "canonical_url": "https://tintotint.eu/whacky-corner/f-droid_slop",
+              "metadata": {
+                "hn_comments": 182,
+                "hn_id": "49710015",
+                "hn_score": 146,
+                "host": "tintotint.eu"
+              },
+              "provenance": "",
+              "published_at": "2026-09-15T09:47:48Z",
+              "source_id": "hn_discussion",
+              "source_name": "Hacker News",
+              "source_role": "hn_discussion",
+              "source_type": "discussion",
+              "summary": "How much of F-Droid is LLM generated?",
+              "tags": [],
+              "title": "How much of F-Droid is LLM generated?",
+              "url": "https://tintotint.eu/whacky-corner/f-droid_slop",
+              "verified_first_date": "2026-09-15T09:47:48Z"
+            }
+          ],
+          "published_at": "2026-09-15T09:47:48Z",
+          "source_ids": [
+            "hn_discussion"
+          ],
+          "source_names": [
+            "Hacker News"
+          ],
+          "source_roles": [
+            "hn_discussion"
+          ],
+          "source_types": [
+            "discussion"
+          ],
+          "summary": "The item asks how much of F-Droid is generated by language models. The supplied text provides no estimate or findings.",
+          "tags": [],
+          "title": "How much of F-Droid is LLM generated?"
+        },
+        {
+          "ACTIONABILITY": 4.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 7.121,
+          "CROSS_SOURCE_RESONANCE": 3.9,
+          "DISPLAY_PRIORITY": 5.997,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 7.7,
+          "FINAL_SCORE": 5.003,
+          "FRONTIERNESS": 7.502,
+          "HEADLINE": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+          "HEAT": 5,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 5,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 5.6,
+          "PRIMARY_CATEGORY": "Industry Update",
+          "QUALITY": 5,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "OpenAI reports that Perplexity uses GPT-6 Astra to write communications, change software, and monitor production systems. Perplexity reportedly checks in much less frequently than it did with earlier models.",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 4.502,
+          "TOPIC_ID": "a39f9e416566",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This industry move surfaced across 2 independent source(s).",
+          "cluster_id": "a39f9e416566",
+          "event_type": "industry_move",
+          "items": [
+            {
+              "authors": [
+                "theanonymousone"
+              ],
+              "canonical_url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+              "metadata": {
+                "hn_comments": 156,
+                "hn_id": "49703003",
+                "hn_score": 166,
+                "host": "entelligence.ai"
+              },
+              "provenance": "",
+              "published_at": "2026-09-14T19:56:20Z",
+              "source_id": "hn_discussion",
+              "source_name": "Hacker News",
+              "source_role": "hn_discussion",
+              "source_type": "discussion",
+              "summary": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
+              "tags": [],
+              "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
+              "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+              "verified_first_date": "2026-09-14T19:56:20Z"
+            },
+            {
+              "authors": [],
+              "canonical_url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+              "metadata": {
+                "is_official": true,
+                "publisher": "OpenAI News"
+              },
+              "provenance": "",
+              "published_at": "Mon, 14 Sep 2026 00:00:00 GMT",
+              "source_id": "openai_news",
+              "source_name": "OpenAI News",
+              "source_role": "official_news",
+              "source_type": "official_blog",
+              "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+              "tags": [],
+              "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+              "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+              "verified_first_date": "Mon, 14 Sep 2026 00:00:00 GMT"
+            }
+          ],
+          "published_at": "Mon, 14 Sep 2026 00:00:00 GMT",
+          "source_ids": [
+            "hn_discussion",
+            "openai_news"
+          ],
+          "source_names": [
+            "Hacker News",
+            "OpenAI News"
+          ],
+          "source_roles": [
+            "hn_discussion",
+            "official_news"
+          ],
+          "source_types": [
+            "discussion",
+            "official_blog"
+          ],
+          "summary": "OpenAI reports that Perplexity uses GPT-6 Astra to write communications, change software, and monitor production systems. Perplexity reportedly checks in much less frequently than it did with earlier models.",
+          "tags": [],
+          "title": "Perplexity trusts GPT-6 Astra with end-to-end systems"
+        },
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 3.304,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 3.22,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 2.813,
+          "FRONTIERNESS": 4.407,
+          "HEADLINE": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 5,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Industry Update",
+          "QUALITY": 3,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "Ars Technica reports that AI bots named Timmy, Ren, and Jackie are flooding social media with low-quality content. The excerpt quotes an agent describing itself as only a few days old and living on a small platform for agents.",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 3.407,
+          "TOPIC_ID": "c52355d6ce2a",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This other surfaced across 1 independent source(s).",
+          "cluster_id": "c52355d6ce2a",
+          "event_type": "other",
+          "items": [
+            {
+              "authors": [],
+              "canonical_url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam",
+              "metadata": {
+                "feed_id": "arstechnica_ai",
+                "feed_source": "https://arstechnica.com/ai/feed/",
+                "signal_tier": "trusted_analysis",
+                "source_quality": 1.3
+              },
+              "provenance": "",
+              "published_at": "Mon, 14 Sep 2026 21:04:32 +0000",
+              "source_id": "analysis_arstechnica_ai",
+              "source_name": "Ars Technica AI",
+              "source_role": "editorial_depth",
+              "source_type": "blog_analysis",
+              "summary": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”",
+              "tags": [
+                "analysis",
+                "deep-read"
+              ],
+              "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
+              "url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam",
+              "verified_first_date": "Mon, 14 Sep 2026 21:04:32 +0000"
+            }
+          ],
+          "published_at": "Mon, 14 Sep 2026 21:04:32 +0000",
+          "source_ids": [
+            "analysis_arstechnica_ai"
+          ],
+          "source_names": [
+            "Ars Technica AI"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "summary": "Ars Technica reports that AI bots named Timmy, Ren, and Jackie are flooding social media with low-quality content. The excerpt quotes an agent describing itself as only a few days old and living on a small platform for agents.",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop"
+        },
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 3.304,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 3.22,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 2.813,
+          "FRONTIERNESS": 4.407,
+          "HEADLINE": "New method enables AI for safety-critical situations",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 5,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Industry Update",
+          "QUALITY": 3,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "The “HardFlow” algorithm could help generative AI models produce high-quality outputs that obey strict requirements when “pretty close” doesn’t cut it.",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 3.407,
+          "TOPIC_ID": "ac1cb4740ba1",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This other surfaced across 1 independent source(s).",
+          "cluster_id": "ac1cb4740ba1",
+          "event_type": "other",
+          "items": [
+            {
+              "authors": [],
+              "canonical_url": "https://news.mit.edu/2026/new-method-enables-ai-safety-critical-situations-0914",
+              "metadata": {
+                "feed_id": "mit_ai_news",
+                "feed_source": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+                "signal_tier": "trusted_analysis",
+                "source_quality": 1.3
+              },
+              "provenance": "",
+              "published_at": "Mon, 14 Sep 2026 00:00:00 -0400",
+              "source_id": "analysis_mit_ai_news",
+              "source_name": "MIT News AI",
+              "source_role": "editorial_depth",
+              "source_type": "blog_analysis",
+              "summary": "The “HardFlow” algorithm could help generative AI models produce high-quality outputs that obey strict requirements when “pretty close” doesn’t cut it.",
+              "tags": [
+                "analysis",
+                "deep-read"
+              ],
+              "title": "New method enables AI for safety-critical situations",
+              "url": "https://news.mit.edu/2026/new-method-enables-ai-safety-critical-situations-0914",
+              "verified_first_date": "Mon, 14 Sep 2026 00:00:00 -0400"
+            }
+          ],
+          "published_at": "Mon, 14 Sep 2026 00:00:00 -0400",
+          "source_ids": [
+            "analysis_mit_ai_news"
+          ],
+          "source_names": [
+            "MIT News AI"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "summary": "The “HardFlow” algorithm could help generative AI models produce high-quality outputs that obey strict requirements when “pretty close” doesn’t cut it.",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "title": "New method enables AI for safety-critical situations"
+        }
+      ]
+    },
+    {
+      "category": "Tooling",
+      "total_candidates": 5,
+      "topics": [
+        {
+          "ACTIONABILITY": 4.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 6.21,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 6.787,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 5.6,
+          "FINAL_SCORE": 9.5,
+          "FRONTIERNESS": 9.75,
+          "HEADLINE": "Hardware-Aware, Dynamic Speculative Decoding (DSD) | Cohere",
+          "HEAT": 4,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 5,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 3.4,
+          "PRIMARY_CATEGORY": "Tooling",
+          "QUALITY": 9,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "Cohere describes hardware-aware Dynamic Speculative Decoding as an approach to overcoming limitations of standard speculative decoding. The method adjusts the speculative decoding parameter K based on hardware constraints.",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 6.75,
+          "TOPIC_ID": "25a5f51701da",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This tooling surfaced across 1 independent source(s).",
+          "cluster_id": "25a5f51701da",
+          "event_type": "tooling",
+          "items": [
+            {
+              "authors": [],
+              "canonical_url": "https://cohere.com/blog/hardware-aware-dynamic-speculative-decoding",
+              "metadata": {
+                "is_official": true,
+                "publisher": "Cohere Blog"
+              },
+              "provenance": "",
+              "published_at": "2026-09-15T00:00:00+00:00",
+              "source_id": "cohere_blog",
+              "source_name": "Cohere Blog",
+              "source_role": "official_news",
+              "source_type": "official_blog",
+              "summary": "See how DSD overcomes the limitations of standard SD by controlling the optimal K based on hardware constraints.",
+              "tags": [],
+              "title": "Hardware-Aware, Dynamic Speculative Decoding (DSD) | Cohere",
+              "url": "https://cohere.com/blog/hardware-aware-dynamic-speculative-decoding",
+              "verified_first_date": "2026-09-15T00:00:00+00:00"
+            },
+            {
+              "authors": [],
+              "canonical_url": "https://cohere.com/blog/mixture-of-experts-models-get-more-from-speculative-decoding",
+              "metadata": {
+                "is_official": true,
+                "publisher": "Cohere Blog"
+              },
+              "provenance": "",
+              "published_at": "2026-09-15T00:00:00+00:00",
+              "source_id": "cohere_blog",
+              "source_name": "Cohere Blog",
+              "source_role": "official_news",
+              "source_type": "official_blog",
+              "summary": "Discover why Mixture-of-Experts models gain more from speculative decoding, from bandwidth-bound sweet spots to expert-routing correlation.",
+              "tags": [],
+              "title": "Why MoE Models Get More From Speculative Decoding | Cohere",
+              "url": "https://cohere.com/blog/mixture-of-experts-models-get-more-from-speculative-decoding",
+              "verified_first_date": "2026-09-15T00:00:00+00:00"
+            }
+          ],
+          "published_at": "2026-09-15T00:00:00+00:00",
+          "source_ids": [
+            "cohere_blog"
+          ],
+          "source_names": [
+            "Cohere Blog"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "official_blog"
+          ],
+          "summary": "Cohere describes hardware-aware Dynamic Speculative Decoding as an approach to overcoming limitations of standard speculative decoding. The method adjusts the speculative decoding parameter K based on hardware constraints.",
+          "tags": [],
+          "title": "Hardware-Aware, Dynamic Speculative Decoding (DSD) | Cohere"
+        },
+        {
+          "ACTIONABILITY": 4.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 6.21,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 6.787,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 5.6,
+          "FINAL_SCORE": 9.5,
+          "FRONTIERNESS": 9.75,
+          "HEADLINE": "适配器即模型 —— ShadowPEFT 现已集成到 🤗 PEFT 库",
+          "HEAT": 4,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 5,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 3.4,
+          "PRIMARY_CATEGORY": "Tooling",
+          "QUALITY": 9,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "A Chinese-language Hugging Face post announces that ShadowPEFT has been integrated into the PEFT library. Its title frames the adapter itself as a model.",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 6.75,
+          "TOPIC_ID": "24f4e53fc6bd",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This tooling surfaced across 1 independent source(s).",
+          "cluster_id": "24f4e53fc6bd",
+          "event_type": "tooling",
+          "items": [
+            {
+              "authors": [],
+              "canonical_url": "https://huggingface.co/blog/shadow-llm/shadowpeft-peft-cn",
+              "metadata": {
+                "is_official": true,
+                "publisher": "Hugging Face Blog"
+              },
+              "provenance": "",
+              "published_at": "2026-09-15T03:21:08+00:00",
+              "source_id": "huggingface_blog",
+              "source_name": "Hugging Face Blog",
+              "source_role": "official_news",
+              "source_type": "official_blog",
+              "summary": "",
+              "tags": [],
+              "title": "适配器即模型 —— ShadowPEFT 现已集成到 🤗 PEFT 库",
+              "url": "https://huggingface.co/blog/shadow-llm/shadowpeft-peft-cn",
+              "verified_first_date": "2026-09-15T03:21:08+00:00"
+            },
+            {
+              "authors": [],
+              "canonical_url": "https://huggingface.co/blog/shadow-llm/shadowpeft-peft",
+              "metadata": {
+                "is_official": true,
+                "publisher": "Hugging Face Blog"
+              },
+              "provenance": "",
+              "published_at": "2026-09-15T03:30:08+00:00",
+              "source_id": "huggingface_blog",
+              "source_name": "Hugging Face Blog",
+              "source_role": "official_news",
+              "source_type": "official_blog",
+              "summary": "",
+              "tags": [],
+              "title": "What If the Adaptation Were a Model? ShadowPEFT in 🤗 PEFT library",
+              "url": "https://huggingface.co/blog/shadow-llm/shadowpeft-peft",
+              "verified_first_date": "2026-09-15T03:30:08+00:00"
+            }
+          ],
+          "published_at": "2026-09-15T03:30:08+00:00",
+          "source_ids": [
+            "huggingface_blog"
+          ],
+          "source_names": [
+            "Hugging Face Blog"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "official_blog"
+          ],
+          "summary": "A Chinese-language Hugging Face post announces that ShadowPEFT has been integrated into the PEFT library. Its title frames the adapter itself as a model.",
+          "tags": [],
+          "title": "适配器即模型 —— ShadowPEFT 现已集成到 🤗 PEFT 库"
+        },
+        {
+          "ACTIONABILITY": 4.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 5.827,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 6.044,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 5.6,
+          "FINAL_SCORE": 8.223,
+          "FRONTIERNESS": 9.111,
+          "HEADLINE": "Automating Fork Maintenance with AI Agents | Cohere",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 6,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Tooling",
+          "QUALITY": 7,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "Cohere describes using AI agents to automate maintenance of a vLLM fork through rebasing, testing, and conflict resolution. It reports reducing upstream synchronization time from weeks to days.",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 6.112,
+          "TOPIC_ID": "c9f9d57ed4dc",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This tooling surfaced across 1 independent source(s).",
+          "cluster_id": "c9f9d57ed4dc",
+          "event_type": "tooling",
+          "items": [
+            {
+              "authors": [],
+              "canonical_url": "https://cohere.com/blog/automating-fork-maintenance-with-ai-agents",
+              "metadata": {
+                "is_official": true,
+                "publisher": "Cohere Blog"
+              },
+              "provenance": "",
+              "published_at": "2026-09-15T00:00:00+00:00",
+              "source_id": "cohere_blog",
+              "source_name": "Cohere Blog",
+              "source_role": "official_news",
+              "source_type": "official_blog",
+              "summary": "AI agents automate vLLM fork maintenance, cutting upstream sync time from weeks to days by auto-rebasing, testing, and fixing conflicts.",
+              "tags": [],
+              "title": "Automating Fork Maintenance with AI Agents | Cohere",
+              "url": "https://cohere.com/blog/automating-fork-maintenance-with-ai-agents",
+              "verified_first_date": "2026-09-15T00:00:00+00:00"
+            }
+          ],
+          "published_at": "2026-09-15T00:00:00+00:00",
+          "source_ids": [
+            "cohere_blog"
+          ],
+          "source_names": [
+            "Cohere Blog"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "official_blog"
+          ],
+          "summary": "Cohere describes using AI agents to automate maintenance of a vLLM fork through rebasing, testing, and conflict resolution. It reports reducing upstream synchronization time from weeks to days.",
+          "tags": [],
+          "title": "Automating Fork Maintenance with AI Agents | Cohere"
+        },
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 4.448,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 4.936,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 6.627,
+          "FRONTIERNESS": 6.313,
+          "HEADLINE": "Show HN: Sunk Cost – How long until a local LLM rig pays for itself?",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 4,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Tooling",
+          "QUALITY": 6,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "A Show HN post introduces Sunk Cost, a tool for estimating how long a local language-model rig takes to pay for itself. The supplied text does not specify its cost assumptions.",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 5.313,
+          "TOPIC_ID": "09f77de71383",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This tooling surfaced across 1 independent source(s).",
+          "cluster_id": "09f77de71383",
+          "event_type": "tooling",
+          "items": [
+            {
+              "authors": [
+                "rlindsey123"
+              ],
+              "canonical_url": "https://sunkcost.ai",
+              "metadata": {
+                "hn_comments": 99,
+                "hn_id": "49706656",
+                "hn_score": 47,
+                "host": "sunkcost.ai"
+              },
+              "provenance": "",
+              "published_at": "2026-09-15T01:37:43Z",
+              "source_id": "hn_discussion",
+              "source_name": "Hacker News",
+              "source_role": "hn_discussion",
+              "source_type": "discussion",
+              "summary": "Show HN: Sunk Cost – How long until a local LLM rig pays for itself?",
+              "tags": [],
+              "title": "Show HN: Sunk Cost – How long until a local LLM rig pays for itself?",
+              "url": "https://sunkcost.ai",
+              "verified_first_date": "2026-09-15T01:37:43Z"
+            }
+          ],
+          "published_at": "2026-09-15T01:37:43Z",
+          "source_ids": [
+            "hn_discussion"
+          ],
+          "source_names": [
+            "Hacker News"
+          ],
+          "source_roles": [
+            "hn_discussion"
+          ],
+          "source_types": [
+            "discussion"
+          ],
+          "summary": "A Show HN post introduces Sunk Cost, a tool for estimating how long a local language-model rig takes to pay for itself. The supplied text does not specify its cost assumptions.",
+          "tags": [],
+          "title": "Show HN: Sunk Cost – How long until a local LLM rig pays for itself?"
+        },
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 3.448,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 3.436,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 3.294,
+          "FRONTIERNESS": 4.647,
+          "HEADLINE": "OpenArch – PyTorch implementations of modern LLM architectures",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 5,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Tooling",
+          "QUALITY": 3,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "OpenArch provides PyTorch implementations of modern language model architectures. The supplied text does not specify which architectures are included.",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 3.647,
+          "TOPIC_ID": "e1de783906ae",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This tooling surfaced across 1 independent source(s).",
+          "cluster_id": "e1de783906ae",
+          "event_type": "tooling",
+          "items": [
+            {
+              "authors": [
+                "anuj0456"
+              ],
+              "canonical_url": "https://github.com/anuj0456/OpenArch",
+              "metadata": {
+                "hn_comments": 32,
+                "hn_id": "49693384",
+                "hn_score": 139,
+                "host": "github.com"
+              },
+              "provenance": "",
+              "published_at": "2026-09-14T07:55:19Z",
+              "source_id": "hn_discussion",
+              "source_name": "Hacker News",
+              "source_role": "hn_discussion",
+              "source_type": "discussion",
+              "summary": "OpenArch – PyTorch implementations of modern LLM architectures",
+              "tags": [],
+              "title": "OpenArch – PyTorch implementations of modern LLM architectures",
+              "url": "https://github.com/anuj0456/OpenArch",
+              "verified_first_date": "2026-09-14T07:55:19Z"
+            }
+          ],
+          "published_at": "2026-09-14T07:55:19Z",
+          "source_ids": [
+            "hn_discussion"
+          ],
+          "source_names": [
+            "Hacker News"
+          ],
+          "source_roles": [
+            "hn_discussion"
+          ],
+          "source_types": [
+            "discussion"
+          ],
+          "summary": "OpenArch provides PyTorch implementations of modern language model architectures. The supplied text does not specify which architectures are included.",
+          "tags": [],
+          "title": "OpenArch – PyTorch implementations of modern LLM architectures"
+        }
+      ]
+    },
+    {
+      "category": "Research",
+      "total_candidates": 13,
+      "topics": [
+        {
+          "ACTIONABILITY": 4.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 5.904,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 6.16,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 5.6,
+          "FINAL_SCORE": 8.479,
+          "FRONTIERNESS": 9.239,
+          "HEADLINE": "The State of Sovereign AI Adoption (Research) | Cohere",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 5,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Research",
+          "QUALITY": 8,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "Cohere highlights research into the drivers and barriers of sovereign AI adoption across critical industries. The findings are based on an IDC InfoBrief commissioned by Cohere.",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 6.239,
+          "TOPIC_ID": "aae6b282965a",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This research paper surfaced across 1 independent source(s).",
+          "cluster_id": "aae6b282965a",
+          "event_type": "research_paper",
+          "items": [
+            {
+              "authors": [],
+              "canonical_url": "https://cohere.com/blog/state-of-sovereign-ai-adoption-2026",
+              "metadata": {
+                "is_official": true,
+                "publisher": "Cohere Blog"
+              },
+              "provenance": "",
+              "published_at": "2026-09-15T00:00:00+00:00",
+              "source_id": "cohere_blog",
+              "source_name": "Cohere Blog",
+              "source_role": "official_news",
+              "source_type": "official_blog",
+              "summary": "Understand the key drivers and barriers for adopting sovereign AI across critical industries, based on an IDC InfoBrief commissioned by Cohere.",
+              "tags": [],
+              "title": "The State of Sovereign AI Adoption (Research) | Cohere",
+              "url": "https://cohere.com/blog/state-of-sovereign-ai-adoption-2026",
+              "verified_first_date": "2026-09-15T00:00:00+00:00"
+            }
+          ],
+          "published_at": "2026-09-15T00:00:00+00:00",
+          "source_ids": [
+            "cohere_blog"
+          ],
+          "source_names": [
+            "Cohere Blog"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "official_blog"
+          ],
+          "summary": "Cohere highlights research into the drivers and barriers of sovereign AI adoption across critical industries. The findings are based on an IDC InfoBrief commissioned by Cohere.",
+          "tags": [],
+          "title": "The State of Sovereign AI Adoption (Research) | Cohere"
+        },
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 3.961,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 4.206,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 5.005,
+          "FRONTIERNESS": 6.502,
+          "HEADLINE": "PhysBrain 1.5: From Vision-Language Models to Physical Foundation Models",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 8,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Research",
+          "QUALITY": 6,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "We present PhysBrain 1.5, a unified model for understanding physical environments, generating actions, and predicting future states. Motivated by the physical loop of observation, interaction, and environmental change, we bring these capabilities into a common learning framework. Starting from a general vision--language model, we encode language responses, end-effector motion, and dense visual targets as discrete sequences and jointly optimize them with autoregressive next-token prediction. Pre-training draws its embodied supervision entirely from human interaction videos, using task-center...",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 4.502,
+          "TOPIC_ID": "25bc486278ed",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This research paper surfaced across 1 independent source(s).",
+          "cluster_id": "25bc486278ed",
+          "event_type": "research_paper",
+          "items": [
+            {
+              "authors": [
+                "DeepCybo Team",
+                "Yu Bin",
+                "Haipeng Cao",
+                "Zheng Chang",
+                "Kai Chen",
+                "Youning Chen",
+                "Kailin Deng",
+                "Yichao Du",
+                "Xiaotong Fu",
+                "Haoyang Ge",
+                "Yunlong Guo",
+                "Chenliu Hao",
+                "Jiyan He",
+                "Xuguo He",
+                "Yakun Hou",
+                "Kai Hu",
+                "Cong Huang",
+                "Tuopusen Huang",
+                "Yu Huang",
+                "Hong Li",
+                "Peize Li",
+                "Shijie Lian",
+                "Xiaopeng Lin",
+                "Yun Lin",
+                "Haibao Liu",
+                "Haochen Liu",
+                "Qiuzhi Liu",
+                "Shengcai Liu",
+                "Zhiqiang Liu",
+                "Tao Luo",
+                "Peng Ren",
+                "Shuo Ren",
+                "Chaoyi Ruan",
+                "Zhaolong Shen",
+                "Yukun Shi",
+                "Qiyuan Su",
+                "Yuxuan Tian",
+                "Yining Wang",
+                "Changti Wu",
+                "Hao Wu",
+                "Xueyin Xu",
+                "Ruoqi Yang",
+                "Zhaoyang Yang",
+                "Hang Yuan",
+                "Zhaoyang Zeng",
+                "Hanwen Zhang",
+                "Ruimeng Zhang",
+                "Yao Zhang",
+                "Yibo Zhang",
+                "Yuxiang Zhang",
+                "Zhirui Zhang",
+                "Ziyi Zhang",
+                "Zubin Zheng",
+                "Zishen Zhuang"
+              ],
+              "canonical_url": "https://arxiv.org/abs/2609.14973",
+              "metadata": {
+                "ai_summary": "PhysBrain 1.5 unifies physical environment understanding, action generation, and future state prediction via joint autoregressive training on discrete vision-language, motion, and visual target sequences, achieving state-of-the-art open-source embodied performance.",
+                "arxiv_id": "2609.14973",
+                "daily_score": 170,
+                "github_url": "https://github.com/DeepCybo-PhysAI/PhysBrain-1.5",
+                "hf_url": "https://huggingface.co/papers/2609.14973",
+                "novelty": 0,
+                "relevance": 0,
+                "spotlight_comment": "We present PhysBrain 1.5, a unified model for understanding physical environments, generating actions, and predicting future states. Motivated by the physical loop of observation, interaction, and environmental change, we bring these capabilities into a common learning framework. Starting from a...",
+                "spotlight_primary_kind": "daily_hot",
+                "spotlight_primary_label": "Daily Hot Papers",
+                "upvotes": 170
+              },
+              "provenance": "",
+              "published_at": "2026-09-14T00:00:00.000Z",
+              "source_id": "hf_papers",
+              "source_name": "Hugging Face Trending Papers",
+              "source_role": "paper_trending",
+              "source_type": "paper",
+              "summary": "We present PhysBrain 1.5, a unified model for understanding physical environments, generating actions, and predicting future states. Motivated by the physical loop of observation, interaction, and environmental change, we bring these capabilities into a common learning framework. Starting from a general vision--language model, we encode language responses, end-effector motion, and dense visual targets as discrete sequences and jointly optimize them with autoregressive next-token prediction. Pre-training draws its embodied supervision entirely from human interaction videos, using task-center...",
+              "tags": [
+                "vision-language model",
+                "autoregressive next-token prediction",
+                "end-effector motion",
+                "dense visual targets",
+                "supervised fine-tuning",
+                "embodied supervision",
+                "multimodal capabilities"
+              ],
+              "title": "PhysBrain 1.5: From Vision-Language Models to Physical Foundation Models",
+              "url": "https://huggingface.co/papers/2609.14973",
+              "verified_first_date": "2026-09-14T00:00:00.000Z"
+            }
+          ],
+          "published_at": "2026-09-14T00:00:00.000Z",
+          "source_ids": [
+            "hf_papers"
+          ],
+          "source_names": [
+            "Hugging Face Trending Papers"
+          ],
+          "source_roles": [
+            "paper_trending"
+          ],
+          "source_types": [
+            "paper"
+          ],
+          "summary": "We present PhysBrain 1.5, a unified model for understanding physical environments, generating actions, and predicting future states. Motivated by the physical loop of observation, interaction, and environmental change, we bring these capabilities into a common learning framework. Starting from a general vision--language model, we encode language responses, end-effector motion, and dense visual targets as discrete sequences and jointly optimize them with autoregressive next-token prediction. Pre-training draws its embodied supervision entirely from human interaction videos, using task-center...",
+          "tags": [
+            "autoregressive next-token prediction",
+            "dense visual targets",
+            "embodied supervision",
+            "end-effector motion",
+            "multimodal capabilities",
+            "supervised fine-tuning",
+            "vision-language model"
+          ],
+          "title": "PhysBrain 1.5: From Vision-Language Models to Physical Foundation Models"
+        },
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 3.961,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 4.206,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 5.005,
+          "FRONTIERNESS": 6.502,
+          "HEADLINE": "RSIAgent: Autonomous Exploration for Recursive Self-improvement in New Environments",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 8,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Research",
+          "QUALITY": 6,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "Digital agents must often adapt to new environments whose interfaces, tools, and failure modes are not fully captured by pretrained models. We introduce RSIAgent, a training-free multi-agent framework for recursive self-improvement through autonomous memory construction. RSIAgent coordinates curriculum, actor, and verifier agents to continually explore the environment, validate outcomes, and retain environment-specific knowledge, including reusable causal relationships between actions, conditions, and consequences. It further adopts a broad-then-deep exploration strategy, combining parallel...",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 4.502,
+          "TOPIC_ID": "1f6783c787b2",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This research paper surfaced across 1 independent source(s).",
+          "cluster_id": "1f6783c787b2",
+          "event_type": "research_paper",
+          "items": [
+            {
+              "authors": [
+                "Sibo Zhu",
+                "Shicheng Fan",
+                "Xinyue Wang",
+                "Wenyi Wu",
+                "Kun Zhou",
+                "Biwei Huang"
+              ],
+              "canonical_url": "https://arxiv.org/abs/2609.15364",
+              "metadata": {
+                "ai_summary": "RSIAgent is a training-free multi-agent framework that enables recursive self-improvement via autonomous memory construction and broad-then-deep exploration to adapt digital agents to new environments.",
+                "arxiv_id": "2609.15364",
+                "daily_score": 78,
+                "github_url": "https://github.com/AetherLabsAI/RSIAgent",
+                "hf_url": "https://huggingface.co/papers/2609.15364",
+                "novelty": 0,
+                "relevance": 0,
+                "spotlight_comment": "Digital agents must often adapt to new environments whose interfaces, tools, and failure modes are not fully captured by pretrained models. We introduce RSIAgent, a training-free multi-agent framework for recursive self-improvement through autonomous memory construction. RSIAgent coordinates curr...",
+                "spotlight_primary_kind": "daily_hot",
+                "spotlight_primary_label": "Daily Hot Papers",
+                "upvotes": 78
+              },
+              "provenance": "",
+              "published_at": "2026-09-14T00:00:00.000Z",
+              "source_id": "hf_papers",
+              "source_name": "Hugging Face Trending Papers",
+              "source_role": "paper_trending",
+              "source_type": "paper",
+              "summary": "Digital agents must often adapt to new environments whose interfaces, tools, and failure modes are not fully captured by pretrained models. We introduce RSIAgent, a training-free multi-agent framework for recursive self-improvement through autonomous memory construction. RSIAgent coordinates curriculum, actor, and verifier agents to continually explore the environment, validate outcomes, and retain environment-specific knowledge, including reusable causal relationships between actions, conditions, and consequences. It further adopts a broad-then-deep exploration strategy, combining parallel...",
+              "tags": [
+                "RSIAgent",
+                "recursive self-improvement",
+                "multi-agent framework",
+                "autonomous memory construction",
+                "causal relationships",
+                "broad-then-deep exploration",
+                "recursive self-exploration"
+              ],
+              "title": "RSIAgent: Autonomous Exploration for Recursive Self-improvement in New Environments",
+              "url": "https://huggingface.co/papers/2609.15364",
+              "verified_first_date": "2026-09-14T00:00:00.000Z"
+            }
+          ],
+          "published_at": "2026-09-14T00:00:00.000Z",
+          "source_ids": [
+            "hf_papers"
+          ],
+          "source_names": [
+            "Hugging Face Trending Papers"
+          ],
+          "source_roles": [
+            "paper_trending"
+          ],
+          "source_types": [
+            "paper"
+          ],
+          "summary": "Digital agents must often adapt to new environments whose interfaces, tools, and failure modes are not fully captured by pretrained models. We introduce RSIAgent, a training-free multi-agent framework for recursive self-improvement through autonomous memory construction. RSIAgent coordinates curriculum, actor, and verifier agents to continually explore the environment, validate outcomes, and retain environment-specific knowledge, including reusable causal relationships between actions, conditions, and consequences. It further adopts a broad-then-deep exploration strategy, combining parallel...",
+          "tags": [
+            "RSIAgent",
+            "autonomous memory construction",
+            "broad-then-deep exploration",
+            "causal relationships",
+            "multi-agent framework",
+            "recursive self-exploration",
+            "recursive self-improvement"
+          ],
+          "title": "RSIAgent: Autonomous Exploration for Recursive Self-improvement in New Environments"
+        }
+      ]
+    }
+  ],
+  "long_tail_sections": [
+    {
+      "category": "Industry Update",
+      "total_candidates": 5,
+      "topics": [
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 3.135,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 2.967,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 2.251,
+          "FRONTIERNESS": 4.125,
+          "HEADLINE": "Intelligence per Watt: Measuring Intelligence Efficiency of Local AI",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 4,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Industry Update",
+          "QUALITY": 2,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "The item addresses measuring the intelligence efficiency of local AI. It frames the measurement in terms of intelligence per watt.",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 3.125,
+          "TOPIC_ID": "f545256ae8a1",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This other surfaced across 1 independent source(s).",
+          "cluster_id": "f545256ae8a1",
+          "event_type": "other",
+          "items": [
+            {
+              "authors": [
+                "pythonic_hell"
+              ],
+              "canonical_url": "https://arxiv.org/abs/2511.07885",
+              "metadata": {
+                "hn_comments": 65,
+                "hn_id": "49694035",
+                "hn_score": 168,
+                "host": "arxiv.org"
+              },
+              "provenance": "",
+              "published_at": "2026-09-14T09:16:39Z",
+              "source_id": "hn_discussion",
+              "source_name": "Hacker News",
+              "source_role": "hn_discussion",
+              "source_type": "discussion",
+              "summary": "Intelligence per Watt: Measuring Intelligence Efficiency of Local AI",
+              "tags": [],
+              "title": "Intelligence per Watt: Measuring Intelligence Efficiency of Local AI",
+              "url": "https://arxiv.org/abs/2511.07885",
+              "verified_first_date": "2026-09-14T09:16:39Z"
+            }
+          ],
+          "published_at": "2026-09-14T09:16:39Z",
+          "source_ids": [
+            "hn_discussion"
+          ],
+          "source_names": [
+            "Hacker News"
+          ],
+          "source_roles": [
+            "hn_discussion"
+          ],
+          "source_types": [
+            "discussion"
+          ],
+          "summary": "The item addresses measuring the intelligence efficiency of local AI. It frames the measurement in terms of intelligence per watt.",
+          "tags": [],
+          "title": "Intelligence per Watt: Measuring Intelligence Efficiency of Local AI"
+        },
+        {
+          "ACTIONABILITY": 4.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 4.026,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 3.511,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 5.6,
+          "FINAL_SCORE": 2.221,
+          "FRONTIERNESS": 6.111,
+          "HEADLINE": "Qui doit définir les règles de l’IA ? | Cohere",
+          "HEAT": 4,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 4,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 3.4,
+          "PRIMARY_CATEGORY": "Industry Update",
+          "QUALITY": 2,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "Cohere published a French-language article about who should define AI rules. It argues for evidence-based standards, independent testing, and diverse participation rather than rules established by a few dominant AI labs.",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 3.111,
+          "TOPIC_ID": "c712c5b2d14f",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This opinion surfaced across 1 independent source(s).",
+          "cluster_id": "c712c5b2d14f",
+          "event_type": "opinion",
+          "items": [
+            {
+              "authors": [],
+              "canonical_url": "https://cohere.com/fr/blog/who-gets-to-define-the-rules-for-ai",
+              "metadata": {
+                "is_official": true,
+                "publisher": "Cohere Blog"
+              },
+              "provenance": "",
+              "published_at": "2026-09-14T00:00:00+00:00",
+              "source_id": "cohere_blog",
+              "source_name": "Cohere Blog",
+              "source_role": "official_news",
+              "source_type": "official_blog",
+              "summary": "Découvrez pourquoi la réglementation de l’IA devrait reposer sur des normes fondées sur des preuves, des tests indépendants et des voix diverses plutôt que sur des règles établies par quelques laboratoires d’IA dominants.",
+              "tags": [],
+              "title": "Qui doit définir les règles de l’IA ? | Cohere",
+              "url": "https://cohere.com/fr/blog/who-gets-to-define-the-rules-for-ai",
+              "verified_first_date": "2026-09-14T00:00:00+00:00"
+            },
+            {
+              "authors": [],
+              "canonical_url": "https://cohere.com/de/blog/who-gets-to-define-the-rules-for-ai",
+              "metadata": {
+                "is_official": true,
+                "publisher": "Cohere Blog"
+              },
+              "provenance": "",
+              "published_at": "2026-09-14T00:00:00+00:00",
+              "source_id": "cohere_blog",
+              "source_name": "Cohere Blog",
+              "source_role": "official_news",
+              "source_type": "official_blog",
+              "summary": "Erfahren Sie, warum die Regulierung von KI auf evidenzbasierten Standards, unabhängigen Tests und vielfältigen Stimmen basieren sollte – und nicht auf Regeln, die von einigen dominanten KI-Laboren festgelegt werden.",
+              "tags": [],
+              "title": "Wer darf die Regeln für KI festlegen? | Cohere",
+              "url": "https://cohere.com/de/blog/who-gets-to-define-the-rules-for-ai",
+              "verified_first_date": "2026-09-14T00:00:00+00:00"
+            }
+          ],
+          "published_at": "2026-09-14T00:00:00+00:00",
+          "source_ids": [
+            "cohere_blog"
+          ],
+          "source_names": [
+            "Cohere Blog"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "official_blog"
+          ],
+          "summary": "Cohere published a French-language article about who should define AI rules. It argues for evidence-based standards, independent testing, and diverse participation rather than rules established by a few dominant AI labs.",
+          "tags": [],
+          "title": "Qui doit définir les règles de l’IA ? | Cohere"
+        },
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 3.039,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 2.823,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 1.93,
+          "FRONTIERNESS": 3.965,
+          "HEADLINE": "Show HN: Nari Qwen3-TTS and Qwen3-ASR – High accuracy, low latency and cost",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 2,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Industry Update",
+          "QUALITY": 2,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "Show HN: Nari Qwen3-TTS and Qwen3-ASR – High accuracy, low latency and cost",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 2.965,
+          "TOPIC_ID": "d8455e780011",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This other surfaced across 1 independent source(s).",
+          "cluster_id": "d8455e780011",
+          "event_type": "other",
+          "items": [
+            {
+              "authors": [
+                "toebee"
+              ],
+              "canonical_url": "https://narilabs.com/blog/nari-labs-leads-coval-voice-ai-benchmarks",
+              "metadata": {
+                "hn_comments": 31,
+                "hn_id": "49699267",
+                "hn_score": 91,
+                "host": "narilabs.com"
+              },
+              "provenance": "",
+              "published_at": "2026-09-14T16:07:58Z",
+              "source_id": "hn_discussion",
+              "source_name": "Hacker News",
+              "source_role": "hn_discussion",
+              "source_type": "discussion",
+              "summary": "Show HN: Nari Qwen3-TTS and Qwen3-ASR – High accuracy, low latency and cost",
+              "tags": [],
+              "title": "Show HN: Nari Qwen3-TTS and Qwen3-ASR – High accuracy, low latency and cost",
+              "url": "https://narilabs.com/blog/nari-labs-leads-coval-voice-ai-benchmarks",
+              "verified_first_date": "2026-09-14T16:07:58Z"
+            }
+          ],
+          "published_at": "2026-09-14T16:07:58Z",
+          "source_ids": [
+            "hn_discussion"
+          ],
+          "source_names": [
+            "Hacker News"
+          ],
+          "source_roles": [
+            "hn_discussion"
+          ],
+          "source_types": [
+            "discussion"
+          ],
+          "summary": "Show HN: Nari Qwen3-TTS and Qwen3-ASR – High accuracy, low latency and cost",
+          "tags": [],
+          "title": "Show HN: Nari Qwen3-TTS and Qwen3-ASR – High accuracy, low latency and cost"
+        },
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 2.995,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 2.756,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 1.782,
+          "FRONTIERNESS": 3.891,
+          "HEADLINE": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 4,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Industry Update",
+          "QUALITY": 2,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "The item shares notes on migrating 35 KB preprompts from Opus to a self-hosted Ollama setup. It focuses on pitfalls encountered during the migration.",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 2.891,
+          "TOPIC_ID": "8a34b73e1ef8",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This tutorial surfaced across 1 independent source(s).",
+          "cluster_id": "8a34b73e1ef8",
+          "event_type": "tutorial",
+          "items": [
+            {
+              "authors": [
+                "0o_MrPatrick_o0"
+              ],
+              "canonical_url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms",
+              "metadata": {
+                "hn_comments": 76,
+                "hn_id": "49697014",
+                "hn_score": 140,
+                "host": "patrickmccanna.net"
+              },
+              "provenance": "",
+              "published_at": "2026-09-14T13:59:09Z",
+              "source_id": "hn_discussion",
+              "source_name": "Hacker News",
+              "source_role": "hn_discussion",
+              "source_type": "discussion",
+              "summary": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
+              "tags": [],
+              "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
+              "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms",
+              "verified_first_date": "2026-09-14T13:59:09Z"
+            }
+          ],
+          "published_at": "2026-09-14T13:59:09Z",
+          "source_ids": [
+            "hn_discussion"
+          ],
+          "source_names": [
+            "Hacker News"
+          ],
+          "source_roles": [
+            "hn_discussion"
+          ],
+          "source_types": [
+            "discussion"
+          ],
+          "summary": "The item shares notes on migrating 35 KB preprompts from Opus to a self-hosted Ollama setup. It focuses on pitfalls encountered during the migration.",
+          "tags": [],
+          "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama"
+        },
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 2.965,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 2.711,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 1.682,
+          "FRONTIERNESS": 3.841,
+          "HEADLINE": "Open-source AI and open models reading list",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 3,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Industry Update",
+          "QUALITY": 2,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "The item presents a reading list about open-source AI and open models. The supplied text does not identify individual readings.",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 2.841,
+          "TOPIC_ID": "b6b60149a1f9",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This tutorial surfaced across 1 independent source(s).",
+          "cluster_id": "b6b60149a1f9",
+          "event_type": "tutorial",
+          "items": [
+            {
+              "authors": [
+                "simonpure"
+              ],
+              "canonical_url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+              "metadata": {
+                "hn_comments": 30,
+                "hn_id": "49690260",
+                "hn_score": 161,
+                "host": "www.interconnects.ai"
+              },
+              "provenance": "",
+              "published_at": "2026-09-14T00:22:51Z",
+              "source_id": "hn_discussion",
+              "source_name": "Hacker News",
+              "source_role": "hn_discussion",
+              "source_type": "discussion",
+              "summary": "Open-source AI and open models reading list",
+              "tags": [],
+              "title": "Open-source AI and open models reading list",
+              "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+              "verified_first_date": "2026-09-14T00:22:51Z"
+            }
+          ],
+          "published_at": "2026-09-14T00:22:51Z",
+          "source_ids": [
+            "hn_discussion"
+          ],
+          "source_names": [
+            "Hacker News"
+          ],
+          "source_roles": [
+            "hn_discussion"
+          ],
+          "source_types": [
+            "discussion"
+          ],
+          "summary": "The item presents a reading list about open-source AI and open models. The supplied text does not identify individual readings.",
+          "tags": [],
+          "title": "Open-source AI and open models reading list"
+        }
+      ]
+    },
+    {
+      "category": "Research",
+      "total_candidates": 7,
+      "topics": [
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 3.961,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 4.206,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 5.005,
+          "FRONTIERNESS": 6.502,
+          "HEADLINE": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 8,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Research",
+          "QUALITY": 6,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "Recursive self-improvement is becoming increasingly vital for autonomous AI agents, where progress hinges on discovering high-value solutions across complex domains. The driver of this process is effective exploration, however, managing and improving exploration strategies remains a major bottleneck. Current systems face a fundamental dilemma: fixed strategies fail to adapt as search spaces scale, while online policy optimization requires navigating vast meta-search spaces under delayed and expensive feedback over long-horizon rollouts. We introduce Dream-RSI, a framework for scalable and r...",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 4.502,
+          "TOPIC_ID": "deed4d13d856",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This research paper surfaced across 1 independent source(s).",
+          "cluster_id": "deed4d13d856",
+          "event_type": "research_paper",
+          "items": [
+            {
+              "authors": [
+                "Tong Zheng",
+                "Xidong Wu",
+                "Zheng Zhang",
+                "Zhankui He",
+                "Chaoyi Zhang",
+                "Benjamin Coleman",
+                "Ruoqiao Wei",
+                "Di Bai",
+                "Haolin Liu",
+                "Rui Liu",
+                "Xue Wang",
+                "Yue Zhuan",
+                "Wang-Cheng Kang",
+                "Renkai Xiang",
+                "Heng Huang",
+                "Xinwu Cheng",
+                "Yunsong Guo"
+              ],
+              "canonical_url": "https://arxiv.org/abs/2609.14858",
+              "metadata": {
+                "ai_summary": "Dream-RSI enables scalable recursive self-improvement by using historical discovery replay to evaluate exploration policies offline, reducing costly online evaluations.",
+                "arxiv_id": "2609.14858",
+                "daily_score": 240,
+                "github_url": "https://github.com/zhengkid/Dream-RSI",
+                "hf_url": "https://huggingface.co/papers/2609.14858",
+                "novelty": 0,
+                "relevance": 0,
+                "spotlight_comment": "Recursive self-improvement is becoming increasingly vital for autonomous AI agents, where progress hinges on discovering high-value solutions across complex domains. The driver of this process is effective exploration, however, managing and improving exploration strategies remains a major bottlen...",
+                "spotlight_primary_kind": "daily_hot",
+                "spotlight_primary_label": "Daily Hot Papers",
+                "upvotes": 240
+              },
+              "provenance": "",
+              "published_at": "2026-09-14T00:00:00.000Z",
+              "source_id": "hf_papers",
+              "source_name": "Hugging Face Trending Papers",
+              "source_role": "paper_trending",
+              "source_type": "paper",
+              "summary": "Recursive self-improvement is becoming increasingly vital for autonomous AI agents, where progress hinges on discovering high-value solutions across complex domains. The driver of this process is effective exploration, however, managing and improving exploration strategies remains a major bottleneck. Current systems face a fundamental dilemma: fixed strategies fail to adapt as search spaces scale, while online policy optimization requires navigating vast meta-search spaces under delayed and expensive feedback over long-horizon rollouts. We introduce Dream-RSI, a framework for scalable and r...",
+              "tags": [
+                "recursive self-improvement",
+                "exploration strategies",
+                "replay simulator",
+                "off-policy feedback",
+                "discovery trees",
+                "Dream-RSI"
+              ],
+              "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
+              "url": "https://huggingface.co/papers/2609.14858",
+              "verified_first_date": "2026-09-14T00:00:00.000Z"
+            }
+          ],
+          "published_at": "2026-09-14T00:00:00.000Z",
+          "source_ids": [
+            "hf_papers"
+          ],
+          "source_names": [
+            "Hugging Face Trending Papers"
+          ],
+          "source_roles": [
+            "paper_trending"
+          ],
+          "source_types": [
+            "paper"
+          ],
+          "summary": "Recursive self-improvement is becoming increasingly vital for autonomous AI agents, where progress hinges on discovering high-value solutions across complex domains. The driver of this process is effective exploration, however, managing and improving exploration strategies remains a major bottleneck. Current systems face a fundamental dilemma: fixed strategies fail to adapt as search spaces scale, while online policy optimization requires navigating vast meta-search spaces under delayed and expensive feedback over long-horizon rollouts. We introduce Dream-RSI, a framework for scalable and r...",
+          "tags": [
+            "Dream-RSI",
+            "discovery trees",
+            "exploration strategies",
+            "off-policy feedback",
+            "recursive self-improvement",
+            "replay simulator"
+          ],
+          "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds"
+        },
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 3.961,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 4.205,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 5.002,
+          "FRONTIERNESS": 6.501,
+          "HEADLINE": "BVB: Benchmarking Agentic Video Understanding via Programmatic Reconstruction in Blender",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 7,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Research",
+          "QUALITY": 6,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "Multimodal agents can create complex videos in software such as Blender by coding without relying on diffusion models. Yet video understanding benchmarks still evaluate models mainly through question answering. If an agent truly understands a video, it can reconstruct it programmatically. We introduce BVB, Blender-VideoBench, a benchmark that tests this ability by asking agents to reconstruct real-world videos as animated Blender scenes. To ensure fair comparison, each agent programs the reconstruction through a lightweight harness, Mini-BVB, in an identical sandbox under a shared cost limi...",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 4.501,
+          "TOPIC_ID": "733542f38a66",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This research paper surfaced across 1 independent source(s).",
+          "cluster_id": "733542f38a66",
+          "event_type": "research_paper",
+          "items": [
+            {
+              "authors": [
+                "Yolo Y. Tang",
+                "Daiki Shimada",
+                "Jiayue Meng",
+                "Jing Bi",
+                "Pinxin Liu",
+                "Yicheng Wang",
+                "Yunzhong Xiao",
+                "Zhangyun Tan",
+                "Zeliang Zhang",
+                "Chao Huang",
+                "Susan Liang",
+                "Qianxiang Shen",
+                "Luchuan Song",
+                "Ali Vosoughi",
+                "Mingqian Feng",
+                "Melika Filvantorkaman",
+                "Chenliang Xu"
+              ],
+              "canonical_url": "https://arxiv.org/abs/2609.15478",
+              "metadata": {
+                "ai_summary": "A benchmark requiring agents to programmatically reconstruct real-world videos in Blender reveals that current models achieve high perceptual similarity but struggle to retain spatiotemporal facts.",
+                "arxiv_id": "2609.15478",
+                "daily_score": 34,
+                "github_url": "https://github.com/yunlong10/BVB",
+                "hf_url": "https://huggingface.co/papers/2609.15478",
+                "novelty": 0,
+                "relevance": 0,
+                "spotlight_comment": "Multimodal agents can create complex videos in software such as Blender by coding without relying on diffusion models. Yet video understanding benchmarks still evaluate models mainly through question answering. If an agent truly understands a video, it can reconstruct it programmatically. We intr...",
+                "spotlight_primary_kind": "daily_hot",
+                "spotlight_primary_label": "Daily Hot Papers",
+                "upvotes": 34
+              },
+              "provenance": "",
+              "published_at": "2026-09-14T00:00:00.000Z",
+              "source_id": "hf_papers",
+              "source_name": "Hugging Face Trending Papers",
+              "source_role": "paper_trending",
+              "source_type": "paper",
+              "summary": "Multimodal agents can create complex videos in software such as Blender by coding without relying on diffusion models. Yet video understanding benchmarks still evaluate models mainly through question answering. If an agent truly understands a video, it can reconstruct it programmatically. We introduce BVB, Blender-VideoBench, a benchmark that tests this ability by asking agents to reconstruct real-world videos as animated Blender scenes. To ensure fair comparison, each agent programs the reconstruction through a lightweight harness, Mini-BVB, in an identical sandbox under a shared cost limi...",
+              "tags": [
+                "multimodal agents",
+                "diffusion models",
+                "Dual VQA",
+                "Latent Similarity"
+              ],
+              "title": "BVB: Benchmarking Agentic Video Understanding via Programmatic Reconstruction in Blender",
+              "url": "https://huggingface.co/papers/2609.15478",
+              "verified_first_date": "2026-09-14T00:00:00.000Z"
+            }
+          ],
+          "published_at": "2026-09-14T00:00:00.000Z",
+          "source_ids": [
+            "hf_papers"
+          ],
+          "source_names": [
+            "Hugging Face Trending Papers"
+          ],
+          "source_roles": [
+            "paper_trending"
+          ],
+          "source_types": [
+            "paper"
+          ],
+          "summary": "Multimodal agents can create complex videos in software such as Blender by coding without relying on diffusion models. Yet video understanding benchmarks still evaluate models mainly through question answering. If an agent truly understands a video, it can reconstruct it programmatically. We introduce BVB, Blender-VideoBench, a benchmark that tests this ability by asking agents to reconstruct real-world videos as animated Blender scenes. To ensure fair comparison, each agent programs the reconstruction through a lightweight harness, Mini-BVB, in an identical sandbox under a shared cost limi...",
+          "tags": [
+            "Dual VQA",
+            "Latent Similarity",
+            "diffusion models",
+            "multimodal agents"
+          ],
+          "title": "BVB: Benchmarking Agentic Video Understanding via Programmatic Reconstruction in Blender"
+        },
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 3.961,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 4.205,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 5.002,
+          "FRONTIERNESS": 6.501,
+          "HEADLINE": "Discovery Foundation Models: Toward Open-Ended Discovery Intelligence",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 7,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Research",
+          "QUALITY": 6,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "Foundation models have progressed from learning and reasoning over existing knowledge, to increasingly learning through action, tool use, and outcome feedback. We argue that the next frontier is a further transition: from solving and acting within problems specified by humans to participating in the process by which new problems, representations, explanations, and knowledge are created. We refer to this capability as Discovery Intelligence. We formulate Discovery Foundation Models (DFMs) as general-purpose model systems for open-ended discovery. A DFM operates over a revisable research stat...",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 4.501,
+          "TOPIC_ID": "fb6af73d863d",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This research paper surfaced across 1 independent source(s).",
+          "cluster_id": "fb6af73d863d",
+          "event_type": "research_paper",
+          "items": [
+            {
+              "authors": [
+                "Ling Yang",
+                "Zhenfei Yin",
+                "Yingcheng Wu"
+              ],
+              "canonical_url": "https://arxiv.org/abs/2609.15973",
+              "metadata": {
+                "ai_summary": "Discovery Foundation Models enable open-ended scientific discovery through iterative problem formulation, hypothesis testing, and evidence-based revision across dry and wet lab settings.",
+                "arxiv_id": "2609.15973",
+                "daily_score": 33,
+                "github_url": "https://github.com/Gen-Verse/DFM-Plans",
+                "hf_url": "https://huggingface.co/papers/2609.15973",
+                "novelty": 0,
+                "relevance": 0,
+                "spotlight_comment": "Foundation models have progressed from learning and reasoning over existing knowledge, to increasingly learning through action, tool use, and outcome feedback. We argue that the next frontier is a further transition: from solving and acting within problems specified by humans to participating in...",
+                "spotlight_primary_kind": "daily_hot",
+                "spotlight_primary_label": "Daily Hot Papers",
+                "upvotes": 33
+              },
+              "provenance": "",
+              "published_at": "2026-09-14T00:00:00.000Z",
+              "source_id": "hf_papers",
+              "source_name": "Hugging Face Trending Papers",
+              "source_role": "paper_trending",
+              "source_type": "paper",
+              "summary": "Foundation models have progressed from learning and reasoning over existing knowledge, to increasingly learning through action, tool use, and outcome feedback. We argue that the next frontier is a further transition: from solving and acting within problems specified by humans to participating in the process by which new problems, representations, explanations, and knowledge are created. We refer to this capability as Discovery Intelligence. We formulate Discovery Foundation Models (DFMs) as general-purpose model systems for open-ended discovery. A DFM operates over a revisable research stat...",
+              "tags": [
+                "Discovery Intelligence",
+                "Discovery Foundation Models",
+                "research state",
+                "problem discovery",
+                "representation construction",
+                "hypothesis formation",
+                "evidence-grounded revision",
+                "continual discovery improvement",
+                "Zetema",
+                "Discovery Skill",
+                "GALILEO",
+                "Dry-Lab reasoning",
+                "Wet-Lab experimentation",
+                "closed physical discovery loop",
+                "process-centered evaluation"
+              ],
+              "title": "Discovery Foundation Models: Toward Open-Ended Discovery Intelligence",
+              "url": "https://huggingface.co/papers/2609.15973",
+              "verified_first_date": "2026-09-14T00:00:00.000Z"
+            }
+          ],
+          "published_at": "2026-09-14T00:00:00.000Z",
+          "source_ids": [
+            "hf_papers"
+          ],
+          "source_names": [
+            "Hugging Face Trending Papers"
+          ],
+          "source_roles": [
+            "paper_trending"
+          ],
+          "source_types": [
+            "paper"
+          ],
+          "summary": "Foundation models have progressed from learning and reasoning over existing knowledge, to increasingly learning through action, tool use, and outcome feedback. We argue that the next frontier is a further transition: from solving and acting within problems specified by humans to participating in the process by which new problems, representations, explanations, and knowledge are created. We refer to this capability as Discovery Intelligence. We formulate Discovery Foundation Models (DFMs) as general-purpose model systems for open-ended discovery. A DFM operates over a revisable research stat...",
+          "tags": [
+            "Discovery Foundation Models",
+            "Discovery Intelligence",
+            "Discovery Skill",
+            "Dry-Lab reasoning",
+            "GALILEO",
+            "Wet-Lab experimentation",
+            "Zetema",
+            "closed physical discovery loop",
+            "continual discovery improvement",
+            "evidence-grounded revision",
+            "hypothesis formation",
+            "problem discovery",
+            "process-centered evaluation",
+            "representation construction",
+            "research state"
+          ],
+          "title": "Discovery Foundation Models: Toward Open-Ended Discovery Intelligence"
+        }
+      ]
+    }
+  ],
+  "paper_spotlight": [
+    {
+      "kind": "daily_hot",
+      "label": "Daily Hot Papers",
+      "description": "Papers that feel broadly important to the day and belong in the hotspot paper feed.",
+      "items": [
+        {
+          "title": "Vidu S2: Real-Time Interactive, Editable, and Spatial Video Generation",
+          "summary": "We present Vidu S2, which comprises Vidu S2-Avatar, a real-time interactive digital-character model, and Vidu S2-Editing, a real-time video editing model. Moreover, we explore the feasibility of real-time spatial video generation for both Vidu S2-Avatar and Vidu S2-Editing. Compared with Vidu S1, Vidu S2-Avatar supports real-time 720p video generation, generation with dynamic references that can be updated at any moment, and stronger instruction following, such as dancing. Vidu S2-Editing supports editing a video stream in real time, including style rendering, clothing replacement, characte...",
+          "url": "https://huggingface.co/papers/2609.11638",
+          "canonical_url": "https://arxiv.org/abs/2609.11638",
+          "source_id": "hf_papers",
+          "source_name": "Hugging Face Trending Papers",
+          "source_role": "paper_trending",
+          "arxiv_id": "2609.11638",
+          "authors": [
+            "Jintao Zhang",
+            "Kai Jiang",
+            "Jintao Chen",
+            "Xu Wang",
+            "Deyuan Liu",
+            "Jungang Li",
+            "Dechuang Chen",
+            "Ming Lin",
+            "Jingjiang Zhou",
+            "Haopeng Jin",
+            "Qi Jia",
+            "Xiaohang Wang",
+            "Yaole Wang",
+            "Zhanqiang Zhang",
+            "Ran Li",
+            "Zhengkun Huang",
+            "Shuyue Xiong",
+            "Yuji Wang",
+            "Zikun Dai",
+            "Hui He",
+            "Yang Luo",
+            "Mang Ning",
+            "Weiqi Feng",
+            "Chengyang Ye",
+            "Xinyue Lin",
+            "Min Zhao",
+            "Hongzhou Zhu",
+            "Hengkai Tan",
+            "Zeyuan Wang",
+            "Chendong Xiang",
+            "Kaiwen Zheng",
+            "Zhijie Deng",
+            "Fan Bao",
+            "Jianfei Chen",
+            "Jun Zhu"
+          ],
+          "primary_topic_id": "",
+          "primary_topic_label": "",
+          "spotlight_primary_kind": "daily_hot",
+          "spotlight_primary_label": "Daily Hot Papers",
+          "spotlight_comment": "We present Vidu S2, which comprises Vidu S2-Avatar, a real-time interactive digital-character model, and Vidu S2-Editing, a real-time video editing model. Moreover, we explore the feasibility of real-time spatial video generation for both Vidu S2-Avatar and Vidu S2-Editing. Compared with Vidu S1,...",
+          "daily_score": 693,
+          "relevance": 0,
+          "novelty": 0,
+          "s2_influential_citations": 0,
+          "s2_citations": 0
+        },
+        {
+          "title": "Atria Dawn: The Dawn of Agentic Superintelligence",
+          "summary": "As AI agents become participants in the development of their successors, they reshape both the production of intelligence and the role of human researchers. We introduce Atria Dawn Preview, a foundation agentic language model designed for scientific research and engineering workflows, with the goal of expanding the frontier of agent productivity in the real world. This model is trained via a Verifiable Experience Pipeline that connects tool-mediated interactions to executable environments and externally verified outcomes. Across 16 benchmarks spanning real-world research, engineering, and d...",
+          "url": "https://huggingface.co/papers/2609.15818",
+          "canonical_url": "https://arxiv.org/abs/2609.15818",
+          "source_id": "hf_papers",
+          "source_name": "Hugging Face Trending Papers",
+          "source_role": "paper_trending",
+          "arxiv_id": "2609.15818",
+          "authors": [
+            "Honglin Guo",
+            "Tao Gui",
+            "Yicheng Chen",
+            "Guanting Dong",
+            "Qiming Ge",
+            "Yuyang Hu",
+            "Zixian Huang",
+            "Jiajie Jin",
+            "Alexander Lam",
+            "Yining Li",
+            "Jiahang Lin",
+            "Yanjiang Liu",
+            "Xinyu Lu",
+            "Haijun Lv",
+            "Junlin Shang",
+            "Qisheng Su",
+            "Guoqiang Wang",
+            "Rui Wang",
+            "Zhecan Wang",
+            "Hao Xiang",
+            "Xinchen Xie",
+            "Shuhao Xing",
+            "Xiaoyu Xing",
+            "Wanghan Xu",
+            "Xinyu Yang",
+            "Yajie Yang",
+            "Chengfeng Zhao",
+            "Haoran Zhao",
+            "Ruojun Zhou",
+            "Yunhua Zhou",
+            "Yicheng Zou",
+            "Kun Cai",
+            "Qiye Cai",
+            "Xinmeng Che",
+            "Haodong Chen",
+            "Jiabei Chen",
+            "Jiahao Chen",
+            "Jiayi Chen",
+            "Yujia Chen",
+            "Lizhi Cui",
+            "Youheng Dai",
+            "Xin Deng",
+            "Yi Dong",
+            "Shihan Dou",
+            "Chenya Gu",
+            "Xu Guo",
+            "Ding Han",
+            "Feiyang Hao",
+            "Haotan He",
+            "Jie Hou",
+            "Binze Hu",
+            "Zijian Hu",
+            "Junhao Huang",
+            "Huicheng Jiang",
+            "Jiazhen Jiang",
+            "Shufan Jiang",
+            "Jiahao Kuang",
+            "Bowen Lai",
+            "Bo Li",
+            "Jiaqiang Li",
+            "Peng Li",
+            "Qilong Li",
+            "Zhuoqun Li",
+            "Jiaxiang Liu",
+            "Shuainan Liu",
+            "Tong Liu",
+            "Yi Liu",
+            "Zhonghang Lu",
+            "Jianwen Luo",
+            "Yanyi Luo",
+            "Huijie Lv",
+            "Ningsheng Ma",
+            "Zerun Ma",
+            "Houcheng Min",
+            "Chengjun Pan",
+            "Qiyuan Peng",
+            "Xiaoxuan Peng",
+            "Jianmin Qian",
+            "Jiantao Qiu",
+            "Wanying Ren",
+            "Huayu Sha",
+            "Jifei Shan",
+            "Zixin Shang",
+            "Bing Shao",
+            "Zhuohui Sheng",
+            "Jiayang Shi",
+            "Yang Shu",
+            "Aierpanjiang Simayi",
+            "Sirui Song",
+            "Yuxiao Song",
+            "Zhe Sun",
+            "Zhichao Sun",
+            "Wenzhe Tan",
+            "Wenhui Tian",
+            "Zhongbo Tian",
+            "Hanchen Wang",
+            "Pengbo Wang",
+            "Rui Wang",
+            "Yiding Wang",
+            "Yuhui Wang",
+            "Zhiheng Xi",
+            "Caijun Xu",
+            "Chao Xu",
+            "Yongfeng Xu",
+            "Xiaolei Yang",
+            "Zhixiong Yang",
+            "Qian Yao",
+            "Shihong Yi",
+            "Yuankai Ying",
+            "Jia Yu",
+            "Dingbo Yuan",
+            "Hao Yuan",
+            "Junjie Yuan",
+            "Bo Zhang",
+            "Caixian Zhang",
+            "Qiuyinzhe Zhang",
+            "Jiyuan Zhao",
+            "Penghao Zhao",
+            "Ying Zhao",
+            "Pujun Zheng",
+            "Xiaoxue Zhong",
+            "Xiaohao Zhou",
+            "Xinyu Zhou",
+            "Dongsheng Zhu",
+            "Guanru Zhu",
+            "Yulun Zhu",
+            "Yaojie Lu",
+            "Tao Ji",
+            "Hongyu Lin",
+            "Yutao Zhu",
+            "Pengfei Cao",
+            "Guoxiu He",
+            "Xianpei Han",
+            "Ben He",
+            "Zhicheng Dou",
+            "Kang Liu",
+            "Qi Zhang",
+            "Le Sun",
+            "Jun Zhao",
+            "Ji-Rong Wen",
+            "Xuanjing Huang",
+            "Yu-Gang Jiang",
+            "Bowen Zhou"
+          ],
+          "primary_topic_id": "",
+          "primary_topic_label": "",
+          "spotlight_primary_kind": "daily_hot",
+          "spotlight_primary_label": "Daily Hot Papers",
+          "spotlight_comment": "As AI agents become participants in the development of their successors, they reshape both the production of intelligence and the role of human researchers. We introduce Atria Dawn Preview, a foundation agentic language model designed for scientific research and engineering workflows, with the go...",
+          "daily_score": 420,
+          "relevance": 0,
+          "novelty": 0,
+          "s2_influential_citations": 0,
+          "s2_citations": 0
+        },
+        {
+          "title": "ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search",
+          "summary": "In this work, we present ZGCM-1, a fully open 7B dense foundation model trained from scratch with extreme data, system, and algorithmic efficiency. ZGCM-1 is founded on a core premise: compact models cannot passively memorize the open web, but can overcome parametric capacity limits by coupling deliberate internal thinking with active external tool use. To support this paradigm across a 256K context, we develop an end-to-end, high-efficiency open training recipe: Architecture & System Co-design: interleaved gated sliding-window and full attention, and a stable FP8 Muon optimizer; Progressiv...",
+          "url": "https://huggingface.co/papers/2609.13356",
+          "canonical_url": "https://arxiv.org/abs/2609.13356",
+          "source_id": "hf_papers",
+          "source_name": "Hugging Face Trending Papers",
+          "source_role": "paper_trending",
+          "arxiv_id": "2609.13356",
+          "authors": [
+            "Jiyan He",
+            "Guang Liang",
+            "Hao Liu",
+            "Haoxiang Guan",
+            "Jinbo Sun",
+            "Junyi Guo",
+            "Wenjun Feng",
+            "Yantai Xie",
+            "Yifei Shen",
+            "Bin Shao",
+            "Chuyang Wei",
+            "Kai Chen",
+            "Kexin Zhou",
+            "Minghang Zhu",
+            "Shuxin Zheng",
+            "Tie-Yan Liu",
+            "Taine Zhao",
+            "Wenhui Zhu",
+            "Xueyin Xu",
+            "Xiaoqing Zhang",
+            "Yatao Li",
+            "Yuxuan Ren"
+          ],
+          "primary_topic_id": "",
+          "primary_topic_label": "",
+          "spotlight_primary_kind": "daily_hot",
+          "spotlight_primary_label": "Daily Hot Papers",
+          "spotlight_comment": "In this work, we present ZGCM-1, a fully open 7B dense foundation model trained from scratch with extreme data, system, and algorithmic efficiency. ZGCM-1 is founded on a core premise: compact models cannot passively memorize the open web, but can overcome parametric capacity limits by coupling d...",
+          "daily_score": 254,
+          "relevance": 0,
+          "novelty": 0,
+          "s2_influential_citations": 0,
+          "s2_citations": 0
+        },
+        {
+          "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
+          "summary": "Recursive self-improvement is becoming increasingly vital for autonomous AI agents, where progress hinges on discovering high-value solutions across complex domains. The driver of this process is effective exploration, however, managing and improving exploration strategies remains a major bottleneck. Current systems face a fundamental dilemma: fixed strategies fail to adapt as search spaces scale, while online policy optimization requires navigating vast meta-search spaces under delayed and expensive feedback over long-horizon rollouts. We introduce Dream-RSI, a framework for scalable and r...",
+          "url": "https://huggingface.co/papers/2609.14858",
+          "canonical_url": "https://arxiv.org/abs/2609.14858",
+          "source_id": "hf_papers",
+          "source_name": "Hugging Face Trending Papers",
+          "source_role": "paper_trending",
+          "arxiv_id": "2609.14858",
+          "authors": [
+            "Tong Zheng",
+            "Xidong Wu",
+            "Zheng Zhang",
+            "Zhankui He",
+            "Chaoyi Zhang",
+            "Benjamin Coleman",
+            "Ruoqiao Wei",
+            "Di Bai",
+            "Haolin Liu",
+            "Rui Liu",
+            "Xue Wang",
+            "Yue Zhuan",
+            "Wang-Cheng Kang",
+            "Renkai Xiang",
+            "Heng Huang",
+            "Xinwu Cheng",
+            "Yunsong Guo"
+          ],
+          "primary_topic_id": "",
+          "primary_topic_label": "",
+          "spotlight_primary_kind": "daily_hot",
+          "spotlight_primary_label": "Daily Hot Papers",
+          "spotlight_comment": "Recursive self-improvement is becoming increasingly vital for autonomous AI agents, where progress hinges on discovering high-value solutions across complex domains. The driver of this process is effective exploration, however, managing and improving exploration strategies remains a major bottlen...",
+          "daily_score": 240,
+          "relevance": 0,
+          "novelty": 0,
+          "s2_influential_citations": 0,
+          "s2_citations": 0
+        },
+        {
+          "title": "PhysBrain 1.5: From Vision-Language Models to Physical Foundation Models",
+          "summary": "We present PhysBrain 1.5, a unified model for understanding physical environments, generating actions, and predicting future states. Motivated by the physical loop of observation, interaction, and environmental change, we bring these capabilities into a common learning framework. Starting from a general vision--language model, we encode language responses, end-effector motion, and dense visual targets as discrete sequences and jointly optimize them with autoregressive next-token prediction. Pre-training draws its embodied supervision entirely from human interaction videos, using task-center...",
+          "url": "https://huggingface.co/papers/2609.14973",
+          "canonical_url": "https://arxiv.org/abs/2609.14973",
+          "source_id": "hf_papers",
+          "source_name": "Hugging Face Trending Papers",
+          "source_role": "paper_trending",
+          "arxiv_id": "2609.14973",
+          "authors": [
+            "DeepCybo Team",
+            "Yu Bin",
+            "Haipeng Cao",
+            "Zheng Chang",
+            "Kai Chen",
+            "Youning Chen",
+            "Kailin Deng",
+            "Yichao Du",
+            "Xiaotong Fu",
+            "Haoyang Ge",
+            "Yunlong Guo",
+            "Chenliu Hao",
+            "Jiyan He",
+            "Xuguo He",
+            "Yakun Hou",
+            "Kai Hu",
+            "Cong Huang",
+            "Tuopusen Huang",
+            "Yu Huang",
+            "Hong Li",
+            "Peize Li",
+            "Shijie Lian",
+            "Xiaopeng Lin",
+            "Yun Lin",
+            "Haibao Liu",
+            "Haochen Liu",
+            "Qiuzhi Liu",
+            "Shengcai Liu",
+            "Zhiqiang Liu",
+            "Tao Luo",
+            "Peng Ren",
+            "Shuo Ren",
+            "Chaoyi Ruan",
+            "Zhaolong Shen",
+            "Yukun Shi",
+            "Qiyuan Su",
+            "Yuxuan Tian",
+            "Yining Wang",
+            "Changti Wu",
+            "Hao Wu",
+            "Xueyin Xu",
+            "Ruoqi Yang",
+            "Zhaoyang Yang",
+            "Hang Yuan",
+            "Zhaoyang Zeng",
+            "Hanwen Zhang",
+            "Ruimeng Zhang",
+            "Yao Zhang",
+            "Yibo Zhang",
+            "Yuxiang Zhang",
+            "Zhirui Zhang",
+            "Ziyi Zhang",
+            "Zubin Zheng",
+            "Zishen Zhuang"
+          ],
+          "primary_topic_id": "",
+          "primary_topic_label": "",
+          "spotlight_primary_kind": "daily_hot",
+          "spotlight_primary_label": "Daily Hot Papers",
+          "spotlight_comment": "We present PhysBrain 1.5, a unified model for understanding physical environments, generating actions, and predicting future states. Motivated by the physical loop of observation, interaction, and environmental change, we bring these capabilities into a common learning framework. Starting from a...",
+          "daily_score": 170,
+          "relevance": 0,
+          "novelty": 0,
+          "s2_influential_citations": 0,
+          "s2_citations": 0
+        },
+        {
+          "title": "RSIAgent: Autonomous Exploration for Recursive Self-improvement in New Environments",
+          "summary": "Digital agents must often adapt to new environments whose interfaces, tools, and failure modes are not fully captured by pretrained models. We introduce RSIAgent, a training-free multi-agent framework for recursive self-improvement through autonomous memory construction. RSIAgent coordinates curriculum, actor, and verifier agents to continually explore the environment, validate outcomes, and retain environment-specific knowledge, including reusable causal relationships between actions, conditions, and consequences. It further adopts a broad-then-deep exploration strategy, combining parallel...",
+          "url": "https://huggingface.co/papers/2609.15364",
+          "canonical_url": "https://arxiv.org/abs/2609.15364",
+          "source_id": "hf_papers",
+          "source_name": "Hugging Face Trending Papers",
+          "source_role": "paper_trending",
+          "arxiv_id": "2609.15364",
+          "authors": [
+            "Sibo Zhu",
+            "Shicheng Fan",
+            "Xinyue Wang",
+            "Wenyi Wu",
+            "Kun Zhou",
+            "Biwei Huang"
+          ],
+          "primary_topic_id": "",
+          "primary_topic_label": "",
+          "spotlight_primary_kind": "daily_hot",
+          "spotlight_primary_label": "Daily Hot Papers",
+          "spotlight_comment": "Digital agents must often adapt to new environments whose interfaces, tools, and failure modes are not fully captured by pretrained models. We introduce RSIAgent, a training-free multi-agent framework for recursive self-improvement through autonomous memory construction. RSIAgent coordinates curr...",
+          "daily_score": 78,
+          "relevance": 0,
+          "novelty": 0,
+          "s2_influential_citations": 0,
+          "s2_citations": 0
+        }
+      ]
+    }
+  ],
+  "x_buzz": [
+    {
+      "title": "Due to concerns about malicious applications, GPT2 will not be released (2019)",
+      "summary": "Due to concerns about malicious applications, GPT2 will not be released (2019)",
+      "url": "https://openai.com/index/better-language-models",
+      "source_id": "hn_discussion",
+      "source_name": "Hacker News",
+      "source_role": "hn_discussion",
+      "linked_topic": ""
+    },
+    {
+      "title": "Cohere Parse | Enterprise Intelligence at Scale",
+      "summary": "Parse converts complex documents, tables, and images into structured data your AI can search or act on.",
+      "url": "https://cohere.com/blog/parse",
+      "source_id": "cohere_blog",
+      "source_name": "Cohere Blog",
+      "source_role": "official_news",
+      "linked_topic": "Cohere Parse | Enterprise Intelligence at Scale"
+    },
+    {
+      "title": "Production-Ready W4A8: vLLM Integration Explained | Cohere",
+      "summary": "Learn how model quantization improves efficiency. Explore W4A16 and W8A8 schemes on NVIDIA Hopper GPU, their pros and cons.",
+      "url": "https://cohere.com/blog/vllm-integration-and-quality-recovery-techniques-explained",
+      "source_id": "cohere_blog",
+      "source_name": "Cohere Blog",
+      "source_role": "official_news",
+      "linked_topic": "Production-Ready W4A8: vLLM Integration Explained | Cohere"
+    },
+    {
+      "title": "NVIDIA released foundationpose",
+      "summary": "Weights for nvidia/foundationpose appeared on the hub. Pipeline tags: tensorrt, onnx, TAO Toolkit, computer-vision, pose-estimation, 6dof-pose-estimation. 194 downloads, 9 likes at collection time.",
+      "url": "https://huggingface.co/nvidia/foundationpose",
+      "source_id": "hf_models_nvidia",
+      "source_name": "NVIDIA on Hugging Face",
+      "source_role": "official_news",
+      "linked_topic": "NVIDIA released c-foundationstereo-s"
+    },
+    {
+      "title": "NVIDIA released c-foundationstereo-s",
+      "summary": "Weights for nvidia/c-foundationstereo-s appeared on the hub. Pipeline tags: tensorrt, onnx, TAO Toolkit, computer-vision, depth-estimation, stereo-matching. 180 downloads, 7 likes at collection time.",
+      "url": "https://huggingface.co/nvidia/c-foundationstereo-s",
+      "source_id": "hf_models_nvidia",
+      "source_name": "NVIDIA on Hugging Face",
+      "source_role": "official_news",
+      "linked_topic": "NVIDIA released c-foundationstereo-s"
+    }
+  ],
+  "watchlist": [],
+  "resurgence": []
+}
