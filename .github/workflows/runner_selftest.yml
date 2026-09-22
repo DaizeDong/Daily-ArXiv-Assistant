@@ -21,6 +21,10 @@ on:
         description: "Runner label to test (e.g. grokbot, windows)"
         required: true
         default: "grokbot"
+      models:
+        description: "Optional comma-separated model ids to try instead of the configured one"
+        required: false
+        default: ""
 
 permissions:
   # The push check below is a dry run, but a dry run still negotiates
@@ -90,6 +94,7 @@ jobs:
           OPENAI_BASE_URL: ${{ secrets.OPENAI_BASE_URL }}
           ARXIV_ASSISTANT_LLM_BACKEND: openai
           ARXIV_ASSISTANT_LLM_MODEL: ${{ vars.ARXIV_ASSISTANT_LLM_MODEL }}
+          PROBE_MODELS: ${{ github.event.inputs.models }}
         shell: bash
         run: |
           # A live call, because every cheaper check passes on a machine that
@@ -130,18 +135,39 @@ jobs:
               ids = sorted(m.get("id", "?") for m in (data.get("data") or []))
               return f"{len(ids)} offered: " + ", ".join(ids[:60])
 
+          def try_once(label):
+              try:
+                  r = llm_gateway.call("Reply with exactly: OK", timeout_s=120)
+              except Exception as exc:
+                  print(f"  {label:24} FAIL  {str(exc)[:110]}")
+                  return False
+              text = (r.text or "").strip()
+              print(f"  {label:24} ok    {r.backend}/{r.provider or '-'} -> {text[:20]!r}")
+              return bool(text)
+
+          # A shortlist in one run, rather than one dispatch per name. Some
+          # names on an endpoint need an entitlement this account may not
+          # have, and the refusal never suggests a substitute, so the only way
+          # to learn which of them answers is to ask each of them.
+          probe = [m.strip() for m in (os.environ.get("PROBE_MODELS") or "").split(",") if m.strip()]
+          if probe:
+              print(f"probing {len(probe)} model(s):")
+              results = []
+              for name in probe:
+                  os.environ["ARXIV_ASSISTANT_LLM_MODEL"] = name
+                  results.append((name, try_once(name)))
+              working = [n for n, ok in results if ok]
+              print(f"answered     : {', '.join(working) if working else '(none)'}")
+              if not working:
+                  print(f"gateway says : {offered()}")
+              sys.exit(0 if working else 1)
+
           asked = os.environ.get("ARXIV_ASSISTANT_LLM_MODEL") or "(from config)"
           print(f"model asked  : {asked}")
-          try:
-              r = llm_gateway.call("Reply with exactly: OK", timeout_s=120)
-          except Exception as exc:
-              print(f"FAIL: {exc}")
-              print(f"gateway says : {offered()}")
-              sys.exit(1)
-          text = (r.text or "").strip()
-          print(f"backend      : {r.backend}/{r.provider or '-'}")
-          print(f"reply        : {text[:40]!r}")
-          sys.exit(0 if text else 1)
+          if try_once(asked):
+              sys.exit(0)
+          print(f"gateway says : {offered()}")
+          sys.exit(1)
           PY
 
       - name: Can push to auto_update
