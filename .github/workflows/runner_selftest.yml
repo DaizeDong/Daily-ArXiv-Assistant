@@ -99,12 +99,45 @@ jobs:
           # at every step.
           python -m pip install --quiet -r requirements.txt
           python - <<'PY'
-          import sys
+          import os, sys, json, urllib.request
           from arxiv_assistant.utils import llm_gateway
+
+          def offered():
+              # "Which models will this endpoint actually serve" is the
+              # question every failure here turns into, and a model id is not
+              # a secret. Printing the list on failure is the difference
+              # between one dispatch and a guessing game, because a name the
+              # endpoint will not serve is refused in several different ways
+              # and none of them names a replacement.
+              base = (os.environ.get("OPENAI_BASE_URL") or "").rstrip("/")
+              key = os.environ.get("OPENAI_API_KEY") or ""
+              if not base:
+                  return "no OPENAI_BASE_URL set"
+              url = base + ("/models" if base.endswith("/v1") else "/v1/models")
+              req = urllib.request.Request(url, headers={"Authorization": f"Bearer {key}"})
+              extra = os.environ.get("OPENAI_EXTRA_HEADERS")
+              if extra:
+                  try:
+                      for k, v in json.loads(extra).items():
+                          req.add_header(k, v)
+                  except ValueError:
+                      pass
+              try:
+                  with urllib.request.urlopen(req, timeout=30) as resp:
+                      data = json.load(resp)
+              except Exception as exc:
+                  return f"could not list models: {str(exc)[:120]}"
+              ids = sorted(m.get("id", "?") for m in (data.get("data") or []))
+              return f"{len(ids)} offered: " + ", ".join(ids[:60])
+
+          asked = os.environ.get("ARXIV_ASSISTANT_LLM_MODEL") or "(from config)"
+          print(f"model asked  : {asked}")
           try:
               r = llm_gateway.call("Reply with exactly: OK", timeout_s=120)
           except Exception as exc:
-              print(f"FAIL: {exc}"); sys.exit(1)
+              print(f"FAIL: {exc}")
+              print(f"gateway says : {offered()}")
+              sys.exit(1)
           text = (r.text or "").strip()
           print(f"backend      : {r.backend}/{r.provider or '-'}")
           print(f"reply        : {text[:40]!r}")
