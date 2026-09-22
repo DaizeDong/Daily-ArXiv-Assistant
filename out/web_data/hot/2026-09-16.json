@@ -1627,7 +1627,14 @@
           "published_at": "2026-09-16T03:07:01.000Z"
         }
       ],
-      "route": "/hot/2026-09-16/topic/tencent-hunyuan-released-simple-attention-sparsification/"
+      "route": "/hot/2026-09-16/topic/tencent-hunyuan-released-simple-attention-sparsification/",
+      "headline_zh": "腾讯混元发布Simple-Attention-Sparsification",
+      "why_it_matters_zh": "此产品发布在1个独立来源中出现。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "tencent/WeVisDoc-2B权重出现在hub上。Pipeline标签：safetensors、qwen3_vl、en、zh、arxiv:2609.20423、license:apache-2.0。收集时有732次下载，16个点赞。",
+        "tencent/WeVisDoc-4B权重出现在hub上。Pipeline标签：safetensors、qwen3_vl、en、zh、arxiv:2609.20423、license:apache-2.0。收集时有493次下载，38个点赞。"
+      ]
     },
     {
       "topic_id": "9af22a03e183",
@@ -1675,7 +1682,16 @@
           "published_at": "2026-09-16T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-09-16/topic/cohere-aleph-alpha-ia-sous-votre-contr-le-transatlantique-cohere/"
+      "route": "/hot/2026-09-16/topic/cohere-aleph-alpha-ia-sous-votre-contr-le-transatlantique-cohere/",
+      "headline_zh": "Cohere与Aleph Alpha：您掌控的跨大西洋AI | Cohere",
+      "summary_short_zh": "Cohere和Aleph Alpha宣布合作，推出跨大西洋主权AI服务，双总部设在柏林和多伦多。法语公告强调安全可控的AI",
+      "why_it_matters_zh": "此行业动态在1个独立来源中出现。",
+      "category_zh": "行业动态",
+      "key_takeaways_zh": [
+        "Cohere与Aleph Alpha合作推出首个跨大西洋主权AI解决方案，双总部设在柏林和多伦多，提供安全可控的AI。",
+        "Cohere和Aleph Alpha合作推出首个跨大西洋主权AI解决方案，双总部设在柏林和多伦多，提供安全可治理的AI。",
+        "Cohere和Aleph Alpha成立首个跨大西洋主权AI企业，总部设在柏林和多伦多——提供安全可控的AI解决方案。"
+      ]
     },
     {
       "topic_id": "3094985bef42",
@@ -1713,7 +1729,11 @@
           "published_at": "2026-09-16T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-09-16/topic/mistral-and-mozilla-are-bringing-open-private-and-multilingual-ai-to-your-web-browser/"
+      "route": "/hot/2026-09-16/topic/mistral-and-mozilla-are-bringing-open-private-and-multilingual-ai-to-your-web-browser/",
+      "headline_zh": "Mistral和Mozilla将开放、私密且多语言的AI带到您的网络浏览器",
+      "summary_short_zh": "公司",
+      "why_it_matters_zh": "此产品发布在1个独立来源中出现。",
+      "category_zh": "产品发布"
     }
   ],
   "category_sections": [
@@ -1757,7 +1777,11 @@
               "published_at": "Wed, 16 Sep 2026 09:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-09-16/topic/how-workers-are-unlocking-new-ways-of-working/"
+          "route": "/hot/2026-09-16/topic/how-workers-are-unlocking-new-ways-of-working/",
+          "headline_zh": "员工如何开启新的工作方式",
+          "summary_short_zh": "OpenAI最新经济研究显示员工如何在传统角色之外使用AI，以及哪些新活动成为他们工作的常规部分",
+          "why_it_matters_zh": "此产品发布在1个独立来源中出现。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "5b96a48e2552",
@@ -1795,7 +1819,11 @@
               "published_at": "2026-09-16T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-09-16/topic/reka-edgeq-on-device/"
+          "route": "/hot/2026-09-16/topic/reka-edgeq-on-device/",
+          "headline_zh": "Reka EdgeQ，设备端",
+          "summary_short_zh": "EdgeQ将Reka Edge带到高通骁龙NPU。在三星S25上实现前沿视觉理解的实时延迟，在持续负载下保持热稳定，而Gemma 4 E4B会降频",
+          "why_it_matters_zh": "此产品发布在1个独立来源中出现。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "108c39f07430",
@@ -1833,7 +1861,11 @@
               "published_at": "2026-09-16T08:02:28.000Z"
             }
           ],
-          "route": "/hot/2026-09-16/topic/ant-ling-released-realtime-venus/"
+          "route": "/hot/2026-09-16/topic/ant-ling-released-realtime-venus/",
+          "headline_zh": "蚂蚁灵发布Realtime-Venus",
+          "summary_short_zh": "inclusionAI/Realtime-Venus权重出现在Hugging Face上，带有multimodal、audio、video、Transformers、ONNX和Safetensors标签。收集时有0次下载和55个点赞",
+          "why_it_matters_zh": "此产品发布在1个独立来源中出现。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "71e11f0275a9",
@@ -1883,7 +1915,11 @@
               "published_at": "2026-09-15T22:47:07+00:00"
             }
           ],
-          "route": "/hot/2026-09-16/topic/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/"
+          "route": "/hot/2026-09-16/topic/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+          "headline_zh": "推出Gemini 3.8 Live和3.8 Live Extended Thinking",
+          "summary_short_zh": "Google DeepMind宣布推出Gemini 3.8 Live和Gemini 3.8 Live Extended Thinking。所提供的信息未包含功能、定价或可用性详情",
+          "why_it_matters_zh": "此产品发布在3个独立来源中出现。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "80645d420e23",
@@ -1921,7 +1957,10 @@
               "published_at": "2026-09-15T16:58:11.000Z"
             }
           ],
-          "route": "/hot/2026-09-16/topic/nvidia-released-c-foundationstereo-s/"
+          "route": "/hot/2026-09-16/topic/nvidia-released-c-foundationstereo-s/",
+          "headline_zh": "NVIDIA 发布 c-foundationstereo-s",
+          "why_it_matters_zh": "此产品发布来自 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -1965,7 +2004,11 @@
               "published_at": "2026-09-16T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-09-16/topic/cohere-and-opentext-partner-to-bring-trusted-agentic-ai-to-governments-and-regulated-industries/"
+          "route": "/hot/2026-09-16/topic/cohere-and-opentext-partner-to-bring-trusted-agentic-ai-to-governments-and-regulated-industries/",
+          "headline_zh": "Cohere 与 OpenText 合作为政府和受监管行业提供可信智能体 AI",
+          "summary_short_zh": "Cohere 与 OpenText 宣布合作，为政府和受监管行业提供可信智能体 AI。公告未说明具体产品、部署安排或财务条款",
+          "why_it_matters_zh": "此行业动态来自 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "0751ecd05f99",
@@ -2003,7 +2046,11 @@
               "published_at": "Wed, 16 Sep 2026 00:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-09-16/topic/migrating-from-closed-to-open-source-models-together/"
+          "route": "/hot/2026-09-16/topic/migrating-from-closed-to-open-source-models-together/",
+          "headline_zh": "从闭源迁移到开源模型，Together",
+          "summary_short_zh": "从闭源迁移到开源模型可能需要数周而非数年。五阶段手册：发现、评估、适配、决策和生产",
+          "why_it_matters_zh": "此观点来自 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "2bde227f26e5",
@@ -2041,7 +2088,10 @@
               "published_at": "2026-09-16T09:12:34Z"
             }
           ],
-          "route": "/hot/2026-09-16/topic/learning-programming-in-an-age-of-llms/"
+          "route": "/hot/2026-09-16/topic/learning-programming-in-an-age-of-llms/",
+          "headline_zh": "大语言模型时代的编程学习",
+          "why_it_matters_zh": "此其他内容来自 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "f50e31c11707",
@@ -2079,7 +2129,10 @@
               "published_at": "2026-09-15T14:42:18+00:00"
             }
           ],
-          "route": "/hot/2026-09-16/topic/your-inference-server-is-secretly-a-learner-reef-infrastructure-for-continual-self-improving-agents/"
+          "route": "/hot/2026-09-16/topic/your-inference-server-is-secretly-a-learner-reef-infrastructure-for-continual-self-improving-agents/",
+          "headline_zh": "你的推理服务器其实是个学习者：持续自我改进智能体的 Reef 基础设施",
+          "why_it_matters_zh": "此行业动态来自 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "95301f0d3f67",
@@ -2117,7 +2170,11 @@
               "published_at": "Tue, 15 Sep 2026 13:00:00 +0000"
             }
           ],
-          "route": "/hot/2026-09-16/topic/new-insights-from-google-s-ai-economy-atlas/"
+          "route": "/hot/2026-09-16/topic/new-insights-from-google-s-ai-economy-atlas/",
+          "headline_zh": "Google AI 与经济 ATLAS 的新见解",
+          "summary_short_zh": "Google 重点介绍其 AI 与经济 ATLAS 的新见解。随附图片标识该资源为 2026 年 1.0 版本，但提供的文本未描述具体发现",
+          "why_it_matters_zh": "此其他内容来自 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -2161,7 +2218,11 @@
               "published_at": "2026-09-15T15:26:45Z"
             }
           ],
-          "route": "/hot/2026-09-16/topic/cartesian-ai-3d-modeling-for-design/"
+          "route": "/hot/2026-09-16/topic/cartesian-ai-3d-modeling-for-design/",
+          "headline_zh": "Cartesian – 设计用 AI 3D 建模",
+          "summary_short_zh": "Hacker News 条目介绍 Cartesian 作为设计用 AI 3D 建模工具。列表未描述其支持的工作流程或可用性",
+          "why_it_matters_zh": "此工具来自 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     },
@@ -2205,7 +2266,11 @@
               "published_at": "Tue, 15 Sep 2026 20:00:00 +0000"
             }
           ],
-          "route": "/hot/2026-09-16/topic/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train/"
+          "route": "/hot/2026-09-16/topic/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train/",
+          "headline_zh": "绕过推理瓶颈：用 Retrieve-for-Train 加速复杂 AI 搜索",
+          "summary_short_zh": "Google Research 提出 Retrieve-for-Train 作为通过绕过推理瓶颈来加速复杂 AI 搜索的方法。列表将该工作归类为算法与理论，但未提供性能结果",
+          "why_it_matters_zh": "此研究论文在1个独立来源中被发现。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "f1c5d80db43c",
@@ -2243,7 +2308,11 @@
               "published_at": "2026-09-15T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-09-16/topic/ai-for-games-in-the-foundation-model-era/"
+          "route": "/hot/2026-09-16/topic/ai-for-games-in-the-foundation-model-era/",
+          "headline_zh": "基础模型时代的游戏AI",
+          "summary_short_zh": "基础模型与学习型游戏世界模型的进步正在重塑游戏生命周期中的AI。除了玩游戏之外，最新系统还能建模玩家和游戏动态，支持设计和开发，在运行时调整面向玩家的体验，并评估生成的产物。",
+          "why_it_matters_zh": "此研究论文在1个独立来源中被发现。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "e0d693d2e825",
@@ -2281,7 +2350,11 @@
               "published_at": "2026-09-15T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-09-16/topic/sciencebuddy-recursive-in-recursive-self-improvement-for-interactive-scientific-agents/"
+          "route": "/hot/2026-09-16/topic/sciencebuddy-recursive-in-recursive-self-improvement-for-interactive-scientific-agents/",
+          "headline_zh": "ScienceBuddy：用于交互式科学智能体的递归中递归自我改进",
+          "summary_short_zh": "我们推出并开源了ScienceBuddy，这是一个交互式科学研究工作空间，将持续改进的科学智能体融入研究人员的日常工作流程。",
+          "why_it_matters_zh": "此研究论文在1个独立来源中被发现。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "88470fa56008",
@@ -2319,7 +2392,11 @@
               "published_at": "2026-09-15T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-09-16/topic/flat-resampling-image-and-text-into-1d-flexible-length-aligned-transmodal-tokens-for-retrieval-and-generation/"
+          "route": "/hot/2026-09-16/topic/flat-resampling-image-and-text-into-1d-flexible-length-aligned-transmodal-tokens-for-retrieval-and-generation/",
+          "headline_zh": "FLAT：将图像和文本重采样为一维可变长度对齐的跨模态Token用于检索和生成",
+          "summary_short_zh": "传统的多模态表示学习和生成分为两个阶段：首先训练对比或自监督视觉编码器，然后训练单独的下游生成模型。这种设置使生成性能受限于冻结的嵌入。",
+          "why_it_matters_zh": "此研究论文在1个独立来源中被发现。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "67a9d312bd42",
@@ -2357,7 +2434,11 @@
               "published_at": "2026-09-14T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-09-16/topic/modularrsi-modular-and-generalizable-recursive-harness-self-improvement/"
+          "route": "/hot/2026-09-16/topic/modularrsi-modular-and-generalizable-recursive-harness-self-improvement/",
+          "headline_zh": "ModularRSI：模块化和可泛化的递归框架自我改进",
+          "summary_short_zh": "最近的研究将递归自我改进(RSI)扩展到智能体框架，用于长期编码和终端任务，使智能体能够从经验中改进执行机制。然而，可泛化的框架RSI仍然具有挑战性。",
+          "why_it_matters_zh": "此研究论文在1个独立来源中被发现。",
+          "category_zh": "研究"
         }
       ]
     }
@@ -2403,7 +2484,11 @@
               "published_at": "2026-09-15T19:25:03Z"
             }
           ],
-          "route": "/hot/2026-09-16/topic/introducing-system-one-models-and-jev/"
+          "route": "/hot/2026-09-16/topic/introducing-system-one-models-and-jev/",
+          "headline_zh": "介绍System One Models和Jev",
+          "summary_short_zh": "一条Hacker News消息介绍了System One Models和Jev。所提供的列表中没有技术规格、基准测试或可用性细节",
+          "why_it_matters_zh": "此产品发布在1个独立来源中被发现。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "1399c09f6305",
@@ -2441,7 +2526,11 @@
               "published_at": "2026-09-15T15:20:26Z"
             }
           ],
-          "route": "/hot/2026-09-16/topic/show-hn-pizza-bot-an-inbox-for-ai-agents-that-work-in-the-background/"
+          "route": "/hot/2026-09-16/topic/show-hn-pizza-bot-an-inbox-for-ai-agents-that-work-in-the-background/",
+          "headline_zh": "Show HN: Pizza Bot – 后台工作的AI智能体收件箱",
+          "summary_short_zh": "Pizza Bot在Show HN帖子中被展示为后台工作的AI智能体收件箱。该列表未提供进一步的实现或集成细节",
+          "why_it_matters_zh": "此产品发布在1个独立来源中被发现。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2485,7 +2574,11 @@
               "published_at": "Tue, 15 Sep 2026 12:00:41 +0000"
             }
           ],
-          "route": "/hot/2026-09-16/topic/exclusive-paying-for-frontier-ai-models-buys-4-month-head-start-at-5x-the-cost/"
+          "route": "/hot/2026-09-16/topic/exclusive-paying-for-frontier-ai-models-buys-4-month-head-start-at-5x-the-cost/",
+          "headline_zh": "独家：为前沿AI模型付费可获得4个月领先优势，但成本是5倍",
+          "summary_short_zh": "Ars Technica预览了一份Mozilla报告，研究廉价开源模型如何在能力上赶上前沿模型。标题描述付费前沿模型提供4个月领先优势，但成本是5倍",
+          "why_it_matters_zh": "此其他内容在1个独立来源中被发现。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "b8095dbc157f",
