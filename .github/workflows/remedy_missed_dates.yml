@@ -18,7 +18,7 @@ permissions:
 
 jobs:
   prepare:
-    runs-on: [ self-hosted, grokbot ]
+    runs-on: [ self-hosted, arxiv-fleet ]
     outputs:
       remedy_plan_json: ${{ steps.prepare.outputs.remedy_plan_json }}
 
@@ -79,7 +79,7 @@ jobs:
 
   remedy:
     needs: prepare
-    runs-on: [ self-hosted, grokbot ]
+    runs-on: [ self-hosted, arxiv-fleet ]
 
     strategy:
       fail-fast: false
@@ -251,7 +251,7 @@ jobs:
 
   merge:
     needs: remedy
-    runs-on: [ self-hosted, grokbot ]
+    runs-on: [ self-hosted, arxiv-fleet ]
 
     steps:
       - name: Checkout `main` branch for code

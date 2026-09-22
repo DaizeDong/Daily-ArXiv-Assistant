@@ -31,9 +31,13 @@ See [docs/UPGRADE-agent-native-hotspot.md](docs/UPGRADE-agent-native-hotspot.md)
 
    **Always carry a label, and match it in `runs-on`.** A bare `runs-on: self-hosted` matches *every* registered runner, so the second machine you add starts receiving jobs written for the first, chosen by whichever happens to be free. Give each runner a name for what it is (`windows`, `grokbot`) and name it in the job.
 
-   **Which machine the jobs run on is one label.** They currently run on `grokbot`, a container; see [DEPLOY_GROKBOT.md](DEPLOY_GROKBOT.md) for what that machine is and how to rebuild it. Moving a job back is a one-word edit to its `runs-on`.
+   **Jobs target a fleet, not a machine.** Every job is `runs-on: [ self-hosted, arxiv-fleet ]`, and every runner that can serve this repository carries `arxiv-fleet` alongside a name for what it is. Whichever runner is free takes the job, so no single machine being down is an outage, and a long build no longer blocks the daily pipeline behind it.
 
-   Two consequences worth knowing. **Scheduled runs queue while the machine is off** rather than failing, and fire when it comes back -- which also means a machine that is off looks exactly like a machine that is idle until you look at the queue. And **publishing depends on that machine too**, since all six workflows moved together.
+   That only holds while the runners are genuinely interchangeable, which is what `runner_selftest.yml` is for: dispatch it with a runner's own label and it asserts, on that machine, that `shell: bash` is not WSL's, that setup-python can serve it, that a model call comes back, and that it can push. Prove a new machine that way before adding `arxiv-fleet` to it.
+
+   The machines today are a container (`grokbot`; see [DEPLOY_GROKBOT.md](DEPLOY_GROKBOT.md)) and two runners on a Windows desktop (`windows`). Pinning one job to one machine is a one-word edit to its `runs-on`.
+
+   One consequence worth knowing. **Scheduled runs queue while every runner is off** rather than failing, and fire when one comes back -- which also means a fleet that is entirely down looks exactly like a fleet that is merely busy until you look at the queue. That is what `deploy/ensure.sh` and the runner tasks' repeat triggers are for: something has to notice, because nothing errors.
 
    **Where there is no local CLI, say so instead of letting `auto` guess.** `auto` resolves to llmcall, else the agent transport, and never to OpenAI -- deliberately, so a dead key surfaces as an outage rather than being silently reintroduced as the default. On a runner with neither, that means `auto` picks a transport that cannot work while gateway credentials sit unused in the job's environment. Every step that is handed `OPENAI_API_KEY` therefore also sets `ARXIV_ASSISTANT_LLM_BACKEND: openai` beside it, which is explicit and visible in the workflow rather than a fallback nobody can see. Do **not** instead try to make the keyless chain work by putting CLI credentials into Actions secrets: those are personal subscription credentials, and they would land at rest on the runner.
 5. Set GitHub Pages build source to [GitHub Actions](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#publishing-with-a-custom-github-actions-workflow).
@@ -51,7 +55,7 @@ For a no-API-key daily run through the local claude CLI:
 ```bash
 cp configs/profiles/agent-native.ini configs/config.ini            # papers: agent_only
 cp configs/profiles/agent-native.hotspot.ini configs/hotspot.ini   # hotspot: agent scout + subagent routes
-# install deploy/vps/ systemd unit + timer (headless `claude -p` cron); see deploy/vps/
+./deploy/install.sh --dir /opt/hotspot --env ~/hotspot.env   # detects the host's scheduler; see deploy/
 ```
 
 Requirements: the `claude` CLI logged in, a git push token, the **playwright MCP** available to `claude -p` (for the browser-subagent sources), and -- for hard-login sites -- a pre-seeded cookie profile. No OpenAI or twitterapi keys are required.

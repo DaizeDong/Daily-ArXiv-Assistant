@@ -1,8 +1,14 @@
 # The `grokbot` runner
 
-Every workflow in this repository runs on a self-hosted runner labelled
-`grokbot`. This is what that machine is, what is odd about it, and how to put
-it back when it disappears.
+The jobs in this repository target `arxiv-fleet`, a label carried by every
+runner that can serve them. `grokbot` is one of those runners, and the one
+most likely to need putting back. This is what that machine is, what is odd
+about it, and how to rebuild it.
+
+Because the fleet is shared, this machine being down is not an outage: the
+Windows runners take the queue. It does mean a job may run here or there, so
+anything true of one runner has to be true of both, which
+`runner_selftest.yml` is there to check.
 
 ## What the machine is
 
@@ -94,8 +100,11 @@ Two exceptions, both inherent rather than chosen:
   anything else on the machine. This is true of every self-hosted runner and is
   the exposure that was accepted when the jobs were moved here.
 
-## Moving a job off again
+## Pinning a job away from here
 
 Change its `runs-on` to `[ self-hosted, windows ]`. Nothing else in these
 workflows is machine-specific: every `run:` step declares `shell: bash`, and
 `tests/test_workflows_are_portable.py` keeps it that way.
+
+To take this machine out of the fleet entirely without touching any workflow,
+remove the `arxiv-fleet` label from the runner in the repository settings.

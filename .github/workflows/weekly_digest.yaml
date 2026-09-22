@@ -35,7 +35,7 @@ concurrency:
 
 jobs:
   weekly-digest:
-    runs-on: [ self-hosted, grokbot ]
+    runs-on: [ self-hosted, arxiv-fleet ]
     steps:
       - name: Decide whether this is really 08:00 in New York
         id: when

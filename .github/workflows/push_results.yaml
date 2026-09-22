@@ -12,7 +12,7 @@ permissions:
 
 jobs:
   push-results:
-    runs-on: [ self-hosted, grokbot ]
+    runs-on: [ self-hosted, arxiv-fleet ]
 
     steps:
       - name: Checkout repository

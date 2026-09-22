@@ -62,7 +62,7 @@ env:
 jobs:
   build:
     if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
-    runs-on: [ self-hosted, grokbot ]
+    runs-on: [ self-hosted, arxiv-fleet ]
 
     steps:
       - name: Checkout site code branch
@@ -281,7 +281,7 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: [ self-hosted, grokbot ]
+    runs-on: [ self-hosted, arxiv-fleet ]
 
     steps:
       - name: Deploy to GitHub Pages

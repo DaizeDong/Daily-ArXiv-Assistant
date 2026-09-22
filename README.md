@@ -31,7 +31,7 @@ No model API key is needed. Every model call goes through one gateway that prefe
 | `prompts/` | The paper and hotspot prompts. Closer to the behaviour of the filter than the code is. |
 | `scripts/` | Backfills, the weekly digest, the archive query, the corpus harvest, site build. |
 | `web/`, `site.css` | The published site. |
-| `deploy/vps/` | systemd unit and timer, for running the feed off a VPS. |
+| `deploy/` | One-command install of the daily job on any Linux host: detects the scheduler, proves a model call and the push path, then schedules. `grokbot_bootstrap.sh` rebuilds the container runner. |
 | `out/` | Generated archive. Not on this branch; it lives on `auto_update`. |
 
 ## Usage
