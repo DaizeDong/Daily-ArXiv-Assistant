@@ -35,7 +35,7 @@ concurrency:
 
 jobs:
   weekly-digest:
-    runs-on: [ self-hosted, windows ]
+    runs-on: [ self-hosted, grokbot ]
     steps:
       - name: Decide whether this is really 08:00 in New York
         id: when
@@ -127,6 +127,11 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          # Explicit, because `auto` resolves to llmcall or the agent transport and
+          # never to OpenAI by design -- and the container runner has neither the
+          # llmcall package nor a logged-in claude CLI, so `auto` there picks a
+          # transport that cannot work while the gateway credentials sit unused.
+          ARXIV_ASSISTANT_LLM_BACKEND: openai
           OPENAI_BASE_URL: ${{ secrets.OPENAI_BASE_URL }}
           SLACK_KEY: ${{ secrets.SLACK_KEY }}
           SLACK_CHANNEL_ID: ${{ secrets.SLACK_CHANNEL_ID }}
