@@ -10,7 +10,7 @@ permissions:
 
 jobs:
   refresh-x-authority-inventory:
-    runs-on: self-hosted
+    runs-on: [ self-hosted, grokbot ]
 
     steps:
       - name: Checkout `main` branch for code

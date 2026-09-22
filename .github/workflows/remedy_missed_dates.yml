@@ -18,7 +18,7 @@ permissions:
 
 jobs:
   prepare:
-    runs-on: self-hosted
+    runs-on: [ self-hosted, windows ]
     outputs:
       remedy_plan_json: ${{ steps.prepare.outputs.remedy_plan_json }}
 
@@ -79,7 +79,7 @@ jobs:
 
   remedy:
     needs: prepare
-    runs-on: self-hosted
+    runs-on: [ self-hosted, windows ]
 
     strategy:
       fail-fast: false
@@ -241,7 +241,7 @@ jobs:
 
   merge:
     needs: remedy
-    runs-on: self-hosted
+    runs-on: [ self-hosted, windows ]
 
     steps:
       - name: Checkout `main` branch for code

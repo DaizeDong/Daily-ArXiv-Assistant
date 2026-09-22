@@ -12,7 +12,7 @@ permissions:
 
 jobs:
   push-results:
-    runs-on: self-hosted
+    runs-on: [ self-hosted, windows ]
 
     steps:
       - name: Checkout repository
