@@ -1,0 +1,125 @@
+name: Runner selftest
+
+# Prove a runner before trusting it with real work.
+#
+# Every runner failure in this repository so far has been a property of the
+# machine rather than of the workflows: a Windows runner resolving `shell: bash`
+# to WSL's bash.exe, which cannot open a Windows path and dies on every step
+# with the backslashes eaten; a Linux runner where setup-python has no build
+# for the distribution; a machine whose scheduler simply was not running, which
+# looks exactly like a machine that is busy. None of those are visible from the
+# outside, and all of them are one dispatch away from being visible here.
+#
+# Takes the label to test, so it can be pointed at a new machine without
+# editing anything, and asserts rather than prints: a selftest that only prints
+# is read once and then believed forever.
+
+on:
+  workflow_dispatch:
+    inputs:
+      label:
+        description: "Runner label to test (e.g. grokbot, windows)"
+        required: true
+        default: "grokbot"
+
+permissions:
+  # The push check below is a dry run, but a dry run still negotiates
+  # git-receive-pack, which a read-only token cannot do -- the check would
+  # then fail on the token rather than on the machine.
+  contents: write
+
+jobs:
+  selftest:
+    runs-on: [ self-hosted, "${{ github.event.inputs.label }}" ]
+    steps:
+      - name: Which machine is this
+        shell: bash
+        run: |
+          echo "runner name  : ${RUNNER_NAME:-?}"
+          echo "runner os    : ${RUNNER_OS:-?}"
+          echo "runner arch  : ${RUNNER_ARCH:-?}"
+          echo "uname        : $(uname -a 2>/dev/null || echo n/a)"
+          echo "uptime       : $(uptime 2>/dev/null || echo n/a)"
+
+      - name: The shell is a real bash that can open the script it was given
+        shell: bash
+        run: |
+          # This is the WSL trap, asserted rather than described. GitHub
+          # resolves `shell: bash` through PATH. On a Windows machine that has
+          # both Git Bash and WSL, the runner picks C:\Windows\system32\bash.EXE
+          # unless something puts Git Bash first -- and that bash cannot open a
+          # Windows path, so every step dies on
+          #   /bin/bash: C:actions-runner_work_temp....sh: No such file
+          # with the backslashes eaten. If this step runs at all, the shell
+          # opened its own script, which is the property that matters. The
+          # check below names the binary so a regression is legible.
+          echo "bash path    : $(command -v bash)"
+          echo "bash version : $(bash --version | head -1)"
+          case "$(command -v bash)" in
+            /c/Windows/*|/mnt/c/Windows/*|*system32*|*System32*)
+              echo "FAIL: this is WSL's bash; Git Bash must come first on PATH" >&2
+              exit 1 ;;
+          esac
+
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: setup-python can serve this machine
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Python runs, and is the one setup-python selected
+        shell: bash
+        run: |
+          # On Debian 13 the action finds no published build and fails above.
+          # When it is satisfied from the tool cache instead, the interpreter
+          # is --enable-shared and needs LD_LIBRARY_PATH, which the action
+          # exports; running it here is what proves that happened.
+          echo "python       : $(command -v python)"
+          python -c "import sys; print('version      :', sys.version.split()[0])"
+          python -c "import ssl, sqlite3, lzma, ctypes; print('stdlib       : ssl sqlite3 lzma ctypes all import')"
+          case "$(python -c 'import sys; print(sys.version.split()[0])')" in
+            3.12.*) ;;
+            *) echo "FAIL: expected 3.12.x from setup-python" >&2; exit 1 ;;
+          esac
+
+      - name: The model transport answers
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_BASE_URL: ${{ secrets.OPENAI_BASE_URL }}
+          ARXIV_ASSISTANT_LLM_BACKEND: openai
+          ARXIV_ASSISTANT_LLM_MODEL: ${{ vars.ARXIV_ASSISTANT_LLM_MODEL }}
+        shell: bash
+        run: |
+          # A live call, because every cheaper check passes on a machine that
+          # cannot reach a model. The one this caught: the gateway answers
+          # 403 plus_required for the repo's default model while the key is
+          # perfectly good, so a build translated nothing and reported success
+          # at every step.
+          python -m pip install --quiet -r requirements.txt
+          python - <<'PY'
+          import sys
+          from arxiv_assistant.utils import llm_gateway
+          try:
+              r = llm_gateway.call("Reply with exactly: OK", timeout_s=120)
+          except Exception as exc:
+              print(f"FAIL: {exc}"); sys.exit(1)
+          text = (r.text or "").strip()
+          print(f"backend      : {r.backend}/{r.provider or '-'}")
+          print(f"reply        : {text[:40]!r}")
+          sys.exit(0 if text else 1)
+          PY
+
+      - name: Can push to auto_update
+        shell: bash
+        run: |
+          # The publisher's half. A runner that builds perfectly and cannot
+          # push produces nothing anyone sees, and fails in the direction that
+          # looks like working. --dry-run negotiates git-receive-pack, which
+          # GitHub refuses without write access, and creates nothing.
+          git push --dry-run \
+            "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" \
+            "HEAD:refs/heads/__runner_selftest__" >/dev/null 2>&1 \
+            && echo "push         : accepted (nothing was created)" \
+            || { echo "FAIL: this runner cannot push to the repository" >&2; exit 1; }
