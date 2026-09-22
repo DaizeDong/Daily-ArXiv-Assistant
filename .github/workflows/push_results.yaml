@@ -70,6 +70,11 @@ jobs:
           # llmcall package nor a logged-in claude CLI, so `auto` there picks a
           # transport that cannot work while the gateway credentials sit unused.
           ARXIV_ASSISTANT_LLM_BACKEND: openai
+          # The repo default is gpt-5.6, which this gateway answers with
+          # 403 plus_required -- auth is fine, the tier simply cannot have that
+          # model. A repository variable, not a secret: a model name is not one,
+          # and it has to be changeable without editing six files.
+          ARXIV_ASSISTANT_LLM_MODEL: ${{ vars.ARXIV_ASSISTANT_LLM_MODEL }}
           OPENAI_BASE_URL: ${{ secrets.OPENAI_BASE_URL }}
         shell: bash
         run: |
