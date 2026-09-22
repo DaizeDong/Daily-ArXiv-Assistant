@@ -1,0 +1,108 @@
+{
+    "schema_version": 2,
+    "meta": {
+        "date": "2026-09-22",
+        "sort": [
+            "score",
+            "relevance"
+        ],
+        "topic_schema_version": 2,
+        "total_papers": 0,
+        "usage": {
+            "model": "gpt-5.6",
+            "prompt_tokens": 0,
+            "completion_tokens": 0,
+            "prompt_cost": 0.0,
+            "completion_cost": 0.0,
+            "total_arxiv_papers": 850,
+            "total_scanned_papers": 551,
+            "total_relevant_papers": 0,
+            "filter_health": {
+                "status": "llm_unavailable",
+                "scanned_papers": 551,
+                "selected_papers": 0,
+                "llm_tokens": 0,
+                "message": "551 papers were scanned but the pipeline made ZERO model calls. Scoring did not run, so an empty result carries no information about relevance. Check the [LLM] backend and whether its transport is reachable."
+            },
+            "llm": {
+                "backend": "LLM backend: openai",
+                "attempted": 0,
+                "succeeded": 0,
+                "failed": 0,
+                "by_backend": {},
+                "by_provider": {},
+                "errors": [],
+                "seconds": 0.0,
+                "trace": []
+            }
+        }
+    },
+    "topic_order": [
+        "frontier_models",
+        "architecture_training",
+        "training_systems",
+        "moe_training",
+        "efficiency_scaling",
+        "representation_structure",
+        "memory_systems",
+        "world_models_open_ended_rl"
+    ],
+    "diagnostics": {
+        "total_papers": 0,
+        "topic_counts": [
+            {
+                "topic_id": "frontier_models",
+                "topic_label": "Frontier Model Releases and Technical Reports",
+                "paper_count": 0
+            },
+            {
+                "topic_id": "architecture_training",
+                "topic_label": "Architecture and Training Dynamics",
+                "paper_count": 0
+            },
+            {
+                "topic_id": "training_systems",
+                "topic_label": "Training Algorithms That Change What Is Possible",
+                "paper_count": 0
+            },
+            {
+                "topic_id": "moe_training",
+                "topic_label": "MoE Where It Changes the Design Space",
+                "paper_count": 0
+            },
+            {
+                "topic_id": "efficiency_scaling",
+                "topic_label": "Efficiency, Compression, and Large-Scale Training",
+                "paper_count": 0
+            },
+            {
+                "topic_id": "representation_structure",
+                "topic_label": "Representation Learning Theory and Structure",
+                "paper_count": 0
+            },
+            {
+                "topic_id": "memory_systems",
+                "topic_label": "Memory Structures and Agent Memory Systems",
+                "paper_count": 0
+            },
+            {
+                "topic_id": "world_models_open_ended_rl",
+                "topic_label": "World Models, Exploration, and Open-Ended Reinforcement Learning",
+                "paper_count": 0
+            }
+        ],
+        "assignment_source_counts": {},
+        "llm_assignment_count": 0,
+        "heuristic_assignment_count": 0,
+        "default_assignment_count": 0,
+        "invalid_primary_topic_fallback_count": 0,
+        "missing_primary_topic_fallback_count": 0,
+        "hotspot_paper_kind_counts": {
+            "new_frontier": 0,
+            "daily_hot": 0
+        },
+        "hotspot_paper_assignment_source_counts": {}
+    },
+    "papers": {},
+    "topic_sections": []
+}

@@ -1,0 +1,27 @@
+{
+    "schema_version": 1,
+    "meta": {
+        "date": "2026-09-22",
+        "total_candidates": 0,
+        "total_spotlight_papers": 0,
+        "thresholds": {
+            "daily_hot_score_cutoff": 15,
+            "daily_hot_relevance_cutoff": 7,
+            "new_frontier_score_cutoff": 15,
+            "new_frontier_novelty_cutoff": 8
+        },
+        "caps": {
+            "max_daily_hot": 6,
+            "max_new_frontier": 4
+        }
+    },
+    "diagnostics": {
+        "candidate_count_by_kind": {
+            "new_frontier": 0,
+            "daily_hot": 0
+        },
+        "selected_count_by_kind": {}
+    },
+    "papers": {},
+    "sections": []
+}
