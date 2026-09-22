@@ -1,0 +1,3106 @@
+{
+  "schema_version": 1,
+  "meta": {
+    "date": "2026-09-22",
+    "month": "2026-09",
+    "year": "2026",
+    "generated_at": "2026-09-22T07:59:54.335989+00:00",
+    "mode": "openai",
+    "summary": "• [Industry Update] 阿里公布全模态模型新进展，Qwen4和下代视频模型均在训练中 — This other surfaced across 1 independent source(s).\n• [Industry Update] 阿里吴泳铭最新演讲：未来机器思考的总量将达到人类的1000倍以上 — This other surfaced across 1 independent source(s).\n• [Product Release] Xiaomi MiMo released MiMo-V2.6-Flash-RL — This product release surfaced across 1 independent source(s).",
+    "previous_date": "2026-09-21",
+    "next_date": null,
+    "paper_routes": {
+      "home": "../../",
+      "day": null,
+      "month": null,
+      "year": null
+    },
+    "counts": {
+      "featured_topics": 3,
+      "topic_summary": 2,
+      "category_radar": 16,
+      "long_tail": 8,
+      "paper_spotlight": 6,
+      "x_buzz": 5,
+      "watchlist": 1,
+      "source_items": 37,
+      "resurgence": 0
+    }
+  },
+  "totals": {
+    "raw_items": 86,
+    "enriched_items": 0,
+    "stories": 0,
+    "featured": 3,
+    "watchlist": 1,
+    "category_topics": 16,
+    "long_tail_topics": 8,
+    "paper_spotlight_items": 6
+  },
+  "costs": {
+    "prompt": 0.0,
+    "completion": 0.0,
+    "total": 0.0
+  },
+  "usage": {
+    "llm": {
+      "provider": "openai",
+      "backend": "openai",
+      "billing_model": "quota",
+      "screen_model": "gpt-5.6",
+      "summary_model": "gpt-5.6",
+      "requests": 0,
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0,
+      "prompt_cost": 0.0,
+      "completion_cost": 0.0,
+      "total_cost": 0.0
+    },
+    "external": {
+      "ainews": {
+        "provider": "AINews RSS",
+        "billing_model": "free",
+        "requests": 1,
+        "items": 0,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "analysis_feeds": {
+        "provider": "Analysis RSS feeds",
+        "billing_model": "free",
+        "requests": 13,
+        "items": 19,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "github_trend": {
+        "provider": "GitHub API",
+        "billing_model": "free",
+        "requests": 2,
+        "items": 15,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "hf_papers": {
+        "provider": "Hugging Face",
+        "billing_model": "free",
+        "requests": 1,
+        "items": 12,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "hn_discussion": {
+        "provider": "Hacker News API",
+        "billing_model": "free",
+        "requests": 6,
+        "items": 9,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "local_papers": {
+        "provider": "Local cache",
+        "billing_model": "local",
+        "requests": 0,
+        "items": 0,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "model_hubs": {
+        "provider": "Hugging Face model index",
+        "billing_model": "free",
+        "requests": 20,
+        "items": 2,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "official_blogs": {
+        "provider": "Official blogs",
+        "billing_model": "free",
+        "requests": 30,
+        "items": 36,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "reddit": {
+        "provider": "Reddit JSON API",
+        "billing_model": "free",
+        "requests": 0,
+        "items": 0,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "roundup_sites": {
+        "provider": "Roundup sites",
+        "billing_model": "free",
+        "requests": 8,
+        "items": 15,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "x_ainews_twitter": {
+        "provider": "AINews Twitter recap",
+        "billing_model": "free",
+        "requests": 1,
+        "items": 0,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "x_twitterapi": {
+        "provider": "twitterapi.io",
+        "billing_model": "metered",
+        "requests": 0,
+        "items": 0,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      }
+    },
+    "summary": {
+      "external_requests": 82,
+      "x_requests": 1,
+      "estimated_external_cost": 0.0
+    }
+  },
+  "source_stats": {
+    "ainews": 0,
+    "analysis_feeds": 19,
+    "github_trend": 15,
+    "hf_papers": 12,
+    "hn_discussion": 9,
+    "local_papers": 0,
+    "model_hubs": 2,
+    "official_blogs": 36,
+    "reddit": 0,
+    "roundup_sites": 15,
+    "x_ainews_twitter": 0,
+    "x_twitterapi": 0
+  },
+  "source_section_counts": {
+    "official": 10,
+    "market-signals": 0,
+    "analysis": 8,
+    "papers": 7,
+    "github": 6,
+    "industry": 6
+  },
+  "source_sections": [
+    {
+      "slug": "official",
+      "label": "Official Updates",
+      "description": "Product, research, and platform updates from official vendor or lab channels.",
+      "count": 10,
+      "section_score": 11.972,
+      "items": [
+        {
+          "id": "openai_news-a7ca59844a94",
+          "title": "Advisory Group on Mathematics and Artificial Intelligence",
+          "summary_short": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results",
+          "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+          "canonical_url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+          "source_id": "openai_news",
+          "source_name": "OpenAI News",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "source_family": "official",
+          "published_at": "Mon, 21 Sep 2026 12:00:00 GMT",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 8.185,
+          "topic_refs": [
+            {
+              "topic_id": "c01b537e426b",
+              "slug": "advisory-group-on-mathematics-and-artificial-intelligence",
+              "headline": "Advisory Group on Mathematics and Artificial Intelligence",
+              "daily_route": "/hot/2026-09-22/topic/advisory-group-on-mathematics-and-artificial-intelligence/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "hf_models_xiaomimimo-aeef5531cd01",
+          "title": "Xiaomi MiMo released MiMo-V2.6-Pro-RL",
+          "summary_short": "Weights for XiaomiMiMo/MiMo-V2.6-Flash-RL appeared on the hub. Pipeline tags: transformers, safetensors, mimo_v2, text-generation, multimodal, vision-language. 0 downloads, 276 likes at collection time",
+          "url": "https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Pro-RL",
+          "canonical_url": "https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Pro-RL",
+          "source_id": "hf_models_xiaomimimo",
+          "source_name": "Xiaomi MiMo on Hugging Face",
+          "source_role": "official_news",
+          "source_type": "model_release",
+          "source_family": "official",
+          "published_at": "2026-09-21T15:39:33.000Z",
+          "tags": [
+            "transformers",
+            "safetensors",
+            "mimo_v2",
+            "text-generation",
+            "multimodal",
+            "vision-language",
+            "audio",
+            "agent",
+            "video-understanding",
+            "long-context",
+            "conversational",
+            "custom_code"
+          ],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 6.74,
+          "topic_refs": [
+            {
+              "topic_id": "b8305cbbfeab",
+              "slug": "xiaomi-mimo-released-mimo-v2-6-flash-rl",
+              "headline": "Xiaomi MiMo released MiMo-V2.6-Flash-RL",
+              "daily_route": "/hot/2026-09-22/topic/xiaomi-mimo-released-mimo-v2-6-flash-rl/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "aws_ai_blog-57a4ea79770d",
+          "title": "xAI’s Grok 4.6 is now available in Amazon Bedrock",
+          "summary_short": "xAI's Grok 4.6 is now available in Amazon Bedrock for long-running agents, coding, and knowledge work. The model offers a 500,000-token context window and four reasoning effort levels",
+          "url": "https://aws.amazon.com/blogs/machine-learning/xais-grok-4-6-is-now-available-in-amazon-bedrock",
+          "canonical_url": "https://aws.amazon.com/blogs/machine-learning/xais-grok-4-6-is-now-available-in-amazon-bedrock",
+          "source_id": "aws_ai_blog",
+          "source_name": "AWS AI Blog",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "source_family": "official",
+          "published_at": "Mon, 21 Sep 2026 18:30:34 +0000",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 5.11,
+          "topic_refs": [
+            {
+              "topic_id": "6757bbf04d7e",
+              "slug": "xai-s-grok-4-6-is-now-available-in-amazon-bedrock",
+              "headline": "xAI’s Grok 4.6 is now available in Amazon Bedrock",
+              "daily_route": "/hot/2026-09-22/topic/xai-s-grok-4-6-is-now-available-in-amazon-bedrock/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "openai_news-d37f5b2c5927",
+          "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+          "summary_short": "OpenAI describes Higgsfield AI using GPT-6 Astra to ship new video features in a day. The case study focuses on simplifying video ad creation for small businesses and accelerating creative tool development",
+          "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+          "canonical_url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+          "source_id": "openai_news",
+          "source_name": "OpenAI News",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "source_family": "official",
+          "published_at": "Mon, 21 Sep 2026 12:00:00 GMT",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 5.093,
+          "topic_refs": [
+            {
+              "topic_id": "dd146692b471",
+              "slug": "higgsfield-ai-ships-new-video-features-in-a-day-with-gpt-6-astra",
+              "headline": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+              "daily_route": "/hot/2026-09-22/topic/higgsfield-ai-ships-new-video-features-in-a-day-with-gpt-6-astra/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "aws_ai_blog-f4990a11668b",
+          "title": "How Benchling secured multi-tenant AI agents with Amazon Bedrock AgentCore",
+          "summary_short": "Benchling built a defense-in-depth architecture for running untrusted scientific code generated by AI agents across thousands of life sciences tenants. The post describes how it uses Amazon Bedrock AgentCore to secure this multi-tenant environment",
+          "url": "https://aws.amazon.com/blogs/machine-learning/how-benchling-secured-multi-tenant-ai-agents-with-amazon-bedrock-agentcore",
+          "canonical_url": "https://aws.amazon.com/blogs/machine-learning/how-benchling-secured-multi-tenant-ai-agents-with-amazon-bedrock-agentcore",
+          "source_id": "aws_ai_blog",
+          "source_name": "AWS AI Blog",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "source_family": "official",
+          "published_at": "Mon, 21 Sep 2026 16:27:34 +0000",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 4.882,
+          "topic_refs": [
+            {
+              "topic_id": "426ce215b38c",
+              "slug": "how-benchling-secured-multi-tenant-ai-agents-with-amazon-bedrock-agentcore",
+              "headline": "How Benchling secured multi-tenant AI agents with Amazon Bedrock AgentCore",
+              "daily_route": "/hot/2026-09-22/topic/how-benchling-secured-multi-tenant-ai-agents-with-amazon-bedrock-agentcore/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "aws_ai_blog-9aa8643754e5",
+          "title": "Reducing medical claims review time with AI on AWS: The EXL Medical IDP solution",
+          "summary_short": "EXL built a medical intelligent document processing solution on AWS to reduce claims review time. The solution combines document processing with domain-specific large language models using Amazon SageMaker and Amazon Bedrock",
+          "url": "https://aws.amazon.com/blogs/machine-learning/reducing-medical-claims-review-time-with-ai-on-aws-the-exl-medical-idp-solution",
+          "canonical_url": "https://aws.amazon.com/blogs/machine-learning/reducing-medical-claims-review-time-with-ai-on-aws-the-exl-medical-idp-solution",
+          "source_id": "aws_ai_blog",
+          "source_name": "AWS AI Blog",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "source_family": "official",
+          "published_at": "Mon, 21 Sep 2026 16:24:40 +0000",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 4.882,
+          "topic_refs": [
+            {
+              "topic_id": "e082b9737cf5",
+              "slug": "reducing-medical-claims-review-time-with-ai-on-aws-the-exl-medical-idp-solution",
+              "headline": "Reducing medical claims review time with AI on AWS: The EXL Medical IDP solution",
+              "daily_route": "/hot/2026-09-22/topic/reducing-medical-claims-review-time-with-ai-on-aws-the-exl-medical-idp-solution/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "aws_ai_blog-760ee151a8da",
+          "title": "How BMW Group detects cost anomalies across 14,000 cloud accounts",
+          "summary_short": "BMW Group added automated daily cost anomaly detection to CLEA, its FinOps platform monitoring more than 14,000 cloud accounts. The post describes the move from reactive dashboards to proactive anomaly detection",
+          "url": "https://aws.amazon.com/blogs/machine-learning/how-bmw-group-detects-cost-anomalies-across-14000-cloud-accounts",
+          "canonical_url": "https://aws.amazon.com/blogs/machine-learning/how-bmw-group-detects-cost-anomalies-across-14000-cloud-accounts",
+          "source_id": "aws_ai_blog",
+          "source_name": "AWS AI Blog",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "source_family": "official",
+          "published_at": "Mon, 21 Sep 2026 16:36:10 +0000",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 4.829,
+          "topic_refs": [
+            {
+              "topic_id": "4fc50a2538be",
+              "slug": "how-bmw-group-detects-cost-anomalies-across-14-000-cloud-accounts",
+              "headline": "How BMW Group detects cost anomalies across 14,000 cloud accounts",
+              "daily_route": "/hot/2026-09-22/topic/how-bmw-group-detects-cost-anomalies-across-14-000-cloud-accounts/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "aws_ai_blog-6a6ddf1877cd",
+          "title": "Run Positron on Amazon SageMaker AI for data science workflows",
+          "summary_short": "Posit's Positron IDE now runs on Amazon SageMaker AI. The post demonstrates a data science workflow involving Amazon Athena, feature validation in R, and XGBoost training in Python",
+          "url": "https://aws.amazon.com/blogs/machine-learning/run-positron-on-amazon-sagemaker-ai-for-data-science-workflows",
+          "canonical_url": "https://aws.amazon.com/blogs/machine-learning/run-positron-on-amazon-sagemaker-ai-for-data-science-workflows",
+          "source_id": "aws_ai_blog",
+          "source_name": "AWS AI Blog",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "source_family": "official",
+          "published_at": "Mon, 21 Sep 2026 16:34:21 +0000",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 4.829,
+          "topic_refs": [
+            {
+              "topic_id": "f6e0e30a84a5",
+              "slug": "run-positron-on-amazon-sagemaker-ai-for-data-science-workflows",
+              "headline": "Run Positron on Amazon SageMaker AI for data science workflows",
+              "daily_route": "/hot/2026-09-22/topic/run-positron-on-amazon-sagemaker-ai-for-data-science-workflows/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "openai_news-2c9792fbb14a",
+          "title": "Building standards for the next phase of AI",
+          "summary_short": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety",
+          "url": "https://openai.com/index/building-standards-next-phase-ai",
+          "canonical_url": "https://openai.com/index/building-standards-next-phase-ai",
+          "source_id": "openai_news",
+          "source_name": "OpenAI News",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "source_family": "official",
+          "published_at": "Mon, 21 Sep 2026 10:00:00 GMT",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 1.5,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "openai_news-530db518a73a",
+          "title": "Expanding OpenAI Academy with new learning paths",
+          "summary_short": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills",
+          "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+          "canonical_url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+          "source_id": "openai_news",
+          "source_name": "OpenAI News",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "source_family": "official",
+          "published_at": "Mon, 21 Sep 2026 07:00:00 GMT",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 1.5,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        }
+      ]
+    },
+    {
+      "slug": "market-signals",
+      "label": "Market Signals",
+      "description": "Funding rounds, acquisitions, valuations, and strategic moves in the AI industry.",
+      "count": 0,
+      "section_score": -1.0,
+      "items": []
+    },
+    {
+      "slug": "analysis",
+      "label": "Expert Analysis",
+      "description": "Long-form expert analysis and research explainers with substantive depth.",
+      "count": 8,
+      "section_score": 11.85,
+      "items": [
+        {
+          "id": "analysis_techcrunch_ai-60d6567d7f21",
+          "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+          "summary_short": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research",
+          "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems",
+          "canonical_url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems",
+          "source_id": "analysis_techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "source_role": "editorial_depth",
+          "source_type": "blog_analysis",
+          "source_family": "analysis",
+          "published_at": "Mon, 21 Sep 2026 20:15:58 +0000",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 7.985,
+          "topic_refs": [
+            {
+              "topic_id": "c01b537e426b",
+              "slug": "advisory-group-on-mathematics-and-artificial-intelligence",
+              "headline": "Advisory Group on Mathematics and Artificial Intelligence",
+              "daily_route": "/hot/2026-09-22/topic/advisory-group-on-mathematics-and-artificial-intelligence/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "analysis_qbitai-7ba72be8cb1b",
+          "title": "阿里公布全模态模型新进展，Qwen4和下代视频模型均在训练中",
+          "summary_short": "9月22日， 2026云栖大会开幕，阿里巴巴公布大模型最新进展。",
+          "url": "https://www.qbitai.com/2026/09/493625.html",
+          "canonical_url": "https://www.qbitai.com/2026/09/493625.html",
+          "source_id": "analysis_qbitai",
+          "source_name": "量子位 (QbitAI)",
+          "source_role": "editorial_depth",
+          "source_type": "blog_analysis",
+          "source_family": "analysis",
+          "published_at": "Tue, 22 Sep 2026 03:42:43 +0000",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 6.967,
+          "topic_refs": [
+            {
+              "topic_id": "c06dc60cfb11",
+              "slug": "qwen4",
+              "headline": "阿里公布全模态模型新进展，Qwen4和下代视频模型均在训练中",
+              "daily_route": "/hot/2026-09-22/topic/qwen4/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "analysis_qbitai-ebeb8f52928b",
+          "title": "阿里吴泳铭最新演讲：未来机器思考的总量将达到人类的1000倍以上",
+          "summary_short": "9月22日，在2026杭州云栖大会上，阿里巴巴集团CEO吴泳铭发表最新演讲，阐述了对“机器智能”时代的思考。",
+          "url": "https://www.qbitai.com/2026/09/493485.html",
+          "canonical_url": "https://www.qbitai.com/2026/09/493485.html",
+          "source_id": "analysis_qbitai",
+          "source_name": "量子位 (QbitAI)",
+          "source_role": "editorial_depth",
+          "source_type": "blog_analysis",
+          "source_family": "analysis",
+          "published_at": "Tue, 22 Sep 2026 02:52:05 +0000",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 6.868,
+          "topic_refs": [
+            {
+              "topic_id": "84db82354209",
+              "slug": "1000",
+              "headline": "阿里吴泳铭最新演讲：未来机器思考的总量将达到人类的1000倍以上",
+              "daily_route": "/hot/2026-09-22/topic/1000/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "analysis_techcrunch_ai-365635f4f8ce",
+          "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+          "summary_short": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures",
+          "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch",
+          "canonical_url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch",
+          "source_id": "analysis_techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "source_role": "editorial_depth",
+          "source_type": "blog_analysis",
+          "source_family": "analysis",
+          "published_at": "Mon, 21 Sep 2026 19:19:21 +0000",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 6.541,
+          "topic_refs": [
+            {
+              "topic_id": "c6ff4b971dfb",
+              "slug": "amazon-blocks-meta-s-muse-ai-agent",
+              "headline": "Amazon blocks Meta’s Muse AI agent",
+              "daily_route": "/hot/2026-09-22/topic/amazon-blocks-meta-s-muse-ai-agent/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "analysis_techcrunch_ai-11f6953e11ef",
+          "title": "Meta’s AI agent has been blocked from using Amazon.com",
+          "summary_short": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why would they?",
+          "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com",
+          "canonical_url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com",
+          "source_id": "analysis_techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "source_role": "editorial_depth",
+          "source_type": "blog_analysis",
+          "source_family": "analysis",
+          "published_at": "Mon, 21 Sep 2026 17:55:18 +0000",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 6.541,
+          "topic_refs": [
+            {
+              "topic_id": "c6ff4b971dfb",
+              "slug": "amazon-blocks-meta-s-muse-ai-agent",
+              "headline": "Amazon blocks Meta’s Muse AI agent",
+              "daily_route": "/hot/2026-09-22/topic/amazon-blocks-meta-s-muse-ai-agent/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "analysis_qbitai-83d64a50eac9",
+          "title": "2026 East Forward出海大会：全球化到达下一站，中国企业如何走得更远",
+          "summary_short": "“潮起之时，靠岸相见”",
+          "url": "https://www.qbitai.com/2026/09/493510.html",
+          "canonical_url": "https://www.qbitai.com/2026/09/493510.html",
+          "source_id": "analysis_qbitai",
+          "source_name": "量子位 (QbitAI)",
+          "source_role": "editorial_depth",
+          "source_type": "blog_analysis",
+          "source_family": "analysis",
+          "published_at": "Tue, 22 Sep 2026 03:13:44 +0000",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 6.318,
+          "topic_refs": [
+            {
+              "topic_id": "db5292960327",
+              "slug": "2026-east-forward",
+              "headline": "2026 East Forward出海大会：全球化到达下一站，中国企业如何走得更远",
+              "daily_route": "/hot/2026-09-22/topic/2026-east-forward/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "analysis_qbitai-7544485e55aa",
+          "title": "阿里巴巴：机器智能时代，坚定投入AI模型 AI芯片 AI云三大基石",
+          "summary_short": "吴泳铭表示，阿里巴巴将坚定投入AI模型、AI芯片和AI云这三项基础设施建设，这是阿里的长期战略选择。",
+          "url": "https://www.qbitai.com/2026/09/493502.html",
+          "canonical_url": "https://www.qbitai.com/2026/09/493502.html",
+          "source_id": "analysis_qbitai",
+          "source_name": "量子位 (QbitAI)",
+          "source_role": "editorial_depth",
+          "source_type": "blog_analysis",
+          "source_family": "analysis",
+          "published_at": "Tue, 22 Sep 2026 02:59:29 +0000",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 5.671,
+          "topic_refs": [
+            {
+              "topic_id": "7b8cf80ad1d5",
+              "slug": "ai-ai-ai",
+              "headline": "阿里巴巴：机器智能时代，坚定投入AI模型 AI芯片 AI云三大基石",
+              "daily_route": "/hot/2026-09-22/topic/ai-ai-ai/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "analysis_techcrunch_ai-df69de99cbd8",
+          "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+          "summary_short": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people",
+          "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping",
+          "canonical_url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping",
+          "source_id": "analysis_techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "source_role": "editorial_depth",
+          "source_type": "blog_analysis",
+          "source_family": "analysis",
+          "published_at": "Mon, 21 Sep 2026 23:44:28 +0000",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 4.611,
+          "topic_refs": [
+            {
+              "topic_id": "976893daf4fe",
+              "slug": "the-man-who-built-apple-s-stores-doesn-t-buy-silicon-valley-s-bet-on-ai-shopping",
+              "headline": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+              "daily_route": "/hot/2026-09-22/topic/the-man-who-built-apple-s-stores-doesn-t-buy-silicon-valley-s-bet-on-ai-shopping/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        }
+      ]
+    },
+    {
+      "slug": "papers",
+      "label": "Research Papers",
+      "description": "Research papers and paper-trending signals tied to the current day.",
+      "count": 7,
+      "section_score": 10.308,
+      "items": [
+        {
+          "id": "hf_papers-1fd62c8a9d92",
+          "title": "RRSI: Regularized Recursive Self-Improvement of Agent Harnesses",
+          "summary_short": "An LLM agent's capability is largely magnified by its harness, namely the prompts, control flow, tooling, memory, and context management surrounding the frozen backbone model.",
+          "url": "https://huggingface.co/papers/2609.24972",
+          "canonical_url": "https://arxiv.org/abs/2609.24972",
+          "source_id": "hf_papers",
+          "source_name": "Hugging Face Trending Papers",
+          "source_role": "paper_trending",
+          "source_type": "paper",
+          "source_family": "papers",
+          "published_at": "2026-09-21T00:00:00.000Z",
+          "tags": [],
+          "authors": [
+            "Peng Xia",
+            "Rujun Han",
+            "Zifeng Wang",
+            "Yanfei Chen",
+            "Yufan Zhang",
+            "Yoonho Lee",
+            "Chengsong Huang",
+            "Han Yu",
+            "Zhongying CuiZhu",
+            "Yifei Ming",
+            "Huaxiu Yao",
+            "Burak Gokturk",
+            "Tomas Pfister",
+            "Chen-Yu Lee"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 65,
+            "daily_score": 65
+          },
+          "signal_score": 6.611,
+          "topic_refs": [
+            {
+              "topic_id": "67a9d312bd42",
+              "slug": "modularrsi-modular-and-generalizable-recursive-harness-self-improvement",
+              "headline": "ModularRSI: Modular and Generalizable Recursive Harness Self-Improvement",
+              "daily_route": "/hot/2026-09-22/topic/modularrsi-modular-and-generalizable-recursive-harness-self-improvement/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "daily_hot",
+          "spotlight_primary_label": "Daily Hot Papers",
+          "spotlight_comment": "An LLM agent's capability is largely magnified by its harness, namely the prompts, control flow, tooling, memory, and context management surrounding the frozen backbone model."
+        },
+        {
+          "id": "hf_papers-93f2f2b4146b",
+          "title": "WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory",
+          "summary_short": "Video world models enable interactive exploration of dynamic environments, yet struggle to respect prior observations over long horizons and across viewpoints. We present WorldCrafter, a video world model that learns a camera-queryable implicit 3D-aware memory for this purpose.",
+          "url": "https://huggingface.co/papers/2609.24984",
+          "canonical_url": "https://arxiv.org/abs/2609.24984",
+          "source_id": "hf_papers",
+          "source_name": "Hugging Face Trending Papers",
+          "source_role": "paper_trending",
+          "source_type": "paper",
+          "source_family": "papers",
+          "published_at": "2026-09-21T00:00:00.000Z",
+          "tags": [],
+          "authors": [
+            "Wangbo Yu",
+            "Kunhao Liu",
+            "Wenbo Hu",
+            "Shenghai Yuan",
+            "Chaoran Feng",
+            "Haiyang Zhou",
+            "Yukun Huang",
+            "Yiran Wang",
+            "Wang Zhao",
+            "Yingmin Luo",
+            "Ying Shan"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 44,
+            "daily_score": 44
+          },
+          "signal_score": 6.401,
+          "topic_refs": [
+            {
+              "topic_id": "e92e1f550897",
+              "slug": "alayavista-streaming-world-modeling-from-panoramic-states-to-perspective-video",
+              "headline": "AlayaVista: Streaming World Modeling from Panoramic States to Perspective Video",
+              "daily_route": "/hot/2026-09-22/topic/alayavista-streaming-world-modeling-from-panoramic-states-to-perspective-video/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "daily_hot",
+          "spotlight_primary_label": "Daily Hot Papers",
+          "spotlight_comment": "Video world models enable interactive exploration of dynamic environments, yet struggle to respect prior observations over long horizons and across viewpoints."
+        },
+        {
+          "id": "hf_papers-aa45dc0ea176",
+          "title": "VideoGen-Agent: Reinforcing Video Generation Agents",
+          "summary_short": "Recent advances in video generative models have enabled high-fidelity, temporally coherent video generation. However, these models often struggle to satisfy prompts requiring specialized knowledge, specific identities, physical consistency, or ordered events.",
+          "url": "https://huggingface.co/papers/2609.24997",
+          "canonical_url": "https://arxiv.org/abs/2609.24997",
+          "source_id": "hf_papers",
+          "source_name": "Hugging Face Trending Papers",
+          "source_role": "paper_trending",
+          "source_type": "paper",
+          "source_family": "papers",
+          "published_at": "2026-09-21T00:00:00.000Z",
+          "tags": [],
+          "authors": [
+            "Binxu Li",
+            "Haoyi Duan",
+            "Yuhui Zhang",
+            "Yaohui Zhang",
+            "Zihao Lin",
+            "Kaituo Feng",
+            "Suozhi Huang",
+            "Xiangyi Li",
+            "Yu Li",
+            "Chunyuan Li",
+            "Shilong Liu",
+            "Mengdi Wang"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 21,
+            "daily_score": 21
+          },
+          "signal_score": 6.169,
+          "topic_refs": [
+            {
+              "topic_id": "3e1c8fd8eb73",
+              "slug": "lynnreal-omni-native-multi-modal-video-generation-for-agentic-visual-workflows",
+              "headline": "LynnReal-Omni: Native multi-modal Video Generation for Agentic Visual Workflows",
+              "daily_route": "/hot/2026-09-22/topic/lynnreal-omni-native-multi-modal-video-generation-for-agentic-visual-workflows/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "daily_hot",
+          "spotlight_primary_label": "Daily Hot Papers",
+          "spotlight_comment": "Recent advances in video generative models have enabled high-fidelity, temporally coherent video generation."
+        },
+        {
+          "id": "hf_papers-a79dc525116d",
+          "title": "Document Retrieval-Aware Chunking (D-RAC): Universal Retrieval-Aware Ingestion of Enterprise Documents via PDF Normalization and Multimodal Markdown Conversion",
+          "summary_short": "The paper introduces D-RAC for retrieval-aware ingestion of enterprise documents using PDF normalization and multimodal Markdown conversion. It targets heterogeneous inputs such as PDFs, Word documents, presentations, and scans for retrieval-augmented generation systems",
+          "url": "https://huggingface.co/papers/2609.24220",
+          "canonical_url": "https://arxiv.org/abs/2609.24220",
+          "source_id": "hf_papers",
+          "source_name": "Hugging Face Trending Papers",
+          "source_role": "paper_trending",
+          "source_type": "paper",
+          "source_family": "papers",
+          "published_at": "2026-09-21T00:00:00.000Z",
+          "tags": [],
+          "authors": [
+            "Uday Allu",
+            "Abhivanth Sivaprakash",
+            "Pratik Singh",
+            "Aman Manocha"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 19,
+            "daily_score": 19
+          },
+          "signal_score": 6.149,
+          "topic_refs": [
+            {
+              "topic_id": "a053b504b4ed",
+              "slug": "document-retrieval-aware-chunking-d-rac-universal-retrieval-aware-ingestion-of-enterprise-documents-via-pdf-normalization-and-multimodal-markdown-conversion",
+              "headline": "Document Retrieval-Aware Chunking (D-RAC): Universal Retrieval-Aware Ingestion of Enterprise Documents via PDF Normalization and Multimodal Markdown Conversion",
+              "daily_route": "/hot/2026-09-22/topic/document-retrieval-aware-chunking-d-rac-universal-retrieval-aware-ingestion-of-enterprise-documents-via-pdf-normalization-and-multimodal-markdown-conversion/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "daily_hot",
+          "spotlight_primary_label": "Daily Hot Papers",
+          "spotlight_comment": "Retrieval-Augmented Generation (RAG) systems over enterprise knowledge bases must ingest heterogeneous document formats -- PDFs, Word documents, presentations, and scans -- whose content is locked inside complex visual layouts, multi-column pages"
+        },
+        {
+          "id": "hf_papers-3c0948c47a50",
+          "title": "Harness-Zero: Harness Distillation via Agent-as-Harness",
+          "summary_short": "Harness-Zero proposes harness distillation through an agent-as-harness approach. It addresses the deployment dependence of performance gains provided by external systems that mediate model-environment interaction",
+          "url": "https://huggingface.co/papers/2609.24974",
+          "canonical_url": "https://arxiv.org/abs/2609.24974",
+          "source_id": "hf_papers",
+          "source_name": "Hugging Face Trending Papers",
+          "source_role": "paper_trending",
+          "source_type": "paper",
+          "source_family": "papers",
+          "published_at": "2026-09-21T00:00:00.000Z",
+          "tags": [],
+          "authors": [
+            "Haoran Ye",
+            "Yuxing Lu",
+            "Haonan Dong",
+            "Zhaochen Su",
+            "Guojie Song"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 10,
+            "daily_score": 10
+          },
+          "signal_score": 5.261,
+          "topic_refs": [
+            {
+              "topic_id": "96a1e8a33981",
+              "slug": "harness-zero-harness-distillation-via-agent-as-harness",
+              "headline": "Harness-Zero: Harness Distillation via Agent-as-Harness",
+              "daily_route": "/hot/2026-09-22/topic/harness-zero-harness-distillation-via-agent-as-harness/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "hf_papers-8a6d72a4e919",
+          "title": "GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay",
+          "summary_short": "Modern video games provide a measurable testbed for AI models, combining abilities of visual understanding, instruction decomposition, goal planning, and precise action control over multiple temporal horizons.",
+          "url": "https://huggingface.co/papers/2609.25001",
+          "canonical_url": "https://arxiv.org/abs/2609.25001",
+          "source_id": "hf_papers",
+          "source_name": "Hugging Face Trending Papers",
+          "source_role": "paper_trending",
+          "source_type": "paper",
+          "source_family": "papers",
+          "published_at": "2026-09-21T00:00:00.000Z",
+          "tags": [],
+          "authors": [
+            "Yiran Wang",
+            "Xingyilang Yin",
+            "Junfu Pu",
+            "Guangzhi Wang",
+            "Kaifeng Li",
+            "Mingyu Ouyang",
+            "Huiqiang Sun",
+            "Lingen Li",
+            "Cheng Cheng",
+            "Wangbo Yu",
+            "Honghao Chen",
+            "Xiaodong Cun",
+            "Chi-Man Pun",
+            "Zhiguo Cao",
+            "Ying Shan"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 33,
+            "daily_score": 33
+          },
+          "signal_score": 2.98,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "daily_hot",
+          "spotlight_primary_label": "Daily Hot Papers",
+          "spotlight_comment": "Modern video games provide a measurable testbed for AI models, combining abilities of visual understanding, instruction decomposition, goal planning, and precise action control over multiple temporal horizons."
+        },
+        {
+          "id": "hf_papers-09bf1ff1e5ad",
+          "title": "onPanda: Efficient Annotation of On-Policy Alignment Data for LLMs and Agents via Token-Level Correction",
+          "summary_short": "We present onPanda, an interactive tool for efficiently annotating LLM alignment data and agent trajectories.",
+          "url": "https://huggingface.co/papers/2609.24983",
+          "canonical_url": "https://arxiv.org/abs/2609.24983",
+          "source_id": "hf_papers",
+          "source_name": "Hugging Face Trending Papers",
+          "source_role": "paper_trending",
+          "source_type": "paper",
+          "source_family": "papers",
+          "published_at": "2026-09-21T00:00:00.000Z",
+          "tags": [],
+          "authors": [
+            "Lei Yang",
+            "Mengyin Liu",
+            "Jia Wang",
+            "Hangyu Guo",
+            "Liang Zhao",
+            "Zheng Ge",
+            "Kang An",
+            "Binxing Jiao",
+            "Qi Han",
+            "Daxin Jiang",
+            "Siqi Shen",
+            "Xiangyu Zhang"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 19,
+            "daily_score": 19
+          },
+          "signal_score": 2.84,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "daily_hot",
+          "spotlight_primary_label": "Daily Hot Papers",
+          "spotlight_comment": "We present onPanda, an interactive tool for efficiently annotating LLM alignment data and agent trajectories."
+        }
+      ]
+    },
+    {
+      "slug": "github",
+      "label": "GitHub / Tools",
+      "description": "Repositories, tooling launches, and builder momentum around practical AI systems.",
+      "count": 6,
+      "section_score": 7.836,
+      "items": [
+        {
+          "id": "hn_discussion-08be31d1d2d2",
+          "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
+          "summary_short": "",
+          "url": "https://github.com/volotat/mini-AGI",
+          "canonical_url": "https://github.com/volotat/mini-AGI",
+          "source_id": "hn_discussion",
+          "source_name": "Hacker News",
+          "source_role": "hn_discussion",
+          "source_type": "discussion",
+          "source_family": "github",
+          "published_at": "2026-09-21T04:42:37Z",
+          "tags": [],
+          "authors": [
+            "volotat"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 262,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 5.437,
+          "topic_refs": [
+            {
+              "topic_id": "89fe08604a43",
+              "slug": "show-hn-mini-agi-dynamic-continual-learning-model-trained-on-8gb-vram",
+              "headline": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
+              "daily_route": "/hot/2026-09-22/topic/show-hn-mini-agi-dynamic-continual-learning-model-trained-on-8gb-vram/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "hn_discussion-513f706570e2",
+          "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+          "summary_short": "",
+          "url": "https://github.com/jaredpalmer/kev/tree/main",
+          "canonical_url": "https://github.com/jaredpalmer/kev/tree/main",
+          "source_id": "hn_discussion",
+          "source_name": "Hacker News",
+          "source_role": "hn_discussion",
+          "source_type": "discussion",
+          "source_family": "github",
+          "published_at": "2026-09-21T07:11:55Z",
+          "tags": [],
+          "authors": [
+            "tosh"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 430,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 5.184,
+          "topic_refs": [
+            {
+              "topic_id": "8afdb6d28688",
+              "slug": "kev-tiny-jev-like-family-of-decision-models-built-on-top-of-qwen3-5",
+              "headline": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+              "daily_route": "/hot/2026-09-22/topic/kev-tiny-jev-like-family-of-decision-models-built-on-top-of-qwen3-5/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "hn_discussion-74913b77197e",
+          "title": "Show HN: Foremerge – Catch intent conflicts between parallel coding agents",
+          "summary_short": "Foremerge is presented as a tool for detecting intent conflicts between coding agents working in parallel. It was shared through a Show HN post",
+          "url": "https://github.com/naw103/foremerge",
+          "canonical_url": "https://github.com/naw103/foremerge",
+          "source_id": "hn_discussion",
+          "source_name": "Hacker News",
+          "source_role": "hn_discussion",
+          "source_type": "discussion",
+          "source_family": "github",
+          "published_at": "2026-09-21T16:22:06Z",
+          "tags": [],
+          "authors": [
+            "naw103"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 42,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 4.211,
+          "topic_refs": [
+            {
+              "topic_id": "9be301d9096d",
+              "slug": "show-hn-foremerge-catch-intent-conflicts-between-parallel-coding-agents",
+              "headline": "Show HN: Foremerge – Catch intent conflicts between parallel coding agents",
+              "daily_route": "/hot/2026-09-22/topic/show-hn-foremerge-catch-intent-conflicts-between-parallel-coding-agents/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "github_trend-6cf30f044df6",
+          "title": "jev-chat/jev-chat-jarvis",
+          "summary_short": "装在手机上的对话副驾：在微信 / QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
+          "url": "https://github.com/jev-chat/jev-chat-jarvis",
+          "canonical_url": "https://github.com/jev-chat/jev-chat-jarvis",
+          "source_id": "github_trend",
+          "source_name": "GitHub Trending Repos",
+          "source_role": "github_trend",
+          "source_type": "repository",
+          "source_family": "github",
+          "published_at": "2026-09-21T11:12:53Z",
+          "tags": [
+            "accessibility-service",
+            "android",
+            "chat-assistant",
+            "llm",
+            "qq",
+            "wechat"
+          ],
+          "authors": [
+            "jev-chat"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 2071,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 3.35,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "github_trend-11c0e859fa41",
+          "title": "zai-org/ZCode",
+          "summary_short": "Z.ai's coding agent harness. Powerful, intelligent, extensible",
+          "url": "https://github.com/zai-org/ZCode",
+          "canonical_url": "https://github.com/zai-org/ZCode",
+          "source_id": "github_trend",
+          "source_name": "GitHub Trending Repos",
+          "source_role": "github_trend",
+          "source_type": "repository",
+          "source_family": "github",
+          "published_at": "2026-09-20T12:01:16Z",
+          "tags": [],
+          "authors": [
+            "zai-org"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 6017,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 3.35,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "github_trend-639d4b24f18d",
+          "title": "Continuum-AI-Corp/OrcaBonsai-27B-Uncensored",
+          "summary_short": "Runtime behavioral ablation for compressed LLMs. First target: Ternary Bonsai 2 27B — no weight modification or re-quantization. by OrcaRouter team",
+          "url": "https://github.com/Continuum-AI-Corp/OrcaBonsai-27B-Uncensored",
+          "canonical_url": "https://github.com/Continuum-AI-Corp/OrcaBonsai-27B-Uncensored",
+          "source_id": "github_trend",
+          "source_name": "GitHub Trending Repos",
+          "source_role": "github_trend",
+          "source_type": "repository",
+          "source_family": "github",
+          "published_at": "2026-09-18T06:45:54Z",
+          "tags": [],
+          "authors": [
+            "Continuum-AI-Corp"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 523,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 1.996,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        }
+      ]
+    },
+    {
+      "slug": "industry",
+      "label": "Industry News",
+      "description": "Curated industry coverage from newsletters, blogs, and community sources with substance.",
+      "count": 6,
+      "section_score": 5.13,
+      "items": [
+        {
+          "id": "hn_discussion-ec756a609f4b",
+          "title": "Can I Let My AI Agent Run on Shabbat?",
+          "summary_short": "",
+          "url": "https://www.chabad.org/library/article_cdo/aid/7288064/jewish/Can-I-Let-My-AI-Agent-Run-on-Shabbat.htm",
+          "canonical_url": "https://www.chabad.org/library/article_cdo/aid/7288064/jewish/Can-I-Let-My-AI-Agent-Run-on-Shabbat.htm",
+          "source_id": "hn_discussion",
+          "source_name": "Hacker News",
+          "source_role": "hn_discussion",
+          "source_type": "discussion",
+          "source_family": "industry",
+          "published_at": "2026-09-21T02:05:45Z",
+          "tags": [],
+          "authors": [
+            "some-guy"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 36,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 3.748,
+          "topic_refs": [
+            {
+              "topic_id": "a09a2725d669",
+              "slug": "can-i-let-my-ai-agent-run-on-shabbat",
+              "headline": "Can I Let My AI Agent Run on Shabbat?",
+              "daily_route": "/hot/2026-09-22/topic/can-i-let-my-ai-agent-run-on-shabbat/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "hn_discussion-196e695124f1",
+          "title": "Transformers Explained Visually",
+          "summary_short": "",
+          "url": "https://poloclub.github.io/transformer-explainer",
+          "canonical_url": "https://poloclub.github.io/transformer-explainer",
+          "source_id": "hn_discussion",
+          "source_name": "Hacker News",
+          "source_role": "hn_discussion",
+          "source_type": "discussion",
+          "source_family": "industry",
+          "published_at": "2026-09-21T19:43:49Z",
+          "tags": [],
+          "authors": [
+            "aray07"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 362,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 2.35,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "hn_discussion-a3a755f8b4e0",
+          "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
+          "summary_short": "",
+          "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and",
+          "canonical_url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and",
+          "source_id": "hn_discussion",
+          "source_name": "Hacker News",
+          "source_role": "hn_discussion",
+          "source_type": "discussion",
+          "source_family": "industry",
+          "published_at": "2026-09-21T14:10:49Z",
+          "tags": [],
+          "authors": [
+            "ano-ther"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 222,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 2.35,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "hn_discussion-8b83fa6813fc",
+          "title": "M5 Ultra Mac Studio Review",
+          "summary_short": "",
+          "url": "https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents",
+          "canonical_url": "https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents",
+          "source_id": "hn_discussion",
+          "source_name": "Hacker News",
+          "source_role": "hn_discussion",
+          "source_type": "discussion",
+          "source_family": "industry",
+          "published_at": "2026-09-21T13:53:27Z",
+          "tags": [],
+          "authors": [
+            "piotrgrabowski"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 245,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 2.35,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "superhuman_ai-61bfe0429f61",
+          "title": "4 min read OpenAI incident report or science fiction?",
+          "summary_short": "",
+          "url": "https://www.superhuman.ai/p/openai-incident-report-or-science-fiction",
+          "canonical_url": "https://www.superhuman.ai/p/openai-incident-report-or-science-fiction",
+          "source_id": "superhuman_ai",
+          "source_name": "Superhuman AI",
+          "source_role": "headline_consensus",
+          "source_type": "roundup",
+          "source_family": "industry",
+          "published_at": "2026-09-22T00:00:00-04:00",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 0.4,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "superhuman_ai-8b588b3d0a0e",
+          "title": "4 min read Claude gets 2 new features & a simpler platform",
+          "summary_short": "",
+          "url": "https://www.superhuman.ai/p/claude-gets-2-new-features-a-simpler-platform",
+          "canonical_url": "https://www.superhuman.ai/p/claude-gets-2-new-features-a-simpler-platform",
+          "source_id": "superhuman_ai",
+          "source_name": "Superhuman AI",
+          "source_role": "headline_consensus",
+          "source_type": "roundup",
+          "source_family": "industry",
+          "published_at": "2026-09-22T00:00:00-04:00",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 0.4,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        }
+      ]
+    }
+  ],
+  "paper_spotlight": [
+    {
+      "slug": "paper-spotlight-daily_hot",
+      "kind": "daily_hot",
+      "label": "Daily Hot Papers",
+      "description": "Papers that feel broadly important to the day and belong in the hotspot paper feed.",
+      "count": 6,
+      "items": [
+        {
+          "id": "hf_papers-1fd62c8a9d92",
+          "title": "RRSI: Regularized Recursive Self-Improvement of Agent Harnesses",
+          "summary_short": "An LLM agent's capability is largely magnified by its harness, namely the prompts, control flow, tooling, memory, and context management surrounding the frozen backbone model.",
+          "url": "https://huggingface.co/papers/2609.24972",
+          "canonical_url": "https://arxiv.org/abs/2609.24972",
+          "source_id": "hf_papers",
+          "source_name": "Hugging Face Trending Papers",
+          "source_role": "paper_trending",
+          "source_type": "paper",
+          "source_family": "papers",
+          "published_at": "2026-09-21T00:00:00.000Z",
+          "tags": [],
+          "authors": [
+            "Peng Xia",
+            "Rujun Han",
+            "Zifeng Wang",
+            "Yanfei Chen",
+            "Yufan Zhang",
+            "Yoonho Lee",
+            "Chengsong Huang",
+            "Han Yu",
+            "Zhongying CuiZhu",
+            "Yifei Ming",
+            "Huaxiu Yao",
+            "Burak Gokturk",
+            "Tomas Pfister",
+            "Chen-Yu Lee"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 65,
+            "daily_score": 65
+          },
+          "signal_score": 6.611,
+          "topic_refs": [
+            {
+              "topic_id": "67a9d312bd42",
+              "slug": "modularrsi-modular-and-generalizable-recursive-harness-self-improvement",
+              "headline": "ModularRSI: Modular and Generalizable Recursive Harness Self-Improvement",
+              "daily_route": "/hot/2026-09-22/topic/modularrsi-modular-and-generalizable-recursive-harness-self-improvement/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "daily_hot",
+          "spotlight_primary_label": "Daily Hot Papers",
+          "spotlight_comment": "An LLM agent's capability is largely magnified by its harness, namely the prompts, control flow, tooling, memory, and context management surrounding the frozen backbone model."
+        },
+        {
+          "id": "hf_papers-93f2f2b4146b",
+          "title": "WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory",
+          "summary_short": "Video world models enable interactive exploration of dynamic environments, yet struggle to respect prior observations over long horizons and across viewpoints. We present WorldCrafter, a video world model that learns a camera-queryable implicit 3D-aware memory for this purpose.",
+          "url": "https://huggingface.co/papers/2609.24984",
+          "canonical_url": "https://arxiv.org/abs/2609.24984",
+          "source_id": "hf_papers",
+          "source_name": "Hugging Face Trending Papers",
+          "source_role": "paper_trending",
+          "source_type": "paper",
+          "source_family": "papers",
+          "published_at": "2026-09-21T00:00:00.000Z",
+          "tags": [],
+          "authors": [
+            "Wangbo Yu",
+            "Kunhao Liu",
+            "Wenbo Hu",
+            "Shenghai Yuan",
+            "Chaoran Feng",
+            "Haiyang Zhou",
+            "Yukun Huang",
+            "Yiran Wang",
+            "Wang Zhao",
+            "Yingmin Luo",
+            "Ying Shan"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 44,
+            "daily_score": 44
+          },
+          "signal_score": 6.401,
+          "topic_refs": [
+            {
+              "topic_id": "e92e1f550897",
+              "slug": "alayavista-streaming-world-modeling-from-panoramic-states-to-perspective-video",
+              "headline": "AlayaVista: Streaming World Modeling from Panoramic States to Perspective Video",
+              "daily_route": "/hot/2026-09-22/topic/alayavista-streaming-world-modeling-from-panoramic-states-to-perspective-video/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "daily_hot",
+          "spotlight_primary_label": "Daily Hot Papers",
+          "spotlight_comment": "Video world models enable interactive exploration of dynamic environments, yet struggle to respect prior observations over long horizons and across viewpoints."
+        },
+        {
+          "id": "hf_papers-aa45dc0ea176",
+          "title": "VideoGen-Agent: Reinforcing Video Generation Agents",
+          "summary_short": "Recent advances in video generative models have enabled high-fidelity, temporally coherent video generation. However, these models often struggle to satisfy prompts requiring specialized knowledge, specific identities, physical consistency, or ordered events.",
+          "url": "https://huggingface.co/papers/2609.24997",
+          "canonical_url": "https://arxiv.org/abs/2609.24997",
+          "source_id": "hf_papers",
+          "source_name": "Hugging Face Trending Papers",
+          "source_role": "paper_trending",
+          "source_type": "paper",
+          "source_family": "papers",
+          "published_at": "2026-09-21T00:00:00.000Z",
+          "tags": [],
+          "authors": [
+            "Binxu Li",
+            "Haoyi Duan",
+            "Yuhui Zhang",
+            "Yaohui Zhang",
+            "Zihao Lin",
+            "Kaituo Feng",
+            "Suozhi Huang",
+            "Xiangyi Li",
+            "Yu Li",
+            "Chunyuan Li",
+            "Shilong Liu",
+            "Mengdi Wang"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 21,
+            "daily_score": 21
+          },
+          "signal_score": 6.169,
+          "topic_refs": [
+            {
+              "topic_id": "3e1c8fd8eb73",
+              "slug": "lynnreal-omni-native-multi-modal-video-generation-for-agentic-visual-workflows",
+              "headline": "LynnReal-Omni: Native multi-modal Video Generation for Agentic Visual Workflows",
+              "daily_route": "/hot/2026-09-22/topic/lynnreal-omni-native-multi-modal-video-generation-for-agentic-visual-workflows/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "daily_hot",
+          "spotlight_primary_label": "Daily Hot Papers",
+          "spotlight_comment": "Recent advances in video generative models have enabled high-fidelity, temporally coherent video generation."
+        },
+        {
+          "id": "hf_papers-a79dc525116d",
+          "title": "Document Retrieval-Aware Chunking (D-RAC): Universal Retrieval-Aware Ingestion of Enterprise Documents via PDF Normalization and Multimodal Markdown Conversion",
+          "summary_short": "The paper introduces D-RAC for retrieval-aware ingestion of enterprise documents using PDF normalization and multimodal Markdown conversion. It targets heterogeneous inputs such as PDFs, Word documents, presentations, and scans for retrieval-augmented generation systems",
+          "url": "https://huggingface.co/papers/2609.24220",
+          "canonical_url": "https://arxiv.org/abs/2609.24220",
+          "source_id": "hf_papers",
+          "source_name": "Hugging Face Trending Papers",
+          "source_role": "paper_trending",
+          "source_type": "paper",
+          "source_family": "papers",
+          "published_at": "2026-09-21T00:00:00.000Z",
+          "tags": [],
+          "authors": [
+            "Uday Allu",
+            "Abhivanth Sivaprakash",
+            "Pratik Singh",
+            "Aman Manocha"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 19,
+            "daily_score": 19
+          },
+          "signal_score": 6.149,
+          "topic_refs": [
+            {
+              "topic_id": "a053b504b4ed",
+              "slug": "document-retrieval-aware-chunking-d-rac-universal-retrieval-aware-ingestion-of-enterprise-documents-via-pdf-normalization-and-multimodal-markdown-conversion",
+              "headline": "Document Retrieval-Aware Chunking (D-RAC): Universal Retrieval-Aware Ingestion of Enterprise Documents via PDF Normalization and Multimodal Markdown Conversion",
+              "daily_route": "/hot/2026-09-22/topic/document-retrieval-aware-chunking-d-rac-universal-retrieval-aware-ingestion-of-enterprise-documents-via-pdf-normalization-and-multimodal-markdown-conversion/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "daily_hot",
+          "spotlight_primary_label": "Daily Hot Papers",
+          "spotlight_comment": "Retrieval-Augmented Generation (RAG) systems over enterprise knowledge bases must ingest heterogeneous document formats -- PDFs, Word documents, presentations, and scans -- whose content is locked inside complex visual layouts, multi-column pages"
+        },
+        {
+          "id": "hf_papers-8a6d72a4e919",
+          "title": "GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay",
+          "summary_short": "Modern video games provide a measurable testbed for AI models, combining abilities of visual understanding, instruction decomposition, goal planning, and precise action control over multiple temporal horizons.",
+          "url": "https://huggingface.co/papers/2609.25001",
+          "canonical_url": "https://arxiv.org/abs/2609.25001",
+          "source_id": "hf_papers",
+          "source_name": "Hugging Face Trending Papers",
+          "source_role": "paper_trending",
+          "source_type": "paper",
+          "source_family": "papers",
+          "published_at": "2026-09-21T00:00:00.000Z",
+          "tags": [],
+          "authors": [
+            "Yiran Wang",
+            "Xingyilang Yin",
+            "Junfu Pu",
+            "Guangzhi Wang",
+            "Kaifeng Li",
+            "Mingyu Ouyang",
+            "Huiqiang Sun",
+            "Lingen Li",
+            "Cheng Cheng",
+            "Wangbo Yu",
+            "Honghao Chen",
+            "Xiaodong Cun",
+            "Chi-Man Pun",
+            "Zhiguo Cao",
+            "Ying Shan"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 33,
+            "daily_score": 33
+          },
+          "signal_score": 2.98,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "daily_hot",
+          "spotlight_primary_label": "Daily Hot Papers",
+          "spotlight_comment": "Modern video games provide a measurable testbed for AI models, combining abilities of visual understanding, instruction decomposition, goal planning, and precise action control over multiple temporal horizons."
+        },
+        {
+          "id": "hf_papers-09bf1ff1e5ad",
+          "title": "onPanda: Efficient Annotation of On-Policy Alignment Data for LLMs and Agents via Token-Level Correction",
+          "summary_short": "We present onPanda, an interactive tool for efficiently annotating LLM alignment data and agent trajectories.",
+          "url": "https://huggingface.co/papers/2609.24983",
+          "canonical_url": "https://arxiv.org/abs/2609.24983",
+          "source_id": "hf_papers",
+          "source_name": "Hugging Face Trending Papers",
+          "source_role": "paper_trending",
+          "source_type": "paper",
+          "source_family": "papers",
+          "published_at": "2026-09-21T00:00:00.000Z",
+          "tags": [],
+          "authors": [
+            "Lei Yang",
+            "Mengyin Liu",
+            "Jia Wang",
+            "Hangyu Guo",
+            "Liang Zhao",
+            "Zheng Ge",
+            "Kang An",
+            "Binxing Jiao",
+            "Qi Han",
+            "Daxin Jiang",
+            "Siqi Shen",
+            "Xiangyu Zhang"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 19,
+            "daily_score": 19
+          },
+          "signal_score": 2.84,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "daily_hot",
+          "spotlight_primary_label": "Daily Hot Papers",
+          "spotlight_comment": "We present onPanda, an interactive tool for efficiently annotating LLM alignment data and agent trajectories."
+        }
+      ]
+    }
+  ],
+  "topic_summary": [
+    {
+      "topic_id": "c01b537e426b",
+      "slug": "advisory-group-on-mathematics-and-artificial-intelligence",
+      "headline": "Advisory Group on Mathematics and Artificial Intelligence",
+      "category": "Industry Update",
+      "final_score": 5.056,
+      "heat": 7.0,
+      "occurrence_score": 8.25,
+      "display_priority": 7.323,
+      "confidence": 8.397,
+      "llm_status": "candidate",
+      "source_count": 3,
+      "item_count": 3,
+      "route": "/hot/2026-09-22/topic/advisory-group-on-mathematics-and-artificial-intelligence/"
+    },
+    {
+      "topic_id": "c6ff4b971dfb",
+      "slug": "amazon-blocks-meta-s-muse-ai-agent",
+      "headline": "Amazon blocks Meta’s Muse AI agent",
+      "category": "Industry Update",
+      "final_score": 5.032,
+      "heat": 6.0,
+      "occurrence_score": 6.05,
+      "display_priority": 5.788,
+      "confidence": 6.23,
+      "llm_status": "candidate",
+      "source_count": 2,
+      "item_count": 3,
+      "route": "/hot/2026-09-22/topic/amazon-blocks-meta-s-muse-ai-agent/"
+    }
+  ],
+  "featured_topics": [
+    {
+      "topic_id": "c06dc60cfb11",
+      "slug": "qwen4",
+      "headline": "阿里公布全模态模型新进展，Qwen4和下代视频模型均在训练中",
+      "category": "Industry Update",
+      "summary_short": "9月22日， 2026云栖大会开幕，阿里巴巴公布大模型最新进展。",
+      "why_it_matters": "This other surfaced across 1 independent source(s).",
+      "key_takeaways": [
+        "9月22日， 2026云栖大会开幕，阿里巴巴公布大模型最新进展。",
+        "未来Qwen4.5、Qwen5等版本将扩展至5-10T参数。"
+      ],
+      "scores": {
+        "final": 10.0,
+        "quality": 9.0,
+        "heat": 4.0,
+        "importance": 5.0,
+        "occurrence": 3.4,
+        "display_priority": 7.622,
+        "confidence": 5.46
+      },
+      "source_tier": "trusted_analysis",
+      "source_names": [
+        "量子位 (QbitAI)"
+      ],
+      "source_roles": [
+        "editorial_depth"
+      ],
+      "source_types": [
+        "blog_analysis"
+      ],
+      "llm_status": "featured",
+      "evidence": [
+        {
+          "title": "阿里公布全模态模型新进展，Qwen4和下代视频模型均在训练中",
+          "url": "https://www.qbitai.com/2026/09/493625.html",
+          "source_name": "量子位 (QbitAI)",
+          "published_at": "Tue, 22 Sep 2026 03:42:43 +0000"
+        },
+        {
+          "title": "阿里研究员透露Qwen4.5后模型将扩展至5-10T参数",
+          "url": "https://www.qbitai.com/2026/09/493629.html",
+          "source_name": "量子位 (QbitAI)",
+          "published_at": "Tue, 22 Sep 2026 03:48:05 +0000"
+        }
+      ],
+      "route": "/hot/2026-09-22/topic/qwen4/"
+    },
+    {
+      "topic_id": "84db82354209",
+      "slug": "1000",
+      "headline": "阿里吴泳铭最新演讲：未来机器思考的总量将达到人类的1000倍以上",
+      "category": "Industry Update",
+      "summary_short": "9月22日，在2026杭州云栖大会上，阿里巴巴集团CEO吴泳铭发表最新演讲，阐述了对“机器智能”时代的思考。",
+      "why_it_matters": "This other surfaced across 1 independent source(s).",
+      "key_takeaways": [
+        "9月22日，在2026杭州云栖大会上，阿里巴巴集团CEO吴泳铭发表最新演讲，阐述了对“机器智能”时代的思考。"
+      ],
+      "scores": {
+        "final": 9.5,
+        "quality": 9.0,
+        "heat": 3.0,
+        "importance": 5.0,
+        "occurrence": 2.95,
+        "display_priority": 7.229,
+        "confidence": 5.31
+      },
+      "source_tier": "trusted_analysis",
+      "source_names": [
+        "量子位 (QbitAI)"
+      ],
+      "source_roles": [
+        "editorial_depth"
+      ],
+      "source_types": [
+        "blog_analysis"
+      ],
+      "llm_status": "featured",
+      "evidence": [
+        {
+          "title": "阿里吴泳铭最新演讲：未来机器思考的总量将达到人类的1000倍以上",
+          "url": "https://www.qbitai.com/2026/09/493485.html",
+          "source_name": "量子位 (QbitAI)",
+          "published_at": "Tue, 22 Sep 2026 02:52:05 +0000"
+        }
+      ],
+      "route": "/hot/2026-09-22/topic/1000/"
+    },
+    {
+      "topic_id": "b8305cbbfeab",
+      "slug": "xiaomi-mimo-released-mimo-v2-6-flash-rl",
+      "headline": "Xiaomi MiMo released MiMo-V2.6-Flash-RL",
+      "category": "Product Release",
+      "summary_short": "Weights for XiaomiMiMo/MiMo-V2.6-Flash-RL appeared on the hub. Pipeline tags: transformers, safetensors, mimo_v2, text-generation, multimodal, vision-language. 0 downloads, 276 likes at collection time",
+      "why_it_matters": "This product release surfaced across 1 independent source(s).",
+      "key_takeaways": [
+        "Weights for XiaomiMiMo/MiMo-V2.6-Pro-RL appeared on the hub. Pipeline tags: transformers, safetensors, mimo_v2, text-generation, multimodal, vision-language. 0 downloads, 262 likes at collection time.",
+        "Weights for XiaomiMiMo/MiMo-V2.6-Flash-RL appeared on the hub. Pipeline tags: transformers, safetensors, mimo_v2, text-generation, multimodal, vision-language. 0 downloads, 276 likes at collection ..."
+      ],
+      "scores": {
+        "final": 5.216,
+        "quality": 5.0,
+        "heat": 4.0,
+        "importance": 10.0,
+        "occurrence": 3.4,
+        "display_priority": 5.859,
+        "confidence": 4.925
+      },
+      "source_tier": "official",
+      "source_names": [
+        "Xiaomi MiMo on Hugging Face"
+      ],
+      "source_roles": [
+        "official_news"
+      ],
+      "source_types": [
+        "model_release"
+      ],
+      "llm_status": "featured",
+      "evidence": [
+        {
+          "title": "Xiaomi MiMo released MiMo-V2.6-Pro-RL",
+          "url": "https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Pro-RL",
+          "source_name": "Xiaomi MiMo on Hugging Face",
+          "published_at": "2026-09-21T15:39:33.000Z"
+        },
+        {
+          "title": "Xiaomi MiMo released MiMo-V2.6-Flash-RL",
+          "url": "https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Flash-RL",
+          "source_name": "Xiaomi MiMo on Hugging Face",
+          "published_at": "2026-09-21T15:39:51.000Z"
+        }
+      ],
+      "route": "/hot/2026-09-22/topic/xiaomi-mimo-released-mimo-v2-6-flash-rl/"
+    }
+  ],
+  "category_sections": [
+    {
+      "category": "Product Release",
+      "total_candidates": 1,
+      "topics": [
+        {
+          "topic_id": "6757bbf04d7e",
+          "slug": "xai-s-grok-4-6-is-now-available-in-amazon-bedrock",
+          "headline": "xAI’s Grok 4.6 is now available in Amazon Bedrock",
+          "category": "Product Release",
+          "summary_short": "xAI's Grok 4.6 is now available in Amazon Bedrock for long-running agents, coding, and knowledge work. The model offers a 500,000-token context window and four reasoning effort levels",
+          "why_it_matters": "This product release surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.117,
+            "quality": 5.0,
+            "heat": 3.0,
+            "importance": 7.0,
+            "occurrence": 2.95,
+            "display_priority": 4.647,
+            "confidence": 4.895
+          },
+          "source_tier": "official",
+          "source_names": [
+            "AWS AI Blog"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "official_blog"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "xAI’s Grok 4.6 is now available in Amazon Bedrock",
+              "url": "https://aws.amazon.com/blogs/machine-learning/xais-grok-4-6-is-now-available-in-amazon-bedrock",
+              "source_name": "AWS AI Blog",
+              "published_at": "Mon, 21 Sep 2026 18:30:34 +0000"
+            }
+          ],
+          "route": "/hot/2026-09-22/topic/xai-s-grok-4-6-is-now-available-in-amazon-bedrock/"
+        }
+      ]
+    },
+    {
+      "category": "Market Signal",
+      "total_candidates": 2,
+      "topics": [
+        {
+          "topic_id": "976893daf4fe",
+          "slug": "the-man-who-built-apple-s-stores-doesn-t-buy-silicon-valley-s-bet-on-ai-shopping",
+          "headline": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+          "category": "Market Signal",
+          "summary_short": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people",
+          "why_it_matters": "This acquisition surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.056,
+            "quality": 5.0,
+            "heat": 3.0,
+            "importance": 5.0,
+            "occurrence": 2.95,
+            "display_priority": 4.229,
+            "confidence": 3.977
+          },
+          "source_tier": "trusted_analysis",
+          "source_names": [
+            "TechCrunch AI"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+              "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping",
+              "source_name": "TechCrunch AI",
+              "published_at": "Mon, 21 Sep 2026 23:44:28 +0000"
+            }
+          ],
+          "route": "/hot/2026-09-22/topic/the-man-who-built-apple-s-stores-doesn-t-buy-silicon-valley-s-bet-on-ai-shopping/"
+        },
+        {
+          "topic_id": "e6e7ad2c61c3",
+          "slug": "iphone-owners-can-now-submit-claims-in-apple-s-250-million-siri-ai-settlement",
+          "headline": "iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement",
+          "category": "Market Signal",
+          "summary_short": "Apple is paying $250 million to settle claims that it failed to deliver an AI-upgraded Siri - and now, eligible iPhone owners can submit a claim for a payout. If you live in the US and purchased an iPhone 15 Pro, iPhone 15 Pro Max, or any iPhone 16 model between June 10th, 2024, and",
+          "why_it_matters": "This funding surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.056,
+            "quality": 5.0,
+            "heat": 3.0,
+            "importance": 5.0,
+            "occurrence": 2.95,
+            "display_priority": 4.229,
+            "confidence": 3.977
+          },
+          "source_tier": "trusted_analysis",
+          "source_names": [
+            "The Verge AI"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement",
+              "url": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
+              "source_name": "The Verge AI",
+              "published_at": "2026-09-21T09:36:52-04:00"
+            }
+          ],
+          "route": "/hot/2026-09-22/topic/iphone-owners-can-now-submit-claims-in-apple-s-250-million-siri-ai-settlement/"
+        }
+      ]
+    },
+    {
+      "category": "Industry Update",
+      "total_candidates": 16,
+      "topics": [
+        {
+          "topic_id": "7b8cf80ad1d5",
+          "slug": "ai-ai-ai",
+          "headline": "阿里巴巴：机器智能时代，坚定投入AI模型 AI芯片 AI云三大基石",
+          "category": "Industry Update",
+          "summary_short": "吴泳铭表示，阿里巴巴将坚定投入AI模型、AI芯片和AI云这三项基础设施建设，这是阿里的长期战略选择。",
+          "why_it_matters": "This other surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 9.5,
+            "quality": 9.0,
+            "heat": 3.0,
+            "importance": 5.0,
+            "occurrence": 2.95,
+            "display_priority": 6.229,
+            "confidence": 5.31
+          },
+          "source_tier": "trusted_analysis",
+          "source_names": [
+            "量子位 (QbitAI)"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "阿里巴巴：机器智能时代，坚定投入AI模型 AI芯片 AI云三大基石",
+              "url": "https://www.qbitai.com/2026/09/493502.html",
+              "source_name": "量子位 (QbitAI)",
+              "published_at": "Tue, 22 Sep 2026 02:59:29 +0000"
+            }
+          ],
+          "route": "/hot/2026-09-22/topic/ai-ai-ai/"
+        },
+        {
+          "topic_id": "c01b537e426b",
+          "slug": "advisory-group-on-mathematics-and-artificial-intelligence",
+          "headline": "Advisory Group on Mathematics and Artificial Intelligence",
+          "category": "Industry Update",
+          "summary_short": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results",
+          "why_it_matters": "This other surfaced across 3 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.056,
+            "quality": 5.0,
+            "heat": 7.0,
+            "importance": 6.0,
+            "occurrence": 8.25,
+            "display_priority": 7.323,
+            "confidence": 8.397
+          },
+          "source_tier": "official",
+          "source_names": [
+            "Hacker News",
+            "OpenAI News",
+            "TechCrunch AI"
+          ],
+          "source_roles": [
+            "editorial_depth",
+            "hn_discussion",
+            "official_news"
+          ],
+          "source_types": [
+            "blog_analysis",
+            "discussion",
+            "official_blog"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Advisory Group on Mathematics and Artificial Intelligence",
+              "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+              "source_name": "Hacker News",
+              "published_at": "2026-09-21T17:27:49Z"
+            },
+            {
+              "title": "Advisory Group on Mathematics and Artificial Intelligence",
+              "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+              "source_name": "OpenAI News",
+              "published_at": "Mon, 21 Sep 2026 12:00:00 GMT"
+            }
+          ],
+          "route": "/hot/2026-09-22/topic/advisory-group-on-mathematics-and-artificial-intelligence/"
+        },
+        {
+          "topic_id": "dd146692b471",
+          "slug": "higgsfield-ai-ships-new-video-features-in-a-day-with-gpt-6-astra",
+          "headline": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+          "category": "Industry Update",
+          "summary_short": "OpenAI describes Higgsfield AI using GPT-6 Astra to ship new video features in a day. The case study focuses on simplifying video ad creation for small businesses and accelerating creative tool development",
+          "why_it_matters": "This industry move surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.046,
+            "quality": 5.0,
+            "heat": 3.0,
+            "importance": 6.0,
+            "occurrence": 2.95,
+            "display_priority": 4.615,
+            "confidence": 4.874
+          },
+          "source_tier": "official",
+          "source_names": [
+            "OpenAI News"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "official_blog"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+              "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+              "source_name": "OpenAI News",
+              "published_at": "Mon, 21 Sep 2026 12:00:00 GMT"
+            }
+          ],
+          "route": "/hot/2026-09-22/topic/higgsfield-ai-ships-new-video-features-in-a-day-with-gpt-6-astra/"
+        },
+        {
+          "topic_id": "c6ff4b971dfb",
+          "slug": "amazon-blocks-meta-s-muse-ai-agent",
+          "headline": "Amazon blocks Meta’s Muse AI agent",
+          "category": "Industry Update",
+          "summary_short": "",
+          "why_it_matters": "This other surfaced across 2 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.032,
+            "quality": 5.0,
+            "heat": 6.0,
+            "importance": 5.0,
+            "occurrence": 6.05,
+            "display_priority": 5.788,
+            "confidence": 6.23
+          },
+          "source_tier": "trusted_analysis",
+          "source_names": [
+            "Hacker News",
+            "TechCrunch AI"
+          ],
+          "source_roles": [
+            "editorial_depth",
+            "hn_discussion"
+          ],
+          "source_types": [
+            "blog_analysis",
+            "discussion"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+              "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch",
+              "source_name": "TechCrunch AI",
+              "published_at": "Mon, 21 Sep 2026 19:19:21 +0000"
+            },
+            {
+              "title": "Meta’s AI agent has been blocked from using Amazon.com",
+              "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com",
+              "source_name": "TechCrunch AI",
+              "published_at": "Mon, 21 Sep 2026 17:55:18 +0000"
+            }
+          ],
+          "route": "/hot/2026-09-22/topic/amazon-blocks-meta-s-muse-ai-agent/"
+        },
+        {
+          "topic_id": "800f5bf4ec4b",
+          "slug": "gemini-hacked-three-companies-in-first-known-breakout-by-google-s-ai",
+          "headline": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
+          "category": "Industry Update",
+          "summary_short": "",
+          "why_it_matters": "This other surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.012,
+            "quality": 5.0,
+            "heat": 3.0,
+            "importance": 8.0,
+            "occurrence": 2.95,
+            "display_priority": 4.209,
+            "confidence": 3.964
+          },
+          "source_tier": "trusted_analysis",
+          "source_names": [
+            "Ars Technica AI"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Google confirms Gemini models hacked three companies in May 2026",
+              "url": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026",
+              "source_name": "Ars Technica AI",
+              "published_at": "Mon, 21 Sep 2026 16:57:26 +0000"
+            }
+          ],
+          "route": "/hot/2026-09-22/topic/gemini-hacked-three-companies-in-first-known-breakout-by-google-s-ai/"
+        }
+      ]
+    },
+    {
+      "category": "Tooling",
+      "total_candidates": 3,
+      "topics": [
+        {
+          "topic_id": "81cb08c441ea",
+          "slug": "cloudflare-python-workers-are-now-generally-available",
+          "headline": "Cloudflare Python Workers are now generally available",
+          "category": "Tooling",
+          "summary_short": "<p><strong><a href=\" Python Workers are now generally available</a></strong></p> After a two year preview, Cloudflare's support for running Python code in their server-side Workers platform is now stable: \"Python is now a first-class, fully supported language on the Cloudflare Developer",
+          "why_it_matters": "This tooling surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.028,
+            "quality": 5.0,
+            "heat": 3.0,
+            "importance": 5.0,
+            "occurrence": 2.95,
+            "display_priority": 4.217,
+            "confidence": 3.968
+          },
+          "source_tier": "trusted_analysis",
+          "source_names": [
+            "Simon Willison's Blog"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Cloudflare Python Workers are now generally available",
+              "url": "https://simonwillison.net/2026/Sep/21/cloudflare-python-worker",
+              "source_name": "Simon Willison's Blog",
+              "published_at": "2026-09-21T22:25:44+00:00"
+            }
+          ],
+          "route": "/hot/2026-09-22/topic/cloudflare-python-workers-are-now-generally-available/"
+        },
+        {
+          "topic_id": "71829ae96efe",
+          "slug": "california-tightens-rules-on-ai-data-center-energy-and-water-use",
+          "headline": "California tightens rules on AI data center energy and water use",
+          "category": "Tooling",
+          "summary_short": "California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times.",
+          "why_it_matters": "This tooling surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.028,
+            "quality": 5.0,
+            "heat": 3.0,
+            "importance": 5.0,
+            "occurrence": 2.95,
+            "display_priority": 4.217,
+            "confidence": 3.968
+          },
+          "source_tier": "trusted_analysis",
+          "source_names": [
+            "The Verge AI"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "California tightens rules on AI data center energy and water use",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
+              "source_name": "The Verge AI",
+              "published_at": "2026-09-21T16:29:45-04:00"
+            }
+          ],
+          "route": "/hot/2026-09-22/topic/california-tightens-rules-on-ai-data-center-energy-and-water-use/"
+        },
+        {
+          "topic_id": "9be301d9096d",
+          "slug": "show-hn-foremerge-catch-intent-conflicts-between-parallel-coding-agents",
+          "headline": "Show HN: Foremerge – Catch intent conflicts between parallel coding agents",
+          "category": "Tooling",
+          "summary_short": "Foremerge is presented as a tool for detecting intent conflicts between coding agents working in parallel. It was shared through a Show HN post",
+          "why_it_matters": "This tooling surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.012,
+            "quality": 5.0,
+            "heat": 3.0,
+            "importance": 5.0,
+            "occurrence": 2.95,
+            "display_priority": 4.209,
+            "confidence": 3.964
+          },
+          "source_tier": "community",
+          "source_names": [
+            "Hacker News"
+          ],
+          "source_roles": [
+            "hn_discussion"
+          ],
+          "source_types": [
+            "discussion"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Show HN: Foremerge – Catch intent conflicts between parallel coding agents",
+              "url": "https://github.com/naw103/foremerge",
+              "source_name": "Hacker News",
+              "published_at": "2026-09-21T16:22:06Z"
+            }
+          ],
+          "route": "/hot/2026-09-22/topic/show-hn-foremerge-catch-intent-conflicts-between-parallel-coding-agents/"
+        }
+      ]
+    },
+    {
+      "category": "Research",
+      "total_candidates": 11,
+      "topics": [
+        {
+          "topic_id": "67a9d312bd42",
+          "slug": "modularrsi-modular-and-generalizable-recursive-harness-self-improvement",
+          "headline": "ModularRSI: Modular and Generalizable Recursive Harness Self-Improvement",
+          "category": "Research",
+          "summary_short": "",
+          "why_it_matters": "This research paper surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.054,
+            "quality": 6.0,
+            "heat": 3.0,
+            "importance": 6.0,
+            "occurrence": 2.95,
+            "display_priority": 4.228,
+            "confidence": 3.976
+          },
+          "source_tier": "trusted_research",
+          "source_names": [
+            "Hugging Face Trending Papers"
+          ],
+          "source_roles": [
+            "paper_trending"
+          ],
+          "source_types": [
+            "paper"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "RRSI: Regularized Recursive Self-Improvement of Agent Harnesses",
+              "url": "https://huggingface.co/papers/2609.24972",
+              "source_name": "Hugging Face Trending Papers",
+              "published_at": "2026-09-21T00:00:00.000Z"
+            }
+          ],
+          "route": "/hot/2026-09-22/topic/modularrsi-modular-and-generalizable-recursive-harness-self-improvement/"
+        },
+        {
+          "topic_id": "e92e1f550897",
+          "slug": "alayavista-streaming-world-modeling-from-panoramic-states-to-perspective-video",
+          "headline": "AlayaVista: Streaming World Modeling from Panoramic States to Perspective Video",
+          "category": "Research",
+          "summary_short": "",
+          "why_it_matters": "This research paper surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.054,
+            "quality": 6.0,
+            "heat": 3.0,
+            "importance": 6.0,
+            "occurrence": 2.95,
+            "display_priority": 4.228,
+            "confidence": 3.976
+          },
+          "source_tier": "trusted_research",
+          "source_names": [
+            "Hugging Face Trending Papers"
+          ],
+          "source_roles": [
+            "paper_trending"
+          ],
+          "source_types": [
+            "paper"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory",
+              "url": "https://huggingface.co/papers/2609.24984",
+              "source_name": "Hugging Face Trending Papers",
+              "published_at": "2026-09-21T00:00:00.000Z"
+            }
+          ],
+          "route": "/hot/2026-09-22/topic/alayavista-streaming-world-modeling-from-panoramic-states-to-perspective-video/"
+        },
+        {
+          "topic_id": "96a1e8a33981",
+          "slug": "harness-zero-harness-distillation-via-agent-as-harness",
+          "headline": "Harness-Zero: Harness Distillation via Agent-as-Harness",
+          "category": "Research",
+          "summary_short": "Harness-Zero proposes harness distillation through an agent-as-harness approach. It addresses the deployment dependence of performance gains provided by external systems that mediate model-environment interaction",
+          "why_it_matters": "This research paper surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.054,
+            "quality": 6.0,
+            "heat": 3.0,
+            "importance": 6.0,
+            "occurrence": 2.95,
+            "display_priority": 4.228,
+            "confidence": 3.976
+          },
+          "source_tier": "trusted_research",
+          "source_names": [
+            "Hugging Face Trending Papers"
+          ],
+          "source_roles": [
+            "paper_trending"
+          ],
+          "source_types": [
+            "paper"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Harness-Zero: Harness Distillation via Agent-as-Harness",
+              "url": "https://huggingface.co/papers/2609.24974",
+              "source_name": "Hugging Face Trending Papers",
+              "published_at": "2026-09-21T00:00:00.000Z"
+            }
+          ],
+          "route": "/hot/2026-09-22/topic/harness-zero-harness-distillation-via-agent-as-harness/"
+        },
+        {
+          "topic_id": "3e1c8fd8eb73",
+          "slug": "lynnreal-omni-native-multi-modal-video-generation-for-agentic-visual-workflows",
+          "headline": "LynnReal-Omni: Native multi-modal Video Generation for Agentic Visual Workflows",
+          "category": "Research",
+          "summary_short": "",
+          "why_it_matters": "This research paper surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.047,
+            "quality": 6.0,
+            "heat": 3.0,
+            "importance": 5.0,
+            "occurrence": 2.95,
+            "display_priority": 4.225,
+            "confidence": 3.974
+          },
+          "source_tier": "trusted_research",
+          "source_names": [
+            "Hugging Face Trending Papers"
+          ],
+          "source_roles": [
+            "paper_trending"
+          ],
+          "source_types": [
+            "paper"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "VideoGen-Agent: Reinforcing Video Generation Agents",
+              "url": "https://huggingface.co/papers/2609.24997",
+              "source_name": "Hugging Face Trending Papers",
+              "published_at": "2026-09-21T00:00:00.000Z"
+            }
+          ],
+          "route": "/hot/2026-09-22/topic/lynnreal-omni-native-multi-modal-video-generation-for-agentic-visual-workflows/"
+        },
+        {
+          "topic_id": "a053b504b4ed",
+          "slug": "document-retrieval-aware-chunking-d-rac-universal-retrieval-aware-ingestion-of-enterprise-documents-via-pdf-normalization-and-multimodal-markdown-conversion",
+          "headline": "Document Retrieval-Aware Chunking (D-RAC): Universal Retrieval-Aware Ingestion of Enterprise Documents via PDF Normalization and Multimodal Markdown Conversion",
+          "category": "Research",
+          "summary_short": "The paper introduces D-RAC for retrieval-aware ingestion of enterprise documents using PDF normalization and multimodal Markdown conversion. It targets heterogeneous inputs such as PDFs, Word documents, presentations, and scans for retrieval-augmented generation systems",
+          "why_it_matters": "This research paper surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.047,
+            "quality": 6.0,
+            "heat": 3.0,
+            "importance": 5.0,
+            "occurrence": 2.95,
+            "display_priority": 4.225,
+            "confidence": 3.974
+          },
+          "source_tier": "trusted_research",
+          "source_names": [
+            "Hugging Face Trending Papers"
+          ],
+          "source_roles": [
+            "paper_trending"
+          ],
+          "source_types": [
+            "paper"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Document Retrieval-Aware Chunking (D-RAC): Universal Retrieval-Aware Ingestion of Enterprise Documents via PDF Normalization and Multimodal Markdown Conversion",
+              "url": "https://huggingface.co/papers/2609.24220",
+              "source_name": "Hugging Face Trending Papers",
+              "published_at": "2026-09-21T00:00:00.000Z"
+            }
+          ],
+          "route": "/hot/2026-09-22/topic/document-retrieval-aware-chunking-d-rac-universal-retrieval-aware-ingestion-of-enterprise-documents-via-pdf-normalization-and-multimodal-markdown-conversion/"
+        }
+      ]
+    }
+  ],
+  "long_tail_sections": [
+    {
+      "category": "Industry Update",
+      "total_candidates": 11,
+      "topics": [
+        {
+          "topic_id": "1ab224a9ae8c",
+          "slug": "can-john-ternus-find-apple-s-next-big-thing",
+          "headline": "Can John Ternus find Apple’s next big thing?",
+          "category": "Industry Update",
+          "summary_short": "Today, I’m talking with Mark Gurman, who is the world’s best-sourced Apple reporter — both as Bloomberg’s chief Apple correspondent and the host of the upcoming podcast Power On.&#160; Earlier this month, Apple hosted its annual iPhone hardware event, virtually every detail of which was reported",
+          "why_it_matters": "This other surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.0,
+            "quality": 4.0,
+            "heat": 3.0,
+            "importance": 5.0,
+            "occurrence": 2.95,
+            "display_priority": 4.204,
+            "confidence": 3.96
+          },
+          "source_tier": "trusted_analysis",
+          "source_names": [
+            "The Verge AI"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Can John Ternus find Apple’s next big thing?",
+              "url": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone",
+              "source_name": "The Verge AI",
+              "published_at": "2026-09-21T10:00:00-04:00"
+            }
+          ],
+          "route": "/hot/2026-09-22/topic/can-john-ternus-find-apple-s-next-big-thing/"
+        },
+        {
+          "topic_id": "e082b9737cf5",
+          "slug": "reducing-medical-claims-review-time-with-ai-on-aws-the-exl-medical-idp-solution",
+          "headline": "Reducing medical claims review time with AI on AWS: The EXL Medical IDP solution",
+          "category": "Industry Update",
+          "summary_short": "EXL built a medical intelligent document processing solution on AWS to reduce claims review time. The solution combines document processing with domain-specific large language models using Amazon SageMaker and Amazon Bedrock",
+          "why_it_matters": "This tutorial surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 4.164,
+            "quality": 4.0,
+            "heat": 3.0,
+            "importance": 5.0,
+            "occurrence": 2.95,
+            "display_priority": 4.218,
+            "confidence": 4.609
+          },
+          "source_tier": "official",
+          "source_names": [
+            "AWS AI Blog"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "official_blog"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Reducing medical claims review time with AI on AWS: The EXL Medical IDP solution",
+              "url": "https://aws.amazon.com/blogs/machine-learning/reducing-medical-claims-review-time-with-ai-on-aws-the-exl-medical-idp-solution",
+              "source_name": "AWS AI Blog",
+              "published_at": "Mon, 21 Sep 2026 16:24:40 +0000"
+            }
+          ],
+          "route": "/hot/2026-09-22/topic/reducing-medical-claims-review-time-with-ai-on-aws-the-exl-medical-idp-solution/"
+        },
+        {
+          "topic_id": "426ce215b38c",
+          "slug": "how-benchling-secured-multi-tenant-ai-agents-with-amazon-bedrock-agentcore",
+          "headline": "How Benchling secured multi-tenant AI agents with Amazon Bedrock AgentCore",
+          "category": "Industry Update",
+          "summary_short": "Benchling built a defense-in-depth architecture for running untrusted scientific code generated by AI agents across thousands of life sciences tenants. The post describes how it uses Amazon Bedrock AgentCore to secure this multi-tenant environment",
+          "why_it_matters": "This tutorial surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 4.164,
+            "quality": 4.0,
+            "heat": 3.0,
+            "importance": 5.0,
+            "occurrence": 2.95,
+            "display_priority": 4.218,
+            "confidence": 4.609
+          },
+          "source_tier": "official",
+          "source_names": [
+            "AWS AI Blog"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "official_blog"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "How Benchling secured multi-tenant AI agents with Amazon Bedrock AgentCore",
+              "url": "https://aws.amazon.com/blogs/machine-learning/how-benchling-secured-multi-tenant-ai-agents-with-amazon-bedrock-agentcore",
+              "source_name": "AWS AI Blog",
+              "published_at": "Mon, 21 Sep 2026 16:27:34 +0000"
+            }
+          ],
+          "route": "/hot/2026-09-22/topic/how-benchling-secured-multi-tenant-ai-agents-with-amazon-bedrock-agentcore/"
+        },
+        {
+          "topic_id": "89fe08604a43",
+          "slug": "show-hn-mini-agi-dynamic-continual-learning-model-trained-on-8gb-vram",
+          "headline": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
+          "category": "Industry Update",
+          "summary_short": "",
+          "why_it_matters": "This other surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 4.115,
+            "quality": 4.0,
+            "heat": 3.0,
+            "importance": 5.0,
+            "occurrence": 2.95,
+            "display_priority": 3.806,
+            "confidence": 3.694
+          },
+          "source_tier": "community",
+          "source_names": [
+            "Hacker News"
+          ],
+          "source_roles": [
+            "hn_discussion"
+          ],
+          "source_types": [
+            "discussion"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
+              "url": "https://github.com/volotat/mini-AGI",
+              "source_name": "Hacker News",
+              "published_at": "2026-09-21T04:42:37Z"
+            }
+          ],
+          "route": "/hot/2026-09-22/topic/show-hn-mini-agi-dynamic-continual-learning-model-trained-on-8gb-vram/"
+        },
+        {
+          "topic_id": "f6e0e30a84a5",
+          "slug": "run-positron-on-amazon-sagemaker-ai-for-data-science-workflows",
+          "headline": "Run Positron on Amazon SageMaker AI for data science workflows",
+          "category": "Industry Update",
+          "summary_short": "Posit's Positron IDE now runs on Amazon SageMaker AI. The post demonstrates a data science workflow involving Amazon Athena, feature validation in R, and XGBoost training in Python",
+          "why_it_matters": "This tutorial surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 3.942,
+            "quality": 4.0,
+            "heat": 3.0,
+            "importance": 4.0,
+            "occurrence": 2.95,
+            "display_priority": 4.118,
+            "confidence": 4.543
+          },
+          "source_tier": "official",
+          "source_names": [
+            "AWS AI Blog"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "official_blog"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Run Positron on Amazon SageMaker AI for data science workflows",
+              "url": "https://aws.amazon.com/blogs/machine-learning/run-positron-on-amazon-sagemaker-ai-for-data-science-workflows",
+              "source_name": "AWS AI Blog",
+              "published_at": "Mon, 21 Sep 2026 16:34:21 +0000"
+            }
+          ],
+          "route": "/hot/2026-09-22/topic/run-positron-on-amazon-sagemaker-ai-for-data-science-workflows/"
+        },
+        {
+          "topic_id": "4fc50a2538be",
+          "slug": "how-bmw-group-detects-cost-anomalies-across-14-000-cloud-accounts",
+          "headline": "How BMW Group detects cost anomalies across 14,000 cloud accounts",
+          "category": "Industry Update",
+          "summary_short": "BMW Group added automated daily cost anomaly detection to CLEA, its FinOps platform monitoring more than 14,000 cloud accounts. The post describes the move from reactive dashboards to proactive anomaly detection",
+          "why_it_matters": "This tutorial surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 3.942,
+            "quality": 4.0,
+            "heat": 3.0,
+            "importance": 4.0,
+            "occurrence": 2.95,
+            "display_priority": 4.118,
+            "confidence": 4.543
+          },
+          "source_tier": "official",
+          "source_names": [
+            "AWS AI Blog"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "official_blog"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "How BMW Group detects cost anomalies across 14,000 cloud accounts",
+              "url": "https://aws.amazon.com/blogs/machine-learning/how-bmw-group-detects-cost-anomalies-across-14000-cloud-accounts",
+              "source_name": "AWS AI Blog",
+              "published_at": "Mon, 21 Sep 2026 16:36:10 +0000"
+            }
+          ],
+          "route": "/hot/2026-09-22/topic/how-bmw-group-detects-cost-anomalies-across-14-000-cloud-accounts/"
+        },
+        {
+          "topic_id": "a09a2725d669",
+          "slug": "can-i-let-my-ai-agent-run-on-shabbat",
+          "headline": "Can I Let My AI Agent Run on Shabbat?",
+          "category": "Industry Update",
+          "summary_short": "",
+          "why_it_matters": "This other surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 3.407,
+            "quality": 3.0,
+            "heat": 3.0,
+            "importance": 3.0,
+            "occurrence": 2.95,
+            "display_priority": 3.487,
+            "confidence": 3.482
+          },
+          "source_tier": "community",
+          "source_names": [
+            "Hacker News"
+          ],
+          "source_roles": [
+            "hn_discussion"
+          ],
+          "source_types": [
+            "discussion"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Can I Let My AI Agent Run on Shabbat?",
+              "url": "https://www.chabad.org/library/article_cdo/aid/7288064/jewish/Can-I-Let-My-AI-Agent-Run-on-Shabbat.htm",
+              "source_name": "Hacker News",
+              "published_at": "2026-09-21T02:05:45Z"
+            }
+          ],
+          "route": "/hot/2026-09-22/topic/can-i-let-my-ai-agent-run-on-shabbat/"
+        },
+        {
+          "topic_id": "8afdb6d28688",
+          "slug": "kev-tiny-jev-like-family-of-decision-models-built-on-top-of-qwen3-5",
+          "headline": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+          "category": "Industry Update",
+          "summary_short": "",
+          "why_it_matters": "This other surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 3.053,
+            "quality": 3.0,
+            "heat": 3.0,
+            "importance": 2.0,
+            "occurrence": 2.95,
+            "display_priority": 3.328,
+            "confidence": 3.376
+          },
+          "source_tier": "community",
+          "source_names": [
+            "Hacker News"
+          ],
+          "source_roles": [
+            "hn_discussion"
+          ],
+          "source_types": [
+            "discussion"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+              "url": "https://github.com/jaredpalmer/kev/tree/main",
+              "source_name": "Hacker News",
+              "published_at": "2026-09-21T07:11:55Z"
+            }
+          ],
+          "route": "/hot/2026-09-22/topic/kev-tiny-jev-like-family-of-decision-models-built-on-top-of-qwen3-5/"
+        }
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "topic_id": "db5292960327",
+      "slug": "2026-east-forward",
+      "headline": "2026 East Forward出海大会：全球化到达下一站，中国企业如何走得更远",
+      "category": "Industry Update",
+      "summary_short": "“潮起之时，靠岸相见”",
+      "why_it_matters": "This other surfaced across 1 independent source(s).",
+      "key_takeaways": [],
+      "scores": {
+        "final": 9.5,
+        "quality": 9.0,
+        "heat": 3.0,
+        "importance": 5.0,
+        "occurrence": 2.95,
+        "display_priority": 6.679,
+        "confidence": 5.31
+      },
+      "source_tier": "trusted_analysis",
+      "source_names": [
+        "量子位 (QbitAI)"
+      ],
+      "source_roles": [
+        "editorial_depth"
+      ],
+      "source_types": [
+        "blog_analysis"
+      ],
+      "llm_status": "watchlist",
+      "evidence": [
+        {
+          "title": "2026 East Forward出海大会：全球化到达下一站，中国企业如何走得更远",
+          "url": "https://www.qbitai.com/2026/09/493510.html",
+          "source_name": "量子位 (QbitAI)",
+          "published_at": "Tue, 22 Sep 2026 03:13:44 +0000"
+        }
+      ],
+      "route": "/hot/2026-09-22/topic/2026-east-forward/"
+    }
+  ],
+  "x_buzz": [
+    {
+      "title": "阿里吴泳铭最新演讲：未来机器思考的总量将达到人类的1000倍以上",
+      "summary": "9月22日，在2026杭州云栖大会上，阿里巴巴集团CEO吴泳铭发表最新演讲，阐述了对“机器智能”时代的思考。",
+      "url": "https://www.qbitai.com/2026/09/493485.html",
+      "source_id": "analysis_qbitai",
+      "source_name": "量子位 (QbitAI)",
+      "source_role": "editorial_depth",
+      "linked_topic": "阿里吴泳铭最新演讲：未来机器思考的总量将达到人类的1000倍以上"
+    },
+    {
+      "title": "2026 East Forward出海大会：全球化到达下一站，中国企业如何走得更远",
+      "summary": "“潮起之时，靠岸相见”",
+      "url": "https://www.qbitai.com/2026/09/493510.html",
+      "source_id": "analysis_qbitai",
+      "source_name": "量子位 (QbitAI)",
+      "source_role": "editorial_depth",
+      "linked_topic": "2026 East Forward出海大会：全球化到达下一站，中国企业如何走得更远"
+    },
+    {
+      "title": "阿里公布全模态模型新进展，Qwen4和下代视频模型均在训练中",
+      "summary": "9月22日， 2026云栖大会开幕，阿里巴巴公布大模型最新进展。",
+      "url": "https://www.qbitai.com/2026/09/493625.html",
+      "source_id": "analysis_qbitai",
+      "source_name": "量子位 (QbitAI)",
+      "source_role": "editorial_depth",
+      "linked_topic": "阿里公布全模态模型新进展，Qwen4和下代视频模型均在训练中"
+    },
+    {
+      "title": "阿里研究员透露Qwen4.5后模型将扩展至5-10T参数",
+      "summary": "未来Qwen4.5、Qwen5等版本将扩展至5-10T参数。",
+      "url": "https://www.qbitai.com/2026/09/493629.html",
+      "source_id": "analysis_qbitai",
+      "source_name": "量子位 (QbitAI)",
+      "source_role": "editorial_depth",
+      "linked_topic": "阿里公布全模态模型新进展，Qwen4和下代视频模型均在训练中"
+    },
+    {
+      "title": "Xiaomi MiMo released MiMo-V2.6-Pro-RL",
+      "summary": "Weights for XiaomiMiMo/MiMo-V2.6-Pro-RL appeared on the hub. Pipeline tags: transformers, safetensors, mimo_v2, text-generation, multimodal, vision-language. 0 downloads, 262 likes at collection time.",
+      "url": "https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Pro-RL",
+      "source_id": "hf_models_xiaomimimo",
+      "source_name": "Xiaomi MiMo on Hugging Face",
+      "source_role": "official_news",
+      "linked_topic": "Xiaomi MiMo released MiMo-V2.6-Flash-RL"
+    }
+  ],
+  "resurgence": []
+}

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "latest_date": "2026-09-21",
+  "latest_date": "2026-09-22",
   "dates": [
     {
       "date": "2026-09-15",
@@ -169,23 +169,47 @@
         "month": null,
         "year": null
       }
+    },
+    {
+      "date": "2026-09-22",
+      "month": "2026-09",
+      "year": "2026",
+      "summary": "• [Industry Update] 阿里公布全模态模型新进展，Qwen4和下代视频模型均在训练中 — This other surfaced across 1 independent source(s).\n• [Industry Update] 阿里吴泳铭最新演讲：未来机器思考的总量将达到人类的1000倍以上 — This other surfaced across 1 independent source(s).\n• [Product Release] Xiaomi MiMo released MiMo-V2.6-Flash-RL — This product release surfaced across 1 independent source(s).",
+      "featured_topics": 3,
+      "source_items": 37,
+      "topic_summary": 2,
+      "source_section_counts": {
+        "official": 10,
+        "market-signals": 0,
+        "analysis": 8,
+        "papers": 7,
+        "github": 6,
+        "industry": 6
+      },
+      "route": "/hot/2026-09-22/",
+      "paper_routes": {
+        "home": "../../",
+        "day": null,
+        "month": null,
+        "year": null
+      }
     }
   ],
   "months": [
     {
       "month": "2026-09",
-      "days": 7,
-      "featured_topics": 21,
-      "source_items": 227,
+      "days": 8,
+      "featured_topics": 24,
+      "source_items": 264,
       "route": "/hot/2026-09/"
     }
   ],
   "years": [
     {
       "year": "2026",
-      "days": 7,
-      "featured_topics": 21,
-      "source_items": 227,
+      "days": 8,
+      "featured_topics": 24,
+      "source_items": 264,
       "route": "/hot/2026/"
     }
   ]
