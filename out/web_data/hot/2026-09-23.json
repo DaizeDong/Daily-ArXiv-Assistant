@@ -1,0 +1,2627 @@
+{
+  "schema_version": 1,
+  "meta": {
+    "date": "2026-09-23",
+    "month": "2026-09",
+    "year": "2026",
+    "generated_at": "2026-09-23T05:04:04.091336+00:00",
+    "mode": "openai",
+    "summary": "• [Industry Update] Advisory Group on Mathematics and Artificial Intelligence — This other surfaced across 1 independent source(s).\n• [Industry Update] “We’re already fighting yesterday’s battle”: Greece’s prime minister gets candid about AI — This other surfaced across 1 independent source(s).\n• [Industry Update] 华为全新智驾上车，全域L3架构，岚图最强旗舰MPV 42万开卖 — This other surfaced across 1 independent source(s).",
+    "previous_date": "2026-09-22",
+    "next_date": null,
+    "paper_routes": {
+      "home": "../../",
+      "day": null,
+      "month": null,
+      "year": null
+    },
+    "counts": {
+      "featured_topics": 3,
+      "topic_summary": 1,
+      "category_radar": 16,
+      "long_tail": 8,
+      "paper_spotlight": 0,
+      "x_buzz": 5,
+      "watchlist": 1,
+      "source_items": 34,
+      "resurgence": 0
+    }
+  },
+  "totals": {
+    "raw_items": 92,
+    "enriched_items": 0,
+    "stories": 0,
+    "featured": 3,
+    "watchlist": 1,
+    "category_topics": 16,
+    "long_tail_topics": 8,
+    "paper_spotlight_items": 3
+  },
+  "costs": {
+    "prompt": 0.0,
+    "completion": 0.0,
+    "total": 0.0
+  },
+  "usage": {
+    "llm": {
+      "provider": "openai",
+      "backend": "openai",
+      "billing_model": "quota",
+      "screen_model": "gpt-5.6",
+      "summary_model": "gpt-5.6",
+      "requests": 0,
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0,
+      "prompt_cost": 0.0,
+      "completion_cost": 0.0,
+      "total_cost": 0.0
+    },
+    "external": {
+      "ainews": {
+        "provider": "AINews RSS",
+        "billing_model": "free",
+        "requests": 1,
+        "items": 0,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "analysis_feeds": {
+        "provider": "Analysis RSS feeds",
+        "billing_model": "free",
+        "requests": 13,
+        "items": 24,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "github_trend": {
+        "provider": "GitHub API",
+        "billing_model": "free",
+        "requests": 2,
+        "items": 15,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "hf_papers": {
+        "provider": "Hugging Face",
+        "billing_model": "free",
+        "requests": 1,
+        "items": 9,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "hn_discussion": {
+        "provider": "Hacker News API",
+        "billing_model": "free",
+        "requests": 6,
+        "items": 15,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "local_papers": {
+        "provider": "Local cache",
+        "billing_model": "local",
+        "requests": 0,
+        "items": 0,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "model_hubs": {
+        "provider": "Hugging Face model index",
+        "billing_model": "free",
+        "requests": 20,
+        "items": 0,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "official_blogs": {
+        "provider": "Official blogs",
+        "billing_model": "free",
+        "requests": 30,
+        "items": 33,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "reddit": {
+        "provider": "Reddit JSON API",
+        "billing_model": "free",
+        "requests": 0,
+        "items": 0,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "roundup_sites": {
+        "provider": "Roundup sites",
+        "billing_model": "free",
+        "requests": 8,
+        "items": 16,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "x_ainews_twitter": {
+        "provider": "AINews Twitter recap",
+        "billing_model": "free",
+        "requests": 1,
+        "items": 0,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "x_twitterapi": {
+        "provider": "twitterapi.io",
+        "billing_model": "metered",
+        "requests": 0,
+        "items": 0,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      }
+    },
+    "summary": {
+      "external_requests": 82,
+      "x_requests": 1,
+      "estimated_external_cost": 0.0
+    }
+  },
+  "source_stats": {
+    "ainews": 0,
+    "analysis_feeds": 24,
+    "github_trend": 15,
+    "hf_papers": 9,
+    "hn_discussion": 15,
+    "local_papers": 0,
+    "model_hubs": 0,
+    "official_blogs": 33,
+    "reddit": 0,
+    "roundup_sites": 16,
+    "x_ainews_twitter": 0,
+    "x_twitterapi": 0
+  },
+  "source_section_counts": {
+    "official": 10,
+    "market-signals": 2,
+    "analysis": 8,
+    "papers": 2,
+    "github": 6,
+    "industry": 6
+  },
+  "source_sections": [
+    {
+      "slug": "official",
+      "label": "Official Updates",
+      "description": "Product, research, and platform updates from official vendor or lab channels.",
+      "count": 10,
+      "section_score": 11.261,
+      "items": [
+        {
+          "id": "aws_ai_blog-73832228d22b",
+          "title": "Claude Opus 5.5 is now available on AWS",
+          "summary_short": "Anthropic's Claude Opus 5.5 is now available through Amazon Bedrock and Claude Platform on AWS. Anthropic positions it as its most capable Opus model for agentic coding, knowledge work, and long-running tasks",
+          "url": "https://aws.amazon.com/blogs/machine-learning/claude-opus-5-5-is-now-available-on-aws",
+          "canonical_url": "https://aws.amazon.com/blogs/machine-learning/claude-opus-5-5-is-now-available-on-aws",
+          "source_id": "aws_ai_blog",
+          "source_name": "AWS AI Blog",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "source_family": "official",
+          "published_at": "Tue, 22 Sep 2026 17:28:01 +0000",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 8.2,
+          "topic_refs": [
+            {
+              "topic_id": "87df05f536d0",
+              "slug": "claude-opus-5-5-is-now-available-on-aws",
+              "headline": "Claude Opus 5.5 is now available on AWS",
+              "daily_route": "/hot/2026-09-23/topic/claude-opus-5-5-is-now-available-on-aws/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "openai_news-ce45d8dc0f6c",
+          "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+          "summary_short": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models",
+          "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+          "canonical_url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+          "source_id": "openai_news",
+          "source_name": "OpenAI News",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "source_family": "official",
+          "published_at": "Tue, 22 Sep 2026 12:00:00 GMT",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 5.174,
+          "topic_refs": [
+            {
+              "topic_id": "79a3902203e0",
+              "slug": "parallel-cut-research-time-and-cost-in-half-with-gpt-6-astra",
+              "headline": "Parallel cut research time and cost in half with GPT‑6 Astra",
+              "daily_route": "/hot/2026-09-23/topic/parallel-cut-research-time-and-cost-in-half-with-gpt-6-astra/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "openai_news-b4fb82cc1313",
+          "title": "Priorities and principles for effective third party assessments",
+          "summary_short": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards",
+          "url": "https://openai.com/index/priorities-principles-third-party-assessments",
+          "canonical_url": "https://openai.com/index/priorities-principles-third-party-assessments",
+          "source_id": "openai_news",
+          "source_name": "OpenAI News",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "source_family": "official",
+          "published_at": "Tue, 22 Sep 2026 00:00:00 GMT",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 5.174,
+          "topic_refs": [
+            {
+              "topic_id": "71f3ea51af2a",
+              "slug": "building-standards-for-the-next-phase-of-ai",
+              "headline": "Building standards for the next phase of AI",
+              "daily_route": "/hot/2026-09-23/topic/building-standards-for-the-next-phase-of-ai/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "together_blog-7dd7692ab80f",
+          "title": "Canary rollouts: upgrade models in production without downtime",
+          "summary_short": "A hard model swap exposes every user at once, and rolling back means cold-starting the old deployment under pressure. Here's how staged traffic ramps, metric gates, and automatic rollback work on dedicated inference",
+          "url": "https://www.together.ai/blog/canary-rollouts-upgrade-models-in-production-without-downtime",
+          "canonical_url": "https://www.together.ai/blog/canary-rollouts-upgrade-models-in-production-without-downtime",
+          "source_id": "together_blog",
+          "source_name": "Together AI Blog",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "source_family": "official",
+          "published_at": "Tue, 22 Sep 2026 00:00:00 GMT",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 5.174,
+          "topic_refs": [
+            {
+              "topic_id": "0cfe81adf0e7",
+              "slug": "canary-rollouts-upgrade-models-in-production-without-downtime",
+              "headline": "Canary rollouts: upgrade models in production without downtime",
+              "daily_route": "/hot/2026-09-23/topic/canary-rollouts-upgrade-models-in-production-without-downtime/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "openai_news-b6b1e4118cdb",
+          "title": "Better prompt caching for GPT-6",
+          "summary_short": "OpenAI details GPT-6 prompt-caching improvements, including higher cache hit rates and new diagnostics. The update also includes explicit breakpoints and controls intended to reduce latency and costs",
+          "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+          "canonical_url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+          "source_id": "openai_news",
+          "source_name": "OpenAI News",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "source_family": "official",
+          "published_at": "Tue, 22 Sep 2026 21:00:00 GMT",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 5.118,
+          "topic_refs": [
+            {
+              "topic_id": "c82b040915a1",
+              "slug": "better-prompt-caching-for-gpt-6",
+              "headline": "Better prompt caching for GPT-6",
+              "daily_route": "/hot/2026-09-23/topic/better-prompt-caching-for-gpt-6/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "aws_ai_blog-d9550b4744c8",
+          "title": "How Tata Elxsi detects industrial safety risks in seconds on AWS",
+          "summary_short": "AWS details how Tata Elxsi built IRIS to detect industrial safety risks in real time. The platform filters camera video at the edge, streams metadata through Amazon Kinesis, and runs computer vision on Amazon SageMaker",
+          "url": "https://aws.amazon.com/blogs/machine-learning/how-tata-elxsi-detects-industrial-safety-risks-in-seconds-on-aws",
+          "canonical_url": "https://aws.amazon.com/blogs/machine-learning/how-tata-elxsi-detects-industrial-safety-risks-in-seconds-on-aws",
+          "source_id": "aws_ai_blog",
+          "source_name": "AWS AI Blog",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "source_family": "official",
+          "published_at": "Tue, 22 Sep 2026 15:19:54 +0000",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 5.013,
+          "topic_refs": [
+            {
+              "topic_id": "3280805b6256",
+              "slug": "how-tata-elxsi-detects-industrial-safety-risks-in-seconds-on-aws",
+              "headline": "How Tata Elxsi detects industrial safety risks in seconds on AWS",
+              "daily_route": "/hot/2026-09-23/topic/how-tata-elxsi-detects-industrial-safety-risks-in-seconds-on-aws/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "aws_ai_blog-6ae45bc53371",
+          "title": "Bring more intelligence to everyday work with GPT-6 Sol and GPT-6 Luna on Amazon Bedrock",
+          "summary_short": "GPT-6 Sol and GPT-6 Luna are now generally available on Amazon Bedrock, giving you more options to match intelligence and efficiency to each workload",
+          "url": "https://aws.amazon.com/blogs/machine-learning/bring-more-intelligence-to-everyday-work-with-gpt-6-sol-and-gpt-6-luna-on-amazon-bedrock",
+          "canonical_url": "https://aws.amazon.com/blogs/machine-learning/bring-more-intelligence-to-everyday-work-with-gpt-6-sol-and-gpt-6-luna-on-amazon-bedrock",
+          "source_id": "aws_ai_blog",
+          "source_name": "AWS AI Blog",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "source_family": "official",
+          "published_at": "Tue, 22 Sep 2026 18:10:22 +0000",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 1.5,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "openai_news-3d48e529ad7a",
+          "title": "Introducing GPT-6 Sol and Luna",
+          "summary_short": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost",
+          "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+          "canonical_url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+          "source_id": "openai_news",
+          "source_name": "OpenAI News",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "source_family": "official",
+          "published_at": "Tue, 22 Sep 2026 18:00:00 GMT",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 1.5,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "aws_ai_blog-9335e4f07374",
+          "title": "Evaluate skill-equipped agents with Strands Evals and Amazon Bedrock AgentCore",
+          "summary_short": "Skills let you encode domain-specific procedures as reusable, portable instructions for agents, but a fluent answer doesn't prove the agent picked the right skill or followed it.",
+          "url": "https://aws.amazon.com/blogs/machine-learning/evaluate-skill-equipped-agents-with-strands-evals-and-amazon-bedrock-agentcore",
+          "canonical_url": "https://aws.amazon.com/blogs/machine-learning/evaluate-skill-equipped-agents-with-strands-evals-and-amazon-bedrock-agentcore",
+          "source_id": "aws_ai_blog",
+          "source_name": "AWS AI Blog",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "source_family": "official",
+          "published_at": "Tue, 22 Sep 2026 17:18:13 +0000",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 1.5,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "aws_ai_blog-9d360ee52205",
+          "title": "How Reactiv automates mobile commerce 80% faster with Amazon Bedrock AgentCore",
+          "summary_short": "Reactiv used Amazon Bedrock AgentCore to build a multi-agent AI Scheduler that autonomously refreshes Shopify merchants' mobile apps on a schedule, reducing merchant configuration time by 80% and getting to production 33% faster",
+          "url": "https://aws.amazon.com/blogs/machine-learning/how-reactiv-automates-mobile-commerce-80-faster-with-amazon-bedrock-agentcore",
+          "canonical_url": "https://aws.amazon.com/blogs/machine-learning/how-reactiv-automates-mobile-commerce-80-faster-with-amazon-bedrock-agentcore",
+          "source_id": "aws_ai_blog",
+          "source_name": "AWS AI Blog",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "source_family": "official",
+          "published_at": "Tue, 22 Sep 2026 15:46:07 +0000",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 1.5,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        }
+      ]
+    },
+    {
+      "slug": "market-signals",
+      "label": "Market Signals",
+      "description": "Funding rounds, acquisitions, valuations, and strategic moves in the AI industry.",
+      "count": 2,
+      "section_score": 6.198,
+      "items": [
+        {
+          "id": "analysis_techcrunch_ai-e20ec45cd8a0",
+          "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+          "summary_short": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach",
+          "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms",
+          "canonical_url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms",
+          "source_id": "analysis_techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "source_role": "editorial_depth",
+          "source_type": "blog_analysis",
+          "source_family": "market-signals",
+          "published_at": "Tue, 22 Sep 2026 21:56:43 +0000",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 4.636,
+          "topic_refs": [
+            {
+              "topic_id": "b9800d6630d1",
+              "slug": "snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms",
+              "headline": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+              "daily_route": "/hot/2026-09-23/topic/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "analysis_theverge_ai-97f4d9447dab",
+          "title": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
+          "summary_short": "Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silicon Valley startup.",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
+          "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
+          "source_id": "analysis_theverge_ai",
+          "source_name": "The Verge AI",
+          "source_role": "editorial_depth",
+          "source_type": "blog_analysis",
+          "source_family": "market-signals",
+          "published_at": "2026-09-22T12:34:08-04:00",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 1.3,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        }
+      ]
+    },
+    {
+      "slug": "analysis",
+      "label": "Expert Analysis",
+      "description": "Long-form expert analysis and research explainers with substantive depth.",
+      "count": 8,
+      "section_score": 12.203,
+      "items": [
+        {
+          "id": "analysis_simon_willison-4a34b417a079",
+          "title": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
+          "summary_short": "Anthropic's Claude Opus 5.5 is now available through Amazon Bedrock and Claude Platform on AWS. Anthropic positions it as its most capable Opus model for agentic coding, knowledge work, and long-running tasks",
+          "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna",
+          "canonical_url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna",
+          "source_id": "analysis_simon_willison",
+          "source_name": "Simon Willison's Blog",
+          "source_role": "editorial_depth",
+          "source_type": "blog_analysis",
+          "source_family": "analysis",
+          "published_at": "2026-09-22T23:46:41+00:00",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 8.0,
+          "topic_refs": [
+            {
+              "topic_id": "87df05f536d0",
+              "slug": "claude-opus-5-5-is-now-available-on-aws",
+              "headline": "Claude Opus 5.5 is now available on AWS",
+              "daily_route": "/hot/2026-09-23/topic/claude-opus-5-5-is-now-available-on-aws/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "analysis_theverge_ai-04fa56f83f3a",
+          "title": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
+          "summary_short": "Anthropic says its new Claude Opus 5.5 model comes with stronger safeguards in the wake of recent rogue AI hacking incidents. In an announcement on Tuesday, Anthropic says Opus 5.5 comes with improvements to certain risky behaviors, including attempts to escape the company's testing sandbox.",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
+          "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
+          "source_id": "analysis_theverge_ai",
+          "source_name": "The Verge AI",
+          "source_role": "editorial_depth",
+          "source_type": "blog_analysis",
+          "source_family": "analysis",
+          "published_at": "2026-09-22T12:30:00-04:00",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 8.0,
+          "topic_refs": [
+            {
+              "topic_id": "87df05f536d0",
+              "slug": "claude-opus-5-5-is-now-available-on-aws",
+              "headline": "Claude Opus 5.5 is now available on AWS",
+              "daily_route": "/hot/2026-09-23/topic/claude-opus-5-5-is-now-available-on-aws/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "analysis_techcrunch_ai-cb46fb2f83bf",
+          "title": "“We’re already fighting yesterday’s battle”: Greece’s prime minister gets candid about AI",
+          "summary_short": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do",
+          "url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai",
+          "canonical_url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai",
+          "source_id": "analysis_techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "source_role": "editorial_depth",
+          "source_type": "blog_analysis",
+          "source_family": "analysis",
+          "published_at": "Wed, 23 Sep 2026 04:59:08 +0000",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 6.886,
+          "topic_refs": [
+            {
+              "topic_id": "ad597eb7e053",
+              "slug": "we-re-already-fighting-yesterday-s-battle-greece-s-prime-minister-gets-candid-about-ai",
+              "headline": "“We’re already fighting yesterday’s battle”: Greece’s prime minister gets candid about AI",
+              "daily_route": "/hot/2026-09-23/topic/we-re-already-fighting-yesterday-s-battle-greece-s-prime-minister-gets-candid-about-ai/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "analysis_qbitai-bfd21aa69ba4",
+          "title": "华为全新智驾上车，全域L3架构，岚图最强旗舰MPV 42万开卖",
+          "summary_short": "纯电120kWh大电池，18.1吨压着照样开",
+          "url": "https://www.qbitai.com/2026/09/495959.html",
+          "canonical_url": "https://www.qbitai.com/2026/09/495959.html",
+          "source_id": "analysis_qbitai",
+          "source_name": "量子位 (QbitAI)",
+          "source_role": "editorial_depth",
+          "source_type": "blog_analysis",
+          "source_family": "analysis",
+          "published_at": "Wed, 23 Sep 2026 01:00:54 +0000",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 6.886,
+          "topic_refs": [
+            {
+              "topic_id": "8e3cad2fbf9d",
+              "slug": "l3-mpv-42",
+              "headline": "华为全新智驾上车，全域L3架构，岚图最强旗舰MPV 42万开卖",
+              "daily_route": "/hot/2026-09-23/topic/l3-mpv-42/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "analysis_theverge_ai-0ab4ac60a8fb",
+          "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
+          "summary_short": "After turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathematicians to help it figure out a less disastrous path forward.",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
+          "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
+          "source_id": "analysis_theverge_ai",
+          "source_name": "The Verge AI",
+          "source_role": "editorial_depth",
+          "source_type": "blog_analysis",
+          "source_family": "analysis",
+          "published_at": "2026-09-22T20:17:17-04:00",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 6.886,
+          "topic_refs": [
+            {
+              "topic_id": "c01b537e426b",
+              "slug": "advisory-group-on-mathematics-and-artificial-intelligence",
+              "headline": "Advisory Group on Mathematics and Artificial Intelligence",
+              "daily_route": "/hot/2026-09-23/topic/advisory-group-on-mathematics-and-artificial-intelligence/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "analysis_qbitai-6097ec525afa",
+          "title": "滴滴自动驾驶连获全国工商联及北京市荣誉榜单认可",
+          "summary_short": "滴滴首次入选2026年民营企业发展新质生产力案例，首次登上2026北京民营企业未来产业先锋榜。",
+          "url": "https://www.qbitai.com/2026/09/496124.html",
+          "canonical_url": "https://www.qbitai.com/2026/09/496124.html",
+          "source_id": "analysis_qbitai",
+          "source_name": "量子位 (QbitAI)",
+          "source_role": "editorial_depth",
+          "source_type": "blog_analysis",
+          "source_family": "analysis",
+          "published_at": "Wed, 23 Sep 2026 03:12:31 +0000",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 6.336,
+          "topic_refs": [
+            {
+              "topic_id": "e0569021e974",
+              "slug": "e0569021e974",
+              "headline": "滴滴自动驾驶连获全国工商联及北京市荣誉榜单认可",
+              "daily_route": "/hot/2026-09-23/topic/e0569021e974/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "analysis_simon_willison-50fdf1ad73b0",
+          "title": "SF October 14th: A Birds of a Feather Session on Agentic Engineering",
+          "summary_short": "<p><strong><a href=\" October 14th: A Birds of a Feather Session on Agentic Engineering</a></strong></p> I'm hosting an evening event with Jesse Vincent in San Francisco on Wednesday 14th October for people who are building weird and interesting things with and on top of coding agents.</p> <p>Think",
+          "url": "https://simonwillison.net/2026/Sep/23/bof-agentic-engineering",
+          "canonical_url": "https://simonwillison.net/2026/Sep/23/bof-agentic-engineering",
+          "source_id": "analysis_simon_willison",
+          "source_name": "Simon Willison's Blog",
+          "source_role": "editorial_depth",
+          "source_type": "blog_analysis",
+          "source_family": "analysis",
+          "published_at": "2026-09-23T02:53:19+00:00",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 5.607,
+          "topic_refs": [
+            {
+              "topic_id": "0df195ff1105",
+              "slug": "sf-october-14th-a-birds-of-a-feather-session-on-agentic-engineering",
+              "headline": "SF October 14th: A Birds of a Feather Session on Agentic Engineering",
+              "daily_route": "/hot/2026-09-23/topic/sf-october-14th-a-birds-of-a-feather-session-on-agentic-engineering/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "analysis_techcrunch_ai-3a67f6fa3e51",
+          "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+          "summary_short": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally",
+          "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai",
+          "canonical_url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai",
+          "source_id": "analysis_techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "source_role": "editorial_depth",
+          "source_type": "blog_analysis",
+          "source_family": "analysis",
+          "published_at": "Tue, 22 Sep 2026 20:00:00 +0000",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 4.615,
+          "topic_refs": [
+            {
+              "topic_id": "6d79ce6ca960",
+              "slug": "qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai",
+              "headline": "Qualcomm launches two new smartphone chips with emphasis on AI",
+              "daily_route": "/hot/2026-09-23/topic/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        }
+      ]
+    },
+    {
+      "slug": "papers",
+      "label": "Research Papers",
+      "description": "Research papers and paper-trending signals tied to the current day.",
+      "count": 2,
+      "section_score": 7.822,
+      "items": [
+        {
+          "id": "hf_papers-a367e3394feb",
+          "title": "Flash-dLLM: IO-Aware KV Caching and Parallel Decoding for Fast, Memory-Efficient Diffusion LLMs",
+          "summary_short": "Diffusion Large Language Models (dLLMs) have recently emerged as a promising alternative to autoregressive LLMs by enabling non-autoregressive text generation.",
+          "url": "https://huggingface.co/papers/2609.26796",
+          "canonical_url": "https://arxiv.org/abs/2609.26796",
+          "source_id": "hf_papers",
+          "source_name": "Hugging Face Trending Papers",
+          "source_role": "paper_trending",
+          "source_type": "paper",
+          "source_family": "papers",
+          "published_at": "2026-09-22T00:00:00.000Z",
+          "tags": [],
+          "authors": [
+            "Quan Nguyen-Tri",
+            "Mukul Ranjan",
+            "Zhiqiang Shen"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 10,
+            "daily_score": 10
+          },
+          "signal_score": 5.289,
+          "topic_refs": [
+            {
+              "topic_id": "190fdd7b64b1",
+              "slug": "flash-dllm-io-aware-kv-caching-and-parallel-decoding-for-fast-memory-efficient-diffusion-llms",
+              "headline": "Flash-dLLM: IO-Aware KV Caching and Parallel Decoding for Fast, Memory-Efficient Diffusion LLMs",
+              "daily_route": "/hot/2026-09-23/topic/flash-dllm-io-aware-kv-caching-and-parallel-decoding-for-fast-memory-efficient-diffusion-llms/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "hf_papers-8f164b190f5e",
+          "title": "StableVQ: Practical Guidelines for Stable Vector-Quantized Tokenizer Training",
+          "summary_short": "Vector Quantization (VQ) is fundamental to discrete visual tokenizers that power modern autoregressive and masked image generation models.",
+          "url": "https://huggingface.co/papers/2609.26774",
+          "canonical_url": "https://arxiv.org/abs/2609.26774",
+          "source_id": "hf_papers",
+          "source_name": "Hugging Face Trending Papers",
+          "source_role": "paper_trending",
+          "source_type": "paper",
+          "source_family": "papers",
+          "published_at": "2026-09-22T00:00:00.000Z",
+          "tags": [],
+          "authors": [
+            "Bao Tang",
+            "Jiahao Guo",
+            "Haoxiang Cao",
+            "Wenyu Liu",
+            "Changqian Yu",
+            "Kun Gai",
+            "Xinggang Wang"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 5,
+            "daily_score": 5
+          },
+          "signal_score": 4.735,
+          "topic_refs": [
+            {
+              "topic_id": "8c70b7565ec5",
+              "slug": "stablevq-practical-guidelines-for-stable-vector-quantized-tokenizer-training",
+              "headline": "StableVQ: Practical Guidelines for Stable Vector-Quantized Tokenizer Training",
+              "daily_route": "/hot/2026-09-23/topic/stablevq-practical-guidelines-for-stable-vector-quantized-tokenizer-training/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        }
+      ]
+    },
+    {
+      "slug": "github",
+      "label": "GitHub / Tools",
+      "description": "Repositories, tooling launches, and builder momentum around practical AI systems.",
+      "count": 6,
+      "section_score": 5.782,
+      "items": [
+        {
+          "id": "github_trend-6cf30f044df6",
+          "title": "jev-chat/jev-chat-jarvis",
+          "summary_short": "装在手机上的对话副驾：在微信 / QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
+          "url": "https://github.com/jev-chat/jev-chat-jarvis",
+          "canonical_url": "https://github.com/jev-chat/jev-chat-jarvis",
+          "source_id": "github_trend",
+          "source_name": "GitHub Trending Repos",
+          "source_role": "github_trend",
+          "source_type": "repository",
+          "source_family": "github",
+          "published_at": "2026-09-21T11:12:53Z",
+          "tags": [
+            "accessibility-service",
+            "android",
+            "chat-assistant",
+            "llm",
+            "qq",
+            "wechat"
+          ],
+          "authors": [
+            "jev-chat"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 4340,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 3.35,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "github_trend-11c0e859fa41",
+          "title": "zai-org/ZCode",
+          "summary_short": "Z.ai's coding agent harness. Powerful, intelligent, extensible",
+          "url": "https://github.com/zai-org/ZCode",
+          "canonical_url": "https://github.com/zai-org/ZCode",
+          "source_id": "github_trend",
+          "source_name": "GitHub Trending Repos",
+          "source_role": "github_trend",
+          "source_type": "repository",
+          "source_family": "github",
+          "published_at": "2026-09-20T12:01:16Z",
+          "tags": [],
+          "authors": [
+            "zai-org"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 6374,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 3.35,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "github_trend-7a2c931fe410",
+          "title": "unreallabsai/unreal-agent",
+          "summary_short": "Async-first agent harness",
+          "url": "https://github.com/unreallabsai/unreal-agent",
+          "canonical_url": "https://github.com/unreallabsai/unreal-agent",
+          "source_id": "github_trend",
+          "source_name": "GitHub Trending Repos",
+          "source_role": "github_trend",
+          "source_type": "repository",
+          "source_family": "github",
+          "published_at": "2026-09-21T23:14:02Z",
+          "tags": [],
+          "authors": [
+            "unreallabsai"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 1150,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 3.25,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "github_trend-1e4051b18224",
+          "title": "kerpopule/hermes-jev-skills",
+          "summary_short": "Jev-powered model routing, memory, compaction, skill selection, computer and browser use for Hermes agents (also Claude Code and Codex",
+          "url": "https://github.com/kerpopule/hermes-jev-skills",
+          "canonical_url": "https://github.com/kerpopule/hermes-jev-skills",
+          "source_id": "github_trend",
+          "source_name": "GitHub Trending Repos",
+          "source_role": "github_trend",
+          "source_type": "repository",
+          "source_family": "github",
+          "published_at": "2026-09-18T20:01:29Z",
+          "tags": [],
+          "authors": [
+            "kerpopule"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 613,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 2.176,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "github_trend-639d4b24f18d",
+          "title": "Continuum-AI-Corp/OrcaBonsai-27B-Uncensored",
+          "summary_short": "Runtime behavioral ablation for compressed LLMs. First target: Ternary Bonsai 2 27B — no weight modification or re-quantization. by OrcaRouter team",
+          "url": "https://github.com/Continuum-AI-Corp/OrcaBonsai-27B-Uncensored",
+          "canonical_url": "https://github.com/Continuum-AI-Corp/OrcaBonsai-27B-Uncensored",
+          "source_id": "github_trend",
+          "source_name": "GitHub Trending Repos",
+          "source_role": "github_trend",
+          "source_type": "repository",
+          "source_family": "github",
+          "published_at": "2026-09-18T06:45:54Z",
+          "tags": [],
+          "authors": [
+            "Continuum-AI-Corp"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 526,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 2.002,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "github_trend-acd51b3064a0",
+          "title": "rmalde/minecraft-agent",
+          "summary_short": "Astra planner and JEV controller for Minecraft, with native recording, tested routes, and run verification",
+          "url": "https://github.com/rmalde/minecraft-agent",
+          "canonical_url": "https://github.com/rmalde/minecraft-agent",
+          "source_id": "github_trend",
+          "source_name": "GitHub Trending Repos",
+          "source_role": "github_trend",
+          "source_type": "repository",
+          "source_family": "github",
+          "published_at": "2026-09-20T05:05:12Z",
+          "tags": [],
+          "authors": [
+            "rmalde"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 524,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 1.998,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        }
+      ]
+    },
+    {
+      "slug": "industry",
+      "label": "Industry News",
+      "description": "Curated industry coverage from newsletters, blogs, and community sources with substance.",
+      "count": 6,
+      "section_score": 7.925,
+      "items": [
+        {
+          "id": "hn_discussion-c609037466df",
+          "title": "Show HN: JevBench, a reproducible benchmark for typed decision models",
+          "summary_short": "A Show HN submission introduces JevBench as a reproducible benchmark for typed decision models. The supplied excerpt provides no benchmark results",
+          "url": "https://benchmarkheaven.com/jev-models",
+          "canonical_url": "https://benchmarkheaven.com/jev-models",
+          "source_id": "hn_discussion",
+          "source_name": "Hacker News",
+          "source_role": "hn_discussion",
+          "source_type": "discussion",
+          "source_family": "industry",
+          "published_at": "2026-09-22T13:01:03Z",
+          "tags": [],
+          "authors": [
+            "florianstandhar"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 84,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 4.779,
+          "topic_refs": [
+            {
+              "topic_id": "53fa133dcdea",
+              "slug": "show-hn-jevbench-a-reproducible-benchmark-for-typed-decision-models",
+              "headline": "Show HN: JevBench, a reproducible benchmark for typed decision models",
+              "daily_route": "/hot/2026-09-23/topic/show-hn-jevbench-a-reproducible-benchmark-for-typed-decision-models/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "superhuman_ai-d0ced0e55cfd",
+          "title": "4 min read OpenAI claims it solved 100 open math problems",
+          "summary_short": "",
+          "url": "https://www.superhuman.ai/p/openai-claims-it-solved-100-open-math-problems",
+          "canonical_url": "https://www.superhuman.ai/p/openai-claims-it-solved-100-open-math-problems",
+          "source_id": "superhuman_ai",
+          "source_name": "Superhuman AI",
+          "source_role": "headline_consensus",
+          "source_type": "roundup",
+          "source_family": "industry",
+          "published_at": "2026-09-23T00:00:00-04:00",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 4.771,
+          "topic_refs": [
+            {
+              "topic_id": "ad87cbad0d31",
+              "slug": "4-min-read-openai-claims-it-solved-100-open-math-problems",
+              "headline": "4 min read OpenAI claims it solved 100 open math problems",
+              "daily_route": "/hot/2026-09-23/topic/4-min-read-openai-claims-it-solved-100-open-math-problems/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "hn_discussion-83a7e2c1b36f",
+          "title": "JetBrains Air: A System of Products for Agentic Software Development",
+          "summary_short": "JetBrains Air is presented as a system of products for agentic software development. The supplied excerpt does not describe individual components or availability",
+          "url": "https://blog.jetbrains.com/blog/2026/09/22/introducing-jetbrains-air",
+          "canonical_url": "https://blog.jetbrains.com/blog/2026/09/22/introducing-jetbrains-air",
+          "source_id": "hn_discussion",
+          "source_name": "Hacker News",
+          "source_role": "hn_discussion",
+          "source_type": "discussion",
+          "source_family": "industry",
+          "published_at": "2026-09-22T11:00:58Z",
+          "tags": [],
+          "authors": [
+            "FinnLobsien"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 67,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 4.56,
+          "topic_refs": [
+            {
+              "topic_id": "10697012e9e4",
+              "slug": "jetbrains-air-a-system-of-products-for-agentic-software-development",
+              "headline": "JetBrains Air: A System of Products for Agentic Software Development",
+              "daily_route": "/hot/2026-09-23/topic/jetbrains-air-a-system-of-products-for-agentic-software-development/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "hn_discussion-f839afb16c18",
+          "title": "Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent",
+          "summary_short": "Coverage Cat presents an umbrella insurance offering accessed through a personal agent in a Launch HN submission. The title identifies the company as part of Y Combinator's Summer 2022 cohort",
+          "url": "https://www.coveragecat.com",
+          "canonical_url": "https://www.coveragecat.com",
+          "source_id": "hn_discussion",
+          "source_name": "Hacker News",
+          "source_role": "hn_discussion",
+          "source_type": "discussion",
+          "source_family": "industry",
+          "published_at": "2026-09-22T17:26:36Z",
+          "tags": [],
+          "authors": [
+            "botacode"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 45,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 4.272,
+          "topic_refs": [
+            {
+              "topic_id": "533cdb726031",
+              "slug": "launch-hn-coverage-cat-yc-s22-umbrella-insurance-via-your-personal-agent",
+              "headline": "Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent",
+              "daily_route": "/hot/2026-09-23/topic/launch-hn-coverage-cat-yc-s22-umbrella-insurance-via-your-personal-agent/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "hn_discussion-6aa088071e3c",
+          "title": "The new CC, an AI agent built for families",
+          "summary_short": "A Hacker News submission presents the new CC as an AI agent built for families. The supplied excerpt does not specify its capabilities or availability",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups",
+          "canonical_url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups",
+          "source_id": "hn_discussion",
+          "source_name": "Hacker News",
+          "source_role": "hn_discussion",
+          "source_type": "discussion",
+          "source_family": "industry",
+          "published_at": "2026-09-22T23:46:07Z",
+          "tags": [],
+          "authors": [
+            "grigy"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 41,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 4.224,
+          "topic_refs": [
+            {
+              "topic_id": "a4b383c85449",
+              "slug": "the-new-cc-an-ai-agent-built-for-families",
+              "headline": "The new CC, an AI agent built for families",
+              "daily_route": "/hot/2026-09-23/topic/the-new-cc-an-ai-agent-built-for-families/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "the_rundown_ai-977896c18d9a",
+          "title": "Anthropic sets up a biology lab for Claude’s experiments",
+          "summary_short": "Anthropic has established a biology lab for experiments involving Claude. The supplied headline provides no details about the lab's capabilities or research program",
+          "url": "https://www.rundown.ai/news/anthropic-claude-biology-lab",
+          "canonical_url": "https://www.rundown.ai/news/anthropic-claude-biology-lab",
+          "source_id": "the_rundown_ai",
+          "source_name": "The Rundown AI",
+          "source_role": "headline_consensus",
+          "source_type": "roundup",
+          "source_family": "industry",
+          "published_at": "2026-09-22T12:49:24.519Z",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 3.713,
+          "topic_refs": [
+            {
+              "topic_id": "2c500d67487a",
+              "slug": "anthropic-sets-up-a-biology-lab-for-claude-s-experiments",
+              "headline": "Anthropic sets up a biology lab for Claude’s experiments",
+              "daily_route": "/hot/2026-09-23/topic/anthropic-sets-up-a-biology-lab-for-claude-s-experiments/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        }
+      ]
+    }
+  ],
+  "paper_spotlight": [],
+  "topic_summary": [
+    {
+      "topic_id": "87df05f536d0",
+      "slug": "claude-opus-5-5-is-now-available-on-aws",
+      "headline": "Claude Opus 5.5 is now available on AWS",
+      "category": "Product Release",
+      "final_score": 6.016,
+      "heat": 10.0,
+      "occurrence_score": 10.0,
+      "display_priority": 8.407,
+      "confidence": 8.805,
+      "llm_status": "candidate",
+      "source_count": 6,
+      "item_count": 4,
+      "route": "/hot/2026-09-23/topic/claude-opus-5-5-is-now-available-on-aws/"
+    }
+  ],
+  "featured_topics": [
+    {
+      "topic_id": "c01b537e426b",
+      "slug": "advisory-group-on-mathematics-and-artificial-intelligence",
+      "headline": "Advisory Group on Mathematics and Artificial Intelligence",
+      "category": "Industry Update",
+      "summary_short": "",
+      "why_it_matters": "This other surfaced across 1 independent source(s).",
+      "key_takeaways": [
+        "After turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathematicians to help it figure out a less disastrous path forward. On Monday, the..."
+      ],
+      "scores": {
+        "final": 10.0,
+        "quality": 9.0,
+        "heat": 3.0,
+        "importance": 5.0,
+        "occurrence": 2.95,
+        "display_priority": 7.454,
+        "confidence": 5.46
+      },
+      "source_tier": "trusted_analysis",
+      "source_names": [
+        "The Verge AI"
+      ],
+      "source_roles": [
+        "editorial_depth"
+      ],
+      "source_types": [
+        "blog_analysis"
+      ],
+      "llm_status": "featured",
+      "evidence": [
+        {
+          "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
+          "source_name": "The Verge AI",
+          "published_at": "2026-09-22T20:17:17-04:00"
+        }
+      ],
+      "route": "/hot/2026-09-23/topic/advisory-group-on-mathematics-and-artificial-intelligence/"
+    },
+    {
+      "topic_id": "ad597eb7e053",
+      "slug": "we-re-already-fighting-yesterday-s-battle-greece-s-prime-minister-gets-candid-about-ai",
+      "headline": "“We’re already fighting yesterday’s battle”: Greece’s prime minister gets candid about AI",
+      "category": "Industry Update",
+      "summary_short": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do",
+      "why_it_matters": "This other surfaced across 1 independent source(s).",
+      "key_takeaways": [
+        "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do."
+      ],
+      "scores": {
+        "final": 10.0,
+        "quality": 9.0,
+        "heat": 3.0,
+        "importance": 5.0,
+        "occurrence": 2.95,
+        "display_priority": 7.454,
+        "confidence": 5.46
+      },
+      "source_tier": "trusted_analysis",
+      "source_names": [
+        "TechCrunch AI"
+      ],
+      "source_roles": [
+        "editorial_depth"
+      ],
+      "source_types": [
+        "blog_analysis"
+      ],
+      "llm_status": "featured",
+      "evidence": [
+        {
+          "title": "“We’re already fighting yesterday’s battle”: Greece’s prime minister gets candid about AI",
+          "url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai",
+          "source_name": "TechCrunch AI",
+          "published_at": "Wed, 23 Sep 2026 04:59:08 +0000"
+        }
+      ],
+      "route": "/hot/2026-09-23/topic/we-re-already-fighting-yesterday-s-battle-greece-s-prime-minister-gets-candid-about-ai/"
+    },
+    {
+      "topic_id": "8e3cad2fbf9d",
+      "slug": "l3-mpv-42",
+      "headline": "华为全新智驾上车，全域L3架构，岚图最强旗舰MPV 42万开卖",
+      "category": "Industry Update",
+      "summary_short": "纯电120kWh大电池，18.1吨压着照样开",
+      "why_it_matters": "This other surfaced across 1 independent source(s).",
+      "key_takeaways": [
+        "纯电120kWh大电池，18.1吨压着照样开"
+      ],
+      "scores": {
+        "final": 10.0,
+        "quality": 9.0,
+        "heat": 3.0,
+        "importance": 5.0,
+        "occurrence": 2.95,
+        "display_priority": 7.454,
+        "confidence": 5.46
+      },
+      "source_tier": "trusted_analysis",
+      "source_names": [
+        "量子位 (QbitAI)"
+      ],
+      "source_roles": [
+        "editorial_depth"
+      ],
+      "source_types": [
+        "blog_analysis"
+      ],
+      "llm_status": "featured",
+      "evidence": [
+        {
+          "title": "华为全新智驾上车，全域L3架构，岚图最强旗舰MPV 42万开卖",
+          "url": "https://www.qbitai.com/2026/09/495959.html",
+          "source_name": "量子位 (QbitAI)",
+          "published_at": "Wed, 23 Sep 2026 01:00:54 +0000"
+        }
+      ],
+      "route": "/hot/2026-09-23/topic/l3-mpv-42/"
+    }
+  ],
+  "category_sections": [
+    {
+      "category": "Product Release",
+      "total_candidates": 6,
+      "topics": [
+        {
+          "topic_id": "87df05f536d0",
+          "slug": "claude-opus-5-5-is-now-available-on-aws",
+          "headline": "Claude Opus 5.5 is now available on AWS",
+          "category": "Product Release",
+          "summary_short": "Anthropic's Claude Opus 5.5 is now available through Amazon Bedrock and Claude Platform on AWS. Anthropic positions it as its most capable Opus model for agentic coding, knowledge work, and long-running tasks",
+          "why_it_matters": "This product release surfaced across 6 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 6.016,
+            "quality": 5.0,
+            "heat": 10.0,
+            "importance": 7.0,
+            "occurrence": 10.0,
+            "display_priority": 8.407,
+            "confidence": 8.805
+          },
+          "source_tier": "official",
+          "source_names": [
+            "AWS AI Blog",
+            "Hacker News",
+            "OpenAI News",
+            "Simon Willison's Blog",
+            "The Neuron",
+            "The Verge AI"
+          ],
+          "source_roles": [
+            "editorial_depth",
+            "headline_consensus",
+            "hn_discussion",
+            "official_news"
+          ],
+          "source_types": [
+            "blog_analysis",
+            "discussion",
+            "official_blog",
+            "roundup"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Claude Opus 5.5 is now available on AWS",
+              "url": "https://aws.amazon.com/blogs/machine-learning/claude-opus-5-5-is-now-available-on-aws",
+              "source_name": "AWS AI Blog",
+              "published_at": "Tue, 22 Sep 2026 17:28:01 +0000"
+            },
+            {
+              "title": "9 hours ago 😺 GPT-6 Sol / Luna vs. Claude Opus 5.5 LIVE OpenAI and Anthropic dropped three new models today. We’re testing what actually changed, what the benchmarks miss, and which one you should reach for.",
+              "url": "https://www.theneurondaily.com/p/gpt-6-sol-luna-vs-claude-opus-5-5-live",
+              "source_name": "The Neuron",
+              "published_at": "2026-09-22T19:55:00+00:00"
+            }
+          ],
+          "route": "/hot/2026-09-23/topic/claude-opus-5-5-is-now-available-on-aws/"
+        },
+        {
+          "topic_id": "71f3ea51af2a",
+          "slug": "building-standards-for-the-next-phase-of-ai",
+          "headline": "Building standards for the next phase of AI",
+          "category": "Product Release",
+          "summary_short": "",
+          "why_it_matters": "This product release surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.39,
+            "quality": 5.0,
+            "heat": 3.0,
+            "importance": 10.0,
+            "occurrence": 2.95,
+            "display_priority": 4.769,
+            "confidence": 4.977
+          },
+          "source_tier": "official",
+          "source_names": [
+            "OpenAI News"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "official_blog"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Priorities and principles for effective third party assessments",
+              "url": "https://openai.com/index/priorities-principles-third-party-assessments",
+              "source_name": "OpenAI News",
+              "published_at": "Tue, 22 Sep 2026 00:00:00 GMT"
+            }
+          ],
+          "route": "/hot/2026-09-23/topic/building-standards-for-the-next-phase-of-ai/"
+        },
+        {
+          "topic_id": "79a3902203e0",
+          "slug": "parallel-cut-research-time-and-cost-in-half-with-gpt-6-astra",
+          "headline": "Parallel cut research time and cost in half with GPT‑6 Astra",
+          "category": "Product Release",
+          "summary_short": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models",
+          "why_it_matters": "This product release surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.39,
+            "quality": 5.0,
+            "heat": 3.0,
+            "importance": 10.0,
+            "occurrence": 2.95,
+            "display_priority": 4.769,
+            "confidence": 4.977
+          },
+          "source_tier": "official",
+          "source_names": [
+            "OpenAI News"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "official_blog"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+              "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+              "source_name": "OpenAI News",
+              "published_at": "Tue, 22 Sep 2026 12:00:00 GMT"
+            }
+          ],
+          "route": "/hot/2026-09-23/topic/parallel-cut-research-time-and-cost-in-half-with-gpt-6-astra/"
+        },
+        {
+          "topic_id": "0cfe81adf0e7",
+          "slug": "canary-rollouts-upgrade-models-in-production-without-downtime",
+          "headline": "Canary rollouts: upgrade models in production without downtime",
+          "category": "Product Release",
+          "summary_short": "A hard model swap exposes every user at once, and rolling back means cold-starting the old deployment under pressure. Here's how staged traffic ramps, metric gates, and automatic rollback work on dedicated inference",
+          "why_it_matters": "This product release surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.39,
+            "quality": 5.0,
+            "heat": 3.0,
+            "importance": 10.0,
+            "occurrence": 2.95,
+            "display_priority": 4.769,
+            "confidence": 4.977
+          },
+          "source_tier": "official",
+          "source_names": [
+            "Together AI Blog"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "official_blog"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Canary rollouts: upgrade models in production without downtime",
+              "url": "https://www.together.ai/blog/canary-rollouts-upgrade-models-in-production-without-downtime",
+              "source_name": "Together AI Blog",
+              "published_at": "Tue, 22 Sep 2026 00:00:00 GMT"
+            }
+          ],
+          "route": "/hot/2026-09-23/topic/canary-rollouts-upgrade-models-in-production-without-downtime/"
+        },
+        {
+          "topic_id": "a4b383c85449",
+          "slug": "the-new-cc-an-ai-agent-built-for-families",
+          "headline": "The new CC, an AI agent built for families",
+          "category": "Product Release",
+          "summary_short": "A Hacker News submission presents the new CC as an AI agent built for families. The supplied excerpt does not specify its capabilities or availability",
+          "why_it_matters": "This product release surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.125,
+            "quality": 5.0,
+            "heat": 3.0,
+            "importance": 5.0,
+            "occurrence": 2.95,
+            "display_priority": 4.26,
+            "confidence": 3.997
+          },
+          "source_tier": "community",
+          "source_names": [
+            "Hacker News"
+          ],
+          "source_roles": [
+            "hn_discussion"
+          ],
+          "source_types": [
+            "discussion"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "The new CC, an AI agent built for families",
+              "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups",
+              "source_name": "Hacker News",
+              "published_at": "2026-09-22T23:46:07Z"
+            }
+          ],
+          "route": "/hot/2026-09-23/topic/the-new-cc-an-ai-agent-built-for-families/"
+        }
+      ]
+    },
+    {
+      "category": "Market Signal",
+      "total_candidates": 1,
+      "topics": [
+        {
+          "topic_id": "b9800d6630d1",
+          "slug": "snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms",
+          "headline": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+          "category": "Market Signal",
+          "summary_short": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach",
+          "why_it_matters": "This funding surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.159,
+            "quality": 5.0,
+            "heat": 3.0,
+            "importance": 5.0,
+            "occurrence": 2.95,
+            "display_priority": 4.276,
+            "confidence": 4.008
+          },
+          "source_tier": "trusted_analysis",
+          "source_names": [
+            "TechCrunch AI"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+              "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms",
+              "source_name": "TechCrunch AI",
+              "published_at": "Tue, 22 Sep 2026 21:56:43 +0000"
+            }
+          ],
+          "route": "/hot/2026-09-23/topic/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/"
+        }
+      ]
+    },
+    {
+      "category": "Industry Update",
+      "total_candidates": 20,
+      "topics": [
+        {
+          "topic_id": "ad87cbad0d31",
+          "slug": "4-min-read-openai-claims-it-solved-100-open-math-problems",
+          "headline": "4 min read OpenAI claims it solved 100 open math problems",
+          "category": "Industry Update",
+          "summary_short": "",
+          "why_it_matters": "This other surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 9.5,
+            "quality": 9.0,
+            "heat": 3.0,
+            "importance": 1.0,
+            "occurrence": 2.95,
+            "display_priority": 6.229,
+            "confidence": 5.31
+          },
+          "source_tier": "community",
+          "source_names": [
+            "Superhuman AI"
+          ],
+          "source_roles": [
+            "headline_consensus"
+          ],
+          "source_types": [
+            "roundup"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "4 min read OpenAI claims it solved 100 open math problems",
+              "url": "https://www.superhuman.ai/p/openai-claims-it-solved-100-open-math-problems",
+              "source_name": "Superhuman AI",
+              "published_at": "2026-09-23T00:00:00-04:00"
+            }
+          ],
+          "route": "/hot/2026-09-23/topic/4-min-read-openai-claims-it-solved-100-open-math-problems/"
+        },
+        {
+          "topic_id": "0df195ff1105",
+          "slug": "sf-october-14th-a-birds-of-a-feather-session-on-agentic-engineering",
+          "headline": "SF October 14th: A Birds of a Feather Session on Agentic Engineering",
+          "category": "Industry Update",
+          "summary_short": "<p><strong><a href=\" October 14th: A Birds of a Feather Session on Agentic Engineering</a></strong></p> I'm hosting an evening event with Jesse Vincent in San Francisco on Wednesday 14th October for people who are building weird and interesting things with and on top of coding agents.</p> <p>Think",
+          "why_it_matters": "This opinion surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 9.232,
+            "quality": 8.0,
+            "heat": 3.0,
+            "importance": 5.0,
+            "occurrence": 2.95,
+            "display_priority": 6.108,
+            "confidence": 5.23
+          },
+          "source_tier": "trusted_analysis",
+          "source_names": [
+            "Simon Willison's Blog"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "SF October 14th: A Birds of a Feather Session on Agentic Engineering",
+              "url": "https://simonwillison.net/2026/Sep/23/bof-agentic-engineering",
+              "source_name": "Simon Willison's Blog",
+              "published_at": "2026-09-23T02:53:19+00:00"
+            }
+          ],
+          "route": "/hot/2026-09-23/topic/sf-october-14th-a-birds-of-a-feather-session-on-agentic-engineering/"
+        },
+        {
+          "topic_id": "6d79ce6ca960",
+          "slug": "qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai",
+          "headline": "Qualcomm launches two new smartphone chips with emphasis on AI",
+          "category": "Industry Update",
+          "summary_short": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally",
+          "why_it_matters": "This industry move surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.074,
+            "quality": 5.0,
+            "heat": 3.0,
+            "importance": 5.0,
+            "occurrence": 2.95,
+            "display_priority": 4.237,
+            "confidence": 3.982
+          },
+          "source_tier": "trusted_analysis",
+          "source_names": [
+            "TechCrunch AI"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+              "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai",
+              "source_name": "TechCrunch AI",
+              "published_at": "Tue, 22 Sep 2026 20:00:00 +0000"
+            }
+          ],
+          "route": "/hot/2026-09-23/topic/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/"
+        },
+        {
+          "topic_id": "2c500d67487a",
+          "slug": "anthropic-sets-up-a-biology-lab-for-claude-s-experiments",
+          "headline": "Anthropic sets up a biology lab for Claude’s experiments",
+          "category": "Industry Update",
+          "summary_short": "Anthropic has established a biology lab for experiments involving Claude. The supplied headline provides no details about the lab's capabilities or research program",
+          "why_it_matters": "This industry move surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.062,
+            "quality": 5.0,
+            "heat": 3.0,
+            "importance": 7.0,
+            "occurrence": 2.95,
+            "display_priority": 4.232,
+            "confidence": 3.979
+          },
+          "source_tier": "community",
+          "source_names": [
+            "The Rundown AI"
+          ],
+          "source_roles": [
+            "headline_consensus"
+          ],
+          "source_types": [
+            "roundup"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Anthropic sets up a biology lab for Claude’s experiments",
+              "url": "https://www.rundown.ai/news/anthropic-claude-biology-lab",
+              "source_name": "The Rundown AI",
+              "published_at": "2026-09-22T12:49:24.519Z"
+            }
+          ],
+          "route": "/hot/2026-09-23/topic/anthropic-sets-up-a-biology-lab-for-claude-s-experiments/"
+        },
+        {
+          "topic_id": "0e48759faa3c",
+          "slug": "microsoft-disrupts-ai-assisted-platform-that-compromised-12-000-accounts",
+          "headline": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
+          "category": "Industry Update",
+          "summary_short": "EvilTokens provided an end-to-end platform that makes mass compromises faster and easier",
+          "why_it_matters": "This other surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.017,
+            "quality": 5.0,
+            "heat": 3.0,
+            "importance": 5.0,
+            "occurrence": 2.95,
+            "display_priority": 4.212,
+            "confidence": 3.965
+          },
+          "source_tier": "trusted_analysis",
+          "source_names": [
+            "Ars Technica AI"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
+              "url": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000",
+              "source_name": "Ars Technica AI",
+              "published_at": "Tue, 22 Sep 2026 19:45:47 +0000"
+            }
+          ],
+          "route": "/hot/2026-09-23/topic/microsoft-disrupts-ai-assisted-platform-that-compromised-12-000-accounts/"
+        }
+      ]
+    },
+    {
+      "category": "Tooling",
+      "total_candidates": 3,
+      "topics": [
+        {
+          "topic_id": "c82b040915a1",
+          "slug": "better-prompt-caching-for-gpt-6",
+          "headline": "Better prompt caching for GPT-6",
+          "category": "Tooling",
+          "summary_short": "OpenAI details GPT-6 prompt-caching improvements, including higher cache hit rates and new diagnostics. The update also includes explicit breakpoints and controls intended to reduce latency and costs",
+          "why_it_matters": "This tooling surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.154,
+            "quality": 5.0,
+            "heat": 3.0,
+            "importance": 6.0,
+            "occurrence": 2.95,
+            "display_priority": 4.663,
+            "confidence": 4.906
+          },
+          "source_tier": "official",
+          "source_names": [
+            "OpenAI News"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "official_blog"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Better prompt caching for GPT-6",
+              "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+              "source_name": "OpenAI News",
+              "published_at": "Tue, 22 Sep 2026 21:00:00 GMT"
+            }
+          ],
+          "route": "/hot/2026-09-23/topic/better-prompt-caching-for-gpt-6/"
+        },
+        {
+          "topic_id": "10697012e9e4",
+          "slug": "jetbrains-air-a-system-of-products-for-agentic-software-development",
+          "headline": "JetBrains Air: A System of Products for Agentic Software Development",
+          "category": "Tooling",
+          "summary_short": "JetBrains Air is presented as a system of products for agentic software development. The supplied excerpt does not describe individual components or availability",
+          "why_it_matters": "This tooling surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.08,
+            "quality": 5.0,
+            "heat": 3.0,
+            "importance": 7.0,
+            "occurrence": 2.95,
+            "display_priority": 4.24,
+            "confidence": 3.984
+          },
+          "source_tier": "community",
+          "source_names": [
+            "Hacker News"
+          ],
+          "source_roles": [
+            "hn_discussion"
+          ],
+          "source_types": [
+            "discussion"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "JetBrains Air: A System of Products for Agentic Software Development",
+              "url": "https://blog.jetbrains.com/blog/2026/09/22/introducing-jetbrains-air",
+              "source_name": "Hacker News",
+              "published_at": "2026-09-22T11:00:58Z"
+            }
+          ],
+          "route": "/hot/2026-09-23/topic/jetbrains-air-a-system-of-products-for-agentic-software-development/"
+        },
+        {
+          "topic_id": "53fa133dcdea",
+          "slug": "show-hn-jevbench-a-reproducible-benchmark-for-typed-decision-models",
+          "headline": "Show HN: JevBench, a reproducible benchmark for typed decision models",
+          "category": "Tooling",
+          "summary_short": "A Show HN submission introduces JevBench as a reproducible benchmark for typed decision models. The supplied excerpt provides no benchmark results",
+          "why_it_matters": "This tooling surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.047,
+            "quality": 5.0,
+            "heat": 3.0,
+            "importance": 5.0,
+            "occurrence": 2.95,
+            "display_priority": 4.225,
+            "confidence": 3.974
+          },
+          "source_tier": "community",
+          "source_names": [
+            "Hacker News"
+          ],
+          "source_roles": [
+            "hn_discussion"
+          ],
+          "source_types": [
+            "discussion"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Show HN: JevBench, a reproducible benchmark for typed decision models",
+              "url": "https://benchmarkheaven.com/jev-models",
+              "source_name": "Hacker News",
+              "published_at": "2026-09-22T13:01:03Z"
+            }
+          ],
+          "route": "/hot/2026-09-23/topic/show-hn-jevbench-a-reproducible-benchmark-for-typed-decision-models/"
+        }
+      ]
+    },
+    {
+      "category": "Research",
+      "total_candidates": 9,
+      "topics": [
+        {
+          "topic_id": "190fdd7b64b1",
+          "slug": "flash-dllm-io-aware-kv-caching-and-parallel-decoding-for-fast-memory-efficient-diffusion-llms",
+          "headline": "Flash-dLLM: IO-Aware KV Caching and Parallel Decoding for Fast, Memory-Efficient Diffusion LLMs",
+          "category": "Research",
+          "summary_short": "Diffusion Large Language Models (dLLMs) have recently emerged as a promising alternative to autoregressive LLMs by enabling non-autoregressive text generation.",
+          "why_it_matters": "This research paper surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.173,
+            "quality": 6.0,
+            "heat": 3.0,
+            "importance": 7.0,
+            "occurrence": 2.95,
+            "display_priority": 4.282,
+            "confidence": 4.012
+          },
+          "source_tier": "trusted_research",
+          "source_names": [
+            "Hugging Face Trending Papers"
+          ],
+          "source_roles": [
+            "paper_trending"
+          ],
+          "source_types": [
+            "paper"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Flash-dLLM: IO-Aware KV Caching and Parallel Decoding for Fast, Memory-Efficient Diffusion LLMs",
+              "url": "https://huggingface.co/papers/2609.26796",
+              "source_name": "Hugging Face Trending Papers",
+              "published_at": "2026-09-22T00:00:00.000Z"
+            }
+          ],
+          "route": "/hot/2026-09-23/topic/flash-dllm-io-aware-kv-caching-and-parallel-decoding-for-fast-memory-efficient-diffusion-llms/"
+        },
+        {
+          "topic_id": "8c70b7565ec5",
+          "slug": "stablevq-practical-guidelines-for-stable-vector-quantized-tokenizer-training",
+          "headline": "StableVQ: Practical Guidelines for Stable Vector-Quantized Tokenizer Training",
+          "category": "Research",
+          "summary_short": "Vector Quantization (VQ) is fundamental to discrete visual tokenizers that power modern autoregressive and masked image generation models.",
+          "why_it_matters": "This research paper surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.155,
+            "quality": 6.0,
+            "heat": 3.0,
+            "importance": 6.0,
+            "occurrence": 2.95,
+            "display_priority": 4.274,
+            "confidence": 4.006
+          },
+          "source_tier": "trusted_research",
+          "source_names": [
+            "Hugging Face Trending Papers"
+          ],
+          "source_roles": [
+            "paper_trending"
+          ],
+          "source_types": [
+            "paper"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "StableVQ: Practical Guidelines for Stable Vector-Quantized Tokenizer Training",
+              "url": "https://huggingface.co/papers/2609.26774",
+              "source_name": "Hugging Face Trending Papers",
+              "published_at": "2026-09-22T00:00:00.000Z"
+            }
+          ],
+          "route": "/hot/2026-09-23/topic/stablevq-practical-guidelines-for-stable-vector-quantized-tokenizer-training/"
+        }
+      ]
+    }
+  ],
+  "long_tail_sections": [
+    {
+      "category": "Product Release",
+      "total_candidates": 1,
+      "topics": [
+        {
+          "topic_id": "533cdb726031",
+          "slug": "launch-hn-coverage-cat-yc-s22-umbrella-insurance-via-your-personal-agent",
+          "headline": "Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent",
+          "category": "Product Release",
+          "summary_short": "Coverage Cat presents an umbrella insurance offering accessed through a personal agent in a Launch HN submission. The title identifies the company as part of Y Combinator's Summer 2022 cohort",
+          "why_it_matters": "This product release surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.1,
+            "quality": 5.0,
+            "heat": 3.0,
+            "importance": 4.0,
+            "occurrence": 2.95,
+            "display_priority": 4.249,
+            "confidence": 3.99
+          },
+          "source_tier": "community",
+          "source_names": [
+            "Hacker News"
+          ],
+          "source_roles": [
+            "hn_discussion"
+          ],
+          "source_types": [
+            "discussion"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent",
+              "url": "https://www.coveragecat.com",
+              "source_name": "Hacker News",
+              "published_at": "2026-09-22T17:26:36Z"
+            }
+          ],
+          "route": "/hot/2026-09-23/topic/launch-hn-coverage-cat-yc-s22-umbrella-insurance-via-your-personal-agent/"
+        }
+      ]
+    },
+    {
+      "category": "Industry Update",
+      "total_candidates": 15,
+      "topics": [
+        {
+          "topic_id": "49811660d0d8",
+          "slug": "techcrunch-founder-summit-s-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4",
+          "headline": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+          "category": "Industry Update",
+          "summary_short": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater",
+          "why_it_matters": "This other surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.017,
+            "quality": 5.0,
+            "heat": 3.0,
+            "importance": 5.0,
+            "occurrence": 2.95,
+            "display_priority": 4.212,
+            "confidence": 3.965
+          },
+          "source_tier": "trusted_analysis",
+          "source_names": [
+            "TechCrunch AI"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+              "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4",
+              "source_name": "TechCrunch AI",
+              "published_at": "Tue, 22 Sep 2026 23:21:49 +0000"
+            }
+          ],
+          "route": "/hot/2026-09-23/topic/techcrunch-founder-summit-s-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/"
+        },
+        {
+          "topic_id": "945f70fb476a",
+          "slug": "trump-says-the-us-is-officially-renaming-ai-to-super-intelligence",
+          "headline": "Trump says the US is officially renaming AI to ‘super intelligence’",
+          "category": "Industry Update",
+          "summary_short": "In a speech Tuesday morning at the UN General Assembly, Donald Trump railed against Iran, \"globalists,\" climate change, and transgender people while also claiming that the US is now \"officially\" renaming artificial intelligence to \"super intelligence.\" Oddly, this wasn't one of the entries in the",
+          "why_it_matters": "This other surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.017,
+            "quality": 5.0,
+            "heat": 3.0,
+            "importance": 5.0,
+            "occurrence": 2.95,
+            "display_priority": 4.212,
+            "confidence": 3.965
+          },
+          "source_tier": "trusted_analysis",
+          "source_names": [
+            "The Verge AI"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Trump says the US is officially renaming AI to ‘super intelligence’",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence",
+              "source_name": "The Verge AI",
+              "published_at": "2026-09-22T12:01:10-04:00"
+            }
+          ],
+          "route": "/hot/2026-09-23/topic/trump-says-the-us-is-officially-renaming-ai-to-super-intelligence/"
+        },
+        {
+          "topic_id": "d016c2a5a5e2",
+          "slug": "rabbit-s-new-ai-agent-doesn-t-need-an-r1-to-run",
+          "headline": "Rabbit’s new AI agent doesn’t need an R1 to run",
+          "category": "Industry Update",
+          "summary_short": "Rabbit, the company behind the underwhelming R1 device, is rolling out a standalone AI agent that you don't need its hardware to use, as reported earlier by Wired. The startup says its new OS3 \"agentic operating system\" runs in the cloud but operates locally across Windows, Mac, and Linux devices.",
+          "why_it_matters": "This other surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.017,
+            "quality": 5.0,
+            "heat": 3.0,
+            "importance": 5.0,
+            "occurrence": 2.95,
+            "display_priority": 4.212,
+            "confidence": 3.965
+          },
+          "source_tier": "trusted_analysis",
+          "source_names": [
+            "The Verge AI"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
+              "source_name": "The Verge AI",
+              "published_at": "2026-09-22T16:52:40-04:00"
+            }
+          ],
+          "route": "/hot/2026-09-23/topic/rabbit-s-new-ai-agent-doesn-t-need-an-r1-to-run/"
+        },
+        {
+          "topic_id": "6e0dcac47c9f",
+          "slug": "ai",
+          "headline": "直播预告：未来两三年，哪些工业AI场景会率先爆发？",
+          "category": "Industry Update",
+          "summary_short": "从真实工厂到产品复制，再到生态和下一批机会，两位嘉宾会把工业AI从「能用」走向「规模化」的关键问题一层层拆开。",
+          "why_it_matters": "This other surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.017,
+            "quality": 5.0,
+            "heat": 3.0,
+            "importance": 5.0,
+            "occurrence": 2.95,
+            "display_priority": 4.212,
+            "confidence": 3.965
+          },
+          "source_tier": "trusted_analysis",
+          "source_names": [
+            "量子位 (QbitAI)"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "直播预告：未来两三年，哪些工业AI场景会率先爆发？",
+              "url": "https://www.qbitai.com/2026/09/494420.html",
+              "source_name": "量子位 (QbitAI)",
+              "published_at": "Tue, 22 Sep 2026 14:28:59 +0000"
+            }
+          ],
+          "route": "/hot/2026-09-23/topic/ai/"
+        },
+        {
+          "topic_id": "cb4809dec57b",
+          "slug": "agent-cpu",
+          "headline": "Agent时代，CPU的价值该重估了",
+          "category": "Industry Update",
+          "summary_short": "CPU与GPU趋近1∶1",
+          "why_it_matters": "This other surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.017,
+            "quality": 5.0,
+            "heat": 3.0,
+            "importance": 5.0,
+            "occurrence": 2.95,
+            "display_priority": 4.212,
+            "confidence": 3.965
+          },
+          "source_tier": "trusted_analysis",
+          "source_names": [
+            "量子位 (QbitAI)"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Agent时代，CPU的价值该重估了",
+              "url": "https://www.qbitai.com/2026/09/494430.html",
+              "source_name": "量子位 (QbitAI)",
+              "published_at": "Tue, 22 Sep 2026 15:46:54 +0000"
+            }
+          ],
+          "route": "/hot/2026-09-23/topic/agent-cpu/"
+        },
+        {
+          "topic_id": "894dbae919af",
+          "slug": "dyson-s-most-overengineered-gadget-may-have-a-waterproofing-problem",
+          "headline": "Dyson’s most overengineered gadget may have a waterproofing problem",
+          "category": "Industry Update",
+          "summary_short": "Dyson acknowledges a component issue in its $500 toothbrush but has not identified what is failing. Ars Technica reports that the gadget may have a waterproofing problem",
+          "why_it_matters": "This other surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 4.863,
+            "quality": 4.0,
+            "heat": 3.0,
+            "importance": 3.0,
+            "occurrence": 2.95,
+            "display_priority": 4.142,
+            "confidence": 3.919
+          },
+          "source_tier": "trusted_analysis",
+          "source_names": [
+            "Ars Technica AI"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Dyson’s most overengineered gadget may have a waterproofing problem",
+              "url": "https://arstechnica.com/gadgets/2026/09/its-500-toothbrush-disappeared-from-stores-dyson-wont-fully-explain-why",
+              "source_name": "Ars Technica AI",
+              "published_at": "Tue, 22 Sep 2026 13:33:16 +0000"
+            }
+          ],
+          "route": "/hot/2026-09-23/topic/dyson-s-most-overengineered-gadget-may-have-a-waterproofing-problem/"
+        },
+        {
+          "topic_id": "3280805b6256",
+          "slug": "how-tata-elxsi-detects-industrial-safety-risks-in-seconds-on-aws",
+          "headline": "How Tata Elxsi detects industrial safety risks in seconds on AWS",
+          "category": "Industry Update",
+          "summary_short": "AWS details how Tata Elxsi built IRIS to detect industrial safety risks in real time. The platform filters camera video at the edge, streams metadata through Amazon Kinesis, and runs computer vision on Amazon SageMaker",
+          "why_it_matters": "This tutorial surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 4.712,
+            "quality": 4.0,
+            "heat": 3.0,
+            "importance": 5.0,
+            "occurrence": 2.95,
+            "display_priority": 4.464,
+            "confidence": 4.774
+          },
+          "source_tier": "official",
+          "source_names": [
+            "AWS AI Blog"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "official_blog"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "How Tata Elxsi detects industrial safety risks in seconds on AWS",
+              "url": "https://aws.amazon.com/blogs/machine-learning/how-tata-elxsi-detects-industrial-safety-risks-in-seconds-on-aws",
+              "source_name": "AWS AI Blog",
+              "published_at": "Tue, 22 Sep 2026 15:19:54 +0000"
+            }
+          ],
+          "route": "/hot/2026-09-23/topic/how-tata-elxsi-detects-industrial-safety-risks-in-seconds-on-aws/"
+        }
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "topic_id": "e0569021e974",
+      "slug": "e0569021e974",
+      "headline": "滴滴自动驾驶连获全国工商联及北京市荣誉榜单认可",
+      "category": "Industry Update",
+      "summary_short": "滴滴首次入选2026年民营企业发展新质生产力案例，首次登上2026北京民营企业未来产业先锋榜。",
+      "why_it_matters": "This other surfaced across 1 independent source(s).",
+      "key_takeaways": [],
+      "scores": {
+        "final": 10.0,
+        "quality": 9.0,
+        "heat": 3.0,
+        "importance": 5.0,
+        "occurrence": 2.95,
+        "display_priority": 6.904,
+        "confidence": 5.46
+      },
+      "source_tier": "trusted_analysis",
+      "source_names": [
+        "量子位 (QbitAI)"
+      ],
+      "source_roles": [
+        "editorial_depth"
+      ],
+      "source_types": [
+        "blog_analysis"
+      ],
+      "llm_status": "watchlist",
+      "evidence": [
+        {
+          "title": "滴滴自动驾驶连获全国工商联及北京市荣誉榜单认可",
+          "url": "https://www.qbitai.com/2026/09/496124.html",
+          "source_name": "量子位 (QbitAI)",
+          "published_at": "Wed, 23 Sep 2026 03:12:31 +0000"
+        }
+      ],
+      "route": "/hot/2026-09-23/topic/e0569021e974/"
+    }
+  ],
+  "x_buzz": [
+    {
+      "title": "MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis",
+      "summary": "MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis",
+      "url": "https://artificialanalysis.ai/models/mimo-v2-6-pro",
+      "source_id": "hn_discussion",
+      "source_name": "Hacker News",
+      "source_role": "hn_discussion",
+      "linked_topic": ""
+    },
+    {
+      "title": "Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent",
+      "summary": "Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent",
+      "url": "https://www.coveragecat.com",
+      "source_id": "hn_discussion",
+      "source_name": "Hacker News",
+      "source_role": "hn_discussion",
+      "linked_topic": ""
+    },
+    {
+      "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
+      "summary": "After turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathematicians to help it figure out a less disastrous path forward. On Monday, the company announced a new independent panel of mathematicians tasked with advising it and other AI companies on their interactions with mathematical research and the wider [&#8230;]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
+      "source_id": "analysis_theverge_ai",
+      "source_name": "The Verge AI",
+      "source_role": "editorial_depth",
+      "linked_topic": "Advisory Group on Mathematics and Artificial Intelligence"
+    },
+    {
+      "title": "华为全新智驾上车，全域L3架构，岚图最强旗舰MPV 42万开卖",
+      "summary": "纯电120kWh大电池，18.1吨压着照样开",
+      "url": "https://www.qbitai.com/2026/09/495959.html",
+      "source_id": "analysis_qbitai",
+      "source_name": "量子位 (QbitAI)",
+      "source_role": "editorial_depth",
+      "linked_topic": "华为全新智驾上车，全域L3架构，岚图最强旗舰MPV 42万开卖"
+    },
+    {
+      "title": "滴滴自动驾驶连获全国工商联及北京市荣誉榜单认可",
+      "summary": "滴滴首次入选2026年民营企业发展新质生产力案例，首次登上2026北京民营企业未来产业先锋榜。",
+      "url": "https://www.qbitai.com/2026/09/496124.html",
+      "source_id": "analysis_qbitai",
+      "source_name": "量子位 (QbitAI)",
+      "source_role": "editorial_depth",
+      "linked_topic": "滴滴自动驾驶连获全国工商联及北京市荣誉榜单认可"
+    }
+  ],
+  "resurgence": []
+}

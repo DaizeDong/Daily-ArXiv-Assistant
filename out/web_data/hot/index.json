@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "latest_date": "2026-09-22",
+  "latest_date": "2026-09-23",
   "dates": [
     {
       "date": "2026-09-15",
@@ -193,23 +193,47 @@
         "month": null,
         "year": null
       }
+    },
+    {
+      "date": "2026-09-23",
+      "month": "2026-09",
+      "year": "2026",
+      "summary": "• [Industry Update] Advisory Group on Mathematics and Artificial Intelligence — This other surfaced across 1 independent source(s).\n• [Industry Update] “We’re already fighting yesterday’s battle”: Greece’s prime minister gets candid about AI — This other surfaced across 1 independent source(s).\n• [Industry Update] 华为全新智驾上车，全域L3架构，岚图最强旗舰MPV 42万开卖 — This other surfaced across 1 independent source(s).",
+      "featured_topics": 3,
+      "source_items": 34,
+      "topic_summary": 1,
+      "source_section_counts": {
+        "official": 10,
+        "market-signals": 2,
+        "analysis": 8,
+        "papers": 2,
+        "github": 6,
+        "industry": 6
+      },
+      "route": "/hot/2026-09-23/",
+      "paper_routes": {
+        "home": "../../",
+        "day": null,
+        "month": null,
+        "year": null
+      }
     }
   ],
   "months": [
     {
       "month": "2026-09",
-      "days": 8,
-      "featured_topics": 24,
-      "source_items": 264,
+      "days": 9,
+      "featured_topics": 27,
+      "source_items": 298,
       "route": "/hot/2026-09/"
     }
   ],
   "years": [
     {
       "year": "2026",
-      "days": 8,
-      "featured_topics": 24,
-      "source_items": 264,
+      "days": 9,
+      "featured_topics": 27,
+      "source_items": 298,
       "route": "/hot/2026/"
     }
   ]
