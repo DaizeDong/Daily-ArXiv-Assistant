@@ -88,6 +88,68 @@ jobs:
             *) echo "FAIL: expected 3.12.x from setup-python" >&2; exit 1 ;;
           esac
 
+      - name: Can this machine reach llmcall, and what does `auto` resolve to
+        shell: bash
+        continue-on-error: true
+        run: |
+          # THE SELFTEST BELOW PINS openai, so it proves a backend the production
+          # workflows do not choose by default. `auto` resolves to llmcall when the
+          # package imports and to the agent transport when it does not, and which one
+          # a machine lands on is invisible from the outside: both answer, one of them
+          # through a chain that crosses model families and one through a single CLI.
+          #
+          # This asks the question directly, and asks it BEFORE the pin, so a machine
+          # can be told apart from the workflow's opinion of it.
+          python -m pip install --quiet -r requirements.txt
+
+          # Where does this machine keep llmcall? An interpreter that already has it,
+          # an explicit LLMCALL_SRC for a machine that keeps it somewhere of its own,
+          # or the container's tools directory. Tried in that order.
+          SRC="${LLMCALL_SRC:-}"
+          if [ -z "$SRC" ]; then
+            # One candidate per loop item. `for CAND in py -3 python3 python` reads as
+            # four words, so it ran `py -c ...` without its version flag and then tried
+            # to execute `-3` as a command; it worked on Windows by accident.
+            for CAND in "py -3" python3 python; do
+              SRC=$($CAND -c "import llmcall, os; print(os.path.dirname(os.path.dirname(llmcall.__file__)))" 2>/dev/null) && [ -n "$SRC" ] && break
+              SRC=""
+            done
+          fi
+          [ -z "$SRC" ] && [ -d /workspace/tools/llmcall ] && SRC=/workspace/tools/llmcall
+          if [ -n "$SRC" ]; then
+            echo "llmcall source: $SRC"
+            python -m pip install --quiet "$SRC" || echo "  install from $SRC failed"
+          else
+            echo "llmcall source: none found on this machine"
+          fi
+
+          python - <<'PY'
+          from arxiv_assistant.utils import llm_gateway as g
+          print("llmcall importable:", g.llmcall_available())
+          print("available backends:", g.available_backends())
+          print("auto resolves to  :", g.resolve_backend("auto"))
+          PY
+
+      - name: The transport `auto` picks actually answers
+        env:
+          ARXIV_ASSISTANT_LLM_BACKEND: auto
+        shell: bash
+        continue-on-error: true
+        run: |
+          # A live call through whatever `auto` chose. Reporting the backend without
+          # calling it is the same substitution of presence for capability that the
+          # openai step below exists to avoid; this one just aims at the default.
+          python - <<'PY'
+          from arxiv_assistant.utils import llm_gateway as g
+          r = g.call("Reply with exactly: OK", timeout_s=180)
+          text = (getattr(r, "text", "") or str(r)).strip()
+          print("backend  :", g.resolve_backend("auto"))
+          print("reply    :", text[:80] if text else "<EMPTY>")
+          for line in (getattr(r, "trace", None) or [])[:8]:
+              print("  trace  :", line[:160])
+          raise SystemExit(0 if "OK" in text else 1)
+          PY
+
       - name: The model transport answers
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
