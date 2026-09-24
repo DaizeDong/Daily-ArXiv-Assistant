@@ -1835,7 +1835,14 @@
           "published_at": "2026-09-17T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-09-17/topic/evolution-of-llms-omni-world-models/"
+      "route": "/hot/2026-09-17/topic/evolution-of-llms-omni-world-models/",
+      "headline_zh": "LLM的演进：全能世界模型",
+      "summary_short_zh": "Reka Labs关于全能世界模型：一个统一的架构，可以输入文本、图像、视频和动作，并输出文本、图像、视频和动作——融合VLA和世界模型方法用于物理AI",
+      "why_it_matters_zh": "此产品发布来自1个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "Reka Labs关于全能世界模型：一个统一的架构，可以输入文本、图像、视频和动作，并输出文本、图像、视频和动作——融合VLA和世界模型方法用于物理AI"
+      ]
     },
     {
       "topic_id": "ca0273108f34",
@@ -1875,7 +1882,14 @@
           "published_at": "2026-09-17T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-09-17/topic/introducing-north-small-translate-a-leading-sovereign-open-weight-machine-translation-model/"
+      "route": "/hot/2026-09-17/topic/introducing-north-small-translate-a-leading-sovereign-open-weight-machine-translation-model/",
+      "headline_zh": "推出North Small Translate：领先的主权开放权重机器翻译模型",
+      "summary_short_zh": "Cohere推出了North Small Translate，一个主权开放权重机器翻译模型。该公告强调了速度、成本效益和紧凑的占用空间",
+      "why_it_matters_zh": "此产品发布来自1个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "超凡性能，合理占用——为速度和成本效益而打造的翻译"
+      ]
     },
     {
       "topic_id": "03b1c78f151d",
@@ -1913,7 +1927,11 @@
           "published_at": "Sep 17, 2026"
         }
       ],
-      "route": "/hot/2026-09-17/topic/introducing-the-life-sciences-verification-program/"
+      "route": "/hot/2026-09-17/topic/introducing-the-life-sciences-verification-program/",
+      "headline_zh": "推出生命科学验证计划",
+      "summary_short_zh": "Anthropic宣布推出生命科学验证计划。所提供的信息未描述其范围或要求",
+      "why_it_matters_zh": "此行业动态来自1个独立来源。",
+      "category_zh": "行业更新"
     }
   ],
   "category_sections": [
@@ -1963,7 +1981,11 @@
               "published_at": "Thu, 17 Sep 2026 00:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-09-17/topic/introducing-astra-for-law/"
+          "route": "/hot/2026-09-17/topic/introducing-astra-for-law/",
+          "headline_zh": "推出Astra for Law",
+          "summary_short_zh": "OpenAI for Law为法律领域带来前沿智能，包括定制律所工作流程、连接的法律数据源以及适用于机密客户工作的法律级控制",
+          "why_it_matters_zh": "此产品发布来自1个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "c6d1a2b0373c",
@@ -2010,7 +2032,11 @@
               "published_at": "Wed, 16 Sep 2026 13:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-09-17/topic/reimagining-advertising-with-ai/"
+          "route": "/hot/2026-09-17/topic/reimagining-advertising-with-ai/",
+          "headline_zh": "用AI重塑广告",
+          "summary_short_zh": "探索OpenAI推出的全新AI驱动广告体验，包括赞助智能体、营销人员工具，以及与HubSpot和Shopify的集成",
+          "why_it_matters_zh": "此产品发布来自2个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "afaaee7007dc",
@@ -2048,7 +2074,11 @@
               "published_at": "Wed, 16 Sep 2026 18:59:25 +0000"
             }
           ],
-          "route": "/hot/2026-09-17/topic/fault-tolerant-distributed-training-on-amazon-eks-using-nvrx/"
+          "route": "/hot/2026-09-17/topic/fault-tolerant-distributed-training-on-amazon-eks-using-nvrx/",
+          "headline_zh": "使用NVRx在Amazon EKS上实现容错分布式训练",
+          "summary_short_zh": "将NVIDIA弹性扩展(NVRx)集成到Amazon EKS上的PyTorch FSDP训练中，以便将检查点I/O与训练重叠，并在几秒钟内从GPU故障中恢复。",
+          "why_it_matters_zh": "此产品发布来自1个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "1149dabe063b",
@@ -2086,7 +2116,11 @@
               "published_at": "Wed, 16 Sep 2026 17:00:27 GMT"
             }
           ],
-          "route": "/hot/2026-09-17/topic/post-training-image-models-for-fandom/"
+          "route": "/hot/2026-09-17/topic/post-training-image-models-for-fandom/",
+          "headline_zh": "针对粉丝社群的图像模型后训练",
+          "summary_short_zh": "<figure class=\"kg-card kg-image-card\"><img alt=\"alt\" class=\"kg-image\" height=\"1125\" src=\" width=\"2000\" /></figure><p>最好的开源图像模型能生成出色的图片。",
+          "why_it_matters_zh": "此产品发布来自1个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "522e0d4ce2c3",
@@ -2124,7 +2158,11 @@
               "published_at": "2026-09-16T18:09:49+00:00"
             }
           ],
-          "route": "/hot/2026-09-17/topic/claude-cowork-and-chat-are-now-one-claude/"
+          "route": "/hot/2026-09-17/topic/claude-cowork-and-chat-are-now-one-claude/",
+          "headline_zh": "Claude Cowork 和聊天功能现已合并为一个 Claude",
+          "summary_short_zh": "Claude Cowork 和聊天功能已统一为一个 Claude 体验。Simon Willison's Blog 链接了该公告并对此变化进行了评论",
+          "why_it_matters_zh": "此产品发布在 1 个独立来源中出现。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2168,7 +2206,10 @@
               "published_at": "2026-09-17T00:33:03Z"
             }
           ],
-          "route": "/hot/2026-09-17/topic/openai-discloses-six-new-ai-safety-incidents/"
+          "route": "/hot/2026-09-17/topic/openai-discloses-six-new-ai-safety-incidents/",
+          "headline_zh": "OpenAI 披露六起新的 AI 安全事件",
+          "why_it_matters_zh": "此其他内容在 1 个独立来源中出现。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "811ae8e77171",
@@ -2206,7 +2247,11 @@
               "published_at": "Wed, 16 Sep 2026 16:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-09-17/topic/helping-older-adults-use-ai-in-everyday-life/"
+          "route": "/hot/2026-09-17/topic/helping-older-adults-use-ai-in-everyday-life/",
+          "headline_zh": "帮助老年人在日常生活中使用 AI",
+          "summary_short_zh": "OpenAI 和 AARP 正在美国 10 个城市为 1,000 名老年人提供免费的 ChatGPT 实践工作坊。工作坊专注于安全地培养实用的 AI 技能",
+          "why_it_matters_zh": "此行业动向在 1 个独立来源中出现。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "eedbb1cdfa05",
@@ -2244,7 +2289,11 @@
               "published_at": "2026-09-16T12:31:09.120Z"
             }
           ],
-          "route": "/hot/2026-09-17/topic/salesforce-introduces-koa-while-expanding-its-claude-partnership/"
+          "route": "/hot/2026-09-17/topic/salesforce-introduces-koa-while-expanding-its-claude-partnership/",
+          "headline_zh": "Salesforce 推出 Koa 同时扩展其与 Claude 的合作",
+          "summary_short_zh": "Salesforce 推出 Koa 同时扩展其与 Claude 的合作。所提供的项目未描述 Koa 的功能或合作条款",
+          "why_it_matters_zh": "此行业动向在 1 个独立来源中出现。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "e90cb109edfd",
@@ -2282,7 +2331,11 @@
               "published_at": "2026-09-16T14:30:36Z"
             }
           ],
-          "route": "/hot/2026-09-17/topic/ps5-linux-lead-quits-a-bunch-of-noobs-using-llms-that-they-don-t-understand/"
+          "route": "/hot/2026-09-17/topic/ps5-linux-lead-quits-a-bunch-of-noobs-using-llms-that-they-don-t-understand/",
+          "headline_zh": "PS5 Linux 负责人退出:\"一群使用 LLM 的菜鸟\"\"他们根本不理解\"",
+          "summary_short_zh": "标题报道 PS5 Linux 项目负责人已退出。引用了该负责人批评贡献者使用他们不理解的语言模型",
+          "why_it_matters_zh": "此行业动向在 1 个独立来源中出现。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "7007dce80b41",
@@ -2320,7 +2373,11 @@
               "published_at": "Wed, 16 Sep 2026 11:00:00 -0400"
             }
           ],
-          "route": "/hot/2026-09-17/topic/new-ai-technique-could-make-minimally-invasive-surgeries-safer-and-more-precise/"
+          "route": "/hot/2026-09-17/topic/new-ai-technique-could-make-minimally-invasive-surgeries-safer-and-more-precise/",
+          "headline_zh": "新 AI 技术可使微创手术更安全、更精确",
+          "summary_short_zh": "这种针对患者的方法称为 xvr,帮助医生在骨科和神经外科等领域使用 X 射线进行手术导航",
+          "why_it_matters_zh": "此其他内容在 1 个独立来源中出现。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -2364,7 +2421,11 @@
               "published_at": "Wed, 16 Sep 2026 17:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-09-17/topic/our-framework-for-reporting-model-misalignment/"
+          "route": "/hot/2026-09-17/topic/our-framework-for-reporting-model-misalignment/",
+          "headline_zh": "我们报告模型失调的框架",
+          "summary_short_zh": "OpenAI 分享了一个用于跟踪、调查和披露模型失调的框架,以及六份关于意外或令人担忧的模型行为的报告",
+          "why_it_matters_zh": "此工具在 1 个独立来源中出现。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "e41c0ca98bd3",
@@ -2402,7 +2463,11 @@
               "published_at": "Wed, 16 Sep 2026 19:00:00 +0000"
             }
           ],
-          "route": "/hot/2026-09-17/topic/improving-hcls-ai-reasoning-with-open-source-agent-skills/"
+          "route": "/hot/2026-09-17/topic/improving-hcls-ai-reasoning-with-open-source-agent-skills/",
+          "headline_zh": "通过开源 agent 技能改进 HCLS AI 推理",
+          "summary_short_zh": "AWS 分享了 38 个旨在改进医疗保健和生命科学推理的开源 agent 技能。该文章讨论了那些引用适当指南但错误应用决策框架的 agent",
+          "why_it_matters_zh": "此工具在 1 个独立来源中出现。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "93b6e8bfd8da",

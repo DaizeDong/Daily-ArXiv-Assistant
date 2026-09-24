@@ -3218,7 +3218,14 @@
           "published_at": "Fri, 18 Sep 2026 00:00:00 GMT"
         }
       ],
-      "route": "/hot/2026-09-18/topic/how-a-global-fintech-scaled-coding-agent-traffic-with-dedicated-model-inference/"
+      "route": "/hot/2026-09-18/topic/how-a-global-fintech-scaled-coding-agent-traffic-with-dedicated-model-inference/",
+      "headline_zh": "全球金融科技公司如何通过专用模型推理扩展编码代理流量",
+      "summary_short_zh": "全球银行转向自助式专用推理的内幕：Together的DMI如何让工程团队直接控制扩展、模型和测试",
+      "why_it_matters_zh": "此产品发布在1个独立来源中出现。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "全球银行转向自助式专用推理的内幕：Together的DMI如何让工程团队直接控制扩展、模型和测试。"
+      ]
     },
     {
       "topic_id": "0d8118f152fe",
@@ -3256,7 +3263,11 @@
           "published_at": "Sep 18, 2026"
         }
       ],
-      "route": "/hot/2026-09-18/topic/partnering-with-accenture-on-embedded-evaluation/"
+      "route": "/hot/2026-09-18/topic/partnering-with-accenture-on-embedded-evaluation/",
+      "headline_zh": "与Accenture合作进行嵌入式评估",
+      "summary_short_zh": "Anthropic宣布与Accenture就嵌入式评估建立合作关系。所提供的公告标题未明确实施方式或范围",
+      "why_it_matters_zh": "此行业动态在1个独立来源中出现。",
+      "category_zh": "行业动态"
     },
     {
       "topic_id": "f2004d2657f0",
@@ -3296,7 +3307,13 @@
           "published_at": "2026-09-18T06:45:54Z"
         }
       ],
-      "route": "/hot/2026-09-18/topic/continuum-ai-corp-orcabonsai-27b-uncensored/"
+      "route": "/hot/2026-09-18/topic/continuum-ai-corp-orcabonsai-27b-uncensored/",
+      "headline_zh": "Continuum-AI-Corp/OrcaBonsai-27B-Uncensored",
+      "why_it_matters_zh": "此工具在1个独立来源中出现。",
+      "category_zh": "工具",
+      "key_takeaways_zh": [
+        "压缩LLM的运行时行为消融。首个目标：Ternary Bonsai 2 27B——无需权重修改或重新量化。由OrcaRouter团队开发"
+      ]
     }
   ],
   "category_sections": [
@@ -3340,7 +3357,11 @@
               "published_at": "Thu, 17 Sep 2026 17:55:20 +0000"
             }
           ],
-          "route": "/hot/2026-09-18/topic/reduce-time-to-hire-for-quality-candidates-with-ai-powered-amazon-connect-talent/"
+          "route": "/hot/2026-09-18/topic/reduce-time-to-hire-for-quality-candidates-with-ai-powered-amazon-connect-talent/",
+          "headline_zh": "通过AI驱动的Amazon Connect Talent缩短优质候选人的招聘时间",
+          "summary_short_zh": "AWS推出Amazon Connect Talent作为AI招聘解决方案，面向管理大规模招聘的人才获取负责人。其功能包括AI主导的面试、数据驱动的评估和一致的候选人评估",
+          "why_it_matters_zh": "此产品发布在1个独立来源中出现。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "d33a0ae42861",
@@ -3378,7 +3399,11 @@
               "published_at": "Thu, 17 Sep 2026 20:24:34 +0000"
             }
           ],
-          "route": "/hot/2026-09-18/topic/google-announces-new-experimental-cc-ai-agent-for-families/"
+          "route": "/hot/2026-09-18/topic/google-announces-new-experimental-cc-ai-agent-for-families/",
+          "headline_zh": "Google发布面向家庭的实验性\"CC\" AI代理",
+          "summary_short_zh": "Google宣布推出名为CC的实验性AI代理，面向家庭使用。多个家庭成员可以共享数据，帮助代理制定计划和完成任务",
+          "why_it_matters_zh": "此产品发布在1个独立来源中出现。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "f03dcad5e25e",
@@ -3416,7 +3441,11 @@
               "published_at": "2026-09-17T18:32:50Z"
             }
           ],
-          "route": "/hot/2026-09-18/topic/canto-a-speech-model-built-for-the-real-world/"
+          "route": "/hot/2026-09-18/topic/canto-a-speech-model-built-for-the-real-world/",
+          "headline_zh": "Canto：为真实世界构建的语音模型",
+          "summary_short_zh": "Canto被介绍为一个为真实世界使用而构建的语音模型。所提供的描述未包含规格、基准测试或可用性详情",
+          "why_it_matters_zh": "此产品发布在1个独立来源中出现。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -3460,7 +3489,11 @@
               "published_at": "Thu, 17 Sep 2026 15:36:42 +0000"
             }
           ],
-          "route": "/hot/2026-09-18/topic/how-mrh-trowe-enabled-secure-self-service-ai-agents-in-financial-services/"
+          "route": "/hot/2026-09-18/topic/how-mrh-trowe-enabled-secure-self-service-ai-agents-in-financial-services/",
+          "headline_zh": "MRH Trowe如何在金融服务领域实现安全的自助式AI代理",
+          "summary_short_zh": "德国保险经纪公司MRH Trowe在生产环境首月为约400名员工提供了安全的自助式AI代理访问权限。AWS案例研究描述了该金融服务部署",
+          "why_it_matters_zh": "此行业动态在1个独立来源中出现。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "d234de7acc7b",
@@ -3498,7 +3531,9 @@
               "published_at": "Thu, 17 Sep 2026 15:41:03 +0000"
             }
           ],
-          "route": "/hot/2026-09-18/topic/a-shared-agentic-platform-for-wood-mackenzie-on-amazon-bedrock-agentcore/"
+          "route": "/hot/2026-09-18/topic/a-shared-agentic-platform-for-wood-mackenzie-on-amazon-bedrock-agentcore/",
+          "headline_zh": "Wood Mackenzie基于Amazon Bedrock AgentCore的共享代理平台",
+          "summary_short_zh": "Wood Mackenzie在Amazon Bedrock AgentCore上构建了APEX，一个共享的代理AI平台。它为部署生产代理的团队提供通用运行时、身份、可观测性和防护基础设施"
         },
         {
           "topic_id": "d8fb2ecac8fa",
@@ -3817,7 +3852,10 @@
               "published_at": "2026-09-17T18:08:02Z"
             }
           ],
-          "route": "/hot/2026-09-18/topic/show-hn-ax-check-com-can-agents-use-your-product/"
+          "route": "/hot/2026-09-18/topic/show-hn-ax-check-com-can-agents-use-your-product/",
+          "summary_short_zh": "Ax-check.com 在 Show HN 上作为一个用于检查代理是否能使用产品的工具亮相。提供的描述未说明其测试方法或支持的接口",
+          "why_it_matters_zh": "此工具在 1 个独立来源中出现。",
+          "category_zh": "工具"
         }
       ]
     },
@@ -3861,7 +3899,11 @@
               "published_at": "2026-09-17T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-09-18/topic/jepa-anything-learning-predictive-models-across-different-worlds/"
+          "route": "/hot/2026-09-18/topic/jepa-anything-learning-predictive-models-across-different-worlds/",
+          "headline_zh": "JEPA-Anything: 跨不同世界学习预测模型",
+          "summary_short_zh": "世界建模使智能能够预测后果、指导干预并从交互中学习。然而预测模型仍然是特定领域的:一个通用学习原则能否支持跨根本不同系统的世界建模?",
+          "why_it_matters_zh": "此研究论文在 1 个独立来源中出现。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "ea1883a93109",
@@ -3899,7 +3941,11 @@
               "published_at": "2026-09-17T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-09-18/topic/sol-pi-recursively-scaling-auto-research-loops-for-efficient-agent-harness/"
+          "route": "/hot/2026-09-18/topic/sol-pi-recursively-scaling-auto-research-loops-for-efficient-agent-harness/",
+          "headline_zh": "SoL-Pi: 递归扩展自动研究循环以实现高效代理框架",
+          "summary_short_zh": "随着编码代理从监督式代码补全转向无人值守的全天候探索,它们的工作从孤立预测扩展到推理、工具使用和反馈的长轨迹。因此令牌效率对于扩展递归自我改进变得重要。",
+          "why_it_matters_zh": "此研究论文在 1 个独立来源中出现。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "0b407a055428",
@@ -3937,7 +3983,11 @@
               "published_at": "2026-09-17T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-09-18/topic/when-eos-tokens-disagree-understanding-length-inflation-in-on-policy-distillation/"
+          "route": "/hot/2026-09-18/topic/when-eos-tokens-disagree-understanding-length-inflation-in-on-policy-distillation/",
+          "headline_zh": "当 EOS 令牌不一致时:理解策略蒸馏中的长度膨胀",
+          "summary_short_zh": "我们研究策略蒸馏(OPD)中的长度膨胀问题,学生响应可能变得过长甚至耗尽生成预算。我们发现基础学生和训练后教师之间的终止令牌不匹配是这种行为的重要来源。",
+          "why_it_matters_zh": "此研究论文在 1 个独立来源中出现。",
+          "category_zh": "研究"
         }
       ]
     }
@@ -3983,7 +4033,11 @@
               "published_at": "Thu, 17 Sep 2026 18:33:13 +0000"
             }
           ],
-          "route": "/hot/2026-09-18/topic/llms-respond-differently-to-harmful-prompts-when-ai-watermarking-is-used/"
+          "route": "/hot/2026-09-18/topic/llms-respond-differently-to-harmful-prompts-when-ai-watermarking-is-used/",
+          "headline_zh": "使用 AI 水印时 LLM 对有害提示的响应不同",
+          "summary_short_zh": "Ars Technica 报道 SynthID 水印可以改变语言模型对有害提示的响应方式。模型可能会遵循它们原本会拒绝的指令",
+          "why_it_matters_zh": "此其他内容在 1 个独立来源中出现。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "069b63888d5e",
@@ -4030,7 +4084,11 @@
               "published_at": "2026-09-17T23:37:27+00:00"
             }
           ],
-          "route": "/hot/2026-09-18/topic/how-to-write-with-an-llm/"
+          "route": "/hot/2026-09-18/topic/how-to-write-with-an-llm/",
+          "headline_zh": "如何使用 LLM 写作",
+          "summary_short_zh": "<p><strong><a href=\" 如何使用 LLM 写作</a></strong></p> Thomas Ptacek 关于将 LLM 用作文字编辑而非写作助手:</p> <blockquote> <p><strong>第一条规则:你不得使用 LLM 向你建议的任何一个词。</strong></p> <p>[...] 我认为作为一种智力个人形式",
+          "why_it_matters_zh": "此教程在 2 个独立来源中出现。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "14db38045117",
@@ -4068,7 +4126,11 @@
               "published_at": "Thu, 17 Sep 2026 15:28:08 +0000"
             }
           ],
-          "route": "/hot/2026-09-18/topic/enhancing-industrial-safety-ai-with-synthetic-data-on-amazon-sagemaker-ai/"
+          "route": "/hot/2026-09-18/topic/enhancing-industrial-safety-ai-with-synthetic-data-on-amazon-sagemaker-ai/",
+          "headline_zh": "在 Amazon SageMaker AI 上使用合成数据增强工业安全 AI",
+          "summary_short_zh": "AWS 介绍如何使用 Amazon SageMaker AI 和 Amazon Rekognition 构建用于工业安全 AI 的合成数据增强管道。该管道生成逼真的、自动标注的训练图像",
+          "why_it_matters_zh": "此教程在 1 个独立来源中出现。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "ae693e57eb60",
@@ -4106,7 +4168,10 @@
               "published_at": "Thu, 17 Sep 2026 15:53:13 +0000"
             }
           ],
-          "route": "/hot/2026-09-18/topic/selecting-a-vector-store-for-amazon-bedrock-knowledge-bases/"
+          "route": "/hot/2026-09-18/topic/selecting-a-vector-store-for-amazon-bedrock-knowledge-bases/",
+          "headline_zh": "为 Amazon Bedrock Knowledge Bases 选择向量存储",
+          "summary_short_zh": "AWS 比较使用 Amazon Bedrock Knowledge Bases 的检索增强生成应用的向量存储选项。比较涉及性能和成本,包括 Amazon OpenSearch Service 和 Amazon Aurora PostgreSQL",
+          "why_it_matters_zh": "此教程在 1 个独立来源中出现。"
         },
         {
           "topic_id": "8387a4a50dbb",
