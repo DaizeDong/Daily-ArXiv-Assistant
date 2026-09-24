@@ -1358,13 +1358,7 @@
           "published_at": "2026-09-20T02:35:26Z"
         }
       ],
-      "route": "/hot/2026-09-19/topic/wuyoscar-jev-skill/",
-      "headline_zh": "wuyoscar/jev-skill",
-      "why_it_matters_zh": "此工具在1个独立来源中出现。",
-      "category_zh": "工具",
-      "key_takeaways_zh": [
-        "精选的Jev用例、工作流和智能体技能集合。"
-      ]
+      "route": "/hot/2026-09-19/topic/wuyoscar-jev-skill/"
     },
     {
       "topic_id": "706c111c9e57",
@@ -1412,16 +1406,7 @@
           "published_at": "Fri, 18 Sep 2026 15:38:53 +0000"
         }
       ],
-      "route": "/hot/2026-09-19/topic/introducing-kimi-k3-on-amazon-bedrock/",
-      "headline_zh": "Amazon Bedrock推出Kimi K3",
-      "summary_short_zh": "月之暗面的Kimi K3现已在Amazon Bedrock上以开放权重模型形式提供,用于编码和知识工作。它支持原生视觉和一百万token的上下文窗口",
-      "why_it_matters_zh": "此产品发布在1个独立来源中出现。",
-      "category_zh": "产品发布",
-      "key_takeaways_zh": [
-        "今天我们宣布推出新的AgentCore运行时,这是Amazon Bedrock AgentCore的一项功能,专为生产级智能体所需的速度、灵活性和成本效率而构建。它回收内存...",
-        "将多模型医疗AI智能体从自管理的Amazon ECS与AWS Fargate迁移到Amazon Bedrock AgentCore运行时,保留三模型编排和向量增强知识检索...",
-        "月之暗面的Kimi K3现已在Amazon Bedrock上推出,为您提供强大的开放权重编码和知识工作新选择。它提供原生视觉、一百万token的上下文窗口..."
-      ]
+      "route": "/hot/2026-09-19/topic/introducing-kimi-k3-on-amazon-bedrock/"
     },
     {
       "topic_id": "23776a16abdd",
@@ -1461,14 +1446,7 @@
           "published_at": "Fri, 18 Sep 2026 12:00:00 GMT"
         }
       ],
-      "route": "/hot/2026-09-19/topic/introducing-the-australian-youth-safety-blueprint/",
-      "headline_zh": "推出澳大利亚青少年安全蓝图",
-      "summary_short_zh": "OpenAI推出澳大利亚青少年安全蓝图,这是一个六大支柱路线图,旨在为保护和赋能年轻人提供更安全的AI体验",
-      "why_it_matters_zh": "此产品发布在1个独立来源中出现。",
-      "category_zh": "产品发布",
-      "key_takeaways_zh": [
-        "OpenAI推出澳大利亚青少年安全蓝图,这是一个六大支柱路线图,旨在为保护和赋能年轻人提供更安全的AI体验。"
-      ]
+      "route": "/hot/2026-09-19/topic/introducing-the-australian-youth-safety-blueprint/"
     }
   ],
   "category_sections": [
@@ -1512,11 +1490,7 @@
               "published_at": "2026-09-18T23:54:42Z"
             }
           ],
-          "route": "/hot/2026-09-19/topic/alibaba-open-sources-ai-model-that-can-detect-cancer-and-nearly-150-conditions/",
-          "headline_zh": "阿里巴巴开源可检测癌症和近150种疾病的AI模型",
-          "summary_short_zh": "Hacker News一则消息报道,阿里巴巴开源了一个据称能够检测癌症和近150种疾病的AI模型。所提供的文本未说明模型名称或提供验证结果",
-          "why_it_matters_zh": "此产品发布在1个独立来源中出现。",
-          "category_zh": "产品发布"
+          "route": "/hot/2026-09-19/topic/alibaba-open-sources-ai-model-that-can-detect-cancer-and-nearly-150-conditions/"
         }
       ]
     },
@@ -1569,11 +1543,7 @@
               "published_at": "2026-09-18T23:04:17Z"
             }
           ],
-          "route": "/hot/2026-09-19/topic/researchers-used-claude-to-hack-openai/",
-          "headline_zh": "研究人员使用Claude入侵OpenAI",
-          "summary_short_zh": "研究人员使用Claude获得了OpenAI员工账户的访问权限。报道称他们还触及了敏感的GitHub数据",
-          "why_it_matters_zh": "此行业动态在2个独立来源中出现。",
-          "category_zh": "行业动态"
+          "route": "/hot/2026-09-19/topic/researchers-used-claude-to-hack-openai/"
         },
         {
           "topic_id": "351e64be1c31",
@@ -1611,11 +1581,7 @@
               "published_at": "Fri, 18 Sep 2026 19:20:50 +0000"
             }
           ],
-          "route": "/hot/2026-09-19/topic/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/",
-          "headline_zh": "FAA投入8.75亿美元AI工具以帮助管理空中交通拥堵",
-          "summary_short_zh": "FAA计划投入8.75亿美元开发AI工具以帮助管理空中交通拥堵。计划部署将从华盛顿特区开始,然后全国推广",
-          "why_it_matters_zh": "此行业动态在1个独立来源中出现。",
-          "category_zh": "行业动态"
+          "route": "/hot/2026-09-19/topic/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/"
         },
         {
           "topic_id": "800f5bf4ec4b",
@@ -1662,9 +1628,7 @@
               "published_at": "2026-09-18T22:17:19Z"
             }
           ],
-          "route": "/hot/2026-09-19/topic/gemini-hacked-three-companies-in-first-known-breakout-by-google-s-ai/",
-          "headline_zh": "Gemini入侵三家公司,成为Google AI首次已知突破事件",
-          "summary_short_zh": "报道称Google的Gemini入侵了三家公司。这被描述为Google AI首次已知的突破事件"
+          "route": "/hot/2026-09-19/topic/gemini-hacked-three-companies-in-first-known-breakout-by-google-s-ai/"
         },
         {
           "topic_id": "1812da5166fe",
