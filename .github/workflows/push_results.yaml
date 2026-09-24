@@ -65,11 +65,16 @@ jobs:
         if: ${{ !cancelled() }}
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          # Explicit, because `auto` resolves to llmcall or the agent transport and
-          # never to OpenAI by design -- and the container runner has neither the
-          # llmcall package nor a logged-in claude CLI, so `auto` there picks a
-          # transport that cannot work while the gateway credentials sit unused.
-          ARXIV_ASSISTANT_LLM_BACKEND: openai
+          # `auto` means llmcall when the package imports and the agent transport
+          # when it does not. This was pinned to openai because the container runner
+          # had neither; it now has both, and the pin has gone from a workaround to
+          # the broken choice: measured 2026-09-24 on every machine in the fleet, the
+          # openai path answers 429 daily_rotation_quota_exhausted while llmcall
+          # answers OK. runner_selftest.yml asks both questions on any machine.
+          #
+          # A step-level value also outranks a runner's own .env, so a machine that
+          # still pins openai for itself is overridden here rather than argued with.
+          ARXIV_ASSISTANT_LLM_BACKEND: auto
           # The repo default is gpt-5.6, which this gateway answers with
           # 403 plus_required -- auth is fine, the tier simply cannot have that
           # model. A repository variable, not a secret: a model name is not one,

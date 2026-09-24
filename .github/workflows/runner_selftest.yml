@@ -200,11 +200,27 @@ jobs:
               ids = sorted(m.get("id", "?") for m in (data.get("data") or []))
               return f"{len(ids)} offered: " + ", ".join(ids[:60])
 
+          # A QUOTA IS NOT A PROPERTY OF THIS MACHINE. Everything else this file
+          # asserts is: a WSL bash, an interpreter setup-python cannot serve, a dead
+          # scheduler. A daily allowance that has run out says nothing about the box
+          # under test, and failing the machine for it makes the selftest permanently
+          # red -- which is how a check stops being read at all, the outcome the note
+          # at the top of this file is about. Reported loudly, not fatal; every other
+          # refusal, including an auth error or a model the endpoint will not serve,
+          # still fails.
+          QUOTA_MARKERS = ("quota_exhausted", "insufficient_quota", "rate_limit_exceeded")
+          quota_hit = []
+
           def try_once(label):
               try:
                   r = llm_gateway.call("Reply with exactly: OK", timeout_s=120)
               except Exception as exc:
-                  print(f"  {label:24} FAIL  {str(exc)[:110]}")
+                  detail = str(exc)
+                  if any(m in detail for m in QUOTA_MARKERS):
+                      quota_hit.append(label)
+                      print(f"  {label:24} QUOTA {detail[:110]}")
+                      return False
+                  print(f"  {label:24} FAIL  {detail[:110]}")
                   return False
               text = (r.text or "").strip()
               print(f"  {label:24} ok    {r.backend}/{r.provider or '-'} -> {text[:20]!r}")
@@ -225,13 +241,17 @@ jobs:
               print(f"answered     : {', '.join(working) if working else '(none)'}")
               if not working:
                   print(f"gateway says : {offered()}")
-              sys.exit(0 if working else 1)
+              sys.exit(0 if (working or (quota_hit and len(quota_hit) == len(results))) else 1)
 
           asked = os.environ.get("ARXIV_ASSISTANT_LLM_MODEL") or "(from config)"
           print(f"model asked  : {asked}")
           if try_once(asked):
               sys.exit(0)
           print(f"gateway says : {offered()}")
+          if quota_hit:
+              print("legacy openai path is out of allowance, which is an account fact "
+                    "rather than a machine one; the default transport was proved above")
+              sys.exit(0)
           sys.exit(1)
           PY
 

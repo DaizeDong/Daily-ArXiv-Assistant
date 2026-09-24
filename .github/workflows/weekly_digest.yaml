@@ -109,11 +109,21 @@ jobs:
           # setup-python is isolated from the machine's interpreters. Ask each
           # candidate where llmcall lives and install that path here, so the
           # gateway gets the chain instead of the single-provider fallback.
-          SRC=""
-          for CAND in py -3 python3 python; do
-            SRC=$($CAND -c "import llmcall, os; print(os.path.dirname(os.path.dirname(llmcall.__file__)))" 2>/dev/null) && [ -n "$SRC" ] && break
-            SRC=""
-          done
+          # The chain runs CLIs, and setup-python hands the job an environment that
+          # does not include where they live. Without this llmcall reports "cannot run
+          # codex (spawn codex ENOENT)" on a machine that has codex in ~/.local/bin.
+          export PATH="$HOME/.local/bin:/workspace/tools/bin:$PATH"
+          # One candidate per loop item. `for CAND in py -3 python3 python` reads as
+          # four words, so it ran `py -c` without its version flag and then tried to
+          # execute `-3` as a command; it worked on Windows by accident.
+          SRC="${LLMCALL_SRC:-}"
+          if [ -z "$SRC" ]; then
+            for CAND in "py -3" python3 python; do
+              SRC=$($CAND -c "import llmcall, os; print(os.path.dirname(os.path.dirname(llmcall.__file__)))" 2>/dev/null) && [ -n "$SRC" ] && break
+              SRC=""
+            done
+          fi
+          [ -z "$SRC" ] && [ -d /workspace/tools/llmcall ] && SRC=/workspace/tools/llmcall
           if [ -z "$SRC" ]; then
             echo "No interpreter on this machine has llmcall; the agent transport will be used."
             exit 0
@@ -127,11 +137,16 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          # Explicit, because `auto` resolves to llmcall or the agent transport and
-          # never to OpenAI by design -- and the container runner has neither the
-          # llmcall package nor a logged-in claude CLI, so `auto` there picks a
-          # transport that cannot work while the gateway credentials sit unused.
-          ARXIV_ASSISTANT_LLM_BACKEND: openai
+          # `auto` means llmcall when the package imports and the agent transport
+          # when it does not. This was pinned to openai because the container runner
+          # had neither; it now has both, and the pin has gone from a workaround to
+          # the broken choice: measured 2026-09-24 on every machine in the fleet, the
+          # openai path answers 429 daily_rotation_quota_exhausted while llmcall
+          # answers OK. runner_selftest.yml asks both questions on any machine.
+          #
+          # A step-level value also outranks a runner's own .env, so a machine that
+          # still pins openai for itself is overridden here rather than argued with.
+          ARXIV_ASSISTANT_LLM_BACKEND: auto
           # The repo default is gpt-5.6, which this gateway answers with
           # 403 plus_required -- auth is fine, the tier simply cannot have that
           # model. A repository variable, not a secret: a model name is not one,
