@@ -10,7 +10,7 @@ Hacker News, X and Reddit, and writes a short digest of what mattered that day.
 模型仓库、GitHub、Hacker News、X 与 Reddit 的 AI 资讯，分享以供交流。
 
 No model API key is needed. Every model call goes through one gateway that prefers the keyless
-[llmcall](https://github.com/DaizeDong/llmcall) chain and falls back to the local `claude` CLI.
+[llmcall](https://github.com/DaizeDong/llmcall) chain and falls back to the local `claude` CLI. Local automatic selection keeps this fallback. Scheduled workflows explicitly require `llmcall`: `scripts/bootstrap_llmcall.py` prepares the selected Python interpreter and exports the CLI paths for subsequent steps through `GITHUB_PATH`. Set `LLMCALL_SRC` to an installable checkout when the package is not installed already. A missing package or invalid explicit source fails initialization rather than silently selecting another backend. `--probe` additionally checks a live reply.
 
 **Site:** [Daily papers and hotspots](https://daizedong.github.io/Daily-ArXiv-Assistant/)
 

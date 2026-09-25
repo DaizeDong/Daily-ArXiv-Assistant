@@ -88,54 +88,15 @@ jobs:
             *) echo "FAIL: expected 3.12.x from setup-python" >&2; exit 1 ;;
           esac
 
-      - name: Can this machine reach llmcall, and what does `auto` resolve to
+      - name: Initialize the job model transport
         shell: bash
         run: |
-          # THE SELFTEST BELOW PINS openai, so it proves a backend the production
-          # workflows do not choose by default. `auto` resolves to llmcall when the
-          # package imports and to the agent transport when it does not, and which one
-          # a machine lands on is invisible from the outside: both answer, one of them
-          # through a chain that crosses model families and one through a single CLI.
-          #
-          # This asks the question directly, and asks it BEFORE the pin, so a machine
-          # can be told apart from the workflow's opinion of it.
-          # The chain runs CLIs, and setup-python hands the job an environment that does
-          # not include where they live. Without this llmcall reports "cannot run codex
-          # (spawn codex ENOENT)" on a machine that has codex sitting in ~/.local/bin.
-          export PATH="$HOME/.local/bin:/workspace/tools/bin:$PATH"
           python -m pip install --quiet -r requirements.txt
-
-          # Where does this machine keep llmcall? An interpreter that already has it,
-          # an explicit LLMCALL_SRC for a machine that keeps it somewhere of its own,
-          # or the container's tools directory. Tried in that order.
-          SRC="${LLMCALL_SRC:-}"
-          if [ -z "$SRC" ]; then
-            # One candidate per loop item. `for CAND in py -3 python3 python` reads as
-            # four words, so it ran `py -c ...` without its version flag and then tried
-            # to execute `-3` as a command; it worked on Windows by accident.
-            for CAND in "py -3" python3 python; do
-              SRC=$($CAND -c "import llmcall, os; print(os.path.dirname(os.path.dirname(llmcall.__file__)))" 2>/dev/null) && [ -n "$SRC" ] && break
-              SRC=""
-            done
-          fi
-          [ -z "$SRC" ] && [ -d /workspace/tools/llmcall ] && SRC=/workspace/tools/llmcall
-          if [ -n "$SRC" ]; then
-            echo "llmcall source: $SRC"
-            python -m pip install --quiet "$SRC" || echo "  install from $SRC failed"
-          else
-            echo "llmcall source: none found on this machine"
-          fi
-
-          python - <<'PY'
-          from arxiv_assistant.utils import llm_gateway as g
-          print("llmcall importable:", g.llmcall_available())
-          print("available backends:", g.available_backends())
-          print("auto resolves to  :", g.resolve_backend("auto"))
-          PY
+          python scripts/bootstrap_llmcall.py --probe
 
       - name: The transport `auto` picks actually answers
         env:
-          ARXIV_ASSISTANT_LLM_BACKEND: auto
+          ARXIV_ASSISTANT_LLM_BACKEND: llmcall
         shell: bash
         run: |
           export PATH="$HOME/.local/bin:/workspace/tools/bin:$PATH"

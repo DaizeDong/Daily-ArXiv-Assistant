@@ -109,6 +109,10 @@ jobs:
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
+      - name: Initialize the job model transport
+        shell: bash
+        run: python scripts/bootstrap_llmcall.py
+
       - name: Rebuild hotspot web data
         shell: bash
         run: |
@@ -118,16 +122,8 @@ jobs:
         continue-on-error: true
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          # `auto` means llmcall when the package imports and the agent transport
-          # when it does not. This was pinned to openai because the container runner
-          # had neither; it now has both, and the pin has gone from a workaround to
-          # the broken choice: measured 2026-09-24 on every machine in the fleet, the
-          # openai path answers 429 daily_rotation_quota_exhausted while llmcall
-          # answers OK. runner_selftest.yml asks both questions on any machine.
-          #
-          # A step-level value also outranks a runner's own .env, so a machine that
-          # still pins openai for itself is overridden here rather than argued with.
-          ARXIV_ASSISTANT_LLM_BACKEND: auto
+          # Explicit backend: bootstrap validates the installed chain before work starts.
+          ARXIV_ASSISTANT_LLM_BACKEND: llmcall
           # The repo default is gpt-5.6, which this gateway answers with
           # 403 plus_required -- auth is fine, the tier simply cannot have that
           # model. A repository variable, not a secret: a model name is not one,
