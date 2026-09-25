@@ -1952,7 +1952,15 @@
           "published_at": "Tue, 22 Sep 2026 03:48:05 +0000"
         }
       ],
-      "route": "/hot/2026-09-22/topic/qwen4/"
+      "route": "/hot/2026-09-22/topic/qwen4/",
+      "headline_zh": "阿里公布全模态模型新进展，Qwen4和下代视频模型均在训练中",
+      "summary_short_zh": "9月22日， 2026云栖大会开幕，阿里巴巴公布大模型最新进展。",
+      "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+      "category_zh": "行业动态",
+      "key_takeaways_zh": [
+        "9月22日， 2026云栖大会开幕，阿里巴巴公布大模型最新进展。",
+        "未来Qwen4.5、Qwen5等版本将扩展至5-10T参数。"
+      ]
     },
     {
       "topic_id": "84db82354209",
@@ -1992,7 +2000,14 @@
           "published_at": "Tue, 22 Sep 2026 02:52:05 +0000"
         }
       ],
-      "route": "/hot/2026-09-22/topic/1000/"
+      "route": "/hot/2026-09-22/topic/1000/",
+      "headline_zh": "阿里吴泳铭最新演讲：未来机器思考的总量将达到人类的1000倍以上",
+      "summary_short_zh": "9月22日，在2026杭州云栖大会上，阿里巴巴集团CEO吴泳铭发表最新演讲，阐述了对“机器智能”时代的思考。",
+      "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+      "category_zh": "行业动态",
+      "key_takeaways_zh": [
+        "9月22日，在2026杭州云栖大会上，阿里巴巴集团CEO吴泳铭发表最新演讲，阐述了对“机器智能”时代的思考。"
+      ]
     },
     {
       "topic_id": "b8305cbbfeab",
@@ -2039,7 +2054,15 @@
           "published_at": "2026-09-21T15:39:51.000Z"
         }
       ],
-      "route": "/hot/2026-09-22/topic/xiaomi-mimo-released-mimo-v2-6-flash-rl/"
+      "route": "/hot/2026-09-22/topic/xiaomi-mimo-released-mimo-v2-6-flash-rl/",
+      "headline_zh": "小米 MiMo 发布 MiMo-V2.6-Flash-RL",
+      "summary_short_zh": "XiaomiMiMo/MiMo-V2.6-Flash-RL 的权重已上线模型库。流水线标签：transformers、safetensors、mimo_v2、文本生成、多模态、视觉语言。采集时下载量为 0，点赞数为 276",
+      "why_it_matters_zh": "这次产品发布见于 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "XiaomiMiMo/MiMo-V2.6-Pro-RL 的权重已上线模型库。流水线标签：transformers、safetensors、mimo_v2、文本生成、多模态、视觉语言。采集时下载量为 0，点赞数为 262。",
+        "XiaomiMiMo/MiMo-V2.6-Flash-RL 的权重已上线模型库。流水线标签：transformers、safetensors、mimo_v2、文本生成、多模态、视觉语言。采集时下载量为 0，点赞数为 276……"
+      ]
     }
   ],
   "category_sections": [
@@ -2083,7 +2106,11 @@
               "published_at": "Mon, 21 Sep 2026 18:30:34 +0000"
             }
           ],
-          "route": "/hot/2026-09-22/topic/xai-s-grok-4-6-is-now-available-in-amazon-bedrock/"
+          "route": "/hot/2026-09-22/topic/xai-s-grok-4-6-is-now-available-in-amazon-bedrock/",
+          "headline_zh": "xAI 的 Grok 4.6 现已上线 Amazon Bedrock",
+          "summary_short_zh": "xAI 的 Grok 4.6 现已上线 Amazon Bedrock，可用于长时间运行的智能体、编程和知识工作。该模型提供 50 万 token 的上下文窗口和四档推理强度",
+          "why_it_matters_zh": "这次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -2127,7 +2154,11 @@
               "published_at": "Mon, 21 Sep 2026 23:44:28 +0000"
             }
           ],
-          "route": "/hot/2026-09-22/topic/the-man-who-built-apple-s-stores-doesn-t-buy-silicon-valley-s-bet-on-ai-shopping/"
+          "route": "/hot/2026-09-22/topic/the-man-who-built-apple-s-stores-doesn-t-buy-silicon-valley-s-bet-on-ai-shopping/",
+          "headline_zh": "苹果零售店的缔造者不看好硅谷对 AI 购物的押注",
+          "summary_short_zh": "Apple Store 的缔造者 Ron Johnson 表示，苹果的成功秘诀始终在于员工",
+          "why_it_matters_zh": "这起收购见于 1 个独立来源。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "e6e7ad2c61c3",
@@ -2165,7 +2196,11 @@
               "published_at": "2026-09-21T09:36:52-04:00"
             }
           ],
-          "route": "/hot/2026-09-22/topic/iphone-owners-can-now-submit-claims-in-apple-s-250-million-siri-ai-settlement/"
+          "route": "/hot/2026-09-22/topic/iphone-owners-can-now-submit-claims-in-apple-s-250-million-siri-ai-settlement/",
+          "headline_zh": "iPhone 机主现可就苹果 2.5 亿美元 Siri AI 和解案申请赔偿",
+          "summary_short_zh": "苹果将支付 2.5 亿美元，就其未能推出 AI 升级版 Siri 的指控达成和解。如今，符合条件的 iPhone 机主可申请赔偿。如果你居住在美国，购买了 iPhone 15 Pro、iPhone 15 Pro Max 或任意一款 iPhone 16，且购买日期在 2024 年 6 月 10 日至",
+          "why_it_matters_zh": "这笔融资见于 1 个独立来源。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -2209,7 +2244,11 @@
               "published_at": "Tue, 22 Sep 2026 02:59:29 +0000"
             }
           ],
-          "route": "/hot/2026-09-22/topic/ai-ai-ai/"
+          "route": "/hot/2026-09-22/topic/ai-ai-ai/",
+          "headline_zh": "阿里巴巴：机器智能时代，坚定投入AI模型 AI芯片 AI云三大基石",
+          "summary_short_zh": "吴泳铭表示，阿里巴巴将坚定投入AI模型、AI芯片和AI云这三项基础设施建设，这是阿里的长期战略选择。",
+          "why_it_matters_zh": "这条其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "c01b537e426b",
@@ -2259,7 +2298,11 @@
               "published_at": "Mon, 21 Sep 2026 12:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-09-22/topic/advisory-group-on-mathematics-and-artificial-intelligence/"
+          "route": "/hot/2026-09-22/topic/advisory-group-on-mathematics-and-artificial-intelligence/",
+          "headline_zh": "数学与人工智能咨询小组",
+          "summary_short_zh": "OpenAI 正与独立的数学与人工智能咨询小组合作，为新近 AI 成果的评审与传播提供指导",
+          "why_it_matters_zh": "这条其他类消息见于 3 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "dd146692b471",
@@ -2297,7 +2340,11 @@
               "published_at": "Mon, 21 Sep 2026 12:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-09-22/topic/higgsfield-ai-ships-new-video-features-in-a-day-with-gpt-6-astra/"
+          "route": "/hot/2026-09-22/topic/higgsfield-ai-ships-new-video-features-in-a-day-with-gpt-6-astra/",
+          "headline_zh": "Higgsfield AI 借助 GPT-6 Astra，一天内推出视频新功能",
+          "summary_short_zh": "OpenAI 介绍了 Higgsfield AI 如何借助 GPT-6 Astra 在一天内推出视频新功能。该案例研究重点介绍如何简化小企业的视频广告制作，并加快创意工具开发",
+          "why_it_matters_zh": "这则行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "c6ff4b971dfb",
@@ -2344,7 +2391,10 @@
               "published_at": "Mon, 21 Sep 2026 17:55:18 +0000"
             }
           ],
-          "route": "/hot/2026-09-22/topic/amazon-blocks-meta-s-muse-ai-agent/"
+          "route": "/hot/2026-09-22/topic/amazon-blocks-meta-s-muse-ai-agent/",
+          "headline_zh": "亚马逊封禁 Meta 的 Muse AI 智能体",
+          "why_it_matters_zh": "这则其他类消息见于 2 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "800f5bf4ec4b",
@@ -2382,7 +2432,10 @@
               "published_at": "Mon, 21 Sep 2026 16:57:26 +0000"
             }
           ],
-          "route": "/hot/2026-09-22/topic/gemini-hacked-three-companies-in-first-known-breakout-by-google-s-ai/"
+          "route": "/hot/2026-09-22/topic/gemini-hacked-three-companies-in-first-known-breakout-by-google-s-ai/",
+          "headline_zh": "Gemini 入侵三家公司，谷歌 AI 首次被发现突破限制",
+          "why_it_matters_zh": "这则其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -2426,7 +2479,11 @@
               "published_at": "2026-09-21T22:25:44+00:00"
             }
           ],
-          "route": "/hot/2026-09-22/topic/cloudflare-python-workers-are-now-generally-available/"
+          "route": "/hot/2026-09-22/topic/cloudflare-python-workers-are-now-generally-available/",
+          "headline_zh": "Cloudflare Python Workers 现已正式发布",
+          "summary_short_zh": "<p><strong><a href=\" Python Workers 现已正式发布</a></strong></p> 经过两年的预览期，Cloudflare 的服务端 Workers 平台现已稳定支持运行 Python 代码：\"Python 现已成为 Cloudflare Developer 上获得全面支持的一等语言",
+          "why_it_matters_zh": "这则工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "71829ae96efe",
@@ -2464,7 +2521,11 @@
               "published_at": "2026-09-21T16:29:45-04:00"
             }
           ],
-          "route": "/hot/2026-09-22/topic/california-tightens-rules-on-ai-data-center-energy-and-water-use/"
+          "route": "/hot/2026-09-22/topic/california-tightens-rules-on-ai-data-center-energy-and-water-use/",
+          "headline_zh": "加州收紧 AI 数据中心能耗与用水规定",
+          "summary_short_zh": "据《洛杉矶时报》此前报道，加州州长加文·纽森已签署七项法案，旨在防止 AI 数据中心将水电等公用事业费用转嫁给居民。",
+          "why_it_matters_zh": "这则工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "9be301d9096d",
@@ -2502,7 +2563,11 @@
               "published_at": "2026-09-21T16:22:06Z"
             }
           ],
-          "route": "/hot/2026-09-22/topic/show-hn-foremerge-catch-intent-conflicts-between-parallel-coding-agents/"
+          "route": "/hot/2026-09-22/topic/show-hn-foremerge-catch-intent-conflicts-between-parallel-coding-agents/",
+          "headline_zh": "Show HN：Foremerge，检测并行编程智能体之间的意图冲突",
+          "summary_short_zh": "据介绍，Foremerge 是一款用于检测并行工作的编程智能体之间意图冲突的工具，通过一篇 Show HN 帖子分享。",
+          "why_it_matters_zh": "这则工具动态见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     },
@@ -2546,7 +2611,10 @@
               "published_at": "2026-09-21T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-09-22/topic/modularrsi-modular-and-generalizable-recursive-harness-self-improvement/"
+          "route": "/hot/2026-09-22/topic/modularrsi-modular-and-generalizable-recursive-harness-self-improvement/",
+          "headline_zh": "ModularRSI：模块化、可泛化的运行框架递归自我改进",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "e92e1f550897",
@@ -2584,7 +2652,10 @@
               "published_at": "2026-09-21T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-09-22/topic/alayavista-streaming-world-modeling-from-panoramic-states-to-perspective-video/"
+          "route": "/hot/2026-09-22/topic/alayavista-streaming-world-modeling-from-panoramic-states-to-perspective-video/",
+          "headline_zh": "AlayaVista：从全景状态到透视视角视频的流式世界建模",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "96a1e8a33981",
@@ -2622,7 +2693,11 @@
               "published_at": "2026-09-21T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-09-22/topic/harness-zero-harness-distillation-via-agent-as-harness/"
+          "route": "/hot/2026-09-22/topic/harness-zero-harness-distillation-via-agent-as-harness/",
+          "headline_zh": "Harness-Zero：通过智能体充当运行框架实现框架蒸馏",
+          "summary_short_zh": "Harness-Zero 提出让智能体充当运行框架来实现框架蒸馏。它针对的问题是：外部系统通过协调模型与环境的交互来提升性能，而这些增益依赖于外部系统的部署。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "3e1c8fd8eb73",
@@ -2660,7 +2735,10 @@
               "published_at": "2026-09-21T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-09-22/topic/lynnreal-omni-native-multi-modal-video-generation-for-agentic-visual-workflows/"
+          "route": "/hot/2026-09-22/topic/lynnreal-omni-native-multi-modal-video-generation-for-agentic-visual-workflows/",
+          "headline_zh": "LynnReal-Omni：面向智能体视觉工作流的原生多模态视频生成",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "a053b504b4ed",
@@ -2698,7 +2776,11 @@
               "published_at": "2026-09-21T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-09-22/topic/document-retrieval-aware-chunking-d-rac-universal-retrieval-aware-ingestion-of-enterprise-documents-via-pdf-normalization-and-multimodal-markdown-conversion/"
+          "route": "/hot/2026-09-22/topic/document-retrieval-aware-chunking-d-rac-universal-retrieval-aware-ingestion-of-enterprise-documents-via-pdf-normalization-and-multimodal-markdown-conversion/",
+          "headline_zh": "文档检索感知分块（D-RAC）：通过 PDF 规范化和多模态 Markdown 转换，实现面向检索的企业文档通用导入",
+          "summary_short_zh": "论文提出了 D-RAC，通过 PDF 规范化和多模态 Markdown 转换，实现面向检索的企业文档导入。该方法面向检索增强生成系统，处理 PDF、Word 文档、演示文稿和扫描件等异构输入。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         }
       ]
     }
@@ -2744,7 +2826,11 @@
               "published_at": "2026-09-21T10:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-22/topic/can-john-ternus-find-apple-s-next-big-thing/"
+          "route": "/hot/2026-09-22/topic/can-john-ternus-find-apple-s-next-big-thing/",
+          "headline_zh": "John Ternus 能为苹果找到下一个重磅产品吗？",
+          "summary_short_zh": "今天，我要与 Mark Gurman 聊聊。他是全球消息最灵通的苹果记者，既是彭博社首席苹果记者，也是即将上线的播客 Power On 的主持人。&#160; 本月早些时候，苹果举办了年度 iPhone 硬件发布会，几乎每个细节都有报道。",
+          "why_it_matters_zh": "这条其他类内容见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "e082b9737cf5",
@@ -2782,7 +2868,11 @@
               "published_at": "Mon, 21 Sep 2026 16:24:40 +0000"
             }
           ],
-          "route": "/hot/2026-09-22/topic/reducing-medical-claims-review-time-with-ai-on-aws-the-exl-medical-idp-solution/"
+          "route": "/hot/2026-09-22/topic/reducing-medical-claims-review-time-with-ai-on-aws-the-exl-medical-idp-solution/",
+          "headline_zh": "利用 AWS 上的 AI 缩短医疗理赔审核时间：EXL Medical IDP 解决方案",
+          "summary_short_zh": "EXL 在 AWS 上构建了医疗智能文档处理解决方案，以缩短理赔审核时间。该方案使用 Amazon SageMaker 和 Amazon Bedrock，将文档处理与领域专用大语言模型相结合。",
+          "why_it_matters_zh": "这篇教程见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "426ce215b38c",
@@ -2820,7 +2910,11 @@
               "published_at": "Mon, 21 Sep 2026 16:27:34 +0000"
             }
           ],
-          "route": "/hot/2026-09-22/topic/how-benchling-secured-multi-tenant-ai-agents-with-amazon-bedrock-agentcore/"
+          "route": "/hot/2026-09-22/topic/how-benchling-secured-multi-tenant-ai-agents-with-amazon-bedrock-agentcore/",
+          "headline_zh": "Benchling 如何利用 Amazon Bedrock AgentCore 保障多租户 AI 智能体的安全",
+          "summary_short_zh": "Benchling 构建了纵深防御架构，用于在数千个生命科学领域租户的环境中运行 AI 智能体生成的不可信科研代码。文章介绍了它如何利用 Amazon Bedrock AgentCore 保障这一多租户环境的安全。",
+          "why_it_matters_zh": "这篇教程见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "89fe08604a43",
@@ -2858,7 +2952,10 @@
               "published_at": "2026-09-21T04:42:37Z"
             }
           ],
-          "route": "/hot/2026-09-22/topic/show-hn-mini-agi-dynamic-continual-learning-model-trained-on-8gb-vram/"
+          "route": "/hot/2026-09-22/topic/show-hn-mini-agi-dynamic-continual-learning-model-trained-on-8gb-vram/",
+          "headline_zh": "Show HN：Mini-AGI，使用 8GB 显存训练的动态持续学习模型",
+          "why_it_matters_zh": "这条其他类内容见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "f6e0e30a84a5",
@@ -2896,7 +2993,11 @@
               "published_at": "Mon, 21 Sep 2026 16:34:21 +0000"
             }
           ],
-          "route": "/hot/2026-09-22/topic/run-positron-on-amazon-sagemaker-ai-for-data-science-workflows/"
+          "route": "/hot/2026-09-22/topic/run-positron-on-amazon-sagemaker-ai-for-data-science-workflows/",
+          "headline_zh": "在 Amazon SageMaker AI 上运行 Positron，支持数据科学工作流",
+          "summary_short_zh": "Posit 的 Positron 集成开发环境现已可在 Amazon SageMaker AI 上运行。文章演示了一个数据科学工作流，涉及 Amazon Athena、使用 R 验证特征，以及使用 Python 训练 XGBoost。",
+          "why_it_matters_zh": "这篇教程见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "4fc50a2538be",
@@ -2934,7 +3035,11 @@
               "published_at": "Mon, 21 Sep 2026 16:36:10 +0000"
             }
           ],
-          "route": "/hot/2026-09-22/topic/how-bmw-group-detects-cost-anomalies-across-14-000-cloud-accounts/"
+          "route": "/hot/2026-09-22/topic/how-bmw-group-detects-cost-anomalies-across-14-000-cloud-accounts/",
+          "headline_zh": "宝马集团如何检测 14,000 个云账户中的成本异常",
+          "summary_short_zh": "宝马集团为其 FinOps 平台 CLEA 添加了每日自动成本异常检测功能。该平台监控超过 14,000 个云账户。文章介绍了从依赖仪表盘被动响应到主动检测异常的转变。",
+          "why_it_matters_zh": "这篇教程见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "a09a2725d669",
@@ -2972,7 +3077,10 @@
               "published_at": "2026-09-21T02:05:45Z"
             }
           ],
-          "route": "/hot/2026-09-22/topic/can-i-let-my-ai-agent-run-on-shabbat/"
+          "route": "/hot/2026-09-22/topic/can-i-let-my-ai-agent-run-on-shabbat/",
+          "headline_zh": "我可以让自己的 AI 智能体在安息日运行吗？",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "8afdb6d28688",
@@ -3010,7 +3118,10 @@
               "published_at": "2026-09-21T07:11:55Z"
             }
           ],
-          "route": "/hot/2026-09-22/topic/kev-tiny-jev-like-family-of-decision-models-built-on-top-of-qwen3-5/"
+          "route": "/hot/2026-09-22/topic/kev-tiny-jev-like-family-of-decision-models-built-on-top-of-qwen3-5/",
+          "headline_zh": "Kev：基于 Qwen3.5 构建、类似 Jev 的微型决策模型系列",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
@@ -3052,7 +3163,11 @@
           "published_at": "Tue, 22 Sep 2026 03:13:44 +0000"
         }
       ],
-      "route": "/hot/2026-09-22/topic/2026-east-forward/"
+      "route": "/hot/2026-09-22/topic/2026-east-forward/",
+      "headline_zh": "2026 East Forward出海大会：全球化到达下一站，中国企业如何走得更远",
+      "summary_short_zh": "“潮起之时，靠岸相见”",
+      "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+      "category_zh": "行业动态"
     }
   ],
   "x_buzz": [

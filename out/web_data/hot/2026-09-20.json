@@ -1037,7 +1037,14 @@
           "published_at": "2026-09-20T08:46:47.000Z"
         }
       ],
-      "route": "/hot/2026-09-20/topic/qwen-released-qwen-image-2-1/"
+      "route": "/hot/2026-09-20/topic/qwen-released-qwen-image-2-1/",
+      "headline_zh": "Qwen 发布了 Qwen-Image-2.1",
+      "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "模型平台已上线 Qwen/Qwen-Image-2.1-PE-T2I 的权重。流水线标签：safetensors、qwen3_5、qwen、prompt-rewriting、text-to-image、license:other。采集时有 876 次下载、35 个赞。",
+        "模型平台已上线 Qwen/Qwen-Image-2.1-PE-I2I 的权重。流水线标签：safetensors、qwen3_5、qwen、prompt-rewriting、image-editing、license:other。采集时有 4604 次下载、36 个赞。"
+      ]
     },
     {
       "topic_id": "9c79472c8a5e",
@@ -1075,7 +1082,11 @@
           "published_at": "2026-09-20T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-09-20/topic/deepseek-sharpens-its-reasoning-deepseek-r1-an-affordable-rival-to-openai-s-o1/"
+      "route": "/hot/2026-09-20/topic/deepseek-sharpens-its-reasoning-deepseek-r1-an-affordable-rival-to-openai-s-o1/",
+      "headline_zh": "DeepSeek 提升推理能力：DeepSeek-R1，OpenAI o1 的平价对手",
+      "summary_short_zh": "这则内容介绍了 DeepSeek 的推理模型 DeepSeek-R1。标题将其称为 OpenAI o1 的平价对手。",
+      "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "0acfbc9c60ba",
@@ -1113,7 +1124,10 @@
           "published_at": "2026-09-20T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-09-20/topic/introducing-deeplearning-ai-pro/"
+      "route": "/hot/2026-09-20/topic/introducing-deeplearning-ai-pro/",
+      "headline_zh": "推出 DeepLearning.AI Pro",
+      "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+      "category_zh": "产品发布"
     }
   ],
   "category_sections": [
@@ -1157,7 +1171,11 @@
               "published_at": "2026-09-20T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-20/topic/4-min-read-claude-gets-2-new-features-a-simpler-platform/"
+          "route": "/hot/2026-09-20/topic/4-min-read-claude-gets-2-new-features-a-simpler-platform/",
+          "headline_zh": "阅读需 4 分钟｜Claude 新增 2 项功能，平台更简洁",
+          "summary_short_zh": "标题宣布 Claude 新增两项功能，平台也更简洁。所提供的内容未说明具体功能或平台变化。",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "dda902ddb625",
@@ -1195,7 +1213,11 @@
               "published_at": "2026-09-19T15:52:51Z"
             }
           ],
-          "route": "/hot/2026-09-20/topic/show-hn-cua-s1-a-system-one-model-for-computer-use/"
+          "route": "/hot/2026-09-20/topic/show-hn-cua-s1-a-system-one-model-for-computer-use/",
+          "headline_zh": "Show HN：CUA-S1，一款用于计算机操作的系统一模型",
+          "summary_short_zh": "一篇 Show HN 帖子介绍了 CUA-S1，将其称为用于计算机操作的系统一模型。所提供的内容未包含性能结果或开放使用的具体信息。",
+          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -1239,7 +1261,11 @@
               "published_at": "2026-09-20T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-20/topic/a-u-s-strategy-to-secure-geopolitical-advantage-on-an-uncertain-path-to-superintelligence-rand/"
+          "route": "/hot/2026-09-20/topic/a-u-s-strategy-to-secure-geopolitical-advantage-on-an-uncertain-path-to-superintelligence-rand/",
+          "headline_zh": "美国战略：在通往超级智能的不确定道路上确保地缘政治优势（RAND）",
+          "summary_short_zh": "美国战略：在通往超级智能的不确定道路上确保地缘政治优势（RAND",
+          "why_it_matters_zh": "这则其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "93178b2e8d0e",
@@ -1277,7 +1303,11 @@
               "published_at": "2026-09-20T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-20/topic/inside-key-changes-in-data-policies-ox-alpha-revealed-taking-custom-models-beyond-fine-tuning/"
+          "route": "/hot/2026-09-20/topic/inside-key-changes-in-data-policies-ox-alpha-revealed-taking-custom-models-beyond-fine-tuning/",
+          "headline_zh": "解读数据政策的关键变化，揭秘 Ox Alpha，让模型定制超越微调",
+          "summary_short_zh": "The Batch 新闻与洞察：使用编程智能体是 AI 工程的一项关键技能",
+          "why_it_matters_zh": "这则其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "090b3407c648",
@@ -1315,7 +1345,10 @@
               "published_at": "2026-09-20T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-20/topic/4-min-read-openai-incident-report-or-science-fiction/"
+          "route": "/hot/2026-09-20/topic/4-min-read-openai-incident-report-or-science-fiction/",
+          "headline_zh": "阅读需 4 分钟｜OpenAI 事件报告，还是科幻小说？",
+          "why_it_matters_zh": "这则其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "5bf2cfb67b6b",
@@ -1353,7 +1386,11 @@
               "published_at": "2026-09-20T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-20/topic/openai-and-anthropic-fight-it-out-for-the-top-overall-spot-while-google-meta-and-microsoft-all-release-transcription-models/"
+          "route": "/hot/2026-09-20/topic/openai-and-anthropic-fight-it-out-for-the-top-overall-spot-while-google-meta-and-microsoft-all-release-transcription-models/",
+          "headline_zh": "OpenAI 与 Anthropic 争夺综合榜首，Google、Meta 和 Microsoft 均发布语音转写模型",
+          "summary_short_zh": "这篇综述介绍了 OpenAI 与 Anthropic 的综合榜首之争，以及 Google、Meta 和 Microsoft 发布的语音转写模型。开篇评论鼓励 AI 工程师参与产品设计，而不只是按需求实现功能。",
+          "why_it_matters_zh": "本条综述见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "4805f665d331",
@@ -1391,7 +1428,11 @@
               "published_at": "2026-09-20T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-20/topic/meta-s-agent-security-the-navier-stokes-controversy-fraud-on-claude/"
+          "route": "/hot/2026-09-20/topic/meta-s-agent-security-the-navier-stokes-controversy-fraud-on-claude/",
+          "headline_zh": "Meta 的智能体安全、纳维–斯托克斯方程争议、涉及 Claude 的欺诈事件",
+          "summary_short_zh": "这篇综述涵盖了 Meta 的智能体安全、纳维–斯托克斯方程争议，以及涉及 Claude 的欺诈事件。开篇评论讨论了强调 AI 危险性的言论近期产生的影响。",
+          "why_it_matters_zh": "本条综述见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -1435,7 +1476,11 @@
               "published_at": "2026-09-20T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-20/topic/pacing-the-frontier-a-framework-research-agenda-pacing-tech/"
+          "route": "/hot/2026-09-20/topic/pacing-the-frontier-a-framework-research-agenda-pacing-tech/",
+          "headline_zh": "调控前沿发展节奏：框架与研究议程（pacing.tech）",
+          "summary_short_zh": "调控前沿发展节奏：框架与研究议程（pacing.tech",
+          "why_it_matters_zh": "本条工具信息见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "ad33c078929e",
@@ -1473,7 +1518,10 @@
               "published_at": "2026-09-19T19:59:28Z"
             }
           ],
-          "route": "/hot/2026-09-20/topic/openai-s-misalignment-framework-a-tactical-bid-to-preempt-global-ai-governance/"
+          "route": "/hot/2026-09-20/topic/openai-s-misalignment-framework-a-tactical-bid-to-preempt-global-ai-governance/",
+          "headline_zh": "OpenAI 的失对齐框架：试图抢先阻止全球 AI 治理的策略",
+          "why_it_matters_zh": "本条工具信息见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     },
@@ -1517,7 +1565,10 @@
               "published_at": "2026-09-16T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-09-20/topic/can-minimax-h3-reason-about-the-physical-world-an-evaluation-of-omni-modal-generative-model/"
+          "route": "/hot/2026-09-20/topic/can-minimax-h3-reason-about-the-physical-world-an-evaluation-of-omni-modal-generative-model/",
+          "headline_zh": "MiniMax-H3 能对物理世界进行推理吗？全模态生成模型评估",
+          "why_it_matters_zh": "这篇论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "5d780fc9d14c",
@@ -1555,7 +1606,10 @@
               "published_at": "2026-09-15T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-09-20/topic/verifiable-social-reasoning-for-llm-assistants/"
+          "route": "/hot/2026-09-20/topic/verifiable-social-reasoning-for-llm-assistants/",
+          "headline_zh": "面向大语言模型助手的可验证社会推理",
+          "why_it_matters_zh": "这篇论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "bac3cdfd3506",
@@ -1593,7 +1647,10 @@
               "published_at": "2026-09-15T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-09-20/topic/riskchainbench-a-benchmark-for-obfuscated-platform-message-restoration-and-evidence-grounded-web-investigation/"
+          "route": "/hot/2026-09-20/topic/riskchainbench-a-benchmark-for-obfuscated-platform-message-restoration-and-evidence-grounded-web-investigation/",
+          "headline_zh": "RiskChainBench：面向平台混淆消息还原和基于证据的网络调查的基准",
+          "why_it_matters_zh": "这篇论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "7fac29d59a60",
@@ -1631,7 +1688,10 @@
               "published_at": "2026-09-15T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-09-20/topic/reflect-revise-reuse-training-free-skill-evolution-for-gui-agents/"
+          "route": "/hot/2026-09-20/topic/reflect-revise-reuse-training-free-skill-evolution-for-gui-agents/",
+          "headline_zh": "反思、修订、复用：图形界面智能体的免训练技能演化",
+          "why_it_matters_zh": "这篇论文见于 1 个独立来源。",
+          "category_zh": "研究"
         }
       ]
     }
@@ -1677,7 +1737,11 @@
               "published_at": "2026-09-19T18:36:44Z"
             }
           ],
-          "route": "/hot/2026-09-20/topic/lawsuit-says-anthropic-openai-and-others-made-illegal-agreement-on-ai-slowdown/"
+          "route": "/hot/2026-09-20/topic/lawsuit-says-anthropic-openai-and-others-made-illegal-agreement-on-ai-slowdown/",
+          "headline_zh": "诉讼指控 Anthropic、OpenAI 等达成非法协议，减缓 AI 发展",
+          "summary_short_zh": "一项诉讼指控 Anthropic、OpenAI 及其他各方达成非法协议，以减缓 AI 发展。所提供的材料未说明原告身份，也未详述所指协议的内容。",
+          "why_it_matters_zh": "这一行业动向见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "800f5bf4ec4b",
@@ -1715,7 +1779,10 @@
               "published_at": "2026-09-19T11:25:03-04:00"
             }
           ],
-          "route": "/hot/2026-09-20/topic/gemini-hacked-three-companies-in-first-known-breakout-by-google-s-ai/"
+          "route": "/hot/2026-09-20/topic/gemini-hacked-three-companies-in-first-known-breakout-by-google-s-ai/",
+          "headline_zh": "Gemini 入侵三家公司，谷歌 AI 首次被发现突破限制",
+          "why_it_matters_zh": "这则其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "2d50f8c214dd",
@@ -1753,7 +1820,11 @@
               "published_at": "Sat, 19 Sep 2026 15:00:00 +0000"
             }
           ],
-          "route": "/hot/2026-09-20/topic/ai-safety-conversations-have-gotten-unbelievable/"
+          "route": "/hot/2026-09-20/topic/ai-safety-conversations-have-gotten-unbelievable/",
+          "headline_zh": "AI 安全讨论越来越让人难以置信",
+          "summary_short_zh": "本周，两场关于 AI 安全的对话在网上走红，凸显了分辨 AI 信息真假有多难。",
+          "why_it_matters_zh": "这则其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "d1ba313bf7f4",
@@ -1791,7 +1862,11 @@
               "published_at": "Sat, 19 Sep 2026 15:00:00 +0000"
             }
           ],
-          "route": "/hot/2026-09-20/topic/petlibro-s-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/"
+          "route": "/hot/2026-09-20/topic/petlibro-s-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+          "headline_zh": "Petlibro 新款 AI 喂食器革新多猫家庭的喂养方式",
+          "summary_short_zh": "Petlibro 新款 Granary 2 智能喂食器内置电子秤，较贵的型号还配有 AI 摄像头，可精准记录猫咪的进食量和进食时间，不过最先进的健康监测功能需要额外付费订阅。",
+          "why_it_matters_zh": "这则其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "4098ca880d13",
@@ -1829,7 +1904,10 @@
               "published_at": "2026-09-19T18:21:30Z"
             }
           ],
-          "route": "/hot/2026-09-20/topic/microsoft-director-ai-scraping-the-largest-theft-of-labor-in-human-history/"
+          "route": "/hot/2026-09-20/topic/microsoft-director-ai-scraping-the-largest-theft-of-labor-in-human-history/",
+          "headline_zh": "微软总监：AI 数据抓取是“人类历史上最大规模的劳动成果盗窃”",
+          "why_it_matters_zh": "这则其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "0160a546a10b",
@@ -1867,7 +1945,11 @@
               "published_at": "2026-09-19T16:44:40-04:00"
             }
           ],
-          "route": "/hot/2026-09-20/topic/meta-s-muse-is-creepy-but-maybe-not-for-the-reasons-you-think/"
+          "route": "/hot/2026-09-20/topic/meta-s-muse-is-creepy-but-maybe-not-for-the-reasons-you-think/",
+          "headline_zh": "Meta 的 Muse 让人不安，但原因可能和你想的不一样",
+          "summary_short_zh": "Meta 的 Muse 看来是个好用的 AI 助手，但也有点让人不安。部分原因是它新推出的 Mac 应用可以访问“信息”“日历”和“备忘录”。不过，Muse 虽然聪明，却不知道该如何描述自己。",
+          "why_it_matters_zh": "这一观点见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
