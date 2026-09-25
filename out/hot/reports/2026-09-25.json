@@ -1,0 +1,2423 @@
+{
+  "date": "2026-09-25",
+  "generated_at": "2026-09-25T05:04:40.834754+00:00",
+  "mode": "openai",
+  "enrichment": {
+    "backend": "openai",
+    "batches": 4,
+    "batches_failed": 0,
+    "batches_llm": 4,
+    "errors": [],
+    "items": 61,
+    "items_heuristic": 41,
+    "items_llm": 20,
+    "llm_ok": true,
+    "mode_requested": "openai",
+    "path": "mixed",
+    "provider": "openai"
+  },
+  "summary": "• [Market Signal] Lightspeed targets $250M for new India fund, focusing on early-stage AI — This funding surfaced across 1 independent source(s).\n• [Product Release] Introducing Gemini 3.8 Live with Live Avatar — This product release surfaced across 2 independent source(s).\n• [Product Release] Accelerating GPT-5.6 Sol Ultrafast — This product release surfaced across 1 independent source(s).",
+  "source_stats": {
+    "ainews": 0,
+    "analysis_feeds": 23,
+    "github_trend": 15,
+    "hf_papers": 4,
+    "hn_discussion": 10,
+    "local_papers": 0,
+    "model_hubs": 1,
+    "official_blogs": 30,
+    "reddit": 0,
+    "roundup_sites": 15,
+    "x_ainews_twitter": 0,
+    "x_twitterapi": 0
+  },
+  "manifest": {
+    "synthesize_model": "claude-sonnet-5",
+    "synthesize_rejected": [
+      "5596bcc526c4",
+      "eea587f12284",
+      "bf634443241c"
+    ],
+    "synthesize_temperature": 0
+  },
+  "totals": {
+    "raw_items": 77,
+    "enriched_items": 0,
+    "stories": 0,
+    "featured": 3,
+    "watchlist": 1,
+    "category_topics": 12,
+    "long_tail_topics": 8,
+    "paper_spotlight_items": 1
+  },
+  "costs": {
+    "prompt": 0.0,
+    "completion": 0.0,
+    "total": 0.0
+  },
+  "usage": {
+    "llm": {
+      "provider": "openai",
+      "backend": "openai",
+      "billing_model": "quota",
+      "screen_model": "gpt-5.6",
+      "summary_model": "gpt-5.6",
+      "requests": 0,
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0,
+      "prompt_cost": 0.0,
+      "completion_cost": 0.0,
+      "total_cost": 0.0
+    },
+    "external": {
+      "ainews": {
+        "provider": "AINews RSS",
+        "billing_model": "free",
+        "requests": 1,
+        "items": 0,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "analysis_feeds": {
+        "provider": "Analysis RSS feeds",
+        "billing_model": "free",
+        "requests": 13,
+        "items": 23,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "github_trend": {
+        "provider": "GitHub API",
+        "billing_model": "free",
+        "requests": 2,
+        "items": 15,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "hf_papers": {
+        "provider": "Hugging Face",
+        "billing_model": "free",
+        "requests": 1,
+        "items": 4,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "hn_discussion": {
+        "provider": "Hacker News API",
+        "billing_model": "free",
+        "requests": 6,
+        "items": 10,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "local_papers": {
+        "provider": "Local cache",
+        "billing_model": "local",
+        "requests": 0,
+        "items": 0,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "model_hubs": {
+        "provider": "Hugging Face model index",
+        "billing_model": "free",
+        "requests": 20,
+        "items": 1,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "official_blogs": {
+        "provider": "Official blogs",
+        "billing_model": "free",
+        "requests": 30,
+        "items": 30,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "reddit": {
+        "provider": "Reddit JSON API",
+        "billing_model": "free",
+        "requests": 0,
+        "items": 0,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "roundup_sites": {
+        "provider": "Roundup sites",
+        "billing_model": "free",
+        "requests": 8,
+        "items": 15,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "x_ainews_twitter": {
+        "provider": "AINews Twitter recap",
+        "billing_model": "free",
+        "requests": 1,
+        "items": 0,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "x_twitterapi": {
+        "provider": "twitterapi.io",
+        "billing_model": "metered",
+        "requests": 0,
+        "items": 0,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      }
+    },
+    "summary": {
+      "external_requests": 82,
+      "x_requests": 1,
+      "estimated_external_cost": 0.0
+    }
+  },
+  "top_topics": [
+    {
+      "ACTIONABILITY": 2.0,
+      "ARTIFACT_BOOST": 0.5,
+      "CONFIDENCE": 5.46,
+      "CROSS_SOURCE_RESONANCE": 1.5,
+      "DISPLAY_PRIORITY": 7.454,
+      "ENGINEERING_PENALTY": 0.0,
+      "EVIDENCE_STRENGTH": 4.1,
+      "FINAL_SCORE": 10.0,
+      "FRONTIERNESS": 8.0,
+      "HEADLINE": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+      "HEAT": 3,
+      "HYPE_PENALTY": 0.3,
+      "IMPORTANCE": 5,
+      "KEEP_IN_DAILY_HOTSPOTS": true,
+      "KEY_TAKEAWAYS": [
+        "The Silicon Valley firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period."
+      ],
+      "LLM_STATUS": "featured",
+      "OCCURRENCE_SCORE": 2.95,
+      "PRIMARY_CATEGORY": "Market Signal",
+      "QUALITY": 9,
+      "SECONDARY_CATEGORIES": [],
+      "SHORT_COMMENT": "The Silicon Valley firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
+      "SUBSTANCE_PENALTY": 0.0,
+      "TECHNICAL_DEPTH": 7.0,
+      "TOPIC_ID": "5596bcc526c4",
+      "WATCHLIST": false,
+      "WHY_IT_MATTERS": "This funding surfaced across 1 independent source(s).",
+      "cluster_id": "5596bcc526c4",
+      "event_type": "funding",
+      "items": [
+        {
+          "authors": [],
+          "canonical_url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai",
+          "metadata": {
+            "feed_id": "techcrunch_ai",
+            "feed_source": "https://techcrunch.com/category/artificial-intelligence/feed/",
+            "signal_tier": "trusted_analysis",
+            "source_quality": 1.3
+          },
+          "provenance": "",
+          "published_at": "Fri, 25 Sep 2026 05:00:00 +0000",
+          "source_id": "analysis_techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "source_role": "editorial_depth",
+          "source_type": "blog_analysis",
+          "summary": "The Silicon Valley firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+          "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai",
+          "verified_first_date": "Fri, 25 Sep 2026 05:00:00 +0000"
+        }
+      ],
+      "published_at": "Fri, 25 Sep 2026 05:00:00 +0000",
+      "source_ids": [
+        "analysis_techcrunch_ai"
+      ],
+      "source_names": [
+        "TechCrunch AI"
+      ],
+      "source_roles": [
+        "editorial_depth"
+      ],
+      "source_types": [
+        "blog_analysis"
+      ],
+      "summary": "The Silicon Valley firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
+      "tags": [
+        "analysis",
+        "deep-read"
+      ],
+      "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI"
+    },
+    {
+      "ACTIONABILITY": 4.0,
+      "ARTIFACT_BOOST": 0.5,
+      "CONFIDENCE": 8.471,
+      "CROSS_SOURCE_RESONANCE": 3.9,
+      "DISPLAY_PRIORITY": 9.022,
+      "ENGINEERING_PENALTY": 0.0,
+      "EVIDENCE_STRENGTH": 7.7,
+      "FINAL_SCORE": 9.503,
+      "FRONTIERNESS": 9.752,
+      "HEADLINE": "Introducing Gemini 3.8 Live with Live Avatar",
+      "HEAT": 5,
+      "HYPE_PENALTY": 0.3,
+      "IMPORTANCE": 9,
+      "KEEP_IN_DAILY_HOTSPOTS": true,
+      "KEY_TAKEAWAYS": [
+        "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" will lip-sync and show different facia..."
+      ],
+      "LLM_STATUS": "featured",
+      "OCCURRENCE_SCORE": 5.6,
+      "PRIMARY_CATEGORY": "Product Release",
+      "QUALITY": 9,
+      "SECONDARY_CATEGORIES": [],
+      "SHORT_COMMENT": "Google DeepMind announced Gemini 3.8 Live with Live Avatar. The supplied item contains no further feature or availability details.",
+      "SUBSTANCE_PENALTY": 0.0,
+      "TECHNICAL_DEPTH": 6.752,
+      "TOPIC_ID": "eea587f12284",
+      "WATCHLIST": false,
+      "WHY_IT_MATTERS": "This product release surfaced across 2 independent source(s).",
+      "cluster_id": "eea587f12284",
+      "event_type": "product_release",
+      "items": [
+        {
+          "authors": [],
+          "canonical_url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar",
+          "metadata": {
+            "is_official": true,
+            "publisher": "DeepMind Blog"
+          },
+          "provenance": "",
+          "published_at": "Thu, 24 Sep 2026 16:20:39 +0000",
+          "source_id": "deepmind_blog",
+          "source_name": "DeepMind Blog",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "summary": "",
+          "tags": [],
+          "title": "Introducing Gemini 3.8 Live with Live Avatar",
+          "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar",
+          "verified_first_date": "Thu, 24 Sep 2026 16:20:39 +0000"
+        },
+        {
+          "authors": [],
+          "canonical_url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+          "metadata": {
+            "feed_id": "theverge_ai",
+            "feed_source": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+            "signal_tier": "trusted_analysis",
+            "source_quality": 1.3
+          },
+          "provenance": "",
+          "published_at": "2026-09-24T15:59:26-04:00",
+          "source_id": "analysis_theverge_ai",
+          "source_name": "The Verge AI",
+          "source_role": "editorial_depth",
+          "source_type": "blog_analysis",
+          "summary": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" will lip-sync and show different facial expressions during conversations, but it's currently only available to Gemini Enterprise customers. As noted by Google, Live Avatar can transition between the 97 [&#8230;]",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "title": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
+          "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+          "verified_first_date": "2026-09-24T15:59:26-04:00"
+        }
+      ],
+      "published_at": "Thu, 24 Sep 2026 16:20:39 +0000",
+      "source_ids": [
+        "analysis_theverge_ai",
+        "deepmind_blog"
+      ],
+      "source_names": [
+        "DeepMind Blog",
+        "The Verge AI"
+      ],
+      "source_roles": [
+        "editorial_depth",
+        "official_news"
+      ],
+      "source_types": [
+        "blog_analysis",
+        "official_blog"
+      ],
+      "summary": "Google DeepMind announced Gemini 3.8 Live with Live Avatar. The supplied item contains no further feature or availability details.",
+      "tags": [
+        "analysis",
+        "deep-read"
+      ],
+      "title": "Introducing Gemini 3.8 Live with Live Avatar"
+    },
+    {
+      "ACTIONABILITY": 4.0,
+      "ARTIFACT_BOOST": 0.5,
+      "CONFIDENCE": 6.21,
+      "CROSS_SOURCE_RESONANCE": 1.5,
+      "DISPLAY_PRIORITY": 7.619,
+      "ENGINEERING_PENALTY": 0.0,
+      "EVIDENCE_STRENGTH": 5.6,
+      "FINAL_SCORE": 9.5,
+      "FRONTIERNESS": 9.75,
+      "HEADLINE": "Accelerating GPT-5.6 Sol Ultrafast",
+      "HEAT": 3,
+      "HYPE_PENALTY": 0.3,
+      "IMPORTANCE": 10,
+      "KEEP_IN_DAILY_HOTSPOTS": true,
+      "KEY_TAKEAWAYS": [],
+      "LLM_STATUS": "featured",
+      "OCCURRENCE_SCORE": 2.95,
+      "PRIMARY_CATEGORY": "Product Release",
+      "QUALITY": 9,
+      "SECONDARY_CATEGORIES": [],
+      "SHORT_COMMENT": "August 13, 2026",
+      "SUBSTANCE_PENALTY": 0.0,
+      "TECHNICAL_DEPTH": 6.75,
+      "TOPIC_ID": "bf634443241c",
+      "WATCHLIST": false,
+      "WHY_IT_MATTERS": "This product release surfaced across 1 independent source(s).",
+      "cluster_id": "bf634443241c",
+      "event_type": "product_release",
+      "items": [
+        {
+          "authors": [],
+          "canonical_url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+          "metadata": {
+            "is_official": true,
+            "publisher": "Cerebras Blog"
+          },
+          "provenance": "",
+          "published_at": "2026-09-24T00:00:00+00:00",
+          "source_id": "cerebras_blog",
+          "source_name": "Cerebras Blog",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "summary": "August 13, 2026",
+          "tags": [],
+          "title": "Accelerating GPT-5.6 Sol Ultrafast",
+          "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+          "verified_first_date": "2026-09-24T00:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-09-24T00:00:00+00:00",
+      "source_ids": [
+        "cerebras_blog"
+      ],
+      "source_names": [
+        "Cerebras Blog"
+      ],
+      "source_roles": [
+        "official_news"
+      ],
+      "source_types": [
+        "official_blog"
+      ],
+      "summary": "August 13, 2026",
+      "tags": [],
+      "title": "Accelerating GPT-5.6 Sol Ultrafast"
+    }
+  ],
+  "featured_topics": [
+    {
+      "ACTIONABILITY": 2.0,
+      "ARTIFACT_BOOST": 0.5,
+      "CONFIDENCE": 5.46,
+      "CROSS_SOURCE_RESONANCE": 1.5,
+      "DISPLAY_PRIORITY": 7.454,
+      "ENGINEERING_PENALTY": 0.0,
+      "EVIDENCE_STRENGTH": 4.1,
+      "FINAL_SCORE": 10.0,
+      "FRONTIERNESS": 8.0,
+      "HEADLINE": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+      "HEAT": 3,
+      "HYPE_PENALTY": 0.3,
+      "IMPORTANCE": 5,
+      "KEEP_IN_DAILY_HOTSPOTS": true,
+      "KEY_TAKEAWAYS": [
+        "The Silicon Valley firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period."
+      ],
+      "LLM_STATUS": "featured",
+      "OCCURRENCE_SCORE": 2.95,
+      "PRIMARY_CATEGORY": "Market Signal",
+      "QUALITY": 9,
+      "SECONDARY_CATEGORIES": [],
+      "SHORT_COMMENT": "The Silicon Valley firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
+      "SUBSTANCE_PENALTY": 0.0,
+      "TECHNICAL_DEPTH": 7.0,
+      "TOPIC_ID": "5596bcc526c4",
+      "WATCHLIST": false,
+      "WHY_IT_MATTERS": "This funding surfaced across 1 independent source(s).",
+      "cluster_id": "5596bcc526c4",
+      "event_type": "funding",
+      "items": [
+        {
+          "authors": [],
+          "canonical_url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai",
+          "metadata": {
+            "feed_id": "techcrunch_ai",
+            "feed_source": "https://techcrunch.com/category/artificial-intelligence/feed/",
+            "signal_tier": "trusted_analysis",
+            "source_quality": 1.3
+          },
+          "provenance": "",
+          "published_at": "Fri, 25 Sep 2026 05:00:00 +0000",
+          "source_id": "analysis_techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "source_role": "editorial_depth",
+          "source_type": "blog_analysis",
+          "summary": "The Silicon Valley firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+          "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai",
+          "verified_first_date": "Fri, 25 Sep 2026 05:00:00 +0000"
+        }
+      ],
+      "published_at": "Fri, 25 Sep 2026 05:00:00 +0000",
+      "source_ids": [
+        "analysis_techcrunch_ai"
+      ],
+      "source_names": [
+        "TechCrunch AI"
+      ],
+      "source_roles": [
+        "editorial_depth"
+      ],
+      "source_types": [
+        "blog_analysis"
+      ],
+      "summary": "The Silicon Valley firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
+      "tags": [
+        "analysis",
+        "deep-read"
+      ],
+      "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI"
+    },
+    {
+      "ACTIONABILITY": 4.0,
+      "ARTIFACT_BOOST": 0.5,
+      "CONFIDENCE": 8.471,
+      "CROSS_SOURCE_RESONANCE": 3.9,
+      "DISPLAY_PRIORITY": 9.022,
+      "ENGINEERING_PENALTY": 0.0,
+      "EVIDENCE_STRENGTH": 7.7,
+      "FINAL_SCORE": 9.503,
+      "FRONTIERNESS": 9.752,
+      "HEADLINE": "Introducing Gemini 3.8 Live with Live Avatar",
+      "HEAT": 5,
+      "HYPE_PENALTY": 0.3,
+      "IMPORTANCE": 9,
+      "KEEP_IN_DAILY_HOTSPOTS": true,
+      "KEY_TAKEAWAYS": [
+        "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" will lip-sync and show different facia..."
+      ],
+      "LLM_STATUS": "featured",
+      "OCCURRENCE_SCORE": 5.6,
+      "PRIMARY_CATEGORY": "Product Release",
+      "QUALITY": 9,
+      "SECONDARY_CATEGORIES": [],
+      "SHORT_COMMENT": "Google DeepMind announced Gemini 3.8 Live with Live Avatar. The supplied item contains no further feature or availability details.",
+      "SUBSTANCE_PENALTY": 0.0,
+      "TECHNICAL_DEPTH": 6.752,
+      "TOPIC_ID": "eea587f12284",
+      "WATCHLIST": false,
+      "WHY_IT_MATTERS": "This product release surfaced across 2 independent source(s).",
+      "cluster_id": "eea587f12284",
+      "event_type": "product_release",
+      "items": [
+        {
+          "authors": [],
+          "canonical_url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar",
+          "metadata": {
+            "is_official": true,
+            "publisher": "DeepMind Blog"
+          },
+          "provenance": "",
+          "published_at": "Thu, 24 Sep 2026 16:20:39 +0000",
+          "source_id": "deepmind_blog",
+          "source_name": "DeepMind Blog",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "summary": "",
+          "tags": [],
+          "title": "Introducing Gemini 3.8 Live with Live Avatar",
+          "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar",
+          "verified_first_date": "Thu, 24 Sep 2026 16:20:39 +0000"
+        },
+        {
+          "authors": [],
+          "canonical_url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+          "metadata": {
+            "feed_id": "theverge_ai",
+            "feed_source": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+            "signal_tier": "trusted_analysis",
+            "source_quality": 1.3
+          },
+          "provenance": "",
+          "published_at": "2026-09-24T15:59:26-04:00",
+          "source_id": "analysis_theverge_ai",
+          "source_name": "The Verge AI",
+          "source_role": "editorial_depth",
+          "source_type": "blog_analysis",
+          "summary": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" will lip-sync and show different facial expressions during conversations, but it's currently only available to Gemini Enterprise customers. As noted by Google, Live Avatar can transition between the 97 [&#8230;]",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "title": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
+          "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+          "verified_first_date": "2026-09-24T15:59:26-04:00"
+        }
+      ],
+      "published_at": "Thu, 24 Sep 2026 16:20:39 +0000",
+      "source_ids": [
+        "analysis_theverge_ai",
+        "deepmind_blog"
+      ],
+      "source_names": [
+        "DeepMind Blog",
+        "The Verge AI"
+      ],
+      "source_roles": [
+        "editorial_depth",
+        "official_news"
+      ],
+      "source_types": [
+        "blog_analysis",
+        "official_blog"
+      ],
+      "summary": "Google DeepMind announced Gemini 3.8 Live with Live Avatar. The supplied item contains no further feature or availability details.",
+      "tags": [
+        "analysis",
+        "deep-read"
+      ],
+      "title": "Introducing Gemini 3.8 Live with Live Avatar"
+    },
+    {
+      "ACTIONABILITY": 4.0,
+      "ARTIFACT_BOOST": 0.5,
+      "CONFIDENCE": 6.21,
+      "CROSS_SOURCE_RESONANCE": 1.5,
+      "DISPLAY_PRIORITY": 7.619,
+      "ENGINEERING_PENALTY": 0.0,
+      "EVIDENCE_STRENGTH": 5.6,
+      "FINAL_SCORE": 9.5,
+      "FRONTIERNESS": 9.75,
+      "HEADLINE": "Accelerating GPT-5.6 Sol Ultrafast",
+      "HEAT": 3,
+      "HYPE_PENALTY": 0.3,
+      "IMPORTANCE": 10,
+      "KEEP_IN_DAILY_HOTSPOTS": true,
+      "KEY_TAKEAWAYS": [],
+      "LLM_STATUS": "featured",
+      "OCCURRENCE_SCORE": 2.95,
+      "PRIMARY_CATEGORY": "Product Release",
+      "QUALITY": 9,
+      "SECONDARY_CATEGORIES": [],
+      "SHORT_COMMENT": "August 13, 2026",
+      "SUBSTANCE_PENALTY": 0.0,
+      "TECHNICAL_DEPTH": 6.75,
+      "TOPIC_ID": "bf634443241c",
+      "WATCHLIST": false,
+      "WHY_IT_MATTERS": "This product release surfaced across 1 independent source(s).",
+      "cluster_id": "bf634443241c",
+      "event_type": "product_release",
+      "items": [
+        {
+          "authors": [],
+          "canonical_url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+          "metadata": {
+            "is_official": true,
+            "publisher": "Cerebras Blog"
+          },
+          "provenance": "",
+          "published_at": "2026-09-24T00:00:00+00:00",
+          "source_id": "cerebras_blog",
+          "source_name": "Cerebras Blog",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "summary": "August 13, 2026",
+          "tags": [],
+          "title": "Accelerating GPT-5.6 Sol Ultrafast",
+          "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+          "verified_first_date": "2026-09-24T00:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-09-24T00:00:00+00:00",
+      "source_ids": [
+        "cerebras_blog"
+      ],
+      "source_names": [
+        "Cerebras Blog"
+      ],
+      "source_roles": [
+        "official_news"
+      ],
+      "source_types": [
+        "official_blog"
+      ],
+      "summary": "August 13, 2026",
+      "tags": [],
+      "title": "Accelerating GPT-5.6 Sol Ultrafast"
+    }
+  ],
+  "category_sections": [
+    {
+      "category": "Product Release",
+      "total_candidates": 2,
+      "topics": [
+        {
+          "ACTIONABILITY": 4.0,
+          "ARTIFACT_BOOST": 0.5,
+          "CONFIDENCE": 6.21,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 6.619,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 5.6,
+          "FINAL_SCORE": 9.5,
+          "FRONTIERNESS": 9.75,
+          "HEADLINE": "How Cerebras serves GPT-5.6 Sol at up to 750 tokens per second",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 10,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Product Release",
+          "QUALITY": 9,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "August 27, 2026",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 6.75,
+          "TOPIC_ID": "36971377d2bb",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This product release surfaced across 1 independent source(s).",
+          "cluster_id": "36971377d2bb",
+          "event_type": "product_release",
+          "items": [
+            {
+              "authors": [],
+              "canonical_url": "https://www.cerebras.ai/blog/how-cerebras-serves-gpt-5-6-sol-at-up-to-750-tokens-per-second",
+              "metadata": {
+                "is_official": true,
+                "publisher": "Cerebras Blog"
+              },
+              "provenance": "",
+              "published_at": "2026-09-24T00:00:00+00:00",
+              "source_id": "cerebras_blog",
+              "source_name": "Cerebras Blog",
+              "source_role": "official_news",
+              "source_type": "official_blog",
+              "summary": "August 27, 2026",
+              "tags": [],
+              "title": "How Cerebras serves GPT-5.6 Sol at up to 750 tokens per second",
+              "url": "https://www.cerebras.ai/blog/how-cerebras-serves-gpt-5-6-sol-at-up-to-750-tokens-per-second",
+              "verified_first_date": "2026-09-24T00:00:00+00:00"
+            }
+          ],
+          "published_at": "2026-09-24T00:00:00+00:00",
+          "source_ids": [
+            "cerebras_blog"
+          ],
+          "source_names": [
+            "Cerebras Blog"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "official_blog"
+          ],
+          "summary": "August 27, 2026",
+          "tags": [],
+          "title": "How Cerebras serves GPT-5.6 Sol at up to 750 tokens per second"
+        },
+        {
+          "ACTIONABILITY": 4.0,
+          "ARTIFACT_BOOST": 0.5,
+          "CONFIDENCE": 5.619,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 5.733,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 5.6,
+          "FINAL_SCORE": 7.531,
+          "FRONTIERNESS": 8.765,
+          "HEADLINE": "Ant Ling released AI-Transparency",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 3,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Product Release",
+          "QUALITY": 7,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "Ant Ling published inclusionAI/AI-Transparency on Hugging Face with documentation and transparency tags. The listing had zero downloads and four likes at collection time.",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 5.765,
+          "TOPIC_ID": "925b629e2f60",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This product release surfaced across 1 independent source(s).",
+          "cluster_id": "925b629e2f60",
+          "event_type": "product_release",
+          "items": [
+            {
+              "authors": [],
+              "canonical_url": "https://huggingface.co/inclusionAI/AI-Transparency",
+              "metadata": {
+                "downloads": 0,
+                "is_official": true,
+                "likes": 4,
+                "model_id": "inclusionAI/AI-Transparency",
+                "publisher": "Ant Ling"
+              },
+              "provenance": "",
+              "published_at": "2026-09-24T08:37:29.000Z",
+              "source_id": "hf_models_inclusionai",
+              "source_name": "Ant Ling on Hugging Face",
+              "source_role": "official_news",
+              "source_type": "model_release",
+              "summary": "Weights for inclusionAI/AI-Transparency appeared on the hub. Pipeline tags: documentation, transparency, en, zh, region:us. 0 downloads, 4 likes at collection time.",
+              "tags": [
+                "documentation",
+                "transparency",
+                "en",
+                "zh",
+                "region:us"
+              ],
+              "title": "Ant Ling released AI-Transparency",
+              "url": "https://huggingface.co/inclusionAI/AI-Transparency",
+              "verified_first_date": "2026-09-24T08:37:29.000Z"
+            }
+          ],
+          "published_at": "2026-09-24T08:37:29.000Z",
+          "source_ids": [
+            "hf_models_inclusionai"
+          ],
+          "source_names": [
+            "Ant Ling on Hugging Face"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "model_release"
+          ],
+          "summary": "Ant Ling published inclusionAI/AI-Transparency on Hugging Face with documentation and transparency tags. The listing had zero downloads and four likes at collection time.",
+          "tags": [
+            "documentation",
+            "en",
+            "region:us",
+            "transparency",
+            "zh"
+          ],
+          "title": "Ant Ling released AI-Transparency"
+        }
+      ]
+    },
+    {
+      "category": "Industry Update",
+      "total_candidates": 18,
+      "topics": [
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 4.253,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 4.644,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 5.978,
+          "FRONTIERNESS": 5.989,
+          "HEADLINE": "Jensen Huang talks about AI and climate change like a supervillain",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 5,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Industry Update",
+          "QUALITY": 5,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "As Jensen Huang puts it, AI can help fight climate change - but only if it inflicts \"an enormous amount of pain and suffering\" first. The Nvidia CEO discussed the future of energy and AI's impact on our planet in the latest episode of The Ezra Klein Show. But his comments boil down to the [&#8230;]",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 4.989,
+          "TOPIC_ID": "38ea5a335815",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This industry move surfaced across 1 independent source(s).",
+          "cluster_id": "38ea5a335815",
+          "event_type": "industry_move",
+          "items": [
+            {
+              "authors": [],
+              "canonical_url": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
+              "metadata": {
+                "feed_id": "theverge_ai",
+                "feed_source": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+                "signal_tier": "trusted_analysis",
+                "source_quality": 1.3
+              },
+              "provenance": "",
+              "published_at": "2026-09-24T14:04:44-04:00",
+              "source_id": "analysis_theverge_ai",
+              "source_name": "The Verge AI",
+              "source_role": "editorial_depth",
+              "source_type": "blog_analysis",
+              "summary": "As Jensen Huang puts it, AI can help fight climate change - but only if it inflicts \"an enormous amount of pain and suffering\" first. The Nvidia CEO discussed the future of energy and AI's impact on our planet in the latest episode of The Ezra Klein Show. But his comments boil down to the [&#8230;]",
+              "tags": [
+                "analysis",
+                "deep-read"
+              ],
+              "title": "Jensen Huang talks about AI and climate change like a supervillain",
+              "url": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
+              "verified_first_date": "2026-09-24T14:04:44-04:00"
+            }
+          ],
+          "published_at": "2026-09-24T14:04:44-04:00",
+          "source_ids": [
+            "analysis_theverge_ai"
+          ],
+          "source_names": [
+            "The Verge AI"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "summary": "As Jensen Huang puts it, AI can help fight climate change - but only if it inflicts \"an enormous amount of pain and suffering\" first. The Nvidia CEO discussed the future of energy and AI's impact on our planet in the latest episode of The Ezra Klein Show. But his comments boil down to the [&#8230;]",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "title": "Jensen Huang talks about AI and climate change like a supervillain"
+        },
+        {
+          "ACTIONABILITY": 4.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 5.03,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 4.849,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 5.6,
+          "FINAL_SCORE": 5.567,
+          "FRONTIERNESS": 7.784,
+          "HEADLINE": "We Taught an AI Agent to QA Our Cloud Console — in Plain English",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 4,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Industry Update",
+          "QUALITY": 5,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "Cerebras reported teaching an AI agent to perform quality assurance on its cloud console using plain English. The blog post is dated September 8, 2026.",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 4.784,
+          "TOPIC_ID": "da7a37887249",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This other surfaced across 1 independent source(s).",
+          "cluster_id": "da7a37887249",
+          "event_type": "other",
+          "items": [
+            {
+              "authors": [],
+              "canonical_url": "https://www.cerebras.ai/blog/we-taught-an-ai-agent-to-qa-our-cloud-console-in-plain-english",
+              "metadata": {
+                "is_official": true,
+                "publisher": "Cerebras Blog"
+              },
+              "provenance": "",
+              "published_at": "2026-09-24T00:00:00+00:00",
+              "source_id": "cerebras_blog",
+              "source_name": "Cerebras Blog",
+              "source_role": "official_news",
+              "source_type": "official_blog",
+              "summary": "September 08, 2026",
+              "tags": [],
+              "title": "We Taught an AI Agent to QA Our Cloud Console — in Plain English",
+              "url": "https://www.cerebras.ai/blog/we-taught-an-ai-agent-to-qa-our-cloud-console-in-plain-english",
+              "verified_first_date": "2026-09-24T00:00:00+00:00"
+            }
+          ],
+          "published_at": "2026-09-24T00:00:00+00:00",
+          "source_ids": [
+            "cerebras_blog"
+          ],
+          "source_names": [
+            "Cerebras Blog"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "official_blog"
+          ],
+          "summary": "Cerebras reported teaching an AI agent to perform quality assurance on its cloud console using plain English. The blog post is dated September 8, 2026.",
+          "tags": [],
+          "title": "We Taught an AI Agent to QA Our Cloud Console — in Plain English"
+        },
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 4.096,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 4.408,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 5.454,
+          "FRONTIERNESS": 5.727,
+          "HEADLINE": "PCIe显卡被低估了！内核补齐+通信重构，DeepSeek推理吞吐翻近7倍",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 6,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Industry Update",
+          "QUALITY": 5,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "QbitAI reports a nearly sevenfold increase in DeepSeek inference throughput using PCIe GPUs through kernel improvements and communication redesign. The summary claims that 1.5 systems using 6000D hardware outperform one B300 system, without supplying benchmark conditions.",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 4.727,
+          "TOPIC_ID": "4a4b619f3e25",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This other surfaced across 1 independent source(s).",
+          "cluster_id": "4a4b619f3e25",
+          "event_type": "other",
+          "items": [
+            {
+              "authors": [],
+              "canonical_url": "https://www.qbitai.com/2026/09/496925.html",
+              "metadata": {
+                "feed_id": "qbitai",
+                "feed_source": "https://www.qbitai.com/feed",
+                "signal_tier": "trusted_analysis",
+                "source_quality": 1.3
+              },
+              "provenance": "",
+              "published_at": "Thu, 24 Sep 2026 14:17:48 +0000",
+              "source_id": "analysis_qbitai",
+              "source_name": "量子位 (QbitAI)",
+              "source_role": "editorial_depth",
+              "source_type": "blog_analysis",
+              "summary": "1.5台6000D跑赢1台B300！",
+              "tags": [
+                "analysis",
+                "deep-read"
+              ],
+              "title": "PCIe显卡被低估了！内核补齐+通信重构，DeepSeek推理吞吐翻近7倍",
+              "url": "https://www.qbitai.com/2026/09/496925.html",
+              "verified_first_date": "Thu, 24 Sep 2026 14:17:48 +0000"
+            }
+          ],
+          "published_at": "Thu, 24 Sep 2026 14:17:48 +0000",
+          "source_ids": [
+            "analysis_qbitai"
+          ],
+          "source_names": [
+            "量子位 (QbitAI)"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "summary": "QbitAI reports a nearly sevenfold increase in DeepSeek inference throughput using PCIe GPUs through kernel improvements and communication redesign. The summary claims that 1.5 systems using 6000D hardware outperform one B300 system, without supplying benchmark conditions.",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "title": "PCIe显卡被低估了！内核补齐+通信重构，DeepSeek推理吞吐翻近7倍"
+        },
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 4.063,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 4.358,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 5.342,
+          "FRONTIERNESS": 5.671,
+          "HEADLINE": "出海Agent“小元AI”入驻腾讯WorkBuddy：找买家写开发信谈生意",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 5,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Industry Update",
+          "QUALITY": 5,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": " ",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 4.671,
+          "TOPIC_ID": "16c64c735047",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This other surfaced across 1 independent source(s).",
+          "cluster_id": "16c64c735047",
+          "event_type": "other",
+          "items": [
+            {
+              "authors": [],
+              "canonical_url": "https://www.qbitai.com/2026/09/496961.html",
+              "metadata": {
+                "feed_id": "qbitai",
+                "feed_source": "https://www.qbitai.com/feed",
+                "signal_tier": "trusted_analysis",
+                "source_quality": 1.3
+              },
+              "provenance": "",
+              "published_at": "Thu, 24 Sep 2026 14:20:14 +0000",
+              "source_id": "analysis_qbitai",
+              "source_name": "量子位 (QbitAI)",
+              "source_role": "editorial_depth",
+              "source_type": "blog_analysis",
+              "summary": "懂出海，能记忆，自进化",
+              "tags": [
+                "analysis",
+                "deep-read"
+              ],
+              "title": "出海Agent“小元AI”入驻腾讯WorkBuddy：找买家写开发信谈生意",
+              "url": "https://www.qbitai.com/2026/09/496961.html",
+              "verified_first_date": "Thu, 24 Sep 2026 14:20:14 +0000"
+            }
+          ],
+          "published_at": "Thu, 24 Sep 2026 14:20:14 +0000",
+          "source_ids": [
+            "analysis_qbitai"
+          ],
+          "source_names": [
+            "量子位 (QbitAI)"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "summary": " ",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "title": "出海Agent“小元AI”入驻腾讯WorkBuddy：找买家写开发信谈生意"
+        },
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 4.063,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 4.358,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 5.342,
+          "FRONTIERNESS": 5.671,
+          "HEADLINE": "GPT-6 Astra开进机器人身体！清华联手无问芯穹等开源RPent",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 5,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Industry Update",
+          "QUALITY": 5,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": " ",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 4.671,
+          "TOPIC_ID": "f80213128774",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This other surfaced across 1 independent source(s).",
+          "cluster_id": "f80213128774",
+          "event_type": "other",
+          "items": [
+            {
+              "authors": [],
+              "canonical_url": "https://www.qbitai.com/2026/09/496816.html",
+              "metadata": {
+                "feed_id": "qbitai",
+                "feed_source": "https://www.qbitai.com/feed",
+                "signal_tier": "trusted_analysis",
+                "source_quality": 1.3
+              },
+              "provenance": "",
+              "published_at": "Thu, 24 Sep 2026 08:20:12 +0000",
+              "source_id": "analysis_qbitai",
+              "source_name": "量子位 (QbitAI)",
+              "source_role": "editorial_depth",
+              "source_type": "blog_analysis",
+              "summary": "人类演示一次，机器人即可实现跨场景任务复用",
+              "tags": [
+                "analysis",
+                "deep-read"
+              ],
+              "title": "GPT-6之后，具身智能走向何方？诺因发布GLOW技术报告，给出机器人“一教就会”的答案",
+              "url": "https://www.qbitai.com/2026/09/496816.html",
+              "verified_first_date": "Thu, 24 Sep 2026 08:20:12 +0000"
+            }
+          ],
+          "published_at": "Thu, 24 Sep 2026 08:20:12 +0000",
+          "source_ids": [
+            "analysis_qbitai"
+          ],
+          "source_names": [
+            "量子位 (QbitAI)"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "summary": " ",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "title": "GPT-6 Astra开进机器人身体！清华联手无问芯穹等开源RPent"
+        }
+      ]
+    },
+    {
+      "category": "Tooling",
+      "total_candidates": 1,
+      "topics": [
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 4.301,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 4.716,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 6.137,
+          "FRONTIERNESS": 6.069,
+          "HEADLINE": "Estimating suicide risk from text",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 5,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Tooling",
+          "QUALITY": 6,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "A new language-processing tool could help identify the highest-risk individuals from natural language, enabling swifter interventions.",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 5.069,
+          "TOPIC_ID": "330bc0f602b0",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This tooling surfaced across 1 independent source(s).",
+          "cluster_id": "330bc0f602b0",
+          "event_type": "tooling",
+          "items": [
+            {
+              "authors": [],
+              "canonical_url": "https://news.mit.edu/2026/estimating-suicide-risk-from-text-0924",
+              "metadata": {
+                "feed_id": "mit_ai_news",
+                "feed_source": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+                "signal_tier": "trusted_analysis",
+                "source_quality": 1.3
+              },
+              "provenance": "",
+              "published_at": "Thu, 24 Sep 2026 17:00:00 -0400",
+              "source_id": "analysis_mit_ai_news",
+              "source_name": "MIT News AI",
+              "source_role": "editorial_depth",
+              "source_type": "blog_analysis",
+              "summary": "A new language-processing tool could help identify the highest-risk individuals from natural language, enabling swifter interventions.",
+              "tags": [
+                "analysis",
+                "deep-read"
+              ],
+              "title": "Estimating suicide risk from text",
+              "url": "https://news.mit.edu/2026/estimating-suicide-risk-from-text-0924",
+              "verified_first_date": "Thu, 24 Sep 2026 17:00:00 -0400"
+            }
+          ],
+          "published_at": "Thu, 24 Sep 2026 17:00:00 -0400",
+          "source_ids": [
+            "analysis_mit_ai_news"
+          ],
+          "source_names": [
+            "MIT News AI"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "summary": "A new language-processing tool could help identify the highest-risk individuals from natural language, enabling swifter interventions.",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "title": "Estimating suicide risk from text"
+        }
+      ]
+    },
+    {
+      "category": "Research",
+      "total_candidates": 4,
+      "topics": [
+        {
+          "ACTIONABILITY": 4.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 5.803,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 6.008,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 5.6,
+          "FINAL_SCORE": 8.143,
+          "FRONTIERNESS": 9.072,
+          "HEADLINE": "The Past Frames the Future: Memory for Autoregressive Video Generation",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 10,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Research",
+          "QUALITY": 7,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": " ",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 6.072,
+          "TOPIC_ID": "fb5882d731b4",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This research paper surfaced across 1 independent source(s).",
+          "cluster_id": "fb5882d731b4",
+          "event_type": "research_paper",
+          "items": [
+            {
+              "authors": [],
+              "canonical_url": "https://research.google/blog/coherent-long-form-video-generation",
+              "metadata": {
+                "is_official": true,
+                "publisher": "Google Research Blog"
+              },
+              "provenance": "",
+              "published_at": "Thu, 24 Sep 2026 19:40:00 +0000",
+              "source_id": "google_research_blog",
+              "source_name": "Google Research Blog",
+              "source_role": "official_news",
+              "source_type": "official_blog",
+              "summary": "Generative AI",
+              "tags": [],
+              "title": "Automating coherent long-form video generation",
+              "url": "https://research.google/blog/coherent-long-form-video-generation",
+              "verified_first_date": "Thu, 24 Sep 2026 19:40:00 +0000"
+            }
+          ],
+          "published_at": "Thu, 24 Sep 2026 19:40:00 +0000",
+          "source_ids": [
+            "google_research_blog"
+          ],
+          "source_names": [
+            "Google Research Blog"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "official_blog"
+          ],
+          "summary": " ",
+          "tags": [],
+          "title": "The Past Frames the Future: Memory for Autoregressive Video Generation"
+        },
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 3.96,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 4.204,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 5.0,
+          "FRONTIERNESS": 6.5,
+          "HEADLINE": "EvolveTrade: Experience-Driven Policy Refinement for Self-Evolving LLM Trading Agents",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 7,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Research",
+          "QUALITY": 6,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": " ",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 4.5,
+          "TOPIC_ID": "31a7e62f9f8c",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This research paper surfaced across 1 independent source(s).",
+          "cluster_id": "31a7e62f9f8c",
+          "event_type": "research_paper",
+          "items": [
+            {
+              "authors": [
+                "Shuang Sun",
+                "Guoxin Chen",
+                "Fanzhe Meng",
+                "Jia Deng",
+                "Huatong Song",
+                "Jinhao Jiang",
+                "Wayne Xin Zhao",
+                "Hongteng Xu",
+                "Ji-Rong Wen"
+              ],
+              "canonical_url": "https://arxiv.org/abs/2609.28416",
+              "metadata": {
+                "ai_summary": "",
+                "arxiv_id": "2609.28416",
+                "daily_score": 11,
+                "github_url": "https://github.com/RUCAIBox/Agent-Editing-World-Model",
+                "hf_url": "https://huggingface.co/papers/2609.28416",
+                "novelty": 0,
+                "relevance": 0,
+                "spotlight_comment": "",
+                "spotlight_primary_kind": "",
+                "spotlight_primary_label": "",
+                "upvotes": 11
+              },
+              "provenance": "",
+              "published_at": "2026-09-23T00:00:00.000Z",
+              "source_id": "hf_papers",
+              "source_name": "Hugging Face Trending Papers",
+              "source_role": "paper_trending",
+              "source_type": "paper",
+              "summary": "Recent advances in large language models (LLMs) have enabled agents to tackle long-horizon tasks across diverse environments. To further improve agent performance, existing language world models typically predict environment observations, yet reconstructing high-entropy, execution-dependent tool responses offers limited value when real feedback is available. Meanwhile, agents suffer from task-state contamination, where unsupported assumptions and outdated plans persist in history and distort subsequent decisions. We propose the Agent-Editing World Model (AEWM), which models how reasoning an...",
+              "tags": [],
+              "title": "Agent-Editing World Model: Rethinking World Modeling for LLM Agents",
+              "url": "https://huggingface.co/papers/2609.28416",
+              "verified_first_date": "2026-09-23T00:00:00.000Z"
+            }
+          ],
+          "published_at": "2026-09-23T00:00:00.000Z",
+          "source_ids": [
+            "hf_papers"
+          ],
+          "source_names": [
+            "Hugging Face Trending Papers"
+          ],
+          "source_roles": [
+            "paper_trending"
+          ],
+          "source_types": [
+            "paper"
+          ],
+          "summary": " ",
+          "tags": [],
+          "title": "EvolveTrade: Experience-Driven Policy Refinement for Self-Evolving LLM Trading Agents"
+        },
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 3.96,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 4.204,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 5.0,
+          "FRONTIERNESS": 6.5,
+          "HEADLINE": "Training Object Permanence in World Models",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 7,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Research",
+          "QUALITY": 6,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "Object permanence and solidity are hallmarks of human cognitive priors. Recent studies show that video generation models, a paradigmatic class of current world models, have begun to show emerged reasoning abilities, making them ideal candidates for building human-like physical intelligence. Do video models have emerged object permanence in them? If not, could we train them with a core-cognition inspired dataset? We introduce WROP (World Reasoning with Object Permanence), a data infrastructure of 150 hand-designed cognitive science inspired tasks, divided into six cognitive categories. We bu...",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 4.5,
+          "TOPIC_ID": "a6a94d5ff580",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This research paper surfaced across 1 independent source(s).",
+          "cluster_id": "a6a94d5ff580",
+          "event_type": "research_paper",
+          "items": [
+            {
+              "authors": [
+                "Haotian Zhang",
+                "Fengyuan Yu",
+                "Dezhi Luo",
+                "Haoran Sun",
+                "Zehong Zhao",
+                "Qingying Gao",
+                "Yihan Li",
+                "Siyuan An",
+                "Huayi Qin",
+                "Yilan Zhang",
+                "Zhengze Jiang",
+                "Pinyuan Feng",
+                "Renrui Zhang",
+                "Ziyu Guo",
+                "Letian Wang",
+                "Mengyue Yang",
+                "Kangfu Mei",
+                "Maijunxian Wang",
+                "Ran Ji",
+                "Vikash Kumar",
+                "Freda Shi",
+                "Chandra Sripada",
+                "Vincent C. Muller",
+                "Philip Torr",
+                "Alan Yuille",
+                "Nikolaus Kriegeskorte",
+                "Felix Juefei-Xu",
+                "Lvmin Zhang",
+                "Jieneng Chen",
+                "Yilun Du",
+                "Hokin Deng"
+              ],
+              "canonical_url": "https://arxiv.org/abs/2609.28654",
+              "metadata": {
+                "ai_summary": "",
+                "arxiv_id": "2609.28654",
+                "daily_score": 24,
+                "github_url": "https://github.com/hokindeng/object-permanence",
+                "hf_url": "https://huggingface.co/papers/2609.28654",
+                "novelty": 0,
+                "relevance": 0,
+                "spotlight_comment": "Object permanence and solidity are hallmarks of human cognitive priors. Recent studies show that video generation models, a paradigmatic class of current world models, have begun to show emerged reasoning abilities, making them ideal candidates for building human-like physical intelligence. Do vi...",
+                "spotlight_primary_kind": "daily_hot",
+                "spotlight_primary_label": "Daily Hot Papers",
+                "upvotes": 24
+              },
+              "provenance": "",
+              "published_at": "2026-09-23T00:00:00.000Z",
+              "source_id": "hf_papers",
+              "source_name": "Hugging Face Trending Papers",
+              "source_role": "paper_trending",
+              "source_type": "paper",
+              "summary": "Object permanence and solidity are hallmarks of human cognitive priors. Recent studies show that video generation models, a paradigmatic class of current world models, have begun to show emerged reasoning abilities, making them ideal candidates for building human-like physical intelligence. Do video models have emerged object permanence in them? If not, could we train them with a core-cognition inspired dataset? We introduce WROP (World Reasoning with Object Permanence), a data infrastructure of 150 hand-designed cognitive science inspired tasks, divided into six cognitive categories. We bu...",
+              "tags": [],
+              "title": "Training Object Permanence in World Models",
+              "url": "https://huggingface.co/papers/2609.28654",
+              "verified_first_date": "2026-09-23T00:00:00.000Z"
+            }
+          ],
+          "published_at": "2026-09-23T00:00:00.000Z",
+          "source_ids": [
+            "hf_papers"
+          ],
+          "source_names": [
+            "Hugging Face Trending Papers"
+          ],
+          "source_roles": [
+            "paper_trending"
+          ],
+          "source_types": [
+            "paper"
+          ],
+          "summary": "Object permanence and solidity are hallmarks of human cognitive priors. Recent studies show that video generation models, a paradigmatic class of current world models, have begun to show emerged reasoning abilities, making them ideal candidates for building human-like physical intelligence. Do video models have emerged object permanence in them? If not, could we train them with a core-cognition inspired dataset? We introduce WROP (World Reasoning with Object Permanence), a data infrastructure of 150 hand-designed cognitive science inspired tasks, divided into six cognitive categories. We bu...",
+          "tags": [],
+          "title": "Training Object Permanence in World Models"
+        },
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 3.001,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 2.765,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 1.803,
+          "FRONTIERNESS": 4.902,
+          "HEADLINE": "OmniEcho: Spatial Audio Understanding for Embodied Agents",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 7,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Research",
+          "QUALITY": 3,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "Humans can effortlessly localize the direction of a sound source and integrate it with visual cues for reasoning, yet this remains challenging for embodied agents. In particular, it is still unclear how to effectively evaluate and model spatial audio understanding in embodied settings. To address this gap, we introduce OmniEchoBench, a unified benchmark for spatial audio-visual perception and audio-vision-language navigation. OmniEchoBench comprises six tasks over 197 real-world spatial audio-visual scenes, 2,972 question-answer pairs, and 900 navigation samples with first-order ambisonics...",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 2.901,
+          "TOPIC_ID": "b6bfc23a713b",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This research paper surfaced across 1 independent source(s).",
+          "cluster_id": "b6bfc23a713b",
+          "event_type": "research_paper",
+          "items": [
+            {
+              "authors": [
+                "Ruixun Liu",
+                "Yuxuan Wang",
+                "Jiacheng Xie",
+                "Yuhuan You",
+                "Donghua Cai",
+                "Junming Lin",
+                "Xiong-Hui Chen",
+                "Zhifang Guo",
+                "Yunfei Chu",
+                "Qize Yang",
+                "Xize Cheng",
+                "Jin Xu",
+                "Yiwu Zhong"
+              ],
+              "canonical_url": "https://arxiv.org/abs/2609.23407",
+              "metadata": {
+                "ai_summary": "",
+                "arxiv_id": "2609.23407",
+                "daily_score": 14,
+                "github_url": "https://github.com/PKU-VaLuE-Lab/OmniEcho",
+                "hf_url": "https://huggingface.co/papers/2609.23407",
+                "novelty": 0,
+                "relevance": 0,
+                "spotlight_comment": "",
+                "spotlight_primary_kind": "",
+                "spotlight_primary_label": "",
+                "upvotes": 14
+              },
+              "provenance": "",
+              "published_at": "2026-09-20T00:00:00.000Z",
+              "source_id": "hf_papers",
+              "source_name": "Hugging Face Trending Papers",
+              "source_role": "paper_trending",
+              "source_type": "paper",
+              "summary": "Humans can effortlessly localize the direction of a sound source and integrate it with visual cues for reasoning, yet this remains challenging for embodied agents. In particular, it is still unclear how to effectively evaluate and model spatial audio understanding in embodied settings. To address this gap, we introduce OmniEchoBench, a unified benchmark for spatial audio-visual perception and audio-vision-language navigation. OmniEchoBench comprises six tasks over 197 real-world spatial audio-visual scenes, 2,972 question-answer pairs, and 900 navigation samples with first-order ambisonics...",
+              "tags": [],
+              "title": "OmniEcho: Spatial Audio Understanding for Embodied Agents",
+              "url": "https://huggingface.co/papers/2609.23407",
+              "verified_first_date": "2026-09-20T00:00:00.000Z"
+            }
+          ],
+          "published_at": "2026-09-20T00:00:00.000Z",
+          "source_ids": [
+            "hf_papers"
+          ],
+          "source_names": [
+            "Hugging Face Trending Papers"
+          ],
+          "source_roles": [
+            "paper_trending"
+          ],
+          "source_types": [
+            "paper"
+          ],
+          "summary": "Humans can effortlessly localize the direction of a sound source and integrate it with visual cues for reasoning, yet this remains challenging for embodied agents. In particular, it is still unclear how to effectively evaluate and model spatial audio understanding in embodied settings. To address this gap, we introduce OmniEchoBench, a unified benchmark for spatial audio-visual perception and audio-vision-language navigation. OmniEchoBench comprises six tasks over 197 real-world spatial audio-visual scenes, 2,972 question-answer pairs, and 900 navigation samples with first-order ambisonics...",
+          "tags": [],
+          "title": "OmniEcho: Spatial Audio Understanding for Embodied Agents"
+        }
+      ]
+    }
+  ],
+  "long_tail_sections": [
+    {
+      "category": "Industry Update",
+      "total_candidates": 13,
+      "topics": [
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 4.063,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 4.358,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 5.342,
+          "FRONTIERNESS": 5.671,
+          "HEADLINE": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 5,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Industry Update",
+          "QUALITY": 5,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 4.671,
+          "TOPIC_ID": "2ba0a1270f3f",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This other surfaced across 1 independent source(s).",
+          "cluster_id": "2ba0a1270f3f",
+          "event_type": "other",
+          "items": [
+            {
+              "authors": [],
+              "canonical_url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses",
+              "metadata": {
+                "feed_id": "techcrunch_ai",
+                "feed_source": "https://techcrunch.com/category/artificial-intelligence/feed/",
+                "signal_tier": "trusted_analysis",
+                "source_quality": 1.3
+              },
+              "provenance": "",
+              "published_at": "Thu, 24 Sep 2026 19:00:42 +0000",
+              "source_id": "analysis_techcrunch_ai",
+              "source_name": "TechCrunch AI",
+              "source_role": "editorial_depth",
+              "source_type": "blog_analysis",
+              "summary": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
+              "tags": [
+                "analysis",
+                "deep-read"
+              ],
+              "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+              "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses",
+              "verified_first_date": "Thu, 24 Sep 2026 19:00:42 +0000"
+            }
+          ],
+          "published_at": "Thu, 24 Sep 2026 19:00:42 +0000",
+          "source_ids": [
+            "analysis_techcrunch_ai"
+          ],
+          "source_names": [
+            "TechCrunch AI"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "summary": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses"
+        },
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 4.063,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 4.358,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 5.342,
+          "FRONTIERNESS": 5.671,
+          "HEADLINE": "Stripe Tour 中国首秀：构建 AI 经济基础设施，赋能全球商业增长",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 5,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Industry Update",
+          "QUALITY": 5,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "Stripe Managed Payments (SMP) 现已全面上线",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 4.671,
+          "TOPIC_ID": "76bbbc220160",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This other surfaced across 1 independent source(s).",
+          "cluster_id": "76bbbc220160",
+          "event_type": "other",
+          "items": [
+            {
+              "authors": [],
+              "canonical_url": "https://www.qbitai.com/2026/09/496779.html",
+              "metadata": {
+                "feed_id": "qbitai",
+                "feed_source": "https://www.qbitai.com/feed",
+                "signal_tier": "trusted_analysis",
+                "source_quality": 1.3
+              },
+              "provenance": "",
+              "published_at": "Thu, 24 Sep 2026 05:46:10 +0000",
+              "source_id": "analysis_qbitai",
+              "source_name": "量子位 (QbitAI)",
+              "source_role": "editorial_depth",
+              "source_type": "blog_analysis",
+              "summary": "Stripe Managed Payments (SMP) 现已全面上线",
+              "tags": [
+                "analysis",
+                "deep-read"
+              ],
+              "title": "Stripe Tour 中国首秀：构建 AI 经济基础设施，赋能全球商业增长",
+              "url": "https://www.qbitai.com/2026/09/496779.html",
+              "verified_first_date": "Thu, 24 Sep 2026 05:46:10 +0000"
+            }
+          ],
+          "published_at": "Thu, 24 Sep 2026 05:46:10 +0000",
+          "source_ids": [
+            "analysis_qbitai"
+          ],
+          "source_names": [
+            "量子位 (QbitAI)"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "summary": "Stripe Managed Payments (SMP) 现已全面上线",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "title": "Stripe Tour 中国首秀：构建 AI 经济基础设施，赋能全球商业增长"
+        },
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 4.045,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 4.332,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 5.285,
+          "FRONTIERNESS": 5.643,
+          "HEADLINE": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 7,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Industry Update",
+          "QUALITY": 5,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "A Hacker News item reports that hackers influenced ChatGPT and Gemini to direct users to scam centers. The supplied text does not identify the attackers or explain the manipulation technique.",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 4.643,
+          "TOPIC_ID": "af0b3a82caf9",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This other surfaced across 1 independent source(s).",
+          "cluster_id": "af0b3a82caf9",
+          "event_type": "other",
+          "items": [
+            {
+              "authors": [
+                "ArielSimon"
+              ],
+              "canonical_url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
+              "metadata": {
+                "hn_comments": 49,
+                "hn_id": "49829387",
+                "hn_score": 134,
+                "host": "medium.com"
+              },
+              "provenance": "",
+              "published_at": "2026-09-24T11:54:38Z",
+              "source_id": "hn_discussion",
+              "source_name": "Hacker News",
+              "source_role": "hn_discussion",
+              "source_type": "discussion",
+              "summary": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
+              "tags": [],
+              "title": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
+              "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
+              "verified_first_date": "2026-09-24T11:54:38Z"
+            }
+          ],
+          "published_at": "2026-09-24T11:54:38Z",
+          "source_ids": [
+            "hn_discussion"
+          ],
+          "source_names": [
+            "Hacker News"
+          ],
+          "source_roles": [
+            "hn_discussion"
+          ],
+          "source_types": [
+            "discussion"
+          ],
+          "summary": "A Hacker News item reports that hackers influenced ChatGPT and Gemini to direct users to scam centers. The supplied text does not identify the attackers or explain the manipulation technique.",
+          "tags": [],
+          "title": "Hackers influence ChatGPT and Gemini to direct users to scam centers"
+        },
+        {
+          "ACTIONABILITY": 4.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 4.862,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 4.597,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 5.6,
+          "FINAL_SCORE": 5.006,
+          "FRONTIERNESS": 7.503,
+          "HEADLINE": "Aderant builds intelligent ticket triage with Amazon Nova",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 4,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Industry Update",
+          "QUALITY": 5,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "Aderant built an intelligent ticket triage system using Amazon Nova Lite through Amazon Bedrock. An AWS article explains its automation of context gathering, classification, routing, and knowledge enrichment.",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 4.503,
+          "TOPIC_ID": "ef4d941b0ce3",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This tutorial surfaced across 1 independent source(s).",
+          "cluster_id": "ef4d941b0ce3",
+          "event_type": "tutorial",
+          "items": [
+            {
+              "authors": [],
+              "canonical_url": "https://aws.amazon.com/blogs/machine-learning/aderant-builds-intelligent-ticket-triage-with-amazon-nova",
+              "metadata": {
+                "is_official": true,
+                "publisher": "AWS AI Blog"
+              },
+              "provenance": "",
+              "published_at": "Thu, 24 Sep 2026 16:06:46 +0000",
+              "source_id": "aws_ai_blog",
+              "source_name": "AWS AI Blog",
+              "source_role": "official_news",
+              "source_type": "official_blog",
+              "summary": "Learn how Aderant built an intelligent ticket triage system on Amazon Nova Lite through Amazon Bedrock, automating context gathering, classification, routing, and knowledge enrichment for its cloud operations team.",
+              "tags": [],
+              "title": "Aderant builds intelligent ticket triage with Amazon Nova",
+              "url": "https://aws.amazon.com/blogs/machine-learning/aderant-builds-intelligent-ticket-triage-with-amazon-nova",
+              "verified_first_date": "Thu, 24 Sep 2026 16:06:46 +0000"
+            }
+          ],
+          "published_at": "Thu, 24 Sep 2026 16:06:46 +0000",
+          "source_ids": [
+            "aws_ai_blog"
+          ],
+          "source_names": [
+            "AWS AI Blog"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "official_blog"
+          ],
+          "summary": "Aderant built an intelligent ticket triage system using Amazon Nova Lite through Amazon Bedrock. An AWS article explains its automation of context gathering, classification, routing, and knowledge enrichment.",
+          "tags": [],
+          "title": "Aderant builds intelligent ticket triage with Amazon Nova"
+        },
+        {
+          "ACTIONABILITY": 4.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 4.862,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 4.597,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 5.6,
+          "FINAL_SCORE": 5.006,
+          "FRONTIERNESS": 7.503,
+          "HEADLINE": "Build a multi-account AI agent with AgentCore Gateway and MCP",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 4,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Industry Update",
+          "QUALITY": 5,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "AWS published a tutorial on building a multi-account AI agent architecture with AgentCore Gateway and MCP. The design keeps team data in separate AWS accounts while allowing an agent in a central platform account to query across them.",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 4.503,
+          "TOPIC_ID": "41ae183e303b",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This tutorial surfaced across 1 independent source(s).",
+          "cluster_id": "41ae183e303b",
+          "event_type": "tutorial",
+          "items": [
+            {
+              "authors": [],
+              "canonical_url": "https://aws.amazon.com/blogs/machine-learning/build-a-multi-account-ai-agent-with-agentcore-gateway-and-mcp",
+              "metadata": {
+                "is_official": true,
+                "publisher": "AWS AI Blog"
+              },
+              "provenance": "",
+              "published_at": "Thu, 24 Sep 2026 16:12:47 +0000",
+              "source_id": "aws_ai_blog",
+              "source_name": "AWS AI Blog",
+              "source_role": "official_news",
+              "source_type": "official_blog",
+              "summary": "Build a multi-account architecture that keeps each team's data in its own AWS account while giving AI agents a unified way to query across them. A central platform account runs the agent using Amazon Bedrock AgentCore Gateway and MCP, while line-of-business accounts expose their data as MCP servers with secure cross-account access and fine-grained authorization.",
+              "tags": [],
+              "title": "Build a multi-account AI agent with AgentCore Gateway and MCP",
+              "url": "https://aws.amazon.com/blogs/machine-learning/build-a-multi-account-ai-agent-with-agentcore-gateway-and-mcp",
+              "verified_first_date": "Thu, 24 Sep 2026 16:12:47 +0000"
+            }
+          ],
+          "published_at": "Thu, 24 Sep 2026 16:12:47 +0000",
+          "source_ids": [
+            "aws_ai_blog"
+          ],
+          "source_names": [
+            "AWS AI Blog"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "official_blog"
+          ],
+          "summary": "AWS published a tutorial on building a multi-account AI agent architecture with AgentCore Gateway and MCP. The design keeps team data in separate AWS accounts while allowing an agent in a central platform account to query across them.",
+          "tags": [],
+          "title": "Build a multi-account AI agent with AgentCore Gateway and MCP"
+        },
+        {
+          "ACTIONABILITY": 4.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 4.862,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 4.597,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 5.6,
+          "FINAL_SCORE": 5.006,
+          "FRONTIERNESS": 7.503,
+          "HEADLINE": "Speaker-labeled transcription with WhisperX on SageMaker AI",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 4,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Industry Update",
+          "QUALITY": 5,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "AWS published deployment guidance for speaker-labeled transcription using its WhisperX Deep Learning Container on Amazon SageMaker AI. The GPU-ready container combines Whisper, wav2vec2 forced alignment, and speaker diarization.",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 4.503,
+          "TOPIC_ID": "1e2a26aeebed",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This tutorial surfaced across 1 independent source(s).",
+          "cluster_id": "1e2a26aeebed",
+          "event_type": "tutorial",
+          "items": [
+            {
+              "authors": [],
+              "canonical_url": "https://aws.amazon.com/blogs/machine-learning/speaker-labeled-transcription-with-whisperx-on-sagemaker-ai",
+              "metadata": {
+                "is_official": true,
+                "publisher": "AWS AI Blog"
+              },
+              "provenance": "",
+              "published_at": "Thu, 24 Sep 2026 16:20:12 +0000",
+              "source_id": "aws_ai_blog",
+              "source_name": "AWS AI Blog",
+              "source_role": "official_news",
+              "source_type": "official_blog",
+              "summary": "The AWS WhisperX Deep Learning Container packages Whisper, wav2vec2 forced alignment, and speaker diarization into a GPU-ready image. Learn how to deploy it to Amazon SageMaker AI real-time and asynchronous endpoints for word-level, speaker-labeled transcription, plus the production details that matter: the GPU AMI pin, scaling, and cost controls.",
+              "tags": [],
+              "title": "Speaker-labeled transcription with WhisperX on SageMaker AI",
+              "url": "https://aws.amazon.com/blogs/machine-learning/speaker-labeled-transcription-with-whisperx-on-sagemaker-ai",
+              "verified_first_date": "Thu, 24 Sep 2026 16:20:12 +0000"
+            }
+          ],
+          "published_at": "Thu, 24 Sep 2026 16:20:12 +0000",
+          "source_ids": [
+            "aws_ai_blog"
+          ],
+          "source_names": [
+            "AWS AI Blog"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "official_blog"
+          ],
+          "summary": "AWS published deployment guidance for speaker-labeled transcription using its WhisperX Deep Learning Container on Amazon SageMaker AI. The GPU-ready container combines Whisper, wav2vec2 forced alignment, and speaker diarization.",
+          "tags": [],
+          "title": "Speaker-labeled transcription with WhisperX on SageMaker AI"
+        },
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 3.602,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 3.668,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 3.808,
+          "FRONTIERNESS": 4.904,
+          "HEADLINE": "Contrastive Language Models",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 2,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Industry Update",
+          "QUALITY": 3,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "Contrastive Language Models",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 3.904,
+          "TOPIC_ID": "0cc289cbb9d0",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This other surfaced across 1 independent source(s).",
+          "cluster_id": "0cc289cbb9d0",
+          "event_type": "other",
+          "items": [
+            {
+              "authors": [
+                "erichocean"
+              ],
+              "canonical_url": "https://contrastive-lm.notion.site",
+              "metadata": {
+                "hn_comments": 51,
+                "hn_id": "49826221",
+                "hn_score": 160,
+                "host": "contrastive-lm.notion.site"
+              },
+              "provenance": "",
+              "published_at": "2026-09-24T04:20:59Z",
+              "source_id": "hn_discussion",
+              "source_name": "Hacker News",
+              "source_role": "hn_discussion",
+              "source_type": "discussion",
+              "summary": "Contrastive Language Models",
+              "tags": [],
+              "title": "Contrastive Language Models",
+              "url": "https://contrastive-lm.notion.site",
+              "verified_first_date": "2026-09-24T04:20:59Z"
+            }
+          ],
+          "published_at": "2026-09-24T04:20:59Z",
+          "source_ids": [
+            "hn_discussion"
+          ],
+          "source_names": [
+            "Hacker News"
+          ],
+          "source_roles": [
+            "hn_discussion"
+          ],
+          "source_types": [
+            "discussion"
+          ],
+          "summary": "Contrastive Language Models",
+          "tags": [],
+          "title": "Contrastive Language Models"
+        },
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 3.602,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 3.668,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 3.808,
+          "FRONTIERNESS": 4.904,
+          "HEADLINE": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 2,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Industry Update",
+          "QUALITY": 3,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 3.904,
+          "TOPIC_ID": "50ad6e9a848c",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This other surfaced across 1 independent source(s).",
+          "cluster_id": "50ad6e9a848c",
+          "event_type": "other",
+          "items": [
+            {
+              "authors": [
+                "snikolaev"
+              ],
+              "canonical_url": "https://transluce.org/agent-activity",
+              "metadata": {
+                "hn_comments": 255,
+                "hn_id": "49826565",
+                "hn_score": 254,
+                "host": "transluce.org"
+              },
+              "provenance": "",
+              "published_at": "2026-09-24T05:21:10Z",
+              "source_id": "hn_discussion",
+              "source_name": "Hacker News",
+              "source_role": "hn_discussion",
+              "source_type": "discussion",
+              "summary": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
+              "tags": [],
+              "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
+              "url": "https://transluce.org/agent-activity",
+              "verified_first_date": "2026-09-24T05:21:10Z"
+            }
+          ],
+          "published_at": "2026-09-24T05:21:10Z",
+          "source_ids": [
+            "hn_discussion"
+          ],
+          "source_names": [
+            "Hacker News"
+          ],
+          "source_roles": [
+            "hn_discussion"
+          ],
+          "source_types": [
+            "discussion"
+          ],
+          "summary": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
+          "tags": [],
+          "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net"
+        }
+      ]
+    }
+  ],
+  "paper_spotlight": [
+    {
+      "kind": "daily_hot",
+      "label": "Daily Hot Papers",
+      "description": "Papers that feel broadly important to the day and belong in the hotspot paper feed.",
+      "items": [
+        {
+          "title": "Training Object Permanence in World Models",
+          "summary": "Object permanence and solidity are hallmarks of human cognitive priors. Recent studies show that video generation models, a paradigmatic class of current world models, have begun to show emerged reasoning abilities, making them ideal candidates for building human-like physical intelligence. Do video models have emerged object permanence in them? If not, could we train them with a core-cognition inspired dataset? We introduce WROP (World Reasoning with Object Permanence), a data infrastructure of 150 hand-designed cognitive science inspired tasks, divided into six cognitive categories. We bu...",
+          "url": "https://huggingface.co/papers/2609.28654",
+          "canonical_url": "https://arxiv.org/abs/2609.28654",
+          "source_id": "hf_papers",
+          "source_name": "Hugging Face Trending Papers",
+          "source_role": "paper_trending",
+          "arxiv_id": "2609.28654",
+          "authors": [
+            "Haotian Zhang",
+            "Fengyuan Yu",
+            "Dezhi Luo",
+            "Haoran Sun",
+            "Zehong Zhao",
+            "Qingying Gao",
+            "Yihan Li",
+            "Siyuan An",
+            "Huayi Qin",
+            "Yilan Zhang",
+            "Zhengze Jiang",
+            "Pinyuan Feng",
+            "Renrui Zhang",
+            "Ziyu Guo",
+            "Letian Wang",
+            "Mengyue Yang",
+            "Kangfu Mei",
+            "Maijunxian Wang",
+            "Ran Ji",
+            "Vikash Kumar",
+            "Freda Shi",
+            "Chandra Sripada",
+            "Vincent C. Muller",
+            "Philip Torr",
+            "Alan Yuille",
+            "Nikolaus Kriegeskorte",
+            "Felix Juefei-Xu",
+            "Lvmin Zhang",
+            "Jieneng Chen",
+            "Yilun Du",
+            "Hokin Deng"
+          ],
+          "primary_topic_id": "",
+          "primary_topic_label": "",
+          "spotlight_primary_kind": "daily_hot",
+          "spotlight_primary_label": "Daily Hot Papers",
+          "spotlight_comment": "Object permanence and solidity are hallmarks of human cognitive priors. Recent studies show that video generation models, a paradigmatic class of current world models, have begun to show emerged reasoning abilities, making them ideal candidates for building human-like physical intelligence. Do vi...",
+          "daily_score": 24,
+          "relevance": 0,
+          "novelty": 0,
+          "s2_influential_citations": 0,
+          "s2_citations": 0
+        }
+      ]
+    }
+  ],
+  "x_buzz": [
+    {
+      "title": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
+      "summary": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" will lip-sync and show different facial expressions during conversations, but it's currently only available to Gemini Enterprise customers. As noted by Google, Live Avatar can transition between the 97 [&#8230;]",
+      "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+      "source_id": "analysis_theverge_ai",
+      "source_name": "The Verge AI",
+      "source_role": "editorial_depth",
+      "linked_topic": "Introducing Gemini 3.8 Live with Live Avatar"
+    },
+    {
+      "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+      "summary": "The Silicon Valley firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
+      "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai",
+      "source_id": "analysis_techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "source_role": "editorial_depth",
+      "linked_topic": "Lightspeed targets $250M for new India fund, focusing on early-stage AI"
+    },
+    {
+      "title": "Google's first Suncatcher orbital data center test launches October 1",
+      "summary": "Google's experimental orbital data center will have four TPUs and only run for 15 minutes at a time.",
+      "url": "https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1",
+      "source_id": "analysis_arstechnica_ai",
+      "source_name": "Ars Technica AI",
+      "source_role": "editorial_depth",
+      "linked_topic": "Google's first Suncatcher orbital data center test launches October 1"
+    },
+    {
+      "title": "Accelerating GPT-5.6 Sol Ultrafast",
+      "summary": "August 13, 2026",
+      "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+      "source_id": "cerebras_blog",
+      "source_name": "Cerebras Blog",
+      "source_role": "official_news",
+      "linked_topic": "Accelerating GPT-5.6 Sol Ultrafast"
+    },
+    {
+      "title": "Introducing Gemini 3.8 Live with Live Avatar",
+      "summary": "",
+      "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar",
+      "source_id": "deepmind_blog",
+      "source_name": "DeepMind Blog",
+      "source_role": "official_news",
+      "linked_topic": "Introducing Gemini 3.8 Live with Live Avatar"
+    }
+  ],
+  "watchlist": [
+    {
+      "ACTIONABILITY": 2.0,
+      "ARTIFACT_BOOST": 0.5,
+      "CONFIDENCE": 7.089,
+      "CROSS_SOURCE_RESONANCE": 3.9,
+      "DISPLAY_PRIORITY": 7.359,
+      "ENGINEERING_PENALTY": 0.0,
+      "EVIDENCE_STRENGTH": 6.2,
+      "FINAL_SCORE": 7.896,
+      "FRONTIERNESS": 6.948,
+      "HEADLINE": "Google's first Suncatcher orbital data center test launches October 1",
+      "HEAT": 5,
+      "HYPE_PENALTY": 0.3,
+      "IMPORTANCE": 4,
+      "KEEP_IN_DAILY_HOTSPOTS": false,
+      "KEY_TAKEAWAYS": [],
+      "LLM_STATUS": "watchlist",
+      "OCCURRENCE_SCORE": 5.6,
+      "PRIMARY_CATEGORY": "Product Release",
+      "QUALITY": 7,
+      "SECONDARY_CATEGORIES": [],
+      "SHORT_COMMENT": "Google's experimental orbital data center will have four TPUs and only run for 15 minutes at a time.",
+      "SUBSTANCE_PENALTY": 0.0,
+      "TECHNICAL_DEPTH": 5.948,
+      "TOPIC_ID": "bab841844b55",
+      "WATCHLIST": true,
+      "WHY_IT_MATTERS": "This product release surfaced across 2 independent source(s).",
+      "cluster_id": "bab841844b55",
+      "event_type": "product_release",
+      "items": [
+        {
+          "authors": [],
+          "canonical_url": "https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1",
+          "metadata": {
+            "feed_id": "arstechnica_ai",
+            "feed_source": "https://arstechnica.com/ai/feed/",
+            "signal_tier": "trusted_analysis",
+            "source_quality": 1.3
+          },
+          "provenance": "",
+          "published_at": "Thu, 24 Sep 2026 16:16:34 +0000",
+          "source_id": "analysis_arstechnica_ai",
+          "source_name": "Ars Technica AI",
+          "source_role": "editorial_depth",
+          "source_type": "blog_analysis",
+          "summary": "Google's experimental orbital data center will have four TPUs and only run for 15 minutes at a time.",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "title": "Google's first Suncatcher orbital data center test launches October 1",
+          "url": "https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1",
+          "verified_first_date": "Thu, 24 Sep 2026 16:16:34 +0000"
+        },
+        {
+          "authors": [
+            "xnx"
+          ],
+          "canonical_url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts",
+          "metadata": {
+            "hn_comments": 272,
+            "hn_id": "49830606",
+            "hn_score": 147,
+            "host": "blog.google"
+          },
+          "provenance": "",
+          "published_at": "2026-09-24T13:53:29Z",
+          "source_id": "hn_discussion",
+          "source_name": "Hacker News",
+          "source_role": "hn_discussion",
+          "source_type": "discussion",
+          "summary": "Google’s Project Suncatcher to put ML infrastructure in space",
+          "tags": [],
+          "title": "Google’s Project Suncatcher to put ML infrastructure in space",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts",
+          "verified_first_date": "2026-09-24T13:53:29Z"
+        }
+      ],
+      "published_at": "Thu, 24 Sep 2026 16:16:34 +0000",
+      "source_ids": [
+        "analysis_arstechnica_ai",
+        "hn_discussion"
+      ],
+      "source_names": [
+        "Ars Technica AI",
+        "Hacker News"
+      ],
+      "source_roles": [
+        "editorial_depth",
+        "hn_discussion"
+      ],
+      "source_types": [
+        "blog_analysis",
+        "discussion"
+      ],
+      "summary": "Google's experimental orbital data center will have four TPUs and only run for 15 minutes at a time.",
+      "tags": [
+        "analysis",
+        "deep-read"
+      ],
+      "title": "Google's first Suncatcher orbital data center test launches October 1"
+    }
+  ],
+  "resurgence": []
+}

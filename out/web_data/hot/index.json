@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "latest_date": "2026-09-24",
+  "latest_date": "2026-09-25",
   "dates": [
     {
       "date": "2026-09-15",
@@ -241,23 +241,47 @@
         "month": null,
         "year": null
       }
+    },
+    {
+      "date": "2026-09-25",
+      "month": "2026-09",
+      "year": "2026",
+      "summary": "• [Market Signal] Lightspeed targets $250M for new India fund, focusing on early-stage AI — This funding surfaced across 1 independent source(s).\n• [Product Release] Introducing Gemini 3.8 Live with Live Avatar — This product release surfaced across 2 independent source(s).\n• [Product Release] Accelerating GPT-5.6 Sol Ultrafast — This product release surfaced across 1 independent source(s).",
+      "featured_topics": 3,
+      "source_items": 33,
+      "topic_summary": 2,
+      "source_section_counts": {
+        "official": 10,
+        "market-signals": 2,
+        "analysis": 8,
+        "papers": 1,
+        "github": 6,
+        "industry": 6
+      },
+      "route": "/hot/2026-09-25/",
+      "paper_routes": {
+        "home": "../../",
+        "day": null,
+        "month": null,
+        "year": null
+      }
     }
   ],
   "months": [
     {
       "month": "2026-09",
-      "days": 10,
-      "featured_topics": 30,
-      "source_items": 331,
+      "days": 11,
+      "featured_topics": 33,
+      "source_items": 364,
       "route": "/hot/2026-09/"
     }
   ],
   "years": [
     {
       "year": "2026",
-      "days": 10,
-      "featured_topics": 30,
-      "source_items": 331,
+      "days": 11,
+      "featured_topics": 33,
+      "source_items": 364,
       "route": "/hot/2026/"
     }
   ]

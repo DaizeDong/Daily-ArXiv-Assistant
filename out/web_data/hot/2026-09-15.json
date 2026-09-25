@@ -2545,15 +2545,7 @@
           "published_at": "2026-09-15T01:25:18.000Z"
         }
       ],
-      "route": "/hot/2026-09-15/topic/nvidia-released-c-foundationstereo-s/",
-      "headline_zh": "NVIDIA 发布了 c-foundationstereo-s",
-      "summary_short_zh": "nvidia/c-foundationstereo-s 的权重文件已上传到 hub。Pipeline 标签：tensorrt、onnx、TAO Toolkit、computer-vision、depth-estimation、stereo-matching。采集时有 180 次下载、7 个赞",
-      "why_it_matters_zh": "此产品发布来自 1 个独立信息源。",
-      "category_zh": "产品发布",
-      "key_takeaways_zh": [
-        "nvidia/foundationpose 的权重文件已上传到 hub。Pipeline 标签：tensorrt、onnx、TAO Toolkit、computer-vision、pose-estimation、6dof-pose-estimation。采集时有 194 次下载、9 个赞。",
-        "nvidia/c-foundationstereo-s 的权重文件已上传到 hub。Pipeline 标签：tensorrt、onnx、TAO Toolkit、computer-vision、depth-estimation、stereo-matching。采集时有 180 次下载、7 个赞"
-      ]
+      "route": "/hot/2026-09-15/topic/nvidia-released-c-foundationstereo-s/"
     },
     {
       "topic_id": "7d57b13f1d76",
@@ -2593,14 +2585,7 @@
           "published_at": "2026-09-15T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-09-15/topic/production-ready-w4a8-vllm-integration-explained-cohere/",
-      "headline_zh": "生产就绪的 W4A8：vLLM 集成详解 | Cohere",
-      "summary_short_zh": "了解模型量化如何提升效率。探索 NVIDIA Hopper GPU 上的 W4A16 和 W8A8 方案及其优缺点",
-      "why_it_matters_zh": "此产品发布来自 1 个独立信息源。",
-      "category_zh": "产品发布",
-      "key_takeaways_zh": [
-        "了解模型量化如何提升效率。探索 NVIDIA Hopper GPU 上的 W4A16 和 W8A8 方案及其优缺点。"
-      ]
+      "route": "/hot/2026-09-15/topic/production-ready-w4a8-vllm-integration-explained-cohere/"
     },
     {
       "topic_id": "48a7a597dd55",
@@ -2640,14 +2625,7 @@
           "published_at": "2026-09-15T00:00:00+00:00"
         }
       ],
-      "route": "/hot/2026-09-15/topic/cohere-parse-enterprise-intelligence-at-scale/",
-      "headline_zh": "Cohere Parse | 企业级智能化规模化处理",
-      "summary_short_zh": "Cohere 推出 Parse 作为将复杂文档、表格和图像转换为结构化数据的工具。生成的数据旨在支持 AI 搜索和自动化操作",
-      "why_it_matters_zh": "此产品发布来自 1 个独立信息源。",
-      "category_zh": "产品发布",
-      "key_takeaways_zh": [
-        "Parse 将复杂文档、表格和图像转换为你的 AI 可以搜索或操作的结构化数据。"
-      ]
+      "route": "/hot/2026-09-15/topic/cohere-parse-enterprise-intelligence-at-scale/"
     }
   ],
   "category_sections": [
@@ -2691,11 +2669,7 @@
               "published_at": "Mon, 14 Sep 2026 12:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-09-15/topic/how-fyxer-built-an-ai-executive-assistant-people-trust/",
-          "headline_zh": "Fyxer 如何打造一个人们信赖的 AI 行政助理",
-          "summary_short_zh": "Fyxer 使用 OpenAI 模型、微调、记忆和真实用户反馈来整理收件箱并以每个用户的语气起草邮件",
-          "why_it_matters_zh": "此产品发布来自 1 个独立信息源。",
-          "category_zh": "产品发布"
+          "route": "/hot/2026-09-15/topic/how-fyxer-built-an-ai-executive-assistant-people-trust/"
         },
         {
           "topic_id": "24165d8dcb75",
@@ -2733,11 +2707,7 @@
               "published_at": "2026-09-14T03:47:26.000Z"
             }
           ],
-          "route": "/hot/2026-09-15/topic/qwen-released-qwen-image-2-1/",
-          "headline_zh": "Qwen 发布了 Qwen-Image-2.1",
-          "summary_short_zh": "Qwen/Qwen-Image-2.1 的权重文件已上传到 hub。Pipeline 标签：diffusers、safetensors、qwen、image-generation、image-editing、rgba。采集时有 6523 次下载、1402 个赞",
-          "why_it_matters_zh": "此产品发布来自 1 个独立信息源。",
-          "category_zh": "产品发布"
+          "route": "/hot/2026-09-15/topic/qwen-released-qwen-image-2-1/"
         },
         {
           "topic_id": "08e7914e2317",
@@ -2775,11 +2745,7 @@
               "published_at": "2026-09-14T07:43:25.000Z"
             }
           ],
-          "route": "/hot/2026-09-15/topic/tencent-hunyuan-released-simple-attention-sparsification/",
-          "headline_zh": "腾讯混元发布了 Simple-Attention-Sparsification",
-          "summary_short_zh": "tencent/Simple-Attention-Sparsification 的权重文件已上传到 hub。Pipeline 标签：qwen3、sparse-attention、long-context、sglang、sas、text-generation。采集时有 0 次下载、8 个赞",
-          "why_it_matters_zh": "此产品发布来自 1 个独立信息源。",
-          "category_zh": "产品发布"
+          "route": "/hot/2026-09-15/topic/tencent-hunyuan-released-simple-attention-sparsification/"
         }
       ]
     },
@@ -2823,10 +2789,7 @@
               "published_at": "2026-09-15T02:25:41Z"
             }
           ],
-          "route": "/hot/2026-09-15/topic/i-worked-at-google-deepmind-you-should-listen-to-the-warnings-about-ai/",
-          "headline_zh": "我曾在 Google DeepMind 工作。你应该认真对待关于 AI 的警告",
-          "summary_short_zh": "一则 Hacker News 条目链接到一篇文章,作者称其曾在 Google DeepMind 工作。标题敦促读者认真对待关于 AI 的警告",
-          "why_it_matters_zh": "此观点来自 1 个独立信息源。"
+          "route": "/hot/2026-09-15/topic/i-worked-at-google-deepmind-you-should-listen-to-the-warnings-about-ai/"
         },
         {
           "topic_id": "96c4cdc5cb2f",
@@ -3081,8 +3044,7 @@
               "published_at": "2026-09-15T03:30:08+00:00"
             }
           ],
-          "route": "/hot/2026-09-15/topic/shadowpeft-peft/",
-          "headline_zh": "适配器即模型 —— ShadowPEFT 现已集成到 🤗 PEFT 库"
+          "route": "/hot/2026-09-15/topic/shadowpeft-peft/"
         },
         {
           "topic_id": "c9f9d57ed4dc",
@@ -3158,10 +3120,7 @@
               "published_at": "2026-09-15T01:37:43Z"
             }
           ],
-          "route": "/hot/2026-09-15/topic/show-hn-sunk-cost-how-long-until-a-local-llm-rig-pays-for-itself/",
-          "summary_short_zh": "一篇 Show HN 帖子介绍了 Sunk Cost，这是一个用于估算本地语言模型设备需要多长时间才能回本的工具。提供的文本未说明其成本假设",
-          "why_it_matters_zh": "该工具在 1 个独立来源中出现。",
-          "category_zh": "工具"
+          "route": "/hot/2026-09-15/topic/show-hn-sunk-cost-how-long-until-a-local-llm-rig-pays-for-itself/"
         },
         {
           "topic_id": "e1de783906ae",
@@ -3199,11 +3158,7 @@
               "published_at": "2026-09-14T07:55:19Z"
             }
           ],
-          "route": "/hot/2026-09-15/topic/openarch-pytorch-implementations-of-modern-llm-architectures/",
-          "headline_zh": "OpenArch – 现代 LLM 架构的 PyTorch 实现",
-          "summary_short_zh": "OpenArch 提供现代语言模型架构的 PyTorch 实现。提供的文本未说明包含哪些架构",
-          "why_it_matters_zh": "该工具在 1 个独立来源中出现。",
-          "category_zh": "工具"
+          "route": "/hot/2026-09-15/topic/openarch-pytorch-implementations-of-modern-llm-architectures/"
         }
       ]
     },
@@ -3247,11 +3202,7 @@
               "published_at": "2026-09-15T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-09-15/topic/the-state-of-sovereign-ai-adoption-research-cohere/",
-          "headline_zh": "主权 AI 采用现状(研究)| Cohere",
-          "summary_short_zh": "Cohere 重点介绍了关键行业中主权 AI 采用的驱动因素和障碍的研究。研究结果基于 Cohere 委托 IDC 进行的 InfoBrief",
-          "why_it_matters_zh": "该研究论文在 1 个独立来源中出现。",
-          "category_zh": "研究"
+          "route": "/hot/2026-09-15/topic/the-state-of-sovereign-ai-adoption-research-cohere/"
         },
         {
           "topic_id": "25bc486278ed",
@@ -3289,11 +3240,7 @@
               "published_at": "2026-09-14T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-09-15/topic/physbrain-1-5-from-vision-language-models-to-physical-foundation-models/",
-          "headline_zh": "PhysBrain 1.5: 从视觉语言模型到物理基础模型",
-          "summary_short_zh": "我们提出 PhysBrain 1.5，这是一个用于理解物理环境、生成动作和预测未来状态的统一模型。受观察、交互和环境变化的物理循环启发,我们将这些能力整合到一个共同的学习框架中。",
-          "why_it_matters_zh": "该研究论文在 1 个独立来源中出现。",
-          "category_zh": "研究"
+          "route": "/hot/2026-09-15/topic/physbrain-1-5-from-vision-language-models-to-physical-foundation-models/"
         },
         {
           "topic_id": "1f6783c787b2",
@@ -3331,11 +3278,7 @@
               "published_at": "2026-09-14T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-09-15/topic/rsiagent-autonomous-exploration-for-recursive-self-improvement-in-new-environments/",
-          "headline_zh": "RSIAgent: 新环境中递归自我改进的自主探索",
-          "summary_short_zh": "数字智能体必须经常适应新环境，而这些环境的界面、工具和失败模式并未被预训练模型完全捕获。我们介绍 RSIAgent，这是一个通过自主记忆构建实现递归自我改进的免训练多智能体框架。",
-          "why_it_matters_zh": "该研究论文在 1 个独立来源中出现。",
-          "category_zh": "研究"
+          "route": "/hot/2026-09-15/topic/rsiagent-autonomous-exploration-for-recursive-self-improvement-in-new-environments/"
         }
       ]
     }
@@ -3381,11 +3324,7 @@
               "published_at": "2026-09-14T09:16:39Z"
             }
           ],
-          "route": "/hot/2026-09-15/topic/intelligence-per-watt-measuring-intelligence-efficiency-of-local-ai/",
-          "headline_zh": "每瓦智能: 测量本地 AI 的智能效率",
-          "summary_short_zh": "该内容讨论测量本地 AI 的智能效率。它将测量框架定义为每瓦智能",
-          "why_it_matters_zh": "该内容在 1 个独立来源中出现。",
-          "category_zh": "行业动态"
+          "route": "/hot/2026-09-15/topic/intelligence-per-watt-measuring-intelligence-efficiency-of-local-ai/"
         },
         {
           "topic_id": "c712c5b2d14f",
@@ -3429,11 +3368,7 @@
               "published_at": "2026-09-14T00:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-09-15/topic/qui-doit-d-finir-les-r-gles-de-l-ia-cohere/",
-          "headline_zh": "Qui doit définir les règles de l'IA ? | Cohere",
-          "summary_short_zh": "Cohere 发布了一篇关于谁应该定义 AI 规则的法语文章。文章主张采用基于证据的标准、独立测试和多元参与，而不是由少数占主导地位的 AI 实验室制定规则",
-          "why_it_matters_zh": "该观点在 1 个独立来源中出现。",
-          "category_zh": "行业动态"
+          "route": "/hot/2026-09-15/topic/qui-doit-d-finir-les-r-gles-de-l-ia-cohere/"
         },
         {
           "topic_id": "d8455e780011",
@@ -3471,10 +3406,7 @@
               "published_at": "2026-09-14T16:07:58Z"
             }
           ],
-          "route": "/hot/2026-09-15/topic/show-hn-nari-qwen3-tts-and-qwen3-asr-high-accuracy-low-latency-and-cost/",
-          "headline_zh": "Show HN: Nari Qwen3-TTS 和 Qwen3-ASR – 高准确度、低延迟、低成本",
-          "why_it_matters_zh": "该内容在 1 个独立来源中出现。",
-          "category_zh": "行业动态"
+          "route": "/hot/2026-09-15/topic/show-hn-nari-qwen3-tts-and-qwen3-asr-high-accuracy-low-latency-and-cost/"
         },
         {
           "topic_id": "8a34b73e1ef8",
@@ -3512,11 +3444,7 @@
               "published_at": "2026-09-14T13:59:09Z"
             }
           ],
-          "route": "/hot/2026-09-15/topic/notes-on-gotchas-while-migrating-35kb-preprompts-from-opus-to-self-hosted-ollama/",
-          "headline_zh": "将 35KB 预提示词从 Opus 迁移到自托管 Ollama 时的注意事项",
-          "summary_short_zh": "本文分享了将 35KB 预提示词从 Opus 迁移到自托管 Ollama 环境的经验，重点介绍了迁移过程中遇到的常见陷阱",
-          "why_it_matters_zh": "该教程来源于 1 个独立信息源。",
-          "category_zh": "行业动态"
+          "route": "/hot/2026-09-15/topic/notes-on-gotchas-while-migrating-35kb-preprompts-from-opus-to-self-hosted-ollama/"
         },
         {
           "topic_id": "b6b60149a1f9",
@@ -3554,11 +3482,7 @@
               "published_at": "2026-09-14T00:22:51Z"
             }
           ],
-          "route": "/hot/2026-09-15/topic/open-source-ai-and-open-models-reading-list/",
-          "headline_zh": "开源 AI 与开放模型阅读清单",
-          "summary_short_zh": "本文提供了一份关于开源 AI 与开放模型的阅读清单，所提供的文本未列出具体的阅读材料",
-          "why_it_matters_zh": "该教程来源于 1 个独立信息源。",
-          "category_zh": "行业动态"
+          "route": "/hot/2026-09-15/topic/open-source-ai-and-open-models-reading-list/"
         }
       ]
     },
@@ -3602,11 +3526,7 @@
               "published_at": "2026-09-14T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-09-15/topic/dream-rsi-recursive-self-improvement-through-evolving-worlds/",
-          "headline_zh": "Dream-RSI：通过演化世界实现递归自我改进",
-          "summary_short_zh": "递归自我改进对自主 AI 智能体变得日益重要，其进展取决于在复杂领域中发现高价值解决方案的能力。",
-          "why_it_matters_zh": "该研究论文来源于 1 个独立信息源。",
-          "category_zh": "研究"
+          "route": "/hot/2026-09-15/topic/dream-rsi-recursive-self-improvement-through-evolving-worlds/"
         },
         {
           "topic_id": "733542f38a66",
@@ -3644,11 +3564,7 @@
               "published_at": "2026-09-14T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-09-15/topic/bvb-benchmarking-agentic-video-understanding-via-programmatic-reconstruction-in-blender/",
-          "headline_zh": "BVB：通过 Blender 程序化重建对智能体视频理解进行基准测试",
-          "summary_short_zh": "多模态智能体可以通过编写代码在 Blender 等软件中创建复杂视频，而无需依赖扩散模型。然而，视频理解基准测试仍主要通过问答方式评估模型。如果一个智能体真正理解了一段视频，它应能以编程方式对其进行重建。",
-          "why_it_matters_zh": "该研究论文来源于 1 个独立信息源。",
-          "category_zh": "研究"
+          "route": "/hot/2026-09-15/topic/bvb-benchmarking-agentic-video-understanding-via-programmatic-reconstruction-in-blender/"
         },
         {
           "topic_id": "fb6af73d863d",
@@ -3686,11 +3602,7 @@
               "published_at": "2026-09-14T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-09-15/topic/discovery-foundation-models-toward-open-ended-discovery-intelligence/",
-          "headline_zh": "发现基础模型：迈向开放式发现智能",
-          "summary_short_zh": "基础模型已从学习和推理现有知识，逐步演进为通过行动、工具使用和结果反馈来主动学习。",
-          "why_it_matters_zh": "该研究论文来源于 1 个独立信息源。",
-          "category_zh": "研究"
+          "route": "/hot/2026-09-15/topic/discovery-foundation-models-toward-open-ended-discovery-intelligence/"
         }
       ]
     }
