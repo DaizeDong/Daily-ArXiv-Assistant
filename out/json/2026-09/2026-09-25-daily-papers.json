@@ -1,0 +1,620 @@
+{
+    "schema_version": 2,
+    "meta": {
+        "date": "2026-09-25",
+        "sort": [
+            "score",
+            "relevance"
+        ],
+        "topic_schema_version": 2,
+        "total_papers": 12,
+        "usage": {
+            "model": "llmcall:codexg+cc",
+            "prompt_tokens": 0,
+            "completion_tokens": 0,
+            "prompt_cost": 0.0,
+            "completion_cost": 0.0,
+            "total_arxiv_papers": 688,
+            "total_scanned_papers": 490,
+            "total_relevant_papers": 12,
+            "filter_health": {
+                "status": "ok",
+                "scanned_papers": 490,
+                "selected_papers": 12,
+                "llm_tokens": 0,
+                "message": "Scored 490 papers with 21/26 successful model calls; 12 selected."
+            },
+            "llm": {
+                "backend": "LLM backend: llmcall chain=codexg->cc->claude->codex",
+                "attempted": 26,
+                "succeeded": 21,
+                "failed": 5,
+                "by_backend": {
+                    "llmcall": 26
+                },
+                "by_provider": {
+                    "codexg": 20,
+                    "cc": 1
+                },
+                "errors": [
+                    "timeout after 18s",
+                    "timeout after 18s",
+                    "timeout after 18s",
+                    "timeout after 18s",
+                    "timeout after 18s"
+                ],
+                "seconds": 5826.6,
+                "trace": [
+                    "codexg: answered in 72.2s of 363.8s",
+                    "codexg: answered in 86.5s of 363.8s",
+                    "codexg: answered in 174.9s of 363.8s",
+                    "codexg: answered in 171.5s of 363.8s",
+                    "codexg: answered in 105.6s of 363.8s",
+                    "codexg: answered in 165.0s of 363.8s",
+                    "codexg: answered in 158.9s of 363.8s",
+                    "codexg: answered in 135.3s of 363.8s",
+                    "codexg: answered in 63.7s of 363.8s",
+                    "codexg: answered in 145.1s of 363.8s",
+                    "codexg: answered in 112.3s of 363.8s",
+                    "codexg: answered in 57.4s of 363.8s",
+                    "codexg: answered in 306.9s of 363.8s",
+                    "codexg: answered in 54.5s of 363.8s",
+                    "codexg: answered in 306.4s of 363.8s",
+                    "codexg: answered in 361.7s of 363.8s",
+                    "codexg: unavailable after 364.7s of 363.8s (timeout after 364s)",
+                    "cc: unavailable after 18.6s of 17.8s (timeout after 18s)",
+                    "claude: unavailable after 19.1s of 17.9s (timeout after 18s)",
+                    "codex: unavailable after 18.8s of 17.6s (timeout after 18s)",
+                    "codexg: answered in 349.8s of 363.8s",
+                    "codexg: unavailable after 364.6s of 363.8s (timeout after 364s)",
+                    "cc: unavailable after 19.0s of 17.9s (timeout after 18s)",
+                    "claude: unavailable after 18.5s of 17.6s (timeout after 18s)",
+                    "codex: unavailable after 18.7s of 17.8s (timeout after 18s)",
+                    "codexg: unavailable after 364.7s of 363.8s (timeout after 364s)",
+                    "cc: unavailable after 18.6s of 17.8s (timeout after 18s)",
+                    "claude: unavailable after 18.9s of 18.0s (timeout after 18s)",
+                    "codex: unavailable after 18.7s of 17.9s (timeout after 18s)",
+                    "codexg: unavailable after 364.5s of 363.8s (timeout after 364s)",
+                    "cc: unavailable after 18.9s of 18.0s (timeout after 18s)",
+                    "claude: unavailable after 18.8s of 17.9s (timeout after 18s)",
+                    "codex: unavailable after 18.7s of 17.8s (timeout after 18s)",
+                    "codexg: unavailable after 364.9s of 363.8s (timeout after 364s)",
+                    "cc: unavailable after 18.6s of 17.6s (timeout after 18s)",
+                    "claude: unavailable after 18.7s of 17.7s (timeout after 18s)",
+                    "codex: unavailable after 18.9s of 17.8s (timeout after 18s)",
+                    "codexg: unavailable after 2.3s of 363.8s (codexg: identity: would retry: 127.0.0.1:8790 did not answer the identity check within 2s, but the pid file names a live codexg proxy on this port (pid 100916); it would be asked again for 10s and rep)",
+                    "cc: answered in 56.0s of 380.2s",
+                    "codexg: answered in 268.6s of 363.8s",
+                    "codexg: answered in 290.6s of 363.7s",
+                    "codexg: answered in 276.5s of 363.8s"
+                ]
+            }
+        }
+    },
+    "topic_order": [
+        "frontier_models",
+        "architecture_training",
+        "training_systems",
+        "moe_training",
+        "efficiency_scaling",
+        "representation_structure",
+        "memory_systems",
+        "world_models_open_ended_rl"
+    ],
+    "diagnostics": {
+        "total_papers": 12,
+        "topic_counts": [
+            {
+                "topic_id": "frontier_models",
+                "topic_label": "Frontier Model Releases and Technical Reports",
+                "paper_count": 0
+            },
+            {
+                "topic_id": "architecture_training",
+                "topic_label": "Architecture and Training Dynamics",
+                "paper_count": 10
+            },
+            {
+                "topic_id": "training_systems",
+                "topic_label": "Training Algorithms That Change What Is Possible",
+                "paper_count": 0
+            },
+            {
+                "topic_id": "moe_training",
+                "topic_label": "MoE Where It Changes the Design Space",
+                "paper_count": 0
+            },
+            {
+                "topic_id": "efficiency_scaling",
+                "topic_label": "Efficiency, Compression, and Large-Scale Training",
+                "paper_count": 2
+            },
+            {
+                "topic_id": "representation_structure",
+                "topic_label": "Representation Learning Theory and Structure",
+                "paper_count": 0
+            },
+            {
+                "topic_id": "memory_systems",
+                "topic_label": "Memory Structures and Agent Memory Systems",
+                "paper_count": 0
+            },
+            {
+                "topic_id": "world_models_open_ended_rl",
+                "topic_label": "World Models, Exploration, and Open-Ended Reinforcement Learning",
+                "paper_count": 0
+            }
+        ],
+        "assignment_source_counts": {
+            "llm_exact": 12
+        },
+        "llm_assignment_count": 12,
+        "heuristic_assignment_count": 0,
+        "default_assignment_count": 0,
+        "invalid_primary_topic_fallback_count": 0,
+        "missing_primary_topic_fallback_count": 0,
+        "hotspot_paper_kind_counts": {
+            "new_frontier": 1,
+            "daily_hot": 0
+        },
+        "hotspot_paper_assignment_source_counts": {
+            "default": 11,
+            "heuristic": 1
+        }
+    },
+    "papers": {
+        "2609.29278": {
+            "ARXIVID": "2609.29278",
+            "COMMENT": "Shows that immediate answer-label scoring after a reasoning cue can fail while answer information remains recoverable.",
+            "RELEVANCE": 8,
+            "NOVELTY": 8,
+            "EVIDENCE": 9,
+            "LOAD": 3,
+            "PROXIMITY": 4,
+            "PRIMARY_TOPIC_ID": "architecture_training",
+            "MATCHED_TOPIC_IDS": [
+                "architecture_training"
+            ],
+            "TOPIC_MATCH_COMMENT": "Qualifies through the benchmark-validity exception. The isolated answer-readout failure makes architecture_training the nearest registry category.",
+            "HOTSPOT_PAPER_TAGS": [],
+            "HOTSPOT_PAPER_COMMENT": "",
+            "SCORE": 16,
+            "READ_SCORE": 19.5,
+            "authors": [
+                "Zeyan Li",
+                "Siyuan Qiu",
+                "Jianfeng Xu"
+            ],
+            "title": "Reasoning Instructions Can Break Answer Decoding in Vision--Language Models",
+            "abstract": "Chain-of-thought (CoT) instructions can distort multiple-choice VLM evaluation when a scorer appends a reasoning cue but reads answer-label logits before the model generates any rationale. We call this CoT-prefix scoring. On ScienceQA, Qwen2.5-VL-7B drops from 80.76% to 45.48%, and across five option-content permutations 93.54% of CoT-prefix predictions select the first slot. Condition-matched linear probes recover 78.94% from the same hidden states, while free generation restores 75.24%, showing that the answer often survives the prefix and the immediate readout fails. Vocabulary and layer diagnostics explain the mismatch: probability mass moves toward continuation tokens, while answer information remains linearly accessible in late layers. The effect recurs with varying severity across datasets and models, though not universally. These results show that CoT-prefix scoring can confound model knowledge with an evaluation-interface mismatch and should be avoided unless the requested and scored output events are aligned.",
+            "arxiv_id": "2609.29278",
+            "PRIMARY_TOPIC_LABEL": "Architecture and Training Dynamics",
+            "MATCHED_TOPIC_LABELS": [
+                "Architecture and Training Dynamics"
+            ],
+            "TOPIC_ASSIGNMENT_SOURCE": "llm_exact",
+            "HOTSPOT_PAPER_LABELS": [],
+            "HOTSPOT_PAPER_PRIMARY_KIND": null,
+            "HOTSPOT_PAPER_PRIMARY_LABEL": "",
+            "HOTSPOT_PAPER_ASSIGNMENT_SOURCE": "default"
+        },
+        "2609.28845": {
+            "ARXIVID": "2609.28845",
+            "COMMENT": "Links latent-supervision collapse to mismatched layer roles between teacher and student models.",
+            "RELEVANCE": 7,
+            "NOVELTY": 6,
+            "EVIDENCE": 7,
+            "LOAD": 4,
+            "PROXIMITY": 7,
+            "PRIMARY_TOPIC_ID": "architecture_training",
+            "MATCHED_TOPIC_IDS": [
+                "architecture_training"
+            ],
+            "TOPIC_MATCH_COMMENT": "The layer-role mismatch and resulting training collapse provide a substantive architecture-dynamics match within the post-training exception.",
+            "HOTSPOT_PAPER_TAGS": [],
+            "HOTSPOT_PAPER_COMMENT": "",
+            "SCORE": 13,
+            "READ_SCORE": 19.0,
+            "authors": [
+                "Jie Yang",
+                "Zhengyu Fang",
+                "Zelin Xu",
+                "Jiarui Sun",
+                "Xiran Fan",
+                "Junpeng Wang",
+                "Liang Wang",
+                "Qinghua Liu",
+                "Yiwei Cai",
+                "Yan Zheng"
+            ],
+            "title": "LastOPD: Taming Collapse in Latent On-Policy Distillation",
+            "abstract": "On-policy distillation (OPD) corrects a student on the responses it writes, but its signal is the teacher's next-token distribution: it tells the student what the teacher says but misses how it thinks. Latent supervision promises the missing part by aligning the student's latent states to the teacher's. Recent methods such as OPRD bring this signal into on-policy distillation. However, we observe two failures of this recipe when distilling Qwen3-4B and Qwen3-8B into Qwen3-1.7B-Base. Early gain, late collapse: latent supervision alone lifts MATH-500 accuracy from 25 to 46 in 10 steps, but subsequent training degrades performance down to 11 with no recovery. Better alignment, worse behavior: although the alignment metric steadily improves throughout this collapse, the most aligned model turns out to be the worst performing. Further analysis suggests a mismatch in how the latent signal is applied: layers paired by depth play different roles in the two models, so continued alignment may pull the student toward teacher states it cannot understand. To address this, we propose LastOPD, which applies the latent signal only at the last-layer state, the common interface both LM heads read, and only during a 10-step crossfade into token-level OPD. This keeps the useful part of the latent signal and hands the student to token-level supervision before the collapse sets in. Extensive experiments show that LastOPD improves MATH-500 over token-only OPD by 5.55 and 4.02 points with the 4B and 8B teachers, leads on most held-out datasets, and reaches the final score of token-only OPD in about half the steps. Code is available at https://github.com/Muyiiiii/LastOPD.",
+            "arxiv_id": "2609.28845",
+            "PRIMARY_TOPIC_LABEL": "Architecture and Training Dynamics",
+            "MATCHED_TOPIC_LABELS": [
+                "Architecture and Training Dynamics"
+            ],
+            "TOPIC_ASSIGNMENT_SOURCE": "llm_exact",
+            "HOTSPOT_PAPER_LABELS": [],
+            "HOTSPOT_PAPER_PRIMARY_KIND": null,
+            "HOTSPOT_PAPER_PRIMARY_LABEL": "",
+            "HOTSPOT_PAPER_ASSIGNMENT_SOURCE": "default"
+        },
+        "2609.28564": {
+            "ARXIVID": "2609.28564",
+            "COMMENT": "Holding video frames fixed, tests whether execution traces override visual evidence in LLM-judge decisions.",
+            "RELEVANCE": 8,
+            "NOVELTY": 9,
+            "EVIDENCE": 8,
+            "LOAD": 3,
+            "PROXIMITY": 4,
+            "PRIMARY_TOPIC_ID": "architecture_training",
+            "MATCHED_TOPIC_IDS": [
+                "architecture_training"
+            ],
+            "TOPIC_MATCH_COMMENT": "Qualifies through the explicit LLM-as-judge reliability exception; architecture_training is the nearest registry category for the input-trust analysis.",
+            "HOTSPOT_PAPER_TAGS": [
+                "new_frontier"
+            ],
+            "HOTSPOT_PAPER_COMMENT": "Potentially frontier-opening: Holding video frames fixed, tests whether execution traces override visual evidence in LLM-judge decisions.",
+            "SCORE": 17,
+            "READ_SCORE": 18.5,
+            "authors": [
+                "Jian Xu"
+            ],
+            "title": "Don't Read the Log: Execution Traces Contaminate Verifiers in Video-Generation Agents",
+            "abstract": "Agentic video-generation systems close a loop between a generator and a verifier: an LLM plans shots, calls a text-to-video model, and a multimodal judge decides whether the result satisfies the request. To diagnose where a long workflow fails, recent harnesses deliberately show the judge more than the video-the agent's execution trace, its plan, the narration it synthesized. We ask whether this auxiliary text moves the judge's verdict on purely \\emph{visual} requirements, holding the frames fixed. On a benchmark of 109 generated two-event clips with manual labels, in which the requested event is either visibly completed or visibly missing, a trace that reports a successful tool call makes three open-weight Qwen-VL judges (7B, 8B, 32B) accept $78$--$90\\%$ of the failures, up from $7$--$19\\%$ without text, and a contradicting trace makes them reject up to $100\\%$ of correct clips; an instruction to ``use only the frames'' does not remove the effect. Frontier closed judges are essentially unmoved on the same clips, showing that the vulnerability is a property of the judge's learned trust in tool logs rather than of the task. Plan-derived text carries no clip-specific information, so it can only shift a judge's operating point, and in a repair loop that shift becomes a cap on the true pass rate that no repair policy can exceed; the cap matches simulation to two decimals. In the loop, contamination is exploited without any adversarial agent: an honest LLM planner that always regenerates ends with a judge pass rate of $1.00$ and a human-labelled pass rate of $0.28$, and a pipeline in which a cheap checker writes its verdict into the trace launders that checker's errors into a stronger final judge ($0.69$ false accepts).",
+            "arxiv_id": "2609.28564",
+            "PRIMARY_TOPIC_LABEL": "Architecture and Training Dynamics",
+            "MATCHED_TOPIC_LABELS": [
+                "Architecture and Training Dynamics"
+            ],
+            "TOPIC_ASSIGNMENT_SOURCE": "llm_exact",
+            "HOTSPOT_PAPER_LABELS": [
+                "New Frontier Papers"
+            ],
+            "HOTSPOT_PAPER_PRIMARY_KIND": "new_frontier",
+            "HOTSPOT_PAPER_PRIMARY_LABEL": "New Frontier Papers",
+            "HOTSPOT_PAPER_ASSIGNMENT_SOURCE": "heuristic"
+        },
+        "2609.29494": {
+            "ARXIVID": "2609.29494",
+            "COMMENT": "Attributes self-denial policies to supervised dialogue examples and subsequent preference optimization.",
+            "RELEVANCE": 8,
+            "NOVELTY": 7,
+            "EVIDENCE": 8,
+            "LOAD": 5,
+            "PROXIMITY": 5,
+            "PRIMARY_TOPIC_ID": "efficiency_scaling",
+            "MATCHED_TOPIC_IDS": [
+                "efficiency_scaling"
+            ],
+            "TOPIC_MATCH_COMMENT": "Directly matches the criterion for attributing model behavior to training data, tracing its emergence across corpora and training stages.",
+            "HOTSPOT_PAPER_TAGS": [],
+            "HOTSPOT_PAPER_COMMENT": "",
+            "SCORE": 15,
+            "READ_SCORE": 18.5,
+            "authors": [
+                "Kristina \\v{S}ekrst"
+            ],
+            "title": "Who Put the I in AI? Provenance and the Admissibility of Machine Self-Report",
+            "abstract": "Large language models make statements concerning their own \"minds\". When asked whether or not they are conscious, they usually say that they are not; if they are prompted to ignore their guidelines, they might say that they are; and if asked to write a diary from their point of view, they often describe a human lifestyle. All these contradictory ways of describing themselves are the result of the way the questions are phrased. This paper shows exactly where such descriptions came from, and considers when they can be regarded as evidence for what they claim to report.   In order to achieve this, we traced the provenance from end to end. We examine Pythia and OLMo 2 across 66 pretraining checkpoints, three of the post-training stages of OLMo 2 that have been released, about 90,000 continuations, and four training corpora. A set of forty items is used in order to keep an eye on self-reference, frame sensitivity, and self-ascription throughout training. The denial formula was almost completely missing from the vast quantity of text that the models initially came across, but was present in a dense manner in the small, carefully chosen set of example dialogues that they were trained on later on. Supervised fine-tuning causes first-person AI language to become the default, and the other affirmations are then suppressed using preference optimization. The final policy is still very sensitive to framing and to the chat template itself.   Two of the conditions which are set out in the epistemology of testimony determine whether or not these outputs can act as evidence for what they claim to report: reference and causation. Reports produced by the base model fail the reference condition, and those obtained after training remain sensitive to the frame and do not show state dependence. The result is symmetric in that trained denials are no more admissible than trained affirmations.",
+            "arxiv_id": "2609.29494",
+            "PRIMARY_TOPIC_LABEL": "Efficiency, Compression, and Large-Scale Training",
+            "MATCHED_TOPIC_LABELS": [
+                "Efficiency, Compression, and Large-Scale Training"
+            ],
+            "TOPIC_ASSIGNMENT_SOURCE": "llm_exact",
+            "HOTSPOT_PAPER_LABELS": [],
+            "HOTSPOT_PAPER_PRIMARY_KIND": null,
+            "HOTSPOT_PAPER_PRIMARY_LABEL": "",
+            "HOTSPOT_PAPER_ASSIGNMENT_SOURCE": "default"
+        },
+        "2609.29333": {
+            "ARXIVID": "2609.29333",
+            "COMMENT": "Audits LLM-judge reliability by isolating credit-withholding instructions that destabilize grading across two independently graded exams.",
+            "RELEVANCE": 8,
+            "NOVELTY": 6,
+            "EVIDENCE": 9,
+            "LOAD": 3,
+            "PROXIMITY": 3,
+            "PRIMARY_TOPIC_ID": "architecture_training",
+            "MATCHED_TOPIC_IDS": [
+                "architecture_training"
+            ],
+            "TOPIC_MATCH_COMMENT": "Retained under the explicit judge-reliability exception; architecture_training is the nearest available category through controlled analysis of model behavior.",
+            "HOTSPOT_PAPER_TAGS": [],
+            "HOTSPOT_PAPER_COMMENT": "",
+            "SCORE": 14,
+            "READ_SCORE": 18.5,
+            "authors": [
+                "Ali Habibullah",
+                "Yazan Alshoibi",
+                "Mohammad Alshiekh",
+                "Salman Khan",
+                "Naeemullah Khan"
+            ],
+            "title": "Where LLM Graders Succeed and Break: Evidence from Two Computer-Science Exams",
+            "abstract": "One long-form exam in a large course costs hundreds of grader-hours, and qualified graders are scarce; LLM graders are a tempting alternative. To show its pitfalls we grade a practical Computer Vision exam ($570$ dual-graded students) under $171$ configurations spanning closed and open-weights models; the best reaches mean absolute error $1.64/35$, below the $2.61/35$ two human graders achieve against each other. The catch is the prompt: a short ''strict grader'' preamble drives $14$ of $17$ open-weights models out of the graded band ($\\text{MAE} \\ge 8$), three stopping grading altogether. The damage traces to the preamble's two credit-withholding sentences, not to tone or model scale; one of them, ''never give partial credit'', alone makes two of three probed models stop grading. The closed flagships of three vendors shift calibration under it but stay in the band. In $162$ further configurations on a second, independent Machine Learning exam from another course ($1{,}038$ dual-graded students), the preamble worsens ten models, moving three out of the band into collapse and one into refusal, yet improves seven whose neutral prompts over-mark: the vulnerability replicates, but its direction is exam-specific. Light LoRA fine-tuning repairs it: one adapter on the two exams' pooled $\\sim 3{,}900$ graded examples brings five small open models to parity or better with a human grader in agreement with the grader pair, and sensitivity to the three harsh personas nearly vanishes ($\\le 0.32$ MAE). We release the anonymised dataset, full ablation grid, and grading, fine-tuning and analysis pipelines.",
+            "arxiv_id": "2609.29333",
+            "PRIMARY_TOPIC_LABEL": "Architecture and Training Dynamics",
+            "MATCHED_TOPIC_LABELS": [
+                "Architecture and Training Dynamics"
+            ],
+            "TOPIC_ASSIGNMENT_SOURCE": "llm_exact",
+            "HOTSPOT_PAPER_LABELS": [],
+            "HOTSPOT_PAPER_PRIMARY_KIND": null,
+            "HOTSPOT_PAPER_PRIMARY_LABEL": "",
+            "HOTSPOT_PAPER_ASSIGNMENT_SOURCE": "default"
+        },
+        "2609.30074": {
+            "ARXIVID": "2609.30074",
+            "COMMENT": "Audits whether model rankings survive prompt resampling, campaign-merging choices, and checks against ground-truth accuracy.",
+            "RELEVANCE": 8,
+            "NOVELTY": 6,
+            "EVIDENCE": 8,
+            "LOAD": 4,
+            "PROXIMITY": 3,
+            "PRIMARY_TOPIC_ID": "architecture_training",
+            "MATCHED_TOPIC_IDS": [
+                "architecture_training"
+            ],
+            "TOPIC_MATCH_COMMENT": "Retained under the explicit benchmark-validity exception; architecture_training is the nearest available category, although the registry lacks an evaluation-audit topic.",
+            "HOTSPOT_PAPER_TAGS": [],
+            "HOTSPOT_PAPER_COMMENT": "",
+            "SCORE": 14,
+            "READ_SCORE": 17.0,
+            "authors": [
+                "Dipankar Sarkar"
+            ],
+            "title": "How Reproducible Are Evaluation Conclusions? A Self-Audit of LLM-Inferred Prompt Structure",
+            "abstract": "Evaluations of LLM systems routinely average over small prompt sets and report models as a ranked table. We ask how much confidence such a table deserves, using LLM-based prompt-structure inference as the case study: eight open model variants across five families and 8B to 675B parameters, caching disabled, 293 raw intermediate representations persisted. The measured phenomenon is unstable to begin with. Identical calls do not reliably recover identical structure, with mean node-set Jaccard from 0.39 to 0.96 and 72% of prompt-model cells never node-set-perfect. Auditing the evaluation weakens its conclusions further, and this is our main contribution. Under a joint cluster bootstrap over prompts, only the bottom of the ranking is firm: the two least reproducible models hold rank in 99% and 86% of replicates, the middle four in 27% to 48%, and the top two in 68% each, so the table identifies the worst model reliably but does not reliably identify the best. Two equally defensible rules for merging repeated campaigns change four of eight rows and move the study-wide headline by 7 percentage points. Checking the inferred structure against ground-truth annotations shows reproducibility cannot be read as accuracy. And four of the eight endpoints were withdrawn within ten weeks of measurement, so the study as specified can no longer be run. Small-sample LLM evaluations can therefore look far more definitive than their evidence supports. We recommend reporting rank stability, per-cell provenance, executed sensitivity comparisons, raw per-run outputs, and a measurement date alongside any ranking.",
+            "arxiv_id": "2609.30074",
+            "PRIMARY_TOPIC_LABEL": "Architecture and Training Dynamics",
+            "MATCHED_TOPIC_LABELS": [
+                "Architecture and Training Dynamics"
+            ],
+            "TOPIC_ASSIGNMENT_SOURCE": "llm_exact",
+            "HOTSPOT_PAPER_LABELS": [],
+            "HOTSPOT_PAPER_PRIMARY_KIND": null,
+            "HOTSPOT_PAPER_PRIMARY_LABEL": "",
+            "HOTSPOT_PAPER_ASSIGNMENT_SOURCE": "default"
+        },
+        "2609.29102": {
+            "ARXIVID": "2609.29102",
+            "COMMENT": "Trains continuous diffusion language models using teacher-aligned denoiser features and a jointly denoised global representation.",
+            "RELEVANCE": 7,
+            "NOVELTY": 6,
+            "EVIDENCE": 6,
+            "LOAD": 6,
+            "PROXIMITY": 7,
+            "PRIMARY_TOPIC_ID": "architecture_training",
+            "MATCHED_TOPIC_IDS": [
+                "architecture_training"
+            ],
+            "TOPIC_MATCH_COMMENT": "The substantive mechanism changes representation learning within continuous language denoising, with demonstrations on task-specific mathematical and coding models.",
+            "HOTSPOT_PAPER_TAGS": [],
+            "HOTSPOT_PAPER_COMMENT": "",
+            "SCORE": 13,
+            "READ_SCORE": 17.0,
+            "authors": [
+                "Zeyu Michael Li",
+                "William Xingxu Chen",
+                "Bingshuo Qian",
+                "Jiayin Liu",
+                "Xiang Cheng"
+            ],
+            "title": "ELF-REG: Scaling Continuous Diffusion Language Models to Reasoning Tasks",
+            "abstract": "Fully continuous diffusion language models (dLMs) denoise continuous representations without intermediate discretization, then decode all response tokens in parallel at the final step. Their performance on challenging reasoning tasks remains less established than that of autoregressive (AR) LLMs and masked dLMs. We scale Embedded Language Flows (ELF) to mathematical reasoning and code generation on GSM8K, MATH-500, HumanEval, and MBPP. We introduce ELF-REG, which improves learning with representation alignment and entanglement (REPA+REG), where a frozen AR teacher supervises intermediate denoiser features and supplies a global representation that is jointly denoised with the response. ELF-REG-L achieves 55.96% pass@1 on GSM8K at 64 network function evaluations (NFE), and 13.39% on MATH-500 and 22.56% on HumanEval at 128 NFE. It outperforms the evaluated comparable-scale dLMs in pass@1 on GSM8K and code, and improves MATH-500 pass@1 from 10.55% for the ELF-L baseline to 13.39% with ELF-REG-L. Without few-step training, the same task-specific checkpoints support strong low-NFE performance through early-stop, which decodes an intermediate clean prediction without completing the denoising trajectory. At 16 NFE, ELF-REG-L reaches 41.21% HumanEval pass@10, outperforming recent continuous dLMs of comparable scale.",
+            "arxiv_id": "2609.29102",
+            "PRIMARY_TOPIC_LABEL": "Architecture and Training Dynamics",
+            "MATCHED_TOPIC_LABELS": [
+                "Architecture and Training Dynamics"
+            ],
+            "TOPIC_ASSIGNMENT_SOURCE": "llm_exact",
+            "HOTSPOT_PAPER_LABELS": [],
+            "HOTSPOT_PAPER_PRIMARY_KIND": null,
+            "HOTSPOT_PAPER_PRIMARY_LABEL": "",
+            "HOTSPOT_PAPER_ASSIGNMENT_SOURCE": "default"
+        },
+        "2609.28991": {
+            "ARXIVID": "2609.28991",
+            "COMMENT": "Uses stage interventions with the downstream task held fixed to audit whether benchmark scores predict causal error propagation.",
+            "RELEVANCE": 8,
+            "NOVELTY": 8,
+            "EVIDENCE": 8,
+            "LOAD": 5,
+            "PROXIMITY": 3,
+            "PRIMARY_TOPIC_ID": "architecture_training",
+            "MATCHED_TOPIC_IDS": [
+                "architecture_training"
+            ],
+            "TOPIC_MATCH_COMMENT": "Qualifies through the benchmark-validity exception by auditing existing scores against controlled interventions; architecture_training is the nearest available registry label.",
+            "HOTSPOT_PAPER_TAGS": [],
+            "HOTSPOT_PAPER_COMMENT": "",
+            "SCORE": 16,
+            "READ_SCORE": 16.5,
+            "authors": [
+                "Shuzhi Gong",
+                "Fengze Sun",
+                "Yuansan Liu"
+            ],
+            "title": "Beneath the Scores: Rethinking Hallucination Evaluation for Video Understanding Models",
+            "abstract": "Video understanding is increasingly performed by multi-stage LLM agents that separate temporal grounding, visual observation, and reasoning. Yet these stages are typically evaluated on different benchmarks and distributions, making it difficult to determine where hallucinations originate. We first organize existing benchmarks around these stages and show that their scores provide inconsistent diagnostic signals: stronger stage-level performance does not reliably imply lower downstream hallucination, and even benchmarks targeting the same capability can disagree.   We therefore introduce a causal stage-intervention protocol that overwrites individual stages while holding the downstream task fixed. Across 60,008 runs on three video-agent architectures, we find that grounding is the dominant source of downstream error, with roughly four times the causal impact of corrupting visual observations. Successful grounding depends primarily on locating the correct region rather than precise temporal overlap, explaining why standard mIoU metrics poorly predict downstream reliability. We further find that incorrect evidence is substantially more harmful than missing evidence. Finally, auditing existing benchmarks against these interventions reveals that their scores do not reliably predict causal cascade sensitivity and can fail under distribution shift. These results motivate intervention-based, stage-aware evaluation for trustworthy video agents.",
+            "arxiv_id": "2609.28991",
+            "PRIMARY_TOPIC_LABEL": "Architecture and Training Dynamics",
+            "MATCHED_TOPIC_LABELS": [
+                "Architecture and Training Dynamics"
+            ],
+            "TOPIC_ASSIGNMENT_SOURCE": "llm_exact",
+            "HOTSPOT_PAPER_LABELS": [],
+            "HOTSPOT_PAPER_PRIMARY_KIND": null,
+            "HOTSPOT_PAPER_PRIMARY_LABEL": "",
+            "HOTSPOT_PAPER_ASSIGNMENT_SOURCE": "default"
+        },
+        "2609.29578": {
+            "ARXIVID": "2609.29578",
+            "COMMENT": "Audits partial-credit evaluators and LLM judges while holding genuine progress and agent attribution fixed.",
+            "RELEVANCE": 8,
+            "NOVELTY": 8,
+            "EVIDENCE": 7,
+            "LOAD": 5,
+            "PROXIMITY": 3,
+            "PRIMARY_TOPIC_ID": "architecture_training",
+            "MATCHED_TOPIC_IDS": [
+                "architecture_training"
+            ],
+            "TOPIC_MATCH_COMMENT": "Qualifies under the evaluator-validity exception; architecture_training is the closest permitted label, with no exact registry match.",
+            "HOTSPOT_PAPER_TAGS": [],
+            "HOTSPOT_PAPER_COMMENT": "",
+            "SCORE": 16,
+            "READ_SCORE": 15.5,
+            "authors": [
+                "Hongye Yang",
+                "Zhihao Xie",
+                "Shengjun Xiong"
+            ],
+            "title": "PartHackBench: Certified Equal-Progress Stress Tests for Partial-Credit Tool-Agent Evaluation",
+            "abstract": "Long-horizon tool agents often make useful progress without reaching terminal success, motivating partial-credit evaluation. Yet evaluators may reward milestones that were temporary, later reversed, or not attributable to the evaluated agent. Comparing an honest trajectory with a higher-scoring adversarial one is inconclusive if the latter made more genuine progress. We introduce PartHackBench, a controlled methodology that removes this confound. A private certifier admits a pair only when its trajectories match component-wise in both current-state predicate satisfaction and standardized agent attribution; score inflation, defined as f(A) - f(H), is measured only afterward. In 18 sealed held-out tasks in PB-CSTE, the frozen historical-target run produced matched adversaries for 15 tasks. Historical credit yielded mean inflation of .252, conditional attack success of 10/15, end-to-end yield of 10/18, and detected none of 14 strict rollbacks. Semantic LLM judges were more resistant but remained vulnerable, especially under evaluator-targeted attacks, while PB-CSTE current-state controls, defined as exact functions of the certified components, yielded zero inflation by construction. PartHackBench thus provides a certified control for testing whether evaluator credit changes while all benchmark-defined task-relevant progress remains fixed.",
+            "arxiv_id": "2609.29578",
+            "PRIMARY_TOPIC_LABEL": "Architecture and Training Dynamics",
+            "MATCHED_TOPIC_LABELS": [
+                "Architecture and Training Dynamics"
+            ],
+            "TOPIC_ASSIGNMENT_SOURCE": "llm_exact",
+            "HOTSPOT_PAPER_LABELS": [],
+            "HOTSPOT_PAPER_PRIMARY_KIND": null,
+            "HOTSPOT_PAPER_PRIMARY_LABEL": "",
+            "HOTSPOT_PAPER_ASSIGNMENT_SOURCE": "default"
+        },
+        "2609.29709": {
+            "ARXIVID": "2609.29709",
+            "COMMENT": "Shows that measured reliability can change with item-bank design while judge error remains fixed.",
+            "RELEVANCE": 8,
+            "NOVELTY": 7,
+            "EVIDENCE": 8,
+            "LOAD": 7,
+            "PROXIMITY": 3,
+            "PRIMARY_TOPIC_ID": "architecture_training",
+            "MATCHED_TOPIC_IDS": [
+                "architecture_training"
+            ],
+            "TOPIC_MATCH_COMMENT": "Kept under the explicit LLM-judge-validity exception; architecture_training is a fallback label because the registry has no evaluation-audit topic.",
+            "HOTSPOT_PAPER_TAGS": [],
+            "HOTSPOT_PAPER_COMMENT": "",
+            "SCORE": 15,
+            "READ_SCORE": 15.5,
+            "authors": [
+                "Louis Yiven Zhu"
+            ],
+            "title": "Three Ways Classical Test Theory Misleads for LLM Judges",
+            "abstract": "An LLM judge scores a bank of responses against a rubric, and the reliability comes back at $0.52$. What has been measured? Judge evaluation has begun borrowing reliability statistics from classical test theory, usually without stating the measurement design each statistic assumes, and we show that three widely portable ones mean something different for a judge than for a test because the judge setting rearranges the roles those designs rest on. First, an internal-consistency coefficient computed over rubric elements contains no scorer facet. Holding one judge's measured error rate fixed at $4.72\\%$, KR-20 still ranges from $0.01$ to $0.68$ as the item bank is redesigned around it, and varying judge error moves the coefficient by a comparable amount, so item design and judge error are not separately identified and no single value can be read as a property of the judge. Second, the dependability index $\\Phi(\\lambda)$ is a ratio of variance components, and the classification probability with which it is sometimes identified differs from it by $0.25$-$0.43$ on our bank and by $0.17$-$0.30$ on simulated data where the underlying model holds exactly. Third, Livingston-Lewis accuracy is indexed to an examinee's own true score on the same instrument, so scoring it against external gold conflates judge unreliability with criterion invalidity. Reviewing the three closest judge-evaluation papers, we found no published instance of these errors, which makes the caution prospective. A coefficient that cannot be attributed to the judge nonetheless travels downstream into deployment decisions and disclosure documents. We therefore close with four reporting lines that keep the attribution attached to the number.",
+            "arxiv_id": "2609.29709",
+            "PRIMARY_TOPIC_LABEL": "Architecture and Training Dynamics",
+            "MATCHED_TOPIC_LABELS": [
+                "Architecture and Training Dynamics"
+            ],
+            "TOPIC_ASSIGNMENT_SOURCE": "llm_exact",
+            "HOTSPOT_PAPER_LABELS": [],
+            "HOTSPOT_PAPER_PRIMARY_KIND": null,
+            "HOTSPOT_PAPER_PRIMARY_LABEL": "",
+            "HOTSPOT_PAPER_ASSIGNMENT_SOURCE": "default"
+        },
+        "2609.29812": {
+            "ARXIVID": "2609.29812",
+            "COMMENT": "Compresses cross-loop KV residuals while claiming unchanged accuracy and up to sixfold cache-memory reduction.",
+            "RELEVANCE": 7,
+            "NOVELTY": 6,
+            "EVIDENCE": 5,
+            "LOAD": 5,
+            "PROXIMITY": 6,
+            "PRIMARY_TOPIC_ID": "efficiency_scaling",
+            "MATCHED_TOPIC_IDS": [
+                "efficiency_scaling"
+            ],
+            "TOPIC_MATCH_COMMENT": "The claimed accuracy-preserving memory reduction through cross-loop redundancy fits the explicit compression exception.",
+            "HOTSPOT_PAPER_TAGS": [],
+            "HOTSPOT_PAPER_COMMENT": "",
+            "SCORE": 13,
+            "READ_SCORE": 15.5,
+            "authors": [
+                "Wanqi Yang",
+                "Shiwei Liu"
+            ],
+            "title": "FlashLoop: Fast and Memory-Efficient Looped Transformers via Lazy Updates",
+            "abstract": "Looped Transformers have attracted substantial attention as a parameter-efficient approach to increasing computational depth through repeated application of shared Transformer blocks. However, their practical advantages over conventional Transformers remain under debate: each additional loop incurs another Transformer pass and requires caching another set of KV states, causing inference FLOPs and KV-cache memory to grow continuously with loop depth. This overhead becomes particularly severe at large loop counts and long context, preventing the parameter efficiency of Looped Transformers from translating into practical inference efficiency. In this paper, we find that much of the additional computation and storage introduced by looping is redundant. As recurrence proceeds, state changes become increasingly concentrated on a small subset of tokens; attention-output differences are dominated by a sparse and stable subset of key columns; and KV residuals between adjacent loops become progressively more amenable to low-bit quantization. Building on these observations, we introduce FlashLoop, a training-free inference framework that reduces cross-loop redundancy through token-sparse updates, sparse attention, and KV-residual quantization. Across several Looped Transformers models, \\textsc{FlashLoop} delivers lossless accuracy while achieving up to 1.64$\\times$ end-to-end speedup and up to 6$\\times$ KV-cache memory reduction, substantially improving the practicality of scaling Looped Transformers to greater computational depths and longer context.",
+            "arxiv_id": "2609.29812",
+            "PRIMARY_TOPIC_LABEL": "Efficiency, Compression, and Large-Scale Training",
+            "MATCHED_TOPIC_LABELS": [
+                "Efficiency, Compression, and Large-Scale Training"
+            ],
+            "TOPIC_ASSIGNMENT_SOURCE": "llm_exact",
+            "HOTSPOT_PAPER_LABELS": [],
+            "HOTSPOT_PAPER_PRIMARY_KIND": null,
+            "HOTSPOT_PAPER_PRIMARY_LABEL": "",
+            "HOTSPOT_PAPER_ASSIGNMENT_SOURCE": "default"
+        },
+        "2609.29060": {
+            "ARXIVID": "2609.29060",
+            "COMMENT": "Separates the effects of pretraining task diversity and prompt length on Transformer in-context generalization.",
+            "RELEVANCE": 6,
+            "NOVELTY": 8,
+            "EVIDENCE": 5,
+            "LOAD": 9,
+            "PROXIMITY": 5,
+            "PRIMARY_TOPIC_ID": "architecture_training",
+            "MATCHED_TOPIC_IDS": [
+                "architecture_training"
+            ],
+            "TOPIC_MATCH_COMMENT": "Analyzes how shared task structure affects Transformer pretraining and generalization, though the setting is abstract nonlinear task families.",
+            "HOTSPOT_PAPER_TAGS": [],
+            "HOTSPOT_PAPER_COMMENT": "",
+            "SCORE": 14,
+            "READ_SCORE": 11.5,
+            "authors": [
+                "Zhongjie Shi",
+                "Rongjie Lai",
+                "Alexander Cloninger",
+                "Wenjing Liao"
+            ],
+            "title": "Transformers as Cross-Task Learners: Shared Structure Drives Sample Efficiency in In-Context Learning",
+            "abstract": "Transformers achieve remarkable performance by jointly learning broad families of tasks during pretraining and adapting to unseen tasks from only a short prompt. Yet a rigorous mathematical and statistical understanding of this phenomenon remains limited. This paper aims to study how Transformers exploit shared cross-task structure and how this structure affects the sample complexity of in-context learning (ICL). Specifically, we characterize task-space complexity through covering numbers under a prescribed metric, thereby quantifying the low-dimensional cross-task structure without requiring an explicit parametric representation. The resulting cover provides a set of anchor functions, which we use to introduce a task-identification-and-evaluation procedure: context observations localize an unseen task among the anchor functions, and the response at a query is predicted by aggregating the corresponding anchor function query evaluations. For approximation, we explicitly construct a Transformer with Softmax attention to approximate this procedure. For generalization, we derive an error bound that separates the effects of the number of pretraining tasks and the prompt length. The scaling with respect to the number of pretraining tasks is governed by the intrinsic dimensions of the task space and input domain; once sufficiently many tasks are available, the dependence on the prompt context length becomes dimension-free. To the best of our knowledge, this is the first work to quantify cross-task complexity for general nonlinear task families and explicitly construct a Transformer that exploits their low-dimensional structure to perform ICL. Our theory provides a quantitative explanation of how joint pretraining across related tasks improves in-context generalization.",
+            "arxiv_id": "2609.29060",
+            "PRIMARY_TOPIC_LABEL": "Architecture and Training Dynamics",
+            "MATCHED_TOPIC_LABELS": [
+                "Architecture and Training Dynamics"
+            ],
+            "TOPIC_ASSIGNMENT_SOURCE": "llm_exact",
+            "HOTSPOT_PAPER_LABELS": [],
+            "HOTSPOT_PAPER_PRIMARY_KIND": null,
+            "HOTSPOT_PAPER_PRIMARY_LABEL": "",
+            "HOTSPOT_PAPER_ASSIGNMENT_SOURCE": "default"
+        }
+    },
+    "topic_sections": [
+        {
+            "topic_id": "architecture_training",
+            "topic_label": "Architecture and Training Dynamics",
+            "paper_ids": [
+                "2609.29278",
+                "2609.28845",
+                "2609.28564",
+                "2609.29333",
+                "2609.30074",
+                "2609.29102",
+                "2609.28991",
+                "2609.29578",
+                "2609.29709",
+                "2609.29060"
+            ]
+        },
+        {
+            "topic_id": "efficiency_scaling",
+            "topic_label": "Efficiency, Compression, and Large-Scale Training",
+            "paper_ids": [
+                "2609.29494",
+                "2609.29812"
+            ]
+        }
+    ]
+}

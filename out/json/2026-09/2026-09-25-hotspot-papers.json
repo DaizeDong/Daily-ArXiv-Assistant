@@ -1,0 +1,259 @@
+{
+    "schema_version": 1,
+    "meta": {
+        "date": "2026-09-25",
+        "total_candidates": 107,
+        "total_spotlight_papers": 5,
+        "thresholds": {
+            "daily_hot_score_cutoff": 15,
+            "daily_hot_relevance_cutoff": 7,
+            "new_frontier_score_cutoff": 15,
+            "new_frontier_novelty_cutoff": 8
+        },
+        "caps": {
+            "max_daily_hot": 6,
+            "max_new_frontier": 4
+        }
+    },
+    "diagnostics": {
+        "candidate_count_by_kind": {
+            "new_frontier": 5,
+            "daily_hot": 3
+        },
+        "selected_count_by_kind": {
+            "new_frontier": 4,
+            "daily_hot": 1
+        }
+    },
+    "papers": {
+        "2609.29845": {
+            "ARXIVID": "2609.29845",
+            "COMMENT": "Tests whether mixed-stream superposition is intrinsic to Transformer architecture by tracking how it diminishes during pretraining.",
+            "RELEVANCE": 10,
+            "NOVELTY": 9,
+            "EVIDENCE": 5,
+            "LOAD": 5,
+            "PROXIMITY": 9,
+            "PRIMARY_TOPIC_ID": "architecture_training",
+            "MATCHED_TOPIC_IDS": [
+                "architecture_training"
+            ],
+            "TOPIC_MATCH_COMMENT": "Directly investigates how Transformer computation is organized and how pretraining changes an architectural property.",
+            "HOTSPOT_PAPER_TAGS": [
+                "new_frontier",
+                "daily_hot"
+            ],
+            "HOTSPOT_PAPER_COMMENT": "Broadly important today and potentially frontier-opening: Tests whether mixed-stream superposition is intrinsic to Transformer architecture by tracking how it diminishes during pretraining.",
+            "SCORE": 19,
+            "READ_SCORE": 21.5,
+            "authors": [
+                "Pavel Tikhonov",
+                "Anton Korznikov",
+                "Matvey Mikhalchuk",
+                "Nikita Dragunov",
+                "Temurbek Rahmatullaev",
+                "Polina Druzhinina",
+                "Anton Razzhigaev",
+                "Ivan Oseledets",
+                "Elena Tutubalina"
+            ],
+            "title": "Your Transformer Can Hold Two Thoughts at Once: Evidence of Linear Superposition in LLMs",
+            "abstract": "While Large Language Models (LLMs) rely on highly non-linear components, in this work we demonstrate that they exhibit fundamental linearity: when inputs from distinct text streams are linearly combined, the model outputs a superposition of the individual next-token distributions. We term this the \\textit{Superposition Linearity Hypothesis}. We provide evidence that superposition is an intrinsic property of the Transformer architecture rather than an emergent consequence of training; in fact, we observe that it tends to diminish as pretraining progresses. However, we demonstrate that linearity can be substantially restored through lightweight fine-tuning, significantly reducing the divergence between the predicted next-token distribution and the average of the individual next-token distributions. Finally, we introduce a guided decoding procedure that disentangles superposed outputs, enabling the simultaneous generation of two coherent continuations from a single forward pass.",
+            "arxiv_id": "2609.29845",
+            "PRIMARY_TOPIC_LABEL": "Architecture and Training Dynamics",
+            "MATCHED_TOPIC_LABELS": [
+                "Architecture and Training Dynamics"
+            ],
+            "TOPIC_ASSIGNMENT_SOURCE": "llm_exact",
+            "HOTSPOT_PAPER_LABELS": [
+                "New Frontier Papers",
+                "Daily Hot Papers"
+            ],
+            "HOTSPOT_PAPER_PRIMARY_KIND": "new_frontier",
+            "HOTSPOT_PAPER_PRIMARY_LABEL": "New Frontier Papers",
+            "HOTSPOT_PAPER_ASSIGNMENT_SOURCE": "heuristic"
+        },
+        "2609.30063": {
+            "ARXIVID": "2609.30063",
+            "COMMENT": "Replaces externally supplied pretraining data with a self-play program curriculum, holding natural-data exposure at zero while scaling compute.",
+            "RELEVANCE": 10,
+            "NOVELTY": 9,
+            "EVIDENCE": 5,
+            "LOAD": 6,
+            "PROXIMITY": 9,
+            "PRIMARY_TOPIC_ID": "architecture_training",
+            "MATCHED_TOPIC_IDS": [
+                "architecture_training"
+            ],
+            "TOPIC_MATCH_COMMENT": "The contribution changes how autoregressive pretraining obtains its data and adapts its curriculum from random initialization.",
+            "HOTSPOT_PAPER_TAGS": [
+                "new_frontier"
+            ],
+            "HOTSPOT_PAPER_COMMENT": "An early proof of concept for replacing natural-data corpora with self-play over executable programs.",
+            "SCORE": 19,
+            "READ_SCORE": 21.0,
+            "authors": [
+                "Aditya Cowsik",
+                "Kfir Dolev",
+                "Michael Y. Li",
+                "G. Bruno De Luca",
+                "Nourya Cohen",
+                "Noah D. Goodman",
+                "Yoav Levine"
+            ],
+            "title": "Self-Play Pretraining with Zero Data",
+            "abstract": "Advances in language modeling have been driven by scaling pretraining on ever more data. Yet, the training data is still largely curated on the model's behalf. A more general approach to pretraining would let the model learn to generate the data most useful for its own improvement. This would provide an effectively unbounded source of training data, limited by compute rather than human knowledge. We introduce Self-Play Pretraining with Zero Data, an initial proof-of-concept towards realizing this vision. Our procedure casts synthetic data generation as a search over the space of all computable structure, taking inspiration from Solomonoff induction. Starting from random initialization, two models learn in tandem: a generator proposes programs interpreted by a universal Turing machine, generating byte sequences, while a learner autoregressively predicts these byte sequences. The learner is trained with standard cross-entropy, while the generator is trained with reinforcement learning to produce sequences at the frontier of the learner's capabilities, yielding an adaptive curriculum. A universal Turing machine gives us a search space over all computable data-generating processes, imposing little domain-specific structure, and self-play searches over this space for useful training data. We test whether zero-shot performance on natural data improves predictably with self-play compute; this is a clean test of transfer since neither generator nor learner is trained on natural data. Across several natural datasets, zero-shot loss exhibits predictable scaling in compute. The models also exhibit in-context learning, and discover recognizable mathematical sequences during training.",
+            "arxiv_id": "2609.30063",
+            "PRIMARY_TOPIC_LABEL": "Architecture and Training Dynamics",
+            "MATCHED_TOPIC_LABELS": [
+                "Architecture and Training Dynamics"
+            ],
+            "TOPIC_ASSIGNMENT_SOURCE": "llm_exact",
+            "HOTSPOT_PAPER_LABELS": [
+                "New Frontier Papers"
+            ],
+            "HOTSPOT_PAPER_PRIMARY_KIND": "new_frontier",
+            "HOTSPOT_PAPER_PRIMARY_LABEL": "New Frontier Papers",
+            "HOTSPOT_PAPER_ASSIGNMENT_SOURCE": "llm_exact"
+        },
+        "2609.30210": {
+            "ARXIVID": "2609.30210",
+            "COMMENT": "Traces spurious visual-text alignment to anisotropic MLP down-projections using controlled visual corruption.",
+            "RELEVANCE": 9,
+            "NOVELTY": 9,
+            "EVIDENCE": 9,
+            "LOAD": 6,
+            "PROXIMITY": 8,
+            "PRIMARY_TOPIC_ID": "architecture_training",
+            "MATCHED_TOPIC_IDS": [
+                "architecture_training"
+            ],
+            "TOPIC_MATCH_COMMENT": "Explains how the shared language-model pathway produces alignment geometry, with falsifiable interventions across 13 models from five families.",
+            "HOTSPOT_PAPER_TAGS": [
+                "new_frontier",
+                "daily_hot"
+            ],
+            "HOTSPOT_PAPER_COMMENT": "Broadly important today and potentially frontier-opening: Traces spurious visual-text alignment to anisotropic MLP down-projections using controlled visual corruption.",
+            "SCORE": 18,
+            "READ_SCORE": 23.0,
+            "authors": [
+                "Hong-Han Wang",
+                "Yuntao Wang",
+                "Hu Ding"
+            ],
+            "title": "The Alignment Illusion in Multimodal Large Language Models",
+            "abstract": "Layer-wise visual-text similarity in Multimodal Large Language Models (MLLMs) is widely interpreted as evidence that the language model progressively integrates visual content into a shared representation space. This reading rests on the assumption that scalar alignment scores reflect content-level cross-modal interaction. To test this assumption, we apply controlled interventions to the visual stream. Across 13 MLLMs from five families spanning 0.5B to 72B parameters, replacing projector-output visual tokens with Gaussian noise sharply reduces task accuracy, yet four standard scalar measures (CKA, SVCCA, MIR, and the leading principal-angle cosine) fail to consistently separate the corrupted stream from the original. We call this failure the alignment illusion and trace it to the shared language-model pathway: anisotropic MLP down-projections pull visual and text tokens toward common output directions, producing weight-induced alignment. Because this component is essentially one-dimensional, we introduce the principal-angle gap (PA gap), defined as the difference between the top two principal-angle cosines, which separates weight-induced similarity from multi-directional visual structure. Under graded visual corruption, the PA gap tracks task accuracy more consistently than the scalar scores we consider; under a structured but irrelevant image, it further exposes regimes in which internal geometry and task accuracy come apart. Internal visual-text alignment in MLLMs is therefore best read as a geometric diagnostic of the visual stream inside the language model rather than a direct proxy for content-level cross-modal interaction, and is most informative when calibrated by controlled task evidence.",
+            "arxiv_id": "2609.30210",
+            "PRIMARY_TOPIC_LABEL": "Architecture and Training Dynamics",
+            "MATCHED_TOPIC_LABELS": [
+                "Architecture and Training Dynamics"
+            ],
+            "TOPIC_ASSIGNMENT_SOURCE": "llm_exact",
+            "HOTSPOT_PAPER_LABELS": [
+                "New Frontier Papers",
+                "Daily Hot Papers"
+            ],
+            "HOTSPOT_PAPER_PRIMARY_KIND": "new_frontier",
+            "HOTSPOT_PAPER_PRIMARY_LABEL": "New Frontier Papers",
+            "HOTSPOT_PAPER_ASSIGNMENT_SOURCE": "heuristic"
+        },
+        "2609.29048": {
+            "ARXIVID": "2609.29048",
+            "COMMENT": "A controlled VQ-tokenizer swap induces an early attention circuit, isolating an architectural cause of object hallucination.",
+            "RELEVANCE": 8,
+            "NOVELTY": 9,
+            "EVIDENCE": 9,
+            "LOAD": 6,
+            "PROXIMITY": 8,
+            "PRIMARY_TOPIC_ID": "architecture_training",
+            "MATCHED_TOPIC_IDS": [
+                "architecture_training"
+            ],
+            "TOPIC_MATCH_COMMENT": "Causal tokenizer swaps, matched-compute controls and attention ablations explain how an architectural choice produces a specific computation in language backbones.",
+            "HOTSPOT_PAPER_TAGS": [
+                "new_frontier"
+            ],
+            "HOTSPOT_PAPER_COMMENT": "Potentially frontier-opening: A controlled VQ-tokenizer swap induces an early attention circuit, isolating an architectural cause of object hallucination.",
+            "SCORE": 17,
+            "READ_SCORE": 22.0,
+            "authors": [
+                "Shamanthak Hegde",
+                "Xiangrui Liu",
+                "Maitreya Patel",
+                "Yezhou Yang"
+            ],
+            "title": "Where Hallucinations Live: A Cross-Architecture Circuit in VQ-Tokenized Vision-Language Models",
+            "abstract": "Unified vision-language models (VLMs) that tokenize images through a vector-quantized (VQ) codebook routinely hallucinate objects on grounded yes/no benchmarks, yet existing decoding-time fixes treat this as generic miscalibration without an architectural account. Using activation patching across twenty-five models spanning eight LLM families, we identify an early-layer ($L_0$) attention routing circuit shared across VQ-tokenized VLMs and propose a three-gate diagnostic that distinguishes the models carrying it from those that do not. The diagnostic isolates ten positive models (five natural unified-VQ VLMs across three LLM families and five induced variants) and rejects the remaining fifteen. A single-variable architectural swap (LLaVA-1.6 CLIP+MLP $\\rightarrow$ VQ+Linear) installs the circuit, while a matched-compute MLP control on identical data does not, isolating vector quantization as the source of the pathological signal; the routing pathway that carries it is one that the backbone already provides. Against tuned VCD and DoLA baselines, tuned DoLA wins on binary calibration, but \\textbf{only $L_0$ ablation reduces object hallucination in open-ended generation} (CHAIR$_i$ reduces by $31\\,\\%$ relatively, whereas tuned DoLA and VCD leave it unchanged or worsen it). These results recast object hallucination in unified VQ VLMs as a property of architecture and pretraining, and yield a targeted intervention that mechanism-agnostic decoding cannot replicate.",
+            "arxiv_id": "2609.29048",
+            "PRIMARY_TOPIC_LABEL": "Architecture and Training Dynamics",
+            "MATCHED_TOPIC_LABELS": [
+                "Architecture and Training Dynamics"
+            ],
+            "TOPIC_ASSIGNMENT_SOURCE": "llm_exact",
+            "HOTSPOT_PAPER_LABELS": [
+                "New Frontier Papers"
+            ],
+            "HOTSPOT_PAPER_PRIMARY_KIND": "new_frontier",
+            "HOTSPOT_PAPER_PRIMARY_LABEL": "New Frontier Papers",
+            "HOTSPOT_PAPER_ASSIGNMENT_SOURCE": "heuristic"
+        },
+        "2609.29587": {
+            "ARXIVID": "2609.29587",
+            "COMMENT": "Layer-delta ablations reveal distributed damage from sequential edits despite preserved general-knowledge accuracy.",
+            "RELEVANCE": 8,
+            "NOVELTY": 8,
+            "EVIDENCE": 9,
+            "LOAD": 5,
+            "PROXIMITY": 4,
+            "PRIMARY_TOPIC_ID": "architecture_training",
+            "MATCHED_TOPIC_IDS": [
+                "architecture_training"
+            ],
+            "TOPIC_MATCH_COMMENT": "Examines post-training instability through layer-delta interventions and audits editing metrics that miss broader model damage.",
+            "HOTSPOT_PAPER_TAGS": [
+                "daily_hot"
+            ],
+            "HOTSPOT_PAPER_COMMENT": "Standard edit-success and locality checks can remain clean even when repeated editing collapses general capability, exposing a consequential evaluation blind spot.",
+            "SCORE": 16,
+            "READ_SCORE": 18.5,
+            "authors": [
+                "Atul Anand"
+            ],
+            "title": "Sequential knowledge editing breaks a model's ability to tell good evidence from bad, without costing it accuracy",
+            "abstract": "Knowledge editing is evaluated on whether the edited fact changed, whether paraphrases follow, and whether unrelated answers stayed put. A model can pass all three and still lose something none of them measures: the ability to decide, on facts that were never edited, which retrieved documents to believe.   We score the log odds a model assigns to its remembered answer against the answer an injected passage asserts, before and after editing, holding the query, the passage and both candidate strings fixed. Our cleanest arm is a conservatively tuned LoRA: after 1,000 sequential edits on Qwen2.5-7B-Instruct it leaves MMLU unchanged to four decimal places, yet the spread of the arbitration quantity across untouched facts falls by 36%. Selective prediction degrades with it. Area under the risk-coverage curve rises by 0.107, against 0.005 for a norm-matched perturbation at the same MMLU, and error on the model's most confident quarter of arbitration decisions goes from 0.217 to 0.342.   This is not capability loss. Sweeping random perturbation over five severities, damage bad enough to cut MMLU from 0.6275 to 0.3725 produces less harm (0.088) than MEMIT does at 0.6050 (0.102). The effect holds across three seeds, two model families, two datasets, two probe-disjointness criteria, three prompt templates and paraphrased queries. Layer ablation on saved weight deltas shows it is distributed: no single layer reproduces it, and removing any one recovers about half. Under retrieval with a frozen retriever, accuracy falls from 0.592 to 0.46.   A secondary finding may matter more in practice. Three of five model and method pairings we ran collapse to chance MMLU at 1,000 sequential edits under published hyperparameters, while edit success stays at 1.00 and locality reads clean. Sequential-editing evaluations that never measure capability cannot see this.",
+            "arxiv_id": "2609.29587",
+            "PRIMARY_TOPIC_LABEL": "Architecture and Training Dynamics",
+            "MATCHED_TOPIC_LABELS": [
+                "Architecture and Training Dynamics"
+            ],
+            "TOPIC_ASSIGNMENT_SOURCE": "llm_exact",
+            "HOTSPOT_PAPER_LABELS": [
+                "Daily Hot Papers"
+            ],
+            "HOTSPOT_PAPER_PRIMARY_KIND": "daily_hot",
+            "HOTSPOT_PAPER_PRIMARY_LABEL": "Daily Hot Papers",
+            "HOTSPOT_PAPER_ASSIGNMENT_SOURCE": "llm_exact"
+        }
+    },
+    "sections": [
+        {
+            "kind": "new_frontier",
+            "label": "New Frontier Papers",
+            "description": "Papers that appear to open a genuinely new direction, paradigm, or field.",
+            "paper_ids": [
+                "2609.29845",
+                "2609.30063",
+                "2609.30210",
+                "2609.29048"
+            ]
+        },
+        {
+            "kind": "daily_hot",
+            "label": "Daily Hot Papers",
+            "description": "Papers that feel broadly important to the day and belong in the hotspot paper feed.",
+            "paper_ids": [
+                "2609.29587"
+            ]
+        }
+    ]
+}
