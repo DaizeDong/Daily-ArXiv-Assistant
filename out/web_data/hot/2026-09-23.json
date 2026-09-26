@@ -1478,13 +1478,7 @@
           "published_at": "2026-09-22T20:17:17-04:00"
         }
       ],
-      "route": "/hot/2026-09-23/topic/advisory-group-on-mathematics-and-artificial-intelligence/",
-      "headline_zh": "数学与人工智能咨询小组",
-      "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
-      "category_zh": "行业动态",
-      "key_takeaways_zh": [
-        "把一系列亮眼的数学成果搞成声誉危机后，OpenAI 正向人类数学家求教，希望今后少出些乱子。周一，……"
-      ]
+      "route": "/hot/2026-09-23/topic/advisory-group-on-mathematics-and-artificial-intelligence/"
     },
     {
       "topic_id": "ad597eb7e053",
@@ -1524,14 +1518,7 @@
           "published_at": "Wed, 23 Sep 2026 04:59:08 +0000"
         }
       ],
-      "route": "/hot/2026-09-23/topic/we-re-already-fighting-yesterday-s-battle-greece-s-prime-minister-gets-candid-about-ai/",
-      "headline_zh": "“我们打的已是昨天的仗”：希腊总理坦率谈 AI",
-      "summary_short_zh": "多数领导人在经贸访问中只谈推介，但本周我采访希腊总理基里亚科斯·米佐塔基斯时，他还坦言，没有哪个政府准备好应对 AI 即将带来的变化",
-      "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
-      "category_zh": "行业动态",
-      "key_takeaways_zh": [
-        "多数领导人在经贸访问中只谈推介，但本周我采访希腊总理基里亚科斯·米佐塔基斯时，他还坦言，没有哪个政府准备好应对 AI 即将带来的变化。"
-      ]
+      "route": "/hot/2026-09-23/topic/we-re-already-fighting-yesterday-s-battle-greece-s-prime-minister-gets-candid-about-ai/"
     },
     {
       "topic_id": "8e3cad2fbf9d",
@@ -1571,14 +1558,7 @@
           "published_at": "Wed, 23 Sep 2026 01:00:54 +0000"
         }
       ],
-      "route": "/hot/2026-09-23/topic/l3-mpv-42/",
-      "headline_zh": "华为全新智驾上车，全域L3架构，岚图最强旗舰MPV 42万开卖",
-      "summary_short_zh": "纯电120kWh大电池，18.1吨压着照样开",
-      "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
-      "category_zh": "行业动态",
-      "key_takeaways_zh": [
-        "纯电120kWh大电池，18.1吨压着照样开"
-      ]
+      "route": "/hot/2026-09-23/topic/l3-mpv-42/"
     }
   ],
   "category_sections": [
@@ -1639,11 +1619,7 @@
               "published_at": "2026-09-22T19:55:00+00:00"
             }
           ],
-          "route": "/hot/2026-09-23/topic/claude-opus-5-5-is-now-available-on-aws/",
-          "headline_zh": "Claude Opus 5.5 现已在 AWS 上线",
-          "summary_short_zh": "Anthropic 的 Claude Opus 5.5 现已通过 Amazon Bedrock 和 AWS 上的 Claude Platform 提供。Anthropic 将其定位为旗下在智能体编程、知识工作和长时间运行任务方面能力最强的 Opus 模型",
-          "why_it_matters_zh": "这条产品发布消息见于 6 个独立来源。",
-          "category_zh": "产品发布"
+          "route": "/hot/2026-09-23/topic/claude-opus-5-5-is-now-available-on-aws/"
         },
         {
           "topic_id": "71f3ea51af2a",
@@ -1681,10 +1657,7 @@
               "published_at": "Tue, 22 Sep 2026 00:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-09-23/topic/building-standards-for-the-next-phase-of-ai/",
-          "headline_zh": "为 AI 的下一阶段制定标准",
-          "why_it_matters_zh": "这条产品发布消息见于 1 个独立来源。",
-          "category_zh": "产品发布"
+          "route": "/hot/2026-09-23/topic/building-standards-for-the-next-phase-of-ai/"
         },
         {
           "topic_id": "79a3902203e0",
@@ -1722,11 +1695,7 @@
               "published_at": "Tue, 22 Sep 2026 12:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-09-23/topic/parallel-cut-research-time-and-cost-in-half-with-gpt-6-astra/",
-          "headline_zh": "Parallel 借助 GPT‑6 Astra 将调研时间和成本减半",
-          "summary_short_zh": "相比此前的模型，GPT‑6 Astra 让 Parallel 的智能体调研和整合劳动力市场数据所需的时间与成本均减半",
-          "why_it_matters_zh": "这条产品发布消息见于 1 个独立来源。",
-          "category_zh": "产品发布"
+          "route": "/hot/2026-09-23/topic/parallel-cut-research-time-and-cost-in-half-with-gpt-6-astra/"
         },
         {
           "topic_id": "0cfe81adf0e7",
@@ -1764,11 +1733,7 @@
               "published_at": "Tue, 22 Sep 2026 00:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-09-23/topic/canary-rollouts-upgrade-models-in-production-without-downtime/",
-          "headline_zh": "金丝雀发布：不停机升级生产环境中的模型",
-          "summary_short_zh": "直接切换模型会让所有用户同时受到影响，回滚则意味着要顶着压力冷启动旧部署。本文介绍专用推理服务中逐步放量、指标门控和自动回滚的工作机制",
-          "why_it_matters_zh": "这条产品发布消息见于 1 个独立来源。",
-          "category_zh": "产品发布"
+          "route": "/hot/2026-09-23/topic/canary-rollouts-upgrade-models-in-production-without-downtime/"
         },
         {
           "topic_id": "a4b383c85449",
@@ -1806,11 +1771,7 @@
               "published_at": "2026-09-22T23:46:07Z"
             }
           ],
-          "route": "/hot/2026-09-23/topic/the-new-cc-an-ai-agent-built-for-families/",
-          "headline_zh": "全新 CC：为家庭打造的 AI 智能体",
-          "summary_short_zh": "Hacker News 上的一篇投稿将全新 CC 介绍为一款面向家庭的 AI 智能体。所附摘录未说明其具体功能或是否已开放使用",
-          "why_it_matters_zh": "这条产品发布消息见于 1 个独立来源。",
-          "category_zh": "产品发布"
+          "route": "/hot/2026-09-23/topic/the-new-cc-an-ai-agent-built-for-families/"
         }
       ]
     },
@@ -1854,11 +1815,7 @@
               "published_at": "Tue, 22 Sep 2026 21:56:43 +0000"
             }
           ],
-          "route": "/hot/2026-09-23/topic/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
-          "headline_zh": "AI 训练数据需求激增，Snorkel AI 估值增至原来的三倍，达35亿美元",
-          "summary_short_zh": "这家成立七年的初创公司完成3.5亿美元 E 轮融资，以推动其数据即服务模式的发展",
-          "why_it_matters_zh": "这则融资消息见于1个独立来源。",
-          "category_zh": "市场信号"
+          "route": "/hot/2026-09-23/topic/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/"
         }
       ]
     },
@@ -1902,10 +1859,7 @@
               "published_at": "2026-09-23T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-23/topic/4-min-read-openai-claims-it-solved-100-open-math-problems/",
-          "headline_zh": "阅读时间：4分钟｜OpenAI 声称已解决100个数学开放问题",
-          "why_it_matters_zh": "这则其他类消息见于1个独立来源。",
-          "category_zh": "行业动态"
+          "route": "/hot/2026-09-23/topic/4-min-read-openai-claims-it-solved-100-open-math-problems/"
         },
         {
           "topic_id": "0df195ff1105",
@@ -1943,11 +1897,7 @@
               "published_at": "2026-09-23T02:53:19+00:00"
             }
           ],
-          "route": "/hot/2026-09-23/topic/sf-october-14th-a-birds-of-a-feather-session-on-agentic-engineering/",
-          "headline_zh": "10月14日旧金山：智能体工程同好交流会",
-          "summary_short_zh": "<p><strong><a href=\" 10月14日：智能体工程同好交流会</a></strong></p> 我将于10月14日（周三）晚与 Jesse Vincent 在旧金山举办一场活动，面向使用编程智能体及在其基础上开发新奇有趣项目的人。</p> <p>试想",
-          "why_it_matters_zh": "这一观点见于1个独立来源。",
-          "category_zh": "行业动态"
+          "route": "/hot/2026-09-23/topic/sf-october-14th-a-birds-of-a-feather-session-on-agentic-engineering/"
         },
         {
           "topic_id": "6d79ce6ca960",
@@ -1985,11 +1935,7 @@
               "published_at": "Tue, 22 Sep 2026 20:00:00 +0000"
             }
           ],
-          "route": "/hot/2026-09-23/topic/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
-          "headline_zh": "高通推出两款主打 AI 的智能手机芯片",
-          "summary_short_zh": "高通表示，其最新旗舰芯片可在本地运行300亿参数的混合专家模型",
-          "why_it_matters_zh": "这一行业动向见于1个独立来源。",
-          "category_zh": "行业动态"
+          "route": "/hot/2026-09-23/topic/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/"
         },
         {
           "topic_id": "2c500d67487a",
@@ -2027,11 +1973,7 @@
               "published_at": "2026-09-22T12:49:24.519Z"
             }
           ],
-          "route": "/hot/2026-09-23/topic/anthropic-sets-up-a-biology-lab-for-claude-s-experiments/",
-          "headline_zh": "Anthropic 为 Claude 的实验设立生物实验室",
-          "summary_short_zh": "Anthropic 已建立一座生物实验室，用于开展涉及 Claude 的实验。所提供的标题未说明该实验室的能力或研究计划",
-          "why_it_matters_zh": "这一行业动向见于1个独立来源。",
-          "category_zh": "行业动态"
+          "route": "/hot/2026-09-23/topic/anthropic-sets-up-a-biology-lab-for-claude-s-experiments/"
         },
         {
           "topic_id": "0e48759faa3c",
@@ -2069,11 +2011,7 @@
               "published_at": "Tue, 22 Sep 2026 19:45:47 +0000"
             }
           ],
-          "route": "/hot/2026-09-23/topic/microsoft-disrupts-ai-assisted-platform-that-compromised-12-000-accounts/",
-          "headline_zh": "微软打击借助 AI 攻陷1.2万个账户的平台",
-          "summary_short_zh": "EvilTokens 提供了一套端到端平台，让大规模入侵账户更快、更容易",
-          "why_it_matters_zh": "这则其他类消息见于1个独立来源。",
-          "category_zh": "行业动态"
+          "route": "/hot/2026-09-23/topic/microsoft-disrupts-ai-assisted-platform-that-compromised-12-000-accounts/"
         }
       ]
     },
@@ -2117,11 +2055,7 @@
               "published_at": "Tue, 22 Sep 2026 21:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-09-23/topic/better-prompt-caching-for-gpt-6/",
-          "headline_zh": "GPT-6 提示词缓存优化",
-          "summary_short_zh": "OpenAI 详细介绍了 GPT-6 提示词缓存的改进，包括更高的缓存命中率和新的诊断功能。此次更新还加入了显式断点和控制选项，旨在降低延迟和成本",
-          "why_it_matters_zh": "这则工具消息见于1个独立来源。",
-          "category_zh": "工具"
+          "route": "/hot/2026-09-23/topic/better-prompt-caching-for-gpt-6/"
         },
         {
           "topic_id": "10697012e9e4",
@@ -2159,11 +2093,7 @@
               "published_at": "2026-09-22T11:00:58Z"
             }
           ],
-          "route": "/hot/2026-09-23/topic/jetbrains-air-a-system-of-products-for-agentic-software-development/",
-          "headline_zh": "JetBrains Air：支持智能体驱动软件开发的产品体系",
-          "summary_short_zh": "JetBrains Air 被介绍为一套支持智能体驱动软件开发的产品体系。所提供的摘录未说明具体组件或是否已开放使用",
-          "why_it_matters_zh": "这则工具消息见于1个独立来源。",
-          "category_zh": "工具"
+          "route": "/hot/2026-09-23/topic/jetbrains-air-a-system-of-products-for-agentic-software-development/"
         },
         {
           "topic_id": "53fa133dcdea",
@@ -2201,11 +2131,7 @@
               "published_at": "2026-09-22T13:01:03Z"
             }
           ],
-          "route": "/hot/2026-09-23/topic/show-hn-jevbench-a-reproducible-benchmark-for-typed-decision-models/",
-          "headline_zh": "Show HN：JevBench，面向类型化决策模型的可复现基准",
-          "summary_short_zh": "一篇 Show HN 投稿介绍了 JevBench，这是一个面向类型化决策模型的可复现基准。所提供的摘录未包含基准测试结果。",
-          "why_it_matters_zh": "该工具见于 1 个独立来源。",
-          "category_zh": "工具"
+          "route": "/hot/2026-09-23/topic/show-hn-jevbench-a-reproducible-benchmark-for-typed-decision-models/"
         }
       ]
     },
@@ -2249,11 +2175,7 @@
               "published_at": "2026-09-22T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-09-23/topic/flash-dllm-io-aware-kv-caching-and-parallel-decoding-for-fast-memory-efficient-diffusion-llms/",
-          "headline_zh": "Flash-dLLM：以 IO 感知 KV 缓存和并行解码实现快速、省内存的扩散大语言模型",
-          "summary_short_zh": "扩散大语言模型（dLLMs）支持非自回归文本生成，近期成为自回归大语言模型的一种颇具潜力的替代方案。",
-          "why_it_matters_zh": "该研究论文见于 1 个独立来源。",
-          "category_zh": "研究"
+          "route": "/hot/2026-09-23/topic/flash-dllm-io-aware-kv-caching-and-parallel-decoding-for-fast-memory-efficient-diffusion-llms/"
         },
         {
           "topic_id": "8c70b7565ec5",
@@ -2291,11 +2213,7 @@
               "published_at": "2026-09-22T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-09-23/topic/stablevq-practical-guidelines-for-stable-vector-quantized-tokenizer-training/",
-          "headline_zh": "StableVQ：稳定训练向量量化分词器的实用指南",
-          "summary_short_zh": "向量量化（VQ）是离散视觉分词器的基础，这类分词器支撑着现代自回归和掩码图像生成模型。",
-          "why_it_matters_zh": "该研究论文见于 1 个独立来源。",
-          "category_zh": "研究"
+          "route": "/hot/2026-09-23/topic/stablevq-practical-guidelines-for-stable-vector-quantized-tokenizer-training/"
         }
       ]
     }
@@ -2341,11 +2259,7 @@
               "published_at": "2026-09-22T17:26:36Z"
             }
           ],
-          "route": "/hot/2026-09-23/topic/launch-hn-coverage-cat-yc-s22-umbrella-insurance-via-your-personal-agent/",
-          "headline_zh": "Launch HN：Coverage Cat（YC S22），通过专属代理投保伞式保险",
-          "summary_short_zh": "Coverage Cat 在一篇 Launch HN 投稿中介绍了通过专属代理提供的伞式保险服务。标题注明，该公司来自 Y Combinator 2022 年夏季创业营。",
-          "why_it_matters_zh": "此次产品发布见于 1 个独立来源。",
-          "category_zh": "产品发布"
+          "route": "/hot/2026-09-23/topic/launch-hn-coverage-cat-yc-s22-umbrella-insurance-via-your-personal-agent/"
         }
       ]
     },
@@ -2389,11 +2303,7 @@
               "published_at": "Tue, 22 Sep 2026 23:21:49 +0000"
             }
           ],
-          "route": "/hot/2026-09-23/topic/techcrunch-founder-summit-s-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
-          "headline_zh": "TechCrunch 创始人峰会议程揭晓：11 月 4 日在波士顿收获融资、招聘与 AI 新知",
-          "summary_short_zh": "创始人不该非得吃尽苦头，才能吸取深刻的教训。TechCrunch 创始人峰会旨在帮助创业者更轻松地应对创业挑战，让成功更令人振奋。",
-          "why_it_matters_zh": "这条其他类别的资讯见于 1 个独立来源。",
-          "category_zh": "行业动态"
+          "route": "/hot/2026-09-23/topic/techcrunch-founder-summit-s-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/"
         },
         {
           "topic_id": "945f70fb476a",
@@ -2431,11 +2341,7 @@
               "published_at": "2026-09-22T12:01:10-04:00"
             }
           ],
-          "route": "/hot/2026-09-23/topic/trump-says-the-us-is-officially-renaming-ai-to-super-intelligence/",
-          "headline_zh": "特朗普称美国正式将 AI 更名为“超级智能”",
-          "summary_short_zh": "在周二上午的联合国大会演讲中，唐纳德·特朗普猛烈抨击了伊朗、“全球主义者”、气候变化和跨性别者，同时还声称，美国现在已“正式”将人工智能更名为“超级智能”。奇怪的是，这并未列入……",
-          "why_it_matters_zh": "这条其他类别的资讯见于 1 个独立来源。",
-          "category_zh": "行业动态"
+          "route": "/hot/2026-09-23/topic/trump-says-the-us-is-officially-renaming-ai-to-super-intelligence/"
         },
         {
           "topic_id": "d016c2a5a5e2",
@@ -2473,11 +2379,7 @@
               "published_at": "2026-09-22T16:52:40-04:00"
             }
           ],
-          "route": "/hot/2026-09-23/topic/rabbit-s-new-ai-agent-doesn-t-need-an-r1-to-run/",
-          "headline_zh": "Rabbit 的新 AI 智能体无需 R1 也能运行",
-          "summary_short_zh": "据 Wired 此前报道，Rabbit 正在推出一款无需自家硬件即可使用的独立 AI 智能体；该公司此前推出的 R1 设备表现平平。这家初创公司表示，其新的 OS3“智能体操作系统”在云端运行，但可在 Windows、Mac 和 Linux 设备上执行本地操作。",
-          "why_it_matters_zh": "这条其他类别的资讯见于 1 个独立来源。",
-          "category_zh": "行业动态"
+          "route": "/hot/2026-09-23/topic/rabbit-s-new-ai-agent-doesn-t-need-an-r1-to-run/"
         },
         {
           "topic_id": "6e0dcac47c9f",
@@ -2515,11 +2417,7 @@
               "published_at": "Tue, 22 Sep 2026 14:28:59 +0000"
             }
           ],
-          "route": "/hot/2026-09-23/topic/ai/",
-          "headline_zh": "直播预告：未来两三年，哪些工业AI场景会率先爆发？",
-          "summary_short_zh": "从真实工厂到产品复制，再到生态和下一批机会，两位嘉宾会把工业AI从「能用」走向「规模化」的关键问题一层层拆开。",
-          "why_it_matters_zh": "这条其他类别的资讯见于 1 个独立来源。",
-          "category_zh": "行业动态"
+          "route": "/hot/2026-09-23/topic/ai/"
         },
         {
           "topic_id": "cb4809dec57b",
@@ -2557,11 +2455,7 @@
               "published_at": "Tue, 22 Sep 2026 15:46:54 +0000"
             }
           ],
-          "route": "/hot/2026-09-23/topic/agent-cpu/",
-          "headline_zh": "Agent时代，CPU的价值该重估了",
-          "summary_short_zh": "CPU与GPU趋近1∶1",
-          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
-          "category_zh": "行业动态"
+          "route": "/hot/2026-09-23/topic/agent-cpu/"
         },
         {
           "topic_id": "894dbae919af",
@@ -2599,11 +2493,7 @@
               "published_at": "Tue, 22 Sep 2026 13:33:16 +0000"
             }
           ],
-          "route": "/hot/2026-09-23/topic/dyson-s-most-overengineered-gadget-may-have-a-waterproofing-problem/",
-          "headline_zh": "戴森最“过度设计”的产品可能存在防水问题",
-          "summary_short_zh": "戴森承认其售价 500 美元的牙刷存在部件问题，但未说明具体故障所在。Ars Technica 报道称，这款产品可能存在防水问题。",
-          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
-          "category_zh": "行业动态"
+          "route": "/hot/2026-09-23/topic/dyson-s-most-overengineered-gadget-may-have-a-waterproofing-problem/"
         },
         {
           "topic_id": "3280805b6256",
@@ -2641,11 +2531,7 @@
               "published_at": "Tue, 22 Sep 2026 15:19:54 +0000"
             }
           ],
-          "route": "/hot/2026-09-23/topic/how-tata-elxsi-detects-industrial-safety-risks-in-seconds-on-aws/",
-          "headline_zh": "Tata Elxsi 如何借助 AWS 在几秒内识别工业安全风险",
-          "summary_short_zh": "AWS 详细介绍了 Tata Elxsi 如何构建 IRIS，实时识别工业安全风险。该平台在边缘端筛选摄像头视频，通过 Amazon Kinesis 流式传输元数据，并在 Amazon SageMaker 上运行计算机视觉任务。",
-          "why_it_matters_zh": "这篇教程见于 1 个独立来源。",
-          "category_zh": "行业动态"
+          "route": "/hot/2026-09-23/topic/how-tata-elxsi-detects-industrial-safety-risks-in-seconds-on-aws/"
         }
       ]
     }
@@ -2687,11 +2573,7 @@
           "published_at": "Wed, 23 Sep 2026 03:12:31 +0000"
         }
       ],
-      "route": "/hot/2026-09-23/topic/e0569021e974/",
-      "headline_zh": "滴滴自动驾驶连获全国工商联及北京市荣誉榜单认可",
-      "summary_short_zh": "滴滴首次入选2026年民营企业发展新质生产力案例，首次登上2026北京民营企业未来产业先锋榜。",
-      "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
-      "category_zh": "行业动态"
+      "route": "/hot/2026-09-23/topic/e0569021e974/"
     }
   ],
   "x_buzz": [

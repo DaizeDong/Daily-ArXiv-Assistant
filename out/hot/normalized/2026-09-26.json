@@ -1,0 +1,2147 @@
+[
+  {
+    "source_id": "hf_papers",
+    "source_name": "Hugging Face Trending Papers",
+    "source_role": "paper_trending",
+    "source_type": "paper",
+    "title": "Neural Spectral Capacity: Measuring and Designing Architectures from Network Specification Alone",
+    "summary": "Modern Transformer design and compression both reduce to allocating capacity under a budget. The standard scalars for these decisions, #Params and #FLOPs, capture size and compute but not architectural structure: two architectures with identical parameter budgets but different depth-width, head, or FFN allocations receive identical scores yet behave differently. We propose Neural Spectral Capacity (NSC), a closed-form scalar grounded in the singular-value spectrum of each weight matrix. Under standard random initialization, the Marchenko-Pastur law renders NSC computable from the architectu...",
+    "url": "https://huggingface.co/papers/2609.23087",
+    "canonical_url": "https://arxiv.org/abs/2609.23087",
+    "published_at": "2026-09-19T00:00:00.000Z",
+    "tags": [],
+    "authors": [
+      "Chenyu Zhu",
+      "Ruoyu Zhao",
+      "Zhichao Lu"
+    ],
+    "metadata": {
+      "ai_summary": "",
+      "arxiv_id": "2609.23087",
+      "daily_score": 6,
+      "github_url": "https://github.com/Optima-CityU/neural-spectral-capacity",
+      "hf_url": "https://huggingface.co/papers/2609.23087",
+      "novelty": 0,
+      "relevance": 0,
+      "spotlight_comment": "",
+      "spotlight_primary_kind": "",
+      "spotlight_primary_label": "",
+      "upvotes": 6
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "hf_papers",
+    "source_name": "Hugging Face Trending Papers",
+    "source_role": "paper_trending",
+    "source_type": "paper",
+    "title": "OmniEcho: Spatial Audio Understanding for Embodied Agents",
+    "summary": "Humans can effortlessly localize the direction of a sound source and integrate it with visual cues for reasoning, yet this remains challenging for embodied agents. In particular, it is still unclear how to effectively evaluate and model spatial audio understanding in embodied settings. To address this gap, we introduce OmniEchoBench, a unified benchmark for spatial audio-visual perception and audio-vision-language navigation. OmniEchoBench comprises six tasks over 197 real-world spatial audio-visual scenes, 2,972 question-answer pairs, and 900 navigation samples with first-order ambisonics...",
+    "url": "https://huggingface.co/papers/2609.23407",
+    "canonical_url": "https://arxiv.org/abs/2609.23407",
+    "published_at": "2026-09-20T00:00:00.000Z",
+    "tags": [],
+    "authors": [
+      "Ruixun Liu",
+      "Yuxuan Wang",
+      "Jiacheng Xie",
+      "Yuhuan You",
+      "Donghua Cai",
+      "Junming Lin",
+      "Xiong-Hui Chen",
+      "Zhifang Guo",
+      "Yunfei Chu",
+      "Qize Yang",
+      "Xize Cheng",
+      "Jin Xu",
+      "Yiwu Zhong"
+    ],
+    "metadata": {
+      "ai_summary": "",
+      "arxiv_id": "2609.23407",
+      "daily_score": 20,
+      "github_url": "https://github.com/PKU-VaLuE-Lab/OmniEcho",
+      "hf_url": "https://huggingface.co/papers/2609.23407",
+      "novelty": 0,
+      "relevance": 0,
+      "spotlight_comment": "Humans can effortlessly localize the direction of a sound source and integrate it with visual cues for reasoning, yet this remains challenging for embodied agents. In particular, it is still unclear how to effectively evaluate and model spatial audio understanding in embodied settings. To address...",
+      "spotlight_primary_kind": "daily_hot",
+      "spotlight_primary_label": "Daily Hot Papers",
+      "upvotes": 20
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "hf_papers",
+    "source_name": "Hugging Face Trending Papers",
+    "source_role": "paper_trending",
+    "source_type": "paper",
+    "title": "Agent-Editing World Model: Rethinking World Modeling for LLM Agents",
+    "summary": "Recent advances in large language models (LLMs) have enabled agents to tackle long-horizon tasks across diverse environments. To further improve agent performance, existing language world models typically predict environment observations, yet reconstructing high-entropy, execution-dependent tool responses offers limited value when real feedback is available. Meanwhile, agents suffer from task-state contamination, where unsupported assumptions and outdated plans persist in history and distort subsequent decisions. We propose the Agent-Editing World Model (AEWM), which models how reasoning an...",
+    "url": "https://huggingface.co/papers/2609.28416",
+    "canonical_url": "https://arxiv.org/abs/2609.28416",
+    "published_at": "2026-09-23T00:00:00.000Z",
+    "tags": [],
+    "authors": [
+      "Shuang Sun",
+      "Guoxin Chen",
+      "Fanzhe Meng",
+      "Jia Deng",
+      "Huatong Song",
+      "Jinhao Jiang",
+      "Wayne Xin Zhao",
+      "Hongteng Xu",
+      "Ji-Rong Wen"
+    ],
+    "metadata": {
+      "ai_summary": "",
+      "arxiv_id": "2609.28416",
+      "daily_score": 13,
+      "github_url": "https://github.com/RUCAIBox/Agent-Editing-World-Model",
+      "hf_url": "https://huggingface.co/papers/2609.28416",
+      "novelty": 0,
+      "relevance": 0,
+      "spotlight_comment": "",
+      "spotlight_primary_kind": "",
+      "spotlight_primary_label": "",
+      "upvotes": 13
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "hf_papers",
+    "source_name": "Hugging Face Trending Papers",
+    "source_role": "paper_trending",
+    "source_type": "paper",
+    "title": "Training Object Permanence in World Models",
+    "summary": "Object permanence and solidity are hallmarks of human cognitive priors. Recent studies show that video generation models, a paradigmatic class of current world models, have begun to show emerged reasoning abilities, making them ideal candidates for building human-like physical intelligence. Do video models have emerged object permanence in them? If not, could we train them with a core-cognition inspired dataset? We introduce WROP (World Reasoning with Object Permanence), a data infrastructure of 150 hand-designed cognitive science inspired tasks, divided into six cognitive categories. We bu...",
+    "url": "https://huggingface.co/papers/2609.28654",
+    "canonical_url": "https://arxiv.org/abs/2609.28654",
+    "published_at": "2026-09-23T00:00:00.000Z",
+    "tags": [],
+    "authors": [
+      "Haotian Zhang",
+      "Fengyuan Yu",
+      "Dezhi Luo",
+      "Haoran Sun",
+      "Zehong Zhao",
+      "Qingying Gao",
+      "Yihan Li",
+      "Siyuan An",
+      "Huayi Qin",
+      "Yilan Zhang",
+      "Zhengze Jiang",
+      "Pinyuan Feng",
+      "Renrui Zhang",
+      "Ziyu Guo",
+      "Letian Wang",
+      "Mengyue Yang",
+      "Kangfu Mei",
+      "Maijunxian Wang",
+      "Ran Ji",
+      "Vikash Kumar",
+      "Freda Shi",
+      "Chandra Sripada",
+      "Vincent C. Muller",
+      "Philip Torr",
+      "Alan Yuille",
+      "Nikolaus Kriegeskorte",
+      "Felix Juefei-Xu",
+      "Lvmin Zhang",
+      "Jieneng Chen",
+      "Yilun Du",
+      "Hokin Deng"
+    ],
+    "metadata": {
+      "ai_summary": "",
+      "arxiv_id": "2609.28654",
+      "daily_score": 187,
+      "github_url": "https://github.com/hokindeng/object-permanence",
+      "hf_url": "https://huggingface.co/papers/2609.28654",
+      "novelty": 0,
+      "relevance": 0,
+      "spotlight_comment": "Object permanence and solidity are hallmarks of human cognitive priors. Recent studies show that video generation models, a paradigmatic class of current world models, have begun to show emerged reasoning abilities, making them ideal candidates for building human-like physical intelligence. Do vi...",
+      "spotlight_primary_kind": "daily_hot",
+      "spotlight_primary_label": "Daily Hot Papers",
+      "upvotes": 187
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "hf_papers",
+    "source_name": "Hugging Face Trending Papers",
+    "source_role": "paper_trending",
+    "source_type": "paper",
+    "title": "Coding Agents for Generalized Task and Motion Planning Problems",
+    "summary": "Task and motion planning (TAMP) problems remain difficult even with full observability and object-centric states because discrete decisions are tightly coupled to geometric, kinematic, and dynamic constraints. Generalized TAMP addresses this difficulty by exploiting regularities across problem instances to reduce planning effort on new instances. However, existing methods require substantial TAMP-specific engineering. We investigate whether coding agents can automate this process by synthesizing programs that generalize across instances. Given a task description and simulator access, each a...",
+    "url": "https://huggingface.co/papers/2609.30233",
+    "canonical_url": "https://arxiv.org/abs/2609.30233",
+    "published_at": "2026-09-24T00:00:00.000Z",
+    "tags": [],
+    "authors": [
+      "Matteo Merler",
+      "Bowen Li",
+      "Josh Roy",
+      "Yichao Liang",
+      "Qianwei Wang",
+      "Yixuan Huang",
+      "Tom Silver"
+    ],
+    "metadata": {
+      "ai_summary": "",
+      "arxiv_id": "2609.30233",
+      "daily_score": 6,
+      "github_url": "https://github.com/tomsilver/robocode",
+      "hf_url": "https://huggingface.co/papers/2609.30233",
+      "novelty": 0,
+      "relevance": 0,
+      "spotlight_comment": "",
+      "spotlight_primary_kind": "",
+      "spotlight_primary_label": "",
+      "upvotes": 6
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "hf_papers",
+    "source_name": "Hugging Face Trending Papers",
+    "source_role": "paper_trending",
+    "source_type": "paper",
+    "title": "IterSynth: Rethinking Deep Search Agents via Role-Decoupled Iterative Synthesis",
+    "summary": "Deep search requires LLM agents to decompose complex queries, search for evidence, and synthesize grounded answers, yet existing ReAct-style agents suffer from two limitations: role coupling, where one policy must handle planning, evidence use, and synthesis; and context accumulation, where growing search histories introduce noise and obscure useful information. To address these issues, we propose IterSynth, a role-decoupled and summary-based paradigm that alternates between a Planner for identifying information needs and a Synthesizer for integrating evidence into an evolving summary state...",
+    "url": "https://huggingface.co/papers/2609.29444",
+    "canonical_url": "https://arxiv.org/abs/2609.29444",
+    "published_at": "2026-09-24T00:00:00.000Z",
+    "tags": [],
+    "authors": [
+      "Xingyu Wu",
+      "Yuchen Yan",
+      "Zhengxi Lu",
+      "Siqi Chen",
+      "Xin ZHANG",
+      "Aiting Liu",
+      "Chao Deng",
+      "Jie Liu",
+      "Jin Ma",
+      "Jian Shao",
+      "Jun Xiao",
+      "Yongliang Shen"
+    ],
+    "metadata": {
+      "ai_summary": "",
+      "arxiv_id": "2609.29444",
+      "daily_score": 8,
+      "github_url": "https://github.com/Tencent/IterSynth",
+      "hf_url": "https://huggingface.co/papers/2609.29444",
+      "novelty": 0,
+      "relevance": 0,
+      "spotlight_comment": "",
+      "spotlight_primary_kind": "",
+      "spotlight_primary_label": "",
+      "upvotes": 8
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "hf_papers",
+    "source_name": "Hugging Face Trending Papers",
+    "source_role": "paper_trending",
+    "source_type": "paper",
+    "title": "Parts-of-Speech as Emergent Categories in SAE Latent Space",
+    "summary": "Sparse AutoEncoders (SAEs) offer a promising way to inspect language model representations, but it is still unclear what kind of linguistic structure their latents expose. We use part-of-speech (PoS) categories as a controlled test case to study whether morpho-syntactic information is encoded by individual latents or by structured groups of features. We find that PoS distinctions are highly recoverable from SAE activations, but do not align with one-to-one latent / category mappings. This recoverability is not reducible to lexical memorisation, and Open and Closed PoS classes differ substan...",
+    "url": "https://huggingface.co/papers/2609.29362",
+    "canonical_url": "https://arxiv.org/abs/2609.29362",
+    "published_at": "2026-09-24T00:00:00.000Z",
+    "tags": [],
+    "authors": [
+      "Alessandro Bondielli",
+      "Lucia Passaro",
+      "Serena Auriemma",
+      "Alessandro Lenci"
+    ],
+    "metadata": {
+      "ai_summary": "",
+      "arxiv_id": "2609.29362",
+      "daily_score": 10,
+      "github_url": "https://github.com/colinglab/pos-sae-latents",
+      "hf_url": "https://huggingface.co/papers/2609.29362",
+      "novelty": 0,
+      "relevance": 0,
+      "spotlight_comment": "",
+      "spotlight_primary_kind": "",
+      "spotlight_primary_label": "",
+      "upvotes": 10
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "hf_papers",
+    "source_name": "Hugging Face Trending Papers",
+    "source_role": "paper_trending",
+    "source_type": "paper",
+    "title": "Qwen-Planner-Agent: A Closed-Loop AI-for-AI Framework for Real-World Mobile Planner Agents",
+    "summary": "The rapid progression of large language models is extending AI from passive content generation into the active workflows of engineering and scientific discovery. This shift raises a compelling question: can AI be both the object of development and an active participant in building next-generation AI systems? We explore this question by building Qwen-Planner-Agent within a closed-loop AI-for-AI framework for scalable development and iterative improvement. Mobile planning offers a demanding test of this approach: complex, long-horizon tasks challenge agent reliability, while costly real-devic...",
+    "url": "https://huggingface.co/papers/2609.29892",
+    "canonical_url": "https://arxiv.org/abs/2609.29892",
+    "published_at": "2026-09-24T00:00:00.000Z",
+    "tags": [],
+    "authors": [
+      "Tingyu Qu",
+      "Weigao Sun",
+      "Yuecheng Liu",
+      "Yucheng Zhao",
+      "Yi Zhu",
+      "Yifeng Ding",
+      "Qiyi Wang",
+      "Sihan Cao",
+      "Pengkun Jiao",
+      "Hanlei Xie",
+      "Xiongwei Wu",
+      "Qichao Wang",
+      "Haodong Zhang",
+      "Jiajun Liu",
+      "Yuhao Wang",
+      "Yuqing Xie",
+      "Junpeng Zhao",
+      "Long Chen",
+      "Ming Ma",
+      "Sihan Yang",
+      "Ziwang Zhao",
+      "Yanhao Jia",
+      "Liangquan Gong",
+      "Feida Zhu",
+      "Yiran Zhong",
+      "Steven Hoi"
+    ],
+    "metadata": {
+      "ai_summary": "",
+      "arxiv_id": "2609.29892",
+      "daily_score": 9,
+      "github_url": null,
+      "hf_url": "https://huggingface.co/papers/2609.29892",
+      "novelty": 0,
+      "relevance": 0,
+      "spotlight_comment": "",
+      "spotlight_primary_kind": "",
+      "spotlight_primary_label": "",
+      "upvotes": 9
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "hf_papers",
+    "source_name": "Hugging Face Trending Papers",
+    "source_role": "paper_trending",
+    "source_type": "paper",
+    "title": "RGBD20K: A Large-Scale Benchmark for RGB-D Semantic Segmentation",
+    "summary": "In this paper, we propose RGBD20K, a novel dataset for facilitating the development of more robust and general RGB-D semantic segmentation by encompassing abundant categories and high-quality annotations. RGBD20K possesses several attractive properties: (1) Expanded Semantic Space. In particular, it covers 160 fine-grained categories, largely surpassing the category diversity of existing popular RGB-D benchmarks (e.g., NYUv2 with 40 classes and SUN RGB-D with 37 classes). With such enriched semantic coverage, we expect to promote the learning of more generalizable segmentation models. (2) L...",
+    "url": "https://huggingface.co/papers/2609.29028",
+    "canonical_url": "https://arxiv.org/abs/2609.29028",
+    "published_at": "2026-09-24T00:00:00.000Z",
+    "tags": [],
+    "authors": [
+      "Shaohua Dong",
+      "Zexuan Meng",
+      "Haiyan Sun",
+      "Bing Fan",
+      "Cuicui Zhang",
+      "Dylan Joseph",
+      "Kewei Sha",
+      "Yunhe Feng",
+      "Heng Fan"
+    ],
+    "metadata": {
+      "ai_summary": "",
+      "arxiv_id": "2609.29028",
+      "daily_score": 7,
+      "github_url": "https://github.com/ShaohuaDong2021/RGBD20K",
+      "hf_url": "https://huggingface.co/papers/2609.29028",
+      "novelty": 0,
+      "relevance": 0,
+      "spotlight_comment": "",
+      "spotlight_primary_kind": "",
+      "spotlight_primary_label": "",
+      "upvotes": 7
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "hf_papers",
+    "source_name": "Hugging Face Trending Papers",
+    "source_role": "paper_trending",
+    "source_type": "paper",
+    "title": "Rufus-Air: An Open LLM Post-Training Recipe",
+    "summary": "Rufus-Air is an open and reproducible post-training recipe on GLM-4.5-Air-Base (106B-A12B), organized as a serial pipeline of eight stages: SFT, Reasoning RL, Coding RL, Instruction-Following RL, General Agent, Coding Agent, Search Agent, and RLHF. We document the data, reward design, infrastructure, stage order, and stagewise results needed to reproduce the recipe. Stages progress from basic to advanced capabilities and from hard, verifiable rewards to softer judge-based signals. Training builds on open-source components and public data, much of it used as released, without new human annot...",
+    "url": "https://huggingface.co/papers/2609.29421",
+    "canonical_url": "https://arxiv.org/abs/2609.29421",
+    "published_at": "2026-09-24T00:00:00.000Z",
+    "tags": [],
+    "authors": [
+      "Chia-Yuan Chang",
+      "Renyuan Cheng",
+      "Rui Feng",
+      "Xiaotian Han",
+      "Yuan He",
+      "Hongye Jin",
+      "Linwei Li",
+      "Shiyang Li",
+      "Fenglin Liu",
+      "Xin Liu",
+      "Priyanka Nigam",
+      "Haoyang Wen",
+      "Zhenghao Xu",
+      "Zhuocheng Xu",
+      "Bing Yin",
+      "Qingyu Yin",
+      "Chao Zhang",
+      "Rongzhi Zhang",
+      "Zhihan Zhang",
+      "Zixuan Zhang",
+      "Zixuan Zhang",
+      "Tuo Zhao"
+    ],
+    "metadata": {
+      "ai_summary": "",
+      "arxiv_id": "2609.29421",
+      "daily_score": 7,
+      "github_url": null,
+      "hf_url": "https://huggingface.co/papers/2609.29421",
+      "novelty": 0,
+      "relevance": 0,
+      "spotlight_comment": "",
+      "spotlight_primary_kind": "",
+      "spotlight_primary_label": "",
+      "upvotes": 7
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "hf_papers",
+    "source_name": "Hugging Face Trending Papers",
+    "source_role": "paper_trending",
+    "source_type": "paper",
+    "title": "WanPE: Towards Cinematic Prompt Enhancement for Modern Text-to-Video Generation",
+    "summary": "Video generation begins in text space by authoring a cinematic screenplay, then materializes into pixels. As contemporary video generators scale to 30 seconds and faithfully follow complex conditions, the textual prompt largely directs the production, planning how actions, camera trajectories, lighting, and sound unfold across multi-shot sequences. In this paper, we present WanPE, a 397B-parameter prompt enhancement model trained on 1.05M real-world videos to master director-level cinematic planning. WanPE formulates shot-level cinematic plans via video-grounded reverse construction and emp...",
+    "url": "https://huggingface.co/papers/2609.30221",
+    "canonical_url": "https://arxiv.org/abs/2609.30221",
+    "published_at": "2026-09-24T00:00:00.000Z",
+    "tags": [],
+    "authors": [
+      "Yubo Zhu",
+      "Yawen Shao",
+      "Ziyun Dai",
+      "Zixun Fang",
+      "Kai Zhu",
+      "Siyang Sun",
+      "Haolan Xue",
+      "Chuxin Wang",
+      "Tingyu Weng",
+      "Jingming Luo",
+      "Chen Shi",
+      "Lianghua Huang",
+      "Yufeng Ai",
+      "Yuzheng Wang",
+      "Wenyuan Zhang",
+      "Yu Shang",
+      "Yuxiang Bao",
+      "Zoubin Bi",
+      "Jie Xiao",
+      "Jinbo Xing",
+      "Jiaxing Zhao",
+      "Chongyang Zhong",
+      "Hengjian Chen",
+      "Chenwei Xie",
+      "Akide Liu",
+      "Zhehan Kan",
+      "Yu Liu",
+      "Wei Zhai",
+      "Sheng Zhong",
+      "Wei Tong"
+    ],
+    "metadata": {
+      "ai_summary": "",
+      "arxiv_id": "2609.30221",
+      "daily_score": 29,
+      "github_url": null,
+      "hf_url": "https://huggingface.co/papers/2609.30221",
+      "novelty": 0,
+      "relevance": 0,
+      "spotlight_comment": "Video generation begins in text space by authoring a cinematic screenplay, then materializes into pixels. As contemporary video generators scale to 30 seconds and faithfully follow complex conditions, the textual prompt largely directs the production, planning how actions, camera trajectories, li...",
+      "spotlight_primary_kind": "daily_hot",
+      "spotlight_primary_label": "Daily Hot Papers",
+      "upvotes": 29
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "hf_papers",
+    "source_name": "Hugging Face Trending Papers",
+    "source_role": "paper_trending",
+    "source_type": "paper",
+    "title": "Your Transformer Can Hold Two Thoughts at Once: Evidence of Linear Superposition in LLMs",
+    "summary": "While Large Language Models (LLMs) rely on highly non-linear components, in this work we demonstrate that they exhibit fundamental linearity: when inputs from distinct text streams are linearly combined, the model outputs a superposition of the individual next-token distributions. We term this the Superposition Linearity Hypothesis. We provide evidence that superposition is an intrinsic property of the Transformer architecture rather than an emergent consequence of training; in fact, we observe that it tends to diminish as pretraining progresses. However, we demonstrate that linearity can b...",
+    "url": "https://huggingface.co/papers/2609.29845",
+    "canonical_url": "https://arxiv.org/abs/2609.29845",
+    "published_at": "2026-09-24T00:00:00.000Z",
+    "tags": [],
+    "authors": [
+      "Pavel Tikhonov",
+      "Anton Korznikov",
+      "Matvey Mikhalchuk",
+      "Nikita Dragunov",
+      "Temurbek Rahmatullaev",
+      "Polina Druzhinina",
+      "Anton Razzhigaev",
+      "Ivan Oseledets",
+      "Elena Tutubalina"
+    ],
+    "metadata": {
+      "ai_summary": "",
+      "arxiv_id": "2609.29845",
+      "daily_score": 57,
+      "github_url": null,
+      "hf_url": "https://huggingface.co/papers/2609.29845",
+      "novelty": 0,
+      "relevance": 0,
+      "spotlight_comment": "While Large Language Models (LLMs) rely on highly non-linear components, in this work we demonstrate that they exhibit fundamental linearity: when inputs from distinct text streams are linearly combined, the model outputs a superposition of the individual next-token distributions. We term this th...",
+      "spotlight_primary_kind": "daily_hot",
+      "spotlight_primary_label": "Daily Hot Papers",
+      "upvotes": 57
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "huggingface_blog",
+    "source_name": "Hugging Face Blog",
+    "source_role": "official_news",
+    "source_type": "official_blog",
+    "title": "Bringing Humanoids to LeRobot",
+    "summary": "",
+    "url": "https://huggingface.co/blog/nepyope/bringing-humanoids-to-lerobot",
+    "canonical_url": "https://huggingface.co/blog/nepyope/bringing-humanoids-to-lerobot",
+    "published_at": "2026-09-25T14:15:28+00:00",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "is_official": true,
+      "publisher": "Hugging Face Blog"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "aws_ai_blog",
+    "source_name": "AWS AI Blog",
+    "source_role": "official_news",
+    "source_type": "official_blog",
+    "title": "Multi-Region training with Amazon SageMaker HyperPod and Qumulo",
+    "summary": "Amazon SageMaker HyperPod and Cloud Native Qumulo let you place training compute in one AWS Region while keeping your dataset in another. This post shares the architecture and validation results from a cross-Region training run, where a remote cluster matched a co-located cluster's throughput after a brief NeuralCache warmup.",
+    "url": "https://aws.amazon.com/blogs/machine-learning/multi-region-training-with-amazon-sagemaker-hyperpod-and-qumulo",
+    "canonical_url": "https://aws.amazon.com/blogs/machine-learning/multi-region-training-with-amazon-sagemaker-hyperpod-and-qumulo",
+    "published_at": "Fri, 25 Sep 2026 15:49:44 +0000",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "is_official": true,
+      "publisher": "AWS AI Blog"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "aws_ai_blog",
+    "source_name": "AWS AI Blog",
+    "source_role": "official_news",
+    "source_type": "official_blog",
+    "title": "How Datacor built self-service rental analytics with Amazon Quick Sight",
+    "summary": "Learn how Datacor built a self-service rental analytics experience for gas and welding distributors by embedding Amazon Quick Sight dashboards and natural language querying into its TrackAbout platform, powered by an automated cross-cloud data pipeline and multi-tenant row-level security.",
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-datacor-built-self-service-rental-analytics-with-amazon-quick-sight",
+    "canonical_url": "https://aws.amazon.com/blogs/machine-learning/how-datacor-built-self-service-rental-analytics-with-amazon-quick-sight",
+    "published_at": "Fri, 25 Sep 2026 15:54:42 +0000",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "is_official": true,
+      "publisher": "AWS AI Blog"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "aws_ai_blog",
+    "source_name": "AWS AI Blog",
+    "source_role": "official_news",
+    "source_type": "official_blog",
+    "title": "Deploying real-time personalized speech with Qwen3-TTS on Amazon SageMaker AI",
+    "summary": "Deploy the publicly available Qwen3-TTS-12Hz-1.7B-Base text-to-speech model from Amazon SageMaker JumpStart to a fully managed, real-time endpoint, and clone a voice from a short reference clip. Cross-lingual cloning preserves the speaker's identity across languages.",
+    "url": "https://aws.amazon.com/blogs/machine-learning/deploying-real-time-personalized-speech-with-qwen3-tts-on-amazon-sagemaker-ai",
+    "canonical_url": "https://aws.amazon.com/blogs/machine-learning/deploying-real-time-personalized-speech-with-qwen3-tts-on-amazon-sagemaker-ai",
+    "published_at": "Fri, 25 Sep 2026 16:09:46 +0000",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "is_official": true,
+      "publisher": "AWS AI Blog"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "aws_ai_blog",
+    "source_name": "AWS AI Blog",
+    "source_role": "official_news",
+    "source_type": "official_blog",
+    "title": "NarrateAI: production-ready LLM quality assurance on Amazon Bedrock",
+    "summary": "NarrateAI delivers production-ready LLM quality assurance on Amazon Bedrock. This post details five techniques—adaptive pipeline orchestration, cross-account multi-model failover, real-time streaming evaluation, composite evaluation, and data accuracy verification—that reach about 99% numerical accuracy while streaming responses in real time.",
+    "url": "https://aws.amazon.com/blogs/machine-learning/narrateai-production-ready-llm-quality-assurance-on-amazon-bedrock",
+    "canonical_url": "https://aws.amazon.com/blogs/machine-learning/narrateai-production-ready-llm-quality-assurance-on-amazon-bedrock",
+    "published_at": "Fri, 25 Sep 2026 16:15:22 +0000",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "is_official": true,
+      "publisher": "AWS AI Blog"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "aws_ai_blog",
+    "source_name": "AWS AI Blog",
+    "source_role": "official_news",
+    "source_type": "official_blog",
+    "title": "Accelerate multimodal RL training with SkyRL on Amazon SageMaker HyperPod",
+    "summary": "Learn how to run SkyRL, an open-source reinforcement learning framework, on Amazon SageMaker HyperPod to post-train a Qwen3-VL-8B vision-language model with GRPO. This walkthrough covers building the container image, launching a Ray cluster from SageMaker Studio, submitting and monitoring the job, and hosting the trained LoRA adapter for inference.",
+    "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-multimodal-rl-training-with-skyrl-on-amazon-sagemaker-hyperpod",
+    "canonical_url": "https://aws.amazon.com/blogs/machine-learning/accelerate-multimodal-rl-training-with-skyrl-on-amazon-sagemaker-hyperpod",
+    "published_at": "Fri, 25 Sep 2026 16:18:07 +0000",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "is_official": true,
+      "publisher": "AWS AI Blog"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "aws_ai_blog",
+    "source_name": "AWS AI Blog",
+    "source_role": "official_news",
+    "source_type": "official_blog",
+    "title": "Scaling MoE reinforcement learning on Amazon EKS with EFA and DeepEP with 40% more throughput",
+    "summary": "Learn how to scale Mixture-of-Experts (MoE) reinforcement learning on Amazon EKS using Elastic Fabric Adapter (EFA) and DeepEP. This post presents an architecture that combines Amazon EKS, EFA, and Amazon S3 and increased aggregate reinforcement learning rollout throughput by 40% for large-scale RLHF and GRPO training.",
+    "url": "https://aws.amazon.com/blogs/machine-learning/scaling-moe-reinforcement-learning-on-amazon-eks-with-efa-and-deepep-with-40-more-throughput",
+    "canonical_url": "https://aws.amazon.com/blogs/machine-learning/scaling-moe-reinforcement-learning-on-amazon-eks-with-efa-and-deepep-with-40-more-throughput",
+    "published_at": "Fri, 25 Sep 2026 16:29:50 +0000",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "is_official": true,
+      "publisher": "AWS AI Blog"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "openai_news",
+    "source_name": "OpenAI News",
+    "source_role": "official_news",
+    "source_type": "official_blog",
+    "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+    "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
+    "url": "https://openai.com/index/proaction",
+    "canonical_url": "https://openai.com/index/proaction",
+    "published_at": "Fri, 25 Sep 2026 19:00:00 GMT",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "is_official": true,
+      "publisher": "OpenAI News"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "the_neuron",
+    "source_name": "The Neuron",
+    "source_role": "headline_consensus",
+    "source_type": "roundup",
+    "title": "Claude Opus 5.5 Reactions: Video Games are Effectively \"Solved\"?? Round 2: black holes, Cat Doom, Dark Souls, broken apps, and a model that may be in a league of its own.",
+    "summary": "",
+    "url": "https://www.theneurondaily.com/p/live-gpt-6-sol-vs-claude-opus-5-5-round-2",
+    "canonical_url": "https://www.theneurondaily.com/p/live-gpt-6-sol-vs-claude-opus-5-5-round-2",
+    "published_at": "2026-09-25T09:30:00+00:00",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "roundup_site": "The Neuron"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "the_neuron",
+    "source_name": "The Neuron",
+    "source_role": "headline_consensus",
+    "source_type": "roundup",
+    "title": "GPT-6 Sol / Luna vs. Claude Opus 5.5 LIVE OpenAI and Anthropic dropped three new models today. We’re testing what actually changed, what the benchmarks miss, and which one you should reach for.",
+    "summary": "",
+    "url": "https://www.theneurondaily.com/p/gpt-6-sol-luna-vs-claude-opus-5-5-live",
+    "canonical_url": "https://www.theneurondaily.com/p/gpt-6-sol-luna-vs-claude-opus-5-5-live",
+    "published_at": "2026-09-25T09:30:00+00:00",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "roundup_site": "The Neuron"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "the_rundown_ai",
+    "source_name": "The Rundown AI",
+    "source_role": "headline_consensus",
+    "source_type": "roundup",
+    "title": "Anthropic says Claude leads 26% of its measured AI research",
+    "summary": "Artificial intelligence",
+    "url": "https://www.rundown.ai/news/anthropic-claude-ai-research-transparency",
+    "canonical_url": "https://www.rundown.ai/news/anthropic-claude-ai-research-transparency",
+    "published_at": "2026-09-25T14:47:34.898Z",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "roundup_site": "The Rundown AI"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "the_rundown_ai",
+    "source_name": "The Rundown AI",
+    "source_role": "headline_consensus",
+    "source_type": "roundup",
+    "title": "Google plans orbital AI chip test as data centers face pushback",
+    "summary": "Artificial intelligence",
+    "url": "https://www.rundown.ai/news/google-project-suncatcher-orbital-ai-chip-test",
+    "canonical_url": "https://www.rundown.ai/news/google-project-suncatcher-orbital-ai-chip-test",
+    "published_at": "2026-09-25T14:48:05.533Z",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "roundup_site": "The Rundown AI"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "superhuman_ai",
+    "source_name": "Superhuman AI",
+    "source_role": "headline_consensus",
+    "source_type": "roundup",
+    "title": "4 min read Google's first AI satellite launch is next week",
+    "summary": "",
+    "url": "https://www.superhuman.ai/p/google-s-first-ai-satellite-launch-is-next-week",
+    "canonical_url": "https://www.superhuman.ai/p/google-s-first-ai-satellite-launch-is-next-week",
+    "published_at": "2026-09-26T00:00:00-04:00",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "roundup_site": "Superhuman AI"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "superhuman_ai",
+    "source_name": "Superhuman AI",
+    "source_role": "headline_consensus",
+    "source_type": "roundup",
+    "title": "4 min read Meta surprises everyone with an AI device for Muse",
+    "summary": "",
+    "url": "https://www.superhuman.ai/p/meta-surprises-everyone-with-an-ai-device-for-muse",
+    "canonical_url": "https://www.superhuman.ai/p/meta-surprises-everyone-with-an-ai-device-for-muse",
+    "published_at": "2026-09-26T00:00:00-04:00",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "roundup_site": "Superhuman AI"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "analysis_simon_willison",
+    "source_name": "Simon Willison's Blog",
+    "source_role": "editorial_depth",
+    "source_type": "blog_analysis",
+    "title": "Note on 24th September 2026",
+    "summary": "<p>The more time I spend working with coding agents, the more convinced I am that they make software engineering even harder.</p> <p>We can do amazing things with them, but unlocking their full potential requires extraordinary discipline and knowledge.</p> <p>Tags: <a href=\"https://simonwillison.net/tags/coding-agents\">coding-agents</a>, <a href=\"https://simonwillison.net/tags/ai\">ai</a>, <a href=\"https://simonwillison.net/tags/llms\">llms</a></p>",
+    "url": "https://simonwillison.net/2026/Sep/24/harder",
+    "canonical_url": "https://simonwillison.net/2026/Sep/24/harder",
+    "published_at": "2026-09-24T23:31:08+00:00",
+    "tags": [
+      "analysis",
+      "deep-read"
+    ],
+    "authors": [],
+    "metadata": {
+      "feed_id": "simon_willison",
+      "feed_source": "https://simonwillison.net/atom/everything",
+      "signal_tier": "trusted_analysis",
+      "source_quality": 1.3
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "analysis_theverge_ai",
+    "source_name": "The Verge AI",
+    "source_role": "editorial_depth",
+    "source_type": "blog_analysis",
+    "title": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
+    "summary": "After teasing its new Copilot \"super app\" last month, Microsoft is officially unveiling it today. The redesigned Copilot app bundles three AI capabilities into a single interface of chat, coding, and agents. As part of the launch, Microsoft is also rebranding Scout, the AI personal assistant it unveiled at Build earlier this year, as Autopilot. [&#8230;]",
+    "url": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
+    "canonical_url": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
+    "published_at": "2026-09-25T08:00:00-04:00",
+    "tags": [
+      "analysis",
+      "deep-read"
+    ],
+    "authors": [],
+    "metadata": {
+      "feed_id": "theverge_ai",
+      "feed_source": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "signal_tier": "trusted_analysis",
+      "source_quality": 1.3
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "analysis_theverge_ai",
+    "source_name": "The Verge AI",
+    "source_role": "editorial_depth",
+    "source_type": "blog_analysis",
+    "title": "Can Apple Home’s AI camera features outsmart Amazon’s and Google’s? I put them to the test",
+    "summary": "A few years back, I was at a beachside Easter egg hunt, watching my kids dash through sand dunes searching for sweet treats. My phone buzzed in my pocket; I ignored it. A moment later, it buzzed again. I pulled it out, glanced down, and saw a \"motion detected\" notification from my security camera. \"Just [&#8230;]",
+    "url": "https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review",
+    "canonical_url": "https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review",
+    "published_at": "2026-09-25T09:00:00-04:00",
+    "tags": [
+      "analysis",
+      "deep-read"
+    ],
+    "authors": [],
+    "metadata": {
+      "feed_id": "theverge_ai",
+      "feed_source": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "signal_tier": "trusted_analysis",
+      "source_quality": 1.3
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "analysis_theverge_ai",
+    "source_name": "The Verge AI",
+    "source_role": "editorial_depth",
+    "source_type": "blog_analysis",
+    "title": "One company is at the center of a wave of rogue AI attacks",
+    "summary": "In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety. Since then, a string of similar incidents involving agents from Meta, Anthropic, Google, and other companies has fueled further fears about rogue AI. As disclosures implicating numerous AI models trickled out over the past few [&#8230;]",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
+    "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
+    "published_at": "2026-09-25T11:39:48-04:00",
+    "tags": [
+      "analysis",
+      "deep-read"
+    ],
+    "authors": [],
+    "metadata": {
+      "feed_id": "theverge_ai",
+      "feed_source": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "signal_tier": "trusted_analysis",
+      "source_quality": 1.3
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "analysis_theverge_ai",
+    "source_name": "The Verge AI",
+    "source_role": "editorial_depth",
+    "source_type": "blog_analysis",
+    "title": "Sony and UMG are suing Suno again",
+    "summary": "Sony and Universal Music Group filed yet another suit against Suno. The labels claim its new v6 model still infringes on their copyrights because it's trained on user outputs from previous models, which were themselves trained on unlicensed music ripped from YouTube and other sources. Sony and UMG are notable holdouts who did not sign [&#8230;]",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music",
+    "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music",
+    "published_at": "2026-09-25T11:51:56-04:00",
+    "tags": [
+      "analysis",
+      "deep-read"
+    ],
+    "authors": [],
+    "metadata": {
+      "feed_id": "theverge_ai",
+      "feed_source": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "signal_tier": "trusted_analysis",
+      "source_quality": 1.3
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "analysis_theverge_ai",
+    "source_name": "The Verge AI",
+    "source_role": "editorial_depth",
+    "source_type": "blog_analysis",
+    "title": "Meta makes the Muse filesystem even more accessible",
+    "summary": "Yesterday, with a little prodding, it was discovered that Meta's Muse would expose its filesystem to curious users. The files offered a fascinating peek under the hood of an AI chatbot, and appeared to expose details we weren't meant to see, not least because Muse itself told people, including us, it wasn't supposed to reveal [&#8230;]",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
+    "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
+    "published_at": "2026-09-25T12:49:53-04:00",
+    "tags": [
+      "analysis",
+      "deep-read"
+    ],
+    "authors": [],
+    "metadata": {
+      "feed_id": "theverge_ai",
+      "feed_source": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "signal_tier": "trusted_analysis",
+      "source_quality": 1.3
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "analysis_simon_willison",
+    "source_name": "Simon Willison's Blog",
+    "source_role": "editorial_depth",
+    "source_type": "blog_analysis",
+    "title": "Quoting John Gruber",
+    "summary": "<blockquote cite=\"https://daringfireball.net/linked/2026/09/25/aten-muse\"><p>Muse is getting a lot of attention — including mine — because it’s both groundbreaking technically (each user gets their own entire persistent Linux VM running in Meta’s cloud) <em>and</em> because it’s packaged in an easy-to-install easy-to-use way. It’s literally presented as <a href=\"https://daringfireball.net/linked/2026/09/24/song-meta-muse-cute\">a cute mascot</a>. It’s the first consumer-accessible agentic AI system, and Meta has truly done an amazing job with that. But it’s a genuinely open question whether consumers have any understanding what this means. If you buy a power saw that can cut your fingers off, you are almost certainly aware that you are buying a power saw that can sever your fingers. [......",
+    "url": "https://simonwillison.net/2026/Sep/25/john-gruber",
+    "canonical_url": "https://simonwillison.net/2026/Sep/25/john-gruber",
+    "published_at": "2026-09-25T17:22:01+00:00",
+    "tags": [
+      "analysis",
+      "deep-read"
+    ],
+    "authors": [],
+    "metadata": {
+      "feed_id": "simon_willison",
+      "feed_source": "https://simonwillison.net/atom/everything",
+      "signal_tier": "trusted_analysis",
+      "source_quality": 1.3
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "import_ai",
+    "source_name": "Import AI",
+    "source_role": "editorial_depth",
+    "source_type": "roundup",
+    "title": "A U.S. Strategy to Secure Geopolitical Advantage on an Uncertain Path to Superintelligence (RAND)",
+    "summary": "",
+    "url": "https://www.rand.org/pubs/perspectives/PEA5105-1.html",
+    "canonical_url": "https://www.rand.org/pubs/perspectives/PEA5105-1.html",
+    "published_at": "2026-09-26T00:00:00-04:00",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "roundup_site": "Import AI"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "last_week_in_ai",
+    "source_name": "Last Week in AI",
+    "source_role": "editorial_depth",
+    "source_type": "roundup",
+    "title": "Artificial Intelligence Made Simple",
+    "summary": "",
+    "url": "https://www.artificialintelligencemadesimple.com",
+    "canonical_url": "https://www.artificialintelligencemadesimple.com",
+    "published_at": "2026-09-26T00:00:00-04:00",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "roundup_site": "Last Week in AI"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "the_batch",
+    "source_name": "The Batch",
+    "source_role": "editorial_depth",
+    "source_type": "roundup",
+    "title": "DeepSeek Sharpens Its Reasoning: DeepSeek-R1, an affordable rival to OpenAI’s o1",
+    "summary": "",
+    "url": "https://www.deeplearning.ai/the-batch/deepseek-r1-an-affordable-rival-to-openais-o1",
+    "canonical_url": "https://www.deeplearning.ai/the-batch/deepseek-r1-an-affordable-rival-to-openais-o1",
+    "published_at": "2026-09-26T00:00:00-04:00",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "roundup_site": "The Batch"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "import_ai",
+    "source_name": "Import AI",
+    "source_role": "editorial_depth",
+    "source_type": "roundup",
+    "title": "Developmental xenocortication using human-derived organoids in mice (Nature)",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41586-026-11032-2",
+    "canonical_url": "https://www.nature.com/articles/s41586-026-11032-2",
+    "published_at": "2026-09-26T00:00:00-04:00",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "roundup_site": "Import AI"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "the_batch",
+    "source_name": "The Batch",
+    "source_role": "editorial_depth",
+    "source_type": "roundup",
+    "title": "Introducing DeepLearning.AI Pro",
+    "summary": "",
+    "url": "https://www.deeplearning.ai/the-batch/introducing-deeplearning-ai-pro",
+    "canonical_url": "https://www.deeplearning.ai/the-batch/introducing-deeplearning-ai-pro",
+    "published_at": "2026-09-26T00:00:00-04:00",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "roundup_site": "The Batch"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "the_batch",
+    "source_name": "The Batch",
+    "source_role": "editorial_depth",
+    "source_type": "roundup",
+    "title": "Meta’s Agent Security, The Navier-Stokes Controversy, Fraud on Claude",
+    "summary": "The Batch News & Insights: The loudest voices stoking fears about AI dangers have made tremendous headway in the past two weeks.",
+    "url": "https://www.deeplearning.ai/the-batch/tag/sep-18-2026",
+    "canonical_url": "https://www.deeplearning.ai/the-batch/tag/sep-18-2026",
+    "published_at": "2026-09-26T00:00:00-04:00",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "roundup_site": "The Batch"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "the_batch",
+    "source_name": "The Batch",
+    "source_role": "editorial_depth",
+    "source_type": "roundup",
+    "title": "OpenAI and Anthropic fight it out for the top overall spot, while Google, Meta, and Microsoft all release transcription models",
+    "summary": "The Batch News & Insights: When you’re skilled at AI Engineering, your best work won’t be merely implementing a product that someone else spec’ed out. Instead, you will actively shape the build.",
+    "url": "https://www.deeplearning.ai/the-batch/tag/sep-11-2026",
+    "canonical_url": "https://www.deeplearning.ai/the-batch/tag/sep-11-2026",
+    "published_at": "2026-09-26T00:00:00-04:00",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "roundup_site": "The Batch"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "the_batch",
+    "source_name": "The Batch",
+    "source_role": "editorial_depth",
+    "source_type": "roundup",
+    "title": "Opus Stalks the Frontier, Jev Classifies Everything, Running Two Models in One Agent",
+    "summary": "The Batch News & Insights: Moving forward on early stage, 0-to-1 projects and mature projects requires very different tactics.",
+    "url": "https://www.deeplearning.ai/the-batch/tag/sep-25-2026",
+    "canonical_url": "https://www.deeplearning.ai/the-batch/tag/sep-25-2026",
+    "published_at": "2026-09-26T00:00:00-04:00",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "roundup_site": "The Batch"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "import_ai",
+    "source_name": "Import AI",
+    "source_role": "editorial_depth",
+    "source_type": "roundup",
+    "title": "Pacing the Frontier, a Framework & Research Agenda (pacing.tech)",
+    "summary": "",
+    "url": "https://pacing.tech",
+    "canonical_url": "https://pacing.tech",
+    "published_at": "2026-09-26T00:00:00-04:00",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "roundup_site": "Import AI"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "import_ai",
+    "source_name": "Import AI",
+    "source_role": "editorial_depth",
+    "source_type": "roundup",
+    "title": "The Work Of Art in the Age of Mechanical Reproduction by Walter Benjamin",
+    "summary": "",
+    "url": "https://web.mit.edu/allanmc/www/benjamin.pdf",
+    "canonical_url": "https://web.mit.edu/allanmc/www/benjamin.pdf",
+    "published_at": "2026-09-26T00:00:00-04:00",
+    "tags": [],
+    "authors": [],
+    "metadata": {
+      "roundup_site": "Import AI"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "analysis_qbitai",
+    "source_name": "量子位 (QbitAI)",
+    "source_role": "editorial_depth",
+    "source_type": "blog_analysis",
+    "title": "华为大模型双子星联手创业，要找物理世界的Scaling Law",
+    "summary": "一场物理世界的基模实验",
+    "url": "https://www.qbitai.com/2026/09/497070.html",
+    "canonical_url": "https://www.qbitai.com/2026/09/497070.html",
+    "published_at": "Fri, 25 Sep 2026 06:14:07 +0000",
+    "tags": [
+      "analysis",
+      "deep-read"
+    ],
+    "authors": [],
+    "metadata": {
+      "feed_id": "qbitai",
+      "feed_source": "https://www.qbitai.com/feed",
+      "signal_tier": "trusted_analysis",
+      "source_quality": 1.3
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "analysis_qbitai",
+    "source_name": "量子位 (QbitAI)",
+    "source_role": "editorial_depth",
+    "source_type": "blog_analysis",
+    "title": "别人忙着卷Code，Kimi抽身反打浏览器插件：网页操作一秒变Skill",
+    "summary": "Agent的手越伸越长",
+    "url": "https://www.qbitai.com/2026/09/497075.html",
+    "canonical_url": "https://www.qbitai.com/2026/09/497075.html",
+    "published_at": "Fri, 25 Sep 2026 06:20:56 +0000",
+    "tags": [
+      "analysis",
+      "deep-read"
+    ],
+    "authors": [],
+    "metadata": {
+      "feed_id": "qbitai",
+      "feed_source": "https://www.qbitai.com/feed",
+      "signal_tier": "trusted_analysis",
+      "source_quality": 1.3
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "analysis_qbitai",
+    "source_name": "量子位 (QbitAI)",
+    "source_role": "editorial_depth",
+    "source_type": "blog_analysis",
+    "title": "亮出“中国最强AI芯片”还不够，平头哥又甩出一手开源",
+    "summary": "大厂造芯，正在从交付芯片，走向更广泛的开放共建阶段。",
+    "url": "https://www.qbitai.com/2026/09/497108.html",
+    "canonical_url": "https://www.qbitai.com/2026/09/497108.html",
+    "published_at": "Fri, 25 Sep 2026 10:00:14 +0000",
+    "tags": [
+      "analysis",
+      "deep-read"
+    ],
+    "authors": [],
+    "metadata": {
+      "feed_id": "qbitai",
+      "feed_source": "https://www.qbitai.com/feed",
+      "signal_tier": "trusted_analysis",
+      "source_quality": 1.3
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "analysis_qbitai",
+    "source_name": "量子位 (QbitAI)",
+    "source_role": "editorial_depth",
+    "source_type": "blog_analysis",
+    "title": "OpenAI闯大祸！GPT竟黑进医保系统，黄仁勋：管不住就关掉",
+    "summary": "",
+    "url": "https://www.qbitai.com/2026/09/497177.html",
+    "canonical_url": "https://www.qbitai.com/2026/09/497177.html",
+    "published_at": "Fri, 25 Sep 2026 13:15:45 +0000",
+    "tags": [
+      "analysis",
+      "deep-read"
+    ],
+    "authors": [],
+    "metadata": {
+      "feed_id": "qbitai",
+      "feed_source": "https://www.qbitai.com/feed",
+      "signal_tier": "trusted_analysis",
+      "source_quality": 1.3
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "analysis_qbitai",
+    "source_name": "量子位 (QbitAI)",
+    "source_role": "editorial_depth",
+    "source_type": "blog_analysis",
+    "title": "“AlphaGo”杀进足球场！自我对弈140年，机器人成“梅西终结者”",
+    "summary": "",
+    "url": "https://www.qbitai.com/2026/09/497278.html",
+    "canonical_url": "https://www.qbitai.com/2026/09/497278.html",
+    "published_at": "Fri, 25 Sep 2026 13:24:20 +0000",
+    "tags": [
+      "analysis",
+      "deep-read"
+    ],
+    "authors": [],
+    "metadata": {
+      "feed_id": "qbitai",
+      "feed_source": "https://www.qbitai.com/feed",
+      "signal_tier": "trusted_analysis",
+      "source_quality": 1.3
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "analysis_mit_ai_news",
+    "source_name": "MIT News AI",
+    "source_role": "editorial_depth",
+    "source_type": "blog_analysis",
+    "title": "MIT students gain a humanist lens on technical innovation in Tulsa, Oklahoma",
+    "summary": "The PKG Center for Social Impact expands Code.Tulsa experiential learning program.",
+    "url": "https://news.mit.edu/2026/mit-students-gain-humanist-lens-technical-innovation-tulsa-oklahoma-0925",
+    "canonical_url": "https://news.mit.edu/2026/mit-students-gain-humanist-lens-technical-innovation-tulsa-oklahoma-0925",
+    "published_at": "Fri, 25 Sep 2026 16:15:00 -0400",
+    "tags": [
+      "analysis",
+      "deep-read"
+    ],
+    "authors": [],
+    "metadata": {
+      "feed_id": "mit_ai_news",
+      "feed_source": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "signal_tier": "trusted_analysis",
+      "source_quality": 1.3
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "analysis_techcrunch_ai",
+    "source_name": "TechCrunch AI",
+    "source_role": "editorial_depth",
+    "source_type": "blog_analysis",
+    "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+    "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
+    "url": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026",
+    "canonical_url": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026",
+    "published_at": "Fri, 25 Sep 2026 18:48:33 +0000",
+    "tags": [
+      "analysis",
+      "deep-read"
+    ],
+    "authors": [],
+    "metadata": {
+      "feed_id": "techcrunch_ai",
+      "feed_source": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "signal_tier": "trusted_analysis",
+      "source_quality": 1.3
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "analysis_arstechnica_ai",
+    "source_name": "Ars Technica AI",
+    "source_role": "editorial_depth",
+    "source_type": "blog_analysis",
+    "title": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise.",
+    "summary": "\"There is no evidence of any significant, widespread displacement or reduction in hiring.”",
+    "url": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise",
+    "canonical_url": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise",
+    "published_at": "Fri, 25 Sep 2026 19:11:05 +0000",
+    "tags": [
+      "analysis",
+      "deep-read"
+    ],
+    "authors": [],
+    "metadata": {
+      "feed_id": "arstechnica_ai",
+      "feed_source": "https://arstechnica.com/ai/feed/",
+      "signal_tier": "trusted_analysis",
+      "source_quality": 1.3
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "analysis_techcrunch_ai",
+    "source_name": "TechCrunch AI",
+    "source_role": "editorial_depth",
+    "source_type": "blog_analysis",
+    "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+    "summary": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that grows as Anthropic spends more.",
+    "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal",
+    "canonical_url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal",
+    "published_at": "Fri, 25 Sep 2026 19:13:38 +0000",
+    "tags": [
+      "analysis",
+      "deep-read"
+    ],
+    "authors": [],
+    "metadata": {
+      "feed_id": "techcrunch_ai",
+      "feed_source": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "signal_tier": "trusted_analysis",
+      "source_quality": 1.3
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "analysis_arstechnica_ai",
+    "source_name": "Ars Technica AI",
+    "source_role": "editorial_depth",
+    "source_type": "blog_analysis",
+    "title": "Tesla workers balk at training Optimus humanoid robots as replacements",
+    "summary": "Despite challenges, Tesla aims for 1,000 Optimus robots per week by end of 2026.",
+    "url": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements",
+    "canonical_url": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements",
+    "published_at": "Fri, 25 Sep 2026 21:10:51 +0000",
+    "tags": [
+      "analysis",
+      "deep-read"
+    ],
+    "authors": [],
+    "metadata": {
+      "feed_id": "arstechnica_ai",
+      "feed_source": "https://arstechnica.com/ai/feed/",
+      "signal_tier": "trusted_analysis",
+      "source_quality": 1.3
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "analysis_arstechnica_ai",
+    "source_name": "Ars Technica AI",
+    "source_role": "editorial_depth",
+    "source_type": "blog_analysis",
+    "title": "Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
+    "summary": "\"Overly constrained AI models\" could cause military operations to fail, judges say.",
+    "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features",
+    "canonical_url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features",
+    "published_at": "Fri, 25 Sep 2026 21:36:20 +0000",
+    "tags": [
+      "analysis",
+      "deep-read"
+    ],
+    "authors": [],
+    "metadata": {
+      "feed_id": "arstechnica_ai",
+      "feed_source": "https://arstechnica.com/ai/feed/",
+      "signal_tier": "trusted_analysis",
+      "source_quality": 1.3
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "analysis_techcrunch_ai",
+    "source_name": "TechCrunch AI",
+    "source_role": "editorial_depth",
+    "source_type": "blog_analysis",
+    "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+    "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
+    "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge",
+    "canonical_url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge",
+    "published_at": "Fri, 25 Sep 2026 22:20:47 +0000",
+    "tags": [
+      "analysis",
+      "deep-read"
+    ],
+    "authors": [],
+    "metadata": {
+      "feed_id": "techcrunch_ai",
+      "feed_source": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "signal_tier": "trusted_analysis",
+      "source_quality": 1.3
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "analysis_techcrunch_ai",
+    "source_name": "TechCrunch AI",
+    "source_role": "editorial_depth",
+    "source_type": "blog_analysis",
+    "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+    "summary": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
+    "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers",
+    "canonical_url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers",
+    "published_at": "Fri, 25 Sep 2026 23:11:10 +0000",
+    "tags": [
+      "analysis",
+      "deep-read"
+    ],
+    "authors": [],
+    "metadata": {
+      "feed_id": "techcrunch_ai",
+      "feed_source": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "signal_tier": "trusted_analysis",
+      "source_quality": 1.3
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "analysis_techcrunch_ai",
+    "source_name": "TechCrunch AI",
+    "source_role": "editorial_depth",
+    "source_type": "blog_analysis",
+    "title": "At Meta Connect, the company’s smart glasses were everywhere",
+    "summary": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
+    "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere",
+    "canonical_url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere",
+    "published_at": "Sat, 26 Sep 2026 01:08:57 +0000",
+    "tags": [
+      "analysis",
+      "deep-read"
+    ],
+    "authors": [],
+    "metadata": {
+      "feed_id": "techcrunch_ai",
+      "feed_source": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "signal_tier": "trusted_analysis",
+      "source_quality": 1.3
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "analysis_mit_ai_news",
+    "source_name": "MIT News AI",
+    "source_role": "editorial_depth",
+    "source_type": "blog_analysis",
+    "title": "The promise and peril of using visual AI to study cities",
+    "summary": "In their new book, “How AI Sees the City,” the leaders of MIT’s Senseable City Lab examine the technology’s implications for researching urban life.",
+    "url": "https://news.mit.edu/2026/studying-cities-using-visual-ai-fabio-duarte-martina-mazzarello-carlo-ratti-fan-zhang-book-0924",
+    "canonical_url": "https://news.mit.edu/2026/studying-cities-using-visual-ai-fabio-duarte-martina-mazzarello-carlo-ratti-fan-zhang-book-0924",
+    "published_at": "Thu, 24 Sep 2026 00:00:00 -0400",
+    "tags": [
+      "analysis",
+      "deep-read"
+    ],
+    "authors": [],
+    "metadata": {
+      "feed_id": "mit_ai_news",
+      "feed_source": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "signal_tier": "trusted_analysis",
+      "source_quality": 1.3
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "analysis_arstechnica_ai",
+    "source_name": "Ars Technica AI",
+    "source_role": "editorial_depth",
+    "source_type": "blog_analysis",
+    "title": "Google's first Suncatcher orbital data center test launches October 1",
+    "summary": "Google's experimental orbital data center will have four TPUs and only run for 15 minutes at a time.",
+    "url": "https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1",
+    "canonical_url": "https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1",
+    "published_at": "Thu, 24 Sep 2026 16:16:34 +0000",
+    "tags": [
+      "analysis",
+      "deep-read"
+    ],
+    "authors": [],
+    "metadata": {
+      "feed_id": "arstechnica_ai",
+      "feed_source": "https://arstechnica.com/ai/feed/",
+      "signal_tier": "trusted_analysis",
+      "source_quality": 1.3
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "analysis_mit_ai_news",
+    "source_name": "MIT News AI",
+    "source_role": "editorial_depth",
+    "source_type": "blog_analysis",
+    "title": "Estimating suicide risk from text",
+    "summary": "A new language-processing tool could help identify the highest-risk individuals from natural language, enabling swifter interventions.",
+    "url": "https://news.mit.edu/2026/estimating-suicide-risk-from-text-0924",
+    "canonical_url": "https://news.mit.edu/2026/estimating-suicide-risk-from-text-0924",
+    "published_at": "Thu, 24 Sep 2026 17:00:00 -0400",
+    "tags": [
+      "analysis",
+      "deep-read"
+    ],
+    "authors": [],
+    "metadata": {
+      "feed_id": "mit_ai_news",
+      "feed_source": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "signal_tier": "trusted_analysis",
+      "source_quality": 1.3
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "analysis_arstechnica_ai",
+    "source_name": "Ars Technica AI",
+    "source_role": "editorial_depth",
+    "source_type": "blog_analysis",
+    "title": "New Jersey fines data center $1.1M after drone pics expose 62 gas generators",
+    "summary": "Million-dollar fines won’t end billionaires’ data center pollution, neighbors fear.",
+    "url": "https://arstechnica.com/tech-policy/2026/09/new-jersey-fines-data-center-1-1m-after-satellite-pics-expose-62-gas-generators",
+    "canonical_url": "https://arstechnica.com/tech-policy/2026/09/new-jersey-fines-data-center-1-1m-after-satellite-pics-expose-62-gas-generators",
+    "published_at": "Thu, 24 Sep 2026 18:20:58 +0000",
+    "tags": [
+      "analysis",
+      "deep-read"
+    ],
+    "authors": [],
+    "metadata": {
+      "feed_id": "arstechnica_ai",
+      "feed_source": "https://arstechnica.com/ai/feed/",
+      "signal_tier": "trusted_analysis",
+      "source_quality": 1.3
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "github_trend",
+    "source_name": "GitHub Trending Repos",
+    "source_role": "github_trend",
+    "source_type": "repository",
+    "title": "Rizzo-AI-Academy/rizzo-flow",
+    "summary": "The open, local take on Jev: typed decisions from an LLM, without generating a single token",
+    "url": "https://github.com/Rizzo-AI-Academy/rizzo-flow",
+    "canonical_url": "https://github.com/Rizzo-AI-Academy/rizzo-flow",
+    "published_at": "2026-09-21T00:00:02Z",
+    "tags": [],
+    "authors": [
+      "Rizzo-AI-Academy"
+    ],
+    "metadata": {
+      "fetched_at": "2026-09-26T00:00:00-04:00",
+      "forks": 31,
+      "github_full_name": "Rizzo-AI-Academy/rizzo-flow",
+      "github_url": "https://github.com/Rizzo-AI-Academy/rizzo-flow",
+      "language": "Python",
+      "search_query": "llm",
+      "stars": 496
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "github_trend",
+    "source_name": "GitHub Trending Repos",
+    "source_role": "github_trend",
+    "source_type": "repository",
+    "title": "freestylefly/WeChatBridge",
+    "summary": "微信聊天记录一键转发到 AI Agent 与 Obsidian 的原生 macOS 工具",
+    "url": "https://github.com/freestylefly/WeChatBridge",
+    "canonical_url": "https://github.com/freestylefly/WeChatBridge",
+    "published_at": "2026-09-21T02:54:51Z",
+    "tags": [
+      "ai-agent",
+      "chat-history",
+      "macos",
+      "obsidian",
+      "share-extension",
+      "swift",
+      "wechat"
+    ],
+    "authors": [
+      "freestylefly"
+    ],
+    "metadata": {
+      "fetched_at": "2026-09-26T00:00:00-04:00",
+      "forks": 289,
+      "github_full_name": "freestylefly/WeChatBridge",
+      "github_url": "https://github.com/freestylefly/WeChatBridge",
+      "language": "Swift",
+      "search_query": "agent",
+      "stars": 741
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "github_trend",
+    "source_name": "GitHub Trending Repos",
+    "source_role": "github_trend",
+    "source_type": "repository",
+    "title": "nokia-applied-research/AnyJev",
+    "summary": "Turn any LLM into a Jev-style decision model: typed decisions, real probabilities, no training. (continue updating)",
+    "url": "https://github.com/nokia-applied-research/AnyJev",
+    "canonical_url": "https://github.com/nokia-applied-research/AnyJev",
+    "published_at": "2026-09-21T05:55:40Z",
+    "tags": [
+      "calibration",
+      "decision-model",
+      "jev",
+      "jev-model",
+      "llm",
+      "system-one",
+      "transformers",
+      "vllm"
+    ],
+    "authors": [
+      "nokia-applied-research"
+    ],
+    "metadata": {
+      "fetched_at": "2026-09-26T00:00:00-04:00",
+      "forks": 96,
+      "github_full_name": "nokia-applied-research/AnyJev",
+      "github_url": "https://github.com/nokia-applied-research/AnyJev",
+      "language": "Python",
+      "search_query": "llm",
+      "stars": 728
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "github_trend",
+    "source_name": "GitHub Trending Repos",
+    "source_role": "github_trend",
+    "source_type": "repository",
+    "title": "jev-chat/jev-chat-jarvis",
+    "summary": "装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
+    "url": "https://github.com/jev-chat/jev-chat-jarvis",
+    "canonical_url": "https://github.com/jev-chat/jev-chat-jarvis",
+    "published_at": "2026-09-21T11:12:53Z",
+    "tags": [
+      "accessibility-service",
+      "android",
+      "chat-assistant",
+      "llm",
+      "qq"
+    ],
+    "authors": [
+      "jev-chat"
+    ],
+    "metadata": {
+      "fetched_at": "2026-09-26T00:00:00-04:00",
+      "forks": 1135,
+      "github_full_name": "jev-chat/jev-chat-jarvis",
+      "github_url": "https://github.com/jev-chat/jev-chat-jarvis",
+      "language": "Kotlin",
+      "search_query": "llm",
+      "stars": 6534
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "github_trend",
+    "source_name": "GitHub Trending Repos",
+    "source_role": "github_trend",
+    "source_type": "repository",
+    "title": "jev-chat/jev-chat-jarvis-mac",
+    "summary": "聊天悬浮窗助手（macOS）：屏幕感知 + 本地小模型判断意图与风险，按话术生成回复候选。纯只读。",
+    "url": "https://github.com/jev-chat/jev-chat-jarvis-mac",
+    "canonical_url": "https://github.com/jev-chat/jev-chat-jarvis-mac",
+    "published_at": "2026-09-21T11:39:32Z",
+    "tags": [
+      "llm",
+      "local-first",
+      "macos",
+      "ocr",
+      "privacy",
+      "pyobjc",
+      "python"
+    ],
+    "authors": [
+      "jev-chat"
+    ],
+    "metadata": {
+      "fetched_at": "2026-09-26T00:00:00-04:00",
+      "forks": 119,
+      "github_full_name": "jev-chat/jev-chat-jarvis-mac",
+      "github_url": "https://github.com/jev-chat/jev-chat-jarvis-mac",
+      "language": "Python",
+      "search_query": "llm",
+      "stars": 399
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "github_trend",
+    "source_name": "GitHub Trending Repos",
+    "source_role": "github_trend",
+    "source_type": "repository",
+    "title": "jev-chat/jev-chat-windows",
+    "summary": "JevChat-Windows：聊天窗口旁挂的回复辅助。窗口截图 + 本地离线 OCR 读对方消息 → Jev 判断意图 → 3 条候选一键填入，发送永远手动",
+    "url": "https://github.com/jev-chat/jev-chat-windows",
+    "canonical_url": "https://github.com/jev-chat/jev-chat-windows",
+    "published_at": "2026-09-21T14:37:14Z",
+    "tags": [
+      "chat-assistant",
+      "jev",
+      "llm",
+      "local-first",
+      "ocr",
+      "privacy",
+      "pyqt",
+      "python",
+      "wechat",
+      "windows"
+    ],
+    "authors": [
+      "jev-chat"
+    ],
+    "metadata": {
+      "fetched_at": "2026-09-26T00:00:00-04:00",
+      "forks": 125,
+      "github_full_name": "jev-chat/jev-chat-windows",
+      "github_url": "https://github.com/jev-chat/jev-chat-windows",
+      "language": "Python",
+      "search_query": "llm",
+      "stars": 562
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "github_trend",
+    "source_name": "GitHub Trending Repos",
+    "source_role": "github_trend",
+    "source_type": "repository",
+    "title": "malevrigns/agent-jev",
+    "summary": "AgentJev-0.6B - a fast 'System One' decision model for AI Agents: feed it any unstructured state (diffs, traces, logs) and structured questions, get calibrated probability distributions back in one ~50ms forward pass. Zero output-token decoding.",
+    "url": "https://github.com/malevrigns/agent-jev",
+    "canonical_url": "https://github.com/malevrigns/agent-jev",
+    "published_at": "2026-09-21T16:24:42Z",
+    "tags": [],
+    "authors": [
+      "malevrigns"
+    ],
+    "metadata": {
+      "fetched_at": "2026-09-26T00:00:00-04:00",
+      "forks": 27,
+      "github_full_name": "malevrigns/agent-jev",
+      "github_url": "https://github.com/malevrigns/agent-jev",
+      "language": "Python",
+      "search_query": "agent",
+      "stars": 305
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "github_trend",
+    "source_name": "GitHub Trending Repos",
+    "source_role": "github_trend",
+    "source_type": "repository",
+    "title": "unreallabsai/unreal-agent",
+    "summary": "Async-first agent harness",
+    "url": "https://github.com/unreallabsai/unreal-agent",
+    "canonical_url": "https://github.com/unreallabsai/unreal-agent",
+    "published_at": "2026-09-21T23:14:02Z",
+    "tags": [],
+    "authors": [
+      "unreallabsai"
+    ],
+    "metadata": {
+      "fetched_at": "2026-09-26T00:00:00-04:00",
+      "forks": 103,
+      "github_full_name": "unreallabsai/unreal-agent",
+      "github_url": "https://github.com/unreallabsai/unreal-agent",
+      "language": "Go",
+      "search_query": "agent",
+      "stars": 1943
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "github_trend",
+    "source_name": "GitHub Trending Repos",
+    "source_role": "github_trend",
+    "source_type": "repository",
+    "title": "lhlGitHub/threejs-architecture-effects",
+    "summary": "An Agent Skill for building interactive, self-assembling 3D architecture with Three.js. 一个用 Three.js 生成可交互、可动态建造 3D 建筑的 Agent Skill。",
+    "url": "https://github.com/lhlGitHub/threejs-architecture-effects",
+    "canonical_url": "https://github.com/lhlGitHub/threejs-architecture-effects",
+    "published_at": "2026-09-22T03:01:05Z",
+    "tags": [],
+    "authors": [
+      "lhlGitHub"
+    ],
+    "metadata": {
+      "fetched_at": "2026-09-26T00:00:00-04:00",
+      "forks": 46,
+      "github_full_name": "lhlGitHub/threejs-architecture-effects",
+      "github_url": "https://github.com/lhlGitHub/threejs-architecture-effects",
+      "language": "TypeScript",
+      "search_query": "agent",
+      "stars": 287
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "github_trend",
+    "source_name": "GitHub Trending Repos",
+    "source_role": "github_trend",
+    "source_type": "repository",
+    "title": "amitshekhariitbhu/ai-engineering-course",
+    "summary": "AI Engineering Course - A free and complete AI Engineering Course to learn AI Engineering step by step - from Machine Learning, Neural Networks, and Transformers to LLMs, Fine-Tuning, RAG, AI Agents, LLM Inference, Evaluation, AI Safety, and AI System Design.",
+    "url": "https://github.com/amitshekhariitbhu/ai-engineering-course",
+    "canonical_url": "https://github.com/amitshekhariitbhu/ai-engineering-course",
+    "published_at": "2026-09-23T08:04:42Z",
+    "tags": [
+      "ai-course",
+      "ai-engineering",
+      "ai-engineering-course",
+      "ai-engineering-curriculum",
+      "large-language-models"
+    ],
+    "authors": [
+      "amitshekhariitbhu"
+    ],
+    "metadata": {
+      "fetched_at": "2026-09-26T00:00:00-04:00",
+      "forks": 61,
+      "github_full_name": "amitshekhariitbhu/ai-engineering-course",
+      "github_url": "https://github.com/amitshekhariitbhu/ai-engineering-course",
+      "language": "Markdown",
+      "search_query": "llm",
+      "stars": 323
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "github_trend",
+    "source_name": "GitHub Trending Repos",
+    "source_role": "github_trend",
+    "source_type": "repository",
+    "title": "mikehasa/golive-skill",
+    "summary": "Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.",
+    "url": "https://github.com/mikehasa/golive-skill",
+    "canonical_url": "https://github.com/mikehasa/golive-skill",
+    "published_at": "2026-09-23T13:37:26Z",
+    "tags": [
+      "agent-skill",
+      "agent-skills",
+      "ai-agents",
+      "claude-code",
+      "cloudflare",
+      "codex",
+      "database",
+      "deployment",
+      "developer-tools",
+      "devops",
+      "dns",
+      "godaddy",
+      "hosting",
+      "infrastructure",
+      "neon",
+      "netlify",
+      "porkbun",
+      "skills",
+      "supabase",
+      "vercel"
+    ],
+    "authors": [
+      "mikehasa"
+    ],
+    "metadata": {
+      "fetched_at": "2026-09-26T00:00:00-04:00",
+      "forks": 65,
+      "github_full_name": "mikehasa/golive-skill",
+      "github_url": "https://github.com/mikehasa/golive-skill",
+      "language": "TypeScript",
+      "search_query": "agent",
+      "stars": 951
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "github_trend",
+    "source_name": "GitHub Trending Repos",
+    "source_role": "github_trend",
+    "source_type": "repository",
+    "title": "yetone/magpie",
+    "summary": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+    "url": "https://github.com/yetone/magpie",
+    "canonical_url": "https://github.com/yetone/magpie",
+    "published_at": "2026-09-23T16:22:35Z",
+    "tags": [
+      "claude-code",
+      "codex",
+      "deepseek",
+      "gemini-cli",
+      "llm",
+      "macos"
+    ],
+    "authors": [
+      "yetone"
+    ],
+    "metadata": {
+      "fetched_at": "2026-09-26T00:00:00-04:00",
+      "forks": 49,
+      "github_full_name": "yetone/magpie",
+      "github_url": "https://github.com/yetone/magpie",
+      "language": "Go",
+      "search_query": "llm",
+      "stars": 813
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "github_trend",
+    "source_name": "GitHub Trending Repos",
+    "source_role": "github_trend",
+    "source_type": "repository",
+    "title": "asokurasu/text-humanizer",
+    "summary": "A completely free open-sourced project designed to humanize AI-generated text through a multilingual LLM-powered rewriting pipeline.",
+    "url": "https://github.com/asokurasu/text-humanizer",
+    "canonical_url": "https://github.com/asokurasu/text-humanizer",
+    "published_at": "2026-09-23T17:32:37Z",
+    "tags": [
+      "ai-detector",
+      "ai-detector-bypass",
+      "ai-detectors",
+      "text-humanizer",
+      "zerogpt",
+      "zerogpt-bypass"
+    ],
+    "authors": [
+      "asokurasu"
+    ],
+    "metadata": {
+      "fetched_at": "2026-09-26T00:00:00-04:00",
+      "forks": 82,
+      "github_full_name": "asokurasu/text-humanizer",
+      "github_url": "https://github.com/asokurasu/text-humanizer",
+      "language": "Python",
+      "search_query": "llm",
+      "stars": 666
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "github_trend",
+    "source_name": "GitHub Trending Repos",
+    "source_role": "github_trend",
+    "source_type": "repository",
+    "title": "yukitorido/short-video-generator-AI",
+    "summary": "AI video processing pipeline for generating vertical shorts using LLMs, Whisper transcription, highlight detection and automated editing",
+    "url": "https://github.com/yukitorido/short-video-generator-AI",
+    "canonical_url": "https://github.com/yukitorido/short-video-generator-AI",
+    "published_at": "2026-09-23T18:11:57Z",
+    "tags": [
+      "ai",
+      "llm",
+      "llm-tools",
+      "opus-clip",
+      "opus-clip-alternative",
+      "short-video",
+      "short-video-automation",
+      "short-video-generator",
+      "short-video-maker"
+    ],
+    "authors": [
+      "yukitorido"
+    ],
+    "metadata": {
+      "fetched_at": "2026-09-26T00:00:00-04:00",
+      "forks": 82,
+      "github_full_name": "yukitorido/short-video-generator-AI",
+      "github_url": "https://github.com/yukitorido/short-video-generator-AI",
+      "language": "Python",
+      "search_query": "llm",
+      "stars": 687
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "github_trend",
+    "source_name": "GitHub Trending Repos",
+    "source_role": "github_trend",
+    "source_type": "repository",
+    "title": "leter/zh-tech-writing",
+    "summary": "写中文技术文档的 Agent Skill，基于阮一峰《中文技术文档的写作规范》：短句、平实、没有 AI 腔",
+    "url": "https://github.com/leter/zh-tech-writing",
+    "canonical_url": "https://github.com/leter/zh-tech-writing",
+    "published_at": "2026-09-24T17:37:46Z",
+    "tags": [
+      "agent-skills",
+      "chinese",
+      "claude-code",
+      "documentation",
+      "style-guide",
+      "technical-writing"
+    ],
+    "authors": [
+      "leter"
+    ],
+    "metadata": {
+      "fetched_at": "2026-09-26T00:00:00-04:00",
+      "forks": 10,
+      "github_full_name": "leter/zh-tech-writing",
+      "github_url": "https://github.com/leter/zh-tech-writing",
+      "language": null,
+      "search_query": "agent",
+      "stars": 225
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "hn_discussion",
+    "source_name": "Hacker News",
+    "source_role": "hn_discussion",
+    "source_type": "discussion",
+    "title": "Show HN: Agentic CUDA Kernel Optimizer",
+    "summary": "Show HN: Agentic CUDA Kernel Optimizer",
+    "url": "https://github.com/bertaye/agentic-cuda-optimizer",
+    "canonical_url": "https://github.com/bertaye/agentic-cuda-optimizer",
+    "published_at": "2026-09-25T10:32:58Z",
+    "tags": [],
+    "authors": [
+      "bertaye"
+    ],
+    "metadata": {
+      "hn_comments": 11,
+      "hn_id": "49842596",
+      "hn_score": 32,
+      "host": "github.com"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "hn_discussion",
+    "source_name": "Hacker News",
+    "source_role": "hn_discussion",
+    "source_type": "discussion",
+    "title": "Classified estimates show the NSA is paying billions to test AI models",
+    "summary": "Classified estimates show the NSA is paying billions to test AI models",
+    "url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
+    "canonical_url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
+    "published_at": "2026-09-25T15:27:35Z",
+    "tags": [],
+    "authors": [
+      "rdmuser"
+    ],
+    "metadata": {
+      "hn_comments": 101,
+      "hn_id": "49845952",
+      "hn_score": 171,
+      "host": "www.washingtonsun.com"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "hn_discussion",
+    "source_name": "Hacker News",
+    "source_role": "hn_discussion",
+    "source_type": "discussion",
+    "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+    "summary": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+    "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+    "canonical_url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+    "published_at": "2026-09-25T15:29:25Z",
+    "tags": [],
+    "authors": [
+      "cramer4next"
+    ],
+    "metadata": {
+      "hn_comments": 734,
+      "hn_id": "49845977",
+      "hn_score": 418,
+      "host": "www.cnbc.com"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  },
+  {
+    "source_id": "hn_discussion",
+    "source_name": "Hacker News",
+    "source_role": "hn_discussion",
+    "source_type": "discussion",
+    "title": "FTC chair suggests AI developers should be liable for conduct of agents",
+    "summary": "FTC chair suggests AI developers should be liable for conduct of agents",
+    "url": "https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25",
+    "canonical_url": "https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25",
+    "published_at": "2026-09-25T22:49:41Z",
+    "tags": [],
+    "authors": [
+      "usernomdeguerre"
+    ],
+    "metadata": {
+      "hn_comments": 9,
+      "hn_id": "49850999",
+      "hn_score": 34,
+      "host": "www.reuters.com"
+    },
+    "verified_first_date": null,
+    "provenance": ""
+  }
+]

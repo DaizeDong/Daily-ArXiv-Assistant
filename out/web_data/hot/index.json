@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "latest_date": "2026-09-25",
+  "latest_date": "2026-09-26",
   "dates": [
     {
       "date": "2026-09-15",
@@ -265,23 +265,47 @@
         "month": null,
         "year": null
       }
+    },
+    {
+      "date": "2026-09-26",
+      "month": "2026-09",
+      "year": "2026",
+      "summary": "• [Industry Update] Opus Stalks the Frontier, Jev Classifies Everything, Running Two Models in One Agent — This recap surfaced across 1 independent source(s).\n• [Product Release] Microsoft thinks its new Copilot ‘super app’ will be as influential as Office — This product release surfaced across 1 independent source(s).\n• [Product Release] Sony and UMG are suing Suno again — This product release surfaced across 1 independent source(s).",
+      "featured_topics": 3,
+      "source_items": 28,
+      "topic_summary": 3,
+      "source_section_counts": {
+        "official": 8,
+        "market-signals": 0,
+        "analysis": 8,
+        "papers": 0,
+        "github": 6,
+        "industry": 6
+      },
+      "route": "/hot/2026-09-26/",
+      "paper_routes": {
+        "home": "../../",
+        "day": null,
+        "month": null,
+        "year": null
+      }
     }
   ],
   "months": [
     {
       "month": "2026-09",
-      "days": 11,
-      "featured_topics": 33,
-      "source_items": 364,
+      "days": 12,
+      "featured_topics": 36,
+      "source_items": 392,
       "route": "/hot/2026-09/"
     }
   ],
   "years": [
     {
       "year": "2026",
-      "days": 11,
-      "featured_topics": 33,
-      "source_items": 364,
+      "days": 12,
+      "featured_topics": 36,
+      "source_items": 392,
       "route": "/hot/2026/"
     }
   ]

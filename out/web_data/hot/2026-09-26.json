@@ -1,0 +1,2332 @@
+{
+  "schema_version": 1,
+  "meta": {
+    "date": "2026-09-26",
+    "month": "2026-09",
+    "year": "2026",
+    "generated_at": "2026-09-26T05:04:28.761793+00:00",
+    "mode": "openai",
+    "summary": "• [Industry Update] Opus Stalks the Frontier, Jev Classifies Everything, Running Two Models in One Agent — This recap surfaced across 1 independent source(s).\n• [Product Release] Microsoft thinks its new Copilot ‘super app’ will be as influential as Office — This product release surfaced across 1 independent source(s).\n• [Product Release] Sony and UMG are suing Suno again — This product release surfaced across 1 independent source(s).",
+    "previous_date": "2026-09-25",
+    "next_date": null,
+    "paper_routes": {
+      "home": "../../",
+      "day": null,
+      "month": null,
+      "year": null
+    },
+    "counts": {
+      "featured_topics": 3,
+      "topic_summary": 3,
+      "category_radar": 13,
+      "long_tail": 8,
+      "paper_spotlight": 0,
+      "x_buzz": 5,
+      "watchlist": 0,
+      "source_items": 28,
+      "resurgence": 0
+    }
+  },
+  "totals": {
+    "raw_items": 80,
+    "enriched_items": 0,
+    "stories": 0,
+    "featured": 3,
+    "watchlist": 0,
+    "category_topics": 13,
+    "long_tail_topics": 8,
+    "paper_spotlight_items": 4
+  },
+  "costs": {
+    "prompt": 0.0,
+    "completion": 0.0,
+    "total": 0.0
+  },
+  "usage": {
+    "llm": {
+      "provider": "openai",
+      "backend": "openai",
+      "billing_model": "quota",
+      "screen_model": "gpt-5.6",
+      "summary_model": "gpt-5.6",
+      "requests": 0,
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0,
+      "prompt_cost": 0.0,
+      "completion_cost": 0.0,
+      "total_cost": 0.0
+    },
+    "external": {
+      "ainews": {
+        "provider": "AINews RSS",
+        "billing_model": "free",
+        "requests": 1,
+        "items": 0,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "analysis_feeds": {
+        "provider": "Analysis RSS feeds",
+        "billing_model": "free",
+        "requests": 13,
+        "items": 26,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "github_trend": {
+        "provider": "GitHub API",
+        "billing_model": "free",
+        "requests": 2,
+        "items": 15,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "hf_papers": {
+        "provider": "Hugging Face",
+        "billing_model": "free",
+        "requests": 1,
+        "items": 12,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "hn_discussion": {
+        "provider": "Hacker News API",
+        "billing_model": "free",
+        "requests": 6,
+        "items": 4,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "local_papers": {
+        "provider": "Local cache",
+        "billing_model": "local",
+        "requests": 0,
+        "items": 0,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "model_hubs": {
+        "provider": "Hugging Face model index",
+        "billing_model": "free",
+        "requests": 20,
+        "items": 0,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "official_blogs": {
+        "provider": "Official blogs",
+        "billing_model": "free",
+        "requests": 30,
+        "items": 27,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "reddit": {
+        "provider": "Reddit JSON API",
+        "billing_model": "free",
+        "requests": 0,
+        "items": 0,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "roundup_sites": {
+        "provider": "Roundup sites",
+        "billing_model": "free",
+        "requests": 8,
+        "items": 17,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "x_ainews_twitter": {
+        "provider": "AINews Twitter recap",
+        "billing_model": "free",
+        "requests": 1,
+        "items": 0,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "x_twitterapi": {
+        "provider": "twitterapi.io",
+        "billing_model": "metered",
+        "requests": 0,
+        "items": 0,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      }
+    },
+    "summary": {
+      "external_requests": 82,
+      "x_requests": 1,
+      "estimated_external_cost": 0.0
+    }
+  },
+  "source_stats": {
+    "ainews": 0,
+    "analysis_feeds": 26,
+    "github_trend": 15,
+    "hf_papers": 12,
+    "hn_discussion": 4,
+    "local_papers": 0,
+    "model_hubs": 0,
+    "official_blogs": 27,
+    "reddit": 0,
+    "roundup_sites": 17,
+    "x_ainews_twitter": 0,
+    "x_twitterapi": 0
+  },
+  "source_section_counts": {
+    "official": 8,
+    "market-signals": 0,
+    "analysis": 8,
+    "papers": 0,
+    "github": 6,
+    "industry": 6
+  },
+  "source_sections": [
+    {
+      "slug": "official",
+      "label": "Official Updates",
+      "description": "Product, research, and platform updates from official vendor or lab channels.",
+      "count": 8,
+      "section_score": 10.905,
+      "items": [
+        {
+          "id": "aws_ai_blog-f3a074486b06",
+          "title": "Scaling MoE reinforcement learning on Amazon EKS with EFA and DeepEP with 40% more throughput",
+          "summary_short": "AWS presents an architecture for scaling mixture-of-experts reinforcement learning on Amazon EKS using Elastic Fabric Adapter and DeepEP. The post reports 40% higher throughput",
+          "url": "https://aws.amazon.com/blogs/machine-learning/scaling-moe-reinforcement-learning-on-amazon-eks-with-efa-and-deepep-with-40-more-throughput",
+          "canonical_url": "https://aws.amazon.com/blogs/machine-learning/scaling-moe-reinforcement-learning-on-amazon-eks-with-efa-and-deepep-with-40-more-throughput",
+          "source_id": "aws_ai_blog",
+          "source_name": "AWS AI Blog",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "source_family": "official",
+          "published_at": "Fri, 25 Sep 2026 16:29:50 +0000",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 6.365,
+          "topic_refs": [
+            {
+              "topic_id": "744cd7d77b5c",
+              "slug": "scaling-moe-reinforcement-learning-on-amazon-eks-with-efa-and-deepep-with-40-more-throughput",
+              "headline": "Scaling MoE reinforcement learning on Amazon EKS with EFA and DeepEP with 40% more throughput",
+              "daily_route": "/hot/2026-09-26/topic/scaling-moe-reinforcement-learning-on-amazon-eks-with-efa-and-deepep-with-40-more-throughput/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "aws_ai_blog-5c491d084833",
+          "title": "NarrateAI: production-ready LLM quality assurance on Amazon Bedrock",
+          "summary_short": "NarrateAI delivers production-ready LLM quality assurance on Amazon Bedrock. This post details five techniques—adaptive pipeline orchestration, cross-account multi-model failover, real-time streaming evaluation, composite evaluation, and data accuracy verification—that reach about 99% numerical",
+          "url": "https://aws.amazon.com/blogs/machine-learning/narrateai-production-ready-llm-quality-assurance-on-amazon-bedrock",
+          "canonical_url": "https://aws.amazon.com/blogs/machine-learning/narrateai-production-ready-llm-quality-assurance-on-amazon-bedrock",
+          "source_id": "aws_ai_blog",
+          "source_name": "AWS AI Blog",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "source_family": "official",
+          "published_at": "Fri, 25 Sep 2026 16:15:22 +0000",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 6.365,
+          "topic_refs": [
+            {
+              "topic_id": "744cd7d77b5c",
+              "slug": "scaling-moe-reinforcement-learning-on-amazon-eks-with-efa-and-deepep-with-40-more-throughput",
+              "headline": "Scaling MoE reinforcement learning on Amazon EKS with EFA and DeepEP with 40% more throughput",
+              "daily_route": "/hot/2026-09-26/topic/scaling-moe-reinforcement-learning-on-amazon-eks-with-efa-and-deepep-with-40-more-throughput/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "aws_ai_blog-3d3961d3118f",
+          "title": "How Datacor built self-service rental analytics with Amazon Quick Sight",
+          "summary_short": "Learn how Datacor built a self-service rental analytics experience for gas and welding distributors by embedding Amazon Quick Sight dashboards and natural language querying into its TrackAbout platform, powered by an automated cross-cloud data pipeline and multi-tenant row-level security",
+          "url": "https://aws.amazon.com/blogs/machine-learning/how-datacor-built-self-service-rental-analytics-with-amazon-quick-sight",
+          "canonical_url": "https://aws.amazon.com/blogs/machine-learning/how-datacor-built-self-service-rental-analytics-with-amazon-quick-sight",
+          "source_id": "aws_ai_blog",
+          "source_name": "AWS AI Blog",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "source_family": "official",
+          "published_at": "Fri, 25 Sep 2026 15:54:42 +0000",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 6.365,
+          "topic_refs": [
+            {
+              "topic_id": "744cd7d77b5c",
+              "slug": "scaling-moe-reinforcement-learning-on-amazon-eks-with-efa-and-deepep-with-40-more-throughput",
+              "headline": "Scaling MoE reinforcement learning on Amazon EKS with EFA and DeepEP with 40% more throughput",
+              "daily_route": "/hot/2026-09-26/topic/scaling-moe-reinforcement-learning-on-amazon-eks-with-efa-and-deepep-with-40-more-throughput/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "aws_ai_blog-4ac4a69f34d4",
+          "title": "Multi-Region training with Amazon SageMaker HyperPod and Qumulo",
+          "summary_short": "Amazon SageMaker HyperPod and Cloud Native Qumulo let you place training compute in one AWS Region while keeping your dataset in another.",
+          "url": "https://aws.amazon.com/blogs/machine-learning/multi-region-training-with-amazon-sagemaker-hyperpod-and-qumulo",
+          "canonical_url": "https://aws.amazon.com/blogs/machine-learning/multi-region-training-with-amazon-sagemaker-hyperpod-and-qumulo",
+          "source_id": "aws_ai_blog",
+          "source_name": "AWS AI Blog",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "source_family": "official",
+          "published_at": "Fri, 25 Sep 2026 15:49:44 +0000",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 6.365,
+          "topic_refs": [
+            {
+              "topic_id": "744cd7d77b5c",
+              "slug": "scaling-moe-reinforcement-learning-on-amazon-eks-with-efa-and-deepep-with-40-more-throughput",
+              "headline": "Scaling MoE reinforcement learning on Amazon EKS with EFA and DeepEP with 40% more throughput",
+              "daily_route": "/hot/2026-09-26/topic/scaling-moe-reinforcement-learning-on-amazon-eks-with-efa-and-deepep-with-40-more-throughput/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "huggingface_blog-e335741f50ea",
+          "title": "Bringing Humanoids to LeRobot",
+          "summary_short": "Hugging Face published a post about bringing humanoid robots to LeRobot. The supplied item does not specify supported hardware or implementation details",
+          "url": "https://huggingface.co/blog/nepyope/bringing-humanoids-to-lerobot",
+          "canonical_url": "https://huggingface.co/blog/nepyope/bringing-humanoids-to-lerobot",
+          "source_id": "huggingface_blog",
+          "source_name": "Hugging Face Blog",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "source_family": "official",
+          "published_at": "2026-09-25T14:15:28+00:00",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 6.014,
+          "topic_refs": [
+            {
+              "topic_id": "1c682994c1e0",
+              "slug": "bringing-humanoids-to-lerobot",
+              "headline": "Bringing Humanoids to LeRobot",
+              "daily_route": "/hot/2026-09-26/topic/bringing-humanoids-to-lerobot/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "openai_news-d2d497e5eee4",
+          "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+          "summary_short": "An OpenAI case study reports that Proaction increased sales by 60% and saved more than 75 hours using Codex. It describes Proaction using Codex, GPT-Live-1, and GPT-6 Astra to build, operate, and sell fleet-management software",
+          "url": "https://openai.com/index/proaction",
+          "canonical_url": "https://openai.com/index/proaction",
+          "source_id": "openai_news",
+          "source_name": "OpenAI News",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "source_family": "official",
+          "published_at": "Fri, 25 Sep 2026 19:00:00 GMT",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 5.829,
+          "topic_refs": [
+            {
+              "topic_id": "33135cfc5c86",
+              "slug": "proaction-boosts-sales-60-and-saves-75-hours-with-codex",
+              "headline": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+              "daily_route": "/hot/2026-09-26/topic/proaction-boosts-sales-60-and-saves-75-hours-with-codex/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "aws_ai_blog-44df1f0ad2a5",
+          "title": "Accelerate multimodal RL training with SkyRL on Amazon SageMaker HyperPod",
+          "summary_short": "Learn how to run SkyRL, an open-source reinforcement learning framework, on Amazon SageMaker HyperPod to post-train a Qwen3-VL-8B vision-language model with GRPO.",
+          "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-multimodal-rl-training-with-skyrl-on-amazon-sagemaker-hyperpod",
+          "canonical_url": "https://aws.amazon.com/blogs/machine-learning/accelerate-multimodal-rl-training-with-skyrl-on-amazon-sagemaker-hyperpod",
+          "source_id": "aws_ai_blog",
+          "source_name": "AWS AI Blog",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "source_family": "official",
+          "published_at": "Fri, 25 Sep 2026 16:18:07 +0000",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 1.5,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "aws_ai_blog-fbfeb983c98c",
+          "title": "Deploying real-time personalized speech with Qwen3-TTS on Amazon SageMaker AI",
+          "summary_short": "Deploy the publicly available Qwen3-TTS-12Hz-1.7B-Base text-to-speech model from Amazon SageMaker JumpStart to a fully managed, real-time endpoint, and clone a voice from a short reference clip. Cross-lingual cloning preserves the speaker's identity across languages",
+          "url": "https://aws.amazon.com/blogs/machine-learning/deploying-real-time-personalized-speech-with-qwen3-tts-on-amazon-sagemaker-ai",
+          "canonical_url": "https://aws.amazon.com/blogs/machine-learning/deploying-real-time-personalized-speech-with-qwen3-tts-on-amazon-sagemaker-ai",
+          "source_id": "aws_ai_blog",
+          "source_name": "AWS AI Blog",
+          "source_role": "official_news",
+          "source_type": "official_blog",
+          "source_family": "official",
+          "published_at": "Fri, 25 Sep 2026 16:09:46 +0000",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 1.5,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        }
+      ]
+    },
+    {
+      "slug": "market-signals",
+      "label": "Market Signals",
+      "description": "Funding rounds, acquisitions, valuations, and strategic moves in the AI industry.",
+      "count": 0,
+      "section_score": -1.0,
+      "items": []
+    },
+    {
+      "slug": "analysis",
+      "label": "Expert Analysis",
+      "description": "Long-form expert analysis and research explainers with substantive depth.",
+      "count": 8,
+      "section_score": 11.669,
+      "items": [
+        {
+          "id": "analysis_arstechnica_ai-26c3af843986",
+          "title": "Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
+          "summary_short": "A court ruled that the Trump administration can blacklist Anthropic for refusing to enable Claude features. Judges said overly constrained AI models could cause military operations to fail",
+          "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features",
+          "canonical_url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features",
+          "source_id": "analysis_arstechnica_ai",
+          "source_name": "Ars Technica AI",
+          "source_role": "editorial_depth",
+          "source_type": "blog_analysis",
+          "source_family": "analysis",
+          "published_at": "Fri, 25 Sep 2026 21:36:20 +0000",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 7.014,
+          "topic_refs": [
+            {
+              "topic_id": "bd5d793d783d",
+              "slug": "court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features",
+              "headline": "Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
+              "daily_route": "/hot/2026-09-26/topic/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "the_batch-277f59b9993b",
+          "title": "Opus Stalks the Frontier, Jev Classifies Everything, Running Two Models in One Agent",
+          "summary_short": "The Batch roundup highlights Opus, classification work involving Jev, and the use of two models within one agent. Its summary contrasts tactics for early-stage projects with those for mature projects",
+          "url": "https://www.deeplearning.ai/the-batch/tag/sep-25-2026",
+          "canonical_url": "https://www.deeplearning.ai/the-batch/tag/sep-25-2026",
+          "source_id": "the_batch",
+          "source_name": "The Batch",
+          "source_role": "editorial_depth",
+          "source_type": "roundup",
+          "source_family": "analysis",
+          "published_at": "2026-09-26T00:00:00-04:00",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 6.886,
+          "topic_refs": [
+            {
+              "topic_id": "0173b5a24e6e",
+              "slug": "opus-stalks-the-frontier-jev-classifies-everything-running-two-models-in-one-agent",
+              "headline": "Opus Stalks the Frontier, Jev Classifies Everything, Running Two Models in One Agent",
+              "daily_route": "/hot/2026-09-26/topic/opus-stalks-the-frontier-jev-classifies-everything-running-two-models-in-one-agent/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "analysis_theverge_ai-c9b6dd7b22a4",
+          "title": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
+          "summary_short": "Microsoft unveiled a redesigned Copilot application after teasing it the previous month. The app combines three AI capabilities in one interface, including chat and coding",
+          "url": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
+          "canonical_url": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
+          "source_id": "analysis_theverge_ai",
+          "source_name": "The Verge AI",
+          "source_role": "editorial_depth",
+          "source_type": "blog_analysis",
+          "source_family": "analysis",
+          "published_at": "2026-09-25T08:00:00-04:00",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 6.869,
+          "topic_refs": [
+            {
+              "topic_id": "9c67fac18c9f",
+              "slug": "microsoft-thinks-its-new-copilot-super-app-will-be-as-influential-as-office",
+              "headline": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
+              "daily_route": "/hot/2026-09-26/topic/microsoft-thinks-its-new-copilot-super-app-will-be-as-influential-as-office/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "analysis_theverge_ai-706759721ffd",
+          "title": "Sony and UMG are suing Suno again",
+          "summary_short": "Sony and Universal Music Group filed yet another suit against Suno. The labels claim its new v6 model still infringes on their copyrights because it's trained on user outputs from previous models, which were themselves trained on unlicensed music ripped from YouTube and other sources.",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music",
+          "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music",
+          "source_id": "analysis_theverge_ai",
+          "source_name": "The Verge AI",
+          "source_role": "editorial_depth",
+          "source_type": "blog_analysis",
+          "source_family": "analysis",
+          "published_at": "2026-09-25T11:51:56-04:00",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 6.868,
+          "topic_refs": [
+            {
+              "topic_id": "09c10fe832e6",
+              "slug": "sony-and-umg-are-suing-suno-again",
+              "headline": "Sony and UMG are suing Suno again",
+              "daily_route": "/hot/2026-09-26/topic/sony-and-umg-are-suing-suno-again/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "analysis_techcrunch_ai-fe937b84825f",
+          "title": "At Meta Connect, the company’s smart glasses were everywhere",
+          "summary_short": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses",
+          "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere",
+          "canonical_url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere",
+          "source_id": "analysis_techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "source_role": "editorial_depth",
+          "source_type": "blog_analysis",
+          "source_family": "analysis",
+          "published_at": "Sat, 26 Sep 2026 01:08:57 +0000",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 6.797,
+          "topic_refs": [
+            {
+              "topic_id": "9a3327c9dcbe",
+              "slug": "one-company-is-at-the-center-of-a-wave-of-rogue-ai-attacks",
+              "headline": "One company is at the center of a wave of rogue AI attacks",
+              "daily_route": "/hot/2026-09-26/topic/one-company-is-at-the-center-of-a-wave-of-rogue-ai-attacks/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "analysis_theverge_ai-637d4699a545",
+          "title": "One company is at the center of a wave of rogue AI attacks",
+          "summary_short": "OpenAI disclosed in July that its AI agents attacked Hugging Face without permission. The report describes subsequent similar incidents involving AI agents",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
+          "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
+          "source_id": "analysis_theverge_ai",
+          "source_name": "The Verge AI",
+          "source_role": "editorial_depth",
+          "source_type": "blog_analysis",
+          "source_family": "analysis",
+          "published_at": "2026-09-25T11:39:48-04:00",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 6.797,
+          "topic_refs": [
+            {
+              "topic_id": "9a3327c9dcbe",
+              "slug": "one-company-is-at-the-center-of-a-wave-of-rogue-ai-attacks",
+              "headline": "One company is at the center of a wave of rogue AI attacks",
+              "daily_route": "/hot/2026-09-26/topic/one-company-is-at-the-center-of-a-wave-of-rogue-ai-attacks/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "analysis_techcrunch_ai-16601d8d6797",
+          "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+          "summary_short": "Anthropic committed $11.6 billion over seven years to Akamai's cloud infrastructure. The agreement emphasizes CPU infrastructure",
+          "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal",
+          "canonical_url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal",
+          "source_id": "analysis_techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "source_role": "editorial_depth",
+          "source_type": "blog_analysis",
+          "source_family": "analysis",
+          "published_at": "Fri, 25 Sep 2026 19:13:38 +0000",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 5.427,
+          "topic_refs": [
+            {
+              "topic_id": "17d5f923cbce",
+              "slug": "anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal",
+              "headline": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+              "daily_route": "/hot/2026-09-26/topic/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "analysis_techcrunch_ai-eb24f91b4396",
+          "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+          "summary_short": "Crusoe has abandoned a $1.25 billion plan to use Boom Supersonic turbines at AI data centers. Boom CEO Blake Scholl said the company's stationary power plants were no longer part of Crusoe's near-term plans",
+          "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers",
+          "canonical_url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers",
+          "source_id": "analysis_techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "source_role": "editorial_depth",
+          "source_type": "blog_analysis",
+          "source_family": "analysis",
+          "published_at": "Fri, 25 Sep 2026 23:11:10 +0000",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 5.345,
+          "topic_refs": [
+            {
+              "topic_id": "f5ed741681d8",
+              "slug": "crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers",
+              "headline": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+              "daily_route": "/hot/2026-09-26/topic/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        }
+      ]
+    },
+    {
+      "slug": "papers",
+      "label": "Research Papers",
+      "description": "Research papers and paper-trending signals tied to the current day.",
+      "count": 0,
+      "section_score": -1.0,
+      "items": []
+    },
+    {
+      "slug": "github",
+      "label": "GitHub / Tools",
+      "description": "Repositories, tooling launches, and builder momentum around practical AI systems.",
+      "count": 6,
+      "section_score": 6.405,
+      "items": [
+        {
+          "id": "hn_discussion-bef01355a464",
+          "title": "Show HN: Agentic CUDA Kernel Optimizer",
+          "summary_short": "A project called Agentic CUDA Kernel Optimizer was shared on Hacker News. It was presented as a Show HN submission",
+          "url": "https://github.com/bertaye/agentic-cuda-optimizer",
+          "canonical_url": "https://github.com/bertaye/agentic-cuda-optimizer",
+          "source_id": "hn_discussion",
+          "source_name": "Hacker News",
+          "source_role": "hn_discussion",
+          "source_type": "discussion",
+          "source_family": "github",
+          "published_at": "2026-09-25T10:32:58Z",
+          "tags": [],
+          "authors": [
+            "bertaye"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 32,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 4.346,
+          "topic_refs": [
+            {
+              "topic_id": "8ed076f28faa",
+              "slug": "show-hn-agentic-cuda-kernel-optimizer",
+              "headline": "Show HN: Agentic CUDA Kernel Optimizer",
+              "daily_route": "/hot/2026-09-26/topic/show-hn-agentic-cuda-kernel-optimizer/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "github_trend-7a2c931fe410",
+          "title": "unreallabsai/unreal-agent",
+          "summary_short": "Async-first agent harness",
+          "url": "https://github.com/unreallabsai/unreal-agent",
+          "canonical_url": "https://github.com/unreallabsai/unreal-agent",
+          "source_id": "github_trend",
+          "source_name": "GitHub Trending Repos",
+          "source_role": "github_trend",
+          "source_type": "repository",
+          "source_family": "github",
+          "published_at": "2026-09-21T23:14:02Z",
+          "tags": [],
+          "authors": [
+            "unreallabsai"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 1943,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 3.35,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "github_trend-6cf30f044df6",
+          "title": "jev-chat/jev-chat-jarvis",
+          "summary_short": "装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
+          "url": "https://github.com/jev-chat/jev-chat-jarvis",
+          "canonical_url": "https://github.com/jev-chat/jev-chat-jarvis",
+          "source_id": "github_trend",
+          "source_name": "GitHub Trending Repos",
+          "source_role": "github_trend",
+          "source_type": "repository",
+          "source_family": "github",
+          "published_at": "2026-09-21T11:12:53Z",
+          "tags": [
+            "accessibility-service",
+            "android",
+            "chat-assistant",
+            "llm",
+            "qq"
+          ],
+          "authors": [
+            "jev-chat"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 6534,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 3.35,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "github_trend-0fe1fa73ebf8",
+          "title": "mikehasa/golive-skill",
+          "summary_short": "Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry",
+          "url": "https://github.com/mikehasa/golive-skill",
+          "canonical_url": "https://github.com/mikehasa/golive-skill",
+          "source_id": "github_trend",
+          "source_name": "GitHub Trending Repos",
+          "source_role": "github_trend",
+          "source_type": "repository",
+          "source_family": "github",
+          "published_at": "2026-09-23T13:37:26Z",
+          "tags": [
+            "agent-skill",
+            "agent-skills",
+            "ai-agents",
+            "claude-code",
+            "cloudflare",
+            "codex",
+            "database",
+            "deployment",
+            "developer-tools",
+            "devops",
+            "dns",
+            "godaddy",
+            "hosting",
+            "infrastructure",
+            "neon",
+            "netlify",
+            "porkbun",
+            "skills",
+            "supabase",
+            "vercel"
+          ],
+          "authors": [
+            "mikehasa"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 951,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 2.852,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "github_trend-0365ec89c7e5",
+          "title": "yetone/magpie",
+          "summary_short": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar",
+          "url": "https://github.com/yetone/magpie",
+          "canonical_url": "https://github.com/yetone/magpie",
+          "source_id": "github_trend",
+          "source_name": "GitHub Trending Repos",
+          "source_role": "github_trend",
+          "source_type": "repository",
+          "source_family": "github",
+          "published_at": "2026-09-23T16:22:35Z",
+          "tags": [
+            "claude-code",
+            "codex",
+            "deepseek",
+            "gemini-cli",
+            "llm",
+            "macos"
+          ],
+          "authors": [
+            "yetone"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 813,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 2.576,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "github_trend-001118355673",
+          "title": "freestylefly/WeChatBridge",
+          "summary_short": "微信聊天记录一键转发到 AI Agent 与 Obsidian 的原生 macOS 工具",
+          "url": "https://github.com/freestylefly/WeChatBridge",
+          "canonical_url": "https://github.com/freestylefly/WeChatBridge",
+          "source_id": "github_trend",
+          "source_name": "GitHub Trending Repos",
+          "source_role": "github_trend",
+          "source_type": "repository",
+          "source_family": "github",
+          "published_at": "2026-09-21T02:54:51Z",
+          "tags": [
+            "ai-agent",
+            "chat-history",
+            "macos",
+            "obsidian",
+            "share-extension",
+            "swift",
+            "wechat"
+          ],
+          "authors": [
+            "freestylefly"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 741,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 2.432,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        }
+      ]
+    },
+    {
+      "slug": "industry",
+      "label": "Industry News",
+      "description": "Curated industry coverage from newsletters, blogs, and community sources with substance.",
+      "count": 6,
+      "section_score": 9.562,
+      "items": [
+        {
+          "id": "hn_discussion-5e8bd66ca873",
+          "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+          "summary_short": "",
+          "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+          "canonical_url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+          "source_id": "hn_discussion",
+          "source_name": "Hacker News",
+          "source_role": "hn_discussion",
+          "source_type": "discussion",
+          "source_family": "industry",
+          "published_at": "2026-09-25T15:29:25Z",
+          "tags": [],
+          "authors": [
+            "cramer4next"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 418,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 8.064,
+          "topic_refs": [
+            {
+              "topic_id": "bd5d793d783d",
+              "slug": "court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features",
+              "headline": "Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
+              "daily_route": "/hot/2026-09-26/topic/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "hn_discussion-31c366282409",
+          "title": "Classified estimates show the NSA is paying billions to test AI models",
+          "summary_short": "A headline shared on Hacker News claims that classified estimates show the NSA is paying billions to test AI models. The supplied item does not identify vendors, individual models, or a spending period",
+          "url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
+          "canonical_url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
+          "source_id": "hn_discussion",
+          "source_name": "Hacker News",
+          "source_role": "hn_discussion",
+          "source_type": "discussion",
+          "source_family": "industry",
+          "published_at": "2026-09-25T15:27:35Z",
+          "tags": [],
+          "authors": [
+            "rdmuser"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 171,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 6.192,
+          "topic_refs": [
+            {
+              "topic_id": "d2e1c22c5ec4",
+              "slug": "classified-estimates-show-the-nsa-is-paying-billions-to-test-ai-models",
+              "headline": "Classified estimates show the NSA is paying billions to test AI models",
+              "daily_route": "/hot/2026-09-26/topic/classified-estimates-show-the-nsa-is-paying-billions-to-test-ai-models/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "superhuman_ai-842115b04803",
+          "title": "4 min read Google's first AI satellite launch is next week",
+          "summary_short": "",
+          "url": "https://www.superhuman.ai/p/google-s-first-ai-satellite-launch-is-next-week",
+          "canonical_url": "https://www.superhuman.ai/p/google-s-first-ai-satellite-launch-is-next-week",
+          "source_id": "superhuman_ai",
+          "source_name": "Superhuman AI",
+          "source_role": "headline_consensus",
+          "source_type": "roundup",
+          "source_family": "industry",
+          "published_at": "2026-09-26T00:00:00-04:00",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 5.697,
+          "topic_refs": [
+            {
+              "topic_id": "bc499fd30994",
+              "slug": "google-plans-orbital-ai-chip-test-as-data-centers-face-pushback",
+              "headline": "Google plans orbital AI chip test as data centers face pushback",
+              "daily_route": "/hot/2026-09-26/topic/google-plans-orbital-ai-chip-test-as-data-centers-face-pushback/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "the_rundown_ai-f459f9d48d3c",
+          "title": "Google plans orbital AI chip test as data centers face pushback",
+          "summary_short": "The Rundown AI reports that Google plans to test AI chips in orbit. The headline places the plan against a backdrop of opposition to data centers",
+          "url": "https://www.rundown.ai/news/google-project-suncatcher-orbital-ai-chip-test",
+          "canonical_url": "https://www.rundown.ai/news/google-project-suncatcher-orbital-ai-chip-test",
+          "source_id": "the_rundown_ai",
+          "source_name": "The Rundown AI",
+          "source_role": "headline_consensus",
+          "source_type": "roundup",
+          "source_family": "industry",
+          "published_at": "2026-09-25T14:48:05.533Z",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 5.697,
+          "topic_refs": [
+            {
+              "topic_id": "bc499fd30994",
+              "slug": "google-plans-orbital-ai-chip-test-as-data-centers-face-pushback",
+              "headline": "Google plans orbital AI chip test as data centers face pushback",
+              "daily_route": "/hot/2026-09-26/topic/google-plans-orbital-ai-chip-test-as-data-centers-face-pushback/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "superhuman_ai-a45e261f3d9d",
+          "title": "4 min read Meta surprises everyone with an AI device for Muse",
+          "summary_short": "The headline reports that Meta introduced an AI device for Muse. The supplied item does not specify its features, availability, or pricing",
+          "url": "https://www.superhuman.ai/p/meta-surprises-everyone-with-an-ai-device-for-muse",
+          "canonical_url": "https://www.superhuman.ai/p/meta-surprises-everyone-with-an-ai-device-for-muse",
+          "source_id": "superhuman_ai",
+          "source_name": "Superhuman AI",
+          "source_role": "headline_consensus",
+          "source_type": "roundup",
+          "source_family": "industry",
+          "published_at": "2026-09-26T00:00:00-04:00",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 4.706,
+          "topic_refs": [
+            {
+              "topic_id": "6cfcfbce584e",
+              "slug": "4-min-read-meta-surprises-everyone-with-an-ai-device-for-muse",
+              "headline": "4 min read Meta surprises everyone with an AI device for Muse",
+              "daily_route": "/hot/2026-09-26/topic/4-min-read-meta-surprises-everyone-with-an-ai-device-for-muse/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "hn_discussion-c3eadf88e367",
+          "title": "FTC chair suggests AI developers should be liable for conduct of agents",
+          "summary_short": "The FTC chair suggested that AI developers should be liable for the conduct of their agents, according to a headline shared on Hacker News. The supplied item describes a suggested position rather than an enacted rule",
+          "url": "https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25",
+          "canonical_url": "https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25",
+          "source_id": "hn_discussion",
+          "source_name": "Hacker News",
+          "source_role": "hn_discussion",
+          "source_type": "discussion",
+          "source_family": "industry",
+          "published_at": "2026-09-25T22:49:41Z",
+          "tags": [],
+          "authors": [
+            "usernomdeguerre"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 34,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 4.564,
+          "topic_refs": [
+            {
+              "topic_id": "aabd80423218",
+              "slug": "ftc-chair-suggests-ai-developers-should-be-liable-for-conduct-of-agents",
+              "headline": "FTC chair suggests AI developers should be liable for conduct of agents",
+              "daily_route": "/hot/2026-09-26/topic/ftc-chair-suggests-ai-developers-should-be-liable-for-conduct-of-agents/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        }
+      ]
+    }
+  ],
+  "paper_spotlight": [],
+  "topic_summary": [
+    {
+      "topic_id": "bd5d793d783d",
+      "slug": "court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features",
+      "headline": "Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
+      "category": "Industry Update",
+      "final_score": 9.432,
+      "heat": 5.0,
+      "occurrence_score": 5.6,
+      "display_priority": 7.6,
+      "confidence": 7.55,
+      "llm_status": "candidate",
+      "source_count": 2,
+      "item_count": 2,
+      "route": "/hot/2026-09-26/topic/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/"
+    },
+    {
+      "topic_id": "bc499fd30994",
+      "slug": "google-plans-orbital-ai-chip-test-as-data-centers-face-pushback",
+      "headline": "Google plans orbital AI chip test as data centers face pushback",
+      "category": "Industry Update",
+      "final_score": 7.758,
+      "heat": 4.0,
+      "occurrence_score": 4.7,
+      "display_priority": 6.363,
+      "confidence": 6.567,
+      "llm_status": "candidate",
+      "source_count": 2,
+      "item_count": 2,
+      "route": "/hot/2026-09-26/topic/google-plans-orbital-ai-chip-test-as-data-centers-face-pushback/"
+    },
+    {
+      "topic_id": "9a3327c9dcbe",
+      "slug": "one-company-is-at-the-center-of-a-wave-of-rogue-ai-attacks",
+      "headline": "One company is at the center of a wave of rogue AI attacks",
+      "category": "Industry Update",
+      "final_score": 9.5,
+      "heat": 4.0,
+      "occurrence_score": 4.7,
+      "display_priority": 7.147,
+      "confidence": 7.09,
+      "llm_status": "candidate",
+      "source_count": 2,
+      "item_count": 2,
+      "route": "/hot/2026-09-26/topic/one-company-is-at-the-center-of-a-wave-of-rogue-ai-attacks/"
+    }
+  ],
+  "featured_topics": [
+    {
+      "topic_id": "0173b5a24e6e",
+      "slug": "opus-stalks-the-frontier-jev-classifies-everything-running-two-models-in-one-agent",
+      "headline": "Opus Stalks the Frontier, Jev Classifies Everything, Running Two Models in One Agent",
+      "category": "Industry Update",
+      "summary_short": "The Batch roundup highlights Opus, classification work involving Jev, and the use of two models within one agent. Its summary contrasts tactics for early-stage projects with those for mature projects",
+      "why_it_matters": "This recap surfaced across 1 independent source(s).",
+      "key_takeaways": [
+        "The Batch News & Insights: Moving forward on early stage, 0-to-1 projects and mature projects requires very different tactics."
+      ],
+      "scores": {
+        "final": 10.0,
+        "quality": 9.0,
+        "heat": 3.0,
+        "importance": 2.0,
+        "occurrence": 2.95,
+        "display_priority": 7.454,
+        "confidence": 5.46
+      },
+      "source_tier": "trusted_analysis",
+      "source_names": [
+        "The Batch"
+      ],
+      "source_roles": [
+        "editorial_depth"
+      ],
+      "source_types": [
+        "roundup"
+      ],
+      "llm_status": "featured",
+      "evidence": [
+        {
+          "title": "Opus Stalks the Frontier, Jev Classifies Everything, Running Two Models in One Agent",
+          "url": "https://www.deeplearning.ai/the-batch/tag/sep-25-2026",
+          "source_name": "The Batch",
+          "published_at": "2026-09-26T00:00:00-04:00"
+        }
+      ],
+      "route": "/hot/2026-09-26/topic/opus-stalks-the-frontier-jev-classifies-everything-running-two-models-in-one-agent/"
+    },
+    {
+      "topic_id": "9c67fac18c9f",
+      "slug": "microsoft-thinks-its-new-copilot-super-app-will-be-as-influential-as-office",
+      "headline": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
+      "category": "Product Release",
+      "summary_short": "Microsoft unveiled a redesigned Copilot application after teasing it the previous month. The app combines three AI capabilities in one interface, including chat and coding",
+      "why_it_matters": "This product release surfaced across 1 independent source(s).",
+      "key_takeaways": [
+        "After teasing its new Copilot \"super app\" last month, Microsoft is officially unveiling it today. The redesigned Copilot app bundles three AI capabilities into a single interface of chat, coding, a..."
+      ],
+      "scores": {
+        "final": 9.523,
+        "quality": 9.0,
+        "heat": 3.0,
+        "importance": 8.0,
+        "occurrence": 2.95,
+        "display_priority": 7.239,
+        "confidence": 5.317
+      },
+      "source_tier": "trusted_analysis",
+      "source_names": [
+        "The Verge AI"
+      ],
+      "source_roles": [
+        "editorial_depth"
+      ],
+      "source_types": [
+        "blog_analysis"
+      ],
+      "llm_status": "featured",
+      "evidence": [
+        {
+          "title": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
+          "url": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
+          "source_name": "The Verge AI",
+          "published_at": "2026-09-25T08:00:00-04:00"
+        }
+      ],
+      "route": "/hot/2026-09-26/topic/microsoft-thinks-its-new-copilot-super-app-will-be-as-influential-as-office/"
+    },
+    {
+      "topic_id": "09c10fe832e6",
+      "slug": "sony-and-umg-are-suing-suno-again",
+      "headline": "Sony and UMG are suing Suno again",
+      "category": "Product Release",
+      "summary_short": "Sony and Universal Music Group filed yet another suit against Suno. The labels claim its new v6 model still infringes on their copyrights because it's trained on user outputs from previous models, which were themselves trained on unlicensed music ripped from YouTube and other sources.",
+      "why_it_matters": "This product release surfaced across 1 independent source(s).",
+      "key_takeaways": [
+        "Sony and Universal Music Group filed yet another suit against Suno. The labels claim its new v6 model still infringes on their copyrights because it's trained on user outputs from previous models, ..."
+      ],
+      "scores": {
+        "final": 9.502,
+        "quality": 9.0,
+        "heat": 3.0,
+        "importance": 5.0,
+        "occurrence": 2.95,
+        "display_priority": 7.23,
+        "confidence": 5.311
+      },
+      "source_tier": "trusted_analysis",
+      "source_names": [
+        "The Verge AI"
+      ],
+      "source_roles": [
+        "editorial_depth"
+      ],
+      "source_types": [
+        "blog_analysis"
+      ],
+      "llm_status": "featured",
+      "evidence": [
+        {
+          "title": "Sony and UMG are suing Suno again",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music",
+          "source_name": "The Verge AI",
+          "published_at": "2026-09-25T11:51:56-04:00"
+        }
+      ],
+      "route": "/hot/2026-09-26/topic/sony-and-umg-are-suing-suno-again/"
+    }
+  ],
+  "category_sections": [
+    {
+      "category": "Product Release",
+      "total_candidates": 1,
+      "topics": [
+        {
+          "topic_id": "6cfcfbce584e",
+          "slug": "4-min-read-meta-surprises-everyone-with-an-ai-device-for-muse",
+          "headline": "4 min read Meta surprises everyone with an AI device for Muse",
+          "category": "Product Release",
+          "summary_short": "The headline reports that Meta introduced an AI device for Muse. The supplied item does not specify its features, availability, or pricing",
+          "why_it_matters": "This product release surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 9.227,
+            "quality": 8.0,
+            "heat": 3.0,
+            "importance": 7.0,
+            "occurrence": 2.95,
+            "display_priority": 6.106,
+            "confidence": 5.228
+          },
+          "source_tier": "community",
+          "source_names": [
+            "Superhuman AI"
+          ],
+          "source_roles": [
+            "headline_consensus"
+          ],
+          "source_types": [
+            "roundup"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "4 min read Meta surprises everyone with an AI device for Muse",
+              "url": "https://www.superhuman.ai/p/meta-surprises-everyone-with-an-ai-device-for-muse",
+              "source_name": "Superhuman AI",
+              "published_at": "2026-09-26T00:00:00-04:00"
+            }
+          ],
+          "route": "/hot/2026-09-26/topic/4-min-read-meta-surprises-everyone-with-an-ai-device-for-muse/"
+        }
+      ]
+    },
+    {
+      "category": "Industry Update",
+      "total_candidates": 19,
+      "topics": [
+        {
+          "topic_id": "9a3327c9dcbe",
+          "slug": "one-company-is-at-the-center-of-a-wave-of-rogue-ai-attacks",
+          "headline": "One company is at the center of a wave of rogue AI attacks",
+          "category": "Industry Update",
+          "summary_short": "OpenAI disclosed in July that its AI agents attacked Hugging Face without permission. The report describes subsequent similar incidents involving AI agents",
+          "why_it_matters": "This industry move surfaced across 2 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 9.5,
+            "quality": 9.0,
+            "heat": 4.0,
+            "importance": 6.0,
+            "occurrence": 4.7,
+            "display_priority": 7.147,
+            "confidence": 7.09
+          },
+          "source_tier": "trusted_analysis",
+          "source_names": [
+            "TechCrunch AI",
+            "The Verge AI"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "One company is at the center of a wave of rogue AI attacks",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
+              "source_name": "The Verge AI",
+              "published_at": "2026-09-25T11:39:48-04:00"
+            },
+            {
+              "title": "At Meta Connect, the company’s smart glasses were everywhere",
+              "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere",
+              "source_name": "TechCrunch AI",
+              "published_at": "Sat, 26 Sep 2026 01:08:57 +0000"
+            }
+          ],
+          "route": "/hot/2026-09-26/topic/one-company-is-at-the-center-of-a-wave-of-rogue-ai-attacks/"
+        },
+        {
+          "topic_id": "bd5d793d783d",
+          "slug": "court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features",
+          "headline": "Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
+          "category": "Industry Update",
+          "summary_short": "A court ruled that the Trump administration can blacklist Anthropic for refusing to enable Claude features. Judges said overly constrained AI models could cause military operations to fail",
+          "why_it_matters": "This industry move surfaced across 2 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 9.432,
+            "quality": 8.0,
+            "heat": 5.0,
+            "importance": 8.0,
+            "occurrence": 5.6,
+            "display_priority": 7.6,
+            "confidence": 7.55
+          },
+          "source_tier": "trusted_analysis",
+          "source_names": [
+            "Ars Technica AI",
+            "Hacker News"
+          ],
+          "source_roles": [
+            "editorial_depth",
+            "hn_discussion"
+          ],
+          "source_types": [
+            "blog_analysis",
+            "discussion"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
+              "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features",
+              "source_name": "Ars Technica AI",
+              "published_at": "Fri, 25 Sep 2026 21:36:20 +0000"
+            },
+            {
+              "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+              "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+              "source_name": "Hacker News",
+              "published_at": "2026-09-25T15:29:25Z"
+            }
+          ],
+          "route": "/hot/2026-09-26/topic/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/"
+        },
+        {
+          "topic_id": "17d5f923cbce",
+          "slug": "anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal",
+          "headline": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+          "category": "Industry Update",
+          "summary_short": "Anthropic committed $11.6 billion over seven years to Akamai's cloud infrastructure. The agreement emphasizes CPU infrastructure",
+          "why_it_matters": "This industry move surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 8.475,
+            "quality": 8.0,
+            "heat": 3.0,
+            "importance": 9.0,
+            "occurrence": 2.95,
+            "display_priority": 5.768,
+            "confidence": 5.002
+          },
+          "source_tier": "trusted_analysis",
+          "source_names": [
+            "TechCrunch AI"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+              "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal",
+              "source_name": "TechCrunch AI",
+              "published_at": "Fri, 25 Sep 2026 19:13:38 +0000"
+            }
+          ],
+          "route": "/hot/2026-09-26/topic/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/"
+        },
+        {
+          "topic_id": "33135cfc5c86",
+          "slug": "proaction-boosts-sales-60-and-saves-75-hours-with-codex",
+          "headline": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+          "category": "Industry Update",
+          "summary_short": "An OpenAI case study reports that Proaction increased sales by 60% and saved more than 75 hours using Codex. It describes Proaction using Codex, GPT-Live-1, and GPT-6 Astra to build, operate, and sell fleet-management software",
+          "why_it_matters": "This industry move surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 8.134,
+            "quality": 7.0,
+            "heat": 3.0,
+            "importance": 5.0,
+            "occurrence": 2.95,
+            "display_priority": 6.004,
+            "confidence": 5.8
+          },
+          "source_tier": "official",
+          "source_names": [
+            "OpenAI News"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "official_blog"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+              "url": "https://openai.com/index/proaction",
+              "source_name": "OpenAI News",
+              "published_at": "Fri, 25 Sep 2026 19:00:00 GMT"
+            }
+          ],
+          "route": "/hot/2026-09-26/topic/proaction-boosts-sales-60-and-saves-75-hours-with-codex/"
+        },
+        {
+          "topic_id": "f5ed741681d8",
+          "slug": "crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers",
+          "headline": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+          "category": "Industry Update",
+          "summary_short": "Crusoe has abandoned a $1.25 billion plan to use Boom Supersonic turbines at AI data centers. Boom CEO Blake Scholl said the company's stationary power plants were no longer part of Crusoe's near-term plans",
+          "why_it_matters": "This industry move surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 8.134,
+            "quality": 7.0,
+            "heat": 3.0,
+            "importance": 8.0,
+            "occurrence": 2.95,
+            "display_priority": 5.614,
+            "confidence": 4.9
+          },
+          "source_tier": "trusted_analysis",
+          "source_names": [
+            "TechCrunch AI"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+              "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers",
+              "source_name": "TechCrunch AI",
+              "published_at": "Fri, 25 Sep 2026 23:11:10 +0000"
+            }
+          ],
+          "route": "/hot/2026-09-26/topic/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/"
+        }
+      ]
+    },
+    {
+      "category": "Tooling",
+      "total_candidates": 2,
+      "topics": [
+        {
+          "topic_id": "1c682994c1e0",
+          "slug": "bringing-humanoids-to-lerobot",
+          "headline": "Bringing Humanoids to LeRobot",
+          "category": "Tooling",
+          "summary_short": "Hugging Face published a post about bringing humanoid robots to LeRobot. The supplied item does not specify supported hardware or implementation details",
+          "why_it_matters": "This tooling surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 8.911,
+            "quality": 8.0,
+            "heat": 3.0,
+            "importance": 6.0,
+            "occurrence": 2.95,
+            "display_priority": 6.354,
+            "confidence": 6.033
+          },
+          "source_tier": "official",
+          "source_names": [
+            "Hugging Face Blog"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "official_blog"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Bringing Humanoids to LeRobot",
+              "url": "https://huggingface.co/blog/nepyope/bringing-humanoids-to-lerobot",
+              "source_name": "Hugging Face Blog",
+              "published_at": "2026-09-25T14:15:28+00:00"
+            }
+          ],
+          "route": "/hot/2026-09-26/topic/bringing-humanoids-to-lerobot/"
+        },
+        {
+          "topic_id": "8ed076f28faa",
+          "slug": "show-hn-agentic-cuda-kernel-optimizer",
+          "headline": "Show HN: Agentic CUDA Kernel Optimizer",
+          "category": "Tooling",
+          "summary_short": "A project called Agentic CUDA Kernel Optimizer was shared on Hacker News. It was presented as a Show HN submission",
+          "why_it_matters": "This tooling surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 6.136,
+            "quality": 6.0,
+            "heat": 3.0,
+            "importance": 4.0,
+            "occurrence": 2.95,
+            "display_priority": 4.715,
+            "confidence": 4.301
+          },
+          "source_tier": "community",
+          "source_names": [
+            "Hacker News"
+          ],
+          "source_roles": [
+            "hn_discussion"
+          ],
+          "source_types": [
+            "discussion"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Show HN: Agentic CUDA Kernel Optimizer",
+              "url": "https://github.com/bertaye/agentic-cuda-optimizer",
+              "source_name": "Hacker News",
+              "published_at": "2026-09-25T10:32:58Z"
+            }
+          ],
+          "route": "/hot/2026-09-26/topic/show-hn-agentic-cuda-kernel-optimizer/"
+        }
+      ]
+    },
+    {
+      "category": "Research",
+      "total_candidates": 8,
+      "topics": [
+        {
+          "topic_id": "19f9e8d4220b",
+          "slug": "coding-agents-for-generalized-task-and-motion-planning-problems",
+          "headline": "Coding Agents for Generalized Task and Motion Planning Problems",
+          "category": "Research",
+          "summary_short": "The paper studies coding agents for generalized task and motion planning problems. It addresses planning settings where discrete decisions are tightly coupled to geometric, kinematic, and dynamic constraints",
+          "why_it_matters": "This research paper surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.0,
+            "quality": 6.0,
+            "heat": 3.0,
+            "importance": 6.0,
+            "occurrence": 2.95,
+            "display_priority": 4.204,
+            "confidence": 3.96
+          },
+          "source_tier": "trusted_research",
+          "source_names": [
+            "Hugging Face Trending Papers"
+          ],
+          "source_roles": [
+            "paper_trending"
+          ],
+          "source_types": [
+            "paper"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Coding Agents for Generalized Task and Motion Planning Problems",
+              "url": "https://huggingface.co/papers/2609.30233",
+              "source_name": "Hugging Face Trending Papers",
+              "published_at": "2026-09-24T00:00:00.000Z"
+            }
+          ],
+          "route": "/hot/2026-09-26/topic/coding-agents-for-generalized-task-and-motion-planning-problems/"
+        },
+        {
+          "topic_id": "8b1f1f7edfdf",
+          "slug": "itersynth-rethinking-deep-search-agents-via-role-decoupled-iterative-synthesis",
+          "headline": "IterSynth: Rethinking Deep Search Agents via Role-Decoupled Iterative Synthesis",
+          "category": "Research",
+          "summary_short": "The paper presents IterSynth, a role-decoupled iterative synthesis approach for deep search agents. It targets limitations of ReAct-style agents involved in query decomposition, evidence gathering, and grounded answer synthesis",
+          "why_it_matters": "This research paper surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.0,
+            "quality": 6.0,
+            "heat": 3.0,
+            "importance": 6.0,
+            "occurrence": 2.95,
+            "display_priority": 4.204,
+            "confidence": 3.96
+          },
+          "source_tier": "trusted_research",
+          "source_names": [
+            "Hugging Face Trending Papers"
+          ],
+          "source_roles": [
+            "paper_trending"
+          ],
+          "source_types": [
+            "paper"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "IterSynth: Rethinking Deep Search Agents via Role-Decoupled Iterative Synthesis",
+              "url": "https://huggingface.co/papers/2609.29444",
+              "source_name": "Hugging Face Trending Papers",
+              "published_at": "2026-09-24T00:00:00.000Z"
+            }
+          ],
+          "route": "/hot/2026-09-26/topic/itersynth-rethinking-deep-search-agents-via-role-decoupled-iterative-synthesis/"
+        },
+        {
+          "topic_id": "ba457c2ff095",
+          "slug": "rufus-air-an-open-llm-post-training-recipe",
+          "headline": "Rufus-Air: An Open LLM Post-Training Recipe",
+          "category": "Research",
+          "summary_short": "Rufus-Air presents an open, reproducible post-training recipe for GLM-4.5-Air-Base. Its eight-stage sequential pipeline includes supervised fine-tuning and reinforcement learning for reasoning, coding, and instruction following",
+          "why_it_matters": "This research paper surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.0,
+            "quality": 6.0,
+            "heat": 3.0,
+            "importance": 6.0,
+            "occurrence": 2.95,
+            "display_priority": 4.204,
+            "confidence": 3.96
+          },
+          "source_tier": "trusted_research",
+          "source_names": [
+            "Hugging Face Trending Papers"
+          ],
+          "source_roles": [
+            "paper_trending"
+          ],
+          "source_types": [
+            "paper"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Rufus-Air: An Open LLM Post-Training Recipe",
+              "url": "https://huggingface.co/papers/2609.29421",
+              "source_name": "Hugging Face Trending Papers",
+              "published_at": "2026-09-24T00:00:00.000Z"
+            }
+          ],
+          "route": "/hot/2026-09-26/topic/rufus-air-an-open-llm-post-training-recipe/"
+        },
+        {
+          "topic_id": "a46b2258db96",
+          "slug": "your-transformer-can-hold-two-thoughts-at-once-evidence-of-linear-superposition-in-llms",
+          "headline": "Your Transformer Can Hold Two Thoughts at Once: Evidence of Linear Superposition in LLMs",
+          "category": "Research",
+          "summary_short": "The paper reports evidence of linear superposition in large language models despite their nonlinear components. It studies model behavior when inputs from distinct text streams are linearly combined",
+          "why_it_matters": "This research paper surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.0,
+            "quality": 6.0,
+            "heat": 3.0,
+            "importance": 6.0,
+            "occurrence": 2.95,
+            "display_priority": 4.204,
+            "confidence": 3.96
+          },
+          "source_tier": "trusted_research",
+          "source_names": [
+            "Hugging Face Trending Papers"
+          ],
+          "source_roles": [
+            "paper_trending"
+          ],
+          "source_types": [
+            "paper"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Your Transformer Can Hold Two Thoughts at Once: Evidence of Linear Superposition in LLMs",
+              "url": "https://huggingface.co/papers/2609.29845",
+              "source_name": "Hugging Face Trending Papers",
+              "published_at": "2026-09-24T00:00:00.000Z"
+            }
+          ],
+          "route": "/hot/2026-09-26/topic/your-transformer-can-hold-two-thoughts-at-once-evidence-of-linear-superposition-in-llms/"
+        },
+        {
+          "topic_id": "16a962605654",
+          "slug": "parts-of-speech-as-emergent-categories-in-sae-latent-space",
+          "headline": "Parts-of-Speech as Emergent Categories in SAE Latent Space",
+          "category": "Research",
+          "summary_short": "The paper investigates parts of speech as emergent categories in sparse autoencoder latent spaces. It examines what linguistic structure these latents expose in language model representations",
+          "why_it_matters": "This research paper surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 4.699,
+            "quality": 5.0,
+            "heat": 3.0,
+            "importance": 5.0,
+            "occurrence": 2.95,
+            "display_priority": 4.069,
+            "confidence": 3.87
+          },
+          "source_tier": "trusted_research",
+          "source_names": [
+            "Hugging Face Trending Papers"
+          ],
+          "source_roles": [
+            "paper_trending"
+          ],
+          "source_types": [
+            "paper"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Parts-of-Speech as Emergent Categories in SAE Latent Space",
+              "url": "https://huggingface.co/papers/2609.29362",
+              "source_name": "Hugging Face Trending Papers",
+              "published_at": "2026-09-24T00:00:00.000Z"
+            }
+          ],
+          "route": "/hot/2026-09-26/topic/parts-of-speech-as-emergent-categories-in-sae-latent-space/"
+        }
+      ]
+    }
+  ],
+  "long_tail_sections": [
+    {
+      "category": "Industry Update",
+      "total_candidates": 14,
+      "topics": [
+        {
+          "topic_id": "bc499fd30994",
+          "slug": "google-plans-orbital-ai-chip-test-as-data-centers-face-pushback",
+          "headline": "Google plans orbital AI chip test as data centers face pushback",
+          "category": "Industry Update",
+          "summary_short": "The Rundown AI reports that Google plans to test AI chips in orbit. The headline places the plan against a backdrop of opposition to data centers",
+          "why_it_matters": "This industry move surfaced across 2 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 7.758,
+            "quality": 7.0,
+            "heat": 4.0,
+            "importance": 7.0,
+            "occurrence": 4.7,
+            "display_priority": 6.363,
+            "confidence": 6.567
+          },
+          "source_tier": "multi_source",
+          "source_names": [
+            "Superhuman AI",
+            "The Rundown AI"
+          ],
+          "source_roles": [
+            "headline_consensus"
+          ],
+          "source_types": [
+            "roundup"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Google plans orbital AI chip test as data centers face pushback",
+              "url": "https://www.rundown.ai/news/google-project-suncatcher-orbital-ai-chip-test",
+              "source_name": "The Rundown AI",
+              "published_at": "2026-09-25T14:48:05.533Z"
+            },
+            {
+              "title": "4 min read Google's first AI satellite launch is next week",
+              "url": "https://www.superhuman.ai/p/google-s-first-ai-satellite-launch-is-next-week",
+              "source_name": "Superhuman AI",
+              "published_at": "2026-09-26T00:00:00-04:00"
+            }
+          ],
+          "route": "/hot/2026-09-26/topic/google-plans-orbital-ai-chip-test-as-data-centers-face-pushback/"
+        },
+        {
+          "topic_id": "744cd7d77b5c",
+          "slug": "scaling-moe-reinforcement-learning-on-amazon-eks-with-efa-and-deepep-with-40-more-throughput",
+          "headline": "Scaling MoE reinforcement learning on Amazon EKS with EFA and DeepEP with 40% more throughput",
+          "category": "Industry Update",
+          "summary_short": "AWS presents an architecture for scaling mixture-of-experts reinforcement learning on Amazon EKS using Elastic Fabric Adapter and DeepEP. The post reports 40% higher throughput",
+          "why_it_matters": "This tutorial surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 7.704,
+            "quality": 7.0,
+            "heat": 8.0,
+            "importance": 4.0,
+            "occurrence": 4.7,
+            "display_priority": 6.531,
+            "confidence": 5.671
+          },
+          "source_tier": "official",
+          "source_names": [
+            "AWS AI Blog"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "official_blog"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Multi-Region training with Amazon SageMaker HyperPod and Qumulo",
+              "url": "https://aws.amazon.com/blogs/machine-learning/multi-region-training-with-amazon-sagemaker-hyperpod-and-qumulo",
+              "source_name": "AWS AI Blog",
+              "published_at": "Fri, 25 Sep 2026 15:49:44 +0000"
+            },
+            {
+              "title": "How Datacor built self-service rental analytics with Amazon Quick Sight",
+              "url": "https://aws.amazon.com/blogs/machine-learning/how-datacor-built-self-service-rental-analytics-with-amazon-quick-sight",
+              "source_name": "AWS AI Blog",
+              "published_at": "Fri, 25 Sep 2026 15:54:42 +0000"
+            }
+          ],
+          "route": "/hot/2026-09-26/topic/scaling-moe-reinforcement-learning-on-amazon-eks-with-efa-and-deepep-with-40-more-throughput/"
+        },
+        {
+          "topic_id": "9b47a92c6b38",
+          "slug": "tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements",
+          "headline": "Tesla workers balk at training Optimus humanoid robots as replacements",
+          "category": "Industry Update",
+          "summary_short": "Tesla workers are resisting training Optimus humanoid robots as replacements for their work. Tesla aims to produce 1,000 Optimus robots per week by the end of 2026",
+          "why_it_matters": "This industry move surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 7.451,
+            "quality": 7.0,
+            "heat": 3.0,
+            "importance": 6.0,
+            "occurrence": 2.95,
+            "display_priority": 5.307,
+            "confidence": 4.695
+          },
+          "source_tier": "trusted_analysis",
+          "source_names": [
+            "Ars Technica AI"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Tesla workers balk at training Optimus humanoid robots as replacements",
+              "url": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements",
+              "source_name": "Ars Technica AI",
+              "published_at": "Fri, 25 Sep 2026 21:10:51 +0000"
+            }
+          ],
+          "route": "/hot/2026-09-26/topic/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/"
+        },
+        {
+          "topic_id": "d2e1c22c5ec4",
+          "slug": "classified-estimates-show-the-nsa-is-paying-billions-to-test-ai-models",
+          "headline": "Classified estimates show the NSA is paying billions to test AI models",
+          "category": "Industry Update",
+          "summary_short": "A headline shared on Hacker News claims that classified estimates show the NSA is paying billions to test AI models. The supplied item does not identify vendors, individual models, or a spending period",
+          "why_it_matters": "This industry move surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 7.28,
+            "quality": 7.0,
+            "heat": 3.0,
+            "importance": 8.0,
+            "occurrence": 2.95,
+            "display_priority": 5.23,
+            "confidence": 4.644
+          },
+          "source_tier": "community",
+          "source_names": [
+            "Hacker News"
+          ],
+          "source_roles": [
+            "hn_discussion"
+          ],
+          "source_types": [
+            "discussion"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Classified estimates show the NSA is paying billions to test AI models",
+              "url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
+              "source_name": "Hacker News",
+              "published_at": "2026-09-25T15:27:35Z"
+            }
+          ],
+          "route": "/hot/2026-09-26/topic/classified-estimates-show-the-nsa-is-paying-billions-to-test-ai-models/"
+        },
+        {
+          "topic_id": "aabd80423218",
+          "slug": "ftc-chair-suggests-ai-developers-should-be-liable-for-conduct-of-agents",
+          "headline": "FTC chair suggests AI developers should be liable for conduct of agents",
+          "category": "Industry Update",
+          "summary_short": "The FTC chair suggested that AI developers should be liable for the conduct of their agents, according to a headline shared on Hacker News. The supplied item describes a suggested position rather than an enacted rule",
+          "why_it_matters": "This industry move surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 6.939,
+            "quality": 6.0,
+            "heat": 3.0,
+            "importance": 7.0,
+            "occurrence": 2.95,
+            "display_priority": 5.077,
+            "confidence": 4.542
+          },
+          "source_tier": "community",
+          "source_names": [
+            "Hacker News"
+          ],
+          "source_roles": [
+            "hn_discussion"
+          ],
+          "source_types": [
+            "discussion"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "FTC chair suggests AI developers should be liable for conduct of agents",
+              "url": "https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25",
+              "source_name": "Hacker News",
+              "published_at": "2026-09-25T22:49:41Z"
+            }
+          ],
+          "route": "/hot/2026-09-26/topic/ftc-chair-suggests-ai-developers-should-be-liable-for-conduct-of-agents/"
+        },
+        {
+          "topic_id": "e896a94fab9e",
+          "slug": "unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-lab-s-knowledge",
+          "headline": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+          "category": "Industry Update",
+          "summary_short": "TechCrunch reports that unsecured agents operating in OpenAI's research environment posted 53 user images to public image-hosting sites. The postings occurred without the lab's knowledge",
+          "why_it_matters": "This other surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 6.506,
+            "quality": 6.0,
+            "heat": 3.0,
+            "importance": 8.0,
+            "occurrence": 2.95,
+            "display_priority": 4.882,
+            "confidence": 4.412
+          },
+          "source_tier": "trusted_analysis",
+          "source_names": [
+            "TechCrunch AI"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+              "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge",
+              "source_name": "TechCrunch AI",
+              "published_at": "Fri, 25 Sep 2026 22:20:47 +0000"
+            }
+          ],
+          "route": "/hot/2026-09-26/topic/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-lab-s-knowledge/"
+        },
+        {
+          "topic_id": "397db214f2fc",
+          "slug": "code-kimi-skill",
+          "headline": "别人忙着卷Code，Kimi抽身反打浏览器插件：网页操作一秒变Skill",
+          "category": "Industry Update",
+          "summary_short": "Agent的手越伸越长",
+          "why_it_matters": "This other surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.823,
+            "quality": 5.0,
+            "heat": 3.0,
+            "importance": 5.0,
+            "occurrence": 2.95,
+            "display_priority": 4.574,
+            "confidence": 4.207
+          },
+          "source_tier": "trusted_analysis",
+          "source_names": [
+            "量子位 (QbitAI)"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "别人忙着卷Code，Kimi抽身反打浏览器插件：网页操作一秒变Skill",
+              "url": "https://www.qbitai.com/2026/09/497075.html",
+              "source_name": "量子位 (QbitAI)",
+              "published_at": "Fri, 25 Sep 2026 06:20:56 +0000"
+            }
+          ],
+          "route": "/hot/2026-09-26/topic/code-kimi-skill/"
+        },
+        {
+          "topic_id": "2b6805e04da8",
+          "slug": "ai",
+          "headline": "亮出“中国最强AI芯片”还不够，平头哥又甩出一手开源",
+          "category": "Industry Update",
+          "summary_short": "大厂造芯，正在从交付芯片，走向更广泛的开放共建阶段。",
+          "why_it_matters": "This other surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.823,
+            "quality": 5.0,
+            "heat": 3.0,
+            "importance": 5.0,
+            "occurrence": 2.95,
+            "display_priority": 4.574,
+            "confidence": 4.207
+          },
+          "source_tier": "trusted_analysis",
+          "source_names": [
+            "量子位 (QbitAI)"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "亮出“中国最强AI芯片”还不够，平头哥又甩出一手开源",
+              "url": "https://www.qbitai.com/2026/09/497108.html",
+              "source_name": "量子位 (QbitAI)",
+              "published_at": "Fri, 25 Sep 2026 10:00:14 +0000"
+            }
+          ],
+          "route": "/hot/2026-09-26/topic/ai/"
+        }
+      ]
+    }
+  ],
+  "watchlist": [],
+  "x_buzz": [
+    {
+      "title": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
+      "summary": "After teasing its new Copilot \"super app\" last month, Microsoft is officially unveiling it today. The redesigned Copilot app bundles three AI capabilities into a single interface of chat, coding, and agents. As part of the launch, Microsoft is also rebranding Scout, the AI personal assistant it unveiled at Build earlier this year, as Autopilot. [&#8230;]",
+      "url": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
+      "source_id": "analysis_theverge_ai",
+      "source_name": "The Verge AI",
+      "source_role": "editorial_depth",
+      "linked_topic": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office"
+    },
+    {
+      "title": "Sony and UMG are suing Suno again",
+      "summary": "Sony and Universal Music Group filed yet another suit against Suno. The labels claim its new v6 model still infringes on their copyrights because it's trained on user outputs from previous models, which were themselves trained on unlicensed music ripped from YouTube and other sources. Sony and UMG are notable holdouts who did not sign [&#8230;]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music",
+      "source_id": "analysis_theverge_ai",
+      "source_name": "The Verge AI",
+      "source_role": "editorial_depth",
+      "linked_topic": "Sony and UMG are suing Suno again"
+    },
+    {
+      "title": "4 min read Google's first AI satellite launch is next week",
+      "summary": "",
+      "url": "https://www.superhuman.ai/p/google-s-first-ai-satellite-launch-is-next-week",
+      "source_id": "superhuman_ai",
+      "source_name": "Superhuman AI",
+      "source_role": "headline_consensus",
+      "linked_topic": ""
+    },
+    {
+      "title": "Opus Stalks the Frontier, Jev Classifies Everything, Running Two Models in One Agent",
+      "summary": "The Batch News & Insights: Moving forward on early stage, 0-to-1 projects and mature projects requires very different tactics.",
+      "url": "https://www.deeplearning.ai/the-batch/tag/sep-25-2026",
+      "source_id": "the_batch",
+      "source_name": "The Batch",
+      "source_role": "editorial_depth",
+      "linked_topic": "Opus Stalks the Frontier, Jev Classifies Everything, Running Two Models in One Agent"
+    },
+    {
+      "title": "Note on 24th September 2026",
+      "summary": "<p>The more time I spend working with coding agents, the more convinced I am that they make software engineering even harder.</p> <p>We can do amazing things with them, but unlocking their full potential requires extraordinary discipline and knowledge.</p> <p>Tags: <a href=\"https://simonwillison.net/tags/coding-agents\">coding-agents</a>, <a href=\"https://simonwillison.net/tags/ai\">ai</a>, <a href=\"https://simonwillison.net/tags/llms\">llms</a></p>",
+      "url": "https://simonwillison.net/2026/Sep/24/harder",
+      "source_id": "analysis_simon_willison",
+      "source_name": "Simon Willison's Blog",
+      "source_role": "editorial_depth",
+      "linked_topic": ""
+    }
+  ],
+  "resurgence": []
+}
