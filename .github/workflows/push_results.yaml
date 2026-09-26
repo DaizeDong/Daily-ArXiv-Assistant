@@ -33,6 +33,10 @@ jobs:
           workflow_conclusion: success
           name: arxiv-scanner-outputs
           path: artifact_out/
+          # arXiv announces nothing on Saturday and Sunday, so the daily run finds zero
+          # papers and uploads no artifact. That is a quiet day, not a failure; the step
+          # below turns it into a skip instead of a red run every weekend.
+          if_no_artifact_found: warn
 
       - name: Verify artifact /out directory and contents
         shell: bash
@@ -46,27 +50,30 @@ jobs:
               echo "Contents in artifact_out:"
               ls -la artifact_out/
           else
-              echo "artifact_out directory is empty or does not exist. Aborting."
-              exit 1
+              echo "::notice::no artifact from the daily run (no arXiv announcement today); nothing to push"
+              echo "NO_ARTIFACT=true" >> "$GITHUB_ENV"
           fi
 
       - name: Remove CI-only site build outputs
+        if: env.NO_ARTIFACT != 'true'
         shell: bash
         run: |
           rm -rf "${ARTIFACT_OUT}/site" "${ARTIFACT_OUT}/site_html" "${ARTIFACT_OUT}/site_preview"
 
       - name: Install dependencies
+        if: env.NO_ARTIFACT != 'true'
         shell: bash
         run: |
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then python -m pip install -r requirements.txt; fi
 
       - name: Initialize the job model transport
+        if: env.NO_ARTIFACT != 'true'
         shell: bash
         run: python scripts/bootstrap_llmcall.py
 
       - name: Generate monthly summaries
-        if: ${{ !cancelled() }}
+        if: ${{ !cancelled() && env.NO_ARTIFACT != 'true' }}
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           # Explicit backend: bootstrap validates the installed chain before work starts.
@@ -82,6 +89,7 @@ jobs:
           python scripts/generate_monthly_summaries.py --output-root "${ARTIFACT_OUT}"
 
       - name: Checkout to `auto_update` Branch
+        if: env.NO_ARTIFACT != 'true'
         shell: bash
         run: |
           git fetch origin
@@ -97,6 +105,7 @@ jobs:
           fi
 
       - name: Merge processed artifact contents into tracked /out
+        if: env.NO_ARTIFACT != 'true'
         shell: bash
         run: |
           mkdir -p out
@@ -108,6 +117,7 @@ jobs:
 #          token: "root"
 
       - name: Check for changes in /out folder
+        if: env.NO_ARTIFACT != 'true'
         id: check_changes
         shell: bash
         run: |
@@ -123,7 +133,7 @@ jobs:
           fi
 
       - name: Commit and push /out folder
-        if: env.has_changes == 'true'
+        if: env.has_changes == 'true' && env.NO_ARTIFACT != 'true'
         shell: bash
         run: |
           git config --global user.name "github-actions[bot]"
