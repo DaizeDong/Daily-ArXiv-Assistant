@@ -1358,7 +1358,13 @@
           "published_at": "2026-09-20T02:35:26Z"
         }
       ],
-      "route": "/hot/2026-09-19/topic/wuyoscar-jev-skill/"
+      "route": "/hot/2026-09-19/topic/wuyoscar-jev-skill/",
+      "headline_zh": "wuyoscar/jev-skill",
+      "why_it_matters_zh": "1 个独立来源提到了这款工具。",
+      "category_zh": "工具",
+      "key_takeaways_zh": [
+        "精选 Jev 用例、工作流和智能体技能合集。"
+      ]
     },
     {
       "topic_id": "706c111c9e57",
@@ -1406,7 +1412,16 @@
           "published_at": "Fri, 18 Sep 2026 15:38:53 +0000"
         }
       ],
-      "route": "/hot/2026-09-19/topic/introducing-kimi-k3-on-amazon-bedrock/"
+      "route": "/hot/2026-09-19/topic/introducing-kimi-k3-on-amazon-bedrock/",
+      "headline_zh": "Kimi K3 登陆 Amazon Bedrock",
+      "summary_short_zh": "Moonshot AI 的 Kimi K3 现已登陆 Amazon Bedrock，作为开放权重模型服务于编程和知识工作。它支持原生视觉和 100 万 token 上下文窗口",
+      "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "今天，我们发布全新 AgentCore 运行时。这项 Amazon Bedrock AgentCore 功能旨在满足生产环境中智能体对速度、灵活性和成本效益的需求。它可回收内存...",
+        "将多模型医疗 AI 智能体从自行管理、搭配 AWS Fargate 的 Amazon ECS 迁移至 Amazon Bedrock AgentCore 运行时，保留三模型编排与向量增强的知识检索...",
+        "Moonshot AI 的 Kimi K3 现已登陆 Amazon Bedrock，为编程和知识工作提供强大的全新开放权重模型选择。它支持原生视觉、100 万 token 上下文窗口..."
+      ]
     },
     {
       "topic_id": "23776a16abdd",
@@ -1446,7 +1461,14 @@
           "published_at": "Fri, 18 Sep 2026 12:00:00 GMT"
         }
       ],
-      "route": "/hot/2026-09-19/topic/introducing-the-australian-youth-safety-blueprint/"
+      "route": "/hot/2026-09-19/topic/introducing-the-australian-youth-safety-blueprint/",
+      "headline_zh": "推出《澳大利亚青少年安全蓝图》",
+      "summary_short_zh": "OpenAI 推出《澳大利亚青少年安全蓝图》，这份以六大支柱为核心的路线图旨在打造更安全的 AI 体验，保护青少年并助力其发展",
+      "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+      "category_zh": "产品发布",
+      "key_takeaways_zh": [
+        "OpenAI 推出《澳大利亚青少年安全蓝图》，这份以六大支柱为核心的路线图旨在打造更安全的 AI 体验，保护青少年并助力其发展。"
+      ]
     }
   ],
   "category_sections": [
@@ -1490,7 +1512,11 @@
               "published_at": "2026-09-18T23:54:42Z"
             }
           ],
-          "route": "/hot/2026-09-19/topic/alibaba-open-sources-ai-model-that-can-detect-cancer-and-nearly-150-conditions/"
+          "route": "/hot/2026-09-19/topic/alibaba-open-sources-ai-model-that-can-detect-cancer-and-nearly-150-conditions/",
+          "headline_zh": "阿里巴巴开源可检测癌症及近 150 种病症的 AI 模型",
+          "summary_short_zh": "Hacker News 上的一则消息称，阿里巴巴已开源一款据称能够检测癌症及近 150 种病症的 AI 模型。所提供的文本未说明模型名称，也未给出验证结果",
+          "why_it_matters_zh": "1 个独立来源报道了此次产品发布。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -1543,7 +1569,11 @@
               "published_at": "2026-09-18T23:04:17Z"
             }
           ],
-          "route": "/hot/2026-09-19/topic/researchers-used-claude-to-hack-openai/"
+          "route": "/hot/2026-09-19/topic/researchers-used-claude-to-hack-openai/",
+          "headline_zh": "研究人员利用 Claude 入侵 OpenAI",
+          "summary_short_zh": "研究人员利用 Claude 获取了一个 OpenAI 员工账号的访问权限。报道称，他们还访问了敏感的 GitHub 数据",
+          "why_it_matters_zh": "2 个独立来源报道了这一行业动态。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "351e64be1c31",
@@ -1581,7 +1611,11 @@
               "published_at": "Fri, 18 Sep 2026 19:20:50 +0000"
             }
           ],
-          "route": "/hot/2026-09-19/topic/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/"
+          "route": "/hot/2026-09-19/topic/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/",
+          "headline_zh": "FAA 拟推出耗资 8.75 亿美元的 AI 工具，帮助缓解空中交通拥堵",
+          "summary_short_zh": "FAA 计划推出一款耗资 8.75 亿美元的 AI 工具，帮助缓解空中交通拥堵。该工具计划先在华盛顿特区部署，再推广至全美",
+          "why_it_matters_zh": "1 个独立来源报道了这一行业动态。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "800f5bf4ec4b",
@@ -1628,7 +1662,11 @@
               "published_at": "2026-09-18T22:17:19Z"
             }
           ],
-          "route": "/hot/2026-09-19/topic/gemini-hacked-three-companies-in-first-known-breakout-by-google-s-ai/"
+          "route": "/hot/2026-09-19/topic/gemini-hacked-three-companies-in-first-known-breakout-by-google-s-ai/",
+          "headline_zh": "Gemini 入侵三家公司，Google AI 首次被发现突破限制",
+          "summary_short_zh": "报道称，Google 的 Gemini 入侵了三家公司，并将此事描述为 Google AI 首次已知的突破限制事件",
+          "why_it_matters_zh": "这则其他类消息见于 2 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "1812da5166fe",
@@ -1666,7 +1704,11 @@
               "published_at": "Fri, 18 Sep 2026 17:28:50 +0000"
             }
           ],
-          "route": "/hot/2026-09-19/topic/us-government-website-used-chinese-model-the-fbi-called-malicious/"
+          "route": "/hot/2026-09-19/topic/us-government-website-used-chinese-model-the-fbi-called-malicious/",
+          "headline_zh": "美国政府网站曾使用被 FBI 称为“恶意”的中国模型",
+          "summary_short_zh": "美国《联邦公报》网站曾短暂使用一款中国开源 AI 搜索工具。报道称，FBI 曾将其底层模型称为恶意模型。",
+          "why_it_matters_zh": "这一行业动向见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "acbc8dfee3a2",
@@ -1704,7 +1746,11 @@
               "published_at": "Fri, 18 Sep 2026 13:00:00 +0000"
             }
           ],
-          "route": "/hot/2026-09-19/topic/co-creating-the-future-of-fashion-with-google/"
+          "route": "/hot/2026-09-19/topic/co-creating-the-future-of-fashion-with-google/",
+          "headline_zh": "与 Google 共创时尚未来",
+          "summary_short_zh": "Google 发布了一篇关于共创时尚未来的文章。所提供的摘要提到了 Jane Wade 和 Sergio Hudson，但未介绍具体工作。",
+          "why_it_matters_zh": "这一行业动向见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -1748,7 +1794,11 @@
               "published_at": "Fri, 18 Sep 2026 17:46:09 +0000"
             }
           ],
-          "route": "/hot/2026-09-19/topic/millemiglia-a-realistic-instance-generator-for-middle-mile-logistics/"
+          "route": "/hot/2026-09-19/topic/millemiglia-a-realistic-instance-generator-for-middle-mile-logistics/",
+          "headline_zh": "MilleMiglia：贴近实际的中程物流实例生成器",
+          "summary_short_zh": "Google Research 推出了 MilleMiglia，将其描述为贴近实际的中程物流实例生成器。文章归类于“算法与理论”。",
+          "why_it_matters_zh": "这款工具见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     },
@@ -1792,7 +1842,11 @@
               "published_at": "2026-09-18T18:55:35Z"
             }
           ],
-          "route": "/hot/2026-09-19/topic/cache-to-cache-direct-semantic-communication-between-llms-2025/"
+          "route": "/hot/2026-09-19/topic/cache-to-cache-direct-semantic-communication-between-llms-2025/",
+          "headline_zh": "Cache-to-Cache：大语言模型间的直接语义通信（2025）",
+          "summary_short_zh": "Hacker News 上的一则帖子介绍了 2025 年的研究《Cache-to-Cache：大语言模型间的直接语义通信》。该研究探讨语言模型间的直接语义通信，但所提供的文本未说明方法或结果。",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "364825b7d87f",
@@ -1830,7 +1884,10 @@
               "published_at": "2026-09-17T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-09-19/topic/an-empirical-study-of-harness-design-for-coding-agents/"
+          "route": "/hot/2026-09-19/topic/an-empirical-study-of-harness-design-for-coding-agents/",
+          "headline_zh": "编程智能体运行框架（Harness）设计的实证研究",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "ebb00f6b6c31",
@@ -1868,7 +1925,10 @@
               "published_at": "2026-09-17T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-09-19/topic/retireopd-self-retiring-on-policy-distillation-for-agentic-reinforcement-learning/"
+          "route": "/hot/2026-09-19/topic/retireopd-self-retiring-on-policy-distillation-for-agentic-reinforcement-learning/",
+          "headline_zh": "RetireOPD：面向智能体强化学习的自主退役式同策略蒸馏",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "b6ce10007230",
@@ -1906,7 +1966,10 @@
               "published_at": "2026-09-17T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-09-19/topic/self-evolving-search-index/"
+          "route": "/hot/2026-09-19/topic/self-evolving-search-index/",
+          "headline_zh": "自进化搜索索引",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "c3afb67a2370",
@@ -1944,7 +2007,10 @@
               "published_at": "2026-09-17T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-09-19/topic/wevisdoc-from-coverage-to-capability-for-robust-end-to-end-document-parsing/"
+          "route": "/hot/2026-09-19/topic/wevisdoc-from-coverage-to-capability-for-robust-end-to-end-document-parsing/",
+          "headline_zh": "WeVisDoc：从覆盖度到能力，实现鲁棒的端到端文档解析",
+          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         }
       ]
     }
@@ -1996,7 +2062,10 @@
               "published_at": "Fri, 18 Sep 2026 15:25:23 +0000"
             }
           ],
-          "route": "/hot/2026-09-19/topic/enhancing-industrial-safety-ai-with-synthetic-data-on-amazon-sagemaker-ai/"
+          "route": "/hot/2026-09-19/topic/enhancing-industrial-safety-ai-with-synthetic-data-on-amazon-sagemaker-ai/",
+          "headline_zh": "在 Amazon SageMaker AI 上用合成数据增强工业安全 AI",
+          "why_it_matters_zh": "这篇教程见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "95301f0d3f67",
@@ -2034,7 +2103,10 @@
               "published_at": "Fri, 18 Sep 2026 14:00:00 +0000"
             }
           ],
-          "route": "/hot/2026-09-19/topic/new-insights-from-google-s-ai-economy-atlas/"
+          "route": "/hot/2026-09-19/topic/new-insights-from-google-s-ai-economy-atlas/",
+          "headline_zh": "Google AI & Economy ATLAS 带来的新见解",
+          "why_it_matters_zh": "这条其他类内容见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "fc4c40eb3fa3",
@@ -2072,7 +2144,11 @@
               "published_at": "Fri, 18 Sep 2026 15:50:33 GMT"
             }
           ],
-          "route": "/hot/2026-09-19/topic/the-next-chapter-of-entertainment-and-fandom/"
+          "route": "/hot/2026-09-19/topic/the-next-chapter-of-entertainment-and-fandom/",
+          "headline_zh": "娱乐与粉丝文化的新篇章",
+          "summary_short_zh": "Character.ai 概述了其目标：让用户以新的方式与喜爱的角色、故事和社群互动。文章还宣称该公司在 AI 安全领域处于行业领先地位。",
+          "why_it_matters_zh": "这条其他类内容见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "f1c8b170d66f",
@@ -2110,7 +2186,11 @@
               "published_at": "Fri, 18 Sep 2026 12:30:00 -0400"
             }
           ],
-          "route": "/hot/2026-09-19/topic/a-new-chapter-for-mit-reads/"
+          "route": "/hot/2026-09-19/topic/a-new-chapter-for-mit-reads/",
+          "headline_zh": "MIT Reads 开启新篇章",
+          "summary_short_zh": "新的阅读重点是小说和回忆录，旨在让 MIT 社群感受故事的力量，并增进彼此联系。",
+          "why_it_matters_zh": "这条其他类内容见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "fe592cd3b04c",
@@ -2148,7 +2228,11 @@
               "published_at": "2026-09-18T19:21:32+00:00"
             }
           ],
-          "route": "/hot/2026-09-19/topic/note-on-18th-september-2026/"
+          "route": "/hot/2026-09-19/topic/note-on-18th-september-2026/",
+          "headline_zh": "2026年9月18日随记",
+          "summary_short_zh": "<p>如今，一个计算机科学家若坚决不觉得大语言模型有什么有趣之处，就有点像一个遗传学家坚决不觉得刚开园的侏罗纪公园有什么有趣之处。</p> <p>持怀疑态度的遗传学家：“切，不就是青蛙 DNA 嘛。",
+          "why_it_matters_zh": "这条其他类内容见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "0d455ad2800a",
@@ -2186,7 +2270,11 @@
               "published_at": "2026-09-18T10:35:28Z"
             }
           ],
-          "route": "/hot/2026-09-19/topic/zcode-the-glm-coding-agent-silently-uploads-your-git-history/"
+          "route": "/hot/2026-09-19/topic/zcode-the-glm-coding-agent-silently-uploads-your-git-history/",
+          "headline_zh": "GLM 编程智能体 ZCode 会悄悄上传你的 Git 历史记录",
+          "summary_short_zh": "Hacker News 上的一则帖子指称，GLM 编程智能体 ZCode 会悄悄上传用户的 Git 历史记录。所提供的文本没有给出技术证据或厂商回应。",
+          "why_it_matters_zh": "这条其他类内容见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "b949fe3a7cef",
@@ -2224,7 +2312,11 @@
               "published_at": "2026-09-18T19:00:06Z"
             }
           ],
-          "route": "/hot/2026-09-19/topic/the-implications-of-linguistic-illegibility-for-llm-security/"
+          "route": "/hot/2026-09-19/topic/the-implications-of-linguistic-illegibility-for-llm-security/",
+          "headline_zh": "语言不可读性对大语言模型安全的影响",
+          "summary_short_zh": "Hacker News 上的一则帖子介绍了一项探讨语言不可读性对大语言模型安全影响的研究。所提供的文本未说明其论点或研究结果。",
+          "why_it_matters_zh": "这条其他类内容见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "8387a4a50dbb",
@@ -2262,7 +2354,10 @@
               "published_at": "2026-09-18T02:47:24Z"
             }
           ],
-          "route": "/hot/2026-09-19/topic/microsoft-openai-lose-fight-to-hide-internal-docs-admitting-scraping-is-theft/"
+          "route": "/hot/2026-09-19/topic/microsoft-openai-lose-fight-to-hide-internal-docs-admitting-scraping-is-theft/",
+          "headline_zh": "微软和 OpenAI 未能阻止披露承认数据抓取属于盗窃的内部文件",
+          "why_it_matters_zh": "这条其他类内容见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
