@@ -25,7 +25,6 @@ STARTED="$(date -u +%FT%TZ)"
 T0=$(date +%s)
 
 PY="${PYTHON:-$REPO/.venv/bin/python}"
-[ -x "$PY" ] || PY="$(command -v python3 || command -v python)"
 
 # 0. Run today's code, not the code that was here when the host was set up. Changes are
 #    made on the desktop and pushed; nothing else ever brings them to this checkout, so a
@@ -45,13 +44,36 @@ if git -C "$REPO" rev-parse --git-dir >/dev/null 2>&1; then
       status_sync="current"
     else
       status_sync="updated ${before:0:7}..${after:0:7}"
-      if ! git -C "$REPO" diff --quiet "$before" "$after" -- requirements.txt; then
-        "$PY" -m pip install -q -r "$REPO/requirements.txt" || status_sync="$status_sync (pip failed)"
-      fi
     fi
   else
     status_sync="failed"
     echo "run_once: could not fast-forward $branch; running the code already here" >&2
+  fi
+fi
+
+# 0b. The environment this code needs, rebuilt when it is missing or out of date.
+#    The container restarts and keeps the checkout but not .venv. This script used to fall back
+#    to the system python3 when .venv was gone, which has none of the requirements: every run
+#    from 2026-09-26 22:31 died on "No module named 'feedparser'" in 0 seconds, and the only
+#    trace was this machine's own log. A stamp of requirements.txt lives INSIDE .venv, so a
+#    lost venv and a changed requirements file are the same case: install. PYTHON set by the
+#    operator is used as given.
+status_env="ok"
+if [ -z "${PYTHON:-}" ]; then
+  if [ ! -x "$PY" ]; then
+    rm -rf "$REPO/.venv"
+    PY0="$(command -v python3.13 || command -v python3.12 || command -v python3.11 || command -v python3)"
+    "$PY0" -m venv "$REPO/.venv" || status_env="venv failed"
+  fi
+  stamp="$REPO/.venv/.requirements.sha256"
+  want="$(sha256sum "$REPO/requirements.txt" | cut -c1-64)"
+  if [ "$status_env" = "ok" ] && [ "$(cat "$stamp" 2>/dev/null)" != "$want" ]; then
+    if "$PY" -m pip install -q --upgrade pip && "$PY" -m pip install -q -r "$REPO/requirements.txt"; then
+      echo "$want" > "$stamp"
+      status_env="reinstalled"
+    else
+      status_env="pip failed"
+    fi
   fi
 fi
 
@@ -85,6 +107,7 @@ cat > "$STATE/last-run.json" <<JSON
   "ended": "$(date -u +%FT%TZ)",
   "seconds": $((T1 - T0)),
   "sync": "$status_sync",
+  "env": "$status_env",
   "generate": "$status_generate",
   "publish": "$status_publish",
   "day_file_bytes": $( [ -f "$DAY_FILE" ] && wc -c < "$DAY_FILE" || echo 0 )

@@ -296,6 +296,16 @@ class DeployScriptTests(unittest.TestCase):
         self.assertLess(text.index("--ff-only"), text.index("generate_daily_hotspots.py"))
         self.assertIn('"sync": "$status_sync"', text)
 
+    def test_run_once_rebuilds_a_missing_venv_instead_of_falling_back_to_system_python(self):
+        # A container restart keeps the checkout and loses .venv. Falling back to the system
+        # python3 ran the generator without its requirements for a day and a half.
+        text = (DEPLOY / "run_once.sh").read_text(encoding="utf-8")
+        self.assertNotIn('PY="$(command -v python3', text)
+        self.assertIn('-m venv "$REPO/.venv"', text)
+        self.assertIn(".requirements.sha256", text)
+        self.assertLess(text.index("-m venv"), text.index("generate_daily_hotspots.py"))
+        self.assertIn('"env": "$status_env"', text)
+
     def test_run_once_records_evidence_even_when_it_fails(self):
         # A timer swallows exit codes and the supervisor outlives the run, so
         # artifacts are the only place a failure can be seen afterwards.
