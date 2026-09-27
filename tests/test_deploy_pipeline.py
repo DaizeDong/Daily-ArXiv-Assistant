@@ -286,6 +286,16 @@ class DeployScriptTests(unittest.TestCase):
                       "publishing without a credential falls through instead "
                       "of failing")
 
+    def test_run_once_brings_the_code_current_before_generating(self):
+        # Code is changed on the desktop and pushed; a long-lived supervisor on the
+        # container otherwise keeps generating with whatever it was installed with.
+        text = (DEPLOY / "run_once.sh").read_text(encoding="utf-8")
+        self.assertIn("merge -q --ff-only FETCH_HEAD", text)
+        self.assertNotIn("reset --hard", text.split("# 1. Generate", 1)[0],
+                         "the sync may never discard what the host holds")
+        self.assertLess(text.index("--ff-only"), text.index("generate_daily_hotspots.py"))
+        self.assertIn('"sync": "$status_sync"', text)
+
     def test_run_once_records_evidence_even_when_it_fails(self):
         # A timer swallows exit codes and the supervisor outlives the run, so
         # artifacts are the only place a failure can be seen afterwards.

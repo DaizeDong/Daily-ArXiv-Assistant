@@ -27,6 +27,34 @@ T0=$(date +%s)
 PY="${PYTHON:-$REPO/.venv/bin/python}"
 [ -x "$PY" ] || PY="$(command -v python3 || command -v python)"
 
+# 0. Run today's code, not the code that was here when the host was set up. Changes are
+#    made on the desktop and pushed; nothing else ever brings them to this checkout, so a
+#    long-lived supervisor would otherwise keep generating with whatever it was installed
+#    with. Fast-forward only: a diverged tree needs a human, and a reset would throw away
+#    whatever this host holds that is not on the remote. A failed sync is recorded and the
+#    run goes ahead on the code it has, because yesterday's generator still beats no day.
+#    run_once.sh itself may be replaced by this merge; bash keeps reading the file it opened.
+status_sync="skipped"
+if git -C "$REPO" rev-parse --git-dir >/dev/null 2>&1; then
+  before=$(git -C "$REPO" rev-parse HEAD)
+  branch=$(git -C "$REPO" rev-parse --abbrev-ref HEAD)
+  if git -C "$REPO" fetch -q origin "$branch" \
+     && git -C "$REPO" merge -q --ff-only FETCH_HEAD; then
+    after=$(git -C "$REPO" rev-parse HEAD)
+    if [ "$before" = "$after" ]; then
+      status_sync="current"
+    else
+      status_sync="updated ${before:0:7}..${after:0:7}"
+      if ! git -C "$REPO" diff --quiet "$before" "$after" -- requirements.txt; then
+        "$PY" -m pip install -q -r "$REPO/requirements.txt" || status_sync="$status_sync (pip failed)"
+      fi
+    fi
+  else
+    status_sync="failed"
+    echo "run_once: could not fast-forward $branch; running the code already here" >&2
+  fi
+fi
+
 status_generate="skipped"
 status_publish="skipped"
 
@@ -56,6 +84,7 @@ cat > "$STATE/last-run.json" <<JSON
   "started": "$STARTED",
   "ended": "$(date -u +%FT%TZ)",
   "seconds": $((T1 - T0)),
+  "sync": "$status_sync",
   "generate": "$status_generate",
   "publish": "$status_publish",
   "day_file_bytes": $( [ -f "$DAY_FILE" ] && wc -c < "$DAY_FILE" || echo 0 )
