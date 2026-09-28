@@ -87,6 +87,11 @@ jobs:
             3.12.*) ;;
             *) echo "FAIL: expected 3.12.x from setup-python" >&2; exit 1 ;;
           esac
+          # pip must be able to INSTALL, not only print a version: on 2026-09-27 the
+          # container's tool cache had lost pip/_internal/operations/build, `pip --version`
+          # still worked, and every job that landed there died at "Install dependencies".
+          python -m pip install --dry-run --quiet six >/dev/null             || { echo "FAIL: pip in this interpreter cannot install packages" >&2; exit 1; }
+          echo "pip          : can install"
 
       - name: Initialize the job model transport
         shell: bash

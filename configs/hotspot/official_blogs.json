@@ -40,7 +40,8 @@
     "source_name": "Microsoft AI Blog",
     "url": "https://blogs.microsoft.com/ai/feed/",
     "mode": "rss",
-    "enabled": true
+    "enabled": false,
+    "disabled_reason": "2026-09-27: the feed answers 410 Gone on every run; re-enable with a working URL"
   },
   {
     "source_id": "nvidia_ai_blog",
