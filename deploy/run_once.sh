@@ -23,6 +23,9 @@ fi
 TODAY="$(date -u +%F)"
 STARTED="$(date -u +%FT%TZ)"
 T0=$(date +%s)
+# The supervisor appends every run to one run.log; this line is where deploy/archive_run.sh
+# starts copying, so the archive holds this run and not the whole history.
+echo "=== run_once start $STARTED ==="
 
 PY="${PYTHON:-$REPO/.venv/bin/python}"
 
@@ -114,6 +117,18 @@ cat > "$STATE/last-run.json" <<JSON
 }
 JSON
 date -u +%s > "$STATE/heartbeat"
+
+# 3. Archive the evidence above into the private companion repository, if one is configured
+#    (ARXIV_COMPANION_REMOTE). Last, so it copies the finished last-run.json, and unable to
+#    change this script's exit code: the archive always exits 0, `|| true` covers a missing or
+#    killed script, and the verdict below is decided by generation alone.
+if [ -f "$REPO/deploy/archive_run.sh" ]; then
+  if command -v timeout >/dev/null 2>&1; then
+    timeout 600 bash "$REPO/deploy/archive_run.sh" || true
+  else
+    bash "$REPO/deploy/archive_run.sh" || true
+  fi
+fi
 
 [ "$status_generate" = "ok" ] || exit 1
 exit 0

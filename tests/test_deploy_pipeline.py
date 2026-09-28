@@ -170,7 +170,8 @@ class BackendDetectionTests(unittest.TestCase):
 
 
 class DeployScriptTests(unittest.TestCase):
-    SCRIPTS = ("install.sh", "run_once.sh", "publish.sh", "supervise.sh", "status.sh")
+    SCRIPTS = ("install.sh", "run_once.sh", "publish.sh", "supervise.sh", "status.sh",
+               "archive_run.sh")
 
     def test_no_script_references_a_module_that_was_renamed(self):
         # The retired runner imported arxiv_assistant.hotspots.store for months
