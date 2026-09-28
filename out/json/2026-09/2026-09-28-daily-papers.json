@@ -1,0 +1,261 @@
+{
+    "schema_version": 2,
+    "meta": {
+        "date": "2026-09-28",
+        "sort": [
+            "score",
+            "relevance"
+        ],
+        "topic_schema_version": 2,
+        "total_papers": 2,
+        "usage": {
+            "model": "llmcall:codexg+claude",
+            "prompt_tokens": 0,
+            "completion_tokens": 0,
+            "prompt_cost": 0.0,
+            "completion_cost": 0.0,
+            "total_arxiv_papers": 331,
+            "total_scanned_papers": 201,
+            "total_relevant_papers": 2,
+            "filter_health": {
+                "status": "ok",
+                "scanned_papers": 201,
+                "selected_papers": 2,
+                "llm_tokens": 0,
+                "message": "Scored 201 papers with 9/18 successful model calls; 2 selected."
+            },
+            "llm": {
+                "backend": "LLM backend: llmcall chain=codexg->cc->claude->codex",
+                "attempted": 18,
+                "succeeded": 9,
+                "failed": 9,
+                "by_backend": {
+                    "llmcall": 18
+                },
+                "by_provider": {
+                    "codexg": 8,
+                    "claude": 1
+                },
+                "errors": [
+                    "codexg: timeout after 364s",
+                    "codexg: timeout after 364s",
+                    "codexg: timeout after 364s",
+                    "codexg: timeout after 364s",
+                    "codexg: timeout after 364s",
+                    "codexg: timeout after 364s",
+                    "codexg: timeout after 364s",
+                    "codexg: timeout after 364s",
+                    "codexg: timeout after 364s"
+                ],
+                "seconds": 5266.9,
+                "trace": [
+                    "codexg: answered in 79.7s of 363.7s",
+                    "codexg: answered in 110.1s of 363.7s",
+                    "codexg: answered in 122.3s of 363.7s",
+                    "codexg: answered in 204.0s of 363.7s",
+                    "codexg: answered in 139.0s of 363.7s",
+                    "codexg: answered in 140.8s of 363.7s",
+                    "codexg: answered in 57.9s of 363.7s",
+                    "codexg: timeout after 363.9s of 363.7s (timeout after 364s)",
+                    "cc: timeout after 18.7s of 18.6s (timeout after 19s)",
+                    "claude: timeout after 18.7s of 18.7s (timeout after 19s)",
+                    "codex: error after 13.5s of 18.7s (OpenAI Codex v0.156.0",
+                    "codexg: timeout after 363.8s of 363.7s (timeout after 364s)",
+                    "cc: timeout after 18.7s of 18.7s (timeout after 19s)",
+                    "claude: timeout after 18.8s of 18.7s (timeout after 19s)",
+                    "codex: error after 13.7s of 18.7s (OpenAI Codex v0.156.0",
+                    "codexg: timeout after 363.9s of 363.7s (timeout after 364s)",
+                    "cc: timeout after 18.7s of 18.6s (timeout after 19s)",
+                    "claude: timeout after 18.7s of 18.7s (timeout after 19s)",
+                    "codex: error after 13.5s of 18.7s (OpenAI Codex v0.156.0",
+                    "codexg: timeout after 363.8s of 363.7s (timeout after 364s)",
+                    "cc: timeout after 18.7s of 18.7s (timeout after 19s)",
+                    "claude: timeout after 18.8s of 18.7s (timeout after 19s)",
+                    "codex: error after 14.1s of 18.7s (OpenAI Codex v0.156.0",
+                    "codexg: timeout after 363.8s of 363.7s (timeout after 364s)",
+                    "cc: timeout after 18.7s of 18.7s (timeout after 19s)",
+                    "claude: timeout after 18.8s of 18.7s (timeout after 19s)",
+                    "codex: error after 15.0s of 18.7s (OpenAI Codex v0.156.0",
+                    "codexg: answered in 344.4s of 363.7s",
+                    "codexg: timeout after 363.9s of 363.7s (timeout after 364s)",
+                    "cc: timeout after 18.7s of 18.6s (timeout after 19s)",
+                    "claude: answered in 17.5s of 18.7s",
+                    "codexg: timeout after 363.9s of 363.7s (timeout after 364s)",
+                    "cc: timeout after 18.7s of 18.6s (timeout after 19s)",
+                    "claude: timeout after 18.8s of 18.7s (timeout after 19s)",
+                    "codex: error after 14.9s of 18.7s (OpenAI Codex v0.156.0",
+                    "codexg: timeout after 363.9s of 363.7s (timeout after 364s)",
+                    "cc: timeout after 18.7s of 18.6s (timeout after 19s)",
+                    "claude: timeout after 18.7s of 18.7s (timeout after 19s)",
+                    "codex: error after 14.1s of 18.7s (OpenAI Codex v0.156.0",
+                    "codexg: timeout after 363.8s of 363.7s (timeout after 364s)",
+                    "cc: error after 1.7s of 18.7s (cc: Claude Code is 2.1.281; this proxy build was validated against 2.1.278. If something behaves oddly, that gap is the first thing to check.)",
+                    "claude: error after 0.9s of 35.7s (exit 1)",
+                    "codex: error after 13.8s of 53.5s (OpenAI Codex v0.156.0",
+                    "codexg: timeout after 363.9s of 363.7s (timeout after 364s)",
+                    "cc: error after 1.5s of 18.6s (cc: Claude Code is 2.1.281; this proxy build was validated against 2.1.278. If something behaves oddly, that gap is the first thing to check.)",
+                    "claude: error after 0.9s of 35.9s (exit 1)",
+                    "codex: error after 14.2s of 53.7s (OpenAI Codex v0.156.0"
+                ]
+            }
+        }
+    },
+    "topic_order": [
+        "frontier_models",
+        "architecture_training",
+        "training_systems",
+        "moe_training",
+        "efficiency_scaling",
+        "representation_structure",
+        "memory_systems",
+        "world_models_open_ended_rl"
+    ],
+    "diagnostics": {
+        "total_papers": 2,
+        "topic_counts": [
+            {
+                "topic_id": "frontier_models",
+                "topic_label": "Frontier Model Releases and Technical Reports",
+                "paper_count": 0
+            },
+            {
+                "topic_id": "architecture_training",
+                "topic_label": "Architecture and Training Dynamics",
+                "paper_count": 1
+            },
+            {
+                "topic_id": "training_systems",
+                "topic_label": "Training Algorithms That Change What Is Possible",
+                "paper_count": 0
+            },
+            {
+                "topic_id": "moe_training",
+                "topic_label": "MoE Where It Changes the Design Space",
+                "paper_count": 0
+            },
+            {
+                "topic_id": "efficiency_scaling",
+                "topic_label": "Efficiency, Compression, and Large-Scale Training",
+                "paper_count": 1
+            },
+            {
+                "topic_id": "representation_structure",
+                "topic_label": "Representation Learning Theory and Structure",
+                "paper_count": 0
+            },
+            {
+                "topic_id": "memory_systems",
+                "topic_label": "Memory Structures and Agent Memory Systems",
+                "paper_count": 0
+            },
+            {
+                "topic_id": "world_models_open_ended_rl",
+                "topic_label": "World Models, Exploration, and Open-Ended Reinforcement Learning",
+                "paper_count": 0
+            }
+        ],
+        "assignment_source_counts": {
+            "llm_exact": 2
+        },
+        "llm_assignment_count": 2,
+        "heuristic_assignment_count": 0,
+        "default_assignment_count": 0,
+        "invalid_primary_topic_fallback_count": 0,
+        "missing_primary_topic_fallback_count": 0,
+        "hotspot_paper_kind_counts": {
+            "new_frontier": 0,
+            "daily_hot": 0
+        },
+        "hotspot_paper_assignment_source_counts": {
+            "default": 2
+        }
+    },
+    "papers": {
+        "2609.31013": {
+            "ARXIVID": "2609.31013",
+            "COMMENT": "Audits cross-provider reliability of LLM-assigned measurements and shows that model choice changes empirical conclusions.",
+            "RELEVANCE": 7,
+            "NOVELTY": 6,
+            "EVIDENCE": 8,
+            "LOAD": 3,
+            "PROXIMITY": 3,
+            "PRIMARY_TOPIC_ID": "architecture_training",
+            "MATCHED_TOPIC_IDS": [
+                "architecture_training"
+            ],
+            "TOPIC_MATCH_COMMENT": "Fits the explicit LLM-judge reliability exception through measurement-invariance testing; architecture_training is a required fallback because the registry lacks an audit topic.",
+            "HOTSPOT_PAPER_TAGS": [],
+            "HOTSPOT_PAPER_COMMENT": "",
+            "SCORE": 13,
+            "READ_SCORE": 16.5,
+            "authors": [
+                "Hamid Boustanifar",
+                "Sasan Mansouri"
+            ],
+            "title": "Same Text, Different Numbers: The Divergence of LLM-Based Measures",
+            "abstract": "Researchers increasingly use generative large language models (LLMs) to convert corporate text into empirical variables. We examine the extent to which LLM-based textual measures are invariant to model choice using thirteen measures, including sentiment, management clarity, uncertainty, answer specificity, and climate and political risk. Seven LLMs from different providers score earnings call transcripts of S&P 500 companies on these constructs. Cross-model rank correlations average only 0.52, and transcript-level differences common across providers account for only 34% of total score variation. Cross-model disagreement does not predict subsequent analyst or market disagreement, consistent with a substantial model-specific component rather than common ambiguity in the underlying disclosure. Model choice significantly affects downstream inference, with coefficient magnitudes, signs, and statistical significance varying substantially across models. Averaging across providers makes transcript rankings more stable for most constructs, but score levels remain sensitive to the models included in the ensemble. LLM-generated variables should therefore be treated as model-contingent measurements and validated across providers.",
+            "arxiv_id": "2609.31013",
+            "PRIMARY_TOPIC_LABEL": "Architecture and Training Dynamics",
+            "MATCHED_TOPIC_LABELS": [
+                "Architecture and Training Dynamics"
+            ],
+            "TOPIC_ASSIGNMENT_SOURCE": "llm_exact",
+            "HOTSPOT_PAPER_LABELS": [],
+            "HOTSPOT_PAPER_PRIMARY_KIND": null,
+            "HOTSPOT_PAPER_PRIMARY_LABEL": "",
+            "HOTSPOT_PAPER_ASSIGNMENT_SOURCE": "default"
+        },
+        "2609.31214": {
+            "ARXIVID": "2609.31214",
+            "COMMENT": "Separates changes in the counterfactual attribution target from approximation error when that target is held fixed.",
+            "RELEVANCE": 8,
+            "NOVELTY": 8,
+            "EVIDENCE": 5,
+            "LOAD": 8,
+            "PROXIMITY": 5,
+            "PRIMARY_TOPIC_ID": "efficiency_scaling",
+            "MATCHED_TOPIC_IDS": [
+                "efficiency_scaling"
+            ],
+            "TOPIC_MATCH_COMMENT": "Attribution of behavior to training data is explicitly included in this topic; the contribution clarifies what competing influence estimators actually estimate.",
+            "HOTSPOT_PAPER_TAGS": [],
+            "HOTSPOT_PAPER_COMMENT": "",
+            "SCORE": 16,
+            "READ_SCORE": 14.0,
+            "authors": [
+                "Zhe Li",
+                "Wei Zhao",
+                "Peixin Zhang",
+                "Jun Sun"
+            ],
+            "title": "Which Influence Are We Estimating? The Role of Counterfactual Specifications in Data Attribution",
+            "abstract": "Estimating the influence of training examples on model behavior is essential for data debugging, valuation, and attribution. Existing influence estimators often produce incompatible rankings, which are commonly ascribed to approximation error. We argue that a more fundamental source of disagreement is specification mismatch: influence depends on the behavior being attributed, the intervention applied to each training example, and the counterfactual training process that maps the intervention to a model response. These choices are especially important when the target behavior requires a tractable surrogate, such as query loss, a logit, or a margin. We formalize influence as a counterfactual estimand, distinguish specification mismatch across estimands from approximation error in estimating a fixed estimand, and organize representative estimators by their implied specifications. We further derive a local decomposition that exposes how behavior signals, training signals, and counterfactual parameter responses interact. Controlled experiments show that exact estimands under different specifications can induce different rankings, whereas approximation error grows as perturbations move farther from their linearization points. Experiments on noisy label detection and LLM attribution show that specification choices significantly affect attribution quality, especially for the choice of behavior surrogate. Behavior-aligned specifications can identify target-specific training examples obscured by default loss-based or similarity-based specifications. These results establish specification analysis as a necessary first step for interpreting and comparing data influence estimators.",
+            "arxiv_id": "2609.31214",
+            "PRIMARY_TOPIC_LABEL": "Efficiency, Compression, and Large-Scale Training",
+            "MATCHED_TOPIC_LABELS": [
+                "Efficiency, Compression, and Large-Scale Training"
+            ],
+            "TOPIC_ASSIGNMENT_SOURCE": "llm_exact",
+            "HOTSPOT_PAPER_LABELS": [],
+            "HOTSPOT_PAPER_PRIMARY_KIND": null,
+            "HOTSPOT_PAPER_PRIMARY_LABEL": "",
+            "HOTSPOT_PAPER_ASSIGNMENT_SOURCE": "default"
+        }
+    },
+    "topic_sections": [
+        {
+            "topic_id": "architecture_training",
+            "topic_label": "Architecture and Training Dynamics",
+            "paper_ids": [
+                "2609.31013"
+            ]
+        },
+        {
+            "topic_id": "efficiency_scaling",
+            "topic_label": "Efficiency, Compression, and Large-Scale Training",
+            "paper_ids": [
+                "2609.31214"
+            ]
+        }
+    ]
+}

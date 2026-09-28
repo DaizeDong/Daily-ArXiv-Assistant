@@ -1,0 +1,72 @@
+{
+    "2609.31013": {
+        "ARXIVID": "2609.31013",
+        "COMMENT": "Audits cross-provider reliability of LLM-assigned measurements and shows that model choice changes empirical conclusions.",
+        "RELEVANCE": 7,
+        "NOVELTY": 6,
+        "EVIDENCE": 8,
+        "LOAD": 3,
+        "PROXIMITY": 3,
+        "PRIMARY_TOPIC_ID": "architecture_training",
+        "MATCHED_TOPIC_IDS": [
+            "architecture_training"
+        ],
+        "TOPIC_MATCH_COMMENT": "Fits the explicit LLM-judge reliability exception through measurement-invariance testing; architecture_training is a required fallback because the registry lacks an audit topic.",
+        "HOTSPOT_PAPER_TAGS": [],
+        "HOTSPOT_PAPER_COMMENT": "",
+        "SCORE": 13,
+        "READ_SCORE": 16.5,
+        "authors": [
+            "Hamid Boustanifar",
+            "Sasan Mansouri"
+        ],
+        "title": "Same Text, Different Numbers: The Divergence of LLM-Based Measures",
+        "abstract": "Researchers increasingly use generative large language models (LLMs) to convert corporate text into empirical variables. We examine the extent to which LLM-based textual measures are invariant to model choice using thirteen measures, including sentiment, management clarity, uncertainty, answer specificity, and climate and political risk. Seven LLMs from different providers score earnings call transcripts of S&P 500 companies on these constructs. Cross-model rank correlations average only 0.52, and transcript-level differences common across providers account for only 34% of total score variation. Cross-model disagreement does not predict subsequent analyst or market disagreement, consistent with a substantial model-specific component rather than common ambiguity in the underlying disclosure. Model choice significantly affects downstream inference, with coefficient magnitudes, signs, and statistical significance varying substantially across models. Averaging across providers makes transcript rankings more stable for most constructs, but score levels remain sensitive to the models included in the ensemble. LLM-generated variables should therefore be treated as model-contingent measurements and validated across providers.",
+        "arxiv_id": "2609.31013",
+        "PRIMARY_TOPIC_LABEL": "Architecture and Training Dynamics",
+        "MATCHED_TOPIC_LABELS": [
+            "Architecture and Training Dynamics"
+        ],
+        "TOPIC_ASSIGNMENT_SOURCE": "llm_exact",
+        "HOTSPOT_PAPER_LABELS": [],
+        "HOTSPOT_PAPER_PRIMARY_KIND": null,
+        "HOTSPOT_PAPER_PRIMARY_LABEL": "",
+        "HOTSPOT_PAPER_ASSIGNMENT_SOURCE": "default"
+    },
+    "2609.31214": {
+        "ARXIVID": "2609.31214",
+        "COMMENT": "Separates changes in the counterfactual attribution target from approximation error when that target is held fixed.",
+        "RELEVANCE": 8,
+        "NOVELTY": 8,
+        "EVIDENCE": 5,
+        "LOAD": 8,
+        "PROXIMITY": 5,
+        "PRIMARY_TOPIC_ID": "efficiency_scaling",
+        "MATCHED_TOPIC_IDS": [
+            "efficiency_scaling"
+        ],
+        "TOPIC_MATCH_COMMENT": "Attribution of behavior to training data is explicitly included in this topic; the contribution clarifies what competing influence estimators actually estimate.",
+        "HOTSPOT_PAPER_TAGS": [],
+        "HOTSPOT_PAPER_COMMENT": "",
+        "SCORE": 16,
+        "READ_SCORE": 14.0,
+        "authors": [
+            "Zhe Li",
+            "Wei Zhao",
+            "Peixin Zhang",
+            "Jun Sun"
+        ],
+        "title": "Which Influence Are We Estimating? The Role of Counterfactual Specifications in Data Attribution",
+        "abstract": "Estimating the influence of training examples on model behavior is essential for data debugging, valuation, and attribution. Existing influence estimators often produce incompatible rankings, which are commonly ascribed to approximation error. We argue that a more fundamental source of disagreement is specification mismatch: influence depends on the behavior being attributed, the intervention applied to each training example, and the counterfactual training process that maps the intervention to a model response. These choices are especially important when the target behavior requires a tractable surrogate, such as query loss, a logit, or a margin. We formalize influence as a counterfactual estimand, distinguish specification mismatch across estimands from approximation error in estimating a fixed estimand, and organize representative estimators by their implied specifications. We further derive a local decomposition that exposes how behavior signals, training signals, and counterfactual parameter responses interact. Controlled experiments show that exact estimands under different specifications can induce different rankings, whereas approximation error grows as perturbations move farther from their linearization points. Experiments on noisy label detection and LLM attribution show that specification choices significantly affect attribution quality, especially for the choice of behavior surrogate. Behavior-aligned specifications can identify target-specific training examples obscured by default loss-based or similarity-based specifications. These results establish specification analysis as a necessary first step for interpreting and comparing data influence estimators.",
+        "arxiv_id": "2609.31214",
+        "PRIMARY_TOPIC_LABEL": "Efficiency, Compression, and Large-Scale Training",
+        "MATCHED_TOPIC_LABELS": [
+            "Efficiency, Compression, and Large-Scale Training"
+        ],
+        "TOPIC_ASSIGNMENT_SOURCE": "llm_exact",
+        "HOTSPOT_PAPER_LABELS": [],
+        "HOTSPOT_PAPER_PRIMARY_KIND": null,
+        "HOTSPOT_PAPER_PRIMARY_LABEL": "",
+        "HOTSPOT_PAPER_ASSIGNMENT_SOURCE": "default"
+    }
+}
