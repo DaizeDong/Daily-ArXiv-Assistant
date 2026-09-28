@@ -1,288 +1,24 @@
 {
   "schema_version": 1,
-  "latest_date": "2026-09-26",
+  "latest_date": "2026-09-27",
   "dates": [
     {
-      "date": "2026-09-15",
+      "date": "2026-09-27",
       "month": "2026-09",
       "year": "2026",
-      "summary": "• [Product Release] NVIDIA released c-foundationstereo-s — This product release surfaced across 1 independent source(s).\n• [Product Release] Production-Ready W4A8: vLLM Integration Explained | Cohere — This product release surfaced across 1 independent source(s).\n• [Product Release] Cohere Parse | Enterprise Intelligence at Scale — This product release surfaced across 1 independent source(s).",
-      "featured_topics": 3,
-      "source_items": 38,
-      "topic_summary": 1,
-      "source_section_counts": {
-        "official": 10,
-        "market-signals": 0,
-        "analysis": 8,
-        "papers": 8,
-        "github": 6,
-        "industry": 6
-      },
-      "route": "/hot/2026-09-15/",
-      "paper_routes": {
-        "home": "../../",
-        "day": null,
-        "month": null,
-        "year": null
-      }
-    },
-    {
-      "date": "2026-09-16",
-      "month": "2026-09",
-      "year": "2026",
-      "summary": "• [Product Release] Tencent Hunyuan released Simple-Attention-Sparsification — This product release surfaced across 1 independent source(s).\n• [Industry Update] Cohere & Aleph Alpha : IA sous votre contrôle transatlantique | Cohere — This industry move surfaced across 1 independent source(s).\n• [Product Release] Mistral and Mozilla are bringing open, private and multilingual AI to your web browser — This product release surfaced across 1 independent source(s).",
-      "featured_topics": 3,
-      "source_items": 33,
-      "topic_summary": 1,
-      "source_section_counts": {
-        "official": 10,
-        "market-signals": 0,
-        "analysis": 8,
-        "papers": 3,
-        "github": 6,
-        "industry": 6
-      },
-      "route": "/hot/2026-09-16/",
-      "paper_routes": {
-        "home": "../../",
-        "day": null,
-        "month": null,
-        "year": null
-      }
-    },
-    {
-      "date": "2026-09-17",
-      "month": "2026-09",
-      "year": "2026",
-      "summary": "• [Product Release] Evolution of LLMs: Omni-World Models — This product release surfaced across 1 independent source(s).\n• [Product Release] Introducing North Small Translate: A leading sovereign open-weight machine translation model — This product release surfaced across 1 independent source(s).\n• [Industry Update] Introducing the Life Sciences Verification Program — This industry move surfaced across 1 independent source(s).",
-      "featured_topics": 3,
-      "source_items": 35,
-      "topic_summary": 1,
-      "source_section_counts": {
-        "official": 10,
-        "market-signals": 0,
-        "analysis": 8,
-        "papers": 5,
-        "github": 6,
-        "industry": 6
-      },
-      "route": "/hot/2026-09-17/",
-      "paper_routes": {
-        "home": "../../",
-        "day": null,
-        "month": null,
-        "year": null
-      }
-    },
-    {
-      "date": "2026-09-18",
-      "month": "2026-09",
-      "year": "2026",
-      "summary": "• [Product Release] How a global fintech scaled coding agent traffic with Dedicated Model Inference — This product release surfaced across 1 independent source(s).\n• [Industry Update] Partnering with Accenture on embedded evaluation — This industry move surfaced across 1 independent source(s).\n• [Tooling] Continuum-AI-Corp/OrcaBonsai-27B-Uncensored — This tooling surfaced across 1 independent source(s).",
-      "featured_topics": 3,
-      "source_items": 38,
-      "topic_summary": 2,
-      "source_section_counts": {
-        "official": 10,
-        "market-signals": 0,
-        "analysis": 8,
-        "papers": 8,
-        "github": 6,
-        "industry": 6
-      },
-      "route": "/hot/2026-09-18/",
-      "paper_routes": {
-        "home": "../../",
-        "day": null,
-        "month": null,
-        "year": null
-      }
-    },
-    {
-      "date": "2026-09-19",
-      "month": "2026-09",
-      "year": "2026",
-      "summary": "• [Tooling] wuyoscar/jev-skill — This tooling surfaced across 1 independent source(s).\n• [Product Release] Introducing Kimi K3 on Amazon Bedrock — This product release surfaced across 1 independent source(s).\n• [Product Release] Introducing the Australian Youth Safety Blueprint — This product release surfaced across 1 independent source(s).",
-      "featured_topics": 3,
-      "source_items": 30,
-      "topic_summary": 2,
-      "source_section_counts": {
-        "official": 10,
-        "market-signals": 0,
-        "analysis": 8,
-        "papers": 0,
-        "github": 6,
-        "industry": 6
-      },
-      "route": "/hot/2026-09-19/",
-      "paper_routes": {
-        "home": "../../",
-        "day": null,
-        "month": null,
-        "year": null
-      }
-    },
-    {
-      "date": "2026-09-20",
-      "month": "2026-09",
-      "year": "2026",
-      "summary": "• [Product Release] Qwen released Qwen-Image-2.1 — This product release surfaced across 1 independent source(s).\n• [Product Release] DeepSeek Sharpens Its Reasoning: DeepSeek-R1, an affordable rival to OpenAI’s o1 — This product release surfaced across 1 independent source(s).\n• [Product Release] Introducing DeepLearning.AI Pro — This product release surfaced across 1 independent source(s).",
+      "summary": "• [Product Release] Xiaomi MiMo released MiMo-V2.6-Flash-MOPD — This product release surfaced across 1 independent source(s).\n• [Product Release] DeepSeek Sharpens Its Reasoning: DeepSeek-R1, an affordable rival to OpenAI’s o1 — This product release surfaced across 1 independent source(s).\n• [Product Release] Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India — This product release surfaced across 1 independent source(s).",
       "featured_topics": 3,
       "source_items": 22,
-      "topic_summary": 0,
+      "topic_summary": 1,
       "source_section_counts": {
-        "official": 2,
-        "market-signals": 0,
-        "analysis": 8,
-        "papers": 0,
-        "github": 6,
-        "industry": 6
-      },
-      "route": "/hot/2026-09-20/",
-      "paper_routes": {
-        "home": "../../",
-        "day": null,
-        "month": null,
-        "year": null
-      }
-    },
-    {
-      "date": "2026-09-21",
-      "month": "2026-09",
-      "year": "2026",
-      "summary": "• [Product Release] How V7 gives AI agents institutional memory — This product release surfaced across 1 independent source(s).\n• [Product Release] Building standards for the next phase of AI — This product release surfaced across 1 independent source(s).\n• [Industry Update] Amazon blocks Meta’s Muse AI agent — This other surfaced across 1 independent source(s).",
-      "featured_topics": 3,
-      "source_items": 31,
-      "topic_summary": 0,
-      "source_section_counts": {
-        "official": 10,
+        "official": 1,
         "market-signals": 1,
         "analysis": 8,
         "papers": 0,
         "github": 6,
         "industry": 6
       },
-      "route": "/hot/2026-09-21/",
-      "paper_routes": {
-        "home": "../../",
-        "day": null,
-        "month": null,
-        "year": null
-      }
-    },
-    {
-      "date": "2026-09-22",
-      "month": "2026-09",
-      "year": "2026",
-      "summary": "• [Industry Update] 阿里公布全模态模型新进展，Qwen4和下代视频模型均在训练中 — This other surfaced across 1 independent source(s).\n• [Industry Update] 阿里吴泳铭最新演讲：未来机器思考的总量将达到人类的1000倍以上 — This other surfaced across 1 independent source(s).\n• [Product Release] Xiaomi MiMo released MiMo-V2.6-Flash-RL — This product release surfaced across 1 independent source(s).",
-      "featured_topics": 3,
-      "source_items": 37,
-      "topic_summary": 2,
-      "source_section_counts": {
-        "official": 10,
-        "market-signals": 0,
-        "analysis": 8,
-        "papers": 7,
-        "github": 6,
-        "industry": 6
-      },
-      "route": "/hot/2026-09-22/",
-      "paper_routes": {
-        "home": "../../",
-        "day": null,
-        "month": null,
-        "year": null
-      }
-    },
-    {
-      "date": "2026-09-23",
-      "month": "2026-09",
-      "year": "2026",
-      "summary": "• [Industry Update] Advisory Group on Mathematics and Artificial Intelligence — This other surfaced across 1 independent source(s).\n• [Industry Update] “We’re already fighting yesterday’s battle”: Greece’s prime minister gets candid about AI — This other surfaced across 1 independent source(s).\n• [Industry Update] 华为全新智驾上车，全域L3架构，岚图最强旗舰MPV 42万开卖 — This other surfaced across 1 independent source(s).",
-      "featured_topics": 3,
-      "source_items": 34,
-      "topic_summary": 1,
-      "source_section_counts": {
-        "official": 10,
-        "market-signals": 2,
-        "analysis": 8,
-        "papers": 2,
-        "github": 6,
-        "industry": 6
-      },
-      "route": "/hot/2026-09-23/",
-      "paper_routes": {
-        "home": "../../",
-        "day": null,
-        "month": null,
-        "year": null
-      }
-    },
-    {
-      "date": "2026-09-24",
-      "month": "2026-09",
-      "year": "2026",
-      "summary": "• [Industry Update] The promise and peril of using visual AI to study cities — This other surfaced across 1 independent source(s).\n• [Industry Update] 成立九年，中科类脑把积累装进Token工厂 — This other surfaced across 1 independent source(s).\n• [Industry Update] Meta靠自研Manus翻身！股价一夜暴涨11%，登顶苹果商店，增速反超ChatGPT — This other surfaced across 1 independent source(s).",
-      "featured_topics": 3,
-      "source_items": 33,
-      "topic_summary": 2,
-      "source_section_counts": {
-        "official": 10,
-        "market-signals": 0,
-        "analysis": 8,
-        "papers": 3,
-        "github": 6,
-        "industry": 6
-      },
-      "route": "/hot/2026-09-24/",
-      "paper_routes": {
-        "home": "../../",
-        "day": null,
-        "month": null,
-        "year": null
-      }
-    },
-    {
-      "date": "2026-09-25",
-      "month": "2026-09",
-      "year": "2026",
-      "summary": "• [Market Signal] Lightspeed targets $250M for new India fund, focusing on early-stage AI — This funding surfaced across 1 independent source(s).\n• [Product Release] Introducing Gemini 3.8 Live with Live Avatar — This product release surfaced across 2 independent source(s).\n• [Product Release] Accelerating GPT-5.6 Sol Ultrafast — This product release surfaced across 1 independent source(s).",
-      "featured_topics": 3,
-      "source_items": 33,
-      "topic_summary": 2,
-      "source_section_counts": {
-        "official": 10,
-        "market-signals": 2,
-        "analysis": 8,
-        "papers": 1,
-        "github": 6,
-        "industry": 6
-      },
-      "route": "/hot/2026-09-25/",
-      "paper_routes": {
-        "home": "../../",
-        "day": null,
-        "month": null,
-        "year": null
-      }
-    },
-    {
-      "date": "2026-09-26",
-      "month": "2026-09",
-      "year": "2026",
-      "summary": "• [Industry Update] Opus Stalks the Frontier, Jev Classifies Everything, Running Two Models in One Agent — This recap surfaced across 1 independent source(s).\n• [Product Release] Microsoft thinks its new Copilot ‘super app’ will be as influential as Office — This product release surfaced across 1 independent source(s).\n• [Product Release] Sony and UMG are suing Suno again — This product release surfaced across 1 independent source(s).",
-      "featured_topics": 3,
-      "source_items": 28,
-      "topic_summary": 3,
-      "source_section_counts": {
-        "official": 8,
-        "market-signals": 0,
-        "analysis": 8,
-        "papers": 0,
-        "github": 6,
-        "industry": 6
-      },
-      "route": "/hot/2026-09-26/",
+      "route": "/hot/2026-09-27/",
       "paper_routes": {
         "home": "../../",
         "day": null,
@@ -294,18 +30,18 @@
   "months": [
     {
       "month": "2026-09",
-      "days": 12,
-      "featured_topics": 36,
-      "source_items": 392,
+      "days": 1,
+      "featured_topics": 3,
+      "source_items": 22,
       "route": "/hot/2026-09/"
     }
   ],
   "years": [
     {
       "year": "2026",
-      "days": 12,
-      "featured_topics": 36,
-      "source_items": 392,
+      "days": 1,
+      "featured_topics": 3,
+      "source_items": 22,
       "route": "/hot/2026/"
     }
   ]
