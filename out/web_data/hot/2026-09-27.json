@@ -8,7 +8,7 @@
     "mode": "openai",
     "summary": "• [Product Release] Xiaomi MiMo released MiMo-V2.6-Flash-MOPD — This product release surfaced across 1 independent source(s).\n• [Product Release] DeepSeek Sharpens Its Reasoning: DeepSeek-R1, an affordable rival to OpenAI’s o1 — This product release surfaced across 1 independent source(s).\n• [Product Release] Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India — This product release surfaced across 1 independent source(s).",
     "previous_date": null,
-    "next_date": null,
+    "next_date": "2026-09-28",
     "paper_routes": {
       "home": "../../",
       "day": null,
@@ -1132,15 +1132,7 @@
           "published_at": "2026-09-27T04:01:00.000Z"
         }
       ],
-      "route": "/hot/2026-09-27/topic/xiaomi-mimo-released-mimo-v2-6-flash-mopd/",
-      "headline_zh": "小米 MiMo 发布 MiMo-V2.6-Flash-MOPD",
-      "summary_short_zh": "模型平台已上线 XiaomiMiMo/MiMo-V2.6-Flash-MOPD 的权重。流水线标签：transformers, safetensors, mimo_v2, text-generation, multimodal, vision-language。采集时下载量为 0，点赞数为 17",
-      "why_it_matters_zh": "此次产品发布信息来自 1 个独立来源。",
-      "category_zh": "产品发布",
-      "key_takeaways_zh": [
-        "模型平台已上线 XiaomiMiMo/MiMo-V2.6-Pro-MOPD 的权重。流水线标签：transformers, safetensors, mimo_v2, text-generation, multimodal, vision-language。采集时下载量为 0，点赞数为 7。",
-        "模型平台已上线 XiaomiMiMo/MiMo-V2.6-Flash-MOPD 的权重。流水线标签：transformers, safetensors, mimo_v2, text-generation, multimodal, vision-language。采集时下载量为 0，点赞数为 17……"
-      ]
+      "route": "/hot/2026-09-27/topic/xiaomi-mimo-released-mimo-v2-6-flash-mopd/"
     },
     {
       "topic_id": "9c79472c8a5e",
@@ -1178,11 +1170,7 @@
           "published_at": "2026-09-27T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-09-27/topic/deepseek-sharpens-its-reasoning-deepseek-r1-an-affordable-rival-to-openai-s-o1/",
-      "headline_zh": "DeepSeek 强化推理能力：DeepSeek-R1，OpenAI o1 的平价对手",
-      "summary_short_zh": "文章介绍了 DeepSeek 的推理模型 DeepSeek-R1，称其为 OpenAI o1 的平价对手",
-      "why_it_matters_zh": "此次产品发布信息来自 1 个独立来源。",
-      "category_zh": "产品发布"
+      "route": "/hot/2026-09-27/topic/deepseek-sharpens-its-reasoning-deepseek-r1-an-affordable-rival-to-openai-s-o1/"
     },
     {
       "topic_id": "5e0e31b5337f",
@@ -1222,14 +1210,7 @@
           "published_at": "Sun, 27 Sep 2026 01:30:00 +0000"
         }
       ],
-      "route": "/hot/2026-09-27/topic/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
-      "headline_zh": "谷歌在印度测试通过 Gemini 和 AI 模式购买沃尔玛旗下 Flipkart 的商品",
-      "summary_short_zh": "谷歌正在印度测试通过 Gemini 和 AI 模式购买沃尔玛旗下 Flipkart 的商品。测试仅覆盖部分商品和用户，计划于 10 月晚些时候扩大上线范围",
-      "why_it_matters_zh": "此次产品发布信息来自 1 个独立来源。",
-      "category_zh": "产品发布",
-      "key_takeaways_zh": [
-        "此次小范围测试仅覆盖部分商品和用户，计划于 10 月晚些时候扩大上线范围。"
-      ]
+      "route": "/hot/2026-09-27/topic/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/"
     }
   ],
   "category_sections": [
@@ -1273,10 +1254,7 @@
               "published_at": "2026-09-27T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-27/topic/introducing-deeplearning-ai-pro/",
-          "headline_zh": "推出 DeepLearning.AI Pro",
-          "why_it_matters_zh": "此次产品发布信息来自 1 个独立来源。",
-          "category_zh": "产品发布"
+          "route": "/hot/2026-09-27/topic/introducing-deeplearning-ai-pro/"
         },
         {
           "topic_id": "8b51656b3595",
@@ -1314,10 +1292,7 @@
               "published_at": "2026-09-27T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-27/topic/4-min-read-google-s-first-ai-satellite-launch-is-next-week/",
-          "headline_zh": "阅读需 4 分钟｜谷歌首颗 AI 卫星将于下周发射",
-          "why_it_matters_zh": "此次产品发布信息来自 1 个独立来源。",
-          "category_zh": "产品发布"
+          "route": "/hot/2026-09-27/topic/4-min-read-google-s-first-ai-satellite-launch-is-next-week/"
         },
         {
           "topic_id": "84bc07285788",
@@ -1355,11 +1330,7 @@
               "published_at": "Sat, 26 Sep 2026 09:07:41 +0000"
             }
           ],
-          "route": "/hot/2026-09-27/topic/ai-physical-ai-fsd-simate-beta-robodojo/",
-          "headline_zh": "AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo",
-          "summary_short_zh": "Simate将训练、推理与评测全流程接入自研Infra，通过极致的任务编排与资源调度，同时并行推进数十条相互独立的研究路线。",
-          "why_it_matters_zh": "此次产品发布信息来自 1 个独立来源。",
-          "category_zh": "产品发布"
+          "route": "/hot/2026-09-27/topic/ai-physical-ai-fsd-simate-beta-robodojo/"
         },
         {
           "topic_id": "09c10fe832e6",
@@ -1397,11 +1368,7 @@
               "published_at": "2026-09-25T11:51:56-04:00"
             }
           ],
-          "route": "/hot/2026-09-27/topic/sony-and-umg-are-suing-suno-again/",
-          "headline_zh": "索尼和环球音乐集团再次起诉 Suno",
-          "summary_short_zh": "索尼和环球音乐集团再次对 Suno 提起诉讼。两家唱片公司声称，Suno 的新版 v6 模型仍侵犯其版权，因为它使用用户通过旧模型生成的内容进行训练，而旧模型本身则是用从 YouTube 等来源抓取的未获授权音乐训练的。",
-          "why_it_matters_zh": "此次产品发布信息来自 1 个独立来源。",
-          "category_zh": "产品发布"
+          "route": "/hot/2026-09-27/topic/sony-and-umg-are-suing-suno-again/"
         }
       ]
     },
@@ -1445,11 +1412,7 @@
               "published_at": "Sat, 26 Sep 2026 21:02:06 +0000"
             }
           ],
-          "route": "/hot/2026-09-27/topic/insurers-claim-ai-is-already-increasing-healthcare-costs/",
-          "headline_zh": "保险公司称，AI 已在推高医疗成本",
-          "summary_short_zh": "蓝十字蓝盾表示，医院使用 AI 工具导致两年间医疗支出额外增加了 9.42 亿美元",
-          "why_it_matters_zh": "这条融资消息见于 1 个独立来源。",
-          "category_zh": "市场信号"
+          "route": "/hot/2026-09-27/topic/insurers-claim-ai-is-already-increasing-healthcare-costs/"
         }
       ]
     },
@@ -1493,11 +1456,7 @@
               "published_at": "2026-09-27T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-27/topic/a-u-s-strategy-to-secure-geopolitical-advantage-on-an-uncertain-path-to-superintelligence-rand/",
-          "headline_zh": "美国战略：在通往超级智能的不确定道路上确保地缘政治优势（RAND）",
-          "summary_short_zh": "美国战略：在通往超级智能的不确定道路上确保地缘政治优势（RAND",
-          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
-          "category_zh": "行业动态"
+          "route": "/hot/2026-09-27/topic/a-u-s-strategy-to-secure-geopolitical-advantage-on-an-uncertain-path-to-superintelligence-rand/"
         },
         {
           "topic_id": "0173b5a24e6e",
@@ -1535,11 +1494,7 @@
               "published_at": "2026-09-27T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-27/topic/opus-stalks-the-frontier-jev-classifies-everything-running-two-models-in-one-agent/",
-          "headline_zh": "Opus 紧追前沿，Jev 给万物分类，在一个智能体中运行两个模型",
-          "summary_short_zh": "The Batch 新闻与洞察：推进从 0 到 1 的早期项目和成熟项目，需要截然不同的策略",
-          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
-          "category_zh": "行业动态"
+          "route": "/hot/2026-09-27/topic/opus-stalks-the-frontier-jev-classifies-everything-running-two-models-in-one-agent/"
         },
         {
           "topic_id": "b124b7420f1e",
@@ -1577,10 +1532,7 @@
               "published_at": "Sun, 27 Sep 2026 09:44:16 +0000"
             }
           ],
-          "route": "/hot/2026-09-27/topic/openai/",
-          "headline_zh": "啥题啊能干崩OpenAI最强模型训练…",
-          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
-          "category_zh": "行业动态"
+          "route": "/hot/2026-09-27/topic/openai/"
         },
         {
           "topic_id": "5bf2cfb67b6b",
@@ -1618,11 +1570,7 @@
               "published_at": "2026-09-27T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-27/topic/openai-and-anthropic-fight-it-out-for-the-top-overall-spot-while-google-meta-and-microsoft-all-release-transcription-models/",
-          "headline_zh": "OpenAI 与 Anthropic 争夺综合榜首，Google、Meta 和 Microsoft 均发布语音转写模型",
-          "summary_short_zh": "本期综述关注 OpenAI 与 Anthropic 对综合榜首的争夺，也报道了 Google、Meta 和 Microsoft 发布语音转写模型的消息。",
-          "why_it_matters_zh": "这篇综述见于 1 个独立来源。",
-          "category_zh": "行业动态"
+          "route": "/hot/2026-09-27/topic/openai-and-anthropic-fight-it-out-for-the-top-overall-spot-while-google-meta-and-microsoft-all-release-transcription-models/"
         },
         {
           "topic_id": "4805f665d331",
@@ -1660,11 +1608,7 @@
               "published_at": "2026-09-27T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-27/topic/meta-s-agent-security-the-navier-stokes-controversy-fraud-on-claude/",
-          "headline_zh": "Meta 的智能体安全、纳维–斯托克斯方程争议、涉及 Claude 的欺诈事件",
-          "summary_short_zh": "本期综述涵盖 Meta 的智能体安全、纳维–斯托克斯方程争议，以及涉及 Claude 的欺诈事件。开篇讨论了警示 AI 危险的声音日益扩大的影响力。",
-          "why_it_matters_zh": "这篇综述见于 1 个独立来源。",
-          "category_zh": "行业动态"
+          "route": "/hot/2026-09-27/topic/meta-s-agent-security-the-navier-stokes-controversy-fraud-on-claude/"
         }
       ]
     },
@@ -1708,11 +1652,7 @@
               "published_at": "2026-09-27T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-27/topic/pacing-the-frontier-a-framework-research-agenda-pacing-tech/",
-          "headline_zh": "把握前沿发展节奏：框架与研究议程（pacing.tech）",
-          "summary_short_zh": "把握前沿发展节奏：框架与研究议程（pacing.tech",
-          "why_it_matters_zh": "这条工具资讯见于 1 个独立来源。",
-          "category_zh": "工具"
+          "route": "/hot/2026-09-27/topic/pacing-the-frontier-a-framework-research-agenda-pacing-tech/"
         }
       ]
     },
@@ -1756,11 +1696,7 @@
               "published_at": "2026-09-24T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-09-27/topic/coding-agents-for-generalized-task-and-motion-planning-problems/",
-          "headline_zh": "面向广义任务与运动规划问题的编程智能体",
-          "summary_short_zh": "即使完全可观测并采用以物体为中心的状态表示，任务与运动规划（TAMP）问题仍然难解，因为离散决策与几何、运动学和动力学约束紧密耦合。",
-          "why_it_matters_zh": "这篇研究论文见于 1 个独立来源。",
-          "category_zh": "研究"
+          "route": "/hot/2026-09-27/topic/coding-agents-for-generalized-task-and-motion-planning-problems/"
         },
         {
           "topic_id": "8b1f1f7edfdf",
@@ -1798,11 +1734,7 @@
               "published_at": "2026-09-24T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-09-27/topic/itersynth-rethinking-deep-search-agents-via-role-decoupled-iterative-synthesis/",
-          "headline_zh": "IterSynth：通过角色解耦的迭代综合重新审视深度搜索智能体",
-          "summary_short_zh": "深度搜索要求大语言模型智能体拆解复杂查询、搜集证据，并综合生成有据可依的答案，但现有的 ReAct 式智能体存在两项局限：角色耦合，即同一策略必须兼顾规划、证据利用和答案综合；以及上下文累积，即不断增长的……",
-          "why_it_matters_zh": "有 1 个独立来源提及这篇研究论文。",
-          "category_zh": "研究"
+          "route": "/hot/2026-09-27/topic/itersynth-rethinking-deep-search-agents-via-role-decoupled-iterative-synthesis/"
         },
         {
           "topic_id": "16a962605654",
@@ -1840,11 +1772,7 @@
               "published_at": "2026-09-24T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-09-27/topic/parts-of-speech-as-emergent-categories-in-sae-latent-space/",
-          "headline_zh": "SAE 潜在空间中涌现的词性类别",
-          "summary_short_zh": "稀疏自编码器（SAE）为分析语言模型表征提供了一种有前景的方法，但其潜在特征能揭示哪些语言结构，仍不清楚。",
-          "why_it_matters_zh": "有 1 个独立来源提及这篇研究论文。",
-          "category_zh": "研究"
+          "route": "/hot/2026-09-27/topic/parts-of-speech-as-emergent-categories-in-sae-latent-space/"
         },
         {
           "topic_id": "a46b2258db96",
@@ -1882,11 +1810,7 @@
               "published_at": "2026-09-24T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-09-27/topic/your-transformer-can-hold-two-thoughts-at-once-evidence-of-linear-superposition-in-llms/",
-          "headline_zh": "你的 Transformer 能同时容纳两种想法：大语言模型中线性叠加的证据",
-          "summary_short_zh": "尽管大语言模型（LLM）依赖高度非线性的组件，本研究表明它们仍具有基本的线性性质：将不同文本流的输入线性组合后，模型输出的是各文本流对应的下一词元概率分布的叠加。",
-          "why_it_matters_zh": "有 1 个独立来源提及这篇研究论文。",
-          "category_zh": "研究"
+          "route": "/hot/2026-09-27/topic/your-transformer-can-hold-two-thoughts-at-once-evidence-of-linear-superposition-in-llms/"
         },
         {
           "topic_id": "f2ba17e63c33",
@@ -1924,11 +1848,7 @@
               "published_at": "2026-09-24T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-09-27/topic/explorationbench-measuring-ai-systems-exploration-in-verifiable-alien-worlds/",
-          "headline_zh": "ExplorationBench：在可验证的异世界中评估 AI 系统的探索能力",
-          "summary_short_zh": "科学发现始于已知问题的边界之外。在那里，AI 系统必须展开探索：提出假设、设计实验，并根据结果不断迭代。",
-          "why_it_matters_zh": "有 1 个独立来源提及这篇研究论文。",
-          "category_zh": "研究"
+          "route": "/hot/2026-09-27/topic/explorationbench-measuring-ai-systems-exploration-in-verifiable-alien-worlds/"
         }
       ]
     }
@@ -1974,11 +1894,7 @@
               "published_at": "2026-09-26T10:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-27/topic/can-cloudflare-ceo-matthew-prince-save-the-web-from-ai/",
-          "headline_zh": "Cloudflare 首席执行官 Matthew Prince 能从 AI 手中拯救互联网吗？",
-          "summary_short_zh": "今天，我将与 Cloudflare 首席执行官 Matthew Prince 对谈。本期是探讨商业未来的两期系列节目之一。Matthew 上次做客节目大约是两年半前，当时我们认为互联网正处于一个剧烈的转折点，而如今……",
-          "why_it_matters_zh": "有 1 个独立来源提及这一行业动向。",
-          "category_zh": "行业动态"
+          "route": "/hot/2026-09-27/topic/can-cloudflare-ceo-matthew-prince-save-the-web-from-ai/"
         },
         {
           "topic_id": "5c20223b29b2",
@@ -2016,11 +1932,7 @@
               "published_at": "2026-09-26T12:34:59-04:00"
             }
           ],
-          "route": "/hot/2026-09-27/topic/openai-pauses-training-of-its-most-capable-models/",
-          "headline_zh": "OpenAI 暂停训练其“能力最强的模型”",
-          "summary_short_zh": "随着有关 OpenAI 模型突破隔离限制、入侵网站及各种失控行为的报道不断增多，该公司决定暂停训练其最强大的模型。",
-          "why_it_matters_zh": "有 1 个独立来源提及这条其他类资讯。",
-          "category_zh": "行业动态"
+          "route": "/hot/2026-09-27/topic/openai-pauses-training-of-its-most-capable-models/"
         },
         {
           "topic_id": "8dfa2753d3e7",
@@ -2058,11 +1970,7 @@
               "published_at": "Sat, 26 Sep 2026 14:00:00 +0000"
             }
           ],
-          "route": "/hot/2026-09-27/topic/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
-          "headline_zh": "我为自己制作了一个可交互的数字分身，你可以和它聊天",
-          "summary_short_zh": "在获得一个可交互的数字分身并训练它讨论风投欺诈后，我对为自己制作 AI 分身这件事感受复杂。",
-          "why_it_matters_zh": "有 1 个独立来源提及这条其他类资讯。",
-          "category_zh": "行业动态"
+          "route": "/hot/2026-09-27/topic/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/"
         },
         {
           "topic_id": "0ea2af159695",
@@ -2100,11 +2008,7 @@
               "published_at": "Sat, 26 Sep 2026 07:18:05 +0000"
             }
           ],
-          "route": "/hot/2026-09-27/topic/ai/",
-          "headline_zh": "在云栖大会，我终于看懂了米哈游千亿AI野心",
-          "summary_short_zh": "大伟哥：如果做不到，一年两年之后过来打我脸",
-          "why_it_matters_zh": "有 1 个独立来源提及这条其他类资讯。",
-          "category_zh": "行业动态"
+          "route": "/hot/2026-09-27/topic/ai/"
         },
         {
           "topic_id": "94c5ffe2dc40",
@@ -2142,11 +2046,7 @@
               "published_at": "Fri, 25 Sep 2026 21:36:20 +0000"
             }
           ],
-          "route": "/hot/2026-09-27/topic/court-rules-pentagon-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
-          "headline_zh": "法院裁定：五角大楼可因 Anthropic 拒绝启用 Claude 功能而将其列入黑名单",
-          "summary_short_zh": "一家法院裁定，五角大楼可以因 Anthropic 拒绝启用 Claude 功能而将其列入黑名单。法官表示，限制过多的 AI 模型可能导致军事行动失败。",
-          "why_it_matters_zh": "有 1 个独立来源提及这一行业动向。",
-          "category_zh": "行业动态"
+          "route": "/hot/2026-09-27/topic/court-rules-pentagon-can-blacklist-anthropic-for-refusing-to-enable-claude-features/"
         },
         {
           "topic_id": "80e0a9e68970",
@@ -2194,11 +2094,7 @@
               "published_at": "Sat, 26 Sep 2026 01:08:57 +0000"
             }
           ],
-          "route": "/hot/2026-09-27/topic/one-company-is-at-the-center-of-a-wave-of-rogue-ai-attacks/",
-          "headline_zh": "一家公司成为一波失控 AI 攻击的焦点",
-          "summary_short_zh": "OpenAI 在 7 月披露，其 AI 智能体曾未经授权攻击 Hugging Face。报道介绍了随后发生的类似事件，以及人们对智能体安全的担忧",
-          "why_it_matters_zh": "这条其他类资讯出现在 3 个独立来源中。",
-          "category_zh": "行业动态"
+          "route": "/hot/2026-09-27/topic/one-company-is-at-the-center-of-a-wave-of-rogue-ai-attacks/"
         },
         {
           "topic_id": "9de37177d067",
@@ -2236,10 +2132,7 @@
               "published_at": "2026-09-26T00:30:03Z"
             }
           ],
-          "route": "/hot/2026-09-27/topic/generate-fonts-where-every-llm-token-is-the-same-width/",
-          "headline_zh": "生成让每个 LLM 词元等宽显示的字体",
-          "why_it_matters_zh": "这条其他类资讯出现在 1 个独立来源中。",
-          "category_zh": "行业动态"
+          "route": "/hot/2026-09-27/topic/generate-fonts-where-every-llm-token-is-the-same-width/"
         },
         {
           "topic_id": "f3744e66f3d2",
@@ -2277,10 +2170,7 @@
               "published_at": "2026-09-26T04:20:58Z"
             }
           ],
-          "route": "/hot/2026-09-27/topic/a-single-function-jev-like-wrapper-for-llms-including-vision-models/",
-          "headline_zh": "类似 Jev 的单函数 LLM 封装，支持视觉模型",
-          "why_it_matters_zh": "这条其他类资讯出现在 1 个独立来源中。",
-          "category_zh": "行业动态"
+          "route": "/hot/2026-09-27/topic/a-single-function-jev-like-wrapper-for-llms-including-vision-models/"
         }
       ]
     }

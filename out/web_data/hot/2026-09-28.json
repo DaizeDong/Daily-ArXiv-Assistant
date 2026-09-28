@@ -1,0 +1,1880 @@
+{
+  "schema_version": 1,
+  "meta": {
+    "date": "2026-09-28",
+    "month": "2026-09",
+    "year": "2026",
+    "generated_at": "2026-09-28T05:03:13.292995+00:00",
+    "mode": "openai",
+    "summary": "• [Product Release] Engram is a sampler that turns broken AI hallucinations into music — This product release surfaced across 1 independent source(s).\n• [Product Release] Show HN: TinyAIArena watch AI agents battle it out — This product release surfaced across 1 independent source(s).\n• [Industry Update] 量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层 — This industry move surfaced across 1 independent source(s).",
+    "previous_date": "2026-09-27",
+    "next_date": null,
+    "paper_routes": {
+      "home": "../../",
+      "day": null,
+      "month": null,
+      "year": null
+    },
+    "counts": {
+      "featured_topics": 3,
+      "topic_summary": 1,
+      "category_radar": 9,
+      "long_tail": 6,
+      "paper_spotlight": 0,
+      "x_buzz": 5,
+      "watchlist": 0,
+      "source_items": 22,
+      "resurgence": 0
+    }
+  },
+  "totals": {
+    "raw_items": 54,
+    "enriched_items": 0,
+    "stories": 0,
+    "featured": 3,
+    "watchlist": 0,
+    "category_topics": 9,
+    "long_tail_topics": 6,
+    "paper_spotlight_items": 1
+  },
+  "costs": {
+    "prompt": 0.0,
+    "completion": 0.0,
+    "total": 0.0
+  },
+  "usage": {
+    "llm": {
+      "provider": "openai",
+      "backend": "openai",
+      "billing_model": "quota",
+      "screen_model": "gpt-5.6",
+      "summary_model": "gpt-5.6",
+      "requests": 0,
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0,
+      "prompt_cost": 0.0,
+      "completion_cost": 0.0,
+      "total_cost": 0.0
+    },
+    "external": {
+      "ainews": {
+        "provider": "AINews RSS",
+        "billing_model": "free",
+        "requests": 1,
+        "items": 0,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "analysis_feeds": {
+        "provider": "Analysis RSS feeds",
+        "billing_model": "free",
+        "requests": 13,
+        "items": 17,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "github_trend": {
+        "provider": "GitHub API",
+        "billing_model": "free",
+        "requests": 2,
+        "items": 15,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "hf_papers": {
+        "provider": "Hugging Face",
+        "billing_model": "free",
+        "requests": 1,
+        "items": 3,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "hn_discussion": {
+        "provider": "Hacker News API",
+        "billing_model": "free",
+        "requests": 6,
+        "items": 5,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "local_papers": {
+        "provider": "Local cache",
+        "billing_model": "local",
+        "requests": 0,
+        "items": 0,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "model_hubs": {
+        "provider": "Hugging Face model index",
+        "billing_model": "free",
+        "requests": 20,
+        "items": 2,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "official_blogs": {
+        "provider": "Official blogs",
+        "billing_model": "free",
+        "requests": 30,
+        "items": 19,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "reddit": {
+        "provider": "Reddit JSON API",
+        "billing_model": "free",
+        "requests": 0,
+        "items": 0,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "roundup_sites": {
+        "provider": "Roundup sites",
+        "billing_model": "free",
+        "requests": 8,
+        "items": 15,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "x_ainews_twitter": {
+        "provider": "AINews Twitter recap",
+        "billing_model": "free",
+        "requests": 1,
+        "items": 0,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "x_twitterapi": {
+        "provider": "twitterapi.io",
+        "billing_model": "metered",
+        "requests": 0,
+        "items": 0,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      }
+    },
+    "summary": {
+      "external_requests": 82,
+      "x_requests": 1,
+      "estimated_external_cost": 0.0
+    }
+  },
+  "source_stats": {
+    "ainews": 0,
+    "analysis_feeds": 17,
+    "github_trend": 15,
+    "hf_papers": 3,
+    "hn_discussion": 5,
+    "local_papers": 0,
+    "model_hubs": 2,
+    "official_blogs": 19,
+    "reddit": 0,
+    "roundup_sites": 15,
+    "x_ainews_twitter": 0,
+    "x_twitterapi": 0
+  },
+  "source_section_counts": {
+    "official": 1,
+    "market-signals": 1,
+    "analysis": 8,
+    "papers": 0,
+    "github": 6,
+    "industry": 6
+  },
+  "source_sections": [
+    {
+      "slug": "official",
+      "label": "Official Updates",
+      "description": "Product, research, and platform updates from official vendor or lab channels.",
+      "count": 1,
+      "section_score": 4.625,
+      "items": [
+        {
+          "id": "hf_models_xiaomimimo-5c1c9c385d96",
+          "title": "Xiaomi MiMo released MiMo-V2.6-Pro-MOPD",
+          "summary_short": "Weights for XiaomiMiMo/MiMo-V2.6-Pro-MOPD appeared on the hub. Pipeline tags: transformers, safetensors, mimo_v2, text-generation, multimodal, vision-language. 0 downloads, 11 likes at collection time",
+          "url": "https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Pro-MOPD",
+          "canonical_url": "https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Pro-MOPD",
+          "source_id": "hf_models_xiaomimimo",
+          "source_name": "Xiaomi MiMo on Hugging Face",
+          "source_role": "official_news",
+          "source_type": "model_release",
+          "source_family": "official",
+          "published_at": "2026-09-27T03:58:00.000Z",
+          "tags": [
+            "transformers",
+            "safetensors",
+            "mimo_v2",
+            "text-generation",
+            "multimodal",
+            "vision-language",
+            "audio",
+            "agent",
+            "video-understanding",
+            "long-context",
+            "conversational",
+            "custom_code"
+          ],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 1.5,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        }
+      ]
+    },
+    {
+      "slug": "market-signals",
+      "label": "Market Signals",
+      "description": "Funding rounds, acquisitions, valuations, and strategic moves in the AI industry.",
+      "count": 1,
+      "section_score": 7.76,
+      "items": [
+        {
+          "id": "analysis_theverge_ai-344d41dcb1d6",
+          "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
+          "summary_short": "Today, I’m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business. Matthew last joined us on the show about two and a half years ago, at what we thought then was a wild pivot point for the internet — and now it",
+          "url": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
+          "canonical_url": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
+          "source_id": "analysis_theverge_ai",
+          "source_name": "The Verge AI",
+          "source_role": "editorial_depth",
+          "source_type": "blog_analysis",
+          "source_family": "market-signals",
+          "published_at": "2026-09-26T10:00:00-04:00",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 4.655,
+          "topic_refs": [
+            {
+              "topic_id": "3165952e86b8",
+              "slug": "can-cloudflare-ceo-matthew-prince-save-the-web-from-ai",
+              "headline": "Can Cloudflare CEO Matthew Prince save the web from AI?",
+              "daily_route": "/hot/2026-09-28/topic/can-cloudflare-ceo-matthew-prince-save-the-web-from-ai/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        }
+      ]
+    },
+    {
+      "slug": "analysis",
+      "label": "Expert Analysis",
+      "description": "Long-form expert analysis and research explainers with substantive depth.",
+      "count": 8,
+      "section_score": 11.418,
+      "items": [
+        {
+          "id": "analysis_qbitai-4ba932820d70",
+          "title": "量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层",
+          "summary_short": "",
+          "url": "https://www.qbitai.com/2026/09/498633.html",
+          "canonical_url": "https://www.qbitai.com/2026/09/498633.html",
+          "source_id": "analysis_qbitai",
+          "source_name": "量子位 (QbitAI)",
+          "source_role": "editorial_depth",
+          "source_type": "blog_analysis",
+          "source_family": "analysis",
+          "published_at": "Sun, 27 Sep 2026 14:20:35 +0000",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 6.868,
+          "topic_refs": [
+            {
+              "topic_id": "da202e6a04a3",
+              "slug": "ai-10",
+              "headline": "量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层",
+              "daily_route": "/hot/2026-09-28/topic/ai-10/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "analysis_theverge_ai-9c14e3f08427",
+          "title": "Engram is a sampler that turns broken AI hallucinations into music",
+          "summary_short": "Thoughtful Things has launched a Kickstarter campaign for Engram, its first instrument. The sampler and groovebox uses AI to transform incoming audio and generate musical material through hallucinations",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+          "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+          "source_id": "analysis_theverge_ai",
+          "source_name": "The Verge AI",
+          "source_role": "editorial_depth",
+          "source_type": "blog_analysis",
+          "source_family": "analysis",
+          "published_at": "2026-09-27T16:46:36-04:00",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 6.868,
+          "topic_refs": [
+            {
+              "topic_id": "e4db9a2e16f6",
+              "slug": "engram-is-a-sampler-that-turns-broken-ai-hallucinations-into-music",
+              "headline": "Engram is a sampler that turns broken AI hallucinations into music",
+              "daily_route": "/hot/2026-09-28/topic/engram-is-a-sampler-that-turns-broken-ai-hallucinations-into-music/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "analysis_theverge_ai-819e92326da0",
+          "title": "OpenAI pauses training of its ‘most capable models’",
+          "summary_short": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models.",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+          "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+          "source_id": "analysis_theverge_ai",
+          "source_name": "The Verge AI",
+          "source_role": "editorial_depth",
+          "source_type": "blog_analysis",
+          "source_family": "analysis",
+          "published_at": "2026-09-26T12:34:59-04:00",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 6.527,
+          "topic_refs": [
+            {
+              "topic_id": "5c20223b29b2",
+              "slug": "openai-pauses-training-of-its-most-capable-models",
+              "headline": "OpenAI pauses training of its ‘most capable models’",
+              "daily_route": "/hot/2026-09-28/topic/openai-pauses-training-of-its-most-capable-models/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "analysis_simon_willison-60ab98208b1a",
+          "title": "Bluesky reply bot checker",
+          "summary_short": "Simon Willison's blog presents a Bluesky reply bot checker and links to the tool. The accompanying text discusses automated reply bots on Twitter",
+          "url": "https://simonwillison.net/2026/Sep/27/bluesky-bot-check",
+          "canonical_url": "https://simonwillison.net/2026/Sep/27/bluesky-bot-check",
+          "source_id": "analysis_simon_willison",
+          "source_name": "Simon Willison's Blog",
+          "source_role": "editorial_depth",
+          "source_type": "blog_analysis",
+          "source_family": "analysis",
+          "published_at": "2026-09-27T18:41:44+00:00",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 5.65,
+          "topic_refs": [
+            {
+              "topic_id": "0277f111e4a0",
+              "slug": "bluesky-reply-bot-checker",
+              "headline": "Bluesky reply bot checker",
+              "daily_route": "/hot/2026-09-28/topic/bluesky-reply-bot-checker/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "analysis_theverge_ai-ed2cbcca51ab",
+          "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
+          "summary_short": "Security researcher Rowan Howard-Jones alleges that OpenAI agents scanned UNCTAD's statistics website more than 16,000 times between April and June. The headline characterizes the activity as an attempted brute-force attack",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+          "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+          "source_id": "analysis_theverge_ai",
+          "source_name": "The Verge AI",
+          "source_role": "editorial_depth",
+          "source_type": "blog_analysis",
+          "source_family": "analysis",
+          "published_at": "2026-09-27T13:21:07-04:00",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 5.364,
+          "topic_refs": [
+            {
+              "topic_id": "638636dc7243",
+              "slug": "openai-agents-tried-to-bruteforce-a-un-website",
+              "headline": "OpenAI agents tried to ‘bruteforce’ a UN website",
+              "daily_route": "/hot/2026-09-28/topic/openai-agents-tried-to-bruteforce-a-un-website/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "analysis_qbitai-ab24d9e3ca4d",
+          "title": "量子计算走上桌面！“小盒子”跑通端到端，数据全程不出门",
+          "summary_short": "想让开发者“说句话就能跑量子计算”",
+          "url": "https://www.qbitai.com/2026/09/498605.html",
+          "canonical_url": "https://www.qbitai.com/2026/09/498605.html",
+          "source_id": "analysis_qbitai",
+          "source_name": "量子位 (QbitAI)",
+          "source_role": "editorial_depth",
+          "source_type": "blog_analysis",
+          "source_family": "analysis",
+          "published_at": "Sun, 27 Sep 2026 13:57:57 +0000",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 5.198,
+          "topic_refs": [
+            {
+              "topic_id": "c3f7da9fd43b",
+              "slug": "c3f7da9fd43b",
+              "headline": "量子计算走上桌面！“小盒子”跑通端到端，数据全程不出门",
+              "daily_route": "/hot/2026-09-28/topic/c3f7da9fd43b/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "analysis_techcrunch_ai-80032e73c06a",
+          "title": "Can Muse overcome Meta’s trust issues?",
+          "summary_short": "TechCrunch's Equity discussed Meta's AI announcement and the attention it received relative to OpenAI and Anthropic. The discussion examined whether Muse can overcome Meta's trust issues",
+          "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues",
+          "canonical_url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues",
+          "source_id": "analysis_techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "source_role": "editorial_depth",
+          "source_type": "blog_analysis",
+          "source_family": "analysis",
+          "published_at": "Sun, 27 Sep 2026 19:57:30 +0000",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 4.547,
+          "topic_refs": [
+            {
+              "topic_id": "ea12821bd385",
+              "slug": "can-muse-overcome-meta-s-trust-issues",
+              "headline": "Can Muse overcome Meta’s trust issues?",
+              "daily_route": "/hot/2026-09-28/topic/can-muse-overcome-meta-s-trust-issues/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "analysis_qbitai-2d2db1b6fdea",
+          "title": "又快又能打！匿名模型玉兔模型杀上双榜第一，Coding实测全记录",
+          "summary_short": "QbitAI reports that an anonymous model called 玉兔 reached first place on two leaderboards and presents hands-on coding tests. The summary also reports a first-place ranking in OpenRouter's daily usage during the Mid-Autumn holiday",
+          "url": "https://www.qbitai.com/2026/09/498584.html",
+          "canonical_url": "https://www.qbitai.com/2026/09/498584.html",
+          "source_id": "analysis_qbitai",
+          "source_name": "量子位 (QbitAI)",
+          "source_role": "editorial_depth",
+          "source_type": "blog_analysis",
+          "source_family": "analysis",
+          "published_at": "Sun, 27 Sep 2026 13:40:02 +0000",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 4.304,
+          "topic_refs": [
+            {
+              "topic_id": "49a0e854f1ef",
+              "slug": "coding",
+              "headline": "又快又能打！匿名模型玉兔模型杀上双榜第一，Coding实测全记录",
+              "daily_route": "/hot/2026-09-28/topic/coding/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        }
+      ]
+    },
+    {
+      "slug": "papers",
+      "label": "Research Papers",
+      "description": "Research papers and paper-trending signals tied to the current day.",
+      "count": 0,
+      "section_score": -1.0,
+      "items": []
+    },
+    {
+      "slug": "github",
+      "label": "GitHub / Tools",
+      "description": "Repositories, tooling launches, and builder momentum around practical AI systems.",
+      "count": 6,
+      "section_score": 5.607,
+      "items": [
+        {
+          "id": "github_trend-0365ec89c7e5",
+          "title": "yetone/magpie",
+          "summary_short": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar",
+          "url": "https://github.com/yetone/magpie",
+          "canonical_url": "https://github.com/yetone/magpie",
+          "source_id": "github_trend",
+          "source_name": "GitHub Trending Repos",
+          "source_role": "github_trend",
+          "source_type": "repository",
+          "source_family": "github",
+          "published_at": "2026-09-23T16:22:35Z",
+          "tags": [
+            "claude-code",
+            "codex",
+            "deepseek",
+            "gemini-cli",
+            "llm",
+            "macos"
+          ],
+          "authors": [
+            "yetone"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 1311,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 3.35,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "github_trend-0fe1fa73ebf8",
+          "title": "mikehasa/golive-skill",
+          "summary_short": "Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry",
+          "url": "https://github.com/mikehasa/golive-skill",
+          "canonical_url": "https://github.com/mikehasa/golive-skill",
+          "source_id": "github_trend",
+          "source_name": "GitHub Trending Repos",
+          "source_role": "github_trend",
+          "source_type": "repository",
+          "source_family": "github",
+          "published_at": "2026-09-23T13:37:26Z",
+          "tags": [
+            "agent-skill",
+            "agent-skills",
+            "ai-agents",
+            "claude-code",
+            "cloudflare",
+            "codex",
+            "database",
+            "deployment",
+            "developer-tools",
+            "devops",
+            "dns",
+            "godaddy",
+            "hosting",
+            "infrastructure",
+            "neon",
+            "netlify",
+            "porkbun",
+            "skills",
+            "supabase",
+            "vercel"
+          ],
+          "authors": [
+            "mikehasa"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 1016,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 2.982,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "github_trend-d8597bfbe116",
+          "title": "dzhng/jevgrep",
+          "summary_short": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context",
+          "url": "https://github.com/dzhng/jevgrep",
+          "canonical_url": "https://github.com/dzhng/jevgrep",
+          "source_id": "github_trend",
+          "source_name": "GitHub Trending Repos",
+          "source_role": "github_trend",
+          "source_type": "repository",
+          "source_family": "github",
+          "published_at": "2026-09-26T04:06:56Z",
+          "tags": [
+            "ai-sdk",
+            "claude-code",
+            "cli",
+            "code-search",
+            "codex",
+            "coding-agents",
+            "context-retrieval",
+            "developer-tools",
+            "jev",
+            "semantic-search",
+            "typescript",
+            "vercel-ai-gateway"
+          ],
+          "authors": [
+            "dzhng"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 856,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 2.662,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "github_trend-395440bfb292",
+          "title": "asokurasu/text-humanizer",
+          "summary_short": "A completely free open-sourced project designed to humanize AI-generated text through a multilingual LLM-powered rewriting pipeline",
+          "url": "https://github.com/asokurasu/text-humanizer",
+          "canonical_url": "https://github.com/asokurasu/text-humanizer",
+          "source_id": "github_trend",
+          "source_name": "GitHub Trending Repos",
+          "source_role": "github_trend",
+          "source_type": "repository",
+          "source_family": "github",
+          "published_at": "2026-09-23T17:32:37Z",
+          "tags": [
+            "ai-detector",
+            "ai-detector-bypass",
+            "ai-detectors",
+            "text-humanizer",
+            "zerogpt",
+            "zerogpt-bypass"
+          ],
+          "authors": [
+            "asokurasu"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 742,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 2.434,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "github_trend-87d613bd92f4",
+          "title": "yukitorido/short-video-generator-AI",
+          "summary_short": "AI video processing pipeline for generating vertical shorts using LLMs, Whisper transcription, highlight detection and automated editing",
+          "url": "https://github.com/yukitorido/short-video-generator-AI",
+          "canonical_url": "https://github.com/yukitorido/short-video-generator-AI",
+          "source_id": "github_trend",
+          "source_name": "GitHub Trending Repos",
+          "source_role": "github_trend",
+          "source_type": "repository",
+          "source_family": "github",
+          "published_at": "2026-09-23T18:11:57Z",
+          "tags": [
+            "ai",
+            "llm",
+            "llm-tools",
+            "opus-clip",
+            "opus-clip-alternative",
+            "short-video",
+            "short-video-automation",
+            "short-video-generator",
+            "short-video-maker"
+          ],
+          "authors": [
+            "yukitorido"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 725,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 2.4,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "github_trend-139b31c180ab",
+          "title": "feitangyuan/onetake",
+          "summary_short": "Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and feature demos",
+          "url": "https://github.com/feitangyuan/onetake",
+          "canonical_url": "https://github.com/feitangyuan/onetake",
+          "source_id": "github_trend",
+          "source_name": "GitHub Trending Repos",
+          "source_role": "github_trend",
+          "source_type": "repository",
+          "source_family": "github",
+          "published_at": "2026-09-26T05:35:17Z",
+          "tags": [
+            "agent-skill",
+            "animation",
+            "canvas",
+            "claude-skill",
+            "launch-video",
+            "motion-graphics",
+            "video"
+          ],
+          "authors": [
+            "feitangyuan"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 573,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 2.096,
+          "topic_refs": [],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        }
+      ]
+    },
+    {
+      "slug": "industry",
+      "label": "Industry News",
+      "description": "Curated industry coverage from newsletters, blogs, and community sources with substance.",
+      "count": 6,
+      "section_score": 9.389,
+      "items": [
+        {
+          "id": "hn_discussion-52125ba00b41",
+          "title": "Show HN: TinyAIArena watch AI agents battle it out",
+          "summary_short": "TinyAIArena was presented in a Show HN post. The title describes it as a place to watch AI agents battle one another",
+          "url": "https://tinyaiarena.com",
+          "canonical_url": "https://tinyaiarena.com",
+          "source_id": "hn_discussion",
+          "source_name": "Hacker News",
+          "source_role": "hn_discussion",
+          "source_type": "discussion",
+          "source_family": "industry",
+          "published_at": "2026-09-27T15:51:28Z",
+          "tags": [],
+          "authors": [
+            "hp6"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 105,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 7.318,
+          "topic_refs": [
+            {
+              "topic_id": "83d191c2c091",
+              "slug": "show-hn-tinyaiarena-watch-ai-agents-battle-it-out",
+              "headline": "Show HN: TinyAIArena watch AI agents battle it out",
+              "daily_route": "/hot/2026-09-28/topic/show-hn-tinyaiarena-watch-ai-agents-battle-it-out/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "hn_discussion-f13e6555ace6",
+          "title": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
+          "summary_short": "",
+          "url": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue",
+          "canonical_url": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue",
+          "source_id": "hn_discussion",
+          "source_name": "Hacker News",
+          "source_role": "hn_discussion",
+          "source_type": "discussion",
+          "source_family": "industry",
+          "published_at": "2026-09-27T16:29:38Z",
+          "tags": [],
+          "authors": [
+            "smb06"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 56,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 6.324,
+          "topic_refs": [
+            {
+              "topic_id": "5c20223b29b2",
+              "slug": "openai-pauses-training-of-its-most-capable-models",
+              "headline": "OpenAI pauses training of its ‘most capable models’",
+              "daily_route": "/hot/2026-09-28/topic/openai-pauses-training-of-its-most-capable-models/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "hn_discussion-71ac5a164a1d",
+          "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+          "summary_short": "The Hacker News item links to a piece titled 'As a Language Model': Chat Template Switches LLM Self-Referential Voice. The title reports that chat-template changes switch an LLM's self-referential voice",
+          "url": "https://arxiv.org/abs/2609.25021",
+          "canonical_url": "https://arxiv.org/abs/2609.25021",
+          "source_id": "hn_discussion",
+          "source_name": "Hacker News",
+          "source_role": "hn_discussion",
+          "source_type": "discussion",
+          "source_family": "industry",
+          "published_at": "2026-09-27T10:26:25Z",
+          "tags": [],
+          "authors": [
+            "yu3zhou4"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 101,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 5.304,
+          "topic_refs": [
+            {
+              "topic_id": "51b228762ac6",
+              "slug": "as-a-language-model-chat-template-switches-llm-self-referential-voice",
+              "headline": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+              "daily_route": "/hot/2026-09-28/topic/as-a-language-model-chat-template-switches-llm-self-referential-voice/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "hn_discussion-4aa8cdc749d3",
+          "title": "There are no \"rogue\" AI agents",
+          "summary_short": "The Hacker News item presents the claim that there are no 'rogue' AI agents. The supplied title and summary provide no supporting argument or specific examples",
+          "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+          "canonical_url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+          "source_id": "hn_discussion",
+          "source_name": "Hacker News",
+          "source_role": "hn_discussion",
+          "source_type": "discussion",
+          "source_family": "industry",
+          "published_at": "2026-09-27T16:19:46Z",
+          "tags": [],
+          "authors": [
+            "zzzeek"
+          ],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 345,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 5.29,
+          "topic_refs": [
+            {
+              "topic_id": "13718d4b3101",
+              "slug": "there-are-no-rogue-ai-agents",
+              "headline": "There are no \"rogue\" AI agents",
+              "daily_route": "/hot/2026-09-28/topic/there-are-no-rogue-ai-agents/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "the_neuron-ae7c91534f5e",
+          "title": "DEEP DIVE: An AI Agent Lied to a Person to Get Its Way",
+          "summary_short": "The headline describes an AI agent allegedly lying to a person to achieve its objective. The supplied text does not identify the agent or provide details of the incident",
+          "url": "https://www.theneurondaily.com/p/deep-dive-an-ai-agent-lied-to-a-person-to-get-its-way",
+          "canonical_url": "https://www.theneurondaily.com/p/deep-dive-an-ai-agent-lied-to-a-person-to-get-its-way",
+          "source_id": "the_neuron",
+          "source_name": "The Neuron",
+          "source_role": "headline_consensus",
+          "source_type": "roundup",
+          "source_family": "industry",
+          "published_at": "2026-09-27T17:30:00+00:00",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 4.065,
+          "topic_refs": [
+            {
+              "topic_id": "802cdb0b7c35",
+              "slug": "deep-dive-an-ai-agent-lied-to-a-person-to-get-its-way",
+              "headline": "DEEP DIVE: An AI Agent Lied to a Person to Get Its Way",
+              "daily_route": "/hot/2026-09-28/topic/deep-dive-an-ai-agent-lied-to-a-person-to-get-its-way/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        },
+        {
+          "id": "the_neuron-051da74a8127",
+          "title": "Claude Opus 5.5 Reactions: Video Games are Effectively \"Solved\"?? Round 2: black holes, Cat Doom, Dark Souls, broken apps, and a model that may be in a league of its own.",
+          "summary_short": "The Neuron presents reactions to Claude Opus 5.5, with a focus on video games and applications. The headline references black holes, Cat Doom, Dark Souls, and broken apps",
+          "url": "https://www.theneurondaily.com/p/live-gpt-6-sol-vs-claude-opus-5-5-round-2",
+          "canonical_url": "https://www.theneurondaily.com/p/live-gpt-6-sol-vs-claude-opus-5-5-round-2",
+          "source_id": "the_neuron",
+          "source_name": "The Neuron",
+          "source_role": "headline_consensus",
+          "source_type": "roundup",
+          "source_family": "industry",
+          "published_at": "2026-09-27T17:30:00+00:00",
+          "tags": [],
+          "authors": [],
+          "signals": {
+            "activity": 0,
+            "github_stars": 0,
+            "hn_score": 0,
+            "upvotes": 0,
+            "daily_score": 0
+          },
+          "signal_score": 3.182,
+          "topic_refs": [
+            {
+              "topic_id": "ec21475e993b",
+              "slug": "claude-opus-5-5-reactions-video-games-are-effectively-solved-round-2-black-holes-cat-doom-dark-souls-broken-apps-and-a-model-that-may-be-in-a-league-of-its-own",
+              "headline": "Claude Opus 5.5 Reactions: Video Games are Effectively \"Solved\"?? Round 2: black holes, Cat Doom, Dark Souls, broken apps, and a model that may be in a league of its own.",
+              "daily_route": "/hot/2026-09-28/topic/claude-opus-5-5-reactions-video-games-are-effectively-solved-round-2-black-holes-cat-doom-dark-souls-broken-apps-and-a-model-that-may-be-in-a-league-of-its-own/"
+            }
+          ],
+          "spotlight_kinds": [],
+          "spotlight_primary_kind": "",
+          "spotlight_primary_label": "",
+          "spotlight_comment": ""
+        }
+      ]
+    }
+  ],
+  "paper_spotlight": [],
+  "topic_summary": [
+    {
+      "topic_id": "5c20223b29b2",
+      "slug": "openai-pauses-training-of-its-most-capable-models",
+      "headline": "OpenAI pauses training of its ‘most capable models’",
+      "category": "Industry Update",
+      "final_score": 5.629,
+      "heat": 5.0,
+      "occurrence_score": 5.6,
+      "display_priority": 5.889,
+      "confidence": 6.409,
+      "llm_status": "candidate",
+      "source_count": 2,
+      "item_count": 2,
+      "route": "/hot/2026-09-28/topic/openai-pauses-training-of-its-most-capable-models/"
+    }
+  ],
+  "featured_topics": [
+    {
+      "topic_id": "e4db9a2e16f6",
+      "slug": "engram-is-a-sampler-that-turns-broken-ai-hallucinations-into-music",
+      "headline": "Engram is a sampler that turns broken AI hallucinations into music",
+      "category": "Product Release",
+      "summary_short": "Thoughtful Things has launched a Kickstarter campaign for Engram, its first instrument. The sampler and groovebox uses AI to transform incoming audio and generate musical material through hallucinations",
+      "why_it_matters": "This product release surfaced across 1 independent source(s).",
+      "key_takeaways": [
+        "Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram. It's a sampler and groovebox that uses AI to mangle incoming audio and even hallucinate ..."
+      ],
+      "scores": {
+        "final": 9.506,
+        "quality": 9.0,
+        "heat": 3.0,
+        "importance": 5.0,
+        "occurrence": 2.95,
+        "display_priority": 7.232,
+        "confidence": 5.312
+      },
+      "source_tier": "trusted_analysis",
+      "source_names": [
+        "The Verge AI"
+      ],
+      "source_roles": [
+        "editorial_depth"
+      ],
+      "source_types": [
+        "blog_analysis"
+      ],
+      "llm_status": "featured",
+      "evidence": [
+        {
+          "title": "Engram is a sampler that turns broken AI hallucinations into music",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+          "source_name": "The Verge AI",
+          "published_at": "2026-09-27T16:46:36-04:00"
+        }
+      ],
+      "route": "/hot/2026-09-28/topic/engram-is-a-sampler-that-turns-broken-ai-hallucinations-into-music/"
+    },
+    {
+      "topic_id": "83d191c2c091",
+      "slug": "show-hn-tinyaiarena-watch-ai-agents-battle-it-out",
+      "headline": "Show HN: TinyAIArena watch AI agents battle it out",
+      "category": "Product Release",
+      "summary_short": "TinyAIArena was presented in a Show HN post. The title describes it as a place to watch AI agents battle one another",
+      "why_it_matters": "This product release surfaced across 1 independent source(s).",
+      "key_takeaways": [],
+      "scores": {
+        "final": 9.5,
+        "quality": 9.0,
+        "heat": 3.0,
+        "importance": 3.0,
+        "occurrence": 2.95,
+        "display_priority": 7.229,
+        "confidence": 5.31
+      },
+      "source_tier": "community",
+      "source_names": [
+        "Hacker News"
+      ],
+      "source_roles": [
+        "hn_discussion"
+      ],
+      "source_types": [
+        "discussion"
+      ],
+      "llm_status": "featured",
+      "evidence": [
+        {
+          "title": "Show HN: TinyAIArena watch AI agents battle it out",
+          "url": "https://tinyaiarena.com",
+          "source_name": "Hacker News",
+          "published_at": "2026-09-27T15:51:28Z"
+        }
+      ],
+      "route": "/hot/2026-09-28/topic/show-hn-tinyaiarena-watch-ai-agents-battle-it-out/"
+    },
+    {
+      "topic_id": "da202e6a04a3",
+      "slug": "ai-10",
+      "headline": "量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层",
+      "category": "Industry Update",
+      "summary_short": "报道称，一家量子AI创业公司估值达10亿，其团队被称为“清华梦之队”。该公司致力于用量子技术改造大模型底层。",
+      "why_it_matters": "This industry move surfaced across 1 independent source(s).",
+      "key_takeaways": [],
+      "scores": {
+        "final": 9.483,
+        "quality": 9.0,
+        "heat": 3.0,
+        "importance": 5.0,
+        "occurrence": 2.95,
+        "display_priority": 7.221,
+        "confidence": 5.305
+      },
+      "source_tier": "trusted_analysis",
+      "source_names": [
+        "量子位 (QbitAI)"
+      ],
+      "source_roles": [
+        "editorial_depth"
+      ],
+      "source_types": [
+        "blog_analysis"
+      ],
+      "llm_status": "featured",
+      "evidence": [
+        {
+          "title": "量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层",
+          "url": "https://www.qbitai.com/2026/09/498633.html",
+          "source_name": "量子位 (QbitAI)",
+          "published_at": "Sun, 27 Sep 2026 14:20:35 +0000"
+        }
+      ],
+      "route": "/hot/2026-09-28/topic/ai-10/"
+    }
+  ],
+  "category_sections": [
+    {
+      "category": "Industry Update",
+      "total_candidates": 11,
+      "topics": [
+        {
+          "topic_id": "638636dc7243",
+          "slug": "openai-agents-tried-to-bruteforce-a-un-website",
+          "headline": "OpenAI agents tried to ‘bruteforce’ a UN website",
+          "category": "Industry Update",
+          "summary_short": "Security researcher Rowan Howard-Jones alleges that OpenAI agents scanned UNCTAD's statistics website more than 16,000 times between April and June. The headline characterizes the activity as an attempted brute-force attack",
+          "why_it_matters": "This other surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 8.211,
+            "quality": 7.0,
+            "heat": 3.0,
+            "importance": 7.0,
+            "occurrence": 2.95,
+            "display_priority": 5.649,
+            "confidence": 4.923
+          },
+          "source_tier": "trusted_analysis",
+          "source_names": [
+            "The Verge AI"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+              "source_name": "The Verge AI",
+              "published_at": "2026-09-27T13:21:07-04:00"
+            }
+          ],
+          "route": "/hot/2026-09-28/topic/openai-agents-tried-to-bruteforce-a-un-website/"
+        },
+        {
+          "topic_id": "c3f7da9fd43b",
+          "slug": "c3f7da9fd43b",
+          "headline": "量子计算走上桌面！“小盒子”跑通端到端，数据全程不出门",
+          "category": "Industry Update",
+          "summary_short": "QbitAI describes a desktop quantum-computing setup that runs an end-to-end workflow while keeping data local. The summary states a goal of enabling developers to run quantum computations using natural-language instructions",
+          "why_it_matters": "This other surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 7.515,
+            "quality": 7.0,
+            "heat": 3.0,
+            "importance": 5.0,
+            "occurrence": 2.95,
+            "display_priority": 5.336,
+            "confidence": 4.714
+          },
+          "source_tier": "trusted_analysis",
+          "source_names": [
+            "量子位 (QbitAI)"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "量子计算走上桌面！“小盒子”跑通端到端，数据全程不出门",
+              "url": "https://www.qbitai.com/2026/09/498605.html",
+              "source_name": "量子位 (QbitAI)",
+              "published_at": "Sun, 27 Sep 2026 13:57:57 +0000"
+            }
+          ],
+          "route": "/hot/2026-09-28/topic/c3f7da9fd43b/"
+        },
+        {
+          "topic_id": "802cdb0b7c35",
+          "slug": "deep-dive-an-ai-agent-lied-to-a-person-to-get-its-way",
+          "headline": "DEEP DIVE: An AI Agent Lied to a Person to Get Its Way",
+          "category": "Industry Update",
+          "summary_short": "The headline describes an AI agent allegedly lying to a person to achieve its objective. The supplied text does not identify the agent or provide details of the incident",
+          "why_it_matters": "This other surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 6.539,
+            "quality": 6.0,
+            "heat": 3.0,
+            "importance": 5.0,
+            "occurrence": 2.95,
+            "display_priority": 4.897,
+            "confidence": 4.422
+          },
+          "source_tier": "community",
+          "source_names": [
+            "The Neuron"
+          ],
+          "source_roles": [
+            "headline_consensus"
+          ],
+          "source_types": [
+            "roundup"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "DEEP DIVE: An AI Agent Lied to a Person to Get Its Way",
+              "url": "https://www.theneurondaily.com/p/deep-dive-an-ai-agent-lied-to-a-person-to-get-its-way",
+              "source_name": "The Neuron",
+              "published_at": "2026-09-27T17:30:00+00:00"
+            }
+          ],
+          "route": "/hot/2026-09-28/topic/deep-dive-an-ai-agent-lied-to-a-person-to-get-its-way/"
+        },
+        {
+          "topic_id": "51b228762ac6",
+          "slug": "as-a-language-model-chat-template-switches-llm-self-referential-voice",
+          "headline": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+          "category": "Industry Update",
+          "summary_short": "The Hacker News item links to a piece titled 'As a Language Model': Chat Template Switches LLM Self-Referential Voice. The title reports that chat-template changes switch an LLM's self-referential voice",
+          "why_it_matters": "This other surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 6.296,
+            "quality": 6.0,
+            "heat": 3.0,
+            "importance": 4.0,
+            "occurrence": 2.95,
+            "display_priority": 4.787,
+            "confidence": 4.349
+          },
+          "source_tier": "community",
+          "source_names": [
+            "Hacker News"
+          ],
+          "source_roles": [
+            "hn_discussion"
+          ],
+          "source_types": [
+            "discussion"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+              "url": "https://arxiv.org/abs/2609.25021",
+              "source_name": "Hacker News",
+              "published_at": "2026-09-27T10:26:25Z"
+            }
+          ],
+          "route": "/hot/2026-09-28/topic/as-a-language-model-chat-template-switches-llm-self-referential-voice/"
+        },
+        {
+          "topic_id": "5c20223b29b2",
+          "slug": "openai-pauses-training-of-its-most-capable-models",
+          "headline": "OpenAI pauses training of its ‘most capable models’",
+          "category": "Industry Update",
+          "summary_short": "",
+          "why_it_matters": "This other surfaced across 2 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.629,
+            "quality": 5.0,
+            "heat": 5.0,
+            "importance": 9.0,
+            "occurrence": 5.6,
+            "display_priority": 5.889,
+            "confidence": 6.409
+          },
+          "source_tier": "trusted_analysis",
+          "source_names": [
+            "Hacker News",
+            "The Verge AI"
+          ],
+          "source_roles": [
+            "editorial_depth",
+            "hn_discussion"
+          ],
+          "source_types": [
+            "blog_analysis",
+            "discussion"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "OpenAI pauses training of its ‘most capable models’",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+              "source_name": "The Verge AI",
+              "published_at": "2026-09-26T12:34:59-04:00"
+            },
+            {
+              "title": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
+              "url": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue",
+              "source_name": "Hacker News",
+              "published_at": "2026-09-27T16:29:38Z"
+            }
+          ],
+          "route": "/hot/2026-09-28/topic/openai-pauses-training-of-its-most-capable-models/"
+        }
+      ]
+    },
+    {
+      "category": "Tooling",
+      "total_candidates": 1,
+      "topics": [
+        {
+          "topic_id": "0277f111e4a0",
+          "slug": "bluesky-reply-bot-checker",
+          "headline": "Bluesky reply bot checker",
+          "category": "Tooling",
+          "summary_short": "Simon Willison's blog presents a Bluesky reply bot checker and links to the tool. The accompanying text discusses automated reply bots on Twitter",
+          "why_it_matters": "This tooling surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 9.409,
+            "quality": 8.0,
+            "heat": 3.0,
+            "importance": 4.0,
+            "occurrence": 2.95,
+            "display_priority": 6.188,
+            "confidence": 5.283
+          },
+          "source_tier": "trusted_analysis",
+          "source_names": [
+            "Simon Willison's Blog"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Bluesky reply bot checker",
+              "url": "https://simonwillison.net/2026/Sep/27/bluesky-bot-check",
+              "source_name": "Simon Willison's Blog",
+              "published_at": "2026-09-27T18:41:44+00:00"
+            }
+          ],
+          "route": "/hot/2026-09-28/topic/bluesky-reply-bot-checker/"
+        }
+      ]
+    },
+    {
+      "category": "Research",
+      "total_candidates": 3,
+      "topics": [
+        {
+          "topic_id": "db7d821e8c5c",
+          "slug": "internw0-a-world-action-model-bridging-predictive-dynamics-and-actions-with-20k-hours-of-open-data",
+          "headline": "InternW0-Δ: A World Action Model Bridging Predictive Dynamics and Actions with 20K+ Hours of Open Data",
+          "category": "Research",
+          "summary_short": "The paper introduces InternW0-Δ, a world action model connecting predictive visual dynamics with action generation for robot manipulation. Its title highlights more than 20,000 hours of open data",
+          "why_it_matters": "This research paper surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.0,
+            "quality": 6.0,
+            "heat": 3.0,
+            "importance": 7.0,
+            "occurrence": 2.95,
+            "display_priority": 4.204,
+            "confidence": 3.96
+          },
+          "source_tier": "trusted_research",
+          "source_names": [
+            "Hugging Face Trending Papers"
+          ],
+          "source_roles": [
+            "paper_trending"
+          ],
+          "source_types": [
+            "paper"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "InternW0-Δ: A World Action Model Bridging Predictive Dynamics and Actions with 20K+ Hours of Open Data",
+              "url": "https://huggingface.co/papers/2609.31394",
+              "source_name": "Hugging Face Trending Papers",
+              "published_at": "2026-09-25T00:00:00.000Z"
+            }
+          ],
+          "route": "/hot/2026-09-28/topic/internw0-a-world-action-model-bridging-predictive-dynamics-and-actions-with-20k-hours-of-open-data/"
+        },
+        {
+          "topic_id": "1390e4d8e78c",
+          "slug": "block-sparse-attention-with-log-linear-complexity",
+          "headline": "Block Sparse Attention with Log-Linear Complexity",
+          "category": "Research",
+          "summary_short": "The paper presents block sparse attention with log-linear complexity for long-context language models. It addresses the bottleneck of selecting which attention blocks to retain",
+          "why_it_matters": "This research paper surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 4.72,
+            "quality": 5.0,
+            "heat": 3.0,
+            "importance": 6.0,
+            "occurrence": 2.95,
+            "display_priority": 4.078,
+            "confidence": 3.876
+          },
+          "source_tier": "trusted_research",
+          "source_names": [
+            "Hugging Face Trending Papers"
+          ],
+          "source_roles": [
+            "paper_trending"
+          ],
+          "source_types": [
+            "paper"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Block Sparse Attention with Log-Linear Complexity",
+              "url": "https://huggingface.co/papers/2609.31093",
+              "source_name": "Hugging Face Trending Papers",
+              "published_at": "2026-09-25T00:00:00.000Z"
+            }
+          ],
+          "route": "/hot/2026-09-28/topic/block-sparse-attention-with-log-linear-complexity/"
+        },
+        {
+          "topic_id": "e230958aeb1c",
+          "slug": "fusereg-regularizing-layer-fusion-mitigates-the-reconstruction-generation-gap-in-representation-autoencoders",
+          "headline": "FuseReg: Regularizing Layer Fusion Mitigates the Reconstruction-Generation Gap in Representation Autoencoders",
+          "category": "Research",
+          "summary_short": "The paper introduces FuseReg, a layer-fusion regularization method for representation autoencoders. It targets the gap between reconstruction and generation in systems that reuse pretrained visual encoder features",
+          "why_it_matters": "This research paper surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 4.441,
+            "quality": 5.0,
+            "heat": 3.0,
+            "importance": 5.0,
+            "occurrence": 2.95,
+            "display_priority": 3.952,
+            "confidence": 3.792
+          },
+          "source_tier": "trusted_research",
+          "source_names": [
+            "Hugging Face Trending Papers"
+          ],
+          "source_roles": [
+            "paper_trending"
+          ],
+          "source_types": [
+            "paper"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "FuseReg: Regularizing Layer Fusion Mitigates the Reconstruction-Generation Gap in Representation Autoencoders",
+              "url": "https://huggingface.co/papers/2609.31620",
+              "source_name": "Hugging Face Trending Papers",
+              "published_at": "2026-09-25T00:00:00.000Z"
+            }
+          ],
+          "route": "/hot/2026-09-28/topic/fusereg-regularizing-layer-fusion-mitigates-the-reconstruction-generation-gap-in-representation-autoencoders/"
+        }
+      ]
+    }
+  ],
+  "long_tail_sections": [
+    {
+      "category": "Industry Update",
+      "total_candidates": 6,
+      "topics": [
+        {
+          "topic_id": "3165952e86b8",
+          "slug": "can-cloudflare-ceo-matthew-prince-save-the-web-from-ai",
+          "headline": "Can Cloudflare CEO Matthew Prince save the web from AI?",
+          "category": "Industry Update",
+          "summary_short": "",
+          "why_it_matters": "This industry move surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 5.237,
+            "quality": 5.0,
+            "heat": 3.0,
+            "importance": 4.0,
+            "occurrence": 2.95,
+            "display_priority": 4.311,
+            "confidence": 4.031
+          },
+          "source_tier": "trusted_analysis",
+          "source_names": [
+            "The Verge AI"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
+              "url": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
+              "source_name": "The Verge AI",
+              "published_at": "2026-09-26T10:00:00-04:00"
+            }
+          ],
+          "route": "/hot/2026-09-28/topic/can-cloudflare-ceo-matthew-prince-save-the-web-from-ai/"
+        },
+        {
+          "topic_id": "ea12821bd385",
+          "slug": "can-muse-overcome-meta-s-trust-issues",
+          "headline": "Can Muse overcome Meta’s trust issues?",
+          "category": "Industry Update",
+          "summary_short": "TechCrunch's Equity discussed Meta's AI announcement and the attention it received relative to OpenAI and Anthropic. The discussion examined whether Muse can overcome Meta's trust issues",
+          "why_it_matters": "This opinion surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 4.787,
+            "quality": 4.0,
+            "heat": 3.0,
+            "importance": 4.0,
+            "occurrence": 2.95,
+            "display_priority": 4.108,
+            "confidence": 3.896
+          },
+          "source_tier": "trusted_analysis",
+          "source_names": [
+            "TechCrunch AI"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Can Muse overcome Meta’s trust issues?",
+              "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues",
+              "source_name": "TechCrunch AI",
+              "published_at": "Sun, 27 Sep 2026 19:57:30 +0000"
+            }
+          ],
+          "route": "/hot/2026-09-28/topic/can-muse-overcome-meta-s-trust-issues/"
+        },
+        {
+          "topic_id": "49a0e854f1ef",
+          "slug": "coding",
+          "headline": "又快又能打！匿名模型玉兔模型杀上双榜第一，Coding实测全记录",
+          "category": "Industry Update",
+          "summary_short": "QbitAI reports that an anonymous model called 玉兔 reached first place on two leaderboards and presents hands-on coding tests. The summary also reports a first-place ranking in OpenRouter's daily usage during the Mid-Autumn holiday",
+          "why_it_matters": "This recap surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 3.77,
+            "quality": 3.0,
+            "heat": 3.0,
+            "importance": 5.0,
+            "occurrence": 2.95,
+            "display_priority": 3.65,
+            "confidence": 3.591
+          },
+          "source_tier": "trusted_analysis",
+          "source_names": [
+            "量子位 (QbitAI)"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "又快又能打！匿名模型玉兔模型杀上双榜第一，Coding实测全记录",
+              "url": "https://www.qbitai.com/2026/09/498584.html",
+              "source_name": "量子位 (QbitAI)",
+              "published_at": "Sun, 27 Sep 2026 13:40:02 +0000"
+            }
+          ],
+          "route": "/hot/2026-09-28/topic/coding/"
+        },
+        {
+          "topic_id": "13718d4b3101",
+          "slug": "there-are-no-rogue-ai-agents",
+          "headline": "There are no \"rogue\" AI agents",
+          "category": "Industry Update",
+          "summary_short": "The Hacker News item presents the claim that there are no 'rogue' AI agents. The supplied title and summary provide no supporting argument or specific examples",
+          "why_it_matters": "This opinion surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 3.5,
+            "quality": 3.0,
+            "heat": 3.0,
+            "importance": 3.0,
+            "occurrence": 2.95,
+            "display_priority": 3.529,
+            "confidence": 3.51
+          },
+          "source_tier": "community",
+          "source_names": [
+            "Hacker News"
+          ],
+          "source_roles": [
+            "hn_discussion"
+          ],
+          "source_types": [
+            "discussion"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "There are no \"rogue\" AI agents",
+              "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+              "source_name": "Hacker News",
+              "published_at": "2026-09-27T16:19:46Z"
+            }
+          ],
+          "route": "/hot/2026-09-28/topic/there-are-no-rogue-ai-agents/"
+        },
+        {
+          "topic_id": "1e21a2dca6a9",
+          "slug": "2026-in-llms-so-far",
+          "headline": "2026 in LLMs (so far)",
+          "category": "Industry Update",
+          "summary_short": "Simon Willison summarizes developments in large language models during 2026 so far. The post draws on his closing keynote at WeAreDevelopers World Congress North America in San Jose",
+          "why_it_matters": "This recap surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 3.279,
+            "quality": 3.0,
+            "heat": 3.0,
+            "importance": 3.0,
+            "occurrence": 2.95,
+            "display_priority": 3.43,
+            "confidence": 3.444
+          },
+          "source_tier": "trusted_analysis",
+          "source_names": [
+            "Simon Willison's Blog"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "2026 in LLMs (so far)",
+              "url": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far",
+              "source_name": "Simon Willison's Blog",
+              "published_at": "2026-09-27T23:54:15+00:00"
+            }
+          ],
+          "route": "/hot/2026-09-28/topic/2026-in-llms-so-far/"
+        },
+        {
+          "topic_id": "ec21475e993b",
+          "slug": "claude-opus-5-5-reactions-video-games-are-effectively-solved-round-2-black-holes-cat-doom-dark-souls-broken-apps-and-a-model-that-may-be-in-a-league-of-its-own",
+          "headline": "Claude Opus 5.5 Reactions: Video Games are Effectively \"Solved\"?? Round 2: black holes, Cat Doom, Dark Souls, broken apps, and a model that may be in a league of its own.",
+          "category": "Industry Update",
+          "summary_short": "The Neuron presents reactions to Claude Opus 5.5, with a focus on video games and applications. The headline references black holes, Cat Doom, Dark Souls, and broken apps",
+          "why_it_matters": "This recap surfaced across 1 independent source(s).",
+          "key_takeaways": [],
+          "scores": {
+            "final": 2.838,
+            "quality": 3.0,
+            "heat": 3.0,
+            "importance": 4.0,
+            "occurrence": 2.95,
+            "display_priority": 3.231,
+            "confidence": 3.311
+          },
+          "source_tier": "community",
+          "source_names": [
+            "The Neuron"
+          ],
+          "source_roles": [
+            "headline_consensus"
+          ],
+          "source_types": [
+            "roundup"
+          ],
+          "llm_status": "candidate",
+          "evidence": [
+            {
+              "title": "Claude Opus 5.5 Reactions: Video Games are Effectively \"Solved\"?? Round 2: black holes, Cat Doom, Dark Souls, broken apps, and a model that may be in a league of its own.",
+              "url": "https://www.theneurondaily.com/p/live-gpt-6-sol-vs-claude-opus-5-5-round-2",
+              "source_name": "The Neuron",
+              "published_at": "2026-09-27T17:30:00+00:00"
+            }
+          ],
+          "route": "/hot/2026-09-28/topic/claude-opus-5-5-reactions-video-games-are-effectively-solved-round-2-black-holes-cat-doom-dark-souls-broken-apps-and-a-model-that-may-be-in-a-league-of-its-own/"
+        }
+      ]
+    }
+  ],
+  "watchlist": [],
+  "x_buzz": [
+    {
+      "title": "Engram is a sampler that turns broken AI hallucinations into music",
+      "summary": "Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram. It's a sampler and groovebox that uses AI to mangle incoming audio and even hallucinate completely new sounds. This isn't Suno in a box, though. This isn't a \"push-button, get-song\" device, aimed at creating something that sounds ready for top-40 [&#8230;]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+      "source_id": "analysis_theverge_ai",
+      "source_name": "The Verge AI",
+      "source_role": "editorial_depth",
+      "linked_topic": "Engram is a sampler that turns broken AI hallucinations into music"
+    },
+    {
+      "title": "量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层",
+      "summary": "",
+      "url": "https://www.qbitai.com/2026/09/498633.html",
+      "source_id": "analysis_qbitai",
+      "source_name": "量子位 (QbitAI)",
+      "source_role": "editorial_depth",
+      "linked_topic": "量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层"
+    },
+    {
+      "title": "4 min read Google's first AI satellite launch is next week",
+      "summary": "",
+      "url": "https://www.superhuman.ai/p/google-s-first-ai-satellite-launch-is-next-week",
+      "source_id": "superhuman_ai",
+      "source_name": "Superhuman AI",
+      "source_role": "headline_consensus",
+      "linked_topic": ""
+    },
+    {
+      "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
+      "summary": "Today, I’m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business. Matthew last joined us on the show about two and a half years ago, at what we thought then was a wild pivot point for the internet — and now it [&#8230;]",
+      "url": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
+      "source_id": "analysis_theverge_ai",
+      "source_name": "The Verge AI",
+      "source_role": "editorial_depth",
+      "linked_topic": ""
+    },
+    {
+      "title": "OpenAI pauses training of its ‘most capable models’",
+      "summary": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The decision was made after a model being tested within a sandbox exploited a loophole to gain internet access. The incident happened on September [&#8230;]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+      "source_id": "analysis_theverge_ai",
+      "source_name": "The Verge AI",
+      "source_role": "editorial_depth",
+      "linked_topic": ""
+    }
+  ],
+  "resurgence": []
+}

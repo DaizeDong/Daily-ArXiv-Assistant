@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "latest_date": "2026-09-27",
+  "latest_date": "2026-09-28",
   "dates": [
     {
       "date": "2026-09-27",
@@ -25,23 +25,47 @@
         "month": null,
         "year": null
       }
+    },
+    {
+      "date": "2026-09-28",
+      "month": "2026-09",
+      "year": "2026",
+      "summary": "• [Product Release] Engram is a sampler that turns broken AI hallucinations into music — This product release surfaced across 1 independent source(s).\n• [Product Release] Show HN: TinyAIArena watch AI agents battle it out — This product release surfaced across 1 independent source(s).\n• [Industry Update] 量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层 — This industry move surfaced across 1 independent source(s).",
+      "featured_topics": 3,
+      "source_items": 22,
+      "topic_summary": 1,
+      "source_section_counts": {
+        "official": 1,
+        "market-signals": 1,
+        "analysis": 8,
+        "papers": 0,
+        "github": 6,
+        "industry": 6
+      },
+      "route": "/hot/2026-09-28/",
+      "paper_routes": {
+        "home": "../../",
+        "day": null,
+        "month": null,
+        "year": null
+      }
     }
   ],
   "months": [
     {
       "month": "2026-09",
-      "days": 1,
-      "featured_topics": 3,
-      "source_items": 22,
+      "days": 2,
+      "featured_topics": 6,
+      "source_items": 44,
       "route": "/hot/2026-09/"
     }
   ],
   "years": [
     {
       "year": "2026",
-      "days": 1,
-      "featured_topics": 3,
-      "source_items": 22,
+      "days": 2,
+      "featured_topics": 6,
+      "source_items": 44,
       "route": "/hot/2026/"
     }
   ]
