@@ -37,7 +37,7 @@ jobs:
   weekly-digest:
     runs-on: [ self-hosted, arxiv-fleet ]
     steps:
-      - name: Decide whether this is really 08:00 in New York
+      - name: Decide whether it is Monday in New York
         id: when
         shell: bash
         run: |
@@ -45,9 +45,12 @@ jobs:
           import datetime, os, zoneinfo
           now = datetime.datetime.now(zoneinfo.ZoneInfo("America/New_York"))
           manual = os.environ["EVENT"] == "workflow_dispatch"
-          # GitHub's scheduler is best effort and routinely fires late, so accept
-          # the whole 08:00 hour rather than the exact minute.
-          ok = manual or now.hour == 8
+          # ANY TIME ON MONDAY, not the 08:00 hour. GitHub starts this account's
+          # scheduled runs four to six hours late (both 2026-09-21 runs began after
+          # 14:00 New York time), so an hour window skipped every run and reported
+          # the skip as success. The two crons can no longer double-post: the
+          # generator exits before writing or posting when this week's digest exists.
+          ok = manual or now.weekday() == 0
           print(f"should_run={'true' if ok else 'false'}")
           print(f"local_time={now.isoformat()}")
           PY
@@ -58,8 +61,8 @@ jobs:
         if: steps.when.outputs.should_run != 'true'
         shell: bash
         run: |
-          echo "Local time is ${{ steps.when.outputs.local_time }}, not 08:00 America/New_York."
-          echo "This is the other half of the DST cron pair. Nothing to do."
+          echo "Local time is ${{ steps.when.outputs.local_time }}, not a Monday in America/New_York."
+          echo "Nothing to do."
 
       - name: Checkout code
         if: steps.when.outputs.should_run == 'true'

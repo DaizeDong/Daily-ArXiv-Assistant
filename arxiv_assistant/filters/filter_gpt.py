@@ -332,6 +332,7 @@ def filter_papers_by_title(
         else:
             print(f"Maximum retries reached, skip retrying")
             print(f"Left {len(invalid_paper_list)} papers failed to be filtered by GPT through title filtering")
+            UNSCORED["title"] += len(invalid_paper_list)
             print(f"Invalid paper titles:")
             for paper in invalid_paper_list:
                 print(f"{paper.title}")
@@ -484,11 +485,23 @@ def filter_papers_by_abstract(
         else:
             print(f"Maximum retries reached, skip retrying")
             print(f"Left {len(invalid_arxiv_ids)} papers failed to be scored by GPT through abstract filtering")
+            UNSCORED["abstract"] += len(invalid_arxiv_ids)
             print(f"Invalid paper titles:")
             for arxiv_id in invalid_arxiv_ids:
                 print(f"{id_paper_mapping[arxiv_id].title}")
 
     return scored_batches, selected_results, filtered_results, total_prompt_cost, total_completion_cost, prompt_tokens, completion_tokens
+
+
+# Papers the model never scored after every retry, per stage, for the run in progress. Both
+# stages used to print the count and carry on, so on 2026-09-24 all 346 papers failed (the
+# gateway answered 403 for the configured model) and the day was published as "0 relevant
+# papers", a green run indistinguishable from a quiet news day.
+UNSCORED = {"title": 0, "abstract": 0}
+
+
+class UnscoredPapersError(RuntimeError):
+    pass
 
 
 def filter_by_gpt(
@@ -500,6 +513,8 @@ def filter_by_gpt(
     postfix_prompt_abstract,
     config,
 ):
+    UNSCORED["title"] = UNSCORED["abstract"] = 0
+    n_input = len(paper_list)
     total_filtered_results = {}
     total_prompt_cost = 0.0
     total_completion_cost = 0.0
@@ -574,6 +589,17 @@ def filter_by_gpt(
     if config["OUTPUT"].getboolean("dump_debug_file"):
         with open(OUTPUT_DEBUG_FILE_FORMAT.format("gpt_paper_batches.json"), "w") as outfile:
             json.dump(scored_batches, outfile, cls=EnhancedJSONEncoder, indent=4)
+
+    unscored = UNSCORED["title"] + UNSCORED["abstract"]
+    try:
+        limit = float(config["SELECTION"].get("max_unscored_fraction", "0.2"))
+    except (KeyError, ValueError, AttributeError):
+        limit = 0.2
+    if n_input and unscored / n_input > limit:
+        raise UnscoredPapersError(
+            f"{unscored} of {n_input} papers were never scored by the model "
+            f"(title {UNSCORED['title']}, abstract {UNSCORED['abstract']}); more than "
+            f"{limit:.0%} unscored is a model outage, not a quiet day, so this run publishes nothing")
 
     print(f"Total cost is ${total_prompt_cost + total_completion_cost}:\n"
           f"({total_prompt_tokens} prompt tokens cost ${total_prompt_cost})\n"
