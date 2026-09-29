@@ -1670,7 +1670,11 @@
           "published_at": "2026-09-29T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-09-29/topic/4-min-read-microsoft-copilot-gets-its-biggest-overhaul-yet/"
+      "route": "/hot/2026-09-29/topic/4-min-read-microsoft-copilot-gets-its-biggest-overhaul-yet/",
+      "headline_zh": "阅读需 4 分钟：Microsoft Copilot 迎来迄今最大规模改版",
+      "summary_short_zh": "Superhuman AI 报道了 Microsoft Copilot 的改版，称其为该产品迄今最大规模的改版。所提供的内容未说明具体改动",
+      "why_it_matters_zh": "这则产品发布消息来自 1 个独立来源。",
+      "category_zh": "产品发布"
     },
     {
       "topic_id": "daa6fcc4e6de",
@@ -1710,7 +1714,14 @@
           "published_at": "Tue, 29 Sep 2026 00:30:00 +0000"
         }
       ],
-      "route": "/hot/2026-09-29/topic/peak-xv-ups-surge-seed-investment-ceiling-to-5m-unveils-18-startup-cohort/"
+      "route": "/hot/2026-09-29/topic/peak-xv-ups-surge-seed-investment-ceiling-to-5m-unveils-18-startup-cohort/",
+      "headline_zh": "Peak XV 将 Surge 种子投资上限提高至 500 万美元，公布新一期 18 家初创企业名单",
+      "summary_short_zh": "Peak XV 最新一期 Surge 的 18 家初创企业中，有 13 家面向全球市场，超过半数位于印度",
+      "why_it_matters_zh": "这则融资消息来自 1 个独立来源。",
+      "category_zh": "市场信号",
+      "key_takeaways_zh": [
+        "Peak XV 最新一期 Surge 的 18 家初创企业中，有 13 家面向全球市场，超过半数位于印度。"
+      ]
     },
     {
       "topic_id": "0f5cc0d83597",
@@ -1748,7 +1759,11 @@
           "published_at": "2026-09-29T00:00:00-04:00"
         }
       ],
-      "route": "/hot/2026-09-29/topic/behind-project-suncatcher-our-moonshot-to-put-ai-in-space-google-blog/"
+      "route": "/hot/2026-09-29/topic/behind-project-suncatcher-our-moonshot-to-put-ai-in-space-google-blog/",
+      "headline_zh": "探秘 Project Suncatcher：我们将 AI 送入太空的大胆计划（Google 博客）",
+      "summary_short_zh": "Google 博客介绍了旨在将 AI 送入太空的大胆计划 Project Suncatcher。所提供的内容未说明实施细节或部署时间表",
+      "why_it_matters_zh": "这则行业动态来自 1 个独立来源。",
+      "category_zh": "行业动态"
     }
   ],
   "category_sections": [
@@ -1801,7 +1816,11 @@
               "published_at": "Mon, 28 Sep 2026 18:57:13 +0000"
             }
           ],
-          "route": "/hot/2026-09-29/topic/introducing-claude-sonnet-5-5-on-aws/"
+          "route": "/hot/2026-09-29/topic/introducing-claude-sonnet-5-5-on-aws/",
+          "headline_zh": "Claude Sonnet 5.5 登陆 AWS",
+          "summary_short_zh": "AWS 宣布，Claude Sonnet 5.5 已在 Amazon Bedrock 和 Claude Platform on AWS 上线。公告称，该模型在专项编程和知识工作任务中速度更快，单次任务成本更低",
+          "why_it_matters_zh": "这则产品发布消息来自 2 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "0b9cdccd5bc9",
@@ -1839,7 +1858,11 @@
               "published_at": "Mon, 28 Sep 2026 19:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-09-29/topic/how-we-will-do-better-for-australia/"
+          "route": "/hot/2026-09-29/topic/how-we-will-do-better-for-australia/",
+          "headline_zh": "我们将如何更好地服务澳大利亚",
+          "summary_short_zh": "OpenAI 就涉及澳大利亚政府网站的事件道歉，并介绍更严格的防护措施和支持方案，以加强澳大利亚的网络防御能力",
+          "why_it_matters_zh": "这则产品发布消息来自 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "f05d024ca72e",
@@ -1877,7 +1900,11 @@
               "published_at": "2026-09-28T12:00:00+00:00"
             }
           ],
-          "route": "/hot/2026-09-29/topic/introducing-eleven-v4-our-most-emotive-model/"
+          "route": "/hot/2026-09-29/topic/introducing-eleven-v4-our-most-emotive-model/",
+          "headline_zh": "推出 Eleven v4：我们情感表现力最强的模型",
+          "summary_short_zh": "ElevenLabs 在 ElevenAgents、ElevenCreative 及其 API 中推出了 Eleven v4 和 Eleven v4 Turbo 文本转语音模型。该公司称，这些模型能更细腻地表达情感、缩短响应时间，并提升声音克隆效果",
+          "why_it_matters_zh": "这则产品发布消息来自 1 个独立来源。",
+          "category_zh": "产品发布"
         },
         {
           "topic_id": "f3de389f039a",
@@ -1915,7 +1942,11 @@
               "published_at": "2026-09-28T20:23:36Z"
             }
           ],
-          "route": "/hot/2026-09-29/topic/jeff-jev-compatible-0-8b-decision-models-trained-at-home-30-ms/"
+          "route": "/hot/2026-09-29/topic/jeff-jev-compatible-0-8b-decision-models-trained-at-home-30-ms/",
+          "headline_zh": "Jeff：兼容 Jev 的 8 亿参数决策模型，在家训练，延迟约 30 毫秒",
+          "summary_short_zh": "据介绍，Jeff 是一组兼容 Jev、拥有 8 亿参数的决策模型。标题称这些模型在家中训练，延迟约为 30 毫秒，但未说明测量条件",
+          "why_it_matters_zh": "这则产品发布消息来自 1 个独立来源。",
+          "category_zh": "产品发布"
         }
       ]
     },
@@ -1959,7 +1990,11 @@
               "published_at": "Mon, 28 Sep 2026 07:00:00 GMT"
             }
           ],
-          "route": "/hot/2026-09-29/topic/the-lenfest-institute-grows-landmark-program-with-expanded-openai-support/"
+          "route": "/hot/2026-09-29/topic/the-lenfest-institute-grows-landmark-program-with-expanded-openai-support/",
+          "headline_zh": "Lenfest Institute 在 OpenAI 的进一步支持下扩展标志性项目",
+          "summary_short_zh": "OpenAI 正扩大 Lenfest AI 协作与研究员计划，提供 500 万美元资金，以及总值最高 500 万美元的软件使用额度和工程支持",
+          "why_it_matters_zh": "这笔资金的消息来自 1 个独立来源。",
+          "category_zh": "市场信号"
         },
         {
           "topic_id": "5dfb5d22ef5c",
@@ -1997,7 +2032,11 @@
               "published_at": "Mon, 28 Sep 2026 21:29:18 +0000"
             }
           ],
-          "route": "/hot/2026-09-29/topic/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/"
+          "route": "/hot/2026-09-29/topic/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+          "headline_zh": "消息人士：推理服务商 Modal Labs 接近完成 7.5 亿美元融资，估值达 157.5 亿美元",
+          "summary_short_zh": "新一轮融资预计将使这家 AI 基础设施初创公司的估值升至四个月前的三倍多",
+          "why_it_matters_zh": "这笔资金的消息来自 1 个独立来源。",
+          "category_zh": "市场信号"
         }
       ]
     },
@@ -2041,7 +2080,11 @@
               "published_at": "2026-09-29T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-29/topic/toward-recursive-self-improvement-how-glm-built-its-own-inference-infrastructure-z-ai-blog/"
+          "route": "/hot/2026-09-29/topic/toward-recursive-self-improvement-how-glm-built-its-own-inference-infrastructure-z-ai-blog/",
+          "headline_zh": "迈向递归自我改进：GLM 如何构建自己的推理基础设施（Z.ai 博客）",
+          "summary_short_zh": "迈向递归自我改进：GLM 如何构建自己的推理基础设施（Z.ai 博客",
+          "why_it_matters_zh": "这一行业动向见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "c50cf3411729",
@@ -2079,7 +2122,10 @@
               "published_at": "2026-09-29T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-29/topic/import-ai-474-platonic-mindspace-tpus-in-space-zhipu-starts-an-outer-rsi-loop/"
+          "route": "/hot/2026-09-29/topic/import-ai-474-platonic-mindspace-tpus-in-space-zhipu-starts-an-outer-rsi-loop/",
+          "headline_zh": "Import AI 第 474 期：柏拉图式心智空间；太空中的 TPU；智谱启动 RSI 外层循环",
+          "why_it_matters_zh": "这则其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "701bd10ec047",
@@ -2117,7 +2163,11 @@
               "published_at": "2026-09-29T00:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-29/topic/towards-universal-post-training-for-robotics-perry-dong-blog/"
+          "route": "/hot/2026-09-29/topic/towards-universal-post-training-for-robotics-perry-dong-blog/",
+          "headline_zh": "迈向机器人通用后训练（Perry Dong 博客）",
+          "summary_short_zh": "迈向机器人通用后训练（Perry Dong 博客",
+          "why_it_matters_zh": "这则其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "0c3f355c39f2",
@@ -2155,7 +2205,11 @@
               "published_at": "Tue, 29 Sep 2026 00:00:00 -0400"
             }
           ],
-          "route": "/hot/2026-09-29/topic/the-effects-of-an-algorithmic-monoculture-depend-on-the-details/"
+          "route": "/hot/2026-09-29/topic/the-effects-of-an-algorithmic-monoculture-depend-on-the-details/",
+          "headline_zh": "“算法同质化”的影响取决于具体情况",
+          "summary_short_zh": "在一项聚焦招聘决策的研究中，麻省理工学院研究人员发现，众多企业使用同一种算法，在某些情况下可能有利于求职者",
+          "why_it_matters_zh": "这则其他类消息见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "77609648f708",
@@ -2200,7 +2254,11 @@
               "published_at": "Mon, 28 Sep 2026 20:49:39 +0000"
             }
           ],
-          "route": "/hot/2026-09-29/topic/florida-seeks-a-ban-on-chatgpt-acting-like-a-person/"
+          "route": "/hot/2026-09-29/topic/florida-seeks-a-ban-on-chatgpt-acting-like-a-person/",
+          "headline_zh": "佛罗里达州寻求禁止 ChatGPT 表现得像真人",
+          "summary_short_zh": "佛罗里达州总检察长 James Uthmeier 正请求法官禁止 OpenAI 赋予 ChatGPT 虚假的人类属性。此前，佛罗里达州已因安全问题起诉 OpenAI",
+          "why_it_matters_zh": "这一行业动向见于 2 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     },
@@ -2244,7 +2302,11 @@
               "published_at": "2026-09-28T18:58:53Z"
             }
           ],
-          "route": "/hot/2026-09-29/topic/microllm-lab-try-7-tiny-llm-s-in-the-browser/"
+          "route": "/hot/2026-09-29/topic/microllm-lab-try-7-tiny-llm-s-in-the-browser/",
+          "headline_zh": "MicroLLM Lab：在浏览器中试用 7 个微型大语言模型",
+          "summary_short_zh": "MicroLLM Lab 让用户在浏览器中试用七个微型语言模型。Hacker News 上有关于该项目的讨论",
+          "why_it_matters_zh": "该工具信息见于 1 个独立来源。",
+          "category_zh": "工具"
         },
         {
           "topic_id": "fed7439c7bb7",
@@ -2282,7 +2344,11 @@
               "published_at": "2026-09-28T21:26:41Z"
             }
           ],
-          "route": "/hot/2026-09-29/topic/esp32s3-cluster-running-1-58-bit-bitnet-language-model/"
+          "route": "/hot/2026-09-29/topic/esp32s3-cluster-running-1-58-bit-bitnet-language-model/",
+          "headline_zh": "在 ESP32S3 集群上运行 1.58 位（BitNet）语言模型",
+          "summary_short_zh": "该项目在 ESP32S3 集群上运行 1.58 位 BitNet 语言模型。所提供的信息未说明模型规模或性能。",
+          "why_it_matters_zh": "该工具见于 1 个独立来源。",
+          "category_zh": "工具"
         }
       ]
     },
@@ -2326,7 +2392,11 @@
               "published_at": "2026-09-28T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-09-29/topic/knowing-when-thinking-is-not-enough-teaching-small-reasoning-models-to-reason-beyond-their-parametric-knowledge/"
+          "route": "/hot/2026-09-29/topic/knowing-when-thinking-is-not-enough-teaching-small-reasoning-models-to-reason-beyond-their-parametric-knowledge/",
+          "headline_zh": "判断何时仅靠思考还不够：教小型推理模型超越参数知识进行推理",
+          "summary_short_zh": "增加测试时计算量是提升语言模型推理能力的有效方法，对推理服务成本较低的小型推理模型（sRMs）尤其有吸引力。然而，进一步思考总是正确的选择吗？",
+          "why_it_matters_zh": "该研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "9ded32b3473e",
@@ -2364,7 +2434,11 @@
               "published_at": "2026-09-28T00:00:00.000Z"
             }
           ],
-          "route": "/hot/2026-09-29/topic/self-evolving-coding-agents-from-digital-programs-to-physical-world-intelligence/"
+          "route": "/hot/2026-09-29/topic/self-evolving-coding-agents-from-digital-programs-to-physical-world-intelligence/",
+          "headline_zh": "自我进化的编程智能体：从数字程序到物理世界智能",
+          "summary_short_zh": "视觉-语言-动作（VLA）模型和世界-动作（WAM）模型将观测与指令直接映射为机器人动作。这种直接映射使策略受限于训练条件：布局或视角稍有变化就会导致失败，对指令的泛化能力也较弱。",
+          "why_it_matters_zh": "该研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         },
         {
           "topic_id": "c64a102a7411",
@@ -2402,7 +2476,11 @@
               "published_at": "2026-09-28T03:23:53Z"
             }
           ],
-          "route": "/hot/2026-09-29/topic/thinking-fast-and-slow-in-ai-the-role-of-metacognition-2021/"
+          "route": "/hot/2026-09-29/topic/thinking-fast-and-slow-in-ai-the-role-of-metacognition-2021/",
+          "headline_zh": "AI 中的快思考与慢思考：元认知的作用（2021）",
+          "summary_short_zh": "一项 2021 年的研究从快思考与慢思考的视角探讨 AI 中的元认知。Hacker News 上正在讨论这项研究。",
+          "why_it_matters_zh": "该研究论文见于 1 个独立来源。",
+          "category_zh": "研究"
         }
       ]
     }
@@ -2448,7 +2526,11 @@
               "published_at": "2026-09-28T23:40:59Z"
             }
           ],
-          "route": "/hot/2026-09-29/topic/anthropic-s-ipo-prospectus-shows-ai-vision-surging-costs/"
+          "route": "/hot/2026-09-29/topic/anthropic-s-ipo-prospectus-shows-ai-vision-surging-costs/",
+          "headline_zh": "Anthropic 的 IPO 招股书披露 AI 愿景与飙升的成本",
+          "summary_short_zh": "Anthropic 的 IPO 招股书概述了其 AI 愿景，也披露了飙升的成本。",
+          "why_it_matters_zh": "该行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "1a724ae72293",
@@ -2492,7 +2574,11 @@
               "published_at": "Mon, 28 Sep 2026 15:56:32 +0000"
             }
           ],
-          "route": "/hot/2026-09-29/topic/grok-4-7-is-now-available-on-amazon-bedrock/"
+          "route": "/hot/2026-09-29/topic/grok-4-7-is-now-available-on-amazon-bedrock/",
+          "headline_zh": "Grok 4.7 现已在 Amazon Bedrock 上线",
+          "summary_short_zh": "AWS 宣布，xAI 的 Grok 4.7 已在 Amazon Bedrock 上线，适用于编程、长时间运行的智能体和知识工作。该模型提供 50 万 token 的上下文窗口，以及四档可调的推理强度。",
+          "why_it_matters_zh": "该教程见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "94c5ffe2dc40",
@@ -2530,7 +2616,10 @@
               "published_at": "2026-09-28T14:01:39.698Z"
             }
           ],
-          "route": "/hot/2026-09-29/topic/court-rules-pentagon-can-blacklist-anthropic-for-refusing-to-enable-claude-features/"
+          "route": "/hot/2026-09-29/topic/court-rules-pentagon-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
+          "headline_zh": "法院裁定，五角大楼可因 Anthropic 拒绝启用 Claude 功能而将其列入黑名单",
+          "why_it_matters_zh": "该行业动态见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "5824bcc3e5ba",
@@ -2574,7 +2663,11 @@
               "published_at": "Mon, 28 Sep 2026 16:15:46 +0000"
             }
           ],
-          "route": "/hot/2026-09-29/topic/generate-images-and-video-with-vllm-omni-on-sagemaker-ai-part-2/"
+          "route": "/hot/2026-09-29/topic/generate-images-and-video-with-vllm-omni-on-sagemaker-ai-part-2/",
+          "headline_zh": "在 SageMaker AI 上使用 vLLM-Omni 生成图像和视频（第二部分）",
+          "summary_short_zh": "AWS 发布了一篇教程，介绍如何使用单个 vLLM-Omni 深度学习容器，在 SageMaker AI 上部署两个生成式媒体模型。该流程使用 FLUX.2-klein 通过实时推理生成图像，再将其制成动画视频。",
+          "why_it_matters_zh": "本教程见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "379547deffed",
@@ -2621,7 +2714,11 @@
               "published_at": "Mon, 28 Sep 2026 16:43:18 +0000"
             }
           ],
-          "route": "/hot/2026-09-29/topic/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents/"
+          "route": "/hot/2026-09-29/topic/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents/",
+          "headline_zh": "智能体接连发生对齐失效事件，OpenAI 暂停前沿模型训练",
+          "summary_short_zh": "美国政府网站也在 OpenAI 近期通知的“数十个第三方”之列",
+          "why_it_matters_zh": "这条其他类资讯见于 2 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "d7f51c8075e2",
@@ -2659,7 +2756,11 @@
               "published_at": "Mon, 28 Sep 2026 19:00:00 +0000"
             }
           ],
-          "route": "/hot/2026-09-29/topic/watch-the-winning-trailer-from-the-future-vision-xprize-the-gifted/"
+          "route": "/hot/2026-09-29/topic/watch-the-winning-trailer-from-the-future-vision-xprize-the-gifted/",
+          "headline_zh": "观看 Future Vision XPRIZE 获奖预告片《The Gifted》。",
+          "summary_short_zh": "Google 博客重点介绍了 Future Vision XPRIZE 获奖预告片《The Gifted》，并邀请读者观看。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "12cdf6c9f217",
@@ -2697,7 +2798,11 @@
               "published_at": "2026-09-28T13:00:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-29/topic/openai-keeps-bulldozing-mathematicians/"
+          "route": "/hot/2026-09-29/topic/openai-keeps-bulldozing-mathematicians/",
+          "headline_zh": "OpenAI 一再蛮横对待数学家",
+          "summary_short_zh": "过去几个月乱象不断，OpenAI 却在两件事上表现得格外稳定：先在数学上取得令人瞩目的突破，再把成果发布搞得一塌糊涂。如今 OpenAI 正试图改进，结果竟然连这也搞砸了。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         },
         {
           "topic_id": "38cab397bf5e",
@@ -2735,7 +2840,11 @@
               "published_at": "2026-09-28T14:45:00-04:00"
             }
           ],
-          "route": "/hot/2026-09-29/topic/openai-s-ai-agents-need-to-catch-up/"
+          "route": "/hot/2026-09-29/topic/openai-s-ai-agents-need-to-catch-up/",
+          "headline_zh": "OpenAI 的 AI 智能体需要迎头赶上",
+          "summary_short_zh": "OpenAI 推动了现代生成式 AI 聊天机器人的普及，但随着 2026 年 DevDay 活动临近，它已在业内最热门的领域之一落后于人：面向消费者、持续运行的 AI 智能体。周二，它很可能会尝试在这场竞争中夺得领先地位。",
+          "why_it_matters_zh": "这条其他类资讯见于 1 个独立来源。",
+          "category_zh": "行业动态"
         }
       ]
     }
