@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "latest_date": "2026-09-28",
+  "latest_date": "2026-09-29",
   "dates": [
     {
       "date": "2026-09-27",
@@ -49,23 +49,47 @@
         "month": null,
         "year": null
       }
+    },
+    {
+      "date": "2026-09-29",
+      "month": "2026-09",
+      "year": "2026",
+      "summary": "• [Product Release] 4 min read Microsoft Copilot gets its biggest overhaul yet — This product release surfaced across 1 independent source(s).\n• [Market Signal] Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort — This funding surfaced across 1 independent source(s).\n• [Industry Update] Behind Project Suncatcher, our moonshot to put AI in space (Google blog) — This industry move surfaced across 1 independent source(s).",
+      "featured_topics": 3,
+      "source_items": 35,
+      "topic_summary": 3,
+      "source_section_counts": {
+        "official": 10,
+        "market-signals": 3,
+        "analysis": 8,
+        "papers": 2,
+        "github": 6,
+        "industry": 6
+      },
+      "route": "/hot/2026-09-29/",
+      "paper_routes": {
+        "home": "../../",
+        "day": null,
+        "month": null,
+        "year": null
+      }
     }
   ],
   "months": [
     {
       "month": "2026-09",
-      "days": 2,
-      "featured_topics": 6,
-      "source_items": 44,
+      "days": 3,
+      "featured_topics": 9,
+      "source_items": 79,
       "route": "/hot/2026-09/"
     }
   ],
   "years": [
     {
       "year": "2026",
-      "days": 2,
-      "featured_topics": 6,
-      "source_items": 44,
+      "days": 3,
+      "featured_topics": 9,
+      "source_items": 79,
       "route": "/hot/2026/"
     }
   ]

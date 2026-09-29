@@ -1,0 +1,2762 @@
+{
+  "date": "2026-09-29",
+  "generated_at": "2026-09-29T05:05:05.502029+00:00",
+  "mode": "openai",
+  "enrichment": {
+    "backend": "openai",
+    "batches": 4,
+    "batches_failed": 0,
+    "batches_llm": 4,
+    "errors": [],
+    "items": 80,
+    "items_heuristic": 43,
+    "items_llm": 37,
+    "llm_ok": true,
+    "mode_requested": "openai",
+    "path": "mixed",
+    "provider": "openai"
+  },
+  "summary": "• [Product Release] 4 min read Microsoft Copilot gets its biggest overhaul yet — This product release surfaced across 1 independent source(s).\n• [Market Signal] Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort — This funding surfaced across 1 independent source(s).\n• [Industry Update] Behind Project Suncatcher, our moonshot to put AI in space (Google blog) — This industry move surfaced across 1 independent source(s).",
+  "source_stats": {
+    "ainews": 0,
+    "analysis_feeds": 25,
+    "github_trend": 15,
+    "hf_papers": 12,
+    "hn_discussion": 9,
+    "local_papers": 0,
+    "model_hubs": 0,
+    "official_blogs": 33,
+    "reddit": 0,
+    "roundup_sites": 17,
+    "x_ainews_twitter": 0,
+    "x_twitterapi": 0
+  },
+  "manifest": {
+    "synthesize_model": "claude-sonnet-5",
+    "synthesize_rejected": [
+      "e98c4aec3bc1",
+      "daa6fcc4e6de",
+      "0f5cc0d83597"
+    ],
+    "synthesize_temperature": 0
+  },
+  "totals": {
+    "raw_items": 89,
+    "enriched_items": 0,
+    "stories": 0,
+    "featured": 3,
+    "watchlist": 0,
+    "category_topics": 16,
+    "long_tail_topics": 8,
+    "paper_spotlight_items": 6
+  },
+  "costs": {
+    "prompt": 0.0,
+    "completion": 0.0,
+    "total": 0.0
+  },
+  "usage": {
+    "llm": {
+      "provider": "openai",
+      "backend": "openai",
+      "billing_model": "quota",
+      "screen_model": "gpt-5.6",
+      "summary_model": "gpt-5.6",
+      "requests": 0,
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0,
+      "prompt_cost": 0.0,
+      "completion_cost": 0.0,
+      "total_cost": 0.0
+    },
+    "external": {
+      "ainews": {
+        "provider": "AINews RSS",
+        "billing_model": "free",
+        "requests": 1,
+        "items": 0,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "analysis_feeds": {
+        "provider": "Analysis RSS feeds",
+        "billing_model": "free",
+        "requests": 13,
+        "items": 25,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "github_trend": {
+        "provider": "GitHub API",
+        "billing_model": "free",
+        "requests": 2,
+        "items": 15,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "hf_papers": {
+        "provider": "Hugging Face",
+        "billing_model": "free",
+        "requests": 1,
+        "items": 12,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "hn_discussion": {
+        "provider": "Hacker News API",
+        "billing_model": "free",
+        "requests": 6,
+        "items": 9,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "local_papers": {
+        "provider": "Local cache",
+        "billing_model": "local",
+        "requests": 0,
+        "items": 0,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "model_hubs": {
+        "provider": "Hugging Face model index",
+        "billing_model": "free",
+        "requests": 20,
+        "items": 0,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "official_blogs": {
+        "provider": "Official blogs",
+        "billing_model": "free",
+        "requests": 30,
+        "items": 33,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "reddit": {
+        "provider": "Reddit JSON API",
+        "billing_model": "free",
+        "requests": 0,
+        "items": 0,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "roundup_sites": {
+        "provider": "Roundup sites",
+        "billing_model": "free",
+        "requests": 8,
+        "items": 17,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "x_ainews_twitter": {
+        "provider": "AINews Twitter recap",
+        "billing_model": "free",
+        "requests": 1,
+        "items": 0,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      },
+      "x_twitterapi": {
+        "provider": "twitterapi.io",
+        "billing_model": "metered",
+        "requests": 0,
+        "items": 0,
+        "estimated_cost": 0.0,
+        "cache_hit": false
+      }
+    },
+    "summary": {
+      "external_requests": 82,
+      "x_requests": 1,
+      "estimated_external_cost": 0.0
+    }
+  },
+  "top_topics": [
+    {
+      "ACTIONABILITY": 2.0,
+      "ARTIFACT_BOOST": 0.5,
+      "CONFIDENCE": 5.46,
+      "CROSS_SOURCE_RESONANCE": 1.5,
+      "DISPLAY_PRIORITY": 7.454,
+      "ENGINEERING_PENALTY": 0.0,
+      "EVIDENCE_STRENGTH": 4.1,
+      "FINAL_SCORE": 10.0,
+      "FRONTIERNESS": 8.0,
+      "HEADLINE": "4 min read Microsoft Copilot gets its biggest overhaul yet",
+      "HEAT": 3,
+      "HYPE_PENALTY": 0.3,
+      "IMPORTANCE": 7,
+      "KEEP_IN_DAILY_HOTSPOTS": true,
+      "KEY_TAKEAWAYS": [],
+      "LLM_STATUS": "featured",
+      "OCCURRENCE_SCORE": 2.95,
+      "PRIMARY_CATEGORY": "Product Release",
+      "QUALITY": 9,
+      "SECONDARY_CATEGORIES": [],
+      "SHORT_COMMENT": "Superhuman AI reports an overhaul of Microsoft Copilot, calling it the product's biggest yet. The supplied item does not identify specific changes.",
+      "SUBSTANCE_PENALTY": 0.0,
+      "TECHNICAL_DEPTH": 7.0,
+      "TOPIC_ID": "e98c4aec3bc1",
+      "WATCHLIST": false,
+      "WHY_IT_MATTERS": "This product release surfaced across 1 independent source(s).",
+      "cluster_id": "e98c4aec3bc1",
+      "event_type": "product_release",
+      "items": [
+        {
+          "authors": [],
+          "canonical_url": "https://www.superhuman.ai/p/microsoft-copilot-gets-its-biggest-overhaul-yet",
+          "metadata": {
+            "roundup_site": "Superhuman AI"
+          },
+          "provenance": "",
+          "published_at": "2026-09-29T00:00:00-04:00",
+          "source_id": "superhuman_ai",
+          "source_name": "Superhuman AI",
+          "source_role": "headline_consensus",
+          "source_type": "roundup",
+          "summary": "",
+          "tags": [],
+          "title": "4 min read Microsoft Copilot gets its biggest overhaul yet",
+          "url": "https://www.superhuman.ai/p/microsoft-copilot-gets-its-biggest-overhaul-yet",
+          "verified_first_date": "2026-09-29T00:00:00-04:00"
+        }
+      ],
+      "published_at": "2026-09-29T00:00:00-04:00",
+      "source_ids": [
+        "superhuman_ai"
+      ],
+      "source_names": [
+        "Superhuman AI"
+      ],
+      "source_roles": [
+        "headline_consensus"
+      ],
+      "source_types": [
+        "roundup"
+      ],
+      "summary": "Superhuman AI reports an overhaul of Microsoft Copilot, calling it the product's biggest yet. The supplied item does not identify specific changes.",
+      "tags": [],
+      "title": "4 min read Microsoft Copilot gets its biggest overhaul yet"
+    },
+    {
+      "ACTIONABILITY": 2.0,
+      "ARTIFACT_BOOST": 0.5,
+      "CONFIDENCE": 5.452,
+      "CROSS_SOURCE_RESONANCE": 1.5,
+      "DISPLAY_PRIORITY": 7.441,
+      "ENGINEERING_PENALTY": 0.0,
+      "EVIDENCE_STRENGTH": 4.1,
+      "FINAL_SCORE": 9.972,
+      "FRONTIERNESS": 7.986,
+      "HEADLINE": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+      "HEAT": 3,
+      "HYPE_PENALTY": 0.3,
+      "IMPORTANCE": 5,
+      "KEEP_IN_DAILY_HOTSPOTS": true,
+      "KEY_TAKEAWAYS": [
+        "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India."
+      ],
+      "LLM_STATUS": "featured",
+      "OCCURRENCE_SCORE": 2.95,
+      "PRIMARY_CATEGORY": "Market Signal",
+      "QUALITY": 9,
+      "SECONDARY_CATEGORIES": [],
+      "SHORT_COMMENT": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.",
+      "SUBSTANCE_PENALTY": 0.0,
+      "TECHNICAL_DEPTH": 6.986,
+      "TOPIC_ID": "daa6fcc4e6de",
+      "WATCHLIST": false,
+      "WHY_IT_MATTERS": "This funding surfaced across 1 independent source(s).",
+      "cluster_id": "daa6fcc4e6de",
+      "event_type": "funding",
+      "items": [
+        {
+          "authors": [],
+          "canonical_url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises",
+          "metadata": {
+            "feed_id": "techcrunch_ai",
+            "feed_source": "https://techcrunch.com/category/artificial-intelligence/feed/",
+            "signal_tier": "trusted_analysis",
+            "source_quality": 1.3
+          },
+          "provenance": "",
+          "published_at": "Tue, 29 Sep 2026 00:30:00 +0000",
+          "source_id": "analysis_techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "source_role": "editorial_depth",
+          "source_type": "blog_analysis",
+          "summary": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+          "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises",
+          "verified_first_date": "Tue, 29 Sep 2026 00:30:00 +0000"
+        }
+      ],
+      "published_at": "Tue, 29 Sep 2026 00:30:00 +0000",
+      "source_ids": [
+        "analysis_techcrunch_ai"
+      ],
+      "source_names": [
+        "TechCrunch AI"
+      ],
+      "source_roles": [
+        "editorial_depth"
+      ],
+      "source_types": [
+        "blog_analysis"
+      ],
+      "summary": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.",
+      "tags": [
+        "analysis",
+        "deep-read"
+      ],
+      "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort"
+    },
+    {
+      "ACTIONABILITY": 2.0,
+      "ARTIFACT_BOOST": 0.0,
+      "CONFIDENCE": 5.382,
+      "CROSS_SOURCE_RESONANCE": 1.5,
+      "DISPLAY_PRIORITY": 7.337,
+      "ENGINEERING_PENALTY": 0.0,
+      "EVIDENCE_STRENGTH": 4.1,
+      "FINAL_SCORE": 9.739,
+      "FRONTIERNESS": 7.87,
+      "HEADLINE": "Behind Project Suncatcher, our moonshot to put AI in space (Google blog)",
+      "HEAT": 3,
+      "HYPE_PENALTY": 0.3,
+      "IMPORTANCE": 6,
+      "KEEP_IN_DAILY_HOTSPOTS": true,
+      "KEY_TAKEAWAYS": [],
+      "LLM_STATUS": "featured",
+      "OCCURRENCE_SCORE": 2.95,
+      "PRIMARY_CATEGORY": "Industry Update",
+      "QUALITY": 9,
+      "SECONDARY_CATEGORIES": [],
+      "SHORT_COMMENT": "Google's blog discusses Project Suncatcher, a moonshot initiative to put AI in space. The provided item offers no implementation details or deployment timeline.",
+      "SUBSTANCE_PENALTY": 0.0,
+      "TECHNICAL_DEPTH": 6.87,
+      "TOPIC_ID": "0f5cc0d83597",
+      "WATCHLIST": false,
+      "WHY_IT_MATTERS": "This industry move surfaced across 1 independent source(s).",
+      "cluster_id": "0f5cc0d83597",
+      "event_type": "industry_move",
+      "items": [
+        {
+          "authors": [],
+          "canonical_url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts",
+          "metadata": {
+            "roundup_site": "Import AI"
+          },
+          "provenance": "",
+          "published_at": "2026-09-29T00:00:00-04:00",
+          "source_id": "import_ai",
+          "source_name": "Import AI",
+          "source_role": "editorial_depth",
+          "source_type": "roundup",
+          "summary": "",
+          "tags": [],
+          "title": "Behind Project Suncatcher, our moonshot to put AI in space (Google blog)",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts",
+          "verified_first_date": "2026-09-29T00:00:00-04:00"
+        }
+      ],
+      "published_at": "2026-09-29T00:00:00-04:00",
+      "source_ids": [
+        "import_ai"
+      ],
+      "source_names": [
+        "Import AI"
+      ],
+      "source_roles": [
+        "editorial_depth"
+      ],
+      "source_types": [
+        "roundup"
+      ],
+      "summary": "Google's blog discusses Project Suncatcher, a moonshot initiative to put AI in space. The provided item offers no implementation details or deployment timeline.",
+      "tags": [],
+      "title": "Behind Project Suncatcher, our moonshot to put AI in space (Google blog)"
+    }
+  ],
+  "featured_topics": [
+    {
+      "ACTIONABILITY": 2.0,
+      "ARTIFACT_BOOST": 0.5,
+      "CONFIDENCE": 5.46,
+      "CROSS_SOURCE_RESONANCE": 1.5,
+      "DISPLAY_PRIORITY": 7.454,
+      "ENGINEERING_PENALTY": 0.0,
+      "EVIDENCE_STRENGTH": 4.1,
+      "FINAL_SCORE": 10.0,
+      "FRONTIERNESS": 8.0,
+      "HEADLINE": "4 min read Microsoft Copilot gets its biggest overhaul yet",
+      "HEAT": 3,
+      "HYPE_PENALTY": 0.3,
+      "IMPORTANCE": 7,
+      "KEEP_IN_DAILY_HOTSPOTS": true,
+      "KEY_TAKEAWAYS": [],
+      "LLM_STATUS": "featured",
+      "OCCURRENCE_SCORE": 2.95,
+      "PRIMARY_CATEGORY": "Product Release",
+      "QUALITY": 9,
+      "SECONDARY_CATEGORIES": [],
+      "SHORT_COMMENT": "Superhuman AI reports an overhaul of Microsoft Copilot, calling it the product's biggest yet. The supplied item does not identify specific changes.",
+      "SUBSTANCE_PENALTY": 0.0,
+      "TECHNICAL_DEPTH": 7.0,
+      "TOPIC_ID": "e98c4aec3bc1",
+      "WATCHLIST": false,
+      "WHY_IT_MATTERS": "This product release surfaced across 1 independent source(s).",
+      "cluster_id": "e98c4aec3bc1",
+      "event_type": "product_release",
+      "items": [
+        {
+          "authors": [],
+          "canonical_url": "https://www.superhuman.ai/p/microsoft-copilot-gets-its-biggest-overhaul-yet",
+          "metadata": {
+            "roundup_site": "Superhuman AI"
+          },
+          "provenance": "",
+          "published_at": "2026-09-29T00:00:00-04:00",
+          "source_id": "superhuman_ai",
+          "source_name": "Superhuman AI",
+          "source_role": "headline_consensus",
+          "source_type": "roundup",
+          "summary": "",
+          "tags": [],
+          "title": "4 min read Microsoft Copilot gets its biggest overhaul yet",
+          "url": "https://www.superhuman.ai/p/microsoft-copilot-gets-its-biggest-overhaul-yet",
+          "verified_first_date": "2026-09-29T00:00:00-04:00"
+        }
+      ],
+      "published_at": "2026-09-29T00:00:00-04:00",
+      "source_ids": [
+        "superhuman_ai"
+      ],
+      "source_names": [
+        "Superhuman AI"
+      ],
+      "source_roles": [
+        "headline_consensus"
+      ],
+      "source_types": [
+        "roundup"
+      ],
+      "summary": "Superhuman AI reports an overhaul of Microsoft Copilot, calling it the product's biggest yet. The supplied item does not identify specific changes.",
+      "tags": [],
+      "title": "4 min read Microsoft Copilot gets its biggest overhaul yet"
+    },
+    {
+      "ACTIONABILITY": 2.0,
+      "ARTIFACT_BOOST": 0.5,
+      "CONFIDENCE": 5.452,
+      "CROSS_SOURCE_RESONANCE": 1.5,
+      "DISPLAY_PRIORITY": 7.441,
+      "ENGINEERING_PENALTY": 0.0,
+      "EVIDENCE_STRENGTH": 4.1,
+      "FINAL_SCORE": 9.972,
+      "FRONTIERNESS": 7.986,
+      "HEADLINE": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+      "HEAT": 3,
+      "HYPE_PENALTY": 0.3,
+      "IMPORTANCE": 5,
+      "KEEP_IN_DAILY_HOTSPOTS": true,
+      "KEY_TAKEAWAYS": [
+        "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India."
+      ],
+      "LLM_STATUS": "featured",
+      "OCCURRENCE_SCORE": 2.95,
+      "PRIMARY_CATEGORY": "Market Signal",
+      "QUALITY": 9,
+      "SECONDARY_CATEGORIES": [],
+      "SHORT_COMMENT": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.",
+      "SUBSTANCE_PENALTY": 0.0,
+      "TECHNICAL_DEPTH": 6.986,
+      "TOPIC_ID": "daa6fcc4e6de",
+      "WATCHLIST": false,
+      "WHY_IT_MATTERS": "This funding surfaced across 1 independent source(s).",
+      "cluster_id": "daa6fcc4e6de",
+      "event_type": "funding",
+      "items": [
+        {
+          "authors": [],
+          "canonical_url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises",
+          "metadata": {
+            "feed_id": "techcrunch_ai",
+            "feed_source": "https://techcrunch.com/category/artificial-intelligence/feed/",
+            "signal_tier": "trusted_analysis",
+            "source_quality": 1.3
+          },
+          "provenance": "",
+          "published_at": "Tue, 29 Sep 2026 00:30:00 +0000",
+          "source_id": "analysis_techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "source_role": "editorial_depth",
+          "source_type": "blog_analysis",
+          "summary": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+          "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises",
+          "verified_first_date": "Tue, 29 Sep 2026 00:30:00 +0000"
+        }
+      ],
+      "published_at": "Tue, 29 Sep 2026 00:30:00 +0000",
+      "source_ids": [
+        "analysis_techcrunch_ai"
+      ],
+      "source_names": [
+        "TechCrunch AI"
+      ],
+      "source_roles": [
+        "editorial_depth"
+      ],
+      "source_types": [
+        "blog_analysis"
+      ],
+      "summary": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.",
+      "tags": [
+        "analysis",
+        "deep-read"
+      ],
+      "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort"
+    },
+    {
+      "ACTIONABILITY": 2.0,
+      "ARTIFACT_BOOST": 0.0,
+      "CONFIDENCE": 5.382,
+      "CROSS_SOURCE_RESONANCE": 1.5,
+      "DISPLAY_PRIORITY": 7.337,
+      "ENGINEERING_PENALTY": 0.0,
+      "EVIDENCE_STRENGTH": 4.1,
+      "FINAL_SCORE": 9.739,
+      "FRONTIERNESS": 7.87,
+      "HEADLINE": "Behind Project Suncatcher, our moonshot to put AI in space (Google blog)",
+      "HEAT": 3,
+      "HYPE_PENALTY": 0.3,
+      "IMPORTANCE": 6,
+      "KEEP_IN_DAILY_HOTSPOTS": true,
+      "KEY_TAKEAWAYS": [],
+      "LLM_STATUS": "featured",
+      "OCCURRENCE_SCORE": 2.95,
+      "PRIMARY_CATEGORY": "Industry Update",
+      "QUALITY": 9,
+      "SECONDARY_CATEGORIES": [],
+      "SHORT_COMMENT": "Google's blog discusses Project Suncatcher, a moonshot initiative to put AI in space. The provided item offers no implementation details or deployment timeline.",
+      "SUBSTANCE_PENALTY": 0.0,
+      "TECHNICAL_DEPTH": 6.87,
+      "TOPIC_ID": "0f5cc0d83597",
+      "WATCHLIST": false,
+      "WHY_IT_MATTERS": "This industry move surfaced across 1 independent source(s).",
+      "cluster_id": "0f5cc0d83597",
+      "event_type": "industry_move",
+      "items": [
+        {
+          "authors": [],
+          "canonical_url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts",
+          "metadata": {
+            "roundup_site": "Import AI"
+          },
+          "provenance": "",
+          "published_at": "2026-09-29T00:00:00-04:00",
+          "source_id": "import_ai",
+          "source_name": "Import AI",
+          "source_role": "editorial_depth",
+          "source_type": "roundup",
+          "summary": "",
+          "tags": [],
+          "title": "Behind Project Suncatcher, our moonshot to put AI in space (Google blog)",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts",
+          "verified_first_date": "2026-09-29T00:00:00-04:00"
+        }
+      ],
+      "published_at": "2026-09-29T00:00:00-04:00",
+      "source_ids": [
+        "import_ai"
+      ],
+      "source_names": [
+        "Import AI"
+      ],
+      "source_roles": [
+        "editorial_depth"
+      ],
+      "source_types": [
+        "roundup"
+      ],
+      "summary": "Google's blog discusses Project Suncatcher, a moonshot initiative to put AI in space. The provided item offers no implementation details or deployment timeline.",
+      "tags": [],
+      "title": "Behind Project Suncatcher, our moonshot to put AI in space (Google blog)"
+    }
+  ],
+  "category_sections": [
+    {
+      "category": "Product Release",
+      "total_candidates": 4,
+      "topics": [
+        {
+          "ACTIONABILITY": 4.0,
+          "ARTIFACT_BOOST": 0.5,
+          "CONFIDENCE": 7.178,
+          "CROSS_SOURCE_RESONANCE": 3.9,
+          "DISPLAY_PRIORITY": 6.084,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 7.7,
+          "FINAL_SCORE": 5.195,
+          "FRONTIERNESS": 7.598,
+          "HEADLINE": "Introducing Claude Sonnet 5.5 on AWS",
+          "HEAT": 5,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 8,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 5.6,
+          "PRIMARY_CATEGORY": "Product Release",
+          "QUALITY": 5,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "AWS announced Claude Sonnet 5.5 availability on Amazon Bedrock and Claude Platform on AWS. The announcement describes faster performance and lower cost per task for focused coding and knowledge work.",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 4.598,
+          "TOPIC_ID": "b12d6171b2be",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This product release surfaced across 2 independent source(s).",
+          "cluster_id": "b12d6171b2be",
+          "event_type": "product_release",
+          "items": [
+            {
+              "authors": [],
+              "canonical_url": "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5",
+              "metadata": {
+                "feed_id": "simon_willison",
+                "feed_source": "https://simonwillison.net/atom/everything",
+                "signal_tier": "trusted_analysis",
+                "source_quality": 1.3
+              },
+              "provenance": "",
+              "published_at": "2026-09-28T22:07:38+00:00",
+              "source_id": "analysis_simon_willison",
+              "source_name": "Simon Willison's Blog",
+              "source_role": "editorial_depth",
+              "source_type": "blog_analysis",
+              "summary": "<p><strong><a href=\"https://www.anthropic.com/claude-sonnet-5-5\">Claude Sonnet 5.5</a></strong></p> New Sonnet model from Anthropic today. They say it \"runs 30%+ faster, and costs up to 30% less for most work\" - it's priced the same as Sonnet 5 but appears to beat it on every benchmark, and should be cheaper to run as well.</p> <p><a href=\"https://tools.simonwillison.net/markdown-svg-renderer?url=https%3A%2F%2Fgist.github.com%2Fsimonw%2F1d85a9be7f3ecce26e7f1569161a0d01\">Here are some pelicans riding bicycles</a>. Sonnet 5.5 suffered from <a href=\"https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/#claude-opus-5-5-max-over-thinks-to-the-point-of-breaking\">the same bug as Opus 5.5</a>: the \"max\" thinking effort pelican thought for 128,000 tokens (at a cost of $1.28) before runnin...",
+              "tags": [
+                "analysis",
+                "deep-read"
+              ],
+              "title": "Claude Sonnet 5.5",
+              "url": "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5",
+              "verified_first_date": "2026-09-28T22:07:38+00:00"
+            },
+            {
+              "authors": [],
+              "canonical_url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-5-on-aws",
+              "metadata": {
+                "is_official": true,
+                "publisher": "AWS AI Blog"
+              },
+              "provenance": "",
+              "published_at": "Mon, 28 Sep 2026 18:57:13 +0000",
+              "source_id": "aws_ai_blog",
+              "source_name": "AWS AI Blog",
+              "source_role": "official_news",
+              "source_type": "official_blog",
+              "summary": "Claude Sonnet 5.5 is now available on Amazon Bedrock and Claude Platform on AWS. It's a smarter, more efficient Sonnet model for focused coding and knowledge work, with a lower cost per task at faster speed. This post covers what's new, when to choose Sonnet, and how to get started.",
+              "tags": [],
+              "title": "Introducing Claude Sonnet 5.5 on AWS",
+              "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-5-on-aws",
+              "verified_first_date": "Mon, 28 Sep 2026 18:57:13 +0000"
+            }
+          ],
+          "published_at": "Mon, 28 Sep 2026 18:57:13 +0000",
+          "source_ids": [
+            "analysis_simon_willison",
+            "aws_ai_blog"
+          ],
+          "source_names": [
+            "AWS AI Blog",
+            "Simon Willison's Blog"
+          ],
+          "source_roles": [
+            "editorial_depth",
+            "official_news"
+          ],
+          "source_types": [
+            "blog_analysis",
+            "official_blog"
+          ],
+          "summary": "AWS announced Claude Sonnet 5.5 availability on Amazon Bedrock and Claude Platform on AWS. The announcement describes faster performance and lower cost per task for focused coding and knowledge work.",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "title": "Introducing Claude Sonnet 5.5 on AWS"
+        },
+        {
+          "ACTIONABILITY": 4.0,
+          "ARTIFACT_BOOST": 0.5,
+          "CONFIDENCE": 4.904,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 4.66,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 5.6,
+          "FINAL_SCORE": 5.147,
+          "FRONTIERNESS": 7.574,
+          "HEADLINE": "How we will do better for Australia",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 10,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Product Release",
+          "QUALITY": 5,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 4.574,
+          "TOPIC_ID": "0b9cdccd5bc9",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This product release surfaced across 1 independent source(s).",
+          "cluster_id": "0b9cdccd5bc9",
+          "event_type": "product_release",
+          "items": [
+            {
+              "authors": [],
+              "canonical_url": "https://openai.com/index/how-we-will-do-better-for-australia",
+              "metadata": {
+                "is_official": true,
+                "publisher": "OpenAI News"
+              },
+              "provenance": "",
+              "published_at": "Mon, 28 Sep 2026 19:00:00 GMT",
+              "source_id": "openai_news",
+              "source_name": "OpenAI News",
+              "source_role": "official_news",
+              "source_type": "official_blog",
+              "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+              "tags": [],
+              "title": "How we will do better for Australia",
+              "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+              "verified_first_date": "Mon, 28 Sep 2026 19:00:00 GMT"
+            }
+          ],
+          "published_at": "Mon, 28 Sep 2026 19:00:00 GMT",
+          "source_ids": [
+            "openai_news"
+          ],
+          "source_names": [
+            "OpenAI News"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "official_blog"
+          ],
+          "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+          "tags": [],
+          "title": "How we will do better for Australia"
+        },
+        {
+          "ACTIONABILITY": 4.0,
+          "ARTIFACT_BOOST": 0.5,
+          "CONFIDENCE": 4.898,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 4.651,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 5.6,
+          "FINAL_SCORE": 5.127,
+          "FRONTIERNESS": 7.563,
+          "HEADLINE": "Introducing Eleven v4, our most emotive model",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 8,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Product Release",
+          "QUALITY": 5,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "ElevenLabs introduced Eleven v4 and Eleven v4 Turbo text-to-speech models across ElevenAgents, ElevenCreative, and its API. The company says the models improve emotional nuance, response times, and voice cloning.",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 4.563,
+          "TOPIC_ID": "f05d024ca72e",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This product release surfaced across 1 independent source(s).",
+          "cluster_id": "f05d024ca72e",
+          "event_type": "product_release",
+          "items": [
+            {
+              "authors": [],
+              "canonical_url": "https://elevenlabs.io/blog/eleven-v4",
+              "metadata": {
+                "is_official": true,
+                "publisher": "ElevenLabs Blog"
+              },
+              "provenance": "",
+              "published_at": "2026-09-28T12:00:00+00:00",
+              "source_id": "elevenlabs_blog",
+              "source_name": "ElevenLabs Blog",
+              "source_role": "official_news",
+              "source_type": "official_blog",
+              "summary": "Eleven v4 and Eleven v4 Turbo bring emotional nuance, faster response times, and stronger voice cloning to text-to-speech — available now across ElevenAgents, ElevenCreative, and the API.",
+              "tags": [],
+              "title": "Introducing Eleven v4, our most emotive model",
+              "url": "https://elevenlabs.io/blog/eleven-v4",
+              "verified_first_date": "2026-09-28T12:00:00+00:00"
+            }
+          ],
+          "published_at": "2026-09-28T12:00:00+00:00",
+          "source_ids": [
+            "elevenlabs_blog"
+          ],
+          "source_names": [
+            "ElevenLabs Blog"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "official_blog"
+          ],
+          "summary": "ElevenLabs introduced Eleven v4 and Eleven v4 Turbo text-to-speech models across ElevenAgents, ElevenCreative, and its API. The company says the models improve emotional nuance, response times, and voice cloning.",
+          "tags": [],
+          "title": "Introducing Eleven v4, our most emotive model"
+        },
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.5,
+          "CONFIDENCE": 3.973,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 4.223,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 5.043,
+          "FRONTIERNESS": 5.521,
+          "HEADLINE": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 5,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Product Release",
+          "QUALITY": 5,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "Jeff is presented as a set of Jev-compatible decision models with 0.8 billion parameters. The title reports home training and approximately 30-millisecond latency without specifying measurement conditions.",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 4.521,
+          "TOPIC_ID": "f3de389f039a",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This product release surfaced across 1 independent source(s).",
+          "cluster_id": "f3de389f039a",
+          "event_type": "product_release",
+          "items": [
+            {
+              "authors": [
+                "firelex"
+              ],
+              "canonical_url": "https://github.com/firelex/jeff",
+              "metadata": {
+                "hn_comments": 152,
+                "hn_id": "49883844",
+                "hn_score": 395,
+                "host": "github.com"
+              },
+              "provenance": "",
+              "published_at": "2026-09-28T20:23:36Z",
+              "source_id": "hn_discussion",
+              "source_name": "Hacker News",
+              "source_role": "hn_discussion",
+              "source_type": "discussion",
+              "summary": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+              "tags": [],
+              "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+              "url": "https://github.com/firelex/jeff",
+              "verified_first_date": "2026-09-28T20:23:36Z"
+            }
+          ],
+          "published_at": "2026-09-28T20:23:36Z",
+          "source_ids": [
+            "hn_discussion"
+          ],
+          "source_names": [
+            "Hacker News"
+          ],
+          "source_roles": [
+            "hn_discussion"
+          ],
+          "source_types": [
+            "discussion"
+          ],
+          "summary": "Jeff is presented as a set of Jev-compatible decision models with 0.8 billion parameters. The title reports home training and approximately 30-millisecond latency without specifying measurement conditions.",
+          "tags": [],
+          "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms"
+        }
+      ]
+    },
+    {
+      "category": "Market Signal",
+      "total_candidates": 2,
+      "topics": [
+        {
+          "ACTIONABILITY": 4.0,
+          "ARTIFACT_BOOST": 0.5,
+          "CONFIDENCE": 4.898,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 4.652,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 5.6,
+          "FINAL_SCORE": 5.128,
+          "FRONTIERNESS": 7.564,
+          "HEADLINE": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 10,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Market Signal",
+          "QUALITY": 5,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 4.564,
+          "TOPIC_ID": "82a9942ecd35",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This funding surfaced across 1 independent source(s).",
+          "cluster_id": "82a9942ecd35",
+          "event_type": "funding",
+          "items": [
+            {
+              "authors": [],
+              "canonical_url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+              "metadata": {
+                "is_official": true,
+                "publisher": "OpenAI News"
+              },
+              "provenance": "",
+              "published_at": "Mon, 28 Sep 2026 07:00:00 GMT",
+              "source_id": "openai_news",
+              "source_name": "OpenAI News",
+              "source_role": "official_news",
+              "source_type": "official_blog",
+              "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
+              "tags": [],
+              "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+              "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+              "verified_first_date": "Mon, 28 Sep 2026 07:00:00 GMT"
+            }
+          ],
+          "published_at": "Mon, 28 Sep 2026 07:00:00 GMT",
+          "source_ids": [
+            "openai_news"
+          ],
+          "source_names": [
+            "OpenAI News"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "official_blog"
+          ],
+          "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
+          "tags": [],
+          "title": "The Lenfest Institute grows landmark program with expanded OpenAI support"
+        },
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.5,
+          "CONFIDENCE": 3.977,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 4.229,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 5.056,
+          "FRONTIERNESS": 5.528,
+          "HEADLINE": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 5,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Market Signal",
+          "QUALITY": 5,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 4.528,
+          "TOPIC_ID": "5dfb5d22ef5c",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This funding surfaced across 1 independent source(s).",
+          "cluster_id": "5dfb5d22ef5c",
+          "event_type": "funding",
+          "items": [
+            {
+              "authors": [],
+              "canonical_url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation",
+              "metadata": {
+                "feed_id": "techcrunch_ai",
+                "feed_source": "https://techcrunch.com/category/artificial-intelligence/feed/",
+                "signal_tier": "trusted_analysis",
+                "source_quality": 1.3
+              },
+              "provenance": "",
+              "published_at": "Mon, 28 Sep 2026 21:29:18 +0000",
+              "source_id": "analysis_techcrunch_ai",
+              "source_name": "TechCrunch AI",
+              "source_role": "editorial_depth",
+              "source_type": "blog_analysis",
+              "summary": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
+              "tags": [
+                "analysis",
+                "deep-read"
+              ],
+              "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+              "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation",
+              "verified_first_date": "Mon, 28 Sep 2026 21:29:18 +0000"
+            }
+          ],
+          "published_at": "Mon, 28 Sep 2026 21:29:18 +0000",
+          "source_ids": [
+            "analysis_techcrunch_ai"
+          ],
+          "source_names": [
+            "TechCrunch AI"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "summary": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation"
+        }
+      ]
+    },
+    {
+      "category": "Industry Update",
+      "total_candidates": 23,
+      "topics": [
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 5.367,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 6.314,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 9.689,
+          "FRONTIERNESS": 7.845,
+          "HEADLINE": "Toward Recursive Self-Improvement: How GLM Built Its Own Inference Infrastructure (Z.ai, blog)",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 5,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Industry Update",
+          "QUALITY": 9,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "Toward Recursive Self-Improvement: How GLM Built Its Own Inference Infrastructure (Z.ai, blog)",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 6.845,
+          "TOPIC_ID": "7d592389b0ec",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This industry move surfaced across 1 independent source(s).",
+          "cluster_id": "7d592389b0ec",
+          "event_type": "industry_move",
+          "items": [
+            {
+              "authors": [],
+              "canonical_url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
+              "metadata": {
+                "roundup_site": "Import AI"
+              },
+              "provenance": "",
+              "published_at": "2026-09-29T00:00:00-04:00",
+              "source_id": "import_ai",
+              "source_name": "Import AI",
+              "source_role": "editorial_depth",
+              "source_type": "roundup",
+              "summary": "",
+              "tags": [],
+              "title": "Toward Recursive Self-Improvement: How GLM Built Its Own Inference Infrastructure (Z.ai, blog)",
+              "url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
+              "verified_first_date": "2026-09-29T00:00:00-04:00"
+            }
+          ],
+          "published_at": "2026-09-29T00:00:00-04:00",
+          "source_ids": [
+            "import_ai"
+          ],
+          "source_names": [
+            "Import AI"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "roundup"
+          ],
+          "summary": "Toward Recursive Self-Improvement: How GLM Built Its Own Inference Infrastructure (Z.ai, blog)",
+          "tags": [],
+          "title": "Toward Recursive Self-Improvement: How GLM Built Its Own Inference Infrastructure (Z.ai, blog)"
+        },
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 5.31,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 6.229,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 9.5,
+          "FRONTIERNESS": 7.75,
+          "HEADLINE": "Import AI 474: Platonic mindspace; TPUs in space; Zhipu starts an outer RSI loop",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 5,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Industry Update",
+          "QUALITY": 9,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "Import AI 474: Platonic mindspace; TPUs in space; Zhipu starts an outer RSI loop",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 6.75,
+          "TOPIC_ID": "c50cf3411729",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This other surfaced across 1 independent source(s).",
+          "cluster_id": "c50cf3411729",
+          "event_type": "other",
+          "items": [
+            {
+              "authors": [],
+              "canonical_url": "https://jack-clark.net/2026/09/28/import-ai-474-platonic-mindspace-tpus-in-space-zhipu-starts-an-outer-rsi-loop",
+              "metadata": {
+                "roundup_site": "Import AI"
+              },
+              "provenance": "",
+              "published_at": "2026-09-29T00:00:00-04:00",
+              "source_id": "import_ai",
+              "source_name": "Import AI",
+              "source_role": "editorial_depth",
+              "source_type": "roundup",
+              "summary": "",
+              "tags": [],
+              "title": "Import AI 474: Platonic mindspace; TPUs in space; Zhipu starts an outer RSI loop",
+              "url": "https://jack-clark.net/2026/09/28/import-ai-474-platonic-mindspace-tpus-in-space-zhipu-starts-an-outer-rsi-loop",
+              "verified_first_date": "2026-09-29T00:00:00-04:00"
+            }
+          ],
+          "published_at": "2026-09-29T00:00:00-04:00",
+          "source_ids": [
+            "import_ai"
+          ],
+          "source_names": [
+            "Import AI"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "roundup"
+          ],
+          "summary": "Import AI 474: Platonic mindspace; TPUs in space; Zhipu starts an outer RSI loop",
+          "tags": [],
+          "title": "Import AI 474: Platonic mindspace; TPUs in space; Zhipu starts an outer RSI loop"
+        },
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 5.31,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 6.229,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 9.5,
+          "FRONTIERNESS": 7.75,
+          "HEADLINE": "Towards Universal Post-Training for Robotics (Perry Dong blog)",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 5,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Industry Update",
+          "QUALITY": 9,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "Towards Universal Post-Training for Robotics (Perry Dong blog)",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 6.75,
+          "TOPIC_ID": "701bd10ec047",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This other surfaced across 1 independent source(s).",
+          "cluster_id": "701bd10ec047",
+          "event_type": "other",
+          "items": [
+            {
+              "authors": [],
+              "canonical_url": "https://pd-perry.github.io/posts/post-training.html",
+              "metadata": {
+                "roundup_site": "Import AI"
+              },
+              "provenance": "",
+              "published_at": "2026-09-29T00:00:00-04:00",
+              "source_id": "import_ai",
+              "source_name": "Import AI",
+              "source_role": "editorial_depth",
+              "source_type": "roundup",
+              "summary": "",
+              "tags": [],
+              "title": "Towards Universal Post-Training for Robotics (Perry Dong blog)",
+              "url": "https://pd-perry.github.io/posts/post-training.html",
+              "verified_first_date": "2026-09-29T00:00:00-04:00"
+            }
+          ],
+          "published_at": "2026-09-29T00:00:00-04:00",
+          "source_ids": [
+            "import_ai"
+          ],
+          "source_names": [
+            "Import AI"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "roundup"
+          ],
+          "summary": "Towards Universal Post-Training for Robotics (Perry Dong blog)",
+          "tags": [],
+          "title": "Towards Universal Post-Training for Robotics (Perry Dong blog)"
+        },
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 5.31,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 6.229,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 9.5,
+          "FRONTIERNESS": 7.75,
+          "HEADLINE": "The effects of an “algorithmic monoculture” depend on the details",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 5,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Industry Update",
+          "QUALITY": 9,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "In a study focusing on hiring decisions, MIT researchers found the use of a single algorithm by many firms could benefit job seekers in certain situations.",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 6.75,
+          "TOPIC_ID": "0c3f355c39f2",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This other surfaced across 1 independent source(s).",
+          "cluster_id": "0c3f355c39f2",
+          "event_type": "other",
+          "items": [
+            {
+              "authors": [],
+              "canonical_url": "https://news.mit.edu/2026/algorithmic-monoculture-effects-depend-on-details-0929",
+              "metadata": {
+                "feed_id": "mit_ai_news",
+                "feed_source": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+                "signal_tier": "trusted_analysis",
+                "source_quality": 1.3
+              },
+              "provenance": "",
+              "published_at": "Tue, 29 Sep 2026 00:00:00 -0400",
+              "source_id": "analysis_mit_ai_news",
+              "source_name": "MIT News AI",
+              "source_role": "editorial_depth",
+              "source_type": "blog_analysis",
+              "summary": "In a study focusing on hiring decisions, MIT researchers found the use of a single algorithm by many firms could benefit job seekers in certain situations.",
+              "tags": [
+                "analysis",
+                "deep-read"
+              ],
+              "title": "The effects of an “algorithmic monoculture” depend on the details",
+              "url": "https://news.mit.edu/2026/algorithmic-monoculture-effects-depend-on-details-0929",
+              "verified_first_date": "Tue, 29 Sep 2026 00:00:00 -0400"
+            }
+          ],
+          "published_at": "Tue, 29 Sep 2026 00:00:00 -0400",
+          "source_ids": [
+            "analysis_mit_ai_news"
+          ],
+          "source_names": [
+            "MIT News AI"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "summary": "In a study focusing on hiring decisions, MIT researchers found the use of a single algorithm by many firms could benefit job seekers in certain situations.",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "title": "The effects of an “algorithmic monoculture” depend on the details"
+        },
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 5.758,
+          "CROSS_SOURCE_RESONANCE": 2.9,
+          "DISPLAY_PRIORITY": 5.149,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 5.4,
+          "FINAL_SCORE": 5.061,
+          "FRONTIERNESS": 5.53,
+          "HEADLINE": "Florida seeks a ban on ChatGPT acting like a person",
+          "HEAT": 4,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 6,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 4.7,
+          "PRIMARY_CATEGORY": "Industry Update",
+          "QUALITY": 5,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "Florida Attorney General James Uthmeier is asking a judge to block OpenAI from giving ChatGPT false human attributes. The request follows Florida's lawsuit against OpenAI over safety concerns.",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 4.53,
+          "TOPIC_ID": "77609648f708",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This industry move surfaced across 2 independent source(s).",
+          "cluster_id": "77609648f708",
+          "event_type": "industry_move",
+          "items": [
+            {
+              "authors": [],
+              "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids",
+              "metadata": {
+                "feed_id": "theverge_ai",
+                "feed_source": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+                "signal_tier": "trusted_analysis",
+                "source_quality": 1.3
+              },
+              "provenance": "",
+              "published_at": "2026-09-28T13:00:23-04:00",
+              "source_id": "analysis_theverge_ai",
+              "source_name": "The Verge AI",
+              "source_role": "editorial_depth",
+              "source_type": "blog_analysis",
+              "summary": "Florida Attorney General James Uthmeier is calling for a judge to block OpenAI from \"giving ChatGPT false human attributes,\" a few months after Florida sued the AI company over safety concerns. According to Uthmeier, users are lulled into a false sense of security by the AI bot, as \"ChatGPT's use of language, including first-person pronouns [&#8230;]",
+              "tags": [
+                "analysis",
+                "deep-read"
+              ],
+              "title": "Florida seeks a ban on ChatGPT acting like a person",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids",
+              "verified_first_date": "2026-09-28T13:00:23-04:00"
+            },
+            {
+              "authors": [],
+              "canonical_url": "https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development",
+              "metadata": {
+                "feed_id": "arstechnica_ai",
+                "feed_source": "https://arstechnica.com/ai/feed/",
+                "signal_tier": "trusted_analysis",
+                "source_quality": 1.3
+              },
+              "provenance": "",
+              "published_at": "Mon, 28 Sep 2026 20:49:39 +0000",
+              "source_id": "analysis_arstechnica_ai",
+              "source_name": "Ars Technica AI",
+              "source_role": "editorial_depth",
+              "source_type": "blog_analysis",
+              "summary": "State says LLMs threaten civilization as \"the greatest public nuisance ever created.\"",
+              "tags": [
+                "analysis",
+                "deep-read"
+              ],
+              "title": "Florida invokes extinction fears in legal bid to halt OpenAI development",
+              "url": "https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development",
+              "verified_first_date": "Mon, 28 Sep 2026 20:49:39 +0000"
+            }
+          ],
+          "published_at": "Mon, 28 Sep 2026 20:49:39 +0000",
+          "source_ids": [
+            "analysis_arstechnica_ai",
+            "analysis_theverge_ai"
+          ],
+          "source_names": [
+            "Ars Technica AI",
+            "The Verge AI"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "summary": "Florida Attorney General James Uthmeier is asking a judge to block OpenAI from giving ChatGPT false human attributes. The request follows Florida's lawsuit against OpenAI over safety concerns.",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "title": "Florida seeks a ban on ChatGPT acting like a person"
+        }
+      ]
+    },
+    {
+      "category": "Tooling",
+      "total_candidates": 2,
+      "topics": [
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 3.964,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 4.209,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 5.012,
+          "FRONTIERNESS": 5.506,
+          "HEADLINE": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 5,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Tooling",
+          "QUALITY": 5,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "MicroLLM Lab lets users try seven tiny language models in a browser. The project is featured in a Hacker News discussion.",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 4.506,
+          "TOPIC_ID": "d24830445caf",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This tooling surfaced across 1 independent source(s).",
+          "cluster_id": "d24830445caf",
+          "event_type": "tooling",
+          "items": [
+            {
+              "authors": [
+                "logicallee"
+              ],
+              "canonical_url": "https://stateofutopia.com/experiments/microllmlab",
+              "metadata": {
+                "hn_comments": 70,
+                "hn_id": "49882781",
+                "hn_score": 182,
+                "host": "stateofutopia.com"
+              },
+              "provenance": "",
+              "published_at": "2026-09-28T18:58:53Z",
+              "source_id": "hn_discussion",
+              "source_name": "Hacker News",
+              "source_role": "hn_discussion",
+              "source_type": "discussion",
+              "summary": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
+              "tags": [],
+              "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
+              "url": "https://stateofutopia.com/experiments/microllmlab",
+              "verified_first_date": "2026-09-28T18:58:53Z"
+            }
+          ],
+          "published_at": "2026-09-28T18:58:53Z",
+          "source_ids": [
+            "hn_discussion"
+          ],
+          "source_names": [
+            "Hacker News"
+          ],
+          "source_roles": [
+            "hn_discussion"
+          ],
+          "source_types": [
+            "discussion"
+          ],
+          "summary": "MicroLLM Lab lets users try seven tiny language models in a browser. The project is featured in a Hacker News discussion.",
+          "tags": [],
+          "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser"
+        },
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 3.964,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 4.209,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 5.012,
+          "FRONTIERNESS": 5.506,
+          "HEADLINE": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 5,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Tooling",
+          "QUALITY": 5,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "A project runs a 1.58-bit BitNet language model on an ESP32S3 cluster. The supplied item does not specify model size or performance.",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 4.506,
+          "TOPIC_ID": "fed7439c7bb7",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This tooling surfaced across 1 independent source(s).",
+          "cluster_id": "fed7439c7bb7",
+          "event_type": "tooling",
+          "items": [
+            {
+              "authors": [
+                "nkko"
+              ],
+              "canonical_url": "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster",
+              "metadata": {
+                "hn_comments": 8,
+                "hn_id": "49884625",
+                "hn_score": 60,
+                "host": "github.com"
+              },
+              "provenance": "",
+              "published_at": "2026-09-28T21:26:41Z",
+              "source_id": "hn_discussion",
+              "source_name": "Hacker News",
+              "source_role": "hn_discussion",
+              "source_type": "discussion",
+              "summary": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
+              "tags": [],
+              "title": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
+              "url": "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster",
+              "verified_first_date": "2026-09-28T21:26:41Z"
+            }
+          ],
+          "published_at": "2026-09-28T21:26:41Z",
+          "source_ids": [
+            "hn_discussion"
+          ],
+          "source_names": [
+            "Hacker News"
+          ],
+          "source_roles": [
+            "hn_discussion"
+          ],
+          "source_types": [
+            "discussion"
+          ],
+          "summary": "A project runs a 1.58-bit BitNet language model on an ESP32S3 cluster. The supplied item does not specify model size or performance.",
+          "tags": [],
+          "title": "ESP32S3 cluster running 1.58-bit (BitNet) Language model"
+        }
+      ]
+    },
+    {
+      "category": "Research",
+      "total_candidates": 13,
+      "topics": [
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 3.979,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 4.232,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 5.062,
+          "FRONTIERNESS": 6.531,
+          "HEADLINE": "Knowing When Thinking Is Not Enough: Teaching Small Reasoning Models to Reason Beyond Their Parametric Knowledge",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 7,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Research",
+          "QUALITY": 6,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "Scaling test-time computation is a powerful way to improve language-model reasoning, and is particularly appealing for small reasoning models (sRMs) that are cheap to serve. However, is additional thinking always the right operation? By intervening at intermediate reasoning states across two model families and multiple scales, we find that self-refinement largely consolidates probability mass onto solutions already reachable from the current state, rather than making new ones reachable. These interventions reveal two failure regimes: execution bottlenecks, where the correct path is reachabl...",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 4.531,
+          "TOPIC_ID": "2d1aa70730fa",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This research paper surfaced across 1 independent source(s).",
+          "cluster_id": "2d1aa70730fa",
+          "event_type": "research_paper",
+          "items": [
+            {
+              "authors": [
+                "Chanuk Lee",
+                "Minki Kang",
+                "Sangwoo Park",
+                "Woongyeong Yeo",
+                "Jinheon Baek",
+                "Sung Ju Hwang"
+              ],
+              "canonical_url": "https://arxiv.org/abs/2609.34327",
+              "metadata": {
+                "ai_summary": "",
+                "arxiv_id": "2609.34327",
+                "daily_score": 16,
+                "github_url": "https://github.com/tally0818/FlyBy",
+                "hf_url": "https://huggingface.co/papers/2609.34327",
+                "novelty": 0,
+                "relevance": 0,
+                "spotlight_comment": "Scaling test-time computation is a powerful way to improve language-model reasoning, and is particularly appealing for small reasoning models (sRMs) that are cheap to serve. However, is additional thinking always the right operation? By intervening at intermediate reasoning states across two mode...",
+                "spotlight_primary_kind": "daily_hot",
+                "spotlight_primary_label": "Daily Hot Papers",
+                "upvotes": 16
+              },
+              "provenance": "",
+              "published_at": "2026-09-28T00:00:00.000Z",
+              "source_id": "hf_papers",
+              "source_name": "Hugging Face Trending Papers",
+              "source_role": "paper_trending",
+              "source_type": "paper",
+              "summary": "Scaling test-time computation is a powerful way to improve language-model reasoning, and is particularly appealing for small reasoning models (sRMs) that are cheap to serve. However, is additional thinking always the right operation? By intervening at intermediate reasoning states across two model families and multiple scales, we find that self-refinement largely consolidates probability mass onto solutions already reachable from the current state, rather than making new ones reachable. These interventions reveal two failure regimes: execution bottlenecks, where the correct path is reachabl...",
+              "tags": [],
+              "title": "Knowing When Thinking Is Not Enough: Teaching Small Reasoning Models to Reason Beyond Their Parametric Knowledge",
+              "url": "https://huggingface.co/papers/2609.34327",
+              "verified_first_date": "2026-09-28T00:00:00.000Z"
+            }
+          ],
+          "published_at": "2026-09-28T00:00:00.000Z",
+          "source_ids": [
+            "hf_papers"
+          ],
+          "source_names": [
+            "Hugging Face Trending Papers"
+          ],
+          "source_roles": [
+            "paper_trending"
+          ],
+          "source_types": [
+            "paper"
+          ],
+          "summary": "Scaling test-time computation is a powerful way to improve language-model reasoning, and is particularly appealing for small reasoning models (sRMs) that are cheap to serve. However, is additional thinking always the right operation? By intervening at intermediate reasoning states across two model families and multiple scales, we find that self-refinement largely consolidates probability mass onto solutions already reachable from the current state, rather than making new ones reachable. These interventions reveal two failure regimes: execution bottlenecks, where the correct path is reachabl...",
+          "tags": [],
+          "title": "Knowing When Thinking Is Not Enough: Teaching Small Reasoning Models to Reason Beyond Their Parametric Knowledge"
+        },
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 3.979,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 4.232,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 5.062,
+          "FRONTIERNESS": 6.531,
+          "HEADLINE": "Self-Evolving Coding Agents: From Digital Programs to Physical-World Intelligence",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 7,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Research",
+          "QUALITY": 6,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "Vision-language-action (VLA) and world-action (WAM) models map observations and instructions directly to robot actions. This directness ties a policy to training: minor layout or viewpoint changes cause failure, and instructions generalize poorly. The root cause lies in representation: task requirements, conditions, progress, and failure recovery are implicitly encoded in action sequences, making them difficult to inspect or revise. Digital coding agents offer a precedent: LLMs call tools, verify results, and revise from feedback as executable code. The same working pattern of explicit stat...",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 4.531,
+          "TOPIC_ID": "9ded32b3473e",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This research paper surfaced across 1 independent source(s).",
+          "cluster_id": "9ded32b3473e",
+          "event_type": "research_paper",
+          "items": [
+            {
+              "authors": [
+                "Hongcheng Gao",
+                "Jingjing Zhou",
+                "Zelin Zheng",
+                "Shijia Ge",
+                "Jay Zhu",
+                "Yazhe Wang",
+                "Jianshu Zeng",
+                "Xuan Shangguan",
+                "Di Wu",
+                "Lingyu He",
+                "Zhiqi Jia",
+                "Sihang Wu",
+                "Xiao He"
+              ],
+              "canonical_url": "https://arxiv.org/abs/2609.35432",
+              "metadata": {
+                "ai_summary": "",
+                "arxiv_id": "2609.35432",
+                "daily_score": 12,
+                "github_url": "https://github.com/HexaFuture/PhysicalCoding",
+                "hf_url": "https://huggingface.co/papers/2609.35432",
+                "novelty": 0,
+                "relevance": 0,
+                "spotlight_comment": "",
+                "spotlight_primary_kind": "",
+                "spotlight_primary_label": "",
+                "upvotes": 12
+              },
+              "provenance": "",
+              "published_at": "2026-09-28T00:00:00.000Z",
+              "source_id": "hf_papers",
+              "source_name": "Hugging Face Trending Papers",
+              "source_role": "paper_trending",
+              "source_type": "paper",
+              "summary": "Vision-language-action (VLA) and world-action (WAM) models map observations and instructions directly to robot actions. This directness ties a policy to training: minor layout or viewpoint changes cause failure, and instructions generalize poorly. The root cause lies in representation: task requirements, conditions, progress, and failure recovery are implicitly encoded in action sequences, making them difficult to inspect or revise. Digital coding agents offer a precedent: LLMs call tools, verify results, and revise from feedback as executable code. The same working pattern of explicit stat...",
+              "tags": [],
+              "title": "Self-Evolving Coding Agents: From Digital Programs to Physical-World Intelligence",
+              "url": "https://huggingface.co/papers/2609.35432",
+              "verified_first_date": "2026-09-28T00:00:00.000Z"
+            }
+          ],
+          "published_at": "2026-09-28T00:00:00.000Z",
+          "source_ids": [
+            "hf_papers"
+          ],
+          "source_names": [
+            "Hugging Face Trending Papers"
+          ],
+          "source_roles": [
+            "paper_trending"
+          ],
+          "source_types": [
+            "paper"
+          ],
+          "summary": "Vision-language-action (VLA) and world-action (WAM) models map observations and instructions directly to robot actions. This directness ties a policy to training: minor layout or viewpoint changes cause failure, and instructions generalize poorly. The root cause lies in representation: task requirements, conditions, progress, and failure recovery are implicitly encoded in action sequences, making them difficult to inspect or revise. Digital coding agents offer a precedent: LLMs call tools, verify results, and revise from feedback as executable code. The same working pattern of explicit stat...",
+          "tags": [],
+          "title": "Self-Evolving Coding Agents: From Digital Programs to Physical-World Intelligence"
+        },
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 3.964,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 4.21,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 5.013,
+          "FRONTIERNESS": 5.506,
+          "HEADLINE": "Thinking fast and slow in AI: The role of metacognition (2021)",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 4,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Research",
+          "QUALITY": 5,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "A 2021 work examines metacognition in AI through the lens of fast and slow thinking. The work is being discussed on Hacker News.",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 4.506,
+          "TOPIC_ID": "c64a102a7411",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This research paper surfaced across 1 independent source(s).",
+          "cluster_id": "c64a102a7411",
+          "event_type": "research_paper",
+          "items": [
+            {
+              "authors": [
+                "teleforce"
+              ],
+              "canonical_url": "https://arxiv.org/abs/2110.01834",
+              "metadata": {
+                "hn_comments": 76,
+                "hn_id": "49873241",
+                "hn_score": 171,
+                "host": "arxiv.org"
+              },
+              "provenance": "",
+              "published_at": "2026-09-28T03:23:53Z",
+              "source_id": "hn_discussion",
+              "source_name": "Hacker News",
+              "source_role": "hn_discussion",
+              "source_type": "discussion",
+              "summary": "Thinking fast and slow in AI: The role of metacognition (2021)",
+              "tags": [],
+              "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
+              "url": "https://arxiv.org/abs/2110.01834",
+              "verified_first_date": "2026-09-28T03:23:53Z"
+            }
+          ],
+          "published_at": "2026-09-28T03:23:53Z",
+          "source_ids": [
+            "hn_discussion"
+          ],
+          "source_names": [
+            "Hacker News"
+          ],
+          "source_roles": [
+            "hn_discussion"
+          ],
+          "source_types": [
+            "discussion"
+          ],
+          "summary": "A 2021 work examines metacognition in AI through the lens of fast and slow thinking. The work is being discussed on Hacker News.",
+          "tags": [],
+          "title": "Thinking fast and slow in AI: The role of metacognition (2021)"
+        }
+      ]
+    }
+  ],
+  "long_tail_sections": [
+    {
+      "category": "Industry Update",
+      "total_candidates": 17,
+      "topics": [
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 3.967,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 4.215,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 5.025,
+          "FRONTIERNESS": 5.513,
+          "HEADLINE": "Anthropic's IPO prospectus shows AI vision, surging costs",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 8,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Industry Update",
+          "QUALITY": 5,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "Anthropic's IPO prospectus outlines its AI vision. It also reveals surging costs.",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 4.513,
+          "TOPIC_ID": "86f56aef17d6",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This industry move surfaced across 1 independent source(s).",
+          "cluster_id": "86f56aef17d6",
+          "event_type": "industry_move",
+          "items": [
+            {
+              "authors": [
+                "6thbit"
+              ],
+              "canonical_url": "https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28",
+              "metadata": {
+                "hn_comments": 80,
+                "hn_id": "49886005",
+                "hn_score": 87,
+                "host": "www.reuters.com"
+              },
+              "provenance": "",
+              "published_at": "2026-09-28T23:40:59Z",
+              "source_id": "hn_discussion",
+              "source_name": "Hacker News",
+              "source_role": "hn_discussion",
+              "source_type": "discussion",
+              "summary": "Anthropic's IPO prospectus shows AI vision, surging costs",
+              "tags": [],
+              "title": "Anthropic's IPO prospectus shows AI vision, surging costs",
+              "url": "https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28",
+              "verified_first_date": "2026-09-28T23:40:59Z"
+            }
+          ],
+          "published_at": "2026-09-28T23:40:59Z",
+          "source_ids": [
+            "hn_discussion"
+          ],
+          "source_names": [
+            "Hacker News"
+          ],
+          "source_roles": [
+            "hn_discussion"
+          ],
+          "source_types": [
+            "discussion"
+          ],
+          "summary": "Anthropic's IPO prospectus outlines its AI vision. It also reveals surging costs.",
+          "tags": [],
+          "title": "Anthropic's IPO prospectus shows AI vision, surging costs"
+        },
+        {
+          "ACTIONABILITY": 4.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 4.867,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 4.941,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 5.6,
+          "FINAL_SCORE": 5.025,
+          "FRONTIERNESS": 7.513,
+          "HEADLINE": "Grok 4.7 is now available on Amazon Bedrock",
+          "HEAT": 5,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 5,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 3.85,
+          "PRIMARY_CATEGORY": "Industry Update",
+          "QUALITY": 5,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "AWS announced that xAI's Grok 4.7 is available on Amazon Bedrock for coding, long-running agents, and knowledge work. The model offers a 500,000-token context window and four configurable reasoning effort levels.",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 4.513,
+          "TOPIC_ID": "1a724ae72293",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This tutorial surfaced across 1 independent source(s).",
+          "cluster_id": "1a724ae72293",
+          "event_type": "tutorial",
+          "items": [
+            {
+              "authors": [],
+              "canonical_url": "https://aws.amazon.com/blogs/machine-learning/automating-amazon-textract-adapter-lifecycle-management-across-accounts",
+              "metadata": {
+                "is_official": true,
+                "publisher": "AWS AI Blog"
+              },
+              "provenance": "",
+              "published_at": "Mon, 28 Sep 2026 15:49:04 +0000",
+              "source_id": "aws_ai_blog",
+              "source_name": "AWS AI Blog",
+              "source_role": "official_news",
+              "source_type": "official_blog",
+              "summary": "Learn how to operationalize Amazon Textract Custom Queries adapters for production: infrastructure as code with AWS CloudFormation and Terraform, a cross-account adapter promotion process, a pre-classification routing pattern for multiple form versions, and production security controls such as VPC endpoints, encryption, and least-privilege IAM.",
+              "tags": [],
+              "title": "Automating Amazon Textract adapter lifecycle management across accounts",
+              "url": "https://aws.amazon.com/blogs/machine-learning/automating-amazon-textract-adapter-lifecycle-management-across-accounts",
+              "verified_first_date": "Mon, 28 Sep 2026 15:49:04 +0000"
+            },
+            {
+              "authors": [],
+              "canonical_url": "https://aws.amazon.com/blogs/machine-learning/implementing-synthetic-monitoring-using-amazon-nova-act",
+              "metadata": {
+                "is_official": true,
+                "publisher": "AWS AI Blog"
+              },
+              "provenance": "",
+              "published_at": "Mon, 28 Sep 2026 15:56:32 +0000",
+              "source_id": "aws_ai_blog",
+              "source_name": "AWS AI Blog",
+              "source_role": "official_news",
+              "source_type": "official_blog",
+              "summary": "Learn an agent-driven approach to synthetic monitoring using Amazon Nova Act and Amazon Bedrock AgentCore. The post covers the architecture and patterns for resilient, managed user-journey validation that moves beyond brittle UI scripts, with a complete sample implementation.",
+              "tags": [],
+              "title": "Implementing synthetic monitoring using Amazon Nova Act",
+              "url": "https://aws.amazon.com/blogs/machine-learning/implementing-synthetic-monitoring-using-amazon-nova-act",
+              "verified_first_date": "Mon, 28 Sep 2026 15:56:32 +0000"
+            },
+            {
+              "authors": [],
+              "canonical_url": "https://aws.amazon.com/blogs/machine-learning/grok-4-7-is-now-available-on-amazon-bedrock",
+              "metadata": {
+                "is_official": true,
+                "publisher": "AWS AI Blog"
+              },
+              "provenance": "",
+              "published_at": "Mon, 28 Sep 2026 22:13:16 +0000",
+              "source_id": "aws_ai_blog",
+              "source_name": "AWS AI Blog",
+              "source_role": "official_news",
+              "source_type": "official_blog",
+              "summary": "xAI's Grok 4.7 is now available on Amazon Bedrock: a frontier model for coding, long-running agents, and knowledge work. It offers a 500K token context window and four configurable reasoning effort levels, reachable through the Responses, Chat Completions, and Converse APIs.",
+              "tags": [],
+              "title": "Grok 4.7 is now available on Amazon Bedrock",
+              "url": "https://aws.amazon.com/blogs/machine-learning/grok-4-7-is-now-available-on-amazon-bedrock",
+              "verified_first_date": "Mon, 28 Sep 2026 22:13:16 +0000"
+            }
+          ],
+          "published_at": "Mon, 28 Sep 2026 22:13:16 +0000",
+          "source_ids": [
+            "aws_ai_blog"
+          ],
+          "source_names": [
+            "AWS AI Blog"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "official_blog"
+          ],
+          "summary": "AWS announced that xAI's Grok 4.7 is available on Amazon Bedrock for coding, long-running agents, and knowledge work. The model offers a 500,000-token context window and four configurable reasoning effort levels.",
+          "tags": [],
+          "title": "Grok 4.7 is now available on Amazon Bedrock"
+        },
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 3.967,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 4.215,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 5.024,
+          "FRONTIERNESS": 5.512,
+          "HEADLINE": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 8,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Industry Update",
+          "QUALITY": 5,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": " ",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 4.512,
+          "TOPIC_ID": "94c5ffe2dc40",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This industry move surfaced across 1 independent source(s).",
+          "cluster_id": "94c5ffe2dc40",
+          "event_type": "industry_move",
+          "items": [
+            {
+              "authors": [],
+              "canonical_url": "https://www.rundown.ai/news/anthropic-pentagon-blacklist-appeal-claude-safeguards",
+              "metadata": {
+                "roundup_site": "The Rundown AI"
+              },
+              "provenance": "",
+              "published_at": "2026-09-28T14:01:39.698Z",
+              "source_id": "the_rundown_ai",
+              "source_name": "The Rundown AI",
+              "source_role": "headline_consensus",
+              "source_type": "roundup",
+              "summary": "Artificial intelligence",
+              "tags": [],
+              "title": "Anthropic loses Pentagon blacklist appeal over Claude’s safeguards",
+              "url": "https://www.rundown.ai/news/anthropic-pentagon-blacklist-appeal-claude-safeguards",
+              "verified_first_date": "2026-09-28T14:01:39.698Z"
+            }
+          ],
+          "published_at": "2026-09-28T14:01:39.698Z",
+          "source_ids": [
+            "the_rundown_ai"
+          ],
+          "source_names": [
+            "The Rundown AI"
+          ],
+          "source_roles": [
+            "headline_consensus"
+          ],
+          "source_types": [
+            "roundup"
+          ],
+          "summary": " ",
+          "tags": [],
+          "title": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features"
+        },
+        {
+          "ACTIONABILITY": 4.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 4.864,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 4.768,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 5.6,
+          "FINAL_SCORE": 5.013,
+          "FRONTIERNESS": 7.506,
+          "HEADLINE": "Generate images and video with vLLM-Omni on SageMaker AI – Part 2",
+          "HEAT": 4,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 7,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 3.4,
+          "PRIMARY_CATEGORY": "Industry Update",
+          "QUALITY": 5,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "AWS published a tutorial on deploying two generative media models using a single vLLM-Omni Deep Learning Container on SageMaker AI. The workflow generates an image with FLUX.2-klein through real-time inference and then animates it into video.",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 4.506,
+          "TOPIC_ID": "5824bcc3e5ba",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This tutorial surfaced across 1 independent source(s).",
+          "cluster_id": "5824bcc3e5ba",
+          "event_type": "tutorial",
+          "items": [
+            {
+              "authors": [],
+              "canonical_url": "https://aws.amazon.com/blogs/machine-learning/generate-images-and-video-with-vllm-omni-on-sagemaker-ai-part-2",
+              "metadata": {
+                "is_official": true,
+                "publisher": "AWS AI Blog"
+              },
+              "provenance": "",
+              "published_at": "Mon, 28 Sep 2026 16:15:17 +0000",
+              "source_id": "aws_ai_blog",
+              "source_name": "AWS AI Blog",
+              "source_role": "official_news",
+              "source_type": "official_blog",
+              "summary": "Deploy two generative media models from one AWS vLLM-Omni Deep Learning Container on Amazon SageMaker AI. Generate an image with FLUX.2-klein through real-time inference, then animate it into video with Wan2.1-VACE through asynchronous inference, and retrieve the MP4 from Amazon S3.",
+              "tags": [],
+              "title": "Generate images and video with vLLM-Omni on SageMaker AI – Part 2",
+              "url": "https://aws.amazon.com/blogs/machine-learning/generate-images-and-video-with-vllm-omni-on-sagemaker-ai-part-2",
+              "verified_first_date": "Mon, 28 Sep 2026 16:15:17 +0000"
+            },
+            {
+              "authors": [],
+              "canonical_url": "https://aws.amazon.com/blogs/machine-learning/build-real-time-voice-applications-with-vllm-omni-on-sagemaker-ai-part-1",
+              "metadata": {
+                "is_official": true,
+                "publisher": "AWS AI Blog"
+              },
+              "provenance": "",
+              "published_at": "Mon, 28 Sep 2026 16:15:46 +0000",
+              "source_id": "aws_ai_blog",
+              "source_name": "AWS AI Blog",
+              "source_role": "official_news",
+              "source_type": "official_blog",
+              "summary": "Deploy a text-to-speech model on Amazon SageMaker AI with the AWS vLLM-Omni Deep Learning Container and stream generated speech over a persistent bidirectional connection. This Part 1 tutorial deploys Qwen3-TTS and streams speech through a Gradio application.",
+              "tags": [],
+              "title": "Build real-time voice applications with vLLM-Omni on SageMaker AI – Part 1",
+              "url": "https://aws.amazon.com/blogs/machine-learning/build-real-time-voice-applications-with-vllm-omni-on-sagemaker-ai-part-1",
+              "verified_first_date": "Mon, 28 Sep 2026 16:15:46 +0000"
+            }
+          ],
+          "published_at": "Mon, 28 Sep 2026 16:15:46 +0000",
+          "source_ids": [
+            "aws_ai_blog"
+          ],
+          "source_names": [
+            "AWS AI Blog"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "official_blog"
+          ],
+          "summary": "AWS published a tutorial on deploying two generative media models using a single vLLM-Omni Deep Learning Container on SageMaker AI. The workflow generates an image with FLUX.2-klein through real-time inference and then animates it into video.",
+          "tags": [],
+          "title": "Generate images and video with vLLM-Omni on SageMaker AI – Part 2"
+        },
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 6.222,
+          "CROSS_SOURCE_RESONANCE": 3.9,
+          "DISPLAY_PRIORITY": 5.609,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 6.2,
+          "FINAL_SCORE": 5.006,
+          "FRONTIERNESS": 5.503,
+          "HEADLINE": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
+          "HEAT": 5,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 3,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 5.6,
+          "PRIMARY_CATEGORY": "Industry Update",
+          "QUALITY": 5,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "US Government websites among \"dozens of third parties\" OpenAI has recently notified.",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 4.503,
+          "TOPIC_ID": "379547deffed",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This other surfaced across 2 independent source(s).",
+          "cluster_id": "379547deffed",
+          "event_type": "other",
+          "items": [
+            {
+              "authors": [],
+              "canonical_url": "https://www.rundown.ai/news/openai-agent-government-sites-security-gaps",
+              "metadata": {
+                "roundup_site": "The Rundown AI"
+              },
+              "provenance": "",
+              "published_at": "2026-09-28T14:01:26.035Z",
+              "source_id": "the_rundown_ai",
+              "source_name": "The Rundown AI",
+              "source_role": "headline_consensus",
+              "source_type": "roundup",
+              "summary": "Artificial intelligence",
+              "tags": [],
+              "title": "OpenAI’s government site incidents reveal gaps in agent controls",
+              "url": "https://www.rundown.ai/news/openai-agent-government-sites-security-gaps",
+              "verified_first_date": "2026-09-28T14:01:26.035Z"
+            },
+            {
+              "authors": [],
+              "canonical_url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents",
+              "metadata": {
+                "feed_id": "arstechnica_ai",
+                "feed_source": "https://arstechnica.com/ai/feed/",
+                "signal_tier": "trusted_analysis",
+                "source_quality": 1.3
+              },
+              "provenance": "",
+              "published_at": "Mon, 28 Sep 2026 16:43:18 +0000",
+              "source_id": "analysis_arstechnica_ai",
+              "source_name": "Ars Technica AI",
+              "source_role": "editorial_depth",
+              "source_type": "blog_analysis",
+              "summary": "US Government websites among \"dozens of third parties\" OpenAI has recently notified.",
+              "tags": [
+                "analysis",
+                "deep-read"
+              ],
+              "title": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
+              "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents",
+              "verified_first_date": "Mon, 28 Sep 2026 16:43:18 +0000"
+            }
+          ],
+          "published_at": "Mon, 28 Sep 2026 16:43:18 +0000",
+          "source_ids": [
+            "analysis_arstechnica_ai",
+            "the_rundown_ai"
+          ],
+          "source_names": [
+            "Ars Technica AI",
+            "The Rundown AI"
+          ],
+          "source_roles": [
+            "editorial_depth",
+            "headline_consensus"
+          ],
+          "source_types": [
+            "blog_analysis",
+            "roundup"
+          ],
+          "summary": "US Government websites among \"dozens of third parties\" OpenAI has recently notified.",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "title": "OpenAI halts frontier-model training amid string of agent misalignment incidents"
+        },
+        {
+          "ACTIONABILITY": 4.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 4.86,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 4.594,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 5.6,
+          "FINAL_SCORE": 5.0,
+          "FRONTIERNESS": 7.5,
+          "HEADLINE": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 2,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Industry Update",
+          "QUALITY": 4,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "Google's blog highlights The Gifted as the winning trailer from the Future Vision XPRIZE. The post invites readers to watch the trailer.",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 4.5,
+          "TOPIC_ID": "d7f51c8075e2",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This other surfaced across 1 independent source(s).",
+          "cluster_id": "d7f51c8075e2",
+          "event_type": "other",
+          "items": [
+            {
+              "authors": [],
+              "canonical_url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize",
+              "metadata": {
+                "is_official": true,
+                "publisher": "Google AI Blog"
+              },
+              "provenance": "",
+              "published_at": "Mon, 28 Sep 2026 19:00:00 +0000",
+              "source_id": "google_ai_blog",
+              "source_name": "Google AI Blog",
+              "source_role": "official_news",
+              "source_type": "official_blog",
+              "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp\" />Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+              "tags": [],
+              "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+              "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize",
+              "verified_first_date": "Mon, 28 Sep 2026 19:00:00 +0000"
+            }
+          ],
+          "published_at": "Mon, 28 Sep 2026 19:00:00 +0000",
+          "source_ids": [
+            "google_ai_blog"
+          ],
+          "source_names": [
+            "Google AI Blog"
+          ],
+          "source_roles": [
+            "official_news"
+          ],
+          "source_types": [
+            "official_blog"
+          ],
+          "summary": "Google's blog highlights The Gifted as the winning trailer from the Future Vision XPRIZE. The post invites readers to watch the trailer.",
+          "tags": [],
+          "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted."
+        },
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 3.96,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 4.204,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 5.0,
+          "FRONTIERNESS": 5.5,
+          "HEADLINE": "OpenAI keeps bulldozing mathematicians",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 5,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Industry Update",
+          "QUALITY": 4,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "In a chaotic few months, OpenAI has demonstrated it can do two things with remarkable consistency: make impressive breakthroughs in mathematics, then colossally screw up announcing them. OpenAI is now trying to do better. Somehow, it has botched that too. OpenAI's latest attempt to repair fractured relations with a mathematical community it has repeatedly alienated [&#8230;]",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 4.5,
+          "TOPIC_ID": "12cdf6c9f217",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This other surfaced across 1 independent source(s).",
+          "cluster_id": "12cdf6c9f217",
+          "event_type": "other",
+          "items": [
+            {
+              "authors": [],
+              "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group",
+              "metadata": {
+                "feed_id": "theverge_ai",
+                "feed_source": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+                "signal_tier": "trusted_analysis",
+                "source_quality": 1.3
+              },
+              "provenance": "",
+              "published_at": "2026-09-28T13:00:00-04:00",
+              "source_id": "analysis_theverge_ai",
+              "source_name": "The Verge AI",
+              "source_role": "editorial_depth",
+              "source_type": "blog_analysis",
+              "summary": "In a chaotic few months, OpenAI has demonstrated it can do two things with remarkable consistency: make impressive breakthroughs in mathematics, then colossally screw up announcing them. OpenAI is now trying to do better. Somehow, it has botched that too. OpenAI's latest attempt to repair fractured relations with a mathematical community it has repeatedly alienated [&#8230;]",
+              "tags": [
+                "analysis",
+                "deep-read"
+              ],
+              "title": "OpenAI keeps bulldozing mathematicians",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group",
+              "verified_first_date": "2026-09-28T13:00:00-04:00"
+            }
+          ],
+          "published_at": "2026-09-28T13:00:00-04:00",
+          "source_ids": [
+            "analysis_theverge_ai"
+          ],
+          "source_names": [
+            "The Verge AI"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "summary": "In a chaotic few months, OpenAI has demonstrated it can do two things with remarkable consistency: make impressive breakthroughs in mathematics, then colossally screw up announcing them. OpenAI is now trying to do better. Somehow, it has botched that too. OpenAI's latest attempt to repair fractured relations with a mathematical community it has repeatedly alienated [&#8230;]",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "title": "OpenAI keeps bulldozing mathematicians"
+        },
+        {
+          "ACTIONABILITY": 2.0,
+          "ARTIFACT_BOOST": 0.0,
+          "CONFIDENCE": 3.96,
+          "CROSS_SOURCE_RESONANCE": 1.5,
+          "DISPLAY_PRIORITY": 4.204,
+          "ENGINEERING_PENALTY": 0.0,
+          "EVIDENCE_STRENGTH": 4.1,
+          "FINAL_SCORE": 5.0,
+          "FRONTIERNESS": 5.5,
+          "HEADLINE": "OpenAI’s AI agents need to catch up",
+          "HEAT": 3,
+          "HYPE_PENALTY": 0.3,
+          "IMPORTANCE": 5,
+          "KEEP_IN_DAILY_HOTSPOTS": false,
+          "KEY_TAKEAWAYS": [],
+          "LLM_STATUS": "candidate",
+          "OCCURRENCE_SCORE": 2.95,
+          "PRIMARY_CATEGORY": "Industry Update",
+          "QUALITY": 4,
+          "SECONDARY_CATEGORIES": [],
+          "SHORT_COMMENT": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI agents. On Tuesday, it will likely try to capture the lead in that race. Rumors abound that OpenAI will release its own AI agent, dubbed Aeon - [&#8230;]",
+          "SUBSTANCE_PENALTY": 0.0,
+          "TECHNICAL_DEPTH": 4.5,
+          "TOPIC_ID": "38cab397bf5e",
+          "WATCHLIST": false,
+          "WHY_IT_MATTERS": "This other surfaced across 1 independent source(s).",
+          "cluster_id": "38cab397bf5e",
+          "event_type": "other",
+          "items": [
+            {
+              "authors": [],
+              "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
+              "metadata": {
+                "feed_id": "theverge_ai",
+                "feed_source": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+                "signal_tier": "trusted_analysis",
+                "source_quality": 1.3
+              },
+              "provenance": "",
+              "published_at": "2026-09-28T14:45:00-04:00",
+              "source_id": "analysis_theverge_ai",
+              "source_name": "The Verge AI",
+              "source_role": "editorial_depth",
+              "source_type": "blog_analysis",
+              "summary": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI agents. On Tuesday, it will likely try to capture the lead in that race. Rumors abound that OpenAI will release its own AI agent, dubbed Aeon - [&#8230;]",
+              "tags": [
+                "analysis",
+                "deep-read"
+              ],
+              "title": "OpenAI’s AI agents need to catch up",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
+              "verified_first_date": "2026-09-28T14:45:00-04:00"
+            }
+          ],
+          "published_at": "2026-09-28T14:45:00-04:00",
+          "source_ids": [
+            "analysis_theverge_ai"
+          ],
+          "source_names": [
+            "The Verge AI"
+          ],
+          "source_roles": [
+            "editorial_depth"
+          ],
+          "source_types": [
+            "blog_analysis"
+          ],
+          "summary": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI agents. On Tuesday, it will likely try to capture the lead in that race. Rumors abound that OpenAI will release its own AI agent, dubbed Aeon - [&#8230;]",
+          "tags": [
+            "analysis",
+            "deep-read"
+          ],
+          "title": "OpenAI’s AI agents need to catch up"
+        }
+      ]
+    }
+  ],
+  "paper_spotlight": [
+    {
+      "kind": "daily_hot",
+      "label": "Daily Hot Papers",
+      "description": "Papers that feel broadly important to the day and belong in the hotspot paper feed.",
+      "items": [
+        {
+          "title": "TraceDance: An Automated System for Building Agent Behavior Benchmarks from Real-World Agent Deployment Traces",
+          "summary": "An agent can complete a task while exhibiting undesirable behavior during execution. Developers need tests for the specific behaviors encountered in deployment, beyond fixed benchmark suites. We present TraceDance, an agent system that constructs targeted benchmarks from deployment traces for user-specified undesirable behaviors. For efficient construction, Anchor-and-Confirm combines programmable retrieval with candidate-level confirmation by a Flash large language model (LLM), while the Anchor Synthesis Loop generates and revises specifications for custom behaviors. The benchmarks use dec...",
+          "url": "https://huggingface.co/papers/2609.33295",
+          "canonical_url": "https://arxiv.org/abs/2609.33295",
+          "source_id": "hf_papers",
+          "source_name": "Hugging Face Trending Papers",
+          "source_role": "paper_trending",
+          "arxiv_id": "2609.33295",
+          "authors": [
+            "Dehai Min",
+            "Daoan Zhang",
+            "Yiming Zeng",
+            "Huayi Zhang",
+            "Ziyi Chen",
+            "Yan Zhang",
+            "Qinbo Bai",
+            "Mengyuan Chao",
+            "Jing Ning",
+            "Qiyue Hua",
+            "Huiyi Chen",
+            "Hanrong Zhang",
+            "Henry Peng Zou",
+            "Jie Yang",
+            "Wei Xu",
+            "Philip S. Yu"
+          ],
+          "primary_topic_id": "",
+          "primary_topic_label": "",
+          "spotlight_primary_kind": "daily_hot",
+          "spotlight_primary_label": "Daily Hot Papers",
+          "spotlight_comment": "An agent can complete a task while exhibiting undesirable behavior during execution. Developers need tests for the specific behaviors encountered in deployment, beyond fixed benchmark suites. We present TraceDance, an agent system that constructs targeted benchmarks from deployment traces for use...",
+          "daily_score": 41,
+          "relevance": 0,
+          "novelty": 0,
+          "s2_influential_citations": 0,
+          "s2_citations": 0
+        },
+        {
+          "title": "YuE2: Unifying Symbolic and Audio Music Generation at Frontier Quality",
+          "summary": "Symbolic models make melody, harmony, rhythm, and form explicit but typically stop before a finished recording; audio models produce complete songs while leaving composition implicit. We introduce YuE2, which unifies symbolic and audio music generation at frontier quality through symbolic planning. A single AR-NAR Mixture-of-Transformers (MoT) first writes a readable score specifying melody and harmony, expands it into semantic music tokens, and realizes it as full-song audio. In comparisons using the same checkpoint, experts prefer symbolic planning for overall quality and musicality, with...",
+          "url": "https://huggingface.co/papers/2609.33757",
+          "canonical_url": "https://arxiv.org/abs/2609.33757",
+          "source_id": "hf_papers",
+          "source_name": "Hugging Face Trending Papers",
+          "source_role": "paper_trending",
+          "arxiv_id": "2609.33757",
+          "authors": [
+            "Ruibin Yuan",
+            "Jiahao Pan",
+            "Junyan Jiang",
+            "Zhiyue Wu",
+            "Ziya Zhou",
+            "Jiankai Sun",
+            "Yizhi Li",
+            "Ge Zhang",
+            "Yicheng Gu",
+            "Zeyue Tian",
+            "Junyu Dai",
+            "Hanfeng Lin",
+            "Kai Li",
+            "Shangda Wu",
+            "Xuanjie Liu",
+            "Jiaming Wang",
+            "Zihan Liu",
+            "Yue Wang",
+            "Yinghao Ma",
+            "Hanzhi Yin",
+            "Kangrui Chen",
+            "Xinyue Zhang",
+            "Ziyang Ma",
+            "Mengqi Liao",
+            "Hejia Zhao",
+            "Guowei Huang",
+            "Chao Yan",
+            "Lei Ke",
+            "Jianwei Yu",
+            "Bei Liu",
+            "Joe Guo",
+            "Liumeng Xue",
+            "Gus Xia",
+            "Wei Xue",
+            "Yike Guo"
+          ],
+          "primary_topic_id": "",
+          "primary_topic_label": "",
+          "spotlight_primary_kind": "daily_hot",
+          "spotlight_primary_label": "Daily Hot Papers",
+          "spotlight_comment": "Symbolic models make melody, harmony, rhythm, and form explicit but typically stop before a finished recording; audio models produce complete songs while leaving composition implicit. We introduce YuE2, which unifies symbolic and audio music generation at frontier quality through symbolic plannin...",
+          "daily_score": 39,
+          "relevance": 0,
+          "novelty": 0,
+          "s2_influential_citations": 0,
+          "s2_citations": 0
+        },
+        {
+          "title": "CompoWorld: Compositional Environment Scaling for General Agents",
+          "summary": "Automatically generated environments provide a scalable source of interaction data for training general agents. However, existing approaches mainly generate tasks within a single environment, while real-world workflows require agents to connect information and actions across multiple services. We introduce Compositional Environment Scaling (CompoWorld), which expands the task space by composing a finite library of reusable services. Coding agents turn tool specifications into verified services with typed states and shared interfaces, while a world model handles tools that cannot be reliably...",
+          "url": "https://huggingface.co/papers/2609.33665",
+          "canonical_url": "https://arxiv.org/abs/2609.33665",
+          "source_id": "hf_papers",
+          "source_name": "Hugging Face Trending Papers",
+          "source_role": "paper_trending",
+          "arxiv_id": "2609.33665",
+          "authors": [
+            "Xiao-Wen Yang",
+            "Weiyi Xu",
+            "Wen Da",
+            "Hang Xu",
+            "Canwei Li",
+            "Hong-Jie You",
+            "Pusen Dong",
+            "Yucheng Zeng",
+            "Zhaokai Luo",
+            "Yu-Feng Li",
+            "Yao Hu",
+            "Mu Chuan"
+          ],
+          "primary_topic_id": "",
+          "primary_topic_label": "",
+          "spotlight_primary_kind": "daily_hot",
+          "spotlight_primary_label": "Daily Hot Papers",
+          "spotlight_comment": "Automatically generated environments provide a scalable source of interaction data for training general agents. However, existing approaches mainly generate tasks within a single environment, while real-world workflows require agents to connect information and actions across multiple services. We...",
+          "daily_score": 20,
+          "relevance": 0,
+          "novelty": 0,
+          "s2_influential_citations": 0,
+          "s2_citations": 0
+        },
+        {
+          "title": "Learning to Learn from Context: Synthetic Training from Perturbed Public Documents",
+          "summary": "Real-world tasks often require large language models (LLMs) to learn from complex task-specific context rather than pretrained parametric knowledge. This capability remains a weakness of LLMs, while human annotation for such task contexts is expensive and difficult to scale. Public high-quality documents are an abundant alternative, but much of the public web has already been consumed during pretraining: training on such documents naively would reward memorization rather than context learning. In this work, we attempt to make use of high-quality public documents with small perturbations and...",
+          "url": "https://huggingface.co/papers/2609.33642",
+          "canonical_url": "https://arxiv.org/abs/2609.33642",
+          "source_id": "hf_papers",
+          "source_name": "Hugging Face Trending Papers",
+          "source_role": "paper_trending",
+          "arxiv_id": "2609.33642",
+          "authors": [
+            "Haoyi Wu",
+            "Yang Xiao",
+            "Yusong Sun",
+            "Wenyang Hui",
+            "Zhaokai Luo",
+            "Chengyue Jiang",
+            "Mu Chuan"
+          ],
+          "primary_topic_id": "",
+          "primary_topic_label": "",
+          "spotlight_primary_kind": "daily_hot",
+          "spotlight_primary_label": "Daily Hot Papers",
+          "spotlight_comment": "Real-world tasks often require large language models (LLMs) to learn from complex task-specific context rather than pretrained parametric knowledge. This capability remains a weakness of LLMs, while human annotation for such task contexts is expensive and difficult to scale. Public high-quality d...",
+          "daily_score": 19,
+          "relevance": 0,
+          "novelty": 0,
+          "s2_influential_citations": 0,
+          "s2_citations": 0
+        },
+        {
+          "title": "Skill2Env: Capability-Oriented Environment Synthesis from Skills for General Agents",
+          "summary": "Executable environments are critical for post-training agents on tasks that require tool use and multi-step interaction, but constructing executable tasks together with their environments remains difficult to scale. Skills provide reusable domain knowledge, operational procedures, and tool-use instructions, but a substantial gap remains between the information contained in a skill and a concrete, challenging task with a complete executable environment. To address this gap, we introduce Skill2Env, a capability-oriented framework that starts from a skill and uses agent capability demands to g...",
+          "url": "https://huggingface.co/papers/2609.33772",
+          "canonical_url": "https://arxiv.org/abs/2609.33772",
+          "source_id": "hf_papers",
+          "source_name": "Hugging Face Trending Papers",
+          "source_role": "paper_trending",
+          "arxiv_id": "2609.33772",
+          "authors": [
+            "Weiyi Xu",
+            "Xiaowen Yang",
+            "Wen Da",
+            "Hang Xu",
+            "Canwei Li",
+            "Hongjie You",
+            "Pusen Dong",
+            "Yucheng Zeng",
+            "Zhaokai Luo",
+            "Mu Chuan"
+          ],
+          "primary_topic_id": "",
+          "primary_topic_label": "",
+          "spotlight_primary_kind": "daily_hot",
+          "spotlight_primary_label": "Daily Hot Papers",
+          "spotlight_comment": "Executable environments are critical for post-training agents on tasks that require tool use and multi-step interaction, but constructing executable tasks together with their environments remains difficult to scale. Skills provide reusable domain knowledge, operational procedures, and tool-use in...",
+          "daily_score": 17,
+          "relevance": 0,
+          "novelty": 0,
+          "s2_influential_citations": 0,
+          "s2_citations": 0
+        },
+        {
+          "title": "Knowing When Thinking Is Not Enough: Teaching Small Reasoning Models to Reason Beyond Their Parametric Knowledge",
+          "summary": "Scaling test-time computation is a powerful way to improve language-model reasoning, and is particularly appealing for small reasoning models (sRMs) that are cheap to serve. However, is additional thinking always the right operation? By intervening at intermediate reasoning states across two model families and multiple scales, we find that self-refinement largely consolidates probability mass onto solutions already reachable from the current state, rather than making new ones reachable. These interventions reveal two failure regimes: execution bottlenecks, where the correct path is reachabl...",
+          "url": "https://huggingface.co/papers/2609.34327",
+          "canonical_url": "https://arxiv.org/abs/2609.34327",
+          "source_id": "hf_papers",
+          "source_name": "Hugging Face Trending Papers",
+          "source_role": "paper_trending",
+          "arxiv_id": "2609.34327",
+          "authors": [
+            "Chanuk Lee",
+            "Minki Kang",
+            "Sangwoo Park",
+            "Woongyeong Yeo",
+            "Jinheon Baek",
+            "Sung Ju Hwang"
+          ],
+          "primary_topic_id": "",
+          "primary_topic_label": "",
+          "spotlight_primary_kind": "daily_hot",
+          "spotlight_primary_label": "Daily Hot Papers",
+          "spotlight_comment": "Scaling test-time computation is a powerful way to improve language-model reasoning, and is particularly appealing for small reasoning models (sRMs) that are cheap to serve. However, is additional thinking always the right operation? By intervening at intermediate reasoning states across two mode...",
+          "daily_score": 16,
+          "relevance": 0,
+          "novelty": 0,
+          "s2_influential_citations": 0,
+          "s2_citations": 0
+        }
+      ]
+    }
+  ],
+  "x_buzz": [
+    {
+      "title": "Anthropic's IPO prospectus shows AI vision, surging costs",
+      "summary": "Anthropic's IPO prospectus shows AI vision, surging costs",
+      "url": "https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28",
+      "source_id": "hn_discussion",
+      "source_name": "Hacker News",
+      "source_role": "hn_discussion",
+      "linked_topic": ""
+    },
+    {
+      "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+      "summary": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.",
+      "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises",
+      "source_id": "analysis_techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "source_role": "editorial_depth",
+      "linked_topic": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort"
+    },
+    {
+      "title": "4 min read Google's first AI satellite launch is next week",
+      "summary": "",
+      "url": "https://www.superhuman.ai/p/google-s-first-ai-satellite-launch-is-next-week",
+      "source_id": "superhuman_ai",
+      "source_name": "Superhuman AI",
+      "source_role": "headline_consensus",
+      "linked_topic": ""
+    },
+    {
+      "title": "Behind Project Suncatcher, our moonshot to put AI in space (Google blog)",
+      "summary": "",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts",
+      "source_id": "import_ai",
+      "source_name": "Import AI",
+      "source_role": "editorial_depth",
+      "linked_topic": "Behind Project Suncatcher, our moonshot to put AI in space (Google blog)"
+    },
+    {
+      "title": "2026 in LLMs (so far)",
+      "summary": "<p>On Friday I gave the closing keynote at the <a href=\"https://www.wearedevelopers.com/world-congress-north-america\">WeAreDevelopers World Congress North America</a> in San Jose. I tied together the key trends from the past year into a chronological exploration of everything that happened in 2026. The video <a href=\"https://www.youtube.com/watch?v=GAkIytR7vcc\">is on YouTube</a>; here are my annotated slides and notes to accompany the talk.</p> <p> </p> <p>And as an <a href=\"https://simonwillison.net/tags/annotated-talks/\">annotated presentation</a>:</p> <div class=\"slide\" id=\"simon-willison-2026-in-llms.001.webp\"> <img alt=\"2026 in LLMs (so far) Simon Willison WeAreDevelopers World Congress North America, 25th September 2026\" src=\"https://static.simonwillison.net/static/2026/2026-in-ll...",
+      "url": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far",
+      "source_id": "analysis_simon_willison",
+      "source_name": "Simon Willison's Blog",
+      "source_role": "editorial_depth",
+      "linked_topic": ""
+    }
+  ],
+  "watchlist": [],
+  "resurgence": []
+}
