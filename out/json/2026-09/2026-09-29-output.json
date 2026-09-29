@@ -1,0 +1,429 @@
+{
+    "2609.31360": {
+        "ARXIVID": "2609.31360",
+        "COMMENT": "Tests learned replacement of fixed layer order, exposing top-ranked router collapse and brittle corrective layer programs.",
+        "RELEVANCE": 9,
+        "NOVELTY": 6,
+        "EVIDENCE": 8,
+        "LOAD": 5,
+        "PROXIMITY": 8,
+        "PRIMARY_TOPIC_ID": "architecture_training",
+        "MATCHED_TOPIC_IDS": [
+            "architecture_training"
+        ],
+        "TOPIC_MATCH_COMMENT": "Controlled layer skipping and repetition directly test how transformer computation is organized and whether adaptive routing delivers its claimed benefit.",
+        "HOTSPOT_PAPER_TAGS": [],
+        "HOTSPOT_PAPER_COMMENT": "",
+        "SCORE": 15,
+        "READ_SCORE": 22.5,
+        "authors": [
+            "Justus Westerhoff",
+            "Stephan Olbrich",
+            "Hatem Oraby",
+            "Matthew Evan Larkum",
+            "Felix Alexander Gers"
+        ],
+        "title": "Programs-of-Layers in LLMs through the Lens of Cortical Areas",
+        "abstract": "Inference in LLMs is conventionally a fixed-depth, fixed-order forward pass through every layer, regardless of how difficult the input is. The human brain does not work this way: using the thalamus as a central hub, it routes information flexibly to all regions of the cortex according to demand. Li et al. (2026) recently showed, with a system they call program-of-layers (PoLar), that transformers can be given an analogous flexibility if their layers are treated as a library of functions rather than a fixed sequence. Performance improves over the standard forward pass when each input is dynamically routed through an adaptive sequence of skipped or repeated contiguous layer blocks. We reconstructed PoLar's diagnostic MCTS in more detail than the original paper and applied it across 5 models. We reproduced several of PoLar's findings: skipping outperformed the standard pass, repeating outperformed skipping, and combining both outperformed either alone. Shorter programs sufficed for easier questions, while harder questions required more layer repeats. However, we failed to replicate the main claim regarding their learned router for single-shot inference: its top-ranked prediction consistently collapsed back to the standard pass, even though its top-k predicted programs, taken together, did show a real accuracy gain. Beyond reproduction, we find that a small number of generic programs are enough to solve most of the questions. We also provide a much deeper analysis of these programs' structure and robustness: for example, we found that programs that correct errors are highly brittle: undoing even a single edit inside a program typically breaks the correction. Connecting this to the brain's routing mechanisms, PoLar mirrors principles of thalamo-cortical coordination between cortical-area-like transformer layers. We publicly release the code at https://datexis.github.io/RE-PoLar/",
+        "arxiv_id": "2609.31360",
+        "PRIMARY_TOPIC_LABEL": "Architecture and Training Dynamics",
+        "MATCHED_TOPIC_LABELS": [
+            "Architecture and Training Dynamics"
+        ],
+        "TOPIC_ASSIGNMENT_SOURCE": "llm_exact",
+        "HOTSPOT_PAPER_LABELS": [],
+        "HOTSPOT_PAPER_PRIMARY_KIND": null,
+        "HOTSPOT_PAPER_PRIMARY_LABEL": "",
+        "HOTSPOT_PAPER_ASSIGNMENT_SOURCE": "default"
+    },
+    "2609.30288": {
+        "ARXIVID": "2609.30288",
+        "COMMENT": "Replaces self-attention with bottleneck autoencoder mixers and compares against BERT at fixed parameter count.",
+        "RELEVANCE": 9,
+        "NOVELTY": 7,
+        "EVIDENCE": 6,
+        "LOAD": 6,
+        "PROXIMITY": 10,
+        "PRIMARY_TOPIC_ID": "architecture_training",
+        "MATCHED_TOPIC_IDS": [
+            "architecture_training"
+        ],
+        "TOPIC_MATCH_COMMENT": "Attention replacement is directly central to layer design. Overall quality remains below attention baselines, and rare-token parity additionally depends on frequency-aware masking.",
+        "HOTSPOT_PAPER_TAGS": [],
+        "HOTSPOT_PAPER_COMMENT": "",
+        "SCORE": 16,
+        "READ_SCORE": 22.0,
+        "authors": [
+            "Narges Mokhtari",
+            "Farzan Haddadi",
+            "Ebrahim Rezaii"
+        ],
+        "title": "Manifold Projection and Iterative Autoencoder Refinement for Masked Language Modeling",
+        "abstract": "In Transformer-based masked language models, attention is the primary mechanism for context mixing, but there are other ways to mix data across tokens. Recent attention-free mixers replace attention with fixed or hypernetwork-generated MLPs, alternating their dynamic, content-dependent weighting for computational simplicity. We build an alternative that gets the same property from a low-rank bottleneck autoencoder. We replace attention with a stack of autoencoder-based mixing modules, one operating over local neighborhoods, one over the full sequence, and one across attention heads, each compressing and reconstructing its input through a bottleneck, and its width is a hyperparameter rather than a training effect. In masked positions, we introduce an iterative refinement procedure that has two distinct steps. A pulling step that pulls an embedding representation toward a weighted average of its neighbors, and a correcting step that projects the result back to the learned manifold via an autoencoder. Our architecture achieves a significant portion of attention's performance at about $1.9 \\times$ fewer FLOPs when pretrained on C4 and evaluated with parameter-matched BERT baselines. Our model equals parameter-matched BERT and TinyBERT baselines on the rarest-token frequency bucket using a frequency-aware training schedule that samples rare tokens more than uniformly for the masking tasks.",
+        "arxiv_id": "2609.30288",
+        "PRIMARY_TOPIC_LABEL": "Architecture and Training Dynamics",
+        "MATCHED_TOPIC_LABELS": [
+            "Architecture and Training Dynamics"
+        ],
+        "TOPIC_ASSIGNMENT_SOURCE": "llm_exact",
+        "HOTSPOT_PAPER_LABELS": [],
+        "HOTSPOT_PAPER_PRIMARY_KIND": null,
+        "HOTSPOT_PAPER_PRIMARY_LABEL": "",
+        "HOTSPOT_PAPER_ASSIGNMENT_SOURCE": "default"
+    },
+    "2609.31261": {
+        "ARXIVID": "2609.31261",
+        "COMMENT": "Learns input-dependent query-key decay regimes during pretraining, with matched 500M-model comparisons and stable top-1 discretization.",
+        "RELEVANCE": 9,
+        "NOVELTY": 7,
+        "EVIDENCE": 7,
+        "LOAD": 6,
+        "PROXIMITY": 9,
+        "PRIMARY_TOPIC_ID": "architecture_training",
+        "MATCHED_TOPIC_IDS": [
+            "architecture_training"
+        ],
+        "TOPIC_MATCH_COMMENT": "The core contribution changes the trainable attention geometry and improves training-context perplexity; length extrapolation provides additional validation of that mechanism.",
+        "HOTSPOT_PAPER_TAGS": [],
+        "HOTSPOT_PAPER_COMMENT": "",
+        "SCORE": 16,
+        "READ_SCORE": 22.0,
+        "authors": [
+            "Michele Paolicelli",
+            "Alessandro Petruzzelli",
+            "Alessandro Franceso Maria Martina",
+            "Cataldo Musto",
+            "Giovanni Semeraro"
+        ],
+        "title": "MoSAR: Mixture of Semantic Attention Regimes for Learning Adaptive and Approximable Attention Geometries",
+        "abstract": "The quadratic complexity of dense self-attention remains a central bottleneck for long-context language modeling. Many efficient alternatives address this cost by deciding in advance where attention should be sparse or local. We argue that attention approximation should instead be approached as a geometric problem, with the relevant interaction geometry learned from data: natural-language dependencies are input-dependent and difficult to prescribe in advance, so the model should learn where positional relevance can decay and where broader interactions must be preserved. We introduce Mixture of Semantic Attention Regimes (MoSAR), which learns such an adaptive, controlled-decay geometry over query--key interactions. Input-conditioned query and key routers, applied after positional encoding, select mixtures over short, medium, and global regimes, inducing a continuous distance-dependent attention field rather than a fixed sparsity pattern. This geometry is learned during training and can subsequently be discretized through top-1 routing. In controlled pre-training experiments with matched 500M-parameter models, MoSAR learns a substantially lower-reach attention geometry without degrading language-modeling quality, improving perplexity over dense RoPE at the training context length. Under length extrapolation, MoSAR achieves the best perplexity among all evaluated variants, including strong baselines such as ALiBi. Moreover, the learned geometry remains stable under deterministic top-1 discretization, suggesting that it is not only adaptive, but also amenable to low-cost approximation at inference time.",
+        "arxiv_id": "2609.31261",
+        "PRIMARY_TOPIC_LABEL": "Architecture and Training Dynamics",
+        "MATCHED_TOPIC_LABELS": [
+            "Architecture and Training Dynamics"
+        ],
+        "TOPIC_ASSIGNMENT_SOURCE": "llm_exact",
+        "HOTSPOT_PAPER_LABELS": [],
+        "HOTSPOT_PAPER_PRIMARY_KIND": null,
+        "HOTSPOT_PAPER_PRIMARY_LABEL": "",
+        "HOTSPOT_PAPER_ASSIGNMENT_SOURCE": "default"
+    },
+    "2609.30342": {
+        "ARXIVID": "2609.30342",
+        "COMMENT": "Factorizes an optimizer's adaptive friction into row and column statistics, reducing state memory while testing pretraining performance against the unfactored optimizer.",
+        "RELEVANCE": 9,
+        "NOVELTY": 6,
+        "EVIDENCE": 7,
+        "LOAD": 7,
+        "PROXIMITY": 9,
+        "PRIMARY_TOPIC_ID": "architecture_training",
+        "MATCHED_TOPIC_IDS": [
+            "architecture_training",
+            "efficiency_scaling"
+        ],
+        "TOPIC_MATCH_COMMENT": "The primary contribution changes optimizer parameterization and dynamics; its reduction in optimizer-state memory also matches training efficiency.",
+        "HOTSPOT_PAPER_TAGS": [],
+        "HOTSPOT_PAPER_COMMENT": "",
+        "SCORE": 15,
+        "READ_SCORE": 21.5,
+        "authors": [
+            "Rajit Rajpal",
+            "Benedict Leimkuhler"
+        ],
+        "title": "Low-Rank Friction for Memory-Efficient Transformer Pretraining",
+        "abstract": "iKFAD is a recently proposed optimiser that replaces adaptive learning rates with adaptive friction in the momentum dynamics, yet performs as well as Adam. Its limitation is that the full friction tensor $\\xi\\in\\mathbb{R}^{m\\times n}$ carries the same $\\mathcal{O}(mn)$ memory overhead per layer as Adam's second-moment buffer. Here we replace iKFAD's friction tensor $\\xi$ with a rank-1 outer-product factorisation built from row and column momentum statistics, resulting in Rank-1 iKFAD (R-iKFAD). This reduces the friction memory footprint from $\\mathcal{O}(mn)$ to $\\mathcal{O}(m+n)$ per layer, which approximately halves iKFAD's total optimiser state. Despite this reduction, R-iKFAD maintains parity in performance with iKFAD: experiments on GPT2-Nano, TinyViT, DistilBERT and GPT2-S confirm that it matches or exceeds iKFAD while nearly halving the memory footprint and remaining comparably robust to hyperparameters. We analyse the continuous-time dynamics in two damping regimes. For linear damping ($\\gamma>0$) we prove exponential convergence under strong convexity. For $\\gamma=0$, the preferred option in our experiments, the friction is generated entirely from past momentum and switches off as the momentum vanishes, so geometric convergence cannot be shown. We nonetheless prove convergence to the minimiser, together with matching upper and lower bounds on the energy: of order $t^{-1}$ when the regularisation scale $\\epsilon_{\\mathrm{stab}}$ is zero, and of order $t^{-1/2}$ when it is positive. To our knowledge this is the first convergence rate for a rank-1 factored optimiser in continuous time, and the first such result that does not require positive damping.",
+        "arxiv_id": "2609.30342",
+        "PRIMARY_TOPIC_LABEL": "Architecture and Training Dynamics",
+        "MATCHED_TOPIC_LABELS": [
+            "Architecture and Training Dynamics",
+            "Efficiency, Compression, and Large-Scale Training"
+        ],
+        "TOPIC_ASSIGNMENT_SOURCE": "llm_exact",
+        "HOTSPOT_PAPER_LABELS": [],
+        "HOTSPOT_PAPER_PRIMARY_KIND": null,
+        "HOTSPOT_PAPER_PRIMARY_LABEL": "",
+        "HOTSPOT_PAPER_ASSIGNMENT_SOURCE": "default"
+    },
+    "2609.30954": {
+        "ARXIVID": "2609.30954",
+        "COMMENT": "Tests first-token language-selection circuits with exact activation patching and model-specific necessity checks.",
+        "RELEVANCE": 8,
+        "NOVELTY": 7,
+        "EVIDENCE": 7,
+        "LOAD": 6,
+        "PROXIMITY": 7,
+        "PRIMARY_TOPIC_ID": "architecture_training",
+        "MATCHED_TOPIC_IDS": [
+            "architecture_training"
+        ],
+        "TOPIC_MATCH_COMMENT": "Analyzes what attention-head circuits compute through causal interventions; failed necessity checks limit the cross-model conclusion.",
+        "HOTSPOT_PAPER_TAGS": [],
+        "HOTSPOT_PAPER_COMMENT": "",
+        "SCORE": 15,
+        "READ_SCORE": 19.0,
+        "authors": [
+            "Arjun Pillai",
+            "Christian Hoang",
+            "Anjelo Laroza"
+        ],
+        "title": "FTB Graph: Determining and Validating First-token Broadcasters and Language-Identity Head Circuits in Multilingual Language Models",
+        "abstract": "Large language models operating in multilingual contexts must resolve target response languages early in generation, yet the causal circuitry governing first-token language identity decisions remains poorly mapped. We present an end-to-end structural circuit analysis across six model architectures spanning four families: GPT-2, BLOOM-560M, Pythia-1B/2.8B, and Qwen2.5-1.5B Base/Instruct. Using Edge Attribution Patching (EAP) with FP16 active clamping, followed by exact activation patching verification with a 2,000-candidate-edge search ceiling, we extract directed acyclic graphs driving first-token language broadcasting. Across the standalone models, we observe deep or mid-to-deep broadcasting hubs, though the evidence is strongest for Pythia-2.8B and BLOOM-560M because GPT-2 and Pythia-1B leave few out-of-graph heads for comparison, while both Qwen2.5-1.5B variants invert the necessity check. Scaling from Pythia-1B to 2.8B expands node participation while maintaining a similar verified edge budget, producing sparser topology. The Qwen2.5-1.5B base and instruct circuits retain 84.7% Jaccard similarity, including the Layer 27 hub, indicating that first-token routing is largely established during pretraining and preserved by instruction tuning. Finally, EAP scores correlate weakly with exact patching deltas across most models, showing that linear gradient approximations can diverge from causal interventions in FP16 and motivating exact-patching verification for reliable circuit discovery.",
+        "arxiv_id": "2609.30954",
+        "PRIMARY_TOPIC_LABEL": "Architecture and Training Dynamics",
+        "MATCHED_TOPIC_LABELS": [
+            "Architecture and Training Dynamics"
+        ],
+        "TOPIC_ASSIGNMENT_SOURCE": "llm_exact",
+        "HOTSPOT_PAPER_LABELS": [],
+        "HOTSPOT_PAPER_PRIMARY_KIND": null,
+        "HOTSPOT_PAPER_PRIMARY_LABEL": "",
+        "HOTSPOT_PAPER_ASSIGNMENT_SOURCE": "default"
+    },
+    "2609.30546": {
+        "ARXIVID": "2609.30546",
+        "COMMENT": "Explains Muon's Newton-Schulz regularization as a bounded preconditioner and derives convergence regimes.",
+        "RELEVANCE": 8,
+        "NOVELTY": 7,
+        "EVIDENCE": 6,
+        "LOAD": 9,
+        "PROXIMITY": 9,
+        "PRIMARY_TOPIC_ID": "architecture_training",
+        "MATCHED_TOPIC_IDS": [
+            "architecture_training"
+        ],
+        "TOPIC_MATCH_COMMENT": "Directly analyzes an optimizer's implemented mechanism and motivates a Nesterov variant; practical language-model training evidence remains preliminary.",
+        "HOTSPOT_PAPER_TAGS": [],
+        "HOTSPOT_PAPER_COMMENT": "",
+        "SCORE": 15,
+        "READ_SCORE": 18.5,
+        "authors": [
+            "Arthur C. B. de Oliveira",
+            "Dhruv D. Jatkar",
+            "Guilherme S. Vicinansa",
+            "Eduardo D. Sontag"
+        ],
+        "title": "Convergence guarantees for Muon: New parameter regimes and generalizations",
+        "abstract": "In this paper, we establish the first asymptotic convergence guarantees for the Muon algorithm through a more accurate proxy for the Newton-Schultz iteration than the typical matrix sign function. We prove that, for appropriate choices of hyperparameters, the iterates satisfy $\\lim_{k\\to\\infty}\\|\\nabla f(x_k)\\|=0$, and, under a global Polyak-\\L{}ojasiewicz condition, that the sequence of function values converges linearly. The key insight is that the regularization, implicit in Muon's Newton-Schulz implementation, induces a bounded preconditioner, exposing Muon as a \\emph{preconditioned Polyak heavy-ball} method and enabling a classical Lyapunov analysis. This observation naturally motivates applying the same preconditioning structure to the Nesterov gradient evaluation. We formalize this idea by introducing \\emph{Muesterov}, a Nesterov-based variant of Muon, and prove that it enjoys the same convergence guarantees, extending the theoretical framework beyond the heavy-ball setting. Numerical experiments on a scalar cross-entropy problem corroborate the theory and illuminate the joint role of the learning rate and the Newton-Schulz regularizer in controlling convergence. Preliminary numerical simulations training the nanoGPT dataset provide intuition regarding the relevance of the observations in this paper to practical applications.",
+        "arxiv_id": "2609.30546",
+        "PRIMARY_TOPIC_LABEL": "Architecture and Training Dynamics",
+        "MATCHED_TOPIC_LABELS": [
+            "Architecture and Training Dynamics"
+        ],
+        "TOPIC_ASSIGNMENT_SOURCE": "llm_exact",
+        "HOTSPOT_PAPER_LABELS": [],
+        "HOTSPOT_PAPER_PRIMARY_KIND": null,
+        "HOTSPOT_PAPER_PRIMARY_LABEL": "",
+        "HOTSPOT_PAPER_ASSIGNMENT_SOURCE": "default"
+    },
+    "2609.31401": {
+        "ARXIVID": "2609.31401",
+        "COMMENT": "Tracks changes in decodable state and steering efficacy across pretraining, comparing final-state decoders with candidate-logit decoders.",
+        "RELEVANCE": 7,
+        "NOVELTY": 6,
+        "EVIDENCE": 7,
+        "LOAD": 6,
+        "PROXIMITY": 7,
+        "PRIMARY_TOPIC_ID": "architecture_training",
+        "MATCHED_TOPIC_IDS": [
+            "architecture_training"
+        ],
+        "TOPIC_MATCH_COMMENT": "Checkpoint comparisons connect representation development to output behavior, although the causal source of changing steering efficacy remains unresolved.",
+        "HOTSPOT_PAPER_TAGS": [],
+        "HOTSPOT_PAPER_COMMENT": "",
+        "SCORE": 13,
+        "READ_SCORE": 18.0,
+        "authors": [
+            "Manas Venkata Sai Ravulapalli",
+            "Samrath Singh Chadha"
+        ],
+        "title": "Decodable In-Context State and Model Output Across Training",
+        "abstract": "Prior work established that a probe can decode an in-context binding on model errors and that probe-guided steering can repair some of them. We follow probe accuracy, model output, and steering response across public pretraining and post-training checkpoints. Probe accuracy rises during Pythia pretraining, while probe-guided steering moves from negligible all-trial benefit to a larger benefit at two model sizes. Saved scores distinguish probe-correct errors with low and above-uniform model probability for the correct candidate. Oracle-target steering already repairs many early errors, but saved aggregates cannot separate target quality from intervention sensitivity. A held-out comparison of decoders trained on the final state or candidate logits finds no detected final-state advantage on late-checkpoint model errors. An information-theoretic counterexample explains why decodability on errors alone cannot establish discarded output information. The connection to downstream omissions remains open.",
+        "arxiv_id": "2609.31401",
+        "PRIMARY_TOPIC_LABEL": "Architecture and Training Dynamics",
+        "MATCHED_TOPIC_LABELS": [
+            "Architecture and Training Dynamics"
+        ],
+        "TOPIC_ASSIGNMENT_SOURCE": "llm_exact",
+        "HOTSPOT_PAPER_LABELS": [],
+        "HOTSPOT_PAPER_PRIMARY_KIND": null,
+        "HOTSPOT_PAPER_PRIMARY_LABEL": "",
+        "HOTSPOT_PAPER_ASSIGNMENT_SOURCE": "default"
+    },
+    "2609.30290": {
+        "ARXIVID": "2609.30290",
+        "COMMENT": "Audits deployed-judge agreement against human annotations, exposing systematic over-flagging and near-chance agreement on the enriched sample.",
+        "RELEVANCE": 8,
+        "NOVELTY": 6,
+        "EVIDENCE": 8,
+        "LOAD": 3,
+        "PROXIMITY": 3,
+        "PRIMARY_TOPIC_ID": "architecture_training",
+        "MATCHED_TOPIC_IDS": [
+            "architecture_training"
+        ],
+        "TOPIC_MATCH_COMMENT": "Retained under the explicit judge-reliability audit exception. The registry lacks an audit category, so architecture_training is the nearest available label.",
+        "HOTSPOT_PAPER_TAGS": [],
+        "HOTSPOT_PAPER_COMMENT": "",
+        "SCORE": 14,
+        "READ_SCORE": 17.5,
+        "authors": [
+            "Haowei Liu",
+            "Hsin-Tai Wu",
+            "Yi Fang"
+        ],
+        "title": "Auditing and Repairing LLM-as-Judge Failures in a Production Text-to-SQL Pipeline",
+        "abstract": "Production text-to-SQL pipelines often end with an LLM-as-judge whose agreement with human annotators has never actually been measured. When we checked ours, the deployed gpt-4o-mini judge agreed with two-author gold at only Cohen's kappa = 0.04 on a disagreement-enriched set and 0.42 on a uniform-random spot-check, over-flagging 77.1% of the human-FAITHFUL cases in the enriched set. Most of its over-flags trace back to a single mechanism we call GRADE-HALLUCINATION. A self-hosted Qwen3.6-27B replacement (kappa = 0.72) lands in the same range as Claude Opus 4.7 (kappa = 0.71); the head-to-head is underpowered at n = 96, but for the deployment decision that hardly matters, since Qwen costs roughly 1/300 as much per call. Ensembling does not help for free. Pairing the weak judge with a stronger one degrades agreement, whereas three strong judges under unanimity routing reach kappa = 0.79 at 89.7% auto-coverage. Applied out-of-domain, the same audit recipe flags 25.5% of BIRD-financial's expert-authored gold SQLs as candidate gold-SQL issues under our annotation protocol. Code and pre-registration are at https://github.com/JamesL404/synca-audit.",
+        "arxiv_id": "2609.30290",
+        "PRIMARY_TOPIC_LABEL": "Architecture and Training Dynamics",
+        "MATCHED_TOPIC_LABELS": [
+            "Architecture and Training Dynamics"
+        ],
+        "TOPIC_ASSIGNMENT_SOURCE": "llm_exact",
+        "HOTSPOT_PAPER_LABELS": [],
+        "HOTSPOT_PAPER_PRIMARY_KIND": null,
+        "HOTSPOT_PAPER_PRIMARY_LABEL": "",
+        "HOTSPOT_PAPER_ASSIGNMENT_SOURCE": "default"
+    },
+    "2609.30328": {
+        "ARXIVID": "2609.30328",
+        "COMMENT": "Audits LLM-as-judge reliability by measuring whether a code-verification pipeline has evidence that distinguishes candidates.",
+        "RELEVANCE": 8,
+        "NOVELTY": 7,
+        "EVIDENCE": 8,
+        "LOAD": 4,
+        "PROXIMITY": 3,
+        "PRIMARY_TOPIC_ID": "architecture_training",
+        "MATCHED_TOPIC_IDS": [
+            "architecture_training"
+        ],
+        "TOPIC_MATCH_COMMENT": "Qualifies through the explicit judge-reliability audit exception; architecture_training is a required fallback because the registry has no audit topic.",
+        "HOTSPOT_PAPER_TAGS": [],
+        "HOTSPOT_PAPER_COMMENT": "",
+        "SCORE": 15,
+        "READ_SCORE": 17.0,
+        "authors": [
+            "Salma Roshdy Aly",
+            "Hussein Assaf",
+            "Ziad Kobti"
+        ],
+        "title": "When Is a Multi-Agent Code Judge Actually Grounded? Two Label-Free Measurements, and a Judge That Declines to Guess",
+        "abstract": "When one language model judges whether another's code is correct, it does not report the absence of evidence. It returns a confident verdict with reasoning attached, indistinguishable from a verdict it had grounds for. Multi-agent verification, which decomposes a judgment into checkable claims and verifies each against evidence, is a promising response and works well when the evidence is a set of retrieved documents.   We argue such methods require two things of their evidence: it must be independent of the answer under review, and it must differ between the two candidates being compared. The second condition holds automatically with retrieved documents and stops holding in code judging.   Running MARCH, a published framework unmodified over 80 condition-by-cell measurements on two code judging benchmarks, we find it declares both solutions equally good on 78 to 95% of comparisons, reaching 4.4% accuracy where the same model asked directly reaches 43.7%. Neither easier problems nor a larger judge changes this. Two measurements taken from the pipeline's own logs explain it without needing labels.   Gating on one of them, the pipeline declines the comparisons it cannot make and raises its accuracy from 20.7 to 36.9% while still answering half of all comparisons. The contribution is not a more accurate judge, but a label-free way to tell when a judge has no basis for its answer.",
+        "arxiv_id": "2609.30328",
+        "PRIMARY_TOPIC_LABEL": "Architecture and Training Dynamics",
+        "MATCHED_TOPIC_LABELS": [
+            "Architecture and Training Dynamics"
+        ],
+        "TOPIC_ASSIGNMENT_SOURCE": "llm_exact",
+        "HOTSPOT_PAPER_LABELS": [],
+        "HOTSPOT_PAPER_PRIMARY_KIND": null,
+        "HOTSPOT_PAPER_PRIMARY_LABEL": "",
+        "HOTSPOT_PAPER_ASSIGNMENT_SOURCE": "default"
+    },
+    "2609.31215": {
+        "ARXIVID": "2609.31215",
+        "COMMENT": "Separates LLM-judge position bias from disagreement with human preferences using paired-order judgments.",
+        "RELEVANCE": 8,
+        "NOVELTY": 7,
+        "EVIDENCE": 8,
+        "LOAD": 8,
+        "PROXIMITY": 3,
+        "PRIMARY_TOPIC_ID": "architecture_training",
+        "MATCHED_TOPIC_IDS": [
+            "architecture_training"
+        ],
+        "TOPIC_MATCH_COMMENT": "Qualifies under the explicit LLM-judge reliability exception; architecture_training is a required registry fallback because evaluation validity has no topic ID.",
+        "HOTSPOT_PAPER_TAGS": [],
+        "HOTSPOT_PAPER_COMMENT": "",
+        "SCORE": 15,
+        "READ_SCORE": 15.0,
+        "authors": [
+            "Zesheng Cai",
+            "Yingqi Fan",
+            "Sichang Chen",
+            "Jin-Hong Du"
+        ],
+        "title": "DIAL: Position-Debiased LLM Judges with Adaptive Human Preference Calibration",
+        "abstract": "Large language models (LLMs) as a judge enable scalable evaluation, but their judgments can be sensitive to response order and, even after removing such position effects, can still diverge systematically from human preferences.We introduce DIAL, a unified framework that combines abundant LLM comparisons with limited human comparisons to separate judge-specific position effects, learn shared structure in position-debiased LLM preferences, and adaptively calibrate that structure toward the human preference target. Theoretically, we study three aspects of DIAL: (i) identification of latent LLM preferences, position effects, and human calibration; (ii) adaptive estimation that balances LLM anchoring against limited human evidence; and (iii) fixed-weight uncertainty quantification for the calibrated human preference. Empirically, we evaluate position debiasing and human alignment separately in controlled simulations and on three human-preference benchmarks, showing that DIAL remains robust to unbalanced response order, achieves strong human-aligned rankings with limited labels, and adapts toward human evidence when LLM information is imperfect. Our real-data study collects over 410K judgments from 21 LLM judges in both display orders, providing a resource for future studies of LLM-judge bias, heterogeneity, and human alignment.",
+        "arxiv_id": "2609.31215",
+        "PRIMARY_TOPIC_LABEL": "Architecture and Training Dynamics",
+        "MATCHED_TOPIC_LABELS": [
+            "Architecture and Training Dynamics"
+        ],
+        "TOPIC_ASSIGNMENT_SOURCE": "llm_exact",
+        "HOTSPOT_PAPER_LABELS": [],
+        "HOTSPOT_PAPER_PRIMARY_KIND": null,
+        "HOTSPOT_PAPER_PRIMARY_LABEL": "",
+        "HOTSPOT_PAPER_ASSIGNMENT_SOURCE": "default"
+    },
+    "2609.30471": {
+        "ARXIVID": "2609.30471",
+        "COMMENT": "Uses entity-swap and rubric-swap controls to expose invalid judge penalties caused by mismatched reference instances.",
+        "RELEVANCE": 7,
+        "NOVELTY": 6,
+        "EVIDENCE": 7,
+        "LOAD": 5,
+        "PROXIMITY": 3,
+        "PRIMARY_TOPIC_ID": "architecture_training",
+        "MATCHED_TOPIC_IDS": [
+            "architecture_training"
+        ],
+        "TOPIC_MATCH_COMMENT": "The controlled judge-failure audit fits the explicit reliability exception, despite the accompanying benchmark proposal. architecture_training is the nearest available registry label.",
+        "HOTSPOT_PAPER_TAGS": [],
+        "HOTSPOT_PAPER_COMMENT": "",
+        "SCORE": 13,
+        "READ_SCORE": 14.5,
+        "authors": [
+            "Mukul Chhabra",
+            "Shail Patel",
+            "Luigi Medrano"
+        ],
+        "title": "CARGO: Context-Aware Retrieval-Gated Evaluation of Agentic AI in Production",
+        "abstract": "Reference-based LLM-as-a-judge evaluation assumes the reference answer is the target. In deployed agentic systems that operate over dynamic entities (support cases, assets, accounts), the closest available reference typically applies the correct procedure to a different entity, so a literal judge penalizes different identifiers, dates, and statuses as errors or hallucinations. We name this failure mode reference-instance divergence (RID). We propose CARGO, a framework that (i) treats retrieved references as procedural exemplars and grounds factual judgments in the live instance's observed context, (ii) assigns each claim a three-way status (supported, contradicted, unverifiable) and penalizes only contradictions, and (iii) gates evaluation by retrieval confidence, casting production evaluation as selective prediction. We introduce CARGO-Bench, a perturbation-based diagnostic suite with ground truth by construction that separates leniency from discrimination. On CARGO-Bench (246 items, two judge models, 7,872 judgments), the standard reference-based judge penalizes 100% of correct entity-transplanted answers and is uninformative (discrimination index DI ~ 0); supplying the live facts without reframing changes nothing. CARGO eliminates these false penalties (0/50) while retaining near-complete contradiction recall (50/50 and 49/50), raising DI to 0.58 [0.48, 0.68]; a rubric-swap control attributes most of the effect to context-grounded dimension definitions. CARGO also exposes a limitation of its own design: the leniency that protects entity values suppresses detection of procedural corruptions (20% recall). A post-hoc fix does not close the gap, and an LLM-as-annotator study with written guidelines and adjudication shows the same blind spot. We release a preregistered protocol for extending the evaluation to expert agreement, risk-coverage, and cost on production traffic.",
+        "arxiv_id": "2609.30471",
+        "PRIMARY_TOPIC_LABEL": "Architecture and Training Dynamics",
+        "MATCHED_TOPIC_LABELS": [
+            "Architecture and Training Dynamics"
+        ],
+        "TOPIC_ASSIGNMENT_SOURCE": "llm_exact",
+        "HOTSPOT_PAPER_LABELS": [],
+        "HOTSPOT_PAPER_PRIMARY_KIND": null,
+        "HOTSPOT_PAPER_PRIMARY_LABEL": "",
+        "HOTSPOT_PAPER_ASSIGNMENT_SOURCE": "default"
+    },
+    "2609.31184": {
+        "ARXIVID": "2609.31184",
+        "COMMENT": "Corrects position, verbosity and judge-specific biases in LLM-as-judge rankings.",
+        "RELEVANCE": 8,
+        "NOVELTY": 6,
+        "EVIDENCE": 5,
+        "LOAD": 7,
+        "PROXIMITY": 4,
+        "PRIMARY_TOPIC_ID": "efficiency_scaling",
+        "MATCHED_TOPIC_IDS": [
+            "efficiency_scaling"
+        ],
+        "TOPIC_MATCH_COMMENT": "Kept through the explicit judge-reliability exception. Comparison efficiency supplies the closest required registry label; the abstract names no empirical validation setting.",
+        "HOTSPOT_PAPER_TAGS": [],
+        "HOTSPOT_PAPER_COMMENT": "",
+        "SCORE": 14,
+        "READ_SCORE": 13.5,
+        "authors": [
+            "Harshita Katoch",
+            "David Antony Selby",
+            "Gerrit Gro{\\ss}mann",
+            "Sebastian Vollmer"
+        ],
+        "title": "Accounting for Bias Enables Sustainable LLM Evaluation",
+        "abstract": "LLM-as-a-judge has become the de facto standard for scalable, subjective evaluation, yet current leaderboards compensate for systematic measurement bias by running ever more comparisons, an approach that is both statistically unsound and computationally wasteful. The root cause is an incomplete measurement model, treating LLM judges as neutral, interchangeable instruments ignores documented biases like position bias, verbosity bias, judge severity, and self-enhancement, that no volume of additional data can eliminate. We propose a unified latent variable framework that jointly models pairwise and ordinal data while explicitly correcting for these confounders, recovering reliable rankings from substantially fewer comparisons. Because fitting this model costs negligible compute relative to a single round of LLM inference, bias correction is not only more statistically rigorous but also a more sustainable approach to trustworthy evaluation.",
+        "arxiv_id": "2609.31184",
+        "PRIMARY_TOPIC_LABEL": "Efficiency, Compression, and Large-Scale Training",
+        "MATCHED_TOPIC_LABELS": [
+            "Efficiency, Compression, and Large-Scale Training"
+        ],
+        "TOPIC_ASSIGNMENT_SOURCE": "llm_exact",
+        "HOTSPOT_PAPER_LABELS": [],
+        "HOTSPOT_PAPER_PRIMARY_KIND": null,
+        "HOTSPOT_PAPER_PRIMARY_LABEL": "",
+        "HOTSPOT_PAPER_ASSIGNMENT_SOURCE": "default"
+    }
+}
