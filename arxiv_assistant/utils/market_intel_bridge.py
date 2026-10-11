@@ -34,7 +34,6 @@ def _candidate_domains_dirs(explicit: str | None) -> list[Path]:
         roots.append(env)
     home = Path.home()
     roots.append(str(home / ".claude" / "skills" / "market-intel"))
-    roots.append(str(home / "CodesSelf" / "market-intel"))
     return [Path(r).expanduser() for r in roots if r]
 
 
